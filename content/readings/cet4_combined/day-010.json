@@ -9,8 +9,8 @@
       "title": "The Physician's Disguise",
       "type": "story",
       "difficulty": "CET-4+",
-      "text": "An exhausted physician boarded an overnight train after attending a distant funeral. Across the aisle, a man in a poor disguise kept watching a report about a wanted criminal. When the train stopped suddenly, the man's injured ankle caused him to cry out. The physician treated him but quietly asked a guard to check his name. Faced with the evidence, the passenger chose to confess before they reached the next station.",
-      "translation": "一位疲惫的医生参加远方葬礼后登上了夜班列车。过道对面，一个伪装拙劣的男人一直盯着一则通缉犯报道。火车突然停下时，男人受伤的脚踝让他叫出声来。医生为他处理伤势，同时悄悄请乘警核查他的姓名。面对证据，这名乘客在抵达下一站前选择认罪。",
+      "text": "An exhausted physician boarded an overnight train after attending a distant funeral. Across the aisle, a man in a poor disguise kept watching a report about a wanted criminal. When the train stopped suddenly, the man's injured ankle caused him to cry out. The physician treated him but quietly asked a guard to check his name. Faced with the evidence, the passenger chose to confess before they reached the next station. A vivid steamer tattoo above the injured ankle gave the guard another clue, although he refused to guess before checking and used a screen as a shield.",
+      "translation": "一位疲惫的医生参加远方葬礼后登上了夜班列车。过道对面，一个伪装拙劣的男人一直盯着一则通缉犯报道。火车突然停下时，男人受伤的脚踝让他叫出声来。医生为他处理伤势，同时悄悄请乘警核查他的姓名。面对证据，这名乘客在抵达下一站前选择认罪。受伤脚踝上方鲜明的轮船纹身给乘警提供了另一条线索，但他在核实前拒绝猜测，并用屏风遮挡。",
       "sentences": [
         {
           "en": "An exhausted physician boarded an overnight train after attending a distant funeral.",
@@ -31,6 +31,10 @@
         {
           "en": "Faced with the evidence, the passenger chose to confess before they reached the next station.",
           "zh": "面对证据，这名乘客在抵达下一站前选择认罪。"
+        },
+        {
+          "en": "A vivid steamer tattoo above the injured ankle gave the guard another clue, although he refused to guess before checking and used a screen as a shield.",
+          "zh": "受伤脚踝上方鲜明的轮船纹身给乘警提供了另一条线索，但他在核实前拒绝猜测，并用屏风遮挡。"
         }
       ],
       "target_words": [
@@ -57,6 +61,26 @@
         {
           "word": "confess",
           "meaning": "v. 供认,承认,坦白,忏悔"
+        },
+        {
+          "word": "steamer",
+          "meaning": "n. 蒸笼,汽锅,汽船,轮船"
+        },
+        {
+          "word": "ankle",
+          "meaning": "n. 足踝,踝关节"
+        },
+        {
+          "word": "shield",
+          "meaning": "n. 盾,保护者,保护物;v. 保护,庇护"
+        },
+        {
+          "word": "guess",
+          "meaning": "v./n. 猜测,推测;以为;猜想"
+        },
+        {
+          "word": "vivid",
+          "meaning": "a. 鲜艳的;活泼的,有生气的;清晰的"
         }
       ],
       "questions": [
@@ -77,8 +101,8 @@
       "title": "Why Food Turns Rotten",
       "type": "explanatory",
       "difficulty": "CET-4+",
-      "text": "Fresh produce continues to breathe and change after farmers pick it. As fruit becomes mature, natural enzymes soften its structure and release sweeter smells. Microbes use the same food, and each new generation increases quickly in warm conditions. Cool, dry storage slows both processes but cannot stop them forever. Regular inspection removes rotten items before mold and bacteria spread to nearby food.",
-      "translation": "新鲜农产品在采摘后仍会呼吸并发生变化。水果成熟时，天然酶会软化其结构并释放更甜的气味。微生物也利用这些食物，并在温暖环境中一代代迅速增加。阴凉干燥的储存会减慢这两个过程，却无法永远阻止。定期检查可以在霉菌和细菌扩散到附近食物前清除腐烂物品。",
+      "text": "Fresh produce continues to breathe and change after farmers pick it. As fruit becomes mature, natural enzymes soften its structure and release sweeter smells. Microbes use the same food, and each new generation increases quickly in warm conditions. Cool, dry storage slows both processes but cannot stop them forever. Regular inspection removes rotten items before mold and bacteria spread to nearby food. A northern grocer may chop fruit from a distant farm, but clear origin labels still help buyers judge how long it has travelled.",
+      "translation": "新鲜农产品在采摘后仍会呼吸并发生变化。水果成熟时，天然酶会软化其结构并释放更甜的气味。微生物也利用这些食物，并在温暖环境中一代代迅速增加。阴凉干燥的储存会减慢这两个过程，却无法永远阻止。定期检查可以在霉菌和细菌扩散到附近食物前清除腐烂物品。北方杂货商可能切开来自远方农场的水果，但清晰产地标签仍能帮助买家判断运输时间。",
       "sentences": [
         {
           "en": "Fresh produce continues to breathe and change after farmers pick it.",
@@ -99,6 +123,10 @@
         {
           "en": "Regular inspection removes rotten items before mold and bacteria spread to nearby food.",
           "zh": "定期检查可以在霉菌和细菌扩散到附近食物前清除腐烂物品。"
+        },
+        {
+          "en": "A northern grocer may chop fruit from a distant farm, but clear origin labels still help buyers judge how long it has travelled.",
+          "zh": "北方杂货商可能切开来自远方农场的水果，但清晰产地标签仍能帮助买家判断运输时间。"
         }
       ],
       "target_words": [
@@ -125,6 +153,26 @@
         {
           "word": "regular",
           "meaning": "a. 有规律的;整齐的,匀称的,正规的,正式的"
+        },
+        {
+          "word": "grocer",
+          "meaning": "n. 食品商,杂货商"
+        },
+        {
+          "word": "chop",
+          "meaning": "n./v. 砍,劈,剁"
+        },
+        {
+          "word": "origin",
+          "meaning": "n. 起源,由来;出身,来历"
+        },
+        {
+          "word": "farm",
+          "meaning": "n. 农场,饲养场v. 种田,经营农牧业"
+        },
+        {
+          "word": "northern",
+          "meaning": "a. 北方的,北部的"
         }
       ],
       "questions": [
@@ -145,8 +193,8 @@
       "title": "Outdoor Displays Need Restraint",
       "type": "opinion",
       "difficulty": "CET-4+",
-      "text": "Large screens outdoors can display public art, travel information, and emergency messages. They can also flash advertisements so brightly that drivers lose focus and nearby residents cannot sleep. Cities should enforce limits on brightness and movement after dark. Owners may argue that such rules bother business, but visual disorder imposes a cost on everyone. Clear standards can preserve useful displays while protecting streets from becoming constant advertisements.",
-      "translation": "户外大屏可以展示公共艺术、出行信息和紧急消息。它们也可能播放过亮广告，使司机分心并打扰附近居民睡眠。城市应执行夜间亮度和画面运动限制。业主可能认为这些规定妨碍经营，但视觉混乱会让所有人付出代价。清晰标准既能保留有用的显示屏，也能防止街道变成持续不断的广告。",
+      "text": "Large screens outdoors can display public art, travel information, and emergency messages. They can also flash advertisements so brightly that drivers lose focus and nearby residents cannot sleep. Cities should enforce limits on brightness and movement after dark. Owners may argue that such rules bother business, but visual disorder imposes a cost on everyone. Clear standards can preserve useful displays while protecting streets from becoming constant advertisements. A rule that limits motion to fifteen seconds and requires keyboard control would print clearly on permits, but it is only a starting point, not a magic ball.",
+      "translation": "户外大屏可以展示公共艺术、出行信息和紧急消息。它们也可能播放过亮广告，使司机分心并打扰附近居民睡眠。城市应执行夜间亮度和画面运动限制。业主可能认为这些规定妨碍经营，但视觉混乱会让所有人付出代价。清晰标准既能保留有用的显示屏，也能防止街道变成持续不断的广告。把动态限制在十五秒并要求键盘控制的规则可以清楚写入许可，但这只是起点，不是魔法球。",
       "sentences": [
         {
           "en": "Large screens outdoors can display public art, travel information, and emergency messages.",
@@ -167,6 +215,10 @@
         {
           "en": "Clear standards can preserve useful displays while protecting streets from becoming constant advertisements.",
           "zh": "清晰标准既能保留有用的显示屏，也能防止街道变成持续不断的广告。"
+        },
+        {
+          "en": "A rule that limits motion to fifteen seconds and requires keyboard control would print clearly on permits, but it is only a starting point, not a magic ball.",
+          "zh": "把动态限制在十五秒并要求键盘控制的规则可以清楚写入许可，但这只是起点，不是魔法球。"
         }
       ],
       "target_words": [
@@ -193,6 +245,26 @@
         {
           "word": "disorder",
           "meaning": "n./vt. 混乱,骚动,(身心)失调"
+        },
+        {
+          "word": "keyboard",
+          "meaning": "n. 键盘vt. 用键盘输入(信息)"
+        },
+        {
+          "word": "print",
+          "meaning": "n. 印刷,印刷品,字体v. 印刷,出版;洗印"
+        },
+        {
+          "word": "fifteen",
+          "meaning": "num. 十五pron./a. 十五(个,只...)"
+        },
+        {
+          "word": "ball",
+          "meaning": "n. 球(状物);(正式的)舞会vt. 把...捏成球状"
+        },
+        {
+          "word": "only",
+          "meaning": "ad. 仅仅,只不过a. 唯一的conj. 可是,不过"
         }
       ],
       "questions": [

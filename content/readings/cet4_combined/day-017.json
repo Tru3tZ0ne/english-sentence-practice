@@ -9,8 +9,8 @@
       "title": "The Pear beside the Graph",
       "type": "story",
       "difficulty": "CET-4+",
-      "text": "Niko placed a pear beside his graph during a school presentation about lunch waste. His classmate had recorded how much fruit, bread, and dairy food pupils discarded each day. Together they used the weekly figures to calculate how many meals the waste could equal. Afterward, children carried uneaten whole fruit to a shared basket near the playground. The lonely pear disappeared first, taken by a hungry student after football practice.",
-      "translation": "尼科在介绍午餐浪费的学校演讲中，把一只梨放在图表旁。他的同学记录了学生每天丢弃多少水果、面包和乳制品。他们用每周数据计算这些浪费相当于多少顿饭。之后，孩子们把未吃的完整水果放到操场旁的共享篮子。那只孤零零的梨最先消失，被足球训练后一名饥饿的学生拿走了。",
+      "text": "Niko placed a pear beside his graph during a school presentation about lunch waste. His classmate had recorded how much fruit, bread, and dairy food pupils discarded each day. Together they used the weekly figures to calculate how many meals the waste could equal. Afterward, children carried uneaten whole fruit to a shared basket near the playground. The lonely pear disappeared first, taken by a hungry student after football practice. A ninth pupil balanced an egg on his knee, happy to contribute one unexpected piece of data about careful eating.",
+      "translation": "尼科在介绍午餐浪费的学校演讲中，把一只梨放在图表旁。他的同学记录了学生每天丢弃多少水果、面包和乳制品。他们用每周数据计算这些浪费相当于多少顿饭。之后，孩子们把未吃的完整水果放到操场旁的共享篮子。那只孤零零的梨最先消失，被足球训练后一名饥饿的学生拿走了。第九名学生把鸡蛋放在膝上，很高兴为谨慎饮食贡献一项意外数据。",
       "sentences": [
         {
           "en": "Niko placed a pear beside his graph during a school presentation about lunch waste.",
@@ -31,6 +31,10 @@
         {
           "en": "The lonely pear disappeared first, taken by a hungry student after football practice.",
           "zh": "那只孤零零的梨最先消失，被足球训练后一名饥饿的学生拿走了。"
+        },
+        {
+          "en": "A ninth pupil balanced an egg on his knee, happy to contribute one unexpected piece of data about careful eating.",
+          "zh": "第九名学生把鸡蛋放在膝上，很高兴为谨慎饮食贡献一项意外数据。"
         }
       ],
       "target_words": [
@@ -57,6 +61,26 @@
         {
           "word": "pear",
           "meaning": "n. 梨子,梨树"
+        },
+        {
+          "word": "egg",
+          "meaning": "n. 蛋,卵,卵形物"
+        },
+        {
+          "word": "ninth",
+          "meaning": "num.第九;九分之一"
+        },
+        {
+          "word": "knee",
+          "meaning": "n. 膝,膝盖"
+        },
+        {
+          "word": "happy",
+          "meaning": "a. 快乐的,幸福的;乐意的;令人满意的"
+        },
+        {
+          "word": "piece",
+          "meaning": "n. (一)件/片/篇;碎片v. (together)拼合,拼凑"
         }
       ],
       "questions": [
@@ -77,8 +101,8 @@
       "title": "Why Copper Carries Current",
       "type": "explanatory",
       "difficulty": "CET-4+",
-      "text": "Copper contains electrons that can move easily when voltage creates an electrical push. Their route through a wire is not perfectly smooth because atoms vibrate and resist the flow. That resistance produces heat, a form of radiation that must be controlled in powerful equipment. Some cables include insulation and cooling around the copper core. Engineers may send a brief pulse through a damaged line and measure its return to locate a mechanical break.",
-      "translation": "铜含有在电压推动下能够轻易移动的电子。电子穿过导线的路径并非完全顺畅，因为原子振动会阻碍流动。这种电阻会产生热量，即一种在大功率设备中必须控制的辐射。一些电缆在铜芯周围加入绝缘层和冷却结构。工程师可以向损坏线路发送短脉冲并测量其返回，以定位机械断点。",
+      "text": "Copper contains electrons that can move easily when voltage creates an electrical push. Their route through a wire is not perfectly smooth because atoms vibrate and resist the flow. That resistance produces heat, a form of radiation that must be controlled in powerful equipment. Some cables include insulation and cooling around the copper core. Engineers may send a brief pulse through a damaged line and measure its return to locate a mechanical break. To obtain a reliable figure, a swift test compares the damaged cable with its former state until the break becomes evident.",
+      "translation": "铜含有在电压推动下能够轻易移动的电子。电子穿过导线的路径并非完全顺畅，因为原子振动会阻碍流动。这种电阻会产生热量，即一种在大功率设备中必须控制的辐射。一些电缆在铜芯周围加入绝缘层和冷却结构。工程师可以向损坏线路发送短脉冲并测量其返回，以定位机械断点。为获得可靠数值，快速测试会把损坏电缆与原状态比较，直到断点清晰可见。",
       "sentences": [
         {
           "en": "Copper contains electrons that can move easily when voltage creates an electrical push.",
@@ -99,6 +123,10 @@
         {
           "en": "Engineers may send a brief pulse through a damaged line and measure its return to locate a mechanical break.",
           "zh": "工程师可以向损坏线路发送短脉冲并测量其返回，以定位机械断点。"
+        },
+        {
+          "en": "To obtain a reliable figure, a swift test compares the damaged cable with its former state until the break becomes evident.",
+          "zh": "为获得可靠数值，快速测试会把损坏电缆与原状态比较，直到断点清晰可见。"
         }
       ],
       "target_words": [
@@ -125,6 +153,26 @@
         {
           "word": "route",
           "meaning": "n. 路线,路程"
+        },
+        {
+          "word": "figure",
+          "meaning": "n. 体形;轮廓;数字;图形v. 描绘;计算;推测"
+        },
+        {
+          "word": "obtain",
+          "meaning": "v. 获得,得到"
+        },
+        {
+          "word": "swift",
+          "meaning": "a. 快的,迅速的,敏捷的"
+        },
+        {
+          "word": "evident",
+          "meaning": "a. 明显的,明白的"
+        },
+        {
+          "word": "former",
+          "meaning": "a. 以前的,在前的pron. 前者"
         }
       ],
       "questions": [
@@ -145,8 +193,8 @@
       "title": "Sponsors Should Not Control School Sport",
       "type": "opinion",
       "difficulty": "CET-4+",
-      "text": "A business sponsor can pay equipment costs or rent a field that a school could not otherwise afford. Problems begin when the funding scheme turns pupils into permanent advertisements. Every class deserves access, including children whose families never buy the sponsor's products. Schools should remain humble about commercial gifts and publish all conditions attached to them. Like a marriage, a long partnership works only when both sides respect clear boundaries.",
-      "translation": "企业赞助者可以支付器材费用或租用学校无力承担的场地。当资助方案把学生变成永久广告时，问题就出现了。每个班级都应获得参与机会，包括从不购买赞助商产品的家庭。学校应谨慎看待商业赠款，并公开所有附加条件。就像婚姻一样，长期合作只有在双方尊重清晰边界时才能维持。",
+      "text": "A business sponsor can pay equipment costs or rent a field that a school could not otherwise afford. Problems begin when the funding scheme turns pupils into permanent advertisements. Every class deserves access, including children whose families never buy the sponsor's products. Schools should remain humble about commercial gifts and publish all conditions attached to them. Like a marriage, a long partnership works only when both sides respect clear boundaries. A romantic flower logo or a famous cook may attract interest, but honest inquiry should remain the basis of funding.",
+      "translation": "企业赞助者可以支付器材费用或租用学校无力承担的场地。当资助方案把学生变成永久广告时，问题就出现了。每个班级都应获得参与机会，包括从不购买赞助商产品的家庭。学校应谨慎看待商业赠款，并公开所有附加条件。就像婚姻一样，长期合作只有在双方尊重清晰边界时才能维持。浪漫花形标志或名厨可以吸引兴趣，但诚实调查应保持为资助基础。",
       "sentences": [
         {
           "en": "A business sponsor can pay equipment costs or rent a field that a school could not otherwise afford.",
@@ -167,6 +215,10 @@
         {
           "en": "Like a marriage, a long partnership works only when both sides respect clear boundaries.",
           "zh": "就像婚姻一样，长期合作只有在双方尊重清晰边界时才能维持。"
+        },
+        {
+          "en": "A romantic flower logo or a famous cook may attract interest, but honest inquiry should remain the basis of funding.",
+          "zh": "浪漫花形标志或名厨可以吸引兴趣，但诚实调查应保持为资助基础。"
         }
       ],
       "target_words": [
@@ -193,6 +245,26 @@
         {
           "word": "marriage",
           "meaning": "n. 结婚,婚姻;结婚仪式"
+        },
+        {
+          "word": "flower",
+          "meaning": "n. 花;精华,精粹,精英;盛时vi. 开花"
+        },
+        {
+          "word": "romantic",
+          "meaning": "a. 浪漫的,传奇式的;不切实际的,好幻想的"
+        },
+        {
+          "word": "inquiry",
+          "meaning": "n. 询问,打听,调查"
+        },
+        {
+          "word": "cook",
+          "meaning": "n. 厨师v. 烹调,烧煮;纂改(账目),捏造"
+        },
+        {
+          "word": "interest",
+          "meaning": "n. (in)兴趣,重要性;利益v. (in)使发生兴趣"
         }
       ],
       "questions": [

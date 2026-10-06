@@ -8,3 +8,5 @@ data/*.db
 *.spec
 build/
 dist/
+tools/node_modules/
+*.inspect.ndjson

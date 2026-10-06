@@ -9,8 +9,8 @@
       "title": "The Last Book from the Port",
       "type": "story",
       "difficulty": "CET-4+",
-      "text": "After the earthquake, a school secretary went to the port to collect a delayed box of books. One section of the road was closed, so an officer guided her through a freight yard. Her only companion was a driver who knew which bridges had survived the shaking. They reached the warehouse at sunset and found the books dry beneath a torn cover. The next morning, children read together while repairs continued around their classroom.",
-      "translation": "地震后，一位学校秘书前往港口领取一箱延误的书。一段道路被封闭，因此一名工作人员带她穿过货运场。她唯一的同伴是一位知道哪些桥梁经受住震动的司机。他们在日落时到达仓库，发现书本在破损的遮布下仍保持干燥。第二天早上，孩子们一起阅读，而教室周围的维修仍在继续。",
+      "text": "After the earthquake, a school secretary went to the port to collect a delayed box of books. One section of the road was closed, so an officer guided her through a freight yard. Her only companion was a driver who knew which bridges had survived the shaking. They reached the warehouse at sunset and found the books dry beneath a torn cover. The next morning, children read together while repairs continued around their classroom. An officer in uniform advised sightseeing groups to leave the damaged quay, then carried the final book to the school van.",
+      "translation": "地震后，一位学校秘书前往港口领取一箱延误的书。一段道路被封闭，因此一名工作人员带她穿过货运场。她唯一的同伴是一位知道哪些桥梁经受住震动的司机。他们在日落时到达仓库，发现书本在破损的遮布下仍保持干燥。第二天早上，孩子们一起阅读，而教室周围的维修仍在继续。一名穿制服的工作人员劝观光团离开受损码头，随后把最后一本书送到校车上。",
       "sentences": [
         {
           "en": "After the earthquake, a school secretary went to the port to collect a delayed box of books.",
@@ -31,6 +31,10 @@
         {
           "en": "The next morning, children read together while repairs continued around their classroom.",
           "zh": "第二天早上，孩子们一起阅读，而教室周围的维修仍在继续。"
+        },
+        {
+          "en": "An officer in uniform advised sightseeing groups to leave the damaged quay, then carried the final book to the school van.",
+          "zh": "一名穿制服的工作人员劝观光团离开受损码头，随后把最后一本书送到校车上。"
         }
       ],
       "target_words": [
@@ -57,6 +61,26 @@
         {
           "word": "freight",
           "meaning": "n. 货运,货物;vt. 运输"
+        },
+        {
+          "word": "officer",
+          "meaning": "n. 官员,办事员;工作人员;军官"
+        },
+        {
+          "word": "sightseeing",
+          "meaning": "n. 观光;游览"
+        },
+        {
+          "word": "uniform",
+          "meaning": "n. 制服,军服a. 相同的,一律的"
+        },
+        {
+          "word": "book",
+          "meaning": "n. 书,书籍vt. 订(票,座位,房间等),预定"
+        },
+        {
+          "word": "leave",
+          "meaning": "v. 离开;留下,忘带;让,听任;交付n. 许可;假期"
         }
       ],
       "questions": [
@@ -77,8 +101,8 @@
       "title": "How a Simple Circuit Protects a Building",
       "type": "explanatory",
       "difficulty": "CET-4+",
-      "text": "A control-room operator watches a circuit that connects smoke sensors across a large terminal. Each sensor can convert heat or smoke into a small electrical signal. The system uses numbered zones to simplify the search for danger. When two nearby sensors react, doors close automatically to protect passengers from smoke. Regular tests are essential because one broken wire can hide an important warning.",
-      "translation": "控制室操作员监视着连接大型航站楼各处烟雾传感器的电路。每个传感器都能把热量或烟雾转换成微弱的电信号。系统使用编号分区来简化危险位置的查找。当相邻两个传感器作出反应时，门会自动关闭，以保护乘客免受烟雾伤害。定期测试必不可少，因为一根断线就可能掩盖重要警报。",
+      "text": "A control-room operator watches a circuit that connects smoke sensors across a large terminal. Each sensor can convert heat or smoke into a small electrical signal. The system uses numbered zones to simplify the search for danger. When two nearby sensors react, doors close automatically to protect passengers from smoke. Regular tests are essential because one broken wire can hide an important warning. The upgrade will comprise two alarms with a definite relation between them, although no payment can eliminate the need for testing.",
+      "translation": "控制室操作员监视着连接大型航站楼各处烟雾传感器的电路。每个传感器都能把热量或烟雾转换成微弱的电信号。系统使用编号分区来简化危险位置的查找。当相邻两个传感器作出反应时，门会自动关闭，以保护乘客免受烟雾伤害。定期测试必不可少，因为一根断线就可能掩盖重要警报。升级系统将包括两个彼此关系明确的警报器，但再多投入也无法免除测试。",
       "sentences": [
         {
           "en": "A control-room operator watches a circuit that connects smoke sensors across a large terminal.",
@@ -99,6 +123,10 @@
         {
           "en": "Regular tests are essential because one broken wire can hide an important warning.",
           "zh": "定期测试必不可少，因为一根断线就可能掩盖重要警报。"
+        },
+        {
+          "en": "The upgrade will comprise two alarms with a definite relation between them, although no payment can eliminate the need for testing.",
+          "zh": "升级系统将包括两个彼此关系明确的警报器，但再多投入也无法免除测试。"
         }
       ],
       "target_words": [
@@ -125,6 +153,26 @@
         {
           "word": "terminal",
           "meaning": "a. 晚期的,末期的;学期的;末端的,终点的 n. 终点站;航空枢扭"
+        },
+        {
+          "word": "eliminate",
+          "meaning": "vt. 排除,清楚;消灭;淘汰(常指在比赛中打 败团队或个人,使他们不在参加)"
+        },
+        {
+          "word": "payment",
+          "meaning": "n. 支付,付款额"
+        },
+        {
+          "word": "definite",
+          "meaning": "a. 明确的;一定的;意志坚强的,立场坚定的"
+        },
+        {
+          "word": "relation",
+          "meaning": "n. 关系,联系;亲属,亲戚"
+        },
+        {
+          "word": "comprise",
+          "meaning": "vt. 包含,包括"
         }
       ],
       "questions": [
@@ -145,8 +193,8 @@
       "title": "Relief Work Needs Local Knowledge",
       "type": "opinion",
       "difficulty": "CET-4+",
-      "text": "An international organization can bring money and equipment to a region damaged by drought. Yet an imported strategy may fail when it ignores local wells, crops, and customs. Residents possess practical knowledge about which natural resources remain available in each season. Outside specialists should present options, then let village groups test and revise them. Relief becomes more durable when technical skill and lived experience guide the same plan.",
-      "translation": "国际组织可以把资金和设备带到遭受干旱的地区。然而，如果外来的策略忽视当地水井、作物和习俗，就可能失败。居民拥有实用知识，知道每个季节还有哪些自然资源可用。外部专家应提出方案，再让村民小组测试并修改。当技术能力和生活经验共同指导一项计划时，救援成果会更加持久。",
+      "text": "An international organization can bring money and equipment to a region damaged by drought. Yet an imported strategy may fail when it ignores local wells, crops, and customs. Residents possess practical knowledge about which natural resources remain available in each season. Outside specialists should present options, then let village groups test and revise them. Relief becomes more durable when technical skill and lived experience guide the same plan. Even an opponent's criticism has virtue when insurance rules increase hardship for families already affected by drought.",
+      "translation": "国际组织可以把资金和设备带到遭受干旱的地区。然而，如果外来的策略忽视当地水井、作物和习俗，就可能失败。居民拥有实用知识，知道每个季节还有哪些自然资源可用。外部专家应提出方案，再让村民小组测试并修改。当技术能力和生活经验共同指导一项计划时，救援成果会更加持久。当保险规定加重受旱家庭的困难时，即使反对者的批评也有价值。",
       "sentences": [
         {
           "en": "An international organization can bring money and equipment to a region damaged by drought.",
@@ -167,6 +215,10 @@
         {
           "en": "Relief becomes more durable when technical skill and lived experience guide the same plan.",
           "zh": "当技术能力和生活经验共同指导一项计划时，救援成果会更加持久。"
+        },
+        {
+          "en": "Even an opponent's criticism has virtue when insurance rules increase hardship for families already affected by drought.",
+          "zh": "当保险规定加重受旱家庭的困难时，即使反对者的批评也有价值。"
         }
       ],
       "target_words": [
@@ -193,6 +245,26 @@
         {
           "word": "strategy",
           "meaning": "n. 战略,策略;对策,政策"
+        },
+        {
+          "word": "criticism",
+          "meaning": "n. 评论性的文章,评论;批评,指责,非难"
+        },
+        {
+          "word": "opponent",
+          "meaning": "n. 对手,反对者,敌手a. 对立的,对抗的"
+        },
+        {
+          "word": "hardship",
+          "meaning": "n. 艰难,困苦"
+        },
+        {
+          "word": "virtue",
+          "meaning": "n. 德行,美德;贞操;优点;功效,效力"
+        },
+        {
+          "word": "insurance",
+          "meaning": "n. 保险"
         }
       ],
       "questions": [

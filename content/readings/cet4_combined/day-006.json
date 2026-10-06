@@ -9,8 +9,8 @@
       "title": "A Thermometer in the Barn",
       "type": "story",
       "difficulty": "CET-4+",
-      "text": "Lina, a village nurse, arrived at a wooden barn where a child was resting after a fall. Her thermometer showed a normal temperature, but the boy complained that his arm felt numb. She used her phone to consult a doctor rather than guess at the injury. While the family waited for transport, a neighbor began to repair the broken gate. Everyone remained hopeful, and an X-ray later confirmed that no bone was broken.",
-      "translation": "乡村护士莉娜来到一座木制谷仓，一个孩子摔倒后正在那里休息。她的温度计显示体温正常，但男孩说手臂发麻。她用电话咨询医生，而没有猜测伤情。家人在等待车辆时，一位邻居开始修理损坏的大门。大家一直抱有希望，后来的X光检查证实没有骨折。",
+      "text": "Lina, a village nurse, arrived at a wooden barn where a child was resting after a fall. Her thermometer showed a normal temperature, but the boy complained that his arm felt numb. She used her phone to consult a doctor rather than guess at the injury. While the family waited for transport, a neighbor began to repair the broken gate. Everyone remained hopeful, and an X-ray later confirmed that no bone was broken. Before departure, a prompt question about pain near the nose helped the doctor rule out a more intimate head injury in that place.",
+      "translation": "乡村护士莉娜来到一座木制谷仓，一个孩子摔倒后正在那里休息。她的温度计显示体温正常，但男孩说手臂发麻。她用电话咨询医生，而没有猜测伤情。家人在等待车辆时，一位邻居开始修理损坏的大门。大家一直抱有希望，后来的X光检查证实没有骨折。出发前，对鼻子附近疼痛的及时询问帮助医生排除了该部位更深层的头部损伤。",
       "sentences": [
         {
           "en": "Lina, a village nurse, arrived at a wooden barn where a child was resting after a fall.",
@@ -31,6 +31,10 @@
         {
           "en": "Everyone remained hopeful, and an X-ray later confirmed that no bone was broken.",
           "zh": "大家一直抱有希望，后来的X光检查证实没有骨折。"
+        },
+        {
+          "en": "Before departure, a prompt question about pain near the nose helped the doctor rule out a more intimate head injury in that place.",
+          "zh": "出发前，对鼻子附近疼痛的及时询问帮助医生排除了该部位更深层的头部损伤。"
         }
       ],
       "target_words": [
@@ -57,6 +61,26 @@
         {
           "word": "wooden",
           "meaning": "a. 木制的;呆笨的"
+        },
+        {
+          "word": "departure",
+          "meaning": "n. 离开,起程"
+        },
+        {
+          "word": "prompt",
+          "meaning": "a. 迅速的,准时的;vt. 敦促;怂恿"
+        },
+        {
+          "word": "nose",
+          "meaning": "n. 鼻子;(飞机,船等的)前端,突出部分"
+        },
+        {
+          "word": "intimate",
+          "meaning": "a. 亲密的,密切的;个人的,私下的; vt. 暗示,宣布,通知"
+        },
+        {
+          "word": "place",
+          "meaning": "n. 地方;名次;地位;寓所v. 安排;放置;投(资)"
         }
       ],
       "questions": [
@@ -77,8 +101,8 @@
       "title": "How Seeds Know When to Grow",
       "type": "explanatory",
       "difficulty": "CET-4+",
-      "text": "A dry seed contains a living plant, but its hard coat keeps the inside protected. Once the soil becomes wet and the light is bright, stored food can transform into usable energy. Signals from each cell's nucleus then guide growth in the root and shoot. The young plant must also obtain every essential element it cannot derive from stored food. Cold, darkness, or poor soil can become a limitation even when enough water is present.",
-      "translation": "干燥种子中含有活的植物胚，但坚硬外壳保护着内部。土壤变湿且光线明亮后，储存的养分就能转化为可用能量。随后，每个细胞核发出的信号引导根和芽的生长。幼苗还必须获取那些无法从储存养分中得到的必需元素。即使水分充足，寒冷、黑暗或贫瘠土壤也可能成为限制因素。",
+      "text": "A dry seed contains a living plant, but its hard coat keeps the inside protected. Once the soil becomes wet and the light is bright, stored food can transform into usable energy. Signals from each cell's nucleus then guide growth in the root and shoot. The young plant must also obtain every essential element it cannot derive from stored food. Cold, darkness, or poor soil can become a limitation even when enough water is present. A seed beside a barrel may sow itself, but a protected nest and a bright column of light reveal the quieter beauty of growth.",
+      "translation": "干燥种子中含有活的植物胚，但坚硬外壳保护着内部。土壤变湿且光线明亮后，储存的养分就能转化为可用能量。随后，每个细胞核发出的信号引导根和芽的生长。幼苗还必须获取那些无法从储存养分中得到的必需元素。即使水分充足，寒冷、黑暗或贫瘠土壤也可能成为限制因素。木桶旁的种子可能自行播下，但受保护的巢和明亮光柱展现了生长更安静的美。",
       "sentences": [
         {
           "en": "A dry seed contains a living plant, but its hard coat keeps the inside protected.",
@@ -99,6 +123,10 @@
         {
           "en": "Cold, darkness, or poor soil can become a limitation even when enough water is present.",
           "zh": "即使水分充足，寒冷、黑暗或贫瘠土壤也可能成为限制因素。"
+        },
+        {
+          "en": "A seed beside a barrel may sow itself, but a protected nest and a bright column of light reveal the quieter beauty of growth.",
+          "zh": "木桶旁的种子可能自行播下，但受保护的巢和明亮光柱展现了生长更安静的美。"
         }
       ],
       "target_words": [
@@ -125,6 +153,26 @@
         {
           "word": "limitation",
           "meaning": "n. 限制,局限性"
+        },
+        {
+          "word": "nest",
+          "meaning": "n. 窝,巢v. 筑巢"
+        },
+        {
+          "word": "barrel",
+          "meaning": "n. 圆桶,一桶的量,枪管 vt. 把...装桶"
+        },
+        {
+          "word": "sow",
+          "meaning": "v. 播种"
+        },
+        {
+          "word": "column",
+          "meaning": "n. 柱,柱状物;书报上的栏;纵列"
+        },
+        {
+          "word": "beauty",
+          "meaning": "n. 美,美丽;美人,美丽的事物"
         }
       ],
       "questions": [
@@ -145,8 +193,8 @@
       "title": "Repair Before Replacement",
       "type": "opinion",
       "difficulty": "CET-4+",
-      "text": "When an electrical appliance stops working, a family may replace it without asking what failed. Often the cause is ordinary dust, a loose connection, or one inexpensive part. Repair saves materials and fuel used in manufacturing and transport. It should not require extraordinary technical courage: shops can publish prices and provide basic guarantees. Otherwise, consumers will continue to choose the certainty of a new machine over an unclear repair.",
-      "translation": "电器停止工作时，一个家庭可能不查原因就直接更换。原因往往只是普通灰尘、松动的连接或一个便宜零件。维修可以节省制造和运输中使用的材料与燃料。维修不应需要非凡的技术勇气，商店可以公布价格并提供基本保障。否则，消费者会继续选择确定的新机器，而不是结果不明的维修。",
+      "text": "When an electrical appliance stops working, a family may replace it without asking what failed. Often the cause is ordinary dust, a loose connection, or one inexpensive part. Repair saves materials and fuel used in manufacturing and transport. It should not require extraordinary technical courage: shops can publish prices and provide basic guarantees. Otherwise, consumers will continue to choose the certainty of a new machine over an unclear repair. Two identical devices may be hard to classify, yet a learned technician can oppose waste by tracing their production faults.",
+      "translation": "电器停止工作时，一个家庭可能不查原因就直接更换。原因往往只是普通灰尘、松动的连接或一个便宜零件。维修可以节省制造和运输中使用的材料与燃料。维修不应需要非凡的技术勇气，商店可以公布价格并提供基本保障。否则，消费者会继续选择确定的新机器，而不是结果不明的维修。两个相同设备可能难以分类，但经验丰富的技术员能追查生产故障、反对浪费。",
       "sentences": [
         {
           "en": "When an electrical appliance stops working, a family may replace it without asking what failed.",
@@ -167,6 +215,10 @@
         {
           "en": "Otherwise, consumers will continue to choose the certainty of a new machine over an unclear repair.",
           "zh": "否则，消费者会继续选择确定的新机器，而不是结果不明的维修。"
+        },
+        {
+          "en": "Two identical devices may be hard to classify, yet a learned technician can oppose waste by tracing their production faults.",
+          "zh": "两个相同设备可能难以分类，但经验丰富的技术员能追查生产故障、反对浪费。"
         }
       ],
       "target_words": [
@@ -193,6 +245,26 @@
         {
           "word": "otherwise",
           "meaning": "ad. 另样,用别的方法;在其他方面conj. 要不然"
+        },
+        {
+          "word": "identical",
+          "meaning": "a. (to. with)同一的,同样的"
+        },
+        {
+          "word": "classify",
+          "meaning": "vt. 把...分类,分等级"
+        },
+        {
+          "word": "production",
+          "meaning": "n. 生产,产品,作品,(研究)成果,总产量"
+        },
+        {
+          "word": "oppose",
+          "meaning": "vt. 反对;反抗"
+        },
+        {
+          "word": "learned",
+          "meaning": "a. 博学的,有学问的"
         }
       ],
       "questions": [

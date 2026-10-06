@@ -9,8 +9,8 @@
       "title": "Coffee Beside the Statue",
       "type": "story",
       "difficulty": "CET-4+",
-      "text": "One hot July morning, volunteers served coffee beside a statue in the railway square. Their voluntary performance told the story of workers who had built the line a century earlier. At first, the audience laughed at an immigrant actor's accent, revealing an old prejudice. Then he described how his grandfather had risked his life on the same tracks. The square fell quiet, and the event raised funds for retired workers' welfare.",
-      "translation": "七月一个炎热的早晨，志愿者们在铁路广场的雕像旁供应咖啡。他们的志愿演出讲述了一百年前修建铁路的工人的故事。起初，观众嘲笑一位移民演员的口音，暴露出一种旧偏见。随后，他讲述了祖父如何在同一条铁轨上冒着生命危险工作。广场安静下来，这场活动也为退休工人的福利筹得资金。",
+      "text": "One hot July morning, volunteers served coffee beside a statue in the railway square. Their voluntary performance told the story of workers who had built the line a century earlier. At first, the audience laughed at an immigrant actor's accent, revealing an old prejudice. Then he described how his grandfather had risked his life on the same tracks. The square fell quiet, and the event raised funds for retired workers' welfare. Over coffee, a union member described each unknown worker named in recent records, and every approaching footstep brought another listener.",
+      "translation": "七月一个炎热的早晨，志愿者们在铁路广场的雕像旁供应咖啡。他们的志愿演出讲述了一百年前修建铁路的工人的故事。起初，观众嘲笑一位移民演员的口音，暴露出一种旧偏见。随后，他讲述了祖父如何在同一条铁轨上冒着生命危险工作。广场安静下来，这场活动也为退休工人的福利筹得资金。喝咖啡时，一名工会成员讲述近期档案中每位身份不明的工人，每一阵脚步声都带来新的听众。",
       "sentences": [
         {
           "en": "One hot July morning, volunteers served coffee beside a statue in the railway square.",
@@ -31,6 +31,10 @@
         {
           "en": "The square fell quiet, and the event raised funds for retired workers' welfare.",
           "zh": "广场安静下来，这场活动也为退休工人的福利筹得资金。"
+        },
+        {
+          "en": "Over coffee, a union member described each unknown worker named in recent records, and every approaching footstep brought another listener.",
+          "zh": "喝咖啡时，一名工会成员讲述近期档案中每位身份不明的工人，每一阵脚步声都带来新的听众。"
         }
       ],
       "target_words": [
@@ -57,6 +61,26 @@
         {
           "word": "welfare",
           "meaning": "n. 幸福,福利,社会保障"
+        },
+        {
+          "word": "coffee",
+          "meaning": "n. 咖啡(色)"
+        },
+        {
+          "word": "footstep",
+          "meaning": "n. 脚步(声),足迹"
+        },
+        {
+          "word": "union",
+          "meaning": "n. 联合,团结;联盟,联邦;协会,社团;和谐"
+        },
+        {
+          "word": "unknown",
+          "meaning": "a.不知道的;未知的"
+        },
+        {
+          "word": "recent",
+          "meaning": "a. 新近的,近来的"
         }
       ],
       "questions": [
@@ -77,8 +101,8 @@
       "title": "How Bees Find Their Direction",
       "type": "explanatory",
       "difficulty": "CET-4+",
-      "text": "A bee can judge direction by comparing the sun's position with patterns of light in the sky. Even when clouds are dense, its visual system can detect signals that human eyes miss. Near the hive, flowers sway and landmarks may change, so the insect also remembers shapes along the horizon. Inside, it performs a dance whose angle points other bees toward food. This tiny navigation system combines light, movement, distance, and memory.",
-      "translation": "蜜蜂可以通过比较太阳位置与天空中的光线模式来判断方向。即使云层浓密，它的视觉系统也能察觉人眼看不到的信号。在蜂巢附近，花朵会摇摆，地标也可能改变，因此蜜蜂还会记住地平线上的形状。回到蜂巢后，它会用舞蹈角度为其他蜜蜂指出食物方向。这套微小的导航系统结合了光线、运动、距离和记忆。",
+      "text": "A bee can judge direction by comparing the sun's position with patterns of light in the sky. Even when clouds are dense, its visual system can detect signals that human eyes miss. Near the hive, flowers sway and landmarks may change, so the insect also remembers shapes along the horizon. Inside, it performs a dance whose angle points other bees toward food. This tiny navigation system combines light, movement, distance, and memory. A painter once used melting ice as a clue to bee movement: cold makes insects scatter slowly and a sting becomes less likely.",
+      "translation": "蜜蜂可以通过比较太阳位置与天空中的光线模式来判断方向。即使云层浓密，它的视觉系统也能察觉人眼看不到的信号。在蜂巢附近，花朵会摇摆，地标也可能改变，因此蜜蜂还会记住地平线上的形状。回到蜂巢后，它会用舞蹈角度为其他蜜蜂指出食物方向。这套微小的导航系统结合了光线、运动、距离和记忆。一位画家曾用融冰来提示蜜蜂活动：低温会让昆虫缓慢散开，也降低蜇人的可能。",
       "sentences": [
         {
           "en": "A bee can judge direction by comparing the sun's position with patterns of light in the sky.",
@@ -99,6 +123,10 @@
         {
           "en": "This tiny navigation system combines light, movement, distance, and memory.",
           "zh": "这套微小的导航系统结合了光线、运动、距离和记忆。"
+        },
+        {
+          "en": "A painter once used melting ice as a clue to bee movement: cold makes insects scatter slowly and a sting becomes less likely.",
+          "zh": "一位画家曾用融冰来提示蜜蜂活动：低温会让昆虫缓慢散开，也降低蜇人的可能。"
         }
       ],
       "target_words": [
@@ -125,6 +153,26 @@
         {
           "word": "dense",
           "meaning": "a. 浓密的,密集的,愚笨的"
+        },
+        {
+          "word": "ice",
+          "meaning": "n. 冰;冰冻甜食vt. 冰冻,使成冰"
+        },
+        {
+          "word": "clue",
+          "meaning": "n. 线索"
+        },
+        {
+          "word": "painter",
+          "meaning": "n. 漆工,画家"
+        },
+        {
+          "word": "sting",
+          "meaning": "n./v. 刺;刺痛"
+        },
+        {
+          "word": "scatter",
+          "meaning": "v. 打散;撒,散布"
         }
       ],
       "questions": [
@@ -145,8 +193,8 @@
       "title": "Old Railroads Need Modern Safety",
       "type": "opinion",
       "difficulty": "CET-4+",
-      "text": "Historic railroad journeys attract visitors, but charming engines do not remove modern risks. Operators need proper preparation, trained staff, and a clear plan to prevent collisions. Critics say the financial burden may force small heritage lines to close. However, regional museums can organize shared inspections and equipment purchases to reduce cost. Preserving history is worthwhile only when passengers and workers can trust the journey.",
-      "translation": "历史铁路旅行很吸引游客，但迷人的老式机车并不能消除现代风险。运营方需要充分准备、受训员工和明确方案来防止碰撞。批评者认为，经济负担可能迫使小型遗产铁路关闭。不过，地区博物馆可以组织联合检查和设备采购来降低成本。只有乘客和员工能够信任旅程安全时，保存历史才有意义。",
+      "text": "Historic railroad journeys attract visitors, but charming engines do not remove modern risks. Operators need proper preparation, trained staff, and a clear plan to prevent collisions. Critics say the financial burden may force small heritage lines to close. However, regional museums can organize shared inspections and equipment purchases to reduce cost. Preserving history is worthwhile only when passengers and workers can trust the journey. The railway office should hire trained staff to unload equipment, record every detail, and assure visitors that inspections are genuine.",
+      "translation": "历史铁路旅行很吸引游客，但迷人的老式机车并不能消除现代风险。运营方需要充分准备、受训员工和明确方案来防止碰撞。批评者认为，经济负担可能迫使小型遗产铁路关闭。不过，地区博物馆可以组织联合检查和设备采购来降低成本。只有乘客和员工能够信任旅程安全时，保存历史才有意义。铁路办公室应雇用受训员工卸载设备、记录每项细节，并向游客保证检查真实有效。",
       "sentences": [
         {
           "en": "Historic railroad journeys attract visitors, but charming engines do not remove modern risks.",
@@ -167,6 +215,10 @@
         {
           "en": "Preserving history is worthwhile only when passengers and workers can trust the journey.",
           "zh": "只有乘客和员工能够信任旅程安全时，保存历史才有意义。"
+        },
+        {
+          "en": "The railway office should hire trained staff to unload equipment, record every detail, and assure visitors that inspections are genuine.",
+          "zh": "铁路办公室应雇用受训员工卸载设备、记录每项细节，并向游客保证检查真实有效。"
         }
       ],
       "target_words": [
@@ -193,6 +245,26 @@
         {
           "word": "prevent",
           "meaning": "v. (from)预防,防止,阻止,制止,妨碍"
+        },
+        {
+          "word": "office",
+          "meaning": "n. 办公室,办事处;职务,公职;部,局,处"
+        },
+        {
+          "word": "hire",
+          "meaning": "n./v. 雇用,租借"
+        },
+        {
+          "word": "unload",
+          "meaning": "vi. 卸货;退子弹vt. 摆脱...之负担;倾销"
+        },
+        {
+          "word": "detail",
+          "meaning": "n. 细节,详情v. 详述"
+        },
+        {
+          "word": "assure",
+          "meaning": "vt. 断言;使确信;保(人寿)险"
         }
       ],
       "questions": [

@@ -9,8 +9,8 @@
       "title": "Paint on the Tunnel Wall",
       "type": "story",
       "difficulty": "CET-4+",
-      "text": "When the mountain tunnel reopened, a young scholar returned to the village for the ceremony. Years earlier, an accident there had forced his family to leave while the road could recover. He brought blue paint and invited children to mark the safe walking path along one wall. Their pictures showed trains, birds, and the workers who had cleared the fallen stone. The finished mural expressed gratitude more clearly than the formal speeches outside.",
-      "translation": "山岭隧道重新开放时，一位年轻学者回村参加仪式。多年前，那里发生的事故迫使他的家人在道路修复期间离开。他带来蓝色油漆，并邀请孩子们沿一面墙标出安全步道。他们的图画描绘了火车、鸟和清理落石的工人。完成的壁画比外面的正式讲话更清楚地表达了感激。",
+      "text": "When the mountain tunnel reopened, a young scholar returned to the village for the ceremony. Years earlier, an accident there had forced his family to leave while the road could recover. He brought blue paint and invited children to mark the safe walking path along one wall. Their pictures showed trains, birds, and the workers who had cleared the fallen stone. The finished mural expressed gratitude more clearly than the formal speeches outside. A resident recalled the explosion beyond the ridge, while fresh flowers near the mural honored those who had joined the safety protest.",
+      "translation": "山岭隧道重新开放时，一位年轻学者回村参加仪式。多年前，那里发生的事故迫使他的家人在道路修复期间离开。他带来蓝色油漆，并邀请孩子们沿一面墙标出安全步道。他们的图画描绘了火车、鸟和清理落石的工人。完成的壁画比外面的正式讲话更清楚地表达了感激。一位居民回忆起山脊外的爆炸，壁画旁的鲜花则纪念参加安全抗议的人们。",
       "sentences": [
         {
           "en": "When the mountain tunnel reopened, a young scholar returned to the village for the ceremony.",
@@ -31,6 +31,10 @@
         {
           "en": "The finished mural expressed gratitude more clearly than the formal speeches outside.",
           "zh": "完成的壁画比外面的正式讲话更清楚地表达了感激。"
+        },
+        {
+          "en": "A resident recalled the explosion beyond the ridge, while fresh flowers near the mural honored those who had joined the safety protest.",
+          "zh": "一位居民回忆起山脊外的爆炸，壁画旁的鲜花则纪念参加安全抗议的人们。"
         }
       ],
       "target_words": [
@@ -57,6 +61,26 @@
         {
           "word": "gratitude",
           "meaning": "n. 感激,感恩"
+        },
+        {
+          "word": "ridge",
+          "meaning": "n. 脊,山脊,岭"
+        },
+        {
+          "word": "explosion",
+          "meaning": "n. 爆炸,爆发"
+        },
+        {
+          "word": "protest",
+          "meaning": "n. 抗议;反对;v. 抗议;申明"
+        },
+        {
+          "word": "resident",
+          "meaning": "n. 居民,常住者a. 居住的"
+        },
+        {
+          "word": "fresh",
+          "meaning": "a. 新鲜的,无经验的"
         }
       ],
       "questions": [
@@ -77,8 +101,8 @@
       "title": "Why Artificial Color Can Fade",
       "type": "explanatory",
       "difficulty": "CET-4+",
-      "text": "An artificial color looks distinct because its molecules absorb some parts of light and reflect others. Sunlight can break those molecules apart through a slow chemical process. Heat and moisture may accelerate the change, especially when manufacturers mix unstable materials. Scientists test samples under strong lamps and measure the result with great accuracy. Their findings help museums choose safer lighting for textiles, paintings, and photographs.",
-      "translation": "人工色彩之所以鲜明，是因为它的分子吸收部分光线并反射其余光线。阳光可以通过缓慢的化学过程分解这些分子。热量和水分可能加速变化，尤其是在制造商混合不稳定材料时。科学家在强光下测试样品，并非常精确地测量结果。他们的发现帮助博物馆为纺织品、画作和照片选择更安全的照明。",
+      "text": "An artificial color looks distinct because its molecules absorb some parts of light and reflect others. Sunlight can break those molecules apart through a slow chemical process. Heat and moisture may accelerate the change, especially when manufacturers mix unstable materials. Scientists test samples under strong lamps and measure the result with great accuracy. Their findings help museums choose safer lighting for textiles, paintings, and photographs. In a museum setting, a faded textile patch has no exact modern equivalent, so conservators polish nearby glass instead of recoloring it.",
+      "translation": "人工色彩之所以鲜明，是因为它的分子吸收部分光线并反射其余光线。阳光可以通过缓慢的化学过程分解这些分子。热量和水分可能加速变化，尤其是在制造商混合不稳定材料时。科学家在强光下测试样品，并非常精确地测量结果。他们的发现帮助博物馆为纺织品、画作和照片选择更安全的照明。在博物馆环境中，褪色的织物补丁没有完全对应的现代替代品，因此修复者只擦亮附近玻璃而不重新上色。",
       "sentences": [
         {
           "en": "An artificial color looks distinct because its molecules absorb some parts of light and reflect others.",
@@ -99,6 +123,10 @@
         {
           "en": "Their findings help museums choose safer lighting for textiles, paintings, and photographs.",
           "zh": "他们的发现帮助博物馆为纺织品、画作和照片选择更安全的照明。"
+        },
+        {
+          "en": "In a museum setting, a faded textile patch has no exact modern equivalent, so conservators polish nearby glass instead of recoloring it.",
+          "zh": "在博物馆环境中，褪色的织物补丁没有完全对应的现代替代品，因此修复者只擦亮附近玻璃而不重新上色。"
         }
       ],
       "target_words": [
@@ -125,6 +153,26 @@
         {
           "word": "accuracy",
           "meaning": "n. 准确(性);精确;准确度"
+        },
+        {
+          "word": "equivalent",
+          "meaning": "a./n. 相等的,相同"
+        },
+        {
+          "word": "patch",
+          "meaning": "n. 补钉,眼罩;斑点;小块土地;vt. 补缀;修补,平息"
+        },
+        {
+          "word": "textile",
+          "meaning": "n. 纺织品a. 纺织的"
+        },
+        {
+          "word": "polish",
+          "meaning": "vt./vi 磨光,擦光;润饰,使优美;n. 擦光剂;优美,完善"
+        },
+        {
+          "word": "setting",
+          "meaning": "n. 镶嵌;环境,背景;(日月)沉落"
         }
       ],
       "questions": [
@@ -145,8 +193,8 @@
       "title": "Practical Exams Deserve More Credit",
       "type": "opinion",
       "difficulty": "CET-4+",
-      "text": "A written exam can determine whether a student remembers facts, but it reveals little about applied skill. A practical task shows how learners plan, respond to mistakes, and accomplish a real goal. Universities should give such work more credit, particularly in engineering, medicine, and design. The faculty must still publish clear standards so that personal preference does not control marks. A balanced assessment combines reliable knowledge tests with evidence of competent action.",
-      "translation": "笔试可以判断学生是否记住事实，却很少反映应用能力。实践任务能显示学习者如何规划、应对错误并完成真实目标。大学应给予这类任务更多学分或权重，尤其是在工程、医学和设计领域。院系仍必须公布清晰标准，避免个人偏好左右成绩。均衡的评价应把可靠的知识测试与胜任行动的证据结合起来。",
+      "text": "A written exam can determine whether a student remembers facts, but it reveals little about applied skill. A practical task shows how learners plan, respond to mistakes, and accomplish a real goal. Universities should give such work more credit, particularly in engineering, medicine, and design. The faculty must still publish clear standards so that personal preference does not control marks. A balanced assessment combines reliable knowledge tests with evidence of competent action. A fluent explanation and careful dictionary use deserve consideration, because emphasis on reasoning makes assessment more worthwhile.",
+      "translation": "笔试可以判断学生是否记住事实，却很少反映应用能力。实践任务能显示学习者如何规划、应对错误并完成真实目标。大学应给予这类任务更多学分或权重，尤其是在工程、医学和设计领域。院系仍必须公布清晰标准，避免个人偏好左右成绩。均衡的评价应把可靠的知识测试与胜任行动的证据结合起来。流畅的解释和认真使用词典值得纳入评价，因为强调推理会让考核更有意义。",
       "sentences": [
         {
           "en": "A written exam can determine whether a student remembers facts, but it reveals little about applied skill.",
@@ -167,6 +215,10 @@
         {
           "en": "A balanced assessment combines reliable knowledge tests with evidence of competent action.",
           "zh": "均衡的评价应把可靠的知识测试与胜任行动的证据结合起来。"
+        },
+        {
+          "en": "A fluent explanation and careful dictionary use deserve consideration, because emphasis on reasoning makes assessment more worthwhile.",
+          "zh": "流畅的解释和认真使用词典值得纳入评价，因为强调推理会让考核更有意义。"
         }
       ],
       "target_words": [
@@ -193,6 +245,26 @@
         {
           "word": "determine",
           "meaning": "v. 决心,决定;确定,限定"
+        },
+        {
+          "word": "dictionary",
+          "meaning": "n. 词典,字典"
+        },
+        {
+          "word": "fluent",
+          "meaning": "a. 说话流利的,(演说等)流畅的"
+        },
+        {
+          "word": "emphasis",
+          "meaning": "n. 强调,重点"
+        },
+        {
+          "word": "consideration",
+          "meaning": "n. 需要考虑的事,理由;考虑,思考;体谅,照顾"
+        },
+        {
+          "word": "worthwhile",
+          "meaning": "a. 值得(花时间、精力)的;合算的"
         }
       ],
       "questions": [

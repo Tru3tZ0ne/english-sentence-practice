@@ -9,8 +9,8 @@
       "title": "The Promise at the Halt",
       "type": "story",
       "difficulty": "CET-4+",
-      "text": "A bus carrying a film crew came to a sudden halt on a narrow mountain road. Rising smoke caused anxiety until a veteran driver discovered a loose electrical cable. He made the passengers promise to remain outside while he disconnected the battery. Their planned adventure became a quiet evening beside the road, sharing food with nearby farmers. The delay ruined one scene but gave the documentary an honest ending about patience and help.",
-      "translation": "一辆载着摄制组的巴士在狭窄山路上突然停下。冒出的烟引发焦虑，直到一位经验丰富的司机发现松动的电缆。他让乘客保证留在车外，自己则断开电池。原计划的冒险变成了路边安静的一晚，大家与附近农民分享食物。延误毁掉了一个镜头，却给纪录片带来了关于耐心与互助的真实结尾。",
+      "text": "A bus carrying a film crew came to a sudden halt on a narrow mountain road. Rising smoke caused anxiety until a veteran driver discovered a loose electrical cable. He made the passengers promise to remain outside while he disconnected the battery. Their planned adventure became a quiet evening beside the road, sharing food with nearby farmers. The delay ruined one scene but gave the documentary an honest ending about patience and help. An Italian editor who arrived late offered to charge a spare battery, then stayed to attend the roadside meal.",
+      "translation": "一辆载着摄制组的巴士在狭窄山路上突然停下。冒出的烟引发焦虑，直到一位经验丰富的司机发现松动的电缆。他让乘客保证留在车外，自己则断开电池。原计划的冒险变成了路边安静的一晚，大家与附近农民分享食物。延误毁掉了一个镜头，却给纪录片带来了关于耐心与互助的真实结尾。一位迟到的意大利编辑主动给备用电池充电，随后留下参加路边聚餐。",
       "sentences": [
         {
           "en": "A bus carrying a film crew came to a sudden halt on a narrow mountain road.",
@@ -31,6 +31,10 @@
         {
           "en": "The delay ruined one scene but gave the documentary an honest ending about patience and help.",
           "zh": "延误毁掉了一个镜头，却给纪录片带来了关于耐心与互助的真实结尾。"
+        },
+        {
+          "en": "An Italian editor who arrived late offered to charge a spare battery, then stayed to attend the roadside meal.",
+          "zh": "一位迟到的意大利编辑主动给备用电池充电，随后留下参加路边聚餐。"
         }
       ],
       "target_words": [
@@ -57,6 +61,26 @@
         {
           "word": "adventure",
           "meaning": "n. 冒险,冒险活动,奇遇vt. 大胆进行"
+        },
+        {
+          "word": "charge",
+          "meaning": "v. 要价;控告,指控;冲锋;充电"
+        },
+        {
+          "word": "late",
+          "meaning": "a. 迟的,晚的,晚期的;已故的ad. 迟,晚"
+        },
+        {
+          "word": "Italian",
+          "meaning": "a.意大利的n.意大利人"
+        },
+        {
+          "word": "attend",
+          "meaning": "vt. 出席,参加;照顾,护理vi. 注意;侍奉"
+        },
+        {
+          "word": "editor",
+          "meaning": "n. 编辑,编者"
         }
       ],
       "questions": [
@@ -77,8 +101,8 @@
       "title": "What a Microscope Reveals",
       "type": "explanatory",
       "difficulty": "CET-4+",
-      "text": "A microscope enlarges detail, but seeing a shape does not automatically explain its existence or purpose. A scientist first measures its diameter, color, movement, and response to the surrounding liquid. An electrical current or chemical stain may expose structures hidden below the superficial surface. The damaged word interpretatio in an old label reminds researchers to verify inherited notes. Reliable conclusions come from repeated observation, not one attractive image.",
-      "translation": "显微镜放大细节，但看到形状并不会自动解释它为何存在或有何作用。科学家先测量其直径、颜色、运动以及对周围液体的反应。电流或化学染色可能揭示隐藏在表层之下的结构。旧标签中残缺的 interpretatio 一词提醒研究者核实沿用下来的笔记。可靠结论来自反复观察，而不是一张漂亮图片。",
+      "text": "A microscope enlarges detail, but seeing a shape does not automatically explain its existence or purpose. A scientist first measures its diameter, color, movement, and response to the surrounding liquid. An electrical current or chemical stain may expose structures hidden below the superficial surface. The damaged word interpretatio in an old label reminds researchers to verify inherited notes. Reliable conclusions come from repeated observation, not one attractive image. A stain pattern can use dye to reveal coal dust that the naked eye misses, provided the instrument remains operational.",
+      "translation": "显微镜放大细节，但看到形状并不会自动解释它为何存在或有何作用。科学家先测量其直径、颜色、运动以及对周围液体的反应。电流或化学染色可能揭示隐藏在表层之下的结构。旧标签中残缺的 interpretatio 一词提醒研究者核实沿用下来的笔记。可靠结论来自反复观察，而不是一张漂亮图片。染色图案可以用染料显示肉眼看不到的煤尘，前提是仪器保持正常工作。",
       "sentences": [
         {
           "en": "A microscope enlarges detail, but seeing a shape does not automatically explain its existence or purpose.",
@@ -99,6 +123,10 @@
         {
           "en": "Reliable conclusions come from repeated observation, not one attractive image.",
           "zh": "可靠结论来自反复观察，而不是一张漂亮图片。"
+        },
+        {
+          "en": "A stain pattern can use dye to reveal coal dust that the naked eye misses, provided the instrument remains operational.",
+          "zh": "染色图案可以用染料显示肉眼看不到的煤尘，前提是仪器保持正常工作。"
         }
       ],
       "target_words": [
@@ -125,6 +153,26 @@
         {
           "word": "existence",
           "meaning": "n. 存在,实在;生存,生活(方式)"
+        },
+        {
+          "word": "pattern",
+          "meaning": "n. 模式,式样;图案,图样v. 仿制,模仿"
+        },
+        {
+          "word": "coal",
+          "meaning": "n. 煤,煤块"
+        },
+        {
+          "word": "dye",
+          "meaning": "n. 染料v. 染,染色"
+        },
+        {
+          "word": "operational",
+          "meaning": "a. 操作的,运转的,起作用的,经营的"
+        },
+        {
+          "word": "eye",
+          "meaning": "n. 眼(睛);视力;眼力;监督vt. 看,审视"
         }
       ],
       "questions": [
@@ -145,8 +193,8 @@
       "title": "Settlements Need More Than Houses",
       "type": "opinion",
       "difficulty": "CET-4+",
-      "text": "A new settlement can provide affordable homes yet still leave residents isolated from one another. Good planning follows a simple principle: daily communication should be easy, safe, and natural. Friendly courtyards, shared gardens, and small shops create places where unfamiliar people can meet. Design cannot remove every conflict, but it can prevent minor disagreements from becoming permanent divisions. An honourable housing policy treats social connection as a necessity rather than decoration.",
-      "translation": "新社区可以提供可负担住房，却仍可能让居民彼此隔离。良好规划遵循一个简单原则：日常交流应当方便、安全且自然。友好的庭院、共享花园和小商店为陌生人创造相遇空间。设计无法消除所有冲突，却能防止小分歧变成永久隔阂。负责任的住房政策会把社会联系视为必需品而非装饰。",
+      "text": "A new settlement can provide affordable homes yet still leave residents isolated from one another. Good planning follows a simple principle: daily communication should be easy, safe, and natural. Friendly courtyards, shared gardens, and small shops create places where unfamiliar people can meet. Design cannot remove every conflict, but it can prevent minor disagreements from becoming permanent divisions. An honourable housing policy treats social connection as a necessity rather than decoration. A Greek-style courtyard may look contrary to modern taste, but even a tedious garden task such as removing a worm from a hook can begin conversation.",
+      "translation": "新社区可以提供可负担住房，却仍可能让居民彼此隔离。良好规划遵循一个简单原则：日常交流应当方便、安全且自然。友好的庭院、共享花园和小商店为陌生人创造相遇空间。设计无法消除所有冲突，却能防止小分歧变成永久隔阂。负责任的住房政策会把社会联系视为必需品而非装饰。希腊式庭院可能与现代审美相反，但即使把虫从钩上取下这种乏味园艺也能引发交流。",
       "sentences": [
         {
           "en": "A new settlement can provide affordable homes yet still leave residents isolated from one another.",
@@ -167,6 +215,10 @@
         {
           "en": "An honourable housing policy treats social connection as a necessity rather than decoration.",
           "zh": "负责任的住房政策会把社会联系视为必需品而非装饰。"
+        },
+        {
+          "en": "A Greek-style courtyard may look contrary to modern taste, but even a tedious garden task such as removing a worm from a hook can begin conversation.",
+          "zh": "希腊式庭院可能与现代审美相反，但即使把虫从钩上取下这种乏味园艺也能引发交流。"
         }
       ],
       "target_words": [
@@ -193,6 +245,26 @@
         {
           "word": "honourable",
           "meaning": "a.诚实的;光荣的"
+        },
+        {
+          "word": "Greek",
+          "meaning": "a.希腊的 n.希腊人"
+        },
+        {
+          "word": "contrary",
+          "meaning": "a.相反的,矛盾的n. 反对,矛盾;相反"
+        },
+        {
+          "word": "tedious",
+          "meaning": "a. 沉闷的,乏味的"
+        },
+        {
+          "word": "worm",
+          "meaning": "n. 虫,蠕虫"
+        },
+        {
+          "word": "hook",
+          "meaning": "n. 钩,吊钩,钩状物v. 钩住"
         }
       ],
       "questions": [

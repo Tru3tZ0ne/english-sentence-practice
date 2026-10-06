@@ -24,7 +24,8 @@ window.WordPage={
   },
   renderDay(){
     const items=this.dayData.items;document.querySelector('footer').textContent='↑ / ↓：移动当前单词　·　空格或 Enter：显示 4 个释义 / 只留正确释义';
-    document.getElementById('view').innerHTML=`<section class="content word-content"><div class="practice-head"><span>${this.escape(this.wordlist.title)} · Day ${this.dayData.day}</span><span>${items.length} 词</span></div><div class="word-help">先回忆中文意思，再点右侧按钮。第一次显示 4 个释义，第二次只保留正确释义。</div><div class="word-rows">${items.map((item,index)=>this.rowMarkup(item,index)).join('')}</div></section>`;
+    const dayIndex=this.wordlist.days.find(day=>day.day===this.dayData.day),excelFile=dayIndex?.excel_file||`excel/day ${this.dayData.day}.xlsx`,downloadBase=API.mode==='static'?`wordlists/${this.wordlist.id}/`:`../content/wordlists/${this.wordlist.id}/`;
+    document.getElementById('view').innerHTML=`<section class="content word-content"><div class="practice-head"><span>${this.escape(this.wordlist.title)} · Day ${this.dayData.day}</span><span>${items.length} 词</span></div><div class="word-day-tools"><div class="word-help">先回忆中文意思，再点右侧按钮。第一次显示 4 个释义，第二次只保留正确释义。</div><a class="excel-download" href="${downloadBase}${this.escape(excelFile).replace(/ /g,'%20')}" download="day ${this.dayData.day}.xlsx">下载 Day ${this.dayData.day} Excel</a></div><div class="word-rows">${items.map((item,index)=>this.rowMarkup(item,index)).join('')}</div></section>`;
     this.bindRows();this.select(0,false);
   },
   rowMarkup(item,index){

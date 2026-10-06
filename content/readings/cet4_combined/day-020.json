@@ -9,8 +9,8 @@
       "title": "The Torch behind the Door",
       "type": "story",
       "difficulty": "CET-4+",
-      "text": "While staff inspect the factory, an employee noticed a weak light moving behind a sealed storage door. She put on a protective mask and used a torch to read the warning label through a window. Because spilled powder might be dangerous, the manager chose to isolate the entire corridor. Firefighters entered and found a cleaner who had been locked inside by a faulty handle. The careful response saved him without spreading the unknown material through the building.",
-      "translation": "员工检查工厂时，一名员工发现封闭储藏门后有微弱灯光移动。她戴上防护面罩，用手电筒透过窗户读取警示标签。由于泄漏粉末可能有危险，经理决定隔离整条走廊。消防员进入后发现一名清洁工因门把手故障被锁在里面。谨慎的应对救出了他，也没有让未知物质扩散到整栋建筑。",
+      "text": "While staff inspect the factory, an employee noticed a weak light moving behind a sealed storage door. She put on a protective mask and used a torch to read the warning label through a window. Because spilled powder might be dangerous, the manager chose to isolate the entire corridor. Firefighters entered and found a cleaner who had been locked inside by a faulty handle. The careful response saved him without spreading the unknown material through the building. The team did not hurry into disposal; they checked whether the previous container could withstand heat and tried to find its safety record.",
+      "translation": "员工检查工厂时，一名员工发现封闭储藏门后有微弱灯光移动。她戴上防护面罩，用手电筒透过窗户读取警示标签。由于泄漏粉末可能有危险，经理决定隔离整条走廊。消防员进入后发现一名清洁工因门把手故障被锁在里面。谨慎的应对救出了他，也没有让未知物质扩散到整栋建筑。团队没有急于处置，而是检查先前容器能否承受高温，并查找其安全记录。",
       "sentences": [
         {
           "en": "While staff inspect the factory, an employee noticed a weak light moving behind a sealed storage door.",
@@ -31,6 +31,10 @@
         {
           "en": "The careful response saved him without spreading the unknown material through the building.",
           "zh": "谨慎的应对救出了他，也没有让未知物质扩散到整栋建筑。"
+        },
+        {
+          "en": "The team did not hurry into disposal; they checked whether the previous container could withstand heat and tried to find its safety record.",
+          "zh": "团队没有急于处置，而是检查先前容器能否承受高温，并查找其安全记录。"
         }
       ],
       "target_words": [
@@ -57,6 +61,26 @@
         {
           "word": "mask",
           "meaning": "n. 面具,口罩;vt. 遮蔽,伪装"
+        },
+        {
+          "word": "disposal",
+          "meaning": "n. 处理,处置;布置,安排"
+        },
+        {
+          "word": "withstand",
+          "meaning": "vt. 顶住,挡住;经受,承受"
+        },
+        {
+          "word": "hurry",
+          "meaning": "vi. 匆忙vt. 催促;急运(派)n. 急(匆)忙"
+        },
+        {
+          "word": "find",
+          "meaning": "v. (found,found)找到;发现;发觉;感到"
+        },
+        {
+          "word": "previous",
+          "meaning": "a. 先前的"
         }
       ],
       "questions": [
@@ -77,8 +101,8 @@
       "title": "How a Tyre Holds Weight",
       "type": "explanatory",
       "difficulty": "CET-4+",
-      "text": "The source list writes tyre/ with a final slash, a reminder that raw vocabulary data can contain noise. A tyre supports a vehicle because compressed air pushes against the inner surface in every direction. Rubber and fabric stretch slightly, spreading the load across the area touching the road. Some designs contain no separate tube, which makes sealing the rim more complicated. Pressure, heat, tread condition, and even fine road powder affect grip and safety.",
-      "translation": "原始词表把 tyre/ 写成末尾带斜线的形式，提醒我们原始词汇数据可能含有杂质。轮胎能支撑车辆，是因为压缩空气向各个方向推压内表面。橡胶和织物略微伸展，把载荷分散到接触路面的区域。有些设计没有独立内胎，因此轮圈密封更加复杂。气压、温度、胎纹状况甚至细小路面粉尘都会影响抓地力与安全。",
+      "text": "The source list writes tyre/ with a final slash, a reminder that raw vocabulary data can contain noise. A tyre supports a vehicle because compressed air pushes against the inner surface in every direction. Rubber and fabric stretch slightly, spreading the load across the area touching the road. Some designs contain no separate tube, which makes sealing the rim more complicated. Pressure, heat, tread condition, and even fine road powder affect grip and safety. A sensor disk can link the valve to a central pillar, while a reserve layer prevents the rubber from collapsing if it must swallow a sudden shock.",
+      "translation": "原始词表把 tyre/ 写成末尾带斜线的形式，提醒我们原始词汇数据可能含有杂质。轮胎能支撑车辆，是因为压缩空气向各个方向推压内表面。橡胶和织物略微伸展，把载荷分散到接触路面的区域。有些设计没有独立内胎，因此轮圈密封更加复杂。气压、温度、胎纹状况甚至细小路面粉尘都会影响抓地力与安全。传感圆盘可以把阀门连接到中央支柱，备用层则防止橡胶在承受突然冲击时塌陷。",
       "sentences": [
         {
           "en": "The source list writes tyre/ with a final slash, a reminder that raw vocabulary data can contain noise.",
@@ -99,6 +123,10 @@
         {
           "en": "Pressure, heat, tread condition, and even fine road powder affect grip and safety.",
           "zh": "气压、温度、胎纹状况甚至细小路面粉尘都会影响抓地力与安全。"
+        },
+        {
+          "en": "A sensor disk can link the valve to a central pillar, while a reserve layer prevents the rubber from collapsing if it must swallow a sudden shock.",
+          "zh": "传感圆盘可以把阀门连接到中央支柱，备用层则防止橡胶在承受突然冲击时塌陷。"
         }
       ],
       "target_words": [
@@ -125,6 +153,26 @@
         {
           "word": "powder",
           "meaning": "n. 粉末,药粉;火药,炸药"
+        },
+        {
+          "word": "disk",
+          "meaning": "n.圆盘 ,唱片;磁盘"
+        },
+        {
+          "word": "link",
+          "meaning": "v. 连接,联系n. 环节,链环"
+        },
+        {
+          "word": "pillar",
+          "meaning": "n. 柱,栋梁"
+        },
+        {
+          "word": "reserve",
+          "meaning": "n./v. 保存;预定"
+        },
+        {
+          "word": "swallow",
+          "meaning": "vt. 吞,咽;轻信,轻易接受;承受,使不流露"
         }
       ],
       "questions": [
@@ -145,8 +193,8 @@
       "title": "Cheap Products Can Be Expensive",
       "type": "opinion",
       "difficulty": "CET-4+",
-      "text": "A cheap product can look brilliant in a shop yet fail after a few months of ordinary use. Synthetic materials are not automatically bad; many are durable, light, and easy to clean. The real problem is a complicated supply chain that hides repairability and working conditions. Consumers with diverse incomes still deserve clear information about expected life and replacement parts. The belief that low price always saves money disappears when the same item must be bought repeatedly.",
-      "translation": "便宜商品在店里可能光鲜亮丽，却会在正常使用几个月后损坏。合成材料并非天然不好，许多材料耐用、轻便且易清洁。真正的问题是复杂供应链掩盖了可维修性和劳动条件。收入不同的消费者都应获得关于预期寿命和替换零件的清晰信息。当同一物品必须反复购买时，低价总能省钱的观念就站不住脚了。",
+      "text": "A cheap product can look brilliant in a shop yet fail after a few months of ordinary use. Synthetic materials are not automatically bad; many are durable, light, and easy to clean. The real problem is a complicated supply chain that hides repairability and working conditions. Consumers with diverse incomes still deserve clear information about expected life and replacement parts. The belief that low price always saves money disappears when the same item must be bought repeatedly. A loyal buyer in China may reproduce a favorable review, but the real goal is to reveal the extent of a product's useful life.",
+      "translation": "便宜商品在店里可能光鲜亮丽，却会在正常使用几个月后损坏。合成材料并非天然不好，许多材料耐用、轻便且易清洁。真正的问题是复杂供应链掩盖了可维修性和劳动条件。收入不同的消费者都应获得关于预期寿命和替换零件的清晰信息。当同一物品必须反复购买时，低价总能省钱的观念就站不住脚了。中国的忠实买家可能转发好评，但真正目标是说明产品有效寿命的程度。",
       "sentences": [
         {
           "en": "A cheap product can look brilliant in a shop yet fail after a few months of ordinary use.",
@@ -167,6 +215,10 @@
         {
           "en": "The belief that low price always saves money disappears when the same item must be bought repeatedly.",
           "zh": "当同一物品必须反复购买时，低价总能省钱的观念就站不住脚了。"
+        },
+        {
+          "en": "A loyal buyer in China may reproduce a favorable review, but the real goal is to reveal the extent of a product's useful life.",
+          "zh": "中国的忠实买家可能转发好评，但真正目标是说明产品有效寿命的程度。"
         }
       ],
       "target_words": [
@@ -193,6 +245,26 @@
         {
           "word": "belief",
           "meaning": "n. 信任,相信,信念;信仰,信条"
+        },
+        {
+          "word": "China",
+          "meaning": "n. 瓷器"
+        },
+        {
+          "word": "loyal",
+          "meaning": "a. 忠诚的"
+        },
+        {
+          "word": "goal",
+          "meaning": "n. (足球)球门,得分,目标"
+        },
+        {
+          "word": "reproduce",
+          "meaning": "v. 生殖;翻版;繁殖;复制,仿造"
+        },
+        {
+          "word": "extent",
+          "meaning": "n. 广度,宽度,长度;程度,限度"
         }
       ],
       "questions": [

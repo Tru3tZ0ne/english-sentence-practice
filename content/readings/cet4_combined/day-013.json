@@ -9,8 +9,8 @@
       "title": "The Balloon over the Old Wall",
       "type": "story",
       "difficulty": "CET-4+",
-      "text": "Two twin brothers found a red balloon trapped above a historical wall near their school. One imagined a secret signal, while the other used his practical vision to search for a string. They followed the string into tall grass and discovered an unusual insect caught beneath it. Their imagination gave way to careful work as they freed the creature without touching its wings. A museum later identified it as a local species once thought to have disappeared.",
-      "translation": "一对双胞胎兄弟在学校附近的古墙上方发现了一个被卡住的红气球。一个把它想象成秘密信号，另一个则实际寻找气球线。他们沿着线走进高草，发现一只罕见昆虫被压在下面。他们收起想象，小心操作，在不碰翅膀的情况下放走了昆虫。一家博物馆后来确认它是曾被认为已经消失的本地物种。",
+      "text": "Two twin brothers found a red balloon trapped above a historical wall near their school. One imagined a secret signal, while the other used his practical vision to search for a string. They followed the string into tall grass and discovered an unusual insect caught beneath it. Their imagination gave way to careful work as they freed the creature without touching its wings. A museum later identified it as a local species once thought to have disappeared. An enquiry from a northwest museum arrived while the balloon rested in a basket on one brother's lap, safe from every careless touch.",
+      "translation": "一对双胞胎兄弟在学校附近的古墙上方发现了一个被卡住的红气球。一个把它想象成秘密信号，另一个则实际寻找气球线。他们沿着线走进高草，发现一只罕见昆虫被压在下面。他们收起想象，小心操作，在不碰翅膀的情况下放走了昆虫。一家博物馆后来确认它是曾被认为已经消失的本地物种。西北一家博物馆发来询问时，气球正放在一个兄弟腿上的篮子里，避免了随意触碰。",
       "sentences": [
         {
           "en": "Two twin brothers found a red balloon trapped above a historical wall near their school.",
@@ -31,6 +31,10 @@
         {
           "en": "A museum later identified it as a local species once thought to have disappeared.",
           "zh": "一家博物馆后来确认它是曾被认为已经消失的本地物种。"
+        },
+        {
+          "en": "An enquiry from a northwest museum arrived while the balloon rested in a basket on one brother's lap, safe from every careless touch.",
+          "zh": "西北一家博物馆发来询问时，气球正放在一个兄弟腿上的篮子里，避免了随意触碰。"
         }
       ],
       "target_words": [
@@ -57,6 +61,26 @@
         {
           "word": "insect",
           "meaning": "n. 昆虫"
+        },
+        {
+          "word": "basket",
+          "meaning": "n. 筐,篮,篓"
+        },
+        {
+          "word": "touch",
+          "meaning": "v. 触,碰,摸;感动;涉及n. 触动,碰到;少许"
+        },
+        {
+          "word": "lap",
+          "meaning": "n. (跑道的)一圈;腰以下及大腿的前面部分;vt. (赛跑中)比(某人)领先一圈;轻拍"
+        },
+        {
+          "word": "northwest",
+          "meaning": "n. 西北方,西北部a. 西北的ad. 向西北,在西北"
+        },
+        {
+          "word": "enquiry",
+          "meaning": "v.询问"
         }
       ],
       "questions": [
@@ -77,8 +101,8 @@
       "title": "Why Flavour Changes with Temperature",
       "type": "explanatory",
       "difficulty": "CET-4+",
-      "text": "Flavour depends on each chemical compound that reaches receptors in the nose and mouth. Warm food releases more aromatic molecules, so smell can perform a larger function in the experience. Cold can hide sweetness and make texture seem firm, sometimes almost like leather. Chefs therefore use only an approximate seasoning level until a dish reaches serving temperature. Even morning dew on herbs may dilute their oils slightly and alter the final balance.",
-      "translation": "味道取决于到达鼻腔和口腔感受器的各种化合物。温热食物会释放更多芳香分子，因此嗅觉在体验中发挥更大作用。低温会掩盖甜味并使口感显得坚韧，有时几乎像皮革。因此，厨师在菜品达到食用温度前只做大致调味。即使香草上的晨露也可能轻微稀释精油，改变最终平衡。",
+      "text": "Flavour depends on each chemical compound that reaches receptors in the nose and mouth. Warm food releases more aromatic molecules, so smell can perform a larger function in the experience. Cold can hide sweetness and make texture seem firm, sometimes almost like leather. Chefs therefore use only an approximate seasoning level until a dish reaches serving temperature. Even morning dew on herbs may dilute their oils slightly and alter the final balance. A ten percent change in aroma may have a corresponding effect on tone, making a tired cook exhaust every way to pronounce the result delicious.",
+      "translation": "味道取决于到达鼻腔和口腔感受器的各种化合物。温热食物会释放更多芳香分子，因此嗅觉在体验中发挥更大作用。低温会掩盖甜味并使口感显得坚韧，有时几乎像皮革。因此，厨师在菜品达到食用温度前只做大致调味。即使香草上的晨露也可能轻微稀释精油，改变最终平衡。香气百分之十的变化可能对整体感觉产生相应影响，让疲惫厨师想尽办法把结果说成美味。",
       "sentences": [
         {
           "en": "Flavour depends on each chemical compound that reaches receptors in the nose and mouth.",
@@ -99,6 +123,10 @@
         {
           "en": "Even morning dew on herbs may dilute their oils slightly and alter the final balance.",
           "zh": "即使香草上的晨露也可能轻微稀释精油，改变最终平衡。"
+        },
+        {
+          "en": "A ten percent change in aroma may have a corresponding effect on tone, making a tired cook exhaust every way to pronounce the result delicious.",
+          "zh": "香气百分之十的变化可能对整体感觉产生相应影响，让疲惫厨师想尽办法把结果说成美味。"
         }
       ],
       "target_words": [
@@ -125,6 +153,26 @@
         {
           "word": "dew",
           "meaning": "n. 露水"
+        },
+        {
+          "word": "percent",
+          "meaning": "n. 百分之...的"
+        },
+        {
+          "word": "corresponding",
+          "meaning": "a. 符合的,相应的,对应的"
+        },
+        {
+          "word": "tone",
+          "meaning": "n. 音调,音色;风气,气氛;腔调,语气;色调"
+        },
+        {
+          "word": "exhaust",
+          "meaning": "n. 排气;v. (使)疲倦;用尽;弄空;详述"
+        },
+        {
+          "word": "pronounce",
+          "meaning": "v. 发...的音;宣布,宣判"
         }
       ],
       "questions": [
@@ -145,8 +193,8 @@
       "title": "Local History Belongs to Everyone",
       "type": "opinion",
       "difficulty": "CET-4+",
-      "text": "Local history is sometimes controlled by a small intellectual circle that decides which stories matter. That approach can reduce an entire civilization to leaders, wars, and official buildings. A democratic archive should also collect workers' letters, family photographs, songs, and oral memories. Museums can form a league with schools and neighborhood groups to share equipment and training. Professional standards should limit false claims without silencing people whose experience was rarely recorded.",
-      "translation": "地方历史有时由少数学术圈掌控，由他们决定哪些故事重要。这种做法可能把整个文明缩减为领袖、战争和官方建筑。民主的档案也应收集工人书信、家庭照片、歌曲和口述记忆。博物馆可以与学校和社区团体结成联盟，共享设备和培训。专业标准应限制虚假说法，同时不让那些经历少有记录的人失声。",
+      "text": "Local history is sometimes controlled by a small intellectual circle that decides which stories matter. That approach can reduce an entire civilization to leaders, wars, and official buildings. A democratic archive should also collect workers' letters, family photographs, songs, and oral memories. Museums can form a league with schools and neighborhood groups to share equipment and training. Professional standards should limit false claims without silencing people whose experience was rarely recorded. Despite a recently published claim that official content is superior, a rational archive must include ordinary voices too.",
+      "translation": "地方历史有时由少数学术圈掌控，由他们决定哪些故事重要。这种做法可能把整个文明缩减为领袖、战争和官方建筑。民主的档案也应收集工人书信、家庭照片、歌曲和口述记忆。博物馆可以与学校和社区团体结成联盟，共享设备和培训。专业标准应限制虚假说法，同时不让那些经历少有记录的人失声。尽管最近有说法认为官方内容更优，理性的档案仍必须纳入普通人的声音。",
       "sentences": [
         {
           "en": "Local history is sometimes controlled by a small intellectual circle that decides which stories matter.",
@@ -167,6 +215,10 @@
         {
           "en": "Professional standards should limit false claims without silencing people whose experience was rarely recorded.",
           "zh": "专业标准应限制虚假说法，同时不让那些经历少有记录的人失声。"
+        },
+        {
+          "en": "Despite a recently published claim that official content is superior, a rational archive must include ordinary voices too.",
+          "zh": "尽管最近有说法认为官方内容更优，理性的档案仍必须纳入普通人的声音。"
         }
       ],
       "target_words": [
@@ -193,6 +245,26 @@
         {
           "word": "limit",
           "meaning": "n. 界限,限度,范围v. (to)限制,限定"
+        },
+        {
+          "word": "superior",
+          "meaning": "a. 优良的,卓越的;上级的n. 上级;长者;高手"
+        },
+        {
+          "word": "rational",
+          "meaning": "a. 有推理能力的,合理的"
+        },
+        {
+          "word": "content",
+          "meaning": "n./a./vt. 满意(的),使满意(足) n. 内容,目录"
+        },
+        {
+          "word": "recently",
+          "meaning": "ad.最近,新近"
+        },
+        {
+          "word": "despite",
+          "meaning": "prep. 不管,不顾"
         }
       ],
       "questions": [

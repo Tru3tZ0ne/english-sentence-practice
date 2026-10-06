@@ -41,6 +41,7 @@ def validate(readings_root: Path, wordlists_root: Path) -> dict:
             continue
         if {article.get("type") for article in data["articles"]} != {"story", "explanatory", "opinion"}:
             errors.append(f"Day {day} 缺少指定体裁")
+        day_targets: set[str] = set()
         for article in data["articles"]:
             article_id, title, text = article.get("id", ""), article.get("title", ""), article.get("text", "")
             if article_id in ids: errors.append(f"文章 id 重复：{article_id}")
@@ -52,8 +53,9 @@ def validate(readings_root: Path, wordlists_root: Path) -> dict:
             if len(sentences) < 4: errors.append(f"{article_id} 逐句对照不足四句")
             elif " ".join(item.get("en", "").strip() for item in sentences) != text: errors.append(f"{article_id} 逐句英文与正文不一致")
             target_words = article.get("target_words", [])
-            if not 5 <= len(target_words) <= 9: errors.append(f"{article_id} 目标词数量不合格")
+            if not 5 <= len(target_words) <= 15: errors.append(f"{article_id} 目标词数量不合格")
             for target in target_words:
+                day_targets.add(target.get("word", "").casefold())
                 if target.get("word", "").casefold() not in words: errors.append(f"{article_id} 目标词不属于当天：{target.get('word')}")
                 if not has_word(text, target.get("word", "")): errors.append(f"{article_id} 正文未出现目标词：{target.get('word')}")
             if len(article.get("questions", [])) != 2: errors.append(f"{article_id} 阅读题数量错误")
@@ -61,6 +63,8 @@ def validate(readings_root: Path, wordlists_root: Path) -> dict:
             normalized = normalize(text)
             openings[" ".join(normalized.split()[:8])] += 1
             articles.append({"id": article_id, "text": normalized})
+        if len(day_targets) < 30:
+            errors.append(f"Day {day} 仅覆盖 {len(day_targets)} 个不重复单词，至少需要 30 个")
     duplicates = len(articles) - len({article["text"] for article in articles})
     if duplicates: errors.append(f"存在 {duplicates} 篇完全重复正文")
     repeated_openings = {opening: count for opening, count in openings.items() if count > 2}

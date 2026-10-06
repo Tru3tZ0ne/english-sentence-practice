@@ -9,8 +9,8 @@
       "title": "The Diamond in the Breakfast Dish",
       "type": "story",
       "difficulty": "CET-4+",
-      "text": "During breakfast at a small hotel, Rosa noticed a diamond ring beneath her empty dish. A recent acquaintance claimed it belonged to his sister and asked Rosa to hide it in her baggage. His nervous voice suggested deceit, so she carried the ring directly to the manager. The true owner soon returned, fearing that the painful loss might be permanent. Camera records showed that the stranger had found the ring first and planned to sell it.",
-      "translation": "在一家小旅馆吃早餐时，罗莎发现空盘子下面有一枚钻戒。一位刚认识的人声称戒指属于他的妹妹，并让罗莎把它藏进行李。他紧张的声音暗示有欺骗，因此她把戒指直接交给经理。真正的主人很快回来，担心这次痛苦的损失会成为永久遗憾。监控记录显示，那名陌生人先发现戒指并打算卖掉它。",
+      "text": "During breakfast at a small hotel, Rosa noticed a diamond ring beneath her empty dish. A recent acquaintance claimed it belonged to his sister and asked Rosa to hide it in her baggage. His nervous voice suggested deceit, so she carried the ring directly to the manager. The true owner soon returned, fearing that the painful loss might be permanent. Camera records showed that the stranger had found the ring first and planned to sell it. After the breakfast party, the owner placed the ring on the counter and offered a small pound reward, which Rosa declined with a polite pardon.",
+      "translation": "在一家小旅馆吃早餐时，罗莎发现空盘子下面有一枚钻戒。一位刚认识的人声称戒指属于他的妹妹，并让罗莎把它藏进行李。他紧张的声音暗示有欺骗，因此她把戒指直接交给经理。真正的主人很快回来，担心这次痛苦的损失会成为永久遗憾。监控记录显示，那名陌生人先发现戒指并打算卖掉它。早餐聚会后，失主把戒指放在柜台上并提出一英镑的小额酬谢，罗莎礼貌婉拒。",
       "sentences": [
         {
           "en": "During breakfast at a small hotel, Rosa noticed a diamond ring beneath her empty dish.",
@@ -31,6 +31,10 @@
         {
           "en": "Camera records showed that the stranger had found the ring first and planned to sell it.",
           "zh": "监控记录显示，那名陌生人先发现戒指并打算卖掉它。"
+        },
+        {
+          "en": "After the breakfast party, the owner placed the ring on the counter and offered a small pound reward, which Rosa declined with a polite pardon.",
+          "zh": "早餐聚会后，失主把戒指放在柜台上并提出一英镑的小额酬谢，罗莎礼貌婉拒。"
         }
       ],
       "target_words": [
@@ -57,6 +61,26 @@
         {
           "word": "diamond",
           "meaning": "n. 金钢石,钻石;菱形"
+        },
+        {
+          "word": "breakfast",
+          "meaning": "n. 早餐v. (给某人)吃早餐"
+        },
+        {
+          "word": "pardon",
+          "meaning": "n. 原谅,宽恕;请再说一遍v. 原谅,饶恕,赦免"
+        },
+        {
+          "word": "party",
+          "meaning": "n. 聚会,政党,当事人v. 举行(参加)社交聚会"
+        },
+        {
+          "word": "counter",
+          "meaning": "n. 柜台;v. 反对,反击"
+        },
+        {
+          "word": "pound",
+          "meaning": "n. 磅;英镑v. (连续)猛击,(猛烈)敲打,捣碎"
         }
       ],
       "questions": [
@@ -77,8 +101,8 @@
       "title": "How Glue Holds Two Surfaces",
       "type": "explanatory",
       "difficulty": "CET-4+",
-      "text": "A thin layer of glue can enter tiny spaces that look smooth to the human eye. When two pieces are pressed together, the liquid spreads and creates many points of contact. Water or another solvent must then evaporate, leaving stronger material behind. Friction and chemical attraction resist movement, making the connection seem permanent. Workers sometimes insert a rough strip between surfaces because texture gives the glue more area to grip.",
-      "translation": "一层薄胶可以进入肉眼看似光滑的表面细缝。两件物体压在一起时，液体扩散并形成许多接触点。水或其他溶剂随后必须蒸发，留下更坚固的材料。摩擦力和化学吸引力抵抗移动，使连接看起来很牢固。工人有时会在表面间加入粗糙条带，因为纹理能让胶水抓住更大面积。",
+      "text": "A thin layer of glue can enter tiny spaces that look smooth to the human eye. When two pieces are pressed together, the liquid spreads and creates many points of contact. Water or another solvent must then evaporate, leaving stronger material behind. Friction and chemical attraction resist movement, making the connection seem permanent. Workers sometimes insert a rough strip between surfaces because texture gives the glue more area to grip. In another form of bonding, a wire follows a longer path so the ratio between contact area and distance can improve strength.",
+      "translation": "一层薄胶可以进入肉眼看似光滑的表面细缝。两件物体压在一起时，液体扩散并形成许多接触点。水或其他溶剂随后必须蒸发，留下更坚固的材料。摩擦力和化学吸引力抵抗移动，使连接看起来很牢固。工人有时会在表面间加入粗糙条带，因为纹理能让胶水抓住更大面积。在另一种黏合形式中，金属丝沿更长路径铺设，使接触面积与距离的比例提升强度。",
       "sentences": [
         {
           "en": "A thin layer of glue can enter tiny spaces that look smooth to the human eye.",
@@ -99,6 +123,10 @@
         {
           "en": "Workers sometimes insert a rough strip between surfaces because texture gives the glue more area to grip.",
           "zh": "工人有时会在表面间加入粗糙条带，因为纹理能让胶水抓住更大面积。"
+        },
+        {
+          "en": "In another form of bonding, a wire follows a longer path so the ratio between contact area and distance can improve strength.",
+          "zh": "在另一种黏合形式中，金属丝沿更长路径铺设，使接触面积与距离的比例提升强度。"
         }
       ],
       "target_words": [
@@ -125,6 +153,26 @@
         {
           "word": "insert",
           "meaning": "vt. 插入 n. 插入物,插页"
+        },
+        {
+          "word": "wire",
+          "meaning": "n. 金属线,电线;电报,电信v. 发电报(给)"
+        },
+        {
+          "word": "ratio",
+          "meaning": "n. 比率"
+        },
+        {
+          "word": "path",
+          "meaning": "n. 小路,小径;路线,轨道"
+        },
+        {
+          "word": "distance",
+          "meaning": "n. 距离,间隔,远方,路程"
+        },
+        {
+          "word": "form",
+          "meaning": "n. 形状,形式;表格v. 组成,构成;形成"
         }
       ],
       "questions": [
@@ -145,8 +193,8 @@
       "title": "Receipts Should Be Easy to Refuse",
       "type": "opinion",
       "difficulty": "CET-4+",
-      "text": "Many shops print a receipt automatically, even when the customer will throw it away immediately. A sensible system would ask for a decision before using paper, rather than after printing. Some people complain that digital records exclude customers without smartphones. That concern is valid, so paper must remain available at a moderate cost to the business. Customers should not have to tolerate waste simply because a machine's default setting is old.",
-      "translation": "许多商店会自动打印小票，即使顾客马上就会扔掉。合理的系统会在用纸前询问顾客，而不是打印后再问。有人抱怨电子记录会排除没有智能手机的顾客。这种担忧合理，因此商家仍应以适度成本提供纸质小票。顾客不应仅因机器默认设置陈旧而忍受浪费。",
+      "text": "Many shops print a receipt automatically, even when the customer will throw it away immediately. A sensible system would ask for a decision before using paper, rather than after printing. Some people complain that digital records exclude customers without smartphones. That concern is valid, so paper must remain available at a moderate cost to the business. Customers should not have to tolerate waste simply because a machine's default setting is old. Shops should cease the daily battle over paper and practise asking first, which would liberate staff from having to assume each customer's choice.",
+      "translation": "许多商店会自动打印小票，即使顾客马上就会扔掉。合理的系统会在用纸前询问顾客，而不是打印后再问。有人抱怨电子记录会排除没有智能手机的顾客。这种担忧合理，因此商家仍应以适度成本提供纸质小票。顾客不应仅因机器默认设置陈旧而忍受浪费。商店应停止每天围绕纸张的争论，练习先询问，从而让员工不必猜测每位顾客的选择。",
       "sentences": [
         {
           "en": "Many shops print a receipt automatically, even when the customer will throw it away immediately.",
@@ -167,6 +215,10 @@
         {
           "en": "Customers should not have to tolerate waste simply because a machine's default setting is old.",
           "zh": "顾客不应仅因机器默认设置陈旧而忍受浪费。"
+        },
+        {
+          "en": "Shops should cease the daily battle over paper and practise asking first, which would liberate staff from having to assume each customer's choice.",
+          "zh": "商店应停止每天围绕纸张的争论，练习先询问，从而让员工不必猜测每位顾客的选择。"
         }
       ],
       "target_words": [
@@ -193,6 +245,26 @@
         {
           "word": "tolerate",
           "meaning": "vt. 容忍,默许;对(药物、毒品等)有耐力"
+        },
+        {
+          "word": "battle",
+          "meaning": "n. 战役,战斗;斗争v. 战斗,斗争,搏斗"
+        },
+        {
+          "word": "liberate",
+          "meaning": "vt. 解放,释放"
+        },
+        {
+          "word": "practise",
+          "meaning": "v. 练习,实习,实践,实行,使...练习,训练"
+        },
+        {
+          "word": "cease",
+          "meaning": "v. 停止"
+        },
+        {
+          "word": "assume",
+          "meaning": "vt. 假定;承担;使用"
         }
       ],
       "questions": [

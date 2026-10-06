@@ -455,6 +455,91 @@ article("Cheap Products Can Be Expensive", "opinion", ["cheap","brilliant","synt
 [("Are synthetic materials always poor quality?","No; many are durable and useful.","合成材料并不必然质量差。"),("What information should buyers receive?","Expected life and available replacement parts.","买家应知道预期寿命和配件供应情况。")] )],
 }
 
+# Extra context is authored separately so the first release keeps its stable article ids
+# while every Day now covers at least thirty distinct words from that Day's list.
+EXPANSIONS = {
+1: [
+(["memory","original","immigrant","reflect","praise"], "The original notice remained in Mei's memory, and an immigrant neighbor asked others to reflect on civic care and praise her effort.", "那张原始通知一直留在梅的记忆中，一位移民邻居请其他人反思公民关怀并称赞她的努力。"),
+(["convention","series","framework","stability","constant"], "A convention on drainage produced a series of tests, giving the city a framework for constant maintenance and long-term stability.", "一次排水会议促成了一系列测试，为城市提供了持续维护和长期稳定的框架。"),
+(["onion","drink","cupboard","towel","coat"], "A diner ordering onion soup and a drink should not need a cupboard, towel, or winter coat to understand the meal's hidden waste.", "点洋葱汤和饮料的顾客不该需要橱柜、毛巾或冬衣，才能理解一顿饭隐藏的浪费。")],
+2: [
+(["officer","sightseeing","uniform","book","leave"], "An officer in uniform advised sightseeing groups to leave the damaged quay, then carried the final book to the school van.", "一名穿制服的工作人员劝观光团离开受损码头，随后把最后一本书送到校车上。"),
+(["eliminate","payment","definite","relation","comprise"], "The upgrade will comprise two alarms with a definite relation between them, although no payment can eliminate the need for testing.", "升级系统将包括两个彼此关系明确的警报器，但再多投入也无法免除测试。"),
+(["criticism","opponent","hardship","virtue","insurance"], "Even an opponent's criticism has virtue when insurance rules increase hardship for families already affected by drought.", "当保险规定加重受旱家庭的困难时，即使反对者的批评也有价值。")],
+3: [
+(["ridge","explosion","protest","resident","fresh"], "A resident recalled the explosion beyond the ridge, while fresh flowers near the mural honored those who had joined the safety protest.", "一位居民回忆起山脊外的爆炸，壁画旁的鲜花则纪念参加安全抗议的人们。"),
+(["equivalent","patch","textile","polish","setting"], "In a museum setting, a faded textile patch has no exact modern equivalent, so conservators polish nearby glass instead of recoloring it.", "在博物馆环境中，褪色的织物补丁没有完全对应的现代替代品，因此修复者只擦亮附近玻璃而不重新上色。"),
+(["dictionary","fluent","emphasis","consideration","worthwhile"], "A fluent explanation and careful dictionary use deserve consideration, because emphasis on reasoning makes assessment more worthwhile.", "流畅的解释和认真使用词典值得纳入评价，因为强调推理会让考核更有意义。")],
+4: [
+(["coffee","footstep","union","unknown","recent"], "Over coffee, a union member described each unknown worker named in recent records, and every approaching footstep brought another listener.", "喝咖啡时，一名工会成员讲述近期档案中每位身份不明的工人，每一阵脚步声都带来新的听众。"),
+(["ice","clue","painter","sting","scatter"], "A painter once used melting ice as a clue to bee movement: cold makes insects scatter slowly and a sting becomes less likely.", "一位画家曾用融冰来提示蜜蜂活动：低温会让昆虫缓慢散开，也降低蜇人的可能。"),
+(["office","hire","unload","detail","assure"], "The railway office should hire trained staff to unload equipment, record every detail, and assure visitors that inspections are genuine.", "铁路办公室应雇用受训员工卸载设备、记录每项细节，并向游客保证检查真实有效。")],
+5: [
+(["holiday","nearby","notice","greet","calendar"], "A calendar error had placed the demonstration on a holiday, but a nearby guard saw the notice and stayed to greet the guest.", "日历错误把演示安排在假日，但附近警卫看见通知后留下迎接嘉宾。"),
+(["transparent","filter","base","slice","fork"], "In a transparent pot, a filter at the base lets students watch a potato slice move when touched by a fork.", "在透明容器中，底部过滤层让学生看到土豆片被叉子触碰时如何移动。"),
+(["reality","money","council","experience","positive"], "The council needs positive evidence from student experience before spending money on a vision that may not match reality.", "委员会在花钱实现可能不符合现实的构想前，需要来自学生体验的积极证据。")],
+6: [
+(["departure","prompt","nose","intimate","place"], "Before departure, a prompt question about pain near the nose helped the doctor rule out a more intimate head injury in that place.", "出发前，对鼻子附近疼痛的及时询问帮助医生排除了该部位更深层的头部损伤。"),
+(["nest","barrel","sow","column","beauty"], "A seed beside a barrel may sow itself, but a protected nest and a bright column of light reveal the quieter beauty of growth.", "木桶旁的种子可能自行播下，但受保护的巢和明亮光柱展现了生长更安静的美。"),
+(["identical","classify","production","oppose","learned"], "Two identical devices may be hard to classify, yet a learned technician can oppose waste by tracing their production faults.", "两个相同设备可能难以分类，但经验丰富的技术员能追查生产故障、反对浪费。")],
+7: [
+(["hill","bang","chief","follow","event"], "After a loud bang beyond the hill, the chief rescuer asked everyone to follow the marked path until the event was under control.", "山后传来巨响后，救援负责人让所有人沿标记路线前进，直到事件受控。"),
+(["rotary","overall","grind","bolt","confirm"], "A rotary test measured the overall grind around each bolt and helped engineers confirm where the engine was losing energy.", "旋转测试测量每个螺栓周围的整体磨损，帮助工程师确认发动机在哪里损失能量。"),
+(["hobby","favourite","workman","quarrel","past"], "A local workman may share his favourite fishing hobby with tourists, turning a quarrel about the past into practical cooperation.", "当地工人可以和游客分享最喜爱的钓鱼爱好，把关于过去的争执转化为实际合作。")],
+8: [
+(["collection","poem","month","express","darling"], "During the final month, a poem from the collection helped one reader express affection by calling an old friend darling again.", "最后一个月里，藏书中的一首诗帮助一名读者表达感情，再次亲切地称呼老朋友。"),
+(["extreme","highly","nothing","structural","breast"], "In an extreme deficiency, highly visible weakness may appear, but nothing should replace a structural examination of blood and breast tissue.", "在严重缺乏时可能出现明显虚弱，但任何东西都不能替代对血液和乳腺组织的系统检查。"),
+(["attribute","survive","punctual","mysterious","interior"], "Managers should not attribute a mysterious smell in the interior to careless workers simply because punctual production helped the factory survive.", "管理者不应仅因准时生产帮助工厂维持运转，就把内部的神秘气味归咎于粗心工人。")],
+9: [
+(["breakfast","pardon","party","counter","pound"], "After the breakfast party, the owner placed the ring on the counter and offered a small pound reward, which Rosa declined with a polite pardon.", "早餐聚会后，失主把戒指放在柜台上并提出一英镑的小额酬谢，罗莎礼貌婉拒。"),
+(["wire","ratio","path","distance","form"], "In another form of bonding, a wire follows a longer path so the ratio between contact area and distance can improve strength.", "在另一种黏合形式中，金属丝沿更长路径铺设，使接触面积与距离的比例提升强度。"),
+(["battle","liberate","practise","cease","assume"], "Shops should cease the daily battle over paper and practise asking first, which would liberate staff from having to assume each customer's choice.", "商店应停止每天围绕纸张的争论，练习先询问，从而让员工不必猜测每位顾客的选择。")],
+10: [
+(["steamer","ankle","shield","guess","vivid"], "A vivid steamer tattoo above the injured ankle gave the guard another clue, although he refused to guess before checking and used a screen as a shield.", "受伤脚踝上方鲜明的轮船纹身给乘警提供了另一条线索，但他在核实前拒绝猜测，并用屏风遮挡。"),
+(["grocer","chop","origin","farm","northern"], "A northern grocer may chop fruit from a distant farm, but clear origin labels still help buyers judge how long it has travelled.", "北方杂货商可能切开来自远方农场的水果，但清晰产地标签仍能帮助买家判断运输时间。"),
+(["keyboard","print","fifteen","ball","only"], "A rule that limits motion to fifteen seconds and requires keyboard control would print clearly on permits, but it is only a starting point, not a magic ball.", "把动态限制在十五秒并要求键盘控制的规则可以清楚写入许可，但这只是起点，不是魔法球。")],
+11: [
+(["drive","mile","pick","December","lover"], "In December, a former lover had to drive every mile back to pick up papers he believed were still his.", "十二月里，一位旧情人不得不开很远的车回来取他认为仍属于自己的文件。"),
+(["semiconductor","capital","troop","fill","middle"], "A semiconductor sensor in the middle of each tank sends data to the capital control room, where a repair troop can fill damaged sections.", "每个水舱中部的半导体传感器把数据发送到中央控制室，维修队可以在那里填补受损部分。"),
+(["chairman","individual","partner","arise","steady"], "When questions arise, the chairman should let each individual partner speak and keep the review steady rather than defend the first version.", "问题出现时，主席应让每位合作方发言，并保持审查稳定，而不是维护最初版本。")],
+12: [
+(["charge","late","Italian","attend","editor"], "An Italian editor who arrived late offered to charge a spare battery, then stayed to attend the roadside meal.", "一位迟到的意大利编辑主动给备用电池充电，随后留下参加路边聚餐。"),
+(["pattern","coal","dye","operational","eye"], "A stain pattern can use dye to reveal coal dust that the naked eye misses, provided the instrument remains operational.", "染色图案可以用染料显示肉眼看不到的煤尘，前提是仪器保持正常工作。"),
+(["Greek","contrary","tedious","worm","hook"], "A Greek-style courtyard may look contrary to modern taste, but even a tedious garden task such as removing a worm from a hook can begin conversation.", "希腊式庭院可能与现代审美相反，但即使把虫从钩上取下这种乏味园艺也能引发交流。")],
+13: [
+(["basket","touch","lap","northwest","enquiry"], "An enquiry from a northwest museum arrived while the balloon rested in a basket on one brother's lap, safe from every careless touch.", "西北一家博物馆发来询问时，气球正放在一个兄弟腿上的篮子里，避免了随意触碰。"),
+(["percent","corresponding","tone","exhaust","pronounce"], "A ten percent change in aroma may have a corresponding effect on tone, making a tired cook exhaust every way to pronounce the result delicious.", "香气百分之十的变化可能对整体感觉产生相应影响，让疲惫厨师想尽办法把结果说成美味。"),
+(["superior","rational","content","recently","despite"], "Despite a recently published claim that official content is superior, a rational archive must include ordinary voices too.", "尽管最近有说法认为官方内容更优，理性的档案仍必须纳入普通人的声音。")],
+14: [
+(["appetite","people","grip","commander","recall"], "The race commander asked people to recall the runner's lost appetite and weak grip, details that made dehydration more likely.", "比赛负责人请人们回想跑者食欲下降和握力变弱的情况，这些细节使脱水更可能。"),
+(["spin","quick","seal","mould","forge"], "A quick scan can make letters seem to spin, while a poor seal lets dust mould the image and forge false edges.", "快速扫描可能让字母看似旋转，而密封不良会让灰尘塑造图像并形成虚假边缘。"),
+(["behalf","mankind","mild","pray","enthusiasm"], "Speaking on behalf of mankind with too much enthusiasm is unhelpful; a mild request and time to reflect work better than asking opponents to pray.", "过度热情地代表全人类发言并无帮助；温和请求和反思时间比要求对手祈祷更有效。")],
+15: [
+(["spring","creature","terror","triumph","night"], "That spring night, the creature's terror mattered more than sporting triumph, and the crowd accepted the delay.", "那个春夜，动物的恐惧比体育胜利更重要，观众接受了延误。"),
+(["tap","blend","altitude","throat","horn"], "At high altitude, a tap of water and the blend of signals from the throat and a nearby horn can also influence growth experiments.", "在高海拔地区，一点自来水以及喉部和附近号角声的混合信号也可能影响生长实验。"),
+(["privilege","treatment","propose","applicable","index"], "Access is a right rather than a privilege, so councils should propose an applicable cleanliness index and equal treatment across districts.", "使用公厕是权利而非特权，因此委员会应提出适用的清洁指数，并让各地区得到平等对待。")],
+16: [
+(["coin","laughter","early","peaceful","player"], "One early passenger, a street music player, found the final coin; his laughter restored the peaceful mood.", "一位早到的街头乐手找到了最后一枚硬币，他的笑声让车厢恢复平静。"),
+(["dozen","progress","submit","install","renew"], "After a dozen trials showed progress, inventors could submit a design, install it in a mill, and renew the measurement standard.", "经过十二次试验取得进展后，发明者可以提交设计、在工厂安装并更新测量标准。"),
+(["lawyer","mislead","background","demand","rare"], "A lawyer warned that rare national gains can mislead planners when a neighborhood's background, health, and demand for safe streets disappear from the calculation.", "律师警告说，如果社区背景、健康和对安全街道的需求从计算中消失，少见的全国性收益也可能误导规划者。")],
+17: [
+(["egg","ninth","knee","happy","piece"], "A ninth pupil balanced an egg on his knee, happy to contribute one unexpected piece of data about careful eating.", "第九名学生把鸡蛋放在膝上，很高兴为谨慎饮食贡献一项意外数据。"),
+(["figure","obtain","swift","evident","former"], "To obtain a reliable figure, a swift test compares the damaged cable with its former state until the break becomes evident.", "为获得可靠数值，快速测试会把损坏电缆与原状态比较，直到断点清晰可见。"),
+(["flower","romantic","inquiry","cook","interest"], "A romantic flower logo or a famous cook may attract interest, but honest inquiry should remain the basis of funding.", "浪漫花形标志或名厨可以吸引兴趣，但诚实调查应保持为资助基础。")],
+18: [
+(["crack","pink","elephant","helicopter","occurrence"], "A pink elephant painted beside a crack and a helicopter landing mark showed that the secret garden was no ordinary occurrence.", "裂缝旁画着粉色大象和直升机降落标志，说明秘密花园绝非普通事件。"),
+(["bond","bind","bleed","brand","subtract"], "A strong metal bond must bind the blades without letting heat bleed into the frame, where friction would subtract useful energy from any brand of turbine.", "牢固金属连接必须固定叶片，不能让热量渗入框架，否则摩擦会从任何品牌的涡轮中消耗有效能量。"),
+(["nobody","lately","person","graceful","keen"], "Nobody needs to become a graceful or impressive person during rest; even a keen learner may lately have needed an empty afternoon.", "休息时没人需要表现得优雅出众；即使好学的人最近也可能需要一个空闲下午。")],
+19: [
+(["rail","scenery","head","square","width"], "From the aircraft, a square rail depot changed the scenery; its full width became clear as the pilot turned his head.", "从飞机上看，一座方形铁路货场改变了景色；飞行员转头时才看清它的完整宽度。"),
+(["cubic","crude","hence","particular","rid"], "A cubic container helps separate a particular crude oil sample, hence making it easier to get rid of contaminated water below.", "立方容器有助于分离特定原油样本，从而更容易清除下方受污染的水。"),
+(["leader","behave","cross","drag","classical"], "A farm leader should not drag out a warning until clouds cross the horizon; classical models can behave unpredictably too.", "农场负责人不应把警报拖到乌云越过地平线之后，传统模型也可能表现得不可预测。")],
+20: [
+(["disposal","withstand","hurry","find","previous"], "The team did not hurry into disposal; they checked whether the previous container could withstand heat and tried to find its safety record.", "团队没有急于处置，而是检查先前容器能否承受高温，并查找其安全记录。"),
+(["disk","link","pillar","reserve","swallow"], "A sensor disk can link the valve to a central pillar, while a reserve layer prevents the rubber from collapsing if it must swallow a sudden shock.", "传感圆盘可以把阀门连接到中央支柱，备用层则防止橡胶在承受突然冲击时塌陷。"),
+(["China","loyal","goal","reproduce","extent"], "A loyal buyer in China may reproduce a favorable review, but the real goal is to reveal the extent of a product's useful life.", "中国的忠实买家可能转发好评，但真正目标是说明产品有效寿命的程度。")],
+}
+
 
 def main():
     OUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -463,6 +548,8 @@ def main():
         words = {item["word"].casefold(): item for item in source["items"]}
         articles = []
         for number, draft in enumerate(drafts, 1):
+            extra_words, extra_en, extra_zh = EXPANSIONS[day][number - 1]
+            draft = {**draft, "targets": draft["targets"] + extra_words, "pairs": draft["pairs"] + [(extra_en, extra_zh)]}
             targets = []
             for word in draft["targets"]:
                 if word.casefold() not in words:

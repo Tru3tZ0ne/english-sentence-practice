@@ -9,8 +9,8 @@
       "title": "A Puzzle in the Medical Tent",
       "type": "story",
       "difficulty": "CET-4+",
-      "text": "A runner entered the medical tent with a racing heart and a fearful expression. The nurse used a small gauge to check his blood pressure, which was lower than expected. His symptoms formed a puzzle because he had eaten well and suffered no obvious injury. From the salt marks on his shirt, the doctor could deduce that he had lost too much fluid. Water and minerals soon restored him, and he left with a safer plan for future races.",
-      "translation": "一名跑者心跳很快、神情恐惧地走进医疗帐篷。护士用小仪表测量他的血压，结果比预期低。他的症状成了谜，因为他吃得很好，也没有明显受伤。医生从他衬衫上的盐渍推断出他流失了过多水分。水和矿物质很快让他恢复，他也带着更安全的比赛计划离开。",
+      "text": "A runner entered the medical tent with a racing heart and a fearful expression. The nurse used a small gauge to check his blood pressure, which was lower than expected. His symptoms formed a puzzle because he had eaten well and suffered no obvious injury. From the salt marks on his shirt, the doctor could deduce that he had lost too much fluid. Water and minerals soon restored him, and he left with a safer plan for future races. The race commander asked people to recall the runner's lost appetite and weak grip, details that made dehydration more likely.",
+      "translation": "一名跑者心跳很快、神情恐惧地走进医疗帐篷。护士用小仪表测量他的血压，结果比预期低。他的症状成了谜，因为他吃得很好，也没有明显受伤。医生从他衬衫上的盐渍推断出他流失了过多水分。水和矿物质很快让他恢复，他也带着更安全的比赛计划离开。比赛负责人请人们回想跑者食欲下降和握力变弱的情况，这些细节使脱水更可能。",
       "sentences": [
         {
           "en": "A runner entered the medical tent with a racing heart and a fearful expression.",
@@ -31,6 +31,10 @@
         {
           "en": "Water and minerals soon restored him, and he left with a safer plan for future races.",
           "zh": "水和矿物质很快让他恢复，他也带着更安全的比赛计划离开。"
+        },
+        {
+          "en": "The race commander asked people to recall the runner's lost appetite and weak grip, details that made dehydration more likely.",
+          "zh": "比赛负责人请人们回想跑者食欲下降和握力变弱的情况，这些细节使脱水更可能。"
         }
       ],
       "target_words": [
@@ -57,6 +61,26 @@
         {
           "word": "deduce",
           "meaning": "vt. 演绎,推论"
+        },
+        {
+          "word": "appetite",
+          "meaning": "n. 食欲"
+        },
+        {
+          "word": "people",
+          "meaning": "n. 人们,人;[the -"
+        },
+        {
+          "word": "grip",
+          "meaning": "v./n. 紧握,抓紧,握力;柄;吸引"
+        },
+        {
+          "word": "commander",
+          "meaning": "n.司令官,指挥员"
+        },
+        {
+          "word": "recall",
+          "meaning": "vt./n. 召回;回忆"
         }
       ],
       "questions": [
@@ -77,8 +101,8 @@
       "title": "How Scanners Turn Light into Data",
       "type": "explanatory",
       "difficulty": "CET-4+",
-      "text": "A document scanner sends a narrow line of light across a page from one edge to the other. White areas reflect more light, while dark ink sends less back to the sensor. This changing signal becomes digital input arranged in rows as the mechanism moves downward. Basic software then corrects small shadows and predicts where letters begin and finish. A sharper scan stores more detail, but it also creates a larger file.",
-      "translation": "文件扫描仪让一束窄光从纸张一边扫到另一边。白色区域反射更多光线，深色墨迹返回传感器的光更少。当机械装置向下移动时，变化的信号成为按行排列的数字输入。基础软件随后修正小阴影，并判断字母的起止位置。更清晰的扫描会保存更多细节，但也会产生更大的文件。",
+      "text": "A document scanner sends a narrow line of light across a page from one edge to the other. White areas reflect more light, while dark ink sends less back to the sensor. This changing signal becomes digital input arranged in rows as the mechanism moves downward. Basic software then corrects small shadows and predicts where letters begin and finish. A sharper scan stores more detail, but it also creates a larger file. A quick scan can make letters seem to spin, while a poor seal lets dust mould the image and forge false edges.",
+      "translation": "文件扫描仪让一束窄光从纸张一边扫到另一边。白色区域反射更多光线，深色墨迹返回传感器的光更少。当机械装置向下移动时，变化的信号成为按行排列的数字输入。基础软件随后修正小阴影，并判断字母的起止位置。更清晰的扫描会保存更多细节，但也会产生更大的文件。快速扫描可能让字母看似旋转，而密封不良会让灰尘塑造图像并形成虚假边缘。",
       "sentences": [
         {
           "en": "A document scanner sends a narrow line of light across a page from one edge to the other.",
@@ -99,6 +123,10 @@
         {
           "en": "A sharper scan stores more detail, but it also creates a larger file.",
           "zh": "更清晰的扫描会保存更多细节，但也会产生更大的文件。"
+        },
+        {
+          "en": "A quick scan can make letters seem to spin, while a poor seal lets dust mould the image and forge false edges.",
+          "zh": "快速扫描可能让字母看似旋转，而密封不良会让灰尘塑造图像并形成虚假边缘。"
         }
       ],
       "target_words": [
@@ -125,6 +153,26 @@
         {
           "word": "finish",
           "meaning": "n. 完成;结束;磨光v. 完成;结束;用完;毁掉"
+        },
+        {
+          "word": "spin",
+          "meaning": "vt./vi. 纺纱,编结;编造故事; n./vi. 眩晕"
+        },
+        {
+          "word": "quick",
+          "meaning": "a. 快的;灵敏的,伶俐的;敏锐的ad. 快,迅速地"
+        },
+        {
+          "word": "seal",
+          "meaning": "n./v. 海豹;封蜡,封印;印记"
+        },
+        {
+          "word": "mould",
+          "meaning": "n. 模子,模型;模制品"
+        },
+        {
+          "word": "forge",
+          "meaning": "n. 锻工车间,铁匠店;vt. 锻造,经锻炼而形成;伪造"
         }
       ],
       "questions": [
@@ -145,8 +193,8 @@
       "title": "Economic Debate Needs Mild Language",
       "type": "opinion",
       "difficulty": "CET-4+",
-      "text": "Economic debate often becomes aggressive when speakers treat disagreement as a personal weakness. A political minority may then show resistance simply to defend its identity. Leaders should be proud of changing their position when stronger evidence reveals a mistake. Mild language leaves room for correction without demanding public humiliation. Firm ideas and respectful speech can exist together, and policy improves when they do.",
-      "translation": "当发言者把分歧视为个人弱点时，经济讨论常会变得咄咄逼人。政治少数派可能仅为维护身份而表现出抵制。当更有力证据揭示错误时，领导者应为改变立场而感到自豪。温和语言为纠错留下空间，也无需公开羞辱。坚定观点与尊重表达可以并存，而两者并存时政策会更好。",
+      "text": "Economic debate often becomes aggressive when speakers treat disagreement as a personal weakness. A political minority may then show resistance simply to defend its identity. Leaders should be proud of changing their position when stronger evidence reveals a mistake. Mild language leaves room for correction without demanding public humiliation. Firm ideas and respectful speech can exist together, and policy improves when they do. Speaking on behalf of mankind with too much enthusiasm is unhelpful; a mild request and time to reflect work better than asking opponents to pray.",
+      "translation": "当发言者把分歧视为个人弱点时，经济讨论常会变得咄咄逼人。政治少数派可能仅为维护身份而表现出抵制。当更有力证据揭示错误时，领导者应为改变立场而感到自豪。温和语言为纠错留下空间，也无需公开羞辱。坚定观点与尊重表达可以并存，而两者并存时政策会更好。过度热情地代表全人类发言并无帮助；温和请求和反思时间比要求对手祈祷更有效。",
       "sentences": [
         {
           "en": "Economic debate often becomes aggressive when speakers treat disagreement as a personal weakness.",
@@ -167,6 +215,10 @@
         {
           "en": "Firm ideas and respectful speech can exist together, and policy improves when they do.",
           "zh": "坚定观点与尊重表达可以并存，而两者并存时政策会更好。"
+        },
+        {
+          "en": "Speaking on behalf of mankind with too much enthusiasm is unhelpful; a mild request and time to reflect work better than asking opponents to pray.",
+          "zh": "过度热情地代表全人类发言并无帮助；温和请求和反思时间比要求对手祈祷更有效。"
         }
       ],
       "target_words": [
@@ -193,6 +245,26 @@
         {
           "word": "mistake",
           "meaning": "n. 错误,过失,误解v. 弄错;(for)把...误认为"
+        },
+        {
+          "word": "behalf",
+          "meaning": "n. 利益;方面;支持"
+        },
+        {
+          "word": "mankind",
+          "meaning": "n. 人类"
+        },
+        {
+          "word": "mild",
+          "meaning": "a. 温和的,轻微的,味淡的,不含有害物质的的"
+        },
+        {
+          "word": "pray",
+          "meaning": "v. 请求,恳求;祈祷,祈求"
+        },
+        {
+          "word": "enthusiasm",
+          "meaning": "n. 热情,热心;狂热;积极性(for)"
         }
       ],
       "questions": [

@@ -36,6 +36,11 @@ def main() -> int:
                 payload = loader.load_day(index, day["day"])
                 if len(payload["items"]) > index["day_size"]:
                     raise WordlistValidationError(f"Day {day['day']} 超过 {index['day_size']} 词")
+                excel_file = day.get("excel_file")
+                if excel_file:
+                    excel_path = (Path(index["_directory"]) / excel_file).resolve()
+                    if not excel_path.is_file() or excel_path.suffix.lower() != ".xlsx":
+                        raise WordlistValidationError(f"Day {day['day']} 缺少 Excel 下载文件")
                 for item in payload["items"]:
                     key = normalized_word(item["word"])
                     if item["id"] in ids:
