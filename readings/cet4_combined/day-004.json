@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 4,
+  "articles": [
+    {
+      "id": "cet4-reading-d004-1",
+      "title": "Coffee Beside the Statue",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "One hot July morning, volunteers served coffee beside a statue in the railway square. Their voluntary performance told the story of workers who had built the line a century earlier. At first, the audience laughed at an immigrant actor's accent, revealing an old prejudice. Then he described how his grandfather had risked his life on the same tracks. The square fell quiet, and the event raised funds for retired workers' welfare.",
+      "translation": "七月一个炎热的早晨，志愿者们在铁路广场的雕像旁供应咖啡。他们的志愿演出讲述了一百年前修建铁路的工人的故事。起初，观众嘲笑一位移民演员的口音，暴露出一种旧偏见。随后，他讲述了祖父如何在同一条铁轨上冒着生命危险工作。广场安静下来，这场活动也为退休工人的福利筹得资金。",
+      "sentences": [
+        {
+          "en": "One hot July morning, volunteers served coffee beside a statue in the railway square.",
+          "zh": "七月一个炎热的早晨，志愿者们在铁路广场的雕像旁供应咖啡。"
+        },
+        {
+          "en": "Their voluntary performance told the story of workers who had built the line a century earlier.",
+          "zh": "他们的志愿演出讲述了一百年前修建铁路的工人的故事。"
+        },
+        {
+          "en": "At first, the audience laughed at an immigrant actor's accent, revealing an old prejudice.",
+          "zh": "起初，观众嘲笑一位移民演员的口音，暴露出一种旧偏见。"
+        },
+        {
+          "en": "Then he described how his grandfather had risked his life on the same tracks.",
+          "zh": "随后，他讲述了祖父如何在同一条铁轨上冒着生命危险工作。"
+        },
+        {
+          "en": "The square fell quiet, and the event raised funds for retired workers' welfare.",
+          "zh": "广场安静下来，这场活动也为退休工人的福利筹得资金。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "July",
+          "meaning": "n. 七月"
+        },
+        {
+          "word": "statue",
+          "meaning": "n. 塑像,雕像"
+        },
+        {
+          "word": "audience",
+          "meaning": "n. 听众,观众,读者"
+        },
+        {
+          "word": "prejudice",
+          "meaning": "n. 偏见,成见;(法律)损害,伤害"
+        },
+        {
+          "word": "voluntary",
+          "meaning": "a. 自愿的,志愿的;有意的"
+        },
+        {
+          "word": "welfare",
+          "meaning": "n. 幸福,福利,社会保障"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What changed the audience's attitude?",
+          "answer": "The actor's story about his grandfather.",
+          "explanation": "演员讲述祖父的经历后，观众改变了态度。"
+        },
+        {
+          "prompt": "What did the event fund?",
+          "answer": "Welfare for retired workers.",
+          "explanation": "活动为退休工人的福利筹款。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d004-2",
+      "title": "How Bees Find Their Direction",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "A bee can judge direction by comparing the sun's position with patterns of light in the sky. Even when clouds are dense, its visual system can detect signals that human eyes miss. Near the hive, flowers sway and landmarks may change, so the insect also remembers shapes along the horizon. Inside, it performs a dance whose angle points other bees toward food. This tiny navigation system combines light, movement, distance, and memory.",
+      "translation": "蜜蜂可以通过比较太阳位置与天空中的光线模式来判断方向。即使云层浓密，它的视觉系统也能察觉人眼看不到的信号。在蜂巢附近，花朵会摇摆，地标也可能改变，因此蜜蜂还会记住地平线上的形状。回到蜂巢后，它会用舞蹈角度为其他蜜蜂指出食物方向。这套微小的导航系统结合了光线、运动、距离和记忆。",
+      "sentences": [
+        {
+          "en": "A bee can judge direction by comparing the sun's position with patterns of light in the sky.",
+          "zh": "蜜蜂可以通过比较太阳位置与天空中的光线模式来判断方向。"
+        },
+        {
+          "en": "Even when clouds are dense, its visual system can detect signals that human eyes miss.",
+          "zh": "即使云层浓密，它的视觉系统也能察觉人眼看不到的信号。"
+        },
+        {
+          "en": "Near the hive, flowers sway and landmarks may change, so the insect also remembers shapes along the horizon.",
+          "zh": "在蜂巢附近，花朵会摇摆，地标也可能改变，因此蜜蜂还会记住地平线上的形状。"
+        },
+        {
+          "en": "Inside, it performs a dance whose angle points other bees toward food.",
+          "zh": "回到蜂巢后，它会用舞蹈角度为其他蜜蜂指出食物方向。"
+        },
+        {
+          "en": "This tiny navigation system combines light, movement, distance, and memory.",
+          "zh": "这套微小的导航系统结合了光线、运动、距离和记忆。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "bee",
+          "meaning": "n. 蜂,蜜蜂;忙碌的人"
+        },
+        {
+          "word": "direction",
+          "meaning": "n. 方向,方位;指令,说明"
+        },
+        {
+          "word": "visual",
+          "meaning": "a. 看的,看得见的;视觉的"
+        },
+        {
+          "word": "horizon",
+          "meaning": "n. 地平线;(常pl. )眼界,见识"
+        },
+        {
+          "word": "sway",
+          "meaning": "v./n. 摇摆;统治,支配"
+        },
+        {
+          "word": "dense",
+          "meaning": "a. 浓密的,密集的,愚笨的"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What can bees detect through dense clouds?",
+          "answer": "Patterns of light humans cannot see.",
+          "explanation": "蜜蜂能探测人眼看不到的光线模式。"
+        },
+        {
+          "prompt": "How does a bee share a food direction?",
+          "answer": "By performing a dance.",
+          "explanation": "蜜蜂通过舞蹈传递方向。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d004-3",
+      "title": "Old Railroads Need Modern Safety",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "Historic railroad journeys attract visitors, but charming engines do not remove modern risks. Operators need proper preparation, trained staff, and a clear plan to prevent collisions. Critics say the financial burden may force small heritage lines to close. However, regional museums can organize shared inspections and equipment purchases to reduce cost. Preserving history is worthwhile only when passengers and workers can trust the journey.",
+      "translation": "历史铁路旅行很吸引游客，但迷人的老式机车并不能消除现代风险。运营方需要充分准备、受训员工和明确方案来防止碰撞。批评者认为，经济负担可能迫使小型遗产铁路关闭。不过，地区博物馆可以组织联合检查和设备采购来降低成本。只有乘客和员工能够信任旅程安全时，保存历史才有意义。",
+      "sentences": [
+        {
+          "en": "Historic railroad journeys attract visitors, but charming engines do not remove modern risks.",
+          "zh": "历史铁路旅行很吸引游客，但迷人的老式机车并不能消除现代风险。"
+        },
+        {
+          "en": "Operators need proper preparation, trained staff, and a clear plan to prevent collisions.",
+          "zh": "运营方需要充分准备、受训员工和明确方案来防止碰撞。"
+        },
+        {
+          "en": "Critics say the financial burden may force small heritage lines to close.",
+          "zh": "批评者认为，经济负担可能迫使小型遗产铁路关闭。"
+        },
+        {
+          "en": "However, regional museums can organize shared inspections and equipment purchases to reduce cost.",
+          "zh": "不过，地区博物馆可以组织联合检查和设备采购来降低成本。"
+        },
+        {
+          "en": "Preserving history is worthwhile only when passengers and workers can trust the journey.",
+          "zh": "只有乘客和员工能够信任旅程安全时，保存历史才有意义。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "railroad",
+          "meaning": "n. 铁路v. 由铁道运输"
+        },
+        {
+          "word": "preparation",
+          "meaning": "n. 准备,预备;制剂,制备品"
+        },
+        {
+          "word": "organize",
+          "meaning": "v. 组织,编组"
+        },
+        {
+          "word": "proper",
+          "meaning": "a. 适合的;合乎体统的;固有的;有礼貌的"
+        },
+        {
+          "word": "financial",
+          "meaning": "a. 财政的,金融的"
+        },
+        {
+          "word": "prevent",
+          "meaning": "v. (from)预防,防止,阻止,制止,妨碍"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What might force small heritage lines to close?",
+          "answer": "The financial burden of safety measures.",
+          "explanation": "安全措施带来的经济负担可能导致关闭。"
+        },
+        {
+          "prompt": "How can museums reduce costs?",
+          "answer": "Through shared inspections and purchases.",
+          "explanation": "联合检查和采购可以降低成本。"
+        }
+      ]
+    }
+  ]
+}

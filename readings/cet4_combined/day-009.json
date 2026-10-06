@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 9,
+  "articles": [
+    {
+      "id": "cet4-reading-d009-1",
+      "title": "The Diamond in the Breakfast Dish",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "During breakfast at a small hotel, Rosa noticed a diamond ring beneath her empty dish. A recent acquaintance claimed it belonged to his sister and asked Rosa to hide it in her baggage. His nervous voice suggested deceit, so she carried the ring directly to the manager. The true owner soon returned, fearing that the painful loss might be permanent. Camera records showed that the stranger had found the ring first and planned to sell it.",
+      "translation": "在一家小旅馆吃早餐时，罗莎发现空盘子下面有一枚钻戒。一位刚认识的人声称戒指属于他的妹妹，并让罗莎把它藏进行李。他紧张的声音暗示有欺骗，因此她把戒指直接交给经理。真正的主人很快回来，担心这次痛苦的损失会成为永久遗憾。监控记录显示，那名陌生人先发现戒指并打算卖掉它。",
+      "sentences": [
+        {
+          "en": "During breakfast at a small hotel, Rosa noticed a diamond ring beneath her empty dish.",
+          "zh": "在一家小旅馆吃早餐时，罗莎发现空盘子下面有一枚钻戒。"
+        },
+        {
+          "en": "A recent acquaintance claimed it belonged to his sister and asked Rosa to hide it in her baggage.",
+          "zh": "一位刚认识的人声称戒指属于他的妹妹，并让罗莎把它藏进行李。"
+        },
+        {
+          "en": "His nervous voice suggested deceit, so she carried the ring directly to the manager.",
+          "zh": "他紧张的声音暗示有欺骗，因此她把戒指直接交给经理。"
+        },
+        {
+          "en": "The true owner soon returned, fearing that the painful loss might be permanent.",
+          "zh": "真正的主人很快回来，担心这次痛苦的损失会成为永久遗憾。"
+        },
+        {
+          "en": "Camera records showed that the stranger had found the ring first and planned to sell it.",
+          "zh": "监控记录显示，那名陌生人先发现戒指并打算卖掉它。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "baggage",
+          "meaning": "n. 行李"
+        },
+        {
+          "word": "deceit",
+          "meaning": "n.欺骗,欺诈行为"
+        },
+        {
+          "word": "painful",
+          "meaning": "a. 疼痛的,使痛苦的,费力[心"
+        },
+        {
+          "word": "acquaintance",
+          "meaning": "n. 认识,相识,了解;相识的人,熟人"
+        },
+        {
+          "word": "dish",
+          "meaning": "n. 碟子,盘子,菜肴"
+        },
+        {
+          "word": "diamond",
+          "meaning": "n. 金钢石,钻石;菱形"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why did Rosa distrust the acquaintance?",
+          "answer": "His request and nervous voice suggested deceit.",
+          "explanation": "他的要求和紧张语气令人生疑。"
+        },
+        {
+          "prompt": "How was the truth confirmed?",
+          "answer": "Through the hotel's camera records.",
+          "explanation": "酒店监控证实了真相。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d009-2",
+      "title": "How Glue Holds Two Surfaces",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "A thin layer of glue can enter tiny spaces that look smooth to the human eye. When two pieces are pressed together, the liquid spreads and creates many points of contact. Water or another solvent must then evaporate, leaving stronger material behind. Friction and chemical attraction resist movement, making the connection seem permanent. Workers sometimes insert a rough strip between surfaces because texture gives the glue more area to grip.",
+      "translation": "一层薄胶可以进入肉眼看似光滑的表面细缝。两件物体压在一起时，液体扩散并形成许多接触点。水或其他溶剂随后必须蒸发，留下更坚固的材料。摩擦力和化学吸引力抵抗移动，使连接看起来很牢固。工人有时会在表面间加入粗糙条带，因为纹理能让胶水抓住更大面积。",
+      "sentences": [
+        {
+          "en": "A thin layer of glue can enter tiny spaces that look smooth to the human eye.",
+          "zh": "一层薄胶可以进入肉眼看似光滑的表面细缝。"
+        },
+        {
+          "en": "When two pieces are pressed together, the liquid spreads and creates many points of contact.",
+          "zh": "两件物体压在一起时，液体扩散并形成许多接触点。"
+        },
+        {
+          "en": "Water or another solvent must then evaporate, leaving stronger material behind.",
+          "zh": "水或其他溶剂随后必须蒸发，留下更坚固的材料。"
+        },
+        {
+          "en": "Friction and chemical attraction resist movement, making the connection seem permanent.",
+          "zh": "摩擦力和化学吸引力抵抗移动，使连接看起来很牢固。"
+        },
+        {
+          "en": "Workers sometimes insert a rough strip between surfaces because texture gives the glue more area to grip.",
+          "zh": "工人有时会在表面间加入粗糙条带，因为纹理能让胶水抓住更大面积。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "layer",
+          "meaning": "n. 层"
+        },
+        {
+          "word": "glue",
+          "meaning": "n. 胶,胶水;vt. 粘贴,紧贴"
+        },
+        {
+          "word": "evaporate",
+          "meaning": "v. 使蒸发,使脱水,消失"
+        },
+        {
+          "word": "friction",
+          "meaning": "n. 摩擦力;摩擦;不和,倾轧"
+        },
+        {
+          "word": "permanent",
+          "meaning": "a. 永久的,持久的"
+        },
+        {
+          "word": "insert",
+          "meaning": "vt. 插入 n. 插入物,插页"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What remains after the solvent evaporates?",
+          "answer": "The stronger adhesive material.",
+          "explanation": "溶剂蒸发后留下更强的黏合材料。"
+        },
+        {
+          "prompt": "Why can a rough strip improve the bond?",
+          "answer": "It gives the glue more area to grip.",
+          "explanation": "粗糙纹理增加胶水的接触面积。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d009-3",
+      "title": "Receipts Should Be Easy to Refuse",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "Many shops print a receipt automatically, even when the customer will throw it away immediately. A sensible system would ask for a decision before using paper, rather than after printing. Some people complain that digital records exclude customers without smartphones. That concern is valid, so paper must remain available at a moderate cost to the business. Customers should not have to tolerate waste simply because a machine's default setting is old.",
+      "translation": "许多商店会自动打印小票，即使顾客马上就会扔掉。合理的系统会在用纸前询问顾客，而不是打印后再问。有人抱怨电子记录会排除没有智能手机的顾客。这种担忧合理，因此商家仍应以适度成本提供纸质小票。顾客不应仅因机器默认设置陈旧而忍受浪费。",
+      "sentences": [
+        {
+          "en": "Many shops print a receipt automatically, even when the customer will throw it away immediately.",
+          "zh": "许多商店会自动打印小票，即使顾客马上就会扔掉。"
+        },
+        {
+          "en": "A sensible system would ask for a decision before using paper, rather than after printing.",
+          "zh": "合理的系统会在用纸前询问顾客，而不是打印后再问。"
+        },
+        {
+          "en": "Some people complain that digital records exclude customers without smartphones.",
+          "zh": "有人抱怨电子记录会排除没有智能手机的顾客。"
+        },
+        {
+          "en": "That concern is valid, so paper must remain available at a moderate cost to the business.",
+          "zh": "这种担忧合理，因此商家仍应以适度成本提供纸质小票。"
+        },
+        {
+          "en": "Customers should not have to tolerate waste simply because a machine's default setting is old.",
+          "zh": "顾客不应仅因机器默认设置陈旧而忍受浪费。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "complain",
+          "meaning": "v. (about,of)抱怨;申诉"
+        },
+        {
+          "word": "decision",
+          "meaning": "n. 决定,决心;决议;决策"
+        },
+        {
+          "word": "receipt",
+          "meaning": "n. 收到,收据"
+        },
+        {
+          "word": "sensible",
+          "meaning": "a. 明智的;可感觉的"
+        },
+        {
+          "word": "moderate",
+          "meaning": "a. 适度的,适中的;n. 稳健的人,政治上温 和派;vt./vi. 缓和,节制;减轻"
+        },
+        {
+          "word": "tolerate",
+          "meaning": "vt. 容忍,默许;对(药物、毒品等)有耐力"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "When should shops ask about receipts?",
+          "answer": "Before printing them.",
+          "explanation": "商店应在打印前询问。"
+        },
+        {
+          "prompt": "Why must paper receipts remain available?",
+          "answer": "Some customers lack smartphones.",
+          "explanation": "部分顾客没有智能手机。"
+        }
+      ]
+    }
+  ]
+}

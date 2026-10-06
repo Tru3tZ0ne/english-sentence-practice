@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 6,
+  "articles": [
+    {
+      "id": "cet4-reading-d006-1",
+      "title": "A Thermometer in the Barn",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "Lina, a village nurse, arrived at a wooden barn where a child was resting after a fall. Her thermometer showed a normal temperature, but the boy complained that his arm felt numb. She used her phone to consult a doctor rather than guess at the injury. While the family waited for transport, a neighbor began to repair the broken gate. Everyone remained hopeful, and an X-ray later confirmed that no bone was broken.",
+      "translation": "乡村护士莉娜来到一座木制谷仓，一个孩子摔倒后正在那里休息。她的温度计显示体温正常，但男孩说手臂发麻。她用电话咨询医生，而没有猜测伤情。家人在等待车辆时，一位邻居开始修理损坏的大门。大家一直抱有希望，后来的X光检查证实没有骨折。",
+      "sentences": [
+        {
+          "en": "Lina, a village nurse, arrived at a wooden barn where a child was resting after a fall.",
+          "zh": "乡村护士莉娜来到一座木制谷仓，一个孩子摔倒后正在那里休息。"
+        },
+        {
+          "en": "Her thermometer showed a normal temperature, but the boy complained that his arm felt numb.",
+          "zh": "她的温度计显示体温正常，但男孩说手臂发麻。"
+        },
+        {
+          "en": "She used her phone to consult a doctor rather than guess at the injury.",
+          "zh": "她用电话咨询医生，而没有猜测伤情。"
+        },
+        {
+          "en": "While the family waited for transport, a neighbor began to repair the broken gate.",
+          "zh": "家人在等待车辆时，一位邻居开始修理损坏的大门。"
+        },
+        {
+          "en": "Everyone remained hopeful, and an X-ray later confirmed that no bone was broken.",
+          "zh": "大家一直抱有希望，后来的X光检查证实没有骨折。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "thermometer",
+          "meaning": "n. 温度计"
+        },
+        {
+          "word": "repair",
+          "meaning": "n. 修理,修补v. 补救,纠正;修理"
+        },
+        {
+          "word": "nurse",
+          "meaning": "n. 护士,保姆v. 护理,看护"
+        },
+        {
+          "word": "consult",
+          "meaning": "v. 请教,咨询;查阅;商量"
+        },
+        {
+          "word": "hopeful",
+          "meaning": "a. 给人希望的,抱有希望的"
+        },
+        {
+          "word": "wooden",
+          "meaning": "a. 木制的;呆笨的"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why did Lina consult a doctor?",
+          "answer": "The boy's arm felt numb.",
+          "explanation": "孩子手臂发麻，需要专业判断。"
+        },
+        {
+          "prompt": "What did the X-ray show?",
+          "answer": "No bone was broken.",
+          "explanation": "X光显示没有骨折。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d006-2",
+      "title": "How Seeds Know When to Grow",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "A dry seed contains a living plant, but its hard coat keeps the inside protected. Once the soil becomes wet and the light is bright, stored food can transform into usable energy. Signals from each cell's nucleus then guide growth in the root and shoot. The young plant must also obtain every essential element it cannot derive from stored food. Cold, darkness, or poor soil can become a limitation even when enough water is present.",
+      "translation": "干燥种子中含有活的植物胚，但坚硬外壳保护着内部。土壤变湿且光线明亮后，储存的养分就能转化为可用能量。随后，每个细胞核发出的信号引导根和芽的生长。幼苗还必须获取那些无法从储存养分中得到的必需元素。即使水分充足，寒冷、黑暗或贫瘠土壤也可能成为限制因素。",
+      "sentences": [
+        {
+          "en": "A dry seed contains a living plant, but its hard coat keeps the inside protected.",
+          "zh": "干燥种子中含有活的植物胚，但坚硬外壳保护着内部。"
+        },
+        {
+          "en": "Once the soil becomes wet and the light is bright, stored food can transform into usable energy.",
+          "zh": "土壤变湿且光线明亮后，储存的养分就能转化为可用能量。"
+        },
+        {
+          "en": "Signals from each cell's nucleus then guide growth in the root and shoot.",
+          "zh": "随后，每个细胞核发出的信号引导根和芽的生长。"
+        },
+        {
+          "en": "The young plant must also obtain every essential element it cannot derive from stored food.",
+          "zh": "幼苗还必须获取那些无法从储存养分中得到的必需元素。"
+        },
+        {
+          "en": "Cold, darkness, or poor soil can become a limitation even when enough water is present.",
+          "zh": "即使水分充足，寒冷、黑暗或贫瘠土壤也可能成为限制因素。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "bright",
+          "meaning": "a. 明亮的,辉煌的;聪明的;欢快的,美好的"
+        },
+        {
+          "word": "element",
+          "meaning": "n. 元素;要素;成分;元件;自然环境"
+        },
+        {
+          "word": "nucleus",
+          "meaning": "n. 原子核,核心"
+        },
+        {
+          "word": "derive",
+          "meaning": "vt. 取得,得到;追溯...的起源(或来由); vi. (from) 起源,衍生"
+        },
+        {
+          "word": "transform",
+          "meaning": "vt. 改变(形状性质等)"
+        },
+        {
+          "word": "limitation",
+          "meaning": "n. 限制,局限性"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What allows stored food to become usable energy?",
+          "answer": "Water entering the seed.",
+          "explanation": "水进入种子后启动能量转化。"
+        },
+        {
+          "prompt": "What can limit growth besides water?",
+          "answer": "Cold, darkness, or poor soil.",
+          "explanation": "寒冷、黑暗或贫瘠土壤也会限制生长。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d006-3",
+      "title": "Repair Before Replacement",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "When an electrical appliance stops working, a family may replace it without asking what failed. Often the cause is ordinary dust, a loose connection, or one inexpensive part. Repair saves materials and fuel used in manufacturing and transport. It should not require extraordinary technical courage: shops can publish prices and provide basic guarantees. Otherwise, consumers will continue to choose the certainty of a new machine over an unclear repair.",
+      "translation": "电器停止工作时，一个家庭可能不查原因就直接更换。原因往往只是普通灰尘、松动的连接或一个便宜零件。维修可以节省制造和运输中使用的材料与燃料。维修不应需要非凡的技术勇气，商店可以公布价格并提供基本保障。否则，消费者会继续选择确定的新机器，而不是结果不明的维修。",
+      "sentences": [
+        {
+          "en": "When an electrical appliance stops working, a family may replace it without asking what failed.",
+          "zh": "电器停止工作时，一个家庭可能不查原因就直接更换。"
+        },
+        {
+          "en": "Often the cause is ordinary dust, a loose connection, or one inexpensive part.",
+          "zh": "原因往往只是普通灰尘、松动的连接或一个便宜零件。"
+        },
+        {
+          "en": "Repair saves materials and fuel used in manufacturing and transport.",
+          "zh": "维修可以节省制造和运输中使用的材料与燃料。"
+        },
+        {
+          "en": "It should not require extraordinary technical courage: shops can publish prices and provide basic guarantees.",
+          "zh": "维修不应需要非凡的技术勇气，商店可以公布价格并提供基本保障。"
+        },
+        {
+          "en": "Otherwise, consumers will continue to choose the certainty of a new machine over an unclear repair.",
+          "zh": "否则，消费者会继续选择确定的新机器，而不是结果不明的维修。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "fuel",
+          "meaning": "n. 燃料vt. 给...加燃料"
+        },
+        {
+          "word": "electrical",
+          "meaning": "a. 电的,电气科学的"
+        },
+        {
+          "word": "dust",
+          "meaning": "n. 灰尘,尘土v. 拂,掸"
+        },
+        {
+          "word": "family",
+          "meaning": "n. 家,家庭成员;氏族,家庭;族,科"
+        },
+        {
+          "word": "extraordinary",
+          "meaning": "a. 非常的;格外的;意外的;离奇的;临时的"
+        },
+        {
+          "word": "otherwise",
+          "meaning": "ad. 另样,用别的方法;在其他方面conj. 要不然"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What common faults does the passage mention?",
+          "answer": "Dust, a loose connection, or a cheap part.",
+          "explanation": "常见故障包括灰尘、接线松动和小零件损坏。"
+        },
+        {
+          "prompt": "How can shops encourage repair?",
+          "answer": "Publish prices and offer guarantees.",
+          "explanation": "透明价格和保障能鼓励维修。"
+        }
+      ]
+    }
+  ]
+}

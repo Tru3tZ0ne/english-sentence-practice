@@ -1,0 +1,208 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 16,
+  "articles": [
+    {
+      "id": "cet4-reading-d016-1",
+      "title": "The Silent Subway Lesson",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "During the evening rush, a subway car became silent when an elderly gentleman dropped his bag. Hundreds of small coins rolled across the floor as the train entered a tunnel. Without speaking, passengers formed a line and gathered every coin before the next stop. The remarkable cooperation lasted less than two minutes and needed no leader. For a child watching nearby, it became a lesson about kindness in crowded places.",
+      "translation": "晚高峰时，一位老先生的包掉落，地铁车厢突然安静下来。列车进入隧道时，数百枚小硬币滚过地板。乘客们默默排成一列，在下一站前捡回了每枚硬币。这场非凡的合作持续不到两分钟，也不需要领导者。对旁边观看的孩子来说，这成了一堂关于拥挤场所中善意的课。",
+      "sentences": [
+        {
+          "en": "During the evening rush, a subway car became silent when an elderly gentleman dropped his bag.",
+          "zh": "晚高峰时，一位老先生的包掉落，地铁车厢突然安静下来。"
+        },
+        {
+          "en": "Hundreds of small coins rolled across the floor as the train entered a tunnel.",
+          "zh": "列车进入隧道时，数百枚小硬币滚过地板。"
+        },
+        {
+          "en": "Without speaking, passengers formed a line and gathered every coin before the next stop.",
+          "zh": "乘客们默默排成一列，在下一站前捡回了每枚硬币。"
+        },
+        {
+          "en": "The remarkable cooperation lasted less than two minutes and needed no leader.",
+          "zh": "这场非凡的合作持续不到两分钟，也不需要领导者。"
+        },
+        {
+          "en": "For a child watching nearby, it became a lesson about kindness in crowded places.",
+          "zh": "对旁边观看的孩子来说，这成了一堂关于拥挤场所中善意的课。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "silent",
+          "meaning": "a. 寂静,沉默的"
+        },
+        {
+          "word": "lesson",
+          "meaning": "n. (功)课;[pl."
+        },
+        {
+          "word": "subway",
+          "meaning": "n. 地铁;地下行人隧道"
+        },
+        {
+          "word": "rush",
+          "meaning": "v. (使)冲;奔n. 冲,急速行进a. (交通)繁忙的"
+        },
+        {
+          "word": "gentleman",
+          "meaning": "n. 绅士,先生"
+        },
+        {
+          "word": "remarkable",
+          "meaning": "a. 不平常的;出色的"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why did passengers form a line?",
+          "answer": "To collect the dropped coins.",
+          "explanation": "他们排队捡起掉落的硬币。"
+        },
+        {
+          "prompt": "What lesson did the child learn?",
+          "answer": "Crowded places can still contain kindness.",
+          "explanation": "孩子看到了拥挤环境中的善意。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d016-2",
+      "title": "How Horsepower Became a Measure",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "At the outset of the steam age, buyers understood horses better than engines. Engineers introduced horsepower to compare a machine's effect with familiar animal labor. They observed working horses, measured lifted weight, and used mechanics to estimate a rate. The estimate was generous, partly because sellers wanted engines to appear reliable. A modern survey of motors uses more exact units, but horsepower remains useful in everyday language.",
+      "translation": "蒸汽时代初期，买家对马匹比对发动机更了解。工程师引入马力，用机器效果与熟悉的动物劳动进行比较。他们观察工作中的马匹，测量提升重量，并利用力学估算速率。这个估计较为宽松，部分原因是卖家希望发动机显得可靠。现代电机测量使用更精确的单位，但马力在日常语言中仍很实用。",
+      "sentences": [
+        {
+          "en": "At the outset of the steam age, buyers understood horses better than engines.",
+          "zh": "蒸汽时代初期，买家对马匹比对发动机更了解。"
+        },
+        {
+          "en": "Engineers introduced horsepower to compare a machine's effect with familiar animal labor.",
+          "zh": "工程师引入马力，用机器效果与熟悉的动物劳动进行比较。"
+        },
+        {
+          "en": "They observed working horses, measured lifted weight, and used mechanics to estimate a rate.",
+          "zh": "他们观察工作中的马匹，测量提升重量，并利用力学估算速率。"
+        },
+        {
+          "en": "The estimate was generous, partly because sellers wanted engines to appear reliable.",
+          "zh": "这个估计较为宽松，部分原因是卖家希望发动机显得可靠。"
+        },
+        {
+          "en": "A modern survey of motors uses more exact units, but horsepower remains useful in everyday language.",
+          "zh": "现代电机测量使用更精确的单位，但马力在日常语言中仍很实用。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "horsepower",
+          "meaning": "n.马力"
+        },
+        {
+          "word": "mechanics",
+          "meaning": "n.力学;技术性细节"
+        },
+        {
+          "word": "survey",
+          "meaning": "vt./n. 环视,眺望,测量,勘定,检查,调查,概述"
+        },
+        {
+          "word": "effect",
+          "meaning": "n. 结果;效果;影响;印象vt. 招致;实现;达到"
+        },
+        {
+          "word": "outset",
+          "meaning": "n. 开端,开始"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why was horsepower introduced?",
+          "answer": "To compare engines with familiar horse labor.",
+          "explanation": "马力用于把发动机与熟悉的马匹劳动比较。"
+        },
+        {
+          "prompt": "Why was the early estimate generous?",
+          "answer": "It helped sellers present engines favorably.",
+          "explanation": "较高估计有利于销售发动机。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d016-3",
+      "title": "Highways Should Repair Communities",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "A highway may bring regional prosperity while cutting directly through an established residential area. Noise, unsafe crossings, and polluted air then influence daily life far beyond the road itself. Environmental reviews should examine social division as carefully as the physical environment. Where a route damages access to a residence, planners should fund bridges, parks, and sound barriers. Transport investment is fair only when it repairs the local harm that wider economic gains create.",
+      "translation": "公路可能带来地区繁荣，同时穿过成熟居住区。噪声、不安全过街和空气污染会影响远超道路本身的日常生活。环境审查应像评估自然环境一样仔细评估社会分隔。路线影响住宅通行时，规划者应资助天桥、公园和隔音设施。只有修复更广泛经济收益造成的本地伤害，交通投资才算公平。",
+      "sentences": [
+        {
+          "en": "A highway may bring regional prosperity while cutting directly through an established residential area.",
+          "zh": "公路可能带来地区繁荣，同时穿过成熟居住区。"
+        },
+        {
+          "en": "Noise, unsafe crossings, and polluted air then influence daily life far beyond the road itself.",
+          "zh": "噪声、不安全过街和空气污染会影响远超道路本身的日常生活。"
+        },
+        {
+          "en": "Environmental reviews should examine social division as carefully as the physical environment.",
+          "zh": "环境审查应像评估自然环境一样仔细评估社会分隔。"
+        },
+        {
+          "en": "Where a route damages access to a residence, planners should fund bridges, parks, and sound barriers.",
+          "zh": "路线影响住宅通行时，规划者应资助天桥、公园和隔音设施。"
+        },
+        {
+          "en": "Transport investment is fair only when it repairs the local harm that wider economic gains create.",
+          "zh": "只有修复更广泛经济收益造成的本地伤害，交通投资才算公平。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "residence",
+          "meaning": "n. 居住,住处,住宅"
+        },
+        {
+          "word": "environment",
+          "meaning": "n. 环境,外界"
+        },
+        {
+          "word": "highway",
+          "meaning": "n. 公路,大路"
+        },
+        {
+          "word": "influence",
+          "meaning": "n. (on)影响,感化;势力,权势v. 影响,感化"
+        },
+        {
+          "word": "prosperity",
+          "meaning": "n. 繁荣,兴旺"
+        },
+        {
+          "word": "division",
+          "meaning": "n. 分,分割;部门,科,处;除法;分界线"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "How can a highway divide a community?",
+          "answer": "Through noise, unsafe crossings, and lost access.",
+          "explanation": "噪声、过街危险和通行受阻会割裂社区。"
+        },
+        {
+          "prompt": "What repairs does the writer suggest?",
+          "answer": "Bridges, parks, and sound barriers.",
+          "explanation": "作者建议建设天桥、公园和隔音设施。"
+        }
+      ]
+    }
+  ]
+}

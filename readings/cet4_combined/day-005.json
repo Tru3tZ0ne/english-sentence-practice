@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 5,
+  "articles": [
+    {
+      "id": "cet4-reading-d005-1",
+      "title": "The Package at Dawn",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "At dawn, a student carried a heavy package across an almost empty campus. It contained donated physics tools bought with a community fund for the new laboratory. A visiting guest had promised to demonstrate them before catching an early train. When the main door remained locked, the student called a cleaner who knew another entrance. They managed to deliver the equipment just as the first curious class arrived.",
+      "translation": "黎明时分，一名学生抱着沉重包裹穿过几乎空无一人的校园。包裹里装着用社区基金购买并捐赠给新实验室的物理工具。一位来访嘉宾答应在赶早班火车前演示这些工具。当正门仍然锁着时，学生叫来一位知道另一个入口的清洁工。就在第一批充满好奇的学生到来时，他们成功送达了设备。",
+      "sentences": [
+        {
+          "en": "At dawn, a student carried a heavy package across an almost empty campus.",
+          "zh": "黎明时分，一名学生抱着沉重包裹穿过几乎空无一人的校园。"
+        },
+        {
+          "en": "It contained donated physics tools bought with a community fund for the new laboratory.",
+          "zh": "包裹里装着用社区基金购买并捐赠给新实验室的物理工具。"
+        },
+        {
+          "en": "A visiting guest had promised to demonstrate them before catching an early train.",
+          "zh": "一位来访嘉宾答应在赶早班火车前演示这些工具。"
+        },
+        {
+          "en": "When the main door remained locked, the student called a cleaner who knew another entrance.",
+          "zh": "当正门仍然锁着时，学生叫来一位知道另一个入口的清洁工。"
+        },
+        {
+          "en": "They managed to deliver the equipment just as the first curious class arrived.",
+          "zh": "就在第一批充满好奇的学生到来时，他们成功送达了设备。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "fund",
+          "meaning": "n. 资金,基金;存款,现款;(知识等的)累积"
+        },
+        {
+          "word": "dawn",
+          "meaning": "n.黎明,开端"
+        },
+        {
+          "word": "package",
+          "meaning": "n. 包装,包裹,箱,包装费,标准部件,成套设备"
+        },
+        {
+          "word": "campus",
+          "meaning": "n. 校园"
+        },
+        {
+          "word": "guest",
+          "meaning": "n. 客人,宾客,旅客"
+        },
+        {
+          "word": "deliver",
+          "meaning": "vt. 投递,解救,发表,接生"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What was inside the package?",
+          "answer": "Donated physics tools.",
+          "explanation": "包裹中是捐赠的物理工具。"
+        },
+        {
+          "prompt": "Who knew another entrance?",
+          "answer": "A cleaner.",
+          "explanation": "一名清洁工知道另一个入口。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d005-2",
+      "title": "Why Bubbles Grow in Heated Fluid",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "A bubble forms in a heated fluid when faster molecules create a pocket of vapor. At first, pressure may crush tiny pockets before they reach the surface. As the temperature rises, larger bubbles become a visible indication that boiling is near. Below the boiling point, heat still moves through the liquid and changes its circulation. Increasing the power beyond the useful maximum only wastes energy and may spill the liquid.",
+      "translation": "加热液体中，运动加快的分子形成蒸气空间，于是产生气泡。起初，压力可能在微小气泡到达表面前将其压碎。随着温度上升，更大的气泡成为即将沸腾的明显迹象。在沸点以下，热量仍会穿过液体并改变其循环。把功率提高到有效上限以上只会浪费能源，还可能使液体溢出。",
+      "sentences": [
+        {
+          "en": "A bubble forms in a heated fluid when faster molecules create a pocket of vapor.",
+          "zh": "加热液体中，运动加快的分子形成蒸气空间，于是产生气泡。"
+        },
+        {
+          "en": "At first, pressure may crush tiny pockets before they reach the surface.",
+          "zh": "起初，压力可能在微小气泡到达表面前将其压碎。"
+        },
+        {
+          "en": "As the temperature rises, larger bubbles become a visible indication that boiling is near.",
+          "zh": "随着温度上升，更大的气泡成为即将沸腾的明显迹象。"
+        },
+        {
+          "en": "Below the boiling point, heat still moves through the liquid and changes its circulation.",
+          "zh": "在沸点以下，热量仍会穿过液体并改变其循环。"
+        },
+        {
+          "en": "Increasing the power beyond the useful maximum only wastes energy and may spill the liquid.",
+          "zh": "把功率提高到有效上限以上只会浪费能源，还可能使液体溢出。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "bubble",
+          "meaning": "n. 气泡,泡沫"
+        },
+        {
+          "word": "power",
+          "meaning": "n. 力,精力;功率,电力;(数学)幂;权力,势力"
+        },
+        {
+          "word": "fluid",
+          "meaning": "a. 流动的,不固定的 n. 流体"
+        },
+        {
+          "word": "indication",
+          "meaning": "n. 指出,指示;表明,暗示"
+        },
+        {
+          "word": "below",
+          "meaning": "prep. 在...下面,在...以下ad. 在下面,向下"
+        },
+        {
+          "word": "maximum",
+          "meaning": "n. 最大量,最大限度"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What do larger bubbles indicate?",
+          "answer": "That boiling is near.",
+          "explanation": "较大的气泡表示液体接近沸腾。"
+        },
+        {
+          "prompt": "What happens if power is too high?",
+          "answer": "Energy is wasted and liquid may spill.",
+          "explanation": "功率过高会浪费能源并导致溢出。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d005-3",
+      "title": "A Bigger Campus Is Not Always Better",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "A university may enlarge its campus when classrooms are crowded and housing is in shortage. New architecture can become a prominent symbol of confidence in the future. Yet size is not the only requirement for good education; maintenance and teaching also need money. Before building, leaders should measure how existing rooms are used throughout the week. Flexible schedules and renovation may solve the real problem with less land and debt.",
+      "translation": "当教室拥挤且住房短缺时，大学可能会扩建校园。新建筑可以成为对未来充满信心的醒目标志。然而，规模并不是良好教育的唯一条件，维护和教学同样需要资金。在建设之前，管理者应衡量现有房间在一周内的使用情况。灵活的时间安排和翻修可能用更少土地和债务解决真正的问题。",
+      "sentences": [
+        {
+          "en": "A university may enlarge its campus when classrooms are crowded and housing is in shortage.",
+          "zh": "当教室拥挤且住房短缺时，大学可能会扩建校园。"
+        },
+        {
+          "en": "New architecture can become a prominent symbol of confidence in the future.",
+          "zh": "新建筑可以成为对未来充满信心的醒目标志。"
+        },
+        {
+          "en": "Yet size is not the only requirement for good education; maintenance and teaching also need money.",
+          "zh": "然而，规模并不是良好教育的唯一条件，维护和教学同样需要资金。"
+        },
+        {
+          "en": "Before building, leaders should measure how existing rooms are used throughout the week.",
+          "zh": "在建设之前，管理者应衡量现有房间在一周内的使用情况。"
+        },
+        {
+          "en": "Flexible schedules and renovation may solve the real problem with less land and debt.",
+          "zh": "灵活的时间安排和翻修可能用更少土地和债务解决真正的问题。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "enlarge",
+          "meaning": "vt. 扩大,放大,增大"
+        },
+        {
+          "word": "requirement",
+          "meaning": "n. (for)需要,需要的东西,要求"
+        },
+        {
+          "word": "prominent",
+          "meaning": "a. 突起的,凸出的;突出的,杰出的"
+        },
+        {
+          "word": "shortage",
+          "meaning": "n. 不足,缺少"
+        },
+        {
+          "word": "architecture",
+          "meaning": "n. 建筑,建筑学;建筑式样或风格,建筑物"
+        },
+        {
+          "word": "future",
+          "meaning": "n. 将来,未来;前途,前景a. 将来的,未来的"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why might a university expand?",
+          "answer": "Because of crowded rooms and a housing shortage.",
+          "explanation": "教室拥挤和住房短缺可能促使扩建。"
+        },
+        {
+          "prompt": "What alternatives does the passage suggest?",
+          "answer": "Flexible schedules and renovation.",
+          "explanation": "文章建议灵活排课和翻修。"
+        }
+      ]
+    }
+  ]
+}

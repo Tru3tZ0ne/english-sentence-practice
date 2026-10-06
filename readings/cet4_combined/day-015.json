@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 15,
+  "articles": [
+    {
+      "id": "cet4-reading-d015-1",
+      "title": "A Deer on the Night Trail",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "A deer can interrupt any race; that night, one suddenly stepped onto the mountain trail. The first rider made a dramatic turn, fell, and shouted a warning to those behind him. Another competitor stopped to protect the sensitive animal from lights and noise. Spectators called him a hero, although stopping cost him a possible victory. Officials later moved the route away from a spring feeding area used by wildlife.",
+      "translation": "鹿可能打断任何比赛；那天夜里，一只鹿突然踏上山地赛道。第一名骑手猛然转向后摔倒，并向后方选手发出警告。另一名选手停下来，保护这只对灯光和噪声敏感的动物。观众称他为英雄，尽管停下让他失去了可能的胜利。官员后来把路线移离野生动物春季觅食区。",
+      "sentences": [
+        {
+          "en": "A deer can interrupt any race; that night, one suddenly stepped onto the mountain trail.",
+          "zh": "鹿可能打断任何比赛；那天夜里，一只鹿突然踏上山地赛道。"
+        },
+        {
+          "en": "The first rider made a dramatic turn, fell, and shouted a warning to those behind him.",
+          "zh": "第一名骑手猛然转向后摔倒，并向后方选手发出警告。"
+        },
+        {
+          "en": "Another competitor stopped to protect the sensitive animal from lights and noise.",
+          "zh": "另一名选手停下来，保护这只对灯光和噪声敏感的动物。"
+        },
+        {
+          "en": "Spectators called him a hero, although stopping cost him a possible victory.",
+          "zh": "观众称他为英雄，尽管停下让他失去了可能的胜利。"
+        },
+        {
+          "en": "Officials later moved the route away from a spring feeding area used by wildlife.",
+          "zh": "官员后来把路线移离野生动物春季觅食区。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "deer",
+          "meaning": "n. 鹿"
+        },
+        {
+          "word": "dramatic",
+          "meaning": "a.引人注目的,突然的;戏剧性的,激动人心的;戏剧的,剧本的"
+        },
+        {
+          "word": "interrupt",
+          "meaning": "v. 中断,遮断,阻碍;打断(话),打扰"
+        },
+        {
+          "word": "trail",
+          "meaning": "n. 痕迹,足迹,小径;v. 拖,拉,蔓延"
+        },
+        {
+          "word": "hero",
+          "meaning": "n. 英雄,勇士;男主角,男主人公"
+        },
+        {
+          "word": "sensitive",
+          "meaning": "a. 敏感的;过敏的,容易生气的;(仪器)灵敏的"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why did the first rider turn suddenly?",
+          "answer": "A deer entered the trail.",
+          "explanation": "一只鹿进入了赛道。"
+        },
+        {
+          "prompt": "How did officials respond later?",
+          "answer": "They moved the race route.",
+          "explanation": "官员后来调整了比赛路线。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d015-2",
+      "title": "Why Plants Grow toward Light",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "A young plant uses chemical signals to decide where its stem should grow. When light comes from one side, the distribution of a growth hormone becomes uneven. Cells on the darker side lengthen more, bending the stem toward the light. Water in each cell acts like internal liquid pressure, so hydration is also critical. Advanced cameras can record this slow movement and reveal changes invisible from moment to moment.",
+      "translation": "幼苗利用化学信号决定茎应向哪里生长。光从一侧照来时，生长激素的分布会变得不均匀。背光侧细胞伸长得更多，使茎弯向光源。每个细胞中的水形成内部液体压力，因此水分也至关重要。先进摄像机能记录这种缓慢运动，揭示肉眼逐刻看不到的变化。",
+      "sentences": [
+        {
+          "en": "A young plant uses chemical signals to decide where its stem should grow.",
+          "zh": "幼苗利用化学信号决定茎应向哪里生长。"
+        },
+        {
+          "en": "When light comes from one side, the distribution of a growth hormone becomes uneven.",
+          "zh": "光从一侧照来时，生长激素的分布会变得不均匀。"
+        },
+        {
+          "en": "Cells on the darker side lengthen more, bending the stem toward the light.",
+          "zh": "背光侧细胞伸长得更多，使茎弯向光源。"
+        },
+        {
+          "en": "Water in each cell acts like internal liquid pressure, so hydration is also critical.",
+          "zh": "每个细胞中的水形成内部液体压力，因此水分也至关重要。"
+        },
+        {
+          "en": "Advanced cameras can record this slow movement and reveal changes invisible from moment to moment.",
+          "zh": "先进摄像机能记录这种缓慢运动，揭示肉眼逐刻看不到的变化。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "grow",
+          "meaning": "v. 生长,成长;渐渐变成;栽培,种植;发展"
+        },
+        {
+          "word": "stem",
+          "meaning": "n. 茎;vi. (~from)起源于"
+        },
+        {
+          "word": "distribution",
+          "meaning": "n.分发,分配;分布"
+        },
+        {
+          "word": "advanced",
+          "meaning": "a. 超前的,先进的;高级的;开明的;前进的"
+        },
+        {
+          "word": "critical",
+          "meaning": "a. 危急的,批评的,苛求的,关键的"
+        },
+        {
+          "word": "liquid",
+          "meaning": "n. 液体a. 液体的,液态的"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why does the stem bend?",
+          "answer": "Cells on the darker side grow longer.",
+          "explanation": "背光侧细胞伸长更多。"
+        },
+        {
+          "prompt": "What role does water play?",
+          "answer": "It provides internal pressure in cells.",
+          "explanation": "水为细胞提供内部压力。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d015-3",
+      "title": "Public Toilets Are Essential Infrastructure",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "A clean public toilet is necessary for children, older people, workers, and anyone spending hours outside. Cities often build attractive facilities but fail to budget for routine maintenance. The result is a locked or broken toilet that exists on a map but not in practice. Technical sensors can report leaks and supply shortages, although staff must still respond promptly. Reliable access should be treated as basic public infrastructure, with clear standards and published inspections.",
+      "translation": "干净的公共厕所对儿童、老人、劳动者和长时间在外的人都必不可少。城市常建造漂亮设施，却没有为日常维护编列预算。结果就是地图上存在、实际却上锁或损坏的厕所。技术传感器可以报告漏水和用品短缺，但工作人员仍须及时处理。可靠的使用条件应被视为基础公共设施，并配有清晰标准和公开检查。",
+      "sentences": [
+        {
+          "en": "A clean public toilet is necessary for children, older people, workers, and anyone spending hours outside.",
+          "zh": "干净的公共厕所对儿童、老人、劳动者和长时间在外的人都必不可少。"
+        },
+        {
+          "en": "Cities often build attractive facilities but fail to budget for routine maintenance.",
+          "zh": "城市常建造漂亮设施，却没有为日常维护编列预算。"
+        },
+        {
+          "en": "The result is a locked or broken toilet that exists on a map but not in practice.",
+          "zh": "结果就是地图上存在、实际却上锁或损坏的厕所。"
+        },
+        {
+          "en": "Technical sensors can report leaks and supply shortages, although staff must still respond promptly.",
+          "zh": "技术传感器可以报告漏水和用品短缺，但工作人员仍须及时处理。"
+        },
+        {
+          "en": "Reliable access should be treated as basic public infrastructure, with clear standards and published inspections.",
+          "zh": "可靠的使用条件应被视为基础公共设施，并配有清晰标准和公开检查。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "public",
+          "meaning": "a. 公共的,公用的;公开的,公然的n. 公众,民众"
+        },
+        {
+          "word": "necessary",
+          "meaning": "a. 必需的,必要的;必然的n. 必需品"
+        },
+        {
+          "word": "toilet",
+          "meaning": "n. 厕所,盥洗室"
+        },
+        {
+          "word": "maintenance",
+          "meaning": "n. 维修,保养,维持,保持,生活费用"
+        },
+        {
+          "word": "routine",
+          "meaning": "n. 例行公事,惯例,常规"
+        },
+        {
+          "word": "technical",
+          "meaning": "a. 技术(性)的,工艺的;专门性的,专业性的"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What problem follows poor maintenance budgets?",
+          "answer": "Facilities become locked or broken.",
+          "explanation": "维护预算不足会使设施关闭或损坏。"
+        },
+        {
+          "prompt": "What can sensors report?",
+          "answer": "Leaks and supply shortages.",
+          "explanation": "传感器可以报告漏水和用品不足。"
+        }
+      ]
+    }
+  ]
+}

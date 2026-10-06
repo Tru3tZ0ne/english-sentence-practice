@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 14,
+  "articles": [
+    {
+      "id": "cet4-reading-d014-1",
+      "title": "A Puzzle in the Medical Tent",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "A runner entered the medical tent with a racing heart and a fearful expression. The nurse used a small gauge to check his blood pressure, which was lower than expected. His symptoms formed a puzzle because he had eaten well and suffered no obvious injury. From the salt marks on his shirt, the doctor could deduce that he had lost too much fluid. Water and minerals soon restored him, and he left with a safer plan for future races.",
+      "translation": "一名跑者心跳很快、神情恐惧地走进医疗帐篷。护士用小仪表测量他的血压，结果比预期低。他的症状成了谜，因为他吃得很好，也没有明显受伤。医生从他衬衫上的盐渍推断出他流失了过多水分。水和矿物质很快让他恢复，他也带着更安全的比赛计划离开。",
+      "sentences": [
+        {
+          "en": "A runner entered the medical tent with a racing heart and a fearful expression.",
+          "zh": "一名跑者心跳很快、神情恐惧地走进医疗帐篷。"
+        },
+        {
+          "en": "The nurse used a small gauge to check his blood pressure, which was lower than expected.",
+          "zh": "护士用小仪表测量他的血压，结果比预期低。"
+        },
+        {
+          "en": "His symptoms formed a puzzle because he had eaten well and suffered no obvious injury.",
+          "zh": "他的症状成了谜，因为他吃得很好，也没有明显受伤。"
+        },
+        {
+          "en": "From the salt marks on his shirt, the doctor could deduce that he had lost too much fluid.",
+          "zh": "医生从他衬衫上的盐渍推断出他流失了过多水分。"
+        },
+        {
+          "en": "Water and minerals soon restored him, and he left with a safer plan for future races.",
+          "zh": "水和矿物质很快让他恢复，他也带着更安全的比赛计划离开。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "heart",
+          "meaning": "n. 心(脏);内心,感情;热忱;中心,要点"
+        },
+        {
+          "word": "medical",
+          "meaning": "a. 医学的,医疗的,医药的;内科的"
+        },
+        {
+          "word": "puzzle",
+          "meaning": "n. 难题;谜;v. 迷惑"
+        },
+        {
+          "word": "gauge",
+          "meaning": "n. 标准尺寸,(铁道)轨矩;(雨量)器;(电线)直径;vt. 测量;估计;评价(人物)"
+        },
+        {
+          "word": "fearful",
+          "meaning": "a. 可怕的,吓人的;害怕,担心,惊恐"
+        },
+        {
+          "word": "deduce",
+          "meaning": "vt. 演绎,推论"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the salt marks reveal?",
+          "answer": "He had lost too much fluid.",
+          "explanation": "盐渍表明他流失了过多水分。"
+        },
+        {
+          "prompt": "What treatment helped him?",
+          "answer": "Water and minerals.",
+          "explanation": "水和矿物质使他恢复。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d014-2",
+      "title": "How Scanners Turn Light into Data",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "A document scanner sends a narrow line of light across a page from one edge to the other. White areas reflect more light, while dark ink sends less back to the sensor. This changing signal becomes digital input arranged in rows as the mechanism moves downward. Basic software then corrects small shadows and predicts where letters begin and finish. A sharper scan stores more detail, but it also creates a larger file.",
+      "translation": "文件扫描仪让一束窄光从纸张一边扫到另一边。白色区域反射更多光线，深色墨迹返回传感器的光更少。当机械装置向下移动时，变化的信号成为按行排列的数字输入。基础软件随后修正小阴影，并判断字母的起止位置。更清晰的扫描会保存更多细节，但也会产生更大的文件。",
+      "sentences": [
+        {
+          "en": "A document scanner sends a narrow line of light across a page from one edge to the other.",
+          "zh": "文件扫描仪让一束窄光从纸张一边扫到另一边。"
+        },
+        {
+          "en": "White areas reflect more light, while dark ink sends less back to the sensor.",
+          "zh": "白色区域反射更多光线，深色墨迹返回传感器的光更少。"
+        },
+        {
+          "en": "This changing signal becomes digital input arranged in rows as the mechanism moves downward.",
+          "zh": "当机械装置向下移动时，变化的信号成为按行排列的数字输入。"
+        },
+        {
+          "en": "Basic software then corrects small shadows and predicts where letters begin and finish.",
+          "zh": "基础软件随后修正小阴影，并判断字母的起止位置。"
+        },
+        {
+          "en": "A sharper scan stores more detail, but it also creates a larger file.",
+          "zh": "更清晰的扫描会保存更多细节，但也会产生更大的文件。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "input",
+          "meaning": "n./v. 输入"
+        },
+        {
+          "word": "light",
+          "meaning": "a. 明亮的,轻的,不重要的 n. 光,光线,光源"
+        },
+        {
+          "word": "scan",
+          "meaning": "v. 浏览,细看"
+        },
+        {
+          "word": "downward",
+          "meaning": "a. 向下的ad. (also: downwards)向下,往下"
+        },
+        {
+          "word": "basic",
+          "meaning": "a. 基本的,基础的"
+        },
+        {
+          "word": "finish",
+          "meaning": "n. 完成;结束;磨光v. 完成;结束;用完;毁掉"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "How does dark ink affect reflected light?",
+          "answer": "It reflects less light to the sensor.",
+          "explanation": "深色墨迹反射的光较少。"
+        },
+        {
+          "prompt": "What is the cost of a sharper scan?",
+          "answer": "A larger digital file.",
+          "explanation": "更高精度会产生更大文件。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d014-3",
+      "title": "Economic Debate Needs Mild Language",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "Economic debate often becomes aggressive when speakers treat disagreement as a personal weakness. A political minority may then show resistance simply to defend its identity. Leaders should be proud of changing their position when stronger evidence reveals a mistake. Mild language leaves room for correction without demanding public humiliation. Firm ideas and respectful speech can exist together, and policy improves when they do.",
+      "translation": "当发言者把分歧视为个人弱点时，经济讨论常会变得咄咄逼人。政治少数派可能仅为维护身份而表现出抵制。当更有力证据揭示错误时，领导者应为改变立场而感到自豪。温和语言为纠错留下空间，也无需公开羞辱。坚定观点与尊重表达可以并存，而两者并存时政策会更好。",
+      "sentences": [
+        {
+          "en": "Economic debate often becomes aggressive when speakers treat disagreement as a personal weakness.",
+          "zh": "当发言者把分歧视为个人弱点时，经济讨论常会变得咄咄逼人。"
+        },
+        {
+          "en": "A political minority may then show resistance simply to defend its identity.",
+          "zh": "政治少数派可能仅为维护身份而表现出抵制。"
+        },
+        {
+          "en": "Leaders should be proud of changing their position when stronger evidence reveals a mistake.",
+          "zh": "当更有力证据揭示错误时，领导者应为改变立场而感到自豪。"
+        },
+        {
+          "en": "Mild language leaves room for correction without demanding public humiliation.",
+          "zh": "温和语言为纠错留下空间，也无需公开羞辱。"
+        },
+        {
+          "en": "Firm ideas and respectful speech can exist together, and policy improves when they do.",
+          "zh": "坚定观点与尊重表达可以并存，而两者并存时政策会更好。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "aggressive",
+          "meaning": "a. 侵略的;有进取心的"
+        },
+        {
+          "word": "economic",
+          "meaning": "a. 经济学的,经济的,便宜的"
+        },
+        {
+          "word": "minority",
+          "meaning": "n. 少数;少数民族;未成年"
+        },
+        {
+          "word": "resistance",
+          "meaning": "n. (to)抵抗,反抗;抵抗力,阻力;电阻"
+        },
+        {
+          "word": "proud",
+          "meaning": "a. (of)自豪的;引以自豪的;妄自尊大的"
+        },
+        {
+          "word": "mistake",
+          "meaning": "n. 错误,过失,误解v. 弄错;(for)把...误认为"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why may a minority resist a proposal?",
+          "answer": "To defend its identity during aggressive debate.",
+          "explanation": "激烈争论会让少数派出于身份防御而抵制。"
+        },
+        {
+          "prompt": "When should leaders change position?",
+          "answer": "When stronger evidence reveals a mistake.",
+          "explanation": "更强证据指出错误时应改变立场。"
+        }
+      ]
+    }
+  ]
+}

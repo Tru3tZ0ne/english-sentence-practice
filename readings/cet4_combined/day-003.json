@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 3,
+  "articles": [
+    {
+      "id": "cet4-reading-d003-1",
+      "title": "Paint on the Tunnel Wall",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "When the mountain tunnel reopened, a young scholar returned to the village for the ceremony. Years earlier, an accident there had forced his family to leave while the road could recover. He brought blue paint and invited children to mark the safe walking path along one wall. Their pictures showed trains, birds, and the workers who had cleared the fallen stone. The finished mural expressed gratitude more clearly than the formal speeches outside.",
+      "translation": "山岭隧道重新开放时，一位年轻学者回村参加仪式。多年前，那里发生的事故迫使他的家人在道路修复期间离开。他带来蓝色油漆，并邀请孩子们沿一面墙标出安全步道。他们的图画描绘了火车、鸟和清理落石的工人。完成的壁画比外面的正式讲话更清楚地表达了感激。",
+      "sentences": [
+        {
+          "en": "When the mountain tunnel reopened, a young scholar returned to the village for the ceremony.",
+          "zh": "山岭隧道重新开放时，一位年轻学者回村参加仪式。"
+        },
+        {
+          "en": "Years earlier, an accident there had forced his family to leave while the road could recover.",
+          "zh": "多年前，那里发生的事故迫使他的家人在道路修复期间离开。"
+        },
+        {
+          "en": "He brought blue paint and invited children to mark the safe walking path along one wall.",
+          "zh": "他带来蓝色油漆，并邀请孩子们沿一面墙标出安全步道。"
+        },
+        {
+          "en": "Their pictures showed trains, birds, and the workers who had cleared the fallen stone.",
+          "zh": "他们的图画描绘了火车、鸟和清理落石的工人。"
+        },
+        {
+          "en": "The finished mural expressed gratitude more clearly than the formal speeches outside.",
+          "zh": "完成的壁画比外面的正式讲话更清楚地表达了感激。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "paint",
+          "meaning": "n. 油漆,颜料v. 油漆;涂,涂漆;画;描绘,描述"
+        },
+        {
+          "word": "recover",
+          "meaning": "v. 重新找到,复原,痊愈"
+        },
+        {
+          "word": "ceremony",
+          "meaning": "n. 典礼,仪式,礼节"
+        },
+        {
+          "word": "tunnel",
+          "meaning": "n. 隧道,地道"
+        },
+        {
+          "word": "scholar",
+          "meaning": "n. 学者"
+        },
+        {
+          "word": "gratitude",
+          "meaning": "n. 感激,感恩"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the children mark with paint?",
+          "answer": "The safe walking path.",
+          "explanation": "孩子们标出了安全步道。"
+        },
+        {
+          "prompt": "What did the mural express?",
+          "answer": "Gratitude to the workers.",
+          "explanation": "壁画表达了对工人的感谢。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d003-2",
+      "title": "Why Artificial Color Can Fade",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "An artificial color looks distinct because its molecules absorb some parts of light and reflect others. Sunlight can break those molecules apart through a slow chemical process. Heat and moisture may accelerate the change, especially when manufacturers mix unstable materials. Scientists test samples under strong lamps and measure the result with great accuracy. Their findings help museums choose safer lighting for textiles, paintings, and photographs.",
+      "translation": "人工色彩之所以鲜明，是因为它的分子吸收部分光线并反射其余光线。阳光可以通过缓慢的化学过程分解这些分子。热量和水分可能加速变化，尤其是在制造商混合不稳定材料时。科学家在强光下测试样品，并非常精确地测量结果。他们的发现帮助博物馆为纺织品、画作和照片选择更安全的照明。",
+      "sentences": [
+        {
+          "en": "An artificial color looks distinct because its molecules absorb some parts of light and reflect others.",
+          "zh": "人工色彩之所以鲜明，是因为它的分子吸收部分光线并反射其余光线。"
+        },
+        {
+          "en": "Sunlight can break those molecules apart through a slow chemical process.",
+          "zh": "阳光可以通过缓慢的化学过程分解这些分子。"
+        },
+        {
+          "en": "Heat and moisture may accelerate the change, especially when manufacturers mix unstable materials.",
+          "zh": "热量和水分可能加速变化，尤其是在制造商混合不稳定材料时。"
+        },
+        {
+          "en": "Scientists test samples under strong lamps and measure the result with great accuracy.",
+          "zh": "科学家在强光下测试样品，并非常精确地测量结果。"
+        },
+        {
+          "en": "Their findings help museums choose safer lighting for textiles, paintings, and photographs.",
+          "zh": "他们的发现帮助博物馆为纺织品、画作和照片选择更安全的照明。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "color",
+          "meaning": "n. 颜色;颜料;肤色v. 给...着色"
+        },
+        {
+          "word": "artificial",
+          "meaning": "a. 人工的;矫揉造作的"
+        },
+        {
+          "word": "distinct",
+          "meaning": "a. 清楚的;不同的,独特的"
+        },
+        {
+          "word": "process",
+          "meaning": "n. 过程,进程;工序,制作法;工艺v. 加工,处理"
+        },
+        {
+          "word": "mix",
+          "meaning": "v. 使混合;混淆"
+        },
+        {
+          "word": "accuracy",
+          "meaning": "n. 准确(性);精确;准确度"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What can sunlight do to color molecules?",
+          "answer": "It can break them apart.",
+          "explanation": "阳光会分解色彩分子。"
+        },
+        {
+          "prompt": "How do museums use the test results?",
+          "answer": "They choose safer lighting.",
+          "explanation": "测试结果用于选择更安全的灯光。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d003-3",
+      "title": "Practical Exams Deserve More Credit",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "A written exam can determine whether a student remembers facts, but it reveals little about applied skill. A practical task shows how learners plan, respond to mistakes, and accomplish a real goal. Universities should give such work more credit, particularly in engineering, medicine, and design. The faculty must still publish clear standards so that personal preference does not control marks. A balanced assessment combines reliable knowledge tests with evidence of competent action.",
+      "translation": "笔试可以判断学生是否记住事实，却很少反映应用能力。实践任务能显示学习者如何规划、应对错误并完成真实目标。大学应给予这类任务更多学分或权重，尤其是在工程、医学和设计领域。院系仍必须公布清晰标准，避免个人偏好左右成绩。均衡的评价应把可靠的知识测试与胜任行动的证据结合起来。",
+      "sentences": [
+        {
+          "en": "A written exam can determine whether a student remembers facts, but it reveals little about applied skill.",
+          "zh": "笔试可以判断学生是否记住事实，却很少反映应用能力。"
+        },
+        {
+          "en": "A practical task shows how learners plan, respond to mistakes, and accomplish a real goal.",
+          "zh": "实践任务能显示学习者如何规划、应对错误并完成真实目标。"
+        },
+        {
+          "en": "Universities should give such work more credit, particularly in engineering, medicine, and design.",
+          "zh": "大学应给予这类任务更多学分或权重，尤其是在工程、医学和设计领域。"
+        },
+        {
+          "en": "The faculty must still publish clear standards so that personal preference does not control marks.",
+          "zh": "院系仍必须公布清晰标准，避免个人偏好左右成绩。"
+        },
+        {
+          "en": "A balanced assessment combines reliable knowledge tests with evidence of competent action.",
+          "zh": "均衡的评价应把可靠的知识测试与胜任行动的证据结合起来。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "exam",
+          "meaning": "n.考试;检查,细查"
+        },
+        {
+          "word": "credit",
+          "meaning": "n.信誉,信用v.相信"
+        },
+        {
+          "word": "practical",
+          "meaning": "a. 实行的;注重实际的,实用的"
+        },
+        {
+          "word": "accomplish",
+          "meaning": "vt. 完成,实现"
+        },
+        {
+          "word": "faculty",
+          "meaning": "n.才能, 本领, 能力, 全体教员, (大学的)系, 科, (授予的)权力。"
+        },
+        {
+          "word": "determine",
+          "meaning": "v. 决心,决定;确定,限定"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What does a practical task reveal?",
+          "answer": "Planning, response to mistakes, and applied skill.",
+          "explanation": "实践任务能反映规划、纠错和应用能力。"
+        },
+        {
+          "prompt": "Why are clear standards necessary?",
+          "answer": "To prevent personal preference controlling marks.",
+          "explanation": "明确标准能减少主观偏好。"
+        }
+      ]
+    }
+  ]
+}
