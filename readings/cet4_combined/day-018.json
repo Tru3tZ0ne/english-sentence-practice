@@ -9,8 +9,8 @@
       "title": "The Draft in the Drawer",
       "type": "story",
       "difficulty": "CET-4+",
-      "text": "A gardener clearing an abandoned office found a folded draft in a locked drawer. It described a plan to launch a public garden on the roof of the building. The mystery deepened when a cable bill showed that someone still powered a pump upstairs. Following the sound of water, she met a former cleaner quietly caring for hundreds of seedlings. Together they revived the forgotten proposal and opened the garden that summer.",
-      "translation": "一名园丁清理废弃办公室时，在锁住的抽屉里发现一份折叠草稿。草稿描述了在楼顶建立公共花园的计划。一张电缆账单显示仍有人给楼上的水泵供电，谜团更深了。她循着水声发现，一名前清洁工正默默照料数百株幼苗。他们一起重启了被遗忘的方案，并在那个夏天开放花园。",
+      "text": "A gardener clearing an abandoned office found a folded draft in a locked drawer. It described a plan to launch a public garden on the roof of the building. The mystery deepened when a cable bill showed that someone still powered a pump upstairs. Following the sound of water, she met a former cleaner quietly caring for hundreds of seedlings. Together they revived the forgotten proposal and opened the garden that summer. A pink elephant painted beside a crack and a helicopter landing mark showed that the secret garden was no ordinary occurrence.",
+      "translation": "一名园丁清理废弃办公室时，在锁住的抽屉里发现一份折叠草稿。草稿描述了在楼顶建立公共花园的计划。一张电缆账单显示仍有人给楼上的水泵供电，谜团更深了。她循着水声发现，一名前清洁工正默默照料数百株幼苗。他们一起重启了被遗忘的方案，并在那个夏天开放花园。裂缝旁画着粉色大象和直升机降落标志，说明秘密花园绝非普通事件。",
       "sentences": [
         {
           "en": "A gardener clearing an abandoned office found a folded draft in a locked drawer.",
@@ -31,6 +31,10 @@
         {
           "en": "Together they revived the forgotten proposal and opened the garden that summer.",
           "zh": "他们一起重启了被遗忘的方案，并在那个夏天开放花园。"
+        },
+        {
+          "en": "A pink elephant painted beside a crack and a helicopter landing mark showed that the secret garden was no ordinary occurrence.",
+          "zh": "裂缝旁画着粉色大象和直升机降落标志，说明秘密花园绝非普通事件。"
         }
       ],
       "target_words": [
@@ -57,6 +61,26 @@
         {
           "word": "launch",
           "meaning": "v. 使(船)下水,发射(火箭);开始,开办;n. (船)下水,汽艇"
+        },
+        {
+          "word": "crack",
+          "meaning": "n. 裂缝;破裂声;(砰的)一击;v. 使破裂;噼啪作响; 声音变哑;解开(难题、密码)"
+        },
+        {
+          "word": "pink",
+          "meaning": "n. 粉红色a. 粉红色的"
+        },
+        {
+          "word": "elephant",
+          "meaning": "n. (动物)象"
+        },
+        {
+          "word": "helicopter",
+          "meaning": "n. 直升机"
+        },
+        {
+          "word": "occurrence",
+          "meaning": "n. 发生,出现;事件,事故,发生的事情"
         }
       ],
       "questions": [
@@ -77,8 +101,8 @@
       "title": "How Steam Moves a Turbine",
       "type": "explanatory",
       "difficulty": "CET-4+",
-      "text": "A power station heats water until expanding steam rushes across curved turbine blades. The force drives sophisticated machinery that a generator uses to produce electricity. Operators monitor temperature and pressure because a small shift can reduce efficiency or damage metal. Engineers also recover heat from outgoing vapor whenever the design makes that feasible. Reusing heat makes the plant more economical and lowers the amount of fuel required.",
-      "translation": "发电站把水加热，直到膨胀的蒸汽冲过弯曲的涡轮叶片。这股力量驱动复杂机械，发电机借此产生电力。操作人员监控温度和压力，因为微小变化会降低效率或损坏金属。只要设计可行，工程师还会回收排出蒸汽中的热量。重复利用热量能提高经济性，并减少所需燃料。",
+      "text": "A power station heats water until expanding steam rushes across curved turbine blades. The force drives sophisticated machinery that a generator uses to produce electricity. Operators monitor temperature and pressure because a small shift can reduce efficiency or damage metal. Engineers also recover heat from outgoing vapor whenever the design makes that feasible. Reusing heat makes the plant more economical and lowers the amount of fuel required. A strong metal bond must bind the blades without letting heat bleed into the frame, where friction would subtract useful energy from any brand of turbine.",
+      "translation": "发电站把水加热，直到膨胀的蒸汽冲过弯曲的涡轮叶片。这股力量驱动复杂机械，发电机借此产生电力。操作人员监控温度和压力，因为微小变化会降低效率或损坏金属。只要设计可行，工程师还会回收排出蒸汽中的热量。重复利用热量能提高经济性，并减少所需燃料。牢固金属连接必须固定叶片，不能让热量渗入框架，否则摩擦会从任何品牌的涡轮中消耗有效能量。",
       "sentences": [
         {
           "en": "A power station heats water until expanding steam rushes across curved turbine blades.",
@@ -99,6 +123,10 @@
         {
           "en": "Reusing heat makes the plant more economical and lowers the amount of fuel required.",
           "zh": "重复利用热量能提高经济性，并减少所需燃料。"
+        },
+        {
+          "en": "A strong metal bond must bind the blades without letting heat bleed into the frame, where friction would subtract useful energy from any brand of turbine.",
+          "zh": "牢固金属连接必须固定叶片，不能让热量渗入框架，否则摩擦会从任何品牌的涡轮中消耗有效能量。"
         }
       ],
       "target_words": [
@@ -125,6 +153,26 @@
         {
           "word": "monitor",
           "meaning": "n. 班长,监视器 v. 监听,监视"
+        },
+        {
+          "word": "bond",
+          "meaning": "n. 契约;结合;债券"
+        },
+        {
+          "word": "bind",
+          "meaning": "v. 捆;使结合;包扎;装钉;使受约束"
+        },
+        {
+          "word": "bleed",
+          "meaning": "v. 流血,悲痛,同情"
+        },
+        {
+          "word": "brand",
+          "meaning": "n./v. 商标;烙印;污辱"
+        },
+        {
+          "word": "subtract",
+          "meaning": "vt. 减去;扣除"
         }
       ],
       "questions": [
@@ -145,8 +193,8 @@
       "title": "Busy Lives Still Need Leisure",
       "type": "opinion",
       "difficulty": "CET-4+",
-      "text": "Many people have lately used sophisticated apps to fill every free minute with work or self-improvement. A busy schedule can provide purpose, but constant measurement changes living into a list of targets. Unplanned leisure supports mental recovery because attention is allowed to wander without judgment. Nobody should feel guilty for walking, talking, or resting without recording a result. Technology serves us best when it protects free time instead of occupying all of it.",
-      "translation": "最近，许多人用复杂应用把每一分钟空闲都填满工作或自我提升。忙碌日程可以带来目标感，但持续量化会把生活变成目标清单。无计划的闲暇让注意力不受评判地游走，有助于心理恢复。任何人都不该因为散步、聊天或休息没有记录成果而内疚。科技在保护自由时间而非占满它时，才最能为人服务。",
+      "text": "Many people have lately used sophisticated apps to fill every free minute with work or self-improvement. A busy schedule can provide purpose, but constant measurement changes living into a list of targets. Unplanned leisure supports mental recovery because attention is allowed to wander without judgment. Nobody should feel guilty for walking, talking, or resting without recording a result. Technology serves us best when it protects free time instead of occupying all of it. Nobody needs to become a graceful or impressive person during rest; even a keen learner may lately have needed an empty afternoon.",
+      "translation": "最近，许多人用复杂应用把每一分钟空闲都填满工作或自我提升。忙碌日程可以带来目标感，但持续量化会把生活变成目标清单。无计划的闲暇让注意力不受评判地游走，有助于心理恢复。任何人都不该因为散步、聊天或休息没有记录成果而内疚。科技在保护自由时间而非占满它时，才最能为人服务。休息时没人需要表现得优雅出众；即使好学的人最近也可能需要一个空闲下午。",
       "sentences": [
         {
           "en": "Many people have lately used sophisticated apps to fill every free minute with work or self-improvement.",
@@ -167,6 +215,10 @@
         {
           "en": "Technology serves us best when it protects free time instead of occupying all of it.",
           "zh": "科技在保护自由时间而非占满它时，才最能为人服务。"
+        },
+        {
+          "en": "Nobody needs to become a graceful or impressive person during rest; even a keen learner may lately have needed an empty afternoon.",
+          "zh": "休息时没人需要表现得优雅出众；即使好学的人最近也可能需要一个空闲下午。"
         }
       ],
       "target_words": [
@@ -193,6 +245,26 @@
         {
           "word": "lately",
           "meaning": "ad. 最近,不久前"
+        },
+        {
+          "word": "nobody",
+          "meaning": "pron. 谁也不,无人n. 小人物"
+        },
+        {
+          "word": "lately",
+          "meaning": "ad. 最近,不久前"
+        },
+        {
+          "word": "person",
+          "meaning": "n. 人,喜欢(或适应)...的人;人物;人称"
+        },
+        {
+          "word": "graceful",
+          "meaning": "a. 优美的,文雅的,大方的"
+        },
+        {
+          "word": "keen",
+          "meaning": "a. 锋利的,尖锐的,强烈的;敏锐的;渴望的"
         }
       ],
       "questions": [

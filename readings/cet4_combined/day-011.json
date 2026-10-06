@@ -9,8 +9,8 @@
       "title": "The Evidence in the Cottage",
       "type": "story",
       "difficulty": "CET-4+",
-      "text": "Mara drove to an empty cottage after a neighbor reported a light moving behind its curtains. She found no broken window, but muddy marks led from the kitchen into a narrow corridor. Rather than pursue the visitor alone, she photographed each mark as evidence and called the owner. A precise description of a missing key helped the police identify the owner's former partner. He admitted entering the house but claimed that an unpaid debt, not theft, was at fault.",
-      "translation": "邻居报告空屋窗帘后有灯光移动后，玛拉开车赶到那座小屋。她没有发现破窗，却看到泥印从厨房延伸到狭窄走廊。她没有独自追赶来客，而是把每个痕迹拍作证据并联系屋主。对一把遗失钥匙的准确描述帮助警方认出了屋主的前合伙人。他承认进入屋内，却声称起因是未偿债务而非盗窃。",
+      "text": "Mara drove to an empty cottage after a neighbor reported a light moving behind its curtains. She found no broken window, but muddy marks led from the kitchen into a narrow corridor. Rather than pursue the visitor alone, she photographed each mark as evidence and called the owner. A precise description of a missing key helped the police identify the owner's former partner. He admitted entering the house but claimed that an unpaid debt, not theft, was at fault. In December, a former lover had to drive every mile back to pick up papers he believed were still his.",
+      "translation": "邻居报告空屋窗帘后有灯光移动后，玛拉开车赶到那座小屋。她没有发现破窗，却看到泥印从厨房延伸到狭窄走廊。她没有独自追赶来客，而是把每个痕迹拍作证据并联系屋主。对一把遗失钥匙的准确描述帮助警方认出了屋主的前合伙人。他承认进入屋内，却声称起因是未偿债务而非盗窃。十二月里，一位旧情人不得不开很远的车回来取他认为仍属于自己的文件。",
       "sentences": [
         {
           "en": "Mara drove to an empty cottage after a neighbor reported a light moving behind its curtains.",
@@ -31,6 +31,10 @@
         {
           "en": "He admitted entering the house but claimed that an unpaid debt, not theft, was at fault.",
           "zh": "他承认进入屋内，却声称起因是未偿债务而非盗窃。"
+        },
+        {
+          "en": "In December, a former lover had to drive every mile back to pick up papers he believed were still his.",
+          "zh": "十二月里，一位旧情人不得不开很远的车回来取他认为仍属于自己的文件。"
         }
       ],
       "target_words": [
@@ -57,6 +61,26 @@
         {
           "word": "precise",
           "meaning": "a. 精确的"
+        },
+        {
+          "word": "drive",
+          "meaning": "v. 开(车);驱;驱动,把(钉,桩)打入n. 驾驶"
+        },
+        {
+          "word": "mile",
+          "meaning": "n. 英里,哩,海里"
+        },
+        {
+          "word": "pick",
+          "meaning": "v. 拾,采,摘;挑选,选择n. 镐,鹤嘴锄"
+        },
+        {
+          "word": "December",
+          "meaning": "n. 十二月"
+        },
+        {
+          "word": "lover",
+          "meaning": "n. 爱好者;(pl.)情侣"
         }
       ],
       "questions": [
@@ -77,8 +101,8 @@
       "title": "How a Submarine Changes Depth",
       "type": "explanatory",
       "difficulty": "CET-4+",
-      "text": "A submarine controls depth by changing the amount of water and air in special ballast tanks. To descend, valves near the tower open and water enters until the vessel's total weight increases. To rise, compressed air pushes that water back out through openings along the edge of the hull. Cool surfaces may also cause moisture to condense, so ventilation protects machines and crew. Like an organ in a body, each system must cooperate with many others to keep the vessel balanced.",
-      "translation": "潜艇通过改变专用压载舱中的水和空气量来控制深度。下潜时，指挥塔附近的阀门打开，海水进入，使潜艇总重量增加。上浮时，压缩空气把海水从船体边缘的开口推出。低温表面还可能使水汽凝结，因此通风系统会保护机器和船员。就像身体中的器官一样，每套系统都必须与其他系统协作以保持潜艇平衡。",
+      "text": "A submarine controls depth by changing the amount of water and air in special ballast tanks. To descend, valves near the tower open and water enters until the vessel's total weight increases. To rise, compressed air pushes that water back out through openings along the edge of the hull. Cool surfaces may also cause moisture to condense, so ventilation protects machines and crew. Like an organ in a body, each system must cooperate with many others to keep the vessel balanced. A semiconductor sensor in the middle of each tank sends data to the capital control room, where a repair troop can fill damaged sections.",
+      "translation": "潜艇通过改变专用压载舱中的水和空气量来控制深度。下潜时，指挥塔附近的阀门打开，海水进入，使潜艇总重量增加。上浮时，压缩空气把海水从船体边缘的开口推出。低温表面还可能使水汽凝结，因此通风系统会保护机器和船员。就像身体中的器官一样，每套系统都必须与其他系统协作以保持潜艇平衡。每个水舱中部的半导体传感器把数据发送到中央控制室，维修队可以在那里填补受损部分。",
       "sentences": [
         {
           "en": "A submarine controls depth by changing the amount of water and air in special ballast tanks.",
@@ -99,6 +123,10 @@
         {
           "en": "Like an organ in a body, each system must cooperate with many others to keep the vessel balanced.",
           "zh": "就像身体中的器官一样，每套系统都必须与其他系统协作以保持潜艇平衡。"
+        },
+        {
+          "en": "A semiconductor sensor in the middle of each tank sends data to the capital control room, where a repair troop can fill damaged sections.",
+          "zh": "每个水舱中部的半导体传感器把数据发送到中央控制室，维修队可以在那里填补受损部分。"
         }
       ],
       "target_words": [
@@ -125,6 +153,26 @@
         {
           "word": "edge",
           "meaning": "n. 边,棱;刀口,刃v. 侧身移动,挤进"
+        },
+        {
+          "word": "semiconductor",
+          "meaning": "n. 半导体"
+        },
+        {
+          "word": "capital",
+          "meaning": "n. 首都,大写字母,资本 a. 可处死刑的"
+        },
+        {
+          "word": "troop",
+          "meaning": "n. (pl.)部队,军队;(一)群/队v. 群集,集合"
+        },
+        {
+          "word": "fill",
+          "meaning": "v. (with)填满,充满"
+        },
+        {
+          "word": "middle",
+          "meaning": "n./a. 中间(的),当中(的)"
         }
       ],
       "questions": [
@@ -145,8 +193,8 @@
       "title": "Evidence Should Lead the News",
       "type": "opinion",
       "difficulty": "CET-4+",
-      "text": "A dramatic description often becomes the leading line of an online report before all facts are known. Editors should check original records and identify who provided each important claim. A typical breaking story will change as witnesses, documents, and context become available. Newsrooms must revise visible errors instead of quietly replacing old wording. Speed matters, but a fast report without a clear trail of evidence weakens public trust.",
-      "translation": "事实尚未查清时，夸张描述常成为网络报道的头条句。编辑应核查原始记录，并说明每项重要说法由谁提供。典型突发新闻会随着证人、文件和背景信息出现而变化。新闻编辑部必须公开更正明显错误，而不是悄悄替换旧表述。速度很重要，但缺少清晰证据链的快速报道会削弱公众信任。",
+      "text": "A dramatic description often becomes the leading line of an online report before all facts are known. Editors should check original records and identify who provided each important claim. A typical breaking story will change as witnesses, documents, and context become available. Newsrooms must revise visible errors instead of quietly replacing old wording. Speed matters, but a fast report without a clear trail of evidence weakens public trust. When questions arise, the chairman should let each individual partner speak and keep the review steady rather than defend the first version.",
+      "translation": "事实尚未查清时，夸张描述常成为网络报道的头条句。编辑应核查原始记录，并说明每项重要说法由谁提供。典型突发新闻会随着证人、文件和背景信息出现而变化。新闻编辑部必须公开更正明显错误，而不是悄悄替换旧表述。速度很重要，但缺少清晰证据链的快速报道会削弱公众信任。问题出现时，主席应让每位合作方发言，并保持审查稳定，而不是维护最初版本。",
       "sentences": [
         {
           "en": "A dramatic description often becomes the leading line of an online report before all facts are known.",
@@ -167,6 +215,10 @@
         {
           "en": "Speed matters, but a fast report without a clear trail of evidence weakens public trust.",
           "zh": "速度很重要，但缺少清晰证据链的快速报道会削弱公众信任。"
+        },
+        {
+          "en": "When questions arise, the chairman should let each individual partner speak and keep the review steady rather than defend the first version.",
+          "zh": "问题出现时，主席应让每位合作方发言，并保持审查稳定，而不是维护最初版本。"
         }
       ],
       "target_words": [
@@ -193,6 +245,26 @@
         {
           "word": "revise",
           "meaning": "v. 修订;改正"
+        },
+        {
+          "word": "chairman",
+          "meaning": "n. 主席,议长,会长,董事长"
+        },
+        {
+          "word": "individual",
+          "meaning": "a. 个人的,个体的,个别的;n. 个人,个体"
+        },
+        {
+          "word": "partner",
+          "meaning": "n. 合作者,合伙人,合股人,伙伴,舞伴,配偶"
+        },
+        {
+          "word": "arise",
+          "meaning": "vi. 出现,发生,起来"
+        },
+        {
+          "word": "steady",
+          "meaning": "a. 稳的,平稳的;稳定的,持续的;稳重的,坚定的; v. (使)平稳,(使)稳定"
         }
       ],
       "questions": [

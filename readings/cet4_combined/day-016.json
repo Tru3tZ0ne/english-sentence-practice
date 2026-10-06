@@ -9,8 +9,8 @@
       "title": "The Silent Subway Lesson",
       "type": "story",
       "difficulty": "CET-4+",
-      "text": "During the evening rush, a subway car became silent when an elderly gentleman dropped his bag. Hundreds of small coins rolled across the floor as the train entered a tunnel. Without speaking, passengers formed a line and gathered every coin before the next stop. The remarkable cooperation lasted less than two minutes and needed no leader. For a child watching nearby, it became a lesson about kindness in crowded places.",
-      "translation": "晚高峰时，一位老先生的包掉落，地铁车厢突然安静下来。列车进入隧道时，数百枚小硬币滚过地板。乘客们默默排成一列，在下一站前捡回了每枚硬币。这场非凡的合作持续不到两分钟，也不需要领导者。对旁边观看的孩子来说，这成了一堂关于拥挤场所中善意的课。",
+      "text": "During the evening rush, a subway car became silent when an elderly gentleman dropped his bag. Hundreds of small coins rolled across the floor as the train entered a tunnel. Without speaking, passengers formed a line and gathered every coin before the next stop. The remarkable cooperation lasted less than two minutes and needed no leader. For a child watching nearby, it became a lesson about kindness in crowded places. One early passenger, a street music player, found the final coin; his laughter restored the peaceful mood.",
+      "translation": "晚高峰时，一位老先生的包掉落，地铁车厢突然安静下来。列车进入隧道时，数百枚小硬币滚过地板。乘客们默默排成一列，在下一站前捡回了每枚硬币。这场非凡的合作持续不到两分钟，也不需要领导者。对旁边观看的孩子来说，这成了一堂关于拥挤场所中善意的课。一位早到的街头乐手找到了最后一枚硬币，他的笑声让车厢恢复平静。",
       "sentences": [
         {
           "en": "During the evening rush, a subway car became silent when an elderly gentleman dropped his bag.",
@@ -31,6 +31,10 @@
         {
           "en": "For a child watching nearby, it became a lesson about kindness in crowded places.",
           "zh": "对旁边观看的孩子来说，这成了一堂关于拥挤场所中善意的课。"
+        },
+        {
+          "en": "One early passenger, a street music player, found the final coin; his laughter restored the peaceful mood.",
+          "zh": "一位早到的街头乐手找到了最后一枚硬币，他的笑声让车厢恢复平静。"
         }
       ],
       "target_words": [
@@ -57,6 +61,26 @@
         {
           "word": "remarkable",
           "meaning": "a. 不平常的;出色的"
+        },
+        {
+          "word": "coin",
+          "meaning": "n. 铸币,硬币 vt. 铸造,创造"
+        },
+        {
+          "word": "laughter",
+          "meaning": "n. 笑,笑声"
+        },
+        {
+          "word": "early",
+          "meaning": "a. 早的,早期的,及早的ad. 早,在初期"
+        },
+        {
+          "word": "peaceful",
+          "meaning": "a. 和平的,平静的,安宁的,爱好和平的"
+        },
+        {
+          "word": "player",
+          "meaning": "n.游戏的人;比赛者"
         }
       ],
       "questions": [
@@ -77,8 +101,8 @@
       "title": "How Horsepower Became a Measure",
       "type": "explanatory",
       "difficulty": "CET-4+",
-      "text": "At the outset of the steam age, buyers understood horses better than engines. Engineers introduced horsepower to compare a machine's effect with familiar animal labor. They observed working horses, measured lifted weight, and used mechanics to estimate a rate. The estimate was generous, partly because sellers wanted engines to appear reliable. A modern survey of motors uses more exact units, but horsepower remains useful in everyday language.",
-      "translation": "蒸汽时代初期，买家对马匹比对发动机更了解。工程师引入马力，用机器效果与熟悉的动物劳动进行比较。他们观察工作中的马匹，测量提升重量，并利用力学估算速率。这个估计较为宽松，部分原因是卖家希望发动机显得可靠。现代电机测量使用更精确的单位，但马力在日常语言中仍很实用。",
+      "text": "At the outset of the steam age, buyers understood horses better than engines. Engineers introduced horsepower to compare a machine's effect with familiar animal labor. They observed working horses, measured lifted weight, and used mechanics to estimate a rate. The estimate was generous, partly because sellers wanted engines to appear reliable. A modern survey of motors uses more exact units, but horsepower remains useful in everyday language. After a dozen trials showed progress, inventors could submit a design, install it in a mill, and renew the measurement standard.",
+      "translation": "蒸汽时代初期，买家对马匹比对发动机更了解。工程师引入马力，用机器效果与熟悉的动物劳动进行比较。他们观察工作中的马匹，测量提升重量，并利用力学估算速率。这个估计较为宽松，部分原因是卖家希望发动机显得可靠。现代电机测量使用更精确的单位，但马力在日常语言中仍很实用。经过十二次试验取得进展后，发明者可以提交设计、在工厂安装并更新测量标准。",
       "sentences": [
         {
           "en": "At the outset of the steam age, buyers understood horses better than engines.",
@@ -99,6 +123,10 @@
         {
           "en": "A modern survey of motors uses more exact units, but horsepower remains useful in everyday language.",
           "zh": "现代电机测量使用更精确的单位，但马力在日常语言中仍很实用。"
+        },
+        {
+          "en": "After a dozen trials showed progress, inventors could submit a design, install it in a mill, and renew the measurement standard.",
+          "zh": "经过十二次试验取得进展后，发明者可以提交设计、在工厂安装并更新测量标准。"
         }
       ],
       "target_words": [
@@ -121,6 +149,26 @@
         {
           "word": "outset",
           "meaning": "n. 开端,开始"
+        },
+        {
+          "word": "dozen",
+          "meaning": "n. 一打,十二个"
+        },
+        {
+          "word": "progress",
+          "meaning": "n. 进步,进展;前进v. 进步,进展;前进"
+        },
+        {
+          "word": "submit",
+          "meaning": "v. (使)服从;提交"
+        },
+        {
+          "word": "install",
+          "meaning": "vt. 任命;安装,安置"
+        },
+        {
+          "word": "renew",
+          "meaning": "v. (使)更新,恢复,重新开始,继续"
         }
       ],
       "questions": [
@@ -141,8 +189,8 @@
       "title": "Highways Should Repair Communities",
       "type": "opinion",
       "difficulty": "CET-4+",
-      "text": "A highway may bring regional prosperity while cutting directly through an established residential area. Noise, unsafe crossings, and polluted air then influence daily life far beyond the road itself. Environmental reviews should examine social division as carefully as the physical environment. Where a route damages access to a residence, planners should fund bridges, parks, and sound barriers. Transport investment is fair only when it repairs the local harm that wider economic gains create.",
-      "translation": "公路可能带来地区繁荣，同时穿过成熟居住区。噪声、不安全过街和空气污染会影响远超道路本身的日常生活。环境审查应像评估自然环境一样仔细评估社会分隔。路线影响住宅通行时，规划者应资助天桥、公园和隔音设施。只有修复更广泛经济收益造成的本地伤害，交通投资才算公平。",
+      "text": "A highway may bring regional prosperity while cutting directly through an established residential area. Noise, unsafe crossings, and polluted air then influence daily life far beyond the road itself. Environmental reviews should examine social division as carefully as the physical environment. Where a route damages access to a residence, planners should fund bridges, parks, and sound barriers. Transport investment is fair only when it repairs the local harm that wider economic gains create. A lawyer warned that rare national gains can mislead planners when a neighborhood's background, health, and demand for safe streets disappear from the calculation.",
+      "translation": "公路可能带来地区繁荣，同时穿过成熟居住区。噪声、不安全过街和空气污染会影响远超道路本身的日常生活。环境审查应像评估自然环境一样仔细评估社会分隔。路线影响住宅通行时，规划者应资助天桥、公园和隔音设施。只有修复更广泛经济收益造成的本地伤害，交通投资才算公平。律师警告说，如果社区背景、健康和对安全街道的需求从计算中消失，少见的全国性收益也可能误导规划者。",
       "sentences": [
         {
           "en": "A highway may bring regional prosperity while cutting directly through an established residential area.",
@@ -163,6 +211,10 @@
         {
           "en": "Transport investment is fair only when it repairs the local harm that wider economic gains create.",
           "zh": "只有修复更广泛经济收益造成的本地伤害，交通投资才算公平。"
+        },
+        {
+          "en": "A lawyer warned that rare national gains can mislead planners when a neighborhood's background, health, and demand for safe streets disappear from the calculation.",
+          "zh": "律师警告说，如果社区背景、健康和对安全街道的需求从计算中消失，少见的全国性收益也可能误导规划者。"
         }
       ],
       "target_words": [
@@ -189,6 +241,26 @@
         {
           "word": "division",
           "meaning": "n. 分,分割;部门,科,处;除法;分界线"
+        },
+        {
+          "word": "lawyer",
+          "meaning": "n. 律师"
+        },
+        {
+          "word": "mislead",
+          "meaning": "v. 把...带错路,使误入岐途"
+        },
+        {
+          "word": "background",
+          "meaning": "n. 背景,经历;幕后"
+        },
+        {
+          "word": "demand",
+          "meaning": "n./v. 要求,请求,需要(量)v. 查问"
+        },
+        {
+          "word": "rare",
+          "meaning": "a. 稀有的,难得的,珍奇的;稀薄的,稀疏的"
         }
       ],
       "questions": [

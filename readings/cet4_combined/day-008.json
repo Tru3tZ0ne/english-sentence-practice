@@ -9,8 +9,8 @@
       "title": "The Clerk's Reading Month",
       "type": "story",
       "difficulty": "CET-4+",
-      "text": "A quiet library clerk noticed that an elderly visitor spent every afternoon alone by the window. The man loved reading but felt too lonely to join the noisy events downstairs. The clerk began a month-long campaign that paired two strangers with the same short book. Simple question cards helped encourage conversation without forcing anyone to speak publicly. By spring, the readers had helped create three small groups that met without staff assistance.",
-      "translation": "一位安静的图书管理员发现，一位老人每天下午都独自坐在窗边。老人喜欢阅读，却因孤独而不愿参加楼下喧闹的活动。管理员发起了为期一个月的活动，让两位陌生人共读同一本短书。简单的问题卡鼓励交流，又不会强迫任何人公开发言。到了春天，读者们已经建立了三个无需员工协助的小组。",
+      "text": "A quiet library clerk noticed that an elderly visitor spent every afternoon alone by the window. The man loved reading but felt too lonely to join the noisy events downstairs. The clerk began a month-long campaign that paired two strangers with the same short book. Simple question cards helped encourage conversation without forcing anyone to speak publicly. By spring, the readers had helped create three small groups that met without staff assistance. During the final month, a poem from the collection helped one reader express affection by calling an old friend darling again.",
+      "translation": "一位安静的图书管理员发现，一位老人每天下午都独自坐在窗边。老人喜欢阅读，却因孤独而不愿参加楼下喧闹的活动。管理员发起了为期一个月的活动，让两位陌生人共读同一本短书。简单的问题卡鼓励交流，又不会强迫任何人公开发言。到了春天，读者们已经建立了三个无需员工协助的小组。最后一个月里，藏书中的一首诗帮助一名读者表达感情，再次亲切地称呼老朋友。",
       "sentences": [
         {
           "en": "A quiet library clerk noticed that an elderly visitor spent every afternoon alone by the window.",
@@ -31,6 +31,10 @@
         {
           "en": "By spring, the readers had helped create three small groups that met without staff assistance.",
           "zh": "到了春天，读者们已经建立了三个无需员工协助的小组。"
+        },
+        {
+          "en": "During the final month, a poem from the collection helped one reader express affection by calling an old friend darling again.",
+          "zh": "最后一个月里，藏书中的一首诗帮助一名读者表达感情，再次亲切地称呼老朋友。"
         }
       ],
       "target_words": [
@@ -57,6 +61,26 @@
         {
           "word": "create",
           "meaning": "v. 创造,创作;引起,造成,建立"
+        },
+        {
+          "word": "collection",
+          "meaning": "n. 收藏(品),收集(物)"
+        },
+        {
+          "word": "poem",
+          "meaning": "n. 诗"
+        },
+        {
+          "word": "month",
+          "meaning": "n. 月,月份"
+        },
+        {
+          "word": "express",
+          "meaning": "v. 表达,表示a. 特快的,快速的n. 快车,快运"
+        },
+        {
+          "word": "darling",
+          "meaning": "n. 心爱的人,亲爱的"
         }
       ],
       "questions": [
@@ -77,8 +101,8 @@
       "title": "Why Vitamin Variety Matters",
       "type": "explanatory",
       "difficulty": "CET-4+",
-      "text": "Each vitamin works in different chemical processes, even when tablets resemble one another. Some help release energy from food, while others are important for blood, skin, or vision. A varied diet usually supplies them in safer amounts than a single concentrated product. If supplements exceed the body's needs, certain vitamins can accumulate and cause harm. A medical facility can test a suspected shortage, but most people benefit first from improving food variety.",
-      "translation": "每种维生素参与不同的化学过程，即使药片外观相似。有些帮助从食物中释放能量，另一些对血液、皮肤或视力很重要。多样化饮食通常比单一浓缩产品以更安全的量提供维生素。如果补充剂超过身体需要，某些维生素会积累并造成伤害。医疗机构可以检测疑似缺乏，但多数人首先会从改善食物多样性中受益。",
+      "text": "Each vitamin works in different chemical processes, even when tablets resemble one another. Some help release energy from food, while others are important for blood, skin, or vision. A varied diet usually supplies them in safer amounts than a single concentrated product. If supplements exceed the body's needs, certain vitamins can accumulate and cause harm. A medical facility can test a suspected shortage, but most people benefit first from improving food variety. In an extreme deficiency, highly visible weakness may appear, but nothing should replace a structural examination of blood and breast tissue.",
+      "translation": "每种维生素参与不同的化学过程，即使药片外观相似。有些帮助从食物中释放能量，另一些对血液、皮肤或视力很重要。多样化饮食通常比单一浓缩产品以更安全的量提供维生素。如果补充剂超过身体需要，某些维生素会积累并造成伤害。医疗机构可以检测疑似缺乏，但多数人首先会从改善食物多样性中受益。在严重缺乏时可能出现明显虚弱，但任何东西都不能替代对血液和乳腺组织的系统检查。",
       "sentences": [
         {
           "en": "Each vitamin works in different chemical processes, even when tablets resemble one another.",
@@ -99,6 +123,10 @@
         {
           "en": "A medical facility can test a suspected shortage, but most people benefit first from improving food variety.",
           "zh": "医疗机构可以检测疑似缺乏，但多数人首先会从改善食物多样性中受益。"
+        },
+        {
+          "en": "In an extreme deficiency, highly visible weakness may appear, but nothing should replace a structural examination of blood and breast tissue.",
+          "zh": "在严重缺乏时可能出现明显虚弱，但任何东西都不能替代对血液和乳腺组织的系统检查。"
         }
       ],
       "target_words": [
@@ -125,6 +153,26 @@
         {
           "word": "facility",
           "meaning": "n. (pl.)设备,设施;灵巧,熟练"
+        },
+        {
+          "word": "extreme",
+          "meaning": "adj. 极度的,极端的;尽头的,末端的 n. 极端,过分"
+        },
+        {
+          "word": "highly",
+          "meaning": "ad. 高度地,很,非常;赞许地"
+        },
+        {
+          "word": "nothing",
+          "meaning": "n. 没有东西;什么也没有;无关紧要的人或事"
+        },
+        {
+          "word": "structural",
+          "meaning": "a. 结构的,构造的"
+        },
+        {
+          "word": "breast",
+          "meaning": "n. 胸膛,乳房"
         }
       ],
       "questions": [
@@ -145,8 +193,8 @@
       "title": "Factories Should Welcome Criticism",
       "type": "opinion",
       "difficulty": "CET-4+",
-      "text": "When residents criticize a factory, managers sometimes treat every complaint as an attack on industry. That response increases suspicion, especially after faulty equipment or unexplained smoke is reported. A formal public meeting allows engineers to present evidence and neighbors to describe what they observed. Not every criticism will be technically correct, but each one can reveal a gap in communication. Trust grows when a company investigates specific claims and publishes what it learns.",
-      "translation": "居民批评工厂时，管理者有时把所有投诉都视为对工业的攻击。这种回应会增加怀疑，尤其是在有人报告设备故障或不明烟雾之后。正式公开会议让工程师展示证据，也让邻居描述他们的观察。并非每条批评在技术上都正确，但每一条都可能揭示沟通缺口。企业调查具体问题并公布结果时，信任才会增长。",
+      "text": "When residents criticize a factory, managers sometimes treat every complaint as an attack on industry. That response increases suspicion, especially after faulty equipment or unexplained smoke is reported. A formal public meeting allows engineers to present evidence and neighbors to describe what they observed. Not every criticism will be technically correct, but each one can reveal a gap in communication. Trust grows when a company investigates specific claims and publishes what it learns. Managers should not attribute a mysterious smell in the interior to careless workers simply because punctual production helped the factory survive.",
+      "translation": "居民批评工厂时，管理者有时把所有投诉都视为对工业的攻击。这种回应会增加怀疑，尤其是在有人报告设备故障或不明烟雾之后。正式公开会议让工程师展示证据，也让邻居描述他们的观察。并非每条批评在技术上都正确，但每一条都可能揭示沟通缺口。企业调查具体问题并公布结果时，信任才会增长。管理者不应仅因准时生产帮助工厂维持运转，就把内部的神秘气味归咎于粗心工人。",
       "sentences": [
         {
           "en": "When residents criticize a factory, managers sometimes treat every complaint as an attack on industry.",
@@ -167,6 +215,10 @@
         {
           "en": "Trust grows when a company investigates specific claims and publishes what it learns.",
           "zh": "企业调查具体问题并公布结果时，信任才会增长。"
+        },
+        {
+          "en": "Managers should not attribute a mysterious smell in the interior to careless workers simply because punctual production helped the factory survive.",
+          "zh": "管理者不应仅因准时生产帮助工厂维持运转，就把内部的神秘气味归咎于粗心工人。"
         }
       ],
       "target_words": [
@@ -189,6 +241,26 @@
         {
           "word": "formal",
           "meaning": "a. 正式的;形式的"
+        },
+        {
+          "word": "attribute",
+          "meaning": "vt. 归因于;n. 属性;象征;标志"
+        },
+        {
+          "word": "survive",
+          "meaning": "v. 幸免于,幸存;比...长命"
+        },
+        {
+          "word": "punctual",
+          "meaning": "a. 准时的,严守时刻的"
+        },
+        {
+          "word": "mysterious",
+          "meaning": "a. 神秘的,可疑的,难理解的"
+        },
+        {
+          "word": "interior",
+          "meaning": "a. 内部的,里面的n. 内部,内地"
         }
       ],
       "questions": [

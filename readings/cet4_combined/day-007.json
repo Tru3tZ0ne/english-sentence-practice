@@ -9,8 +9,8 @@
       "title": "Dusk on Gull Island",
       "type": "story",
       "difficulty": "CET-4+",
-      "text": "At dusk, a tired birdwatcher heard shouting below the western cliff of Gull Island. A kayaker had overturned and was struggling against the current, close enough to see but hard to reach. Fearing he might drown, the birdwatcher called the harbor and threw down a bright rope. Two fishers arrived to assist, pulling the man into their boat as fatigue weakened his grip. The rescue ended safely, and the island council later placed an emergency box near the path.",
-      "translation": "黄昏时，一名疲惫的观鸟者听见海鸥岛西侧悬崖下有人呼喊。一名皮划艇者翻船后正在水流中挣扎，虽看得见却难以接近。观鸟者担心他溺水，于是呼叫港口并抛下一条亮色绳索。两名渔民赶来协助，在疲劳使男子握力减弱时把他拉上船。救援安全结束，岛上委员会后来在小路旁设置了应急箱。",
+      "text": "At dusk, a tired birdwatcher heard shouting below the western cliff of Gull Island. A kayaker had overturned and was struggling against the current, close enough to see but hard to reach. Fearing he might drown, the birdwatcher called the harbor and threw down a bright rope. Two fishers arrived to assist, pulling the man into their boat as fatigue weakened his grip. The rescue ended safely, and the island council later placed an emergency box near the path. After a loud bang beyond the hill, the chief rescuer asked everyone to follow the marked path until the event was under control.",
+      "translation": "黄昏时，一名疲惫的观鸟者听见海鸥岛西侧悬崖下有人呼喊。一名皮划艇者翻船后正在水流中挣扎，虽看得见却难以接近。观鸟者担心他溺水，于是呼叫港口并抛下一条亮色绳索。两名渔民赶来协助，在疲劳使男子握力减弱时把他拉上船。救援安全结束，岛上委员会后来在小路旁设置了应急箱。山后传来巨响后，救援负责人让所有人沿标记路线前进，直到事件受控。",
       "sentences": [
         {
           "en": "At dusk, a tired birdwatcher heard shouting below the western cliff of Gull Island.",
@@ -31,6 +31,10 @@
         {
           "en": "The rescue ended safely, and the island council later placed an emergency box near the path.",
           "zh": "救援安全结束，岛上委员会后来在小路旁设置了应急箱。"
+        },
+        {
+          "en": "After a loud bang beyond the hill, the chief rescuer asked everyone to follow the marked path until the event was under control.",
+          "zh": "山后传来巨响后，救援负责人让所有人沿标记路线前进，直到事件受控。"
         }
       ],
       "target_words": [
@@ -57,6 +61,26 @@
         {
           "word": "assist",
           "meaning": "vt. 协助,帮助,促进vi. 帮忙,参加"
+        },
+        {
+          "word": "hill",
+          "meaning": "n. 小山,山岗,高地;[pl."
+        },
+        {
+          "word": "bang",
+          "meaning": "n./v. 猛击,猛敲,砰然作声"
+        },
+        {
+          "word": "chief",
+          "meaning": "n. 领袖;部门主任;a. 主要的,首席的"
+        },
+        {
+          "word": "follow",
+          "meaning": "v. 跟随,接着;领会;沿着...前进,遵循;结果是"
+        },
+        {
+          "word": "event",
+          "meaning": "n. 事件,事情"
         }
       ],
       "questions": [
@@ -77,8 +101,8 @@
       "title": "Why Petrol Use Falls on Short Trips",
       "type": "explanatory",
       "difficulty": "CET-4+",
-      "text": "The word transportatio appears misspelled in an old data table, yet the figures still tell a useful story. A cold engine burns a greater quantity of petrol during the first few minutes of a journey. Once its temperature becomes stable, the same distance requires less fuel. This is why average consumption can decrease when several short errands become one planned route. No single formula fits every vehicle, but distance, load, and driving style explain much of the difference.",
-      "translation": "旧数据表中的 transportatio 一词拼写有误，但数据仍讲述了一个有用的事实。冷发动机在旅程最初几分钟会燃烧更多汽油。温度稳定后，行驶相同距离所需燃料会减少。因此，把几次短途差事合并成一条规划路线，可以降低平均油耗。没有一个公式适合所有车辆，但距离、载重和驾驶方式能解释大部分差异。",
+      "text": "The word transportatio appears misspelled in an old data table, yet the figures still tell a useful story. A cold engine burns a greater quantity of petrol during the first few minutes of a journey. Once its temperature becomes stable, the same distance requires less fuel. This is why average consumption can decrease when several short errands become one planned route. No single formula fits every vehicle, but distance, load, and driving style explain much of the difference. A rotary test measured the overall grind around each bolt and helped engineers confirm where the engine was losing energy.",
+      "translation": "旧数据表中的 transportatio 一词拼写有误，但数据仍讲述了一个有用的事实。冷发动机在旅程最初几分钟会燃烧更多汽油。温度稳定后，行驶相同距离所需燃料会减少。因此，把几次短途差事合并成一条规划路线，可以降低平均油耗。没有一个公式适合所有车辆，但距离、载重和驾驶方式能解释大部分差异。旋转测试测量每个螺栓周围的整体磨损，帮助工程师确认发动机在哪里损失能量。",
       "sentences": [
         {
           "en": "The word transportatio appears misspelled in an old data table, yet the figures still tell a useful story.",
@@ -99,6 +123,10 @@
         {
           "en": "No single formula fits every vehicle, but distance, load, and driving style explain much of the difference.",
           "zh": "没有一个公式适合所有车辆，但距离、载重和驾驶方式能解释大部分差异。"
+        },
+        {
+          "en": "A rotary test measured the overall grind around each bolt and helped engineers confirm where the engine was losing energy.",
+          "zh": "旋转测试测量每个螺栓周围的整体磨损，帮助工程师确认发动机在哪里损失能量。"
         }
       ],
       "target_words": [
@@ -125,6 +153,26 @@
         {
           "word": "formula",
           "meaning": "n. 公式;规则;分子式;药方"
+        },
+        {
+          "word": "rotary",
+          "meaning": "a. 旋转的"
+        },
+        {
+          "word": "overall",
+          "meaning": "a. 包括一切的,全部的;n. 罩衫,工装裤"
+        },
+        {
+          "word": "grind",
+          "meaning": "vt. 磨,磨碎,碾碎;(down)折磨,压迫 vi. 摩擦得吱吱作响 n. 苦差事,苦活儿"
+        },
+        {
+          "word": "bolt",
+          "meaning": "n. 插销;螺栓;闪电;快跑;逃走; v. (马)等脱缰逃跑;囫囵吞下;拴紧"
+        },
+        {
+          "word": "confirm",
+          "meaning": "vt. 证实;确认;批准"
         }
       ],
       "questions": [
@@ -145,8 +193,8 @@
       "title": "Tourism Must Sustain Island Life",
       "type": "opinion",
       "difficulty": "CET-4+",
-      "text": "A beautiful island location can become prosperous when visitors support local boats, cafés, and guides. However, resorts often import every appliance and item of furniture, sending much of the income away. Tourism should sustain ordinary life by buying local food and training residents for skilled work. Visitors must also avoid the arrogant belief that they arrive to civilize a remote community. A healthy industry treats island culture as a living relationship, not a decorative product.",
-      "translation": "美丽的岛屿可以因游客支持当地船只、咖啡馆和导游而繁荣。然而，度假村常常进口所有电器和家具，使大量收入流向外地。旅游业应购买当地食品并培训居民从事技能工作，从而维持日常生活。游客也必须避免那种自以为来教化偏远社区的傲慢想法。健康的产业把岛屿文化视为鲜活关系，而不是装饰性商品。",
+      "text": "A beautiful island location can become prosperous when visitors support local boats, cafés, and guides. However, resorts often import every appliance and item of furniture, sending much of the income away. Tourism should sustain ordinary life by buying local food and training residents for skilled work. Visitors must also avoid the arrogant belief that they arrive to civilize a remote community. A healthy industry treats island culture as a living relationship, not a decorative product. A local workman may share his favourite fishing hobby with tourists, turning a quarrel about the past into practical cooperation.",
+      "translation": "美丽的岛屿可以因游客支持当地船只、咖啡馆和导游而繁荣。然而，度假村常常进口所有电器和家具，使大量收入流向外地。旅游业应购买当地食品并培训居民从事技能工作，从而维持日常生活。游客也必须避免那种自以为来教化偏远社区的傲慢想法。健康的产业把岛屿文化视为鲜活关系，而不是装饰性商品。当地工人可以和游客分享最喜爱的钓鱼爱好，把关于过去的争执转化为实际合作。",
       "sentences": [
         {
           "en": "A beautiful island location can become prosperous when visitors support local boats, cafés, and guides.",
@@ -167,6 +215,10 @@
         {
           "en": "A healthy industry treats island culture as a living relationship, not a decorative product.",
           "zh": "健康的产业把岛屿文化视为鲜活关系，而不是装饰性商品。"
+        },
+        {
+          "en": "A local workman may share his favourite fishing hobby with tourists, turning a quarrel about the past into practical cooperation.",
+          "zh": "当地工人可以和游客分享最喜爱的钓鱼爱好，把关于过去的争执转化为实际合作。"
         }
       ],
       "target_words": [
@@ -193,6 +245,26 @@
         {
           "word": "civilize",
           "meaning": "v. 使文明,开化"
+        },
+        {
+          "word": "hobby",
+          "meaning": "n. 业余爱好"
+        },
+        {
+          "word": "favourite",
+          "meaning": "a.特别受喜爱的"
+        },
+        {
+          "word": "workman",
+          "meaning": "n.工人,劳动者,工匠"
+        },
+        {
+          "word": "quarrel",
+          "meaning": "v. 争吵,争论n. 争吵,争吵的原因"
+        },
+        {
+          "word": "past",
+          "meaning": "a. 过去的ad. 过n. 过去,昔日prep. (经)过"
         }
       ],
       "questions": [

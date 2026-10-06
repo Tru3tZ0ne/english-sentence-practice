@@ -9,8 +9,8 @@
       "title": "A Deer on the Night Trail",
       "type": "story",
       "difficulty": "CET-4+",
-      "text": "A deer can interrupt any race; that night, one suddenly stepped onto the mountain trail. The first rider made a dramatic turn, fell, and shouted a warning to those behind him. Another competitor stopped to protect the sensitive animal from lights and noise. Spectators called him a hero, although stopping cost him a possible victory. Officials later moved the route away from a spring feeding area used by wildlife.",
-      "translation": "鹿可能打断任何比赛；那天夜里，一只鹿突然踏上山地赛道。第一名骑手猛然转向后摔倒，并向后方选手发出警告。另一名选手停下来，保护这只对灯光和噪声敏感的动物。观众称他为英雄，尽管停下让他失去了可能的胜利。官员后来把路线移离野生动物春季觅食区。",
+      "text": "A deer can interrupt any race; that night, one suddenly stepped onto the mountain trail. The first rider made a dramatic turn, fell, and shouted a warning to those behind him. Another competitor stopped to protect the sensitive animal from lights and noise. Spectators called him a hero, although stopping cost him a possible victory. Officials later moved the route away from a spring feeding area used by wildlife. That spring night, the creature's terror mattered more than sporting triumph, and the crowd accepted the delay.",
+      "translation": "鹿可能打断任何比赛；那天夜里，一只鹿突然踏上山地赛道。第一名骑手猛然转向后摔倒，并向后方选手发出警告。另一名选手停下来，保护这只对灯光和噪声敏感的动物。观众称他为英雄，尽管停下让他失去了可能的胜利。官员后来把路线移离野生动物春季觅食区。那个春夜，动物的恐惧比体育胜利更重要，观众接受了延误。",
       "sentences": [
         {
           "en": "A deer can interrupt any race; that night, one suddenly stepped onto the mountain trail.",
@@ -31,6 +31,10 @@
         {
           "en": "Officials later moved the route away from a spring feeding area used by wildlife.",
           "zh": "官员后来把路线移离野生动物春季觅食区。"
+        },
+        {
+          "en": "That spring night, the creature's terror mattered more than sporting triumph, and the crowd accepted the delay.",
+          "zh": "那个春夜，动物的恐惧比体育胜利更重要，观众接受了延误。"
         }
       ],
       "target_words": [
@@ -57,6 +61,26 @@
         {
           "word": "sensitive",
           "meaning": "a. 敏感的;过敏的,容易生气的;(仪器)灵敏的"
+        },
+        {
+          "word": "spring",
+          "meaning": "v./n. 跳,发芽 n. 春季,泉,弹簧"
+        },
+        {
+          "word": "creature",
+          "meaning": "n. 人,动物;生物"
+        },
+        {
+          "word": "terror",
+          "meaning": "n. 恐怖;可怕的人(事)"
+        },
+        {
+          "word": "triumph",
+          "meaning": "n. 凯旋,成功"
+        },
+        {
+          "word": "night",
+          "meaning": "n. 夜间;夜;晚(上)"
         }
       ],
       "questions": [
@@ -77,8 +101,8 @@
       "title": "Why Plants Grow toward Light",
       "type": "explanatory",
       "difficulty": "CET-4+",
-      "text": "A young plant uses chemical signals to decide where its stem should grow. When light comes from one side, the distribution of a growth hormone becomes uneven. Cells on the darker side lengthen more, bending the stem toward the light. Water in each cell acts like internal liquid pressure, so hydration is also critical. Advanced cameras can record this slow movement and reveal changes invisible from moment to moment.",
-      "translation": "幼苗利用化学信号决定茎应向哪里生长。光从一侧照来时，生长激素的分布会变得不均匀。背光侧细胞伸长得更多，使茎弯向光源。每个细胞中的水形成内部液体压力，因此水分也至关重要。先进摄像机能记录这种缓慢运动，揭示肉眼逐刻看不到的变化。",
+      "text": "A young plant uses chemical signals to decide where its stem should grow. When light comes from one side, the distribution of a growth hormone becomes uneven. Cells on the darker side lengthen more, bending the stem toward the light. Water in each cell acts like internal liquid pressure, so hydration is also critical. Advanced cameras can record this slow movement and reveal changes invisible from moment to moment. At high altitude, a tap of water and the blend of signals from the throat and a nearby horn can also influence growth experiments.",
+      "translation": "幼苗利用化学信号决定茎应向哪里生长。光从一侧照来时，生长激素的分布会变得不均匀。背光侧细胞伸长得更多，使茎弯向光源。每个细胞中的水形成内部液体压力，因此水分也至关重要。先进摄像机能记录这种缓慢运动，揭示肉眼逐刻看不到的变化。在高海拔地区，一点自来水以及喉部和附近号角声的混合信号也可能影响生长实验。",
       "sentences": [
         {
           "en": "A young plant uses chemical signals to decide where its stem should grow.",
@@ -99,6 +123,10 @@
         {
           "en": "Advanced cameras can record this slow movement and reveal changes invisible from moment to moment.",
           "zh": "先进摄像机能记录这种缓慢运动，揭示肉眼逐刻看不到的变化。"
+        },
+        {
+          "en": "At high altitude, a tap of water and the blend of signals from the throat and a nearby horn can also influence growth experiments.",
+          "zh": "在高海拔地区，一点自来水以及喉部和附近号角声的混合信号也可能影响生长实验。"
         }
       ],
       "target_words": [
@@ -125,6 +153,26 @@
         {
           "word": "liquid",
           "meaning": "n. 液体a. 液体的,液态的"
+        },
+        {
+          "word": "tap",
+          "meaning": "n. 龙头;轻拍,轻敲;v. 轻拍,轻敲"
+        },
+        {
+          "word": "blend",
+          "meaning": "v./n. 混合,把...混成一体,混合物"
+        },
+        {
+          "word": "altitude",
+          "meaning": "n. (海拔)高度"
+        },
+        {
+          "word": "throat",
+          "meaning": "n. 咽喉,嗓子"
+        },
+        {
+          "word": "horn",
+          "meaning": "n. (牛羊等的)角;号,喇叭;角状物;角制品"
         }
       ],
       "questions": [
@@ -145,8 +193,8 @@
       "title": "Public Toilets Are Essential Infrastructure",
       "type": "opinion",
       "difficulty": "CET-4+",
-      "text": "A clean public toilet is necessary for children, older people, workers, and anyone spending hours outside. Cities often build attractive facilities but fail to budget for routine maintenance. The result is a locked or broken toilet that exists on a map but not in practice. Technical sensors can report leaks and supply shortages, although staff must still respond promptly. Reliable access should be treated as basic public infrastructure, with clear standards and published inspections.",
-      "translation": "干净的公共厕所对儿童、老人、劳动者和长时间在外的人都必不可少。城市常建造漂亮设施，却没有为日常维护编列预算。结果就是地图上存在、实际却上锁或损坏的厕所。技术传感器可以报告漏水和用品短缺，但工作人员仍须及时处理。可靠的使用条件应被视为基础公共设施，并配有清晰标准和公开检查。",
+      "text": "A clean public toilet is necessary for children, older people, workers, and anyone spending hours outside. Cities often build attractive facilities but fail to budget for routine maintenance. The result is a locked or broken toilet that exists on a map but not in practice. Technical sensors can report leaks and supply shortages, although staff must still respond promptly. Reliable access should be treated as basic public infrastructure, with clear standards and published inspections. Access is a right rather than a privilege, so councils should propose an applicable cleanliness index and equal treatment across districts.",
+      "translation": "干净的公共厕所对儿童、老人、劳动者和长时间在外的人都必不可少。城市常建造漂亮设施，却没有为日常维护编列预算。结果就是地图上存在、实际却上锁或损坏的厕所。技术传感器可以报告漏水和用品短缺，但工作人员仍须及时处理。可靠的使用条件应被视为基础公共设施，并配有清晰标准和公开检查。使用公厕是权利而非特权，因此委员会应提出适用的清洁指数，并让各地区得到平等对待。",
       "sentences": [
         {
           "en": "A clean public toilet is necessary for children, older people, workers, and anyone spending hours outside.",
@@ -167,6 +215,10 @@
         {
           "en": "Reliable access should be treated as basic public infrastructure, with clear standards and published inspections.",
           "zh": "可靠的使用条件应被视为基础公共设施，并配有清晰标准和公开检查。"
+        },
+        {
+          "en": "Access is a right rather than a privilege, so councils should propose an applicable cleanliness index and equal treatment across districts.",
+          "zh": "使用公厕是权利而非特权，因此委员会应提出适用的清洁指数，并让各地区得到平等对待。"
         }
       ],
       "target_words": [
@@ -193,6 +245,26 @@
         {
           "word": "technical",
           "meaning": "a. 技术(性)的,工艺的;专门性的,专业性的"
+        },
+        {
+          "word": "privilege",
+          "meaning": "n. 特权;优惠"
+        },
+        {
+          "word": "treatment",
+          "meaning": "n.待遇;治疗,疗法"
+        },
+        {
+          "word": "propose",
+          "meaning": "v. 提议;求婚"
+        },
+        {
+          "word": "applicable",
+          "meaning": "a. 可应用(实施)的;适当的,合适的"
+        },
+        {
+          "word": "index",
+          "meaning": "n. 索引v. 附以索引"
         }
       ],
       "questions": [
