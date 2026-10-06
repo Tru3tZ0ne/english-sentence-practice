@@ -1,7 +1,7 @@
 const STATIC_DEFAULTS={theme:'system',font_size:'medium',auto_speak:false,speech_rate:1,ignore_terminal_punctuation:true,auto_next:false};
 
 class StaticApi{
-  constructor(){this.storageKey='english-sentence-practice-v1';this.libraries=[];this.byId=new Map();this.state=this.loadState()}
+  constructor(){this.storageKey='english-sentence-practice-v1';this.libraries=[];this.byId=new Map();this.wordlists=[];this.wordlistsById=new Map();this.wordDayCache=new Map();this.state=this.loadState()}
   loadState(){
     try{
       const saved=JSON.parse(localStorage.getItem(this.storageKey)||'{}');
@@ -19,6 +19,15 @@ class StaticApi{
       return result.json();
     }));
     this.libraries=results;this.byId=new Map(results.map(lib=>[lib.id,lib]));
+    const wordManifestResponse=await fetch('wordlists/manifest.json');
+    if(!wordManifestResponse.ok)throw new Error(`单词库清单加载失败：${wordManifestResponse.status}`);
+    const wordManifest=await wordManifestResponse.json();
+    const indexes=await Promise.all((wordManifest.wordlists||[]).map(async entry=>{
+      const response=await fetch(`wordlists/${entry.index}`);
+      if(!response.ok)throw new Error(`单词库索引加载失败：${entry.index}`);
+      const index=await response.json();index._base=entry.index.replace(/[^/]+$/,'');return index;
+    }));
+    this.wordlists=indexes;this.wordlistsById=new Map(indexes.map(index=>[index.id,index]));
   }
   itemKey(libraryId,itemId){return `${libraryId}/${itemId}`}
   stats(libraryId){
@@ -34,7 +43,18 @@ class StaticApi{
   }
   item(libraryId,itemId){return this.byId.get(libraryId)?.items.find(item=>item.id===itemId)}
   async bootstrap(){
-    return {ok:true,version:'web',library_errors:[],settings:{...this.state.settings},libraries:this.libraries.map(lib=>({id:lib.id,title:lib.title,description:lib.description||'',language:lib.language||'en-US',tags:lib.tags||[],item_count:lib.items.length,stats:this.stats(lib.id)}))};
+    return {ok:true,version:'web',library_errors:[],wordlist_errors:[],settings:{...this.state.settings},libraries:this.libraries.map(lib=>({id:lib.id,title:lib.title,description:lib.description||'',language:lib.language||'en-US',tags:lib.tags||[],item_count:lib.items.length,stats:this.stats(lib.id)})),wordlists:this.wordlists.map(({_base,...index})=>index)};
+  }
+  async get_word_day(wordlistId,dayNumber){
+    const index=this.wordlistsById.get(wordlistId);if(!index)return {ok:false,error:'单词库不存在'};
+    const day=index.days.find(item=>item.day===Number(dayNumber));if(!day)return {ok:false,error:`Day ${dayNumber} 不存在`};
+    const key=`${wordlistId}/${day.day}`;
+    if(!this.wordDayCache.has(key)){
+      const response=await fetch(`wordlists/${index._base}${day.file}`);
+      if(!response.ok)return {ok:false,error:`Day ${day.day} 加载失败：${response.status}`};
+      this.wordDayCache.set(key,await response.json());
+    }
+    return {ok:true,...this.wordDayCache.get(key)};
   }
   async get_sequence(libraryId='',kind='all'){
     let pairs=[];
