@@ -1,0 +1,3116 @@
+{
+  "schema_version": 1,
+  "wordlist_id": "cet4_combined",
+  "day": 37,
+  "items": [
+    {
+      "id": "word_5cb248ea591d",
+      "word": "concede",
+      "phonetic": "",
+      "meaning": "vt. (不情愿地)承认,承认...为真(或正确); 承认失败;让于;vi. 让步,认输",
+      "alternatives": [
+        "vt.勉强,承认,退让;vi.让步"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/409",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/657",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/847"
+      ],
+      "options": [
+        {
+          "text": "v.仔细阅读,审查",
+          "correct": false
+        },
+        {
+          "text": "v./n. (球等)反跳,弹起,乱冲",
+          "correct": false
+        },
+        {
+          "text": "vt. (不情愿地)承认,承认...为真(或正确); 承认失败;让于;vi. 让步,认输",
+          "correct": true
+        },
+        {
+          "text": "v./n. 掷,抛;猛烈地移动;投入",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_30d5be889f2c",
+      "word": "conceive",
+      "phonetic": "",
+      "meaning": "v. 想出(主意);怀孕",
+      "alternatives": [
+        "vt.构思,以为,持有;vi.怀孕,考虑,设想"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/410",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/5420",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/3472"
+      ],
+      "options": [
+        {
+          "text": "vt. (不情愿地)承认,承认...为真(或正确); 承认失败;让于;vi. 让步,认输",
+          "correct": false
+        },
+        {
+          "text": "v. 想出(主意);怀孕",
+          "correct": true
+        },
+        {
+          "text": "vt. 促动,激发",
+          "correct": false
+        },
+        {
+          "text": "v.废除,取消,撤回",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_52bb76fbd4f5",
+      "word": "conception",
+      "phonetic": "",
+      "meaning": "n. 概念,观念",
+      "alternatives": [
+        "n.观念,概念"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/414",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/813",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/6607"
+      ],
+      "options": [
+        {
+          "text": "n. 解决,决定,调停;居留区,住宅区",
+          "correct": false
+        },
+        {
+          "text": "n.磷。",
+          "correct": false
+        },
+        {
+          "text": "n. 克",
+          "correct": false
+        },
+        {
+          "text": "n. 概念,观念",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "word_f6059ac26400",
+      "word": "concise",
+      "phonetic": "",
+      "meaning": "a. 简明的,简要的",
+      "alternatives": [
+        "adj.简明的,简练的"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/416",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/4887",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/9142"
+      ],
+      "options": [
+        {
+          "text": "a. 有名的,著名的",
+          "correct": false
+        },
+        {
+          "text": "a. 简明的,简要的",
+          "correct": true
+        },
+        {
+          "text": "a.(声音)嘶哑的",
+          "correct": false
+        },
+        {
+          "text": "a. 宽的,广阔的;广大的;宽宏的,豁达的",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_6f7ce5280f83",
+      "word": "confer",
+      "phonetic": "",
+      "meaning": "v. 协商;授予",
+      "alternatives": [
+        "vt.授予(称号、学位等),赠与,把...赠与,协议;v.协商,交换意见"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/421",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/6744",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/3053"
+      ],
+      "options": [
+        {
+          "text": "v. (sent,sent)1. 打发;派遣;2. 送;寄出",
+          "correct": false
+        },
+        {
+          "text": "vt. 描绘,描写",
+          "correct": false
+        },
+        {
+          "text": "vt. 爱护,抱有(希望);怀有(情感)",
+          "correct": false
+        },
+        {
+          "text": "v. 协商;授予",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "word_332aaf8204c1",
+      "word": "confidential",
+      "phonetic": "",
+      "meaning": "a. 秘(机)密的;表示信任的;担任机密工作的",
+      "alternatives": [
+        "adj.秘密的,机密的"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/425",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/4389",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/8501"
+      ],
+      "options": [
+        {
+          "text": "a. (纸)没有写字的;(表格)空白的;失色的;n. 空白;空虚;空弹",
+          "correct": false
+        },
+        {
+          "text": "a. 秘(机)密的;表示信任的;担任机密工作的",
+          "correct": true
+        },
+        {
+          "text": "adj.商定的",
+          "correct": false
+        },
+        {
+          "text": "a.装饰的n.装饰品",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_0652e436f42d",
+      "word": "configuration",
+      "phonetic": "",
+      "meaning": "n.构造, 结构, 配置, 外形。",
+      "alternatives": [],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/426",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/5682"
+      ],
+      "options": [
+        {
+          "text": "n.构造, 结构, 配置, 外形。",
+          "correct": true
+        },
+        {
+          "text": "n. 抄本,摹本;(一)本vt. 抄写;考试中抄袭",
+          "correct": false
+        },
+        {
+          "text": "n. 标签;鞋带;垂饰vt. 加标签于;附加vi. 紧随",
+          "correct": false
+        },
+        {
+          "text": "n. 债,债务",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_921bfebfd39f",
+      "word": "conform",
+      "phonetic": "",
+      "meaning": "v. 符合,遵从",
+      "alternatives": [
+        "vt.使一致,使遵守,使顺从;vi.符合,相似,适应环境;adj.一致的,顺从的"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/430",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/4659",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/6894"
+      ],
+      "options": [
+        {
+          "text": "v. 丢弃,离开,背弃,开小差;n./a. 沙漠,无人居住的",
+          "correct": false
+        },
+        {
+          "text": "v.取消,废除",
+          "correct": false
+        },
+        {
+          "text": "v. 符合,遵从",
+          "correct": true
+        },
+        {
+          "text": "v. 逃走;逃避",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_221422a7f3fa",
+      "word": "confront",
+      "phonetic": "",
+      "meaning": "vt. 使面对,面临",
+      "alternatives": [
+        "vt.使面临,对抗"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/431",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/6008",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/3382"
+      ],
+      "options": [
+        {
+          "text": "v./n. 谋杀,凶杀",
+          "correct": false
+        },
+        {
+          "text": "vt. 使面对,面临",
+          "correct": true
+        },
+        {
+          "text": "vi. 协作,合作;(与敌人)勾结",
+          "correct": false
+        },
+        {
+          "text": "vt. 压缩;使语言精炼;n. (止血用)敷布",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_cfc8b23ab1a1",
+      "word": "confusion",
+      "phonetic": "",
+      "meaning": "n. 困惑,糊涂;混淆;混乱,骚乱",
+      "alternatives": [
+        "n.混乱,混淆"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/432",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/4586",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/7008"
+      ],
+      "options": [
+        {
+          "text": "n. 草地,草坪",
+          "correct": false
+        },
+        {
+          "text": "n./vt. 训练,纪律;戒律,惩罚;学科",
+          "correct": false
+        },
+        {
+          "text": "n. 困惑,糊涂;混淆;混乱,骚乱",
+          "correct": true
+        },
+        {
+          "text": "n.慈悲,捐助",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_6902c06fa20e",
+      "word": "conscientious",
+      "phonetic": "",
+      "meaning": "a. 审慎正直的,认真的,本着良心的",
+      "alternatives": [
+        "adj.尽责的"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/434",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/7904",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/8192"
+      ],
+      "options": [
+        {
+          "text": "a. 错的ad. 错误地,不正确地n. 错误v. 委屈",
+          "correct": false
+        },
+        {
+          "text": "a. 偶然的,非经常的,特殊场合的;临时的",
+          "correct": false
+        },
+        {
+          "text": "a. 看不见的,无形的",
+          "correct": false
+        },
+        {
+          "text": "a. 审慎正直的,认真的,本着良心的",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "word_da4f063c733c",
+      "word": "consecutive",
+      "phonetic": "",
+      "meaning": "a. 连续的,连贯的",
+      "alternatives": [
+        "adj.连续的,联贯的"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/436",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/7200",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/2141"
+      ],
+      "options": [
+        {
+          "text": "a. 连续的,连贯的",
+          "correct": true
+        },
+        {
+          "text": "a.不舒服的;不自在的",
+          "correct": false
+        },
+        {
+          "text": "a. 很可能的,大概的;有希望的,可能的",
+          "correct": false
+        },
+        {
+          "text": "a. 含蓄的,潜在的;在下面的",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_4f170d6a09b9",
+      "word": "consensus",
+      "phonetic": "",
+      "meaning": "n.一致同意, 多数人的意见, 舆论。",
+      "alternatives": [],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/437",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/9038"
+      ],
+      "options": [
+        {
+          "text": "n.倾盆大雨。",
+          "correct": false
+        },
+        {
+          "text": "n.书报摊。",
+          "correct": false
+        },
+        {
+          "text": "n.一致同意, 多数人的意见, 舆论。",
+          "correct": true
+        },
+        {
+          "text": "n. 将来,未来;前途,前景a. 将来的,未来的",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_bbe5a8e7fb05",
+      "word": "consequent",
+      "phonetic": "",
+      "meaning": "adj.作为结果的, 随之发生的。",
+      "alternatives": [],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/440",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/9259"
+      ],
+      "options": [
+        {
+          "text": "a. 金黄色的;贵重的,极好的",
+          "correct": false
+        },
+        {
+          "text": "adj.仓促的, 无礼的, 性急的, 傲慢的。n.胃灼热, 骤雨, 碎片",
+          "correct": false
+        },
+        {
+          "text": "a. 令人兴奋的,使人激动的",
+          "correct": false
+        },
+        {
+          "text": "adj.作为结果的, 随之发生的。",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "word_97bdcb5c2aad",
+      "word": "conserve",
+      "phonetic": "",
+      "meaning": "vt.保存, 保藏。",
+      "alternatives": [],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/444",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/4661"
+      ],
+      "options": [
+        {
+          "text": "v. (into,on)研究,调查n.研究,调查",
+          "correct": false
+        },
+        {
+          "text": "v. 压;压榨;紧迫,催促n. 报刊,通讯社;压榨机",
+          "correct": false
+        },
+        {
+          "text": "v.使现代化",
+          "correct": false
+        },
+        {
+          "text": "vt.保存, 保藏。",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "word_e2346381bb8e",
+      "word": "console",
+      "phonetic": "",
+      "meaning": "vt. 安慰,慰问;n. 控制台,仪表板;落地柜",
+      "alternatives": [
+        "vt.安慰,藉慰;n.[计]控制台"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/449",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/2921",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/2474"
+      ],
+      "options": [
+        {
+          "text": "vi. 打呵欠,张开",
+          "correct": false
+        },
+        {
+          "text": "vt. 支撑;支持,维持",
+          "correct": false
+        },
+        {
+          "text": "vt. 安慰,慰问;n. 控制台,仪表板;落地柜",
+          "correct": true
+        },
+        {
+          "text": "v. 挖,掘",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_47a721979b81",
+      "word": "consolidate",
+      "phonetic": "",
+      "meaning": "v. 巩固,加强;把...合为一体",
+      "alternatives": [
+        "v.巩固"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/450",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/4109",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/2927"
+      ],
+      "options": [
+        {
+          "text": "v. 巩固,加强;把...合为一体",
+          "correct": true
+        },
+        {
+          "text": "vt.过高估计",
+          "correct": false
+        },
+        {
+          "text": "vt./vi. 巡逻,巡查",
+          "correct": false
+        },
+        {
+          "text": "v.吹嘘,夸口",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_adfab20d8f0d",
+      "word": "conspicuous",
+      "phonetic": "",
+      "meaning": "a. 明显的,引人注目的",
+      "alternatives": [
+        "adj.显著的"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/451",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/1679",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/5748"
+      ],
+      "options": [
+        {
+          "text": "adj.副词的",
+          "correct": false
+        },
+        {
+          "text": "a. 说话流利的,(演说等)流畅的",
+          "correct": false
+        },
+        {
+          "text": "a. 古代的,古老的,古式的",
+          "correct": false
+        },
+        {
+          "text": "a. 明显的,引人注目的",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "word_9e5410bb1364",
+      "word": "constituent",
+      "phonetic": "",
+      "meaning": "a. 有选举权的;组成的;n. 选民;成分",
+      "alternatives": [
+        "n.委托人,要素;adj.有选举权的;有宪法制定[修改]权的"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/453",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/682",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/7960"
+      ],
+      "options": [
+        {
+          "text": "a. 可怕的,吓人的;害怕,担心,惊恐",
+          "correct": false
+        },
+        {
+          "text": "a. 有选举权的;组成的;n. 选民;成分",
+          "correct": true
+        },
+        {
+          "text": "a. 外面的,外部的",
+          "correct": false
+        },
+        {
+          "text": "adj.悲哀的, 哀伤的。",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_75ccb159ef8e",
+      "word": "constrain",
+      "phonetic": "",
+      "meaning": "vt.强迫, 抑制, 拘束。",
+      "alternatives": [],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/456",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/6732"
+      ],
+      "options": [
+        {
+          "text": "vt.注入, 灌输, [医]输血。",
+          "correct": false
+        },
+        {
+          "text": "vt.强迫, 抑制, 拘束。",
+          "correct": true
+        },
+        {
+          "text": "v.转运,转船",
+          "correct": false
+        },
+        {
+          "text": "vi. 获胜,赢vt. 赢得;在...中获胜n. 胜利",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_dd4b89dfc792",
+      "word": "consultant",
+      "phonetic": "",
+      "meaning": "n. 会诊医师,顾问医生;顾问",
+      "alternatives": [
+        "n.顾问,商议者,咨询者"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/459",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/5990",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/7826"
+      ],
+      "options": [
+        {
+          "text": "n. 会诊医师,顾问医生;顾问",
+          "correct": true
+        },
+        {
+          "text": "n. 尖;点;条款;分数,得分;论点v. (at,to)指",
+          "correct": false
+        },
+        {
+          "text": "n. 命令;次序;整齐;定货单;等级v. 定制,订购",
+          "correct": false
+        },
+        {
+          "text": "n.海员,水手",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_cb7a82c31787",
+      "word": "consumer",
+      "phonetic": "",
+      "meaning": "n.消费者,用户",
+      "alternatives": [
+        "n.消费者"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/461",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/7630",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/7044"
+      ],
+      "options": [
+        {
+          "text": "n.沙丁鱼。",
+          "correct": false
+        },
+        {
+          "text": "n. 难题;谜;v. 迷惑",
+          "correct": false
+        },
+        {
+          "text": "n.消费者,用户",
+          "correct": true
+        },
+        {
+          "text": "n. 生物的种;种类",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_2a8365ae8f38",
+      "word": "contaminate",
+      "phonetic": "",
+      "meaning": "v.污染。",
+      "alternatives": [],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/464",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/4173"
+      ],
+      "options": [
+        {
+          "text": "v.污染。",
+          "correct": true
+        },
+        {
+          "text": "v.喷出。",
+          "correct": false
+        },
+        {
+          "text": "v.切碎,绞碎",
+          "correct": false
+        },
+        {
+          "text": "vi. 站立;位于;经受n. 台,座;货摊;立场",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_2761b9856fd4",
+      "word": "contemplate",
+      "phonetic": "",
+      "meaning": "vt. 仔细考虑;注视;打算;预计",
+      "alternatives": [
+        "v.凝视,沉思,预期,企图"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/465",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/5312",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/26"
+      ],
+      "options": [
+        {
+          "text": "v.拆开",
+          "correct": false
+        },
+        {
+          "text": "v. 选择,挑选;甘愿",
+          "correct": false
+        },
+        {
+          "text": "vt. 仔细考虑;注视;打算;预计",
+          "correct": true
+        },
+        {
+          "text": "v. (去)取,拿来;(货物)售的(价钱)",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_107b8d03898e",
+      "word": "contend",
+      "phonetic": "",
+      "meaning": "v.斗争, 竞争, 主张。",
+      "alternatives": [],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/467",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/300"
+      ],
+      "options": [
+        {
+          "text": "vt. 问,询问;请求,要求;邀请,约请",
+          "correct": false
+        },
+        {
+          "text": "v.斗争, 竞争, 主张。",
+          "correct": true
+        },
+        {
+          "text": "v.敲诈, 逼取, 强取, 勒索。",
+          "correct": false
+        },
+        {
+          "text": "v.跳动。",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_f08d0c59effe",
+      "word": "contention",
+      "phonetic": "",
+      "meaning": "n.争夺, 争论, 争辩, 论点。",
+      "alternatives": [],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/468",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/7209"
+      ],
+      "options": [
+        {
+          "text": "n. 命运;天数,天命",
+          "correct": false
+        },
+        {
+          "text": "n.悲伤, 哀悼, 恸哭, 挽诗, 悼词。vt.哀悼。vi.悔恨, 悲叹。",
+          "correct": false
+        },
+        {
+          "text": "n.陈词滥调。",
+          "correct": false
+        },
+        {
+          "text": "n.争夺, 争论, 争辩, 论点。",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "word_1d074decbcdb",
+      "word": "continuity",
+      "phonetic": "",
+      "meaning": "n.连续性, 连贯性。",
+      "alternatives": [],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/471",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/7475"
+      ],
+      "options": [
+        {
+          "text": "n. 学校,(大学里的)学院;上学,学业;学派",
+          "correct": false
+        },
+        {
+          "text": "n.连续性, 连贯性。",
+          "correct": true
+        },
+        {
+          "text": "n.季候风, (印度等地的)雨季, 季风。",
+          "correct": false
+        },
+        {
+          "text": "n.里程",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_16dc172ec750",
+      "word": "contradict",
+      "phonetic": "",
+      "meaning": "vt. 反驳,否认;同...矛盾",
+      "alternatives": [
+        "vt.同...矛盾,同...抵触"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/473",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/1949",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/9195"
+      ],
+      "options": [
+        {
+          "text": "vt. 反驳,否认;同...矛盾",
+          "correct": true
+        },
+        {
+          "text": "vt. 背叛,泄漏,暴露,表现",
+          "correct": false
+        },
+        {
+          "text": "v. 穿着,戴着;磨损,用旧n. 穿,戴;磨损",
+          "correct": false
+        },
+        {
+          "text": "vt. 侮辱,凌辱;n. 侮辱的言词或行为",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_6a411c761980",
+      "word": "contribution",
+      "phonetic": "",
+      "meaning": "n. 贡献;捐款,捐献物;投稿",
+      "alternatives": [
+        "n.捐献,贡献,投稿"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/477",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/2836",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/5502"
+      ],
+      "options": [
+        {
+          "text": "n. 贡献;捐款,捐献物;投稿",
+          "correct": true
+        },
+        {
+          "text": "n. 传统,惯例,传说",
+          "correct": false
+        },
+        {
+          "text": "n. 器官,报刊,风琴",
+          "correct": false
+        },
+        {
+          "text": "n.郡长;警察局长",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_8d0966233335",
+      "word": "contrive",
+      "phonetic": "",
+      "meaning": "v.发明, 设计, 图谋。",
+      "alternatives": [],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/478",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/4629"
+      ],
+      "options": [
+        {
+          "text": "vi. 抱紧;坚守",
+          "correct": false
+        },
+        {
+          "text": "vt.&vi.恳求",
+          "correct": false
+        },
+        {
+          "text": "vt. 使屈服、征服,克制;使柔和,使安静",
+          "correct": false
+        },
+        {
+          "text": "v.发明, 设计, 图谋。",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "word_4768682bfb3e",
+      "word": "controversial",
+      "phonetic": "",
+      "meaning": "a. 引起争论的",
+      "alternatives": [
+        "adj.争论的,争议的"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/479",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/7950",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/4151"
+      ],
+      "options": [
+        {
+          "text": "a. 名义上的,有名无实的;极微的;象征性的",
+          "correct": false
+        },
+        {
+          "text": "a. 引起争论的",
+          "correct": true
+        },
+        {
+          "text": "adj.讨厌的, 麻烦的, 笨重的。",
+          "correct": false
+        },
+        {
+          "text": "adj.拥挤的。",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_4efd595d503f",
+      "word": "controversy",
+      "phonetic": "",
+      "meaning": "n. 争论,辩论,争吵",
+      "alternatives": [
+        "n.论争,辩论,论战"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/480",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/4011",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/272"
+      ],
+      "options": [
+        {
+          "text": "n. 争论,辩论,争吵",
+          "correct": true
+        },
+        {
+          "text": "n. 火箭",
+          "correct": false
+        },
+        {
+          "text": "n. 鳞,鳞状物;尺度;等级;比例规模,相对大小;天平",
+          "correct": false
+        },
+        {
+          "text": "n.毛孔,气孔,细孔",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_57754c38836e",
+      "word": "convene",
+      "phonetic": "",
+      "meaning": "v.召集, 集合。",
+      "alternatives": [],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/481",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/6188"
+      ],
+      "options": [
+        {
+          "text": "v.召集, 集合。",
+          "correct": true
+        },
+        {
+          "text": "v. 追赶,追踪;继续,从事",
+          "correct": false
+        },
+        {
+          "text": "vt. 使变淡,稀释;a. 稀释的",
+          "correct": false
+        },
+        {
+          "text": "vt. 谴责,斥责",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_1ab3280796d4",
+      "word": "converge",
+      "phonetic": "",
+      "meaning": "v.聚合, 集中于一点。vt.会聚",
+      "alternatives": [],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/485",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/8639"
+      ],
+      "options": [
+        {
+          "text": "v.酿造, 酝酿。",
+          "correct": false
+        },
+        {
+          "text": "vt.压碎n.鲜果汁",
+          "correct": false
+        },
+        {
+          "text": "v.聚合, 集中于一点。vt.会聚",
+          "correct": true
+        },
+        {
+          "text": "vt. 无意中听到,偷听到",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_32ab9ce03604",
+      "word": "convict",
+      "phonetic": "",
+      "meaning": "n.罪犯",
+      "alternatives": [
+        "vt.证明...有罪,宣告...有罪;n.罪犯"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/489",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/4396",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/3273"
+      ],
+      "options": [
+        {
+          "text": "n. 食欲",
+          "correct": false
+        },
+        {
+          "text": "n.罪犯",
+          "correct": true
+        },
+        {
+          "text": "n. 纽扣,按钮(开关)v. 扣紧;扣上纽扣",
+          "correct": false
+        },
+        {
+          "text": "n.宁静。",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_78e5cf378242",
+      "word": "cooperative",
+      "phonetic": "",
+      "meaning": "a. 合作的,协作的n. 合作社",
+      "alternatives": [
+        "adj.合作的,协力的"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/491",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/111",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/5897"
+      ],
+      "options": [
+        {
+          "text": "a. 不祥的,不吉利的",
+          "correct": false
+        },
+        {
+          "text": "adj.性的,性感的",
+          "correct": false
+        },
+        {
+          "text": "a. 凶猛的,凶狠的,愤怒的;强烈的",
+          "correct": false
+        },
+        {
+          "text": "a. 合作的,协作的n. 合作社",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "word_967f1d74823d",
+      "word": "cordial",
+      "phonetic": "",
+      "meaning": "a. 热诚的,衷心的",
+      "alternatives": [
+        "n.兴奋剂,兴奋性饮料;adj.热忱的,诚恳的,兴奋的"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/494",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/6559",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/1119"
+      ],
+      "options": [
+        {
+          "text": "a. 完美的,理想的,想象中的 n. 理想,理想的事物",
+          "correct": false
+        },
+        {
+          "text": "a. 新鲜的,无经验的",
+          "correct": false
+        },
+        {
+          "text": "a. 热诚的,衷心的",
+          "correct": true
+        },
+        {
+          "text": "adj.临时的n.权宜之计",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_e92dae8be39e",
+      "word": "cork",
+      "phonetic": "",
+      "meaning": "n. 软木 a. 软木制的 vt. 塞住,抑制",
+      "alternatives": [
+        "n.软木塞,软木,(用塞子)塞住"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/495",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/545",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/4085"
+      ],
+      "options": [
+        {
+          "text": "n. 缘故;目的",
+          "correct": false
+        },
+        {
+          "text": "n.引用;引文;报价单",
+          "correct": false
+        },
+        {
+          "text": "n. 先例",
+          "correct": false
+        },
+        {
+          "text": "n. 软木 a. 软木制的 vt. 塞住,抑制",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "word_e276d18d6565",
+      "word": "corporate",
+      "phonetic": "",
+      "meaning": "a. 社团的;公司的;共同的",
+      "alternatives": [
+        "adj.社团的,法人的,共同的,全体的"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/496",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/161",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/3343"
+      ],
+      "options": [
+        {
+          "text": "a. 连续的,持续的",
+          "correct": false
+        },
+        {
+          "text": "adj.无情的",
+          "correct": false
+        },
+        {
+          "text": "a. 社团的;公司的;共同的",
+          "correct": true
+        },
+        {
+          "text": "adj.有助于复元的。n.滋补剂",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_fd2d01cb4c4c",
+      "word": "corps",
+      "phonetic": "",
+      "meaning": "n.军团, 兵队, 团, 兵种, 技术兵种, 特殊兵种, (德国大学的)学生联合会。",
+      "alternatives": [],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/497",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/1491"
+      ],
+      "options": [
+        {
+          "text": "n. 过失,为非作歹,失职",
+          "correct": false
+        },
+        {
+          "text": "n. 力,力量;实力;长处,优点;人力;兵力",
+          "correct": false
+        },
+        {
+          "text": "n.军团, 兵队, 团, 兵种, 技术兵种, 特殊兵种, (德国大学的)学生联合会。",
+          "correct": true
+        },
+        {
+          "text": "n.潜在性",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_8603931c746e",
+      "word": "corpse",
+      "phonetic": "",
+      "meaning": "n.尸体。",
+      "alternatives": [],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/498",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/6601"
+      ],
+      "options": [
+        {
+          "text": "n. 鲨鱼",
+          "correct": false
+        },
+        {
+          "text": "n. 中间,当中",
+          "correct": false
+        },
+        {
+          "text": "n. 实验;试验v. (on)进行实验;做试验",
+          "correct": false
+        },
+        {
+          "text": "n.尸体。",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "word_3ef9f14d827f",
+      "word": "correlate",
+      "phonetic": "",
+      "meaning": "v. (使)相关联",
+      "alternatives": [
+        "vt.使相互关联;vi.和...相关"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/499",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/2375",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/8675"
+      ],
+      "options": [
+        {
+          "text": "v. 描写,描述;画(人物、景象等)",
+          "correct": false
+        },
+        {
+          "text": "v. (使)相关联",
+          "correct": true
+        },
+        {
+          "text": "v. (使)行军,(使)行进n. 行军,行程",
+          "correct": false
+        },
+        {
+          "text": "vt. 剥夺,使丧失",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_f915e1048163",
+      "word": "correspondence",
+      "phonetic": "",
+      "meaning": "n. 通信,信件;(with)符合;(to)相当于,对应",
+      "alternatives": [
+        "n.相应,通信,信件"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/500",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/3716",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/956"
+      ],
+      "options": [
+        {
+          "text": "n.家常便饭。",
+          "correct": false
+        },
+        {
+          "text": "n. 原型",
+          "correct": false
+        },
+        {
+          "text": "n. 仪器,设备",
+          "correct": false
+        },
+        {
+          "text": "n. 通信,信件;(with)符合;(to)相当于,对应",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "word_895a538c41ae",
+      "word": "corrode",
+      "phonetic": "",
+      "meaning": "v. 腐蚀,侵蚀",
+      "alternatives": [
+        "v.使腐蚀,侵蚀"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/502",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/7350",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/4259"
+      ],
+      "options": [
+        {
+          "text": "v. 开始;动身;吃惊;开办,开动n. 开端;惊起",
+          "correct": false
+        },
+        {
+          "text": "vt./vi. 打碎,打破;击溃",
+          "correct": false
+        },
+        {
+          "text": "v.喷出。",
+          "correct": false
+        },
+        {
+          "text": "v. 腐蚀,侵蚀",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "word_a1ce829a6e4f",
+      "word": "corrupt",
+      "phonetic": "",
+      "meaning": "a. 腐败的,贪污的;v. (使)腐败,贿赂",
+      "alternatives": [
+        "adj.腐败的,贪污的,被破坏的,混浊的,(语法)误用的;vt.使腐烂,腐蚀,使恶化;vi.腐烂,堕落"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/503",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/3542",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/5507"
+      ],
+      "options": [
+        {
+          "text": "a. 蓝色的;青灰色的;沮丧的,阴郁的n. 蓝色",
+          "correct": false
+        },
+        {
+          "text": "a. 腐败的,贪污的;v. (使)腐败,贿赂",
+          "correct": true
+        },
+        {
+          "text": "a. 艺术(家)的,美术(家)的;善于艺术创作的",
+          "correct": false
+        },
+        {
+          "text": "a. 吝啬的;卑鄙的;刻毒的;难看的,破旧的;平庸的; n. 中间,平均数;v. 想要,打算",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_d55c6418c759",
+      "word": "costume",
+      "phonetic": "",
+      "meaning": "n.装束, 服装。",
+      "alternatives": [],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/504",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/3292"
+      ],
+      "options": [
+        {
+          "text": "n.装束, 服装。",
+          "correct": true
+        },
+        {
+          "text": "n.妓女。",
+          "correct": false
+        },
+        {
+          "text": "n. 神经;勇敢,胆量",
+          "correct": false
+        },
+        {
+          "text": "n.羽毛,羽饰",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_e5de0ecc5306",
+      "word": "counsel",
+      "phonetic": "",
+      "meaning": "n. 忠告,劝告;评议;律师;vt. 忠告,劝告",
+      "alternatives": [
+        "n.讨论,商议,辩护律师;vt.劝告,忠告"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/506",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/7255",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/2833"
+      ],
+      "options": [
+        {
+          "text": "n. 忠告,劝告;评议;律师;vt. 忠告,劝告",
+          "correct": true
+        },
+        {
+          "text": "n.折缝, 折痕。v.折, 弄皱",
+          "correct": false
+        },
+        {
+          "text": "n.控告",
+          "correct": false
+        },
+        {
+          "text": "n. 气味,香味;香水;踪迹,臭迹,线索;vt. 嗅出,闻到,察觉,怀疑有",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_3954e42f2e9f",
+      "word": "counterpart",
+      "phonetic": "",
+      "meaning": "n. 对应的物或人",
+      "alternatives": [
+        "n.副本,极相似的人或物,配对物"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/508",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/6710",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/2845"
+      ],
+      "options": [
+        {
+          "text": "n. 对应的物或人",
+          "correct": true
+        },
+        {
+          "text": "n.军号,喇叭",
+          "correct": false
+        },
+        {
+          "text": "n. 水果,果实;成果,效果",
+          "correct": false
+        },
+        {
+          "text": "n.伊斯兰教,回教",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_f3c8670a3205",
+      "word": "coupon",
+      "phonetic": "",
+      "meaning": "n.息票, 商家的优待券。",
+      "alternatives": [],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/509",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/6822"
+      ],
+      "options": [
+        {
+          "text": "n.息票, 商家的优待券。",
+          "correct": true
+        },
+        {
+          "text": "n.睡眠;沉睡状态",
+          "correct": false
+        },
+        {
+          "text": "n. 寡妇",
+          "correct": false
+        },
+        {
+          "text": "n.鸦片;麻醉剂",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_d95df59356aa",
+      "word": "courtesy",
+      "phonetic": "",
+      "meaning": "n. 礼貌,谦恭",
+      "alternatives": [
+        "n.谦恭,允许,礼貌"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/511",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/2398",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/4175"
+      ],
+      "options": [
+        {
+          "text": "n.妓女。",
+          "correct": false
+        },
+        {
+          "text": "n.综合病症。",
+          "correct": false
+        },
+        {
+          "text": "n. 礼貌,谦恭",
+          "correct": true
+        },
+        {
+          "text": "n. 课本,教科书",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_6dafbcf610e9",
+      "word": "coverage",
+      "phonetic": "",
+      "meaning": "n. 承保险别;新闻报道(范围);保证金",
+      "alternatives": [
+        "n.覆盖"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/512",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/6137",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/5970"
+      ],
+      "options": [
+        {
+          "text": "n. 承保险别;新闻报道(范围);保证金",
+          "correct": true
+        },
+        {
+          "text": "n.洗衣机",
+          "correct": false
+        },
+        {
+          "text": "n. 芭蕾舞,芭蕾舞演员",
+          "correct": false
+        },
+        {
+          "text": "n.合并, 接合, 联合。",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_7dfdacd39c3d",
+      "word": "coward",
+      "phonetic": "",
+      "meaning": "n. 胆小者,懦夫",
+      "alternatives": [
+        "n.懦弱的人,胆小的人"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/513",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/6156",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/8034"
+      ],
+      "options": [
+        {
+          "text": "n. 指甲,爪;钉v. 将...钉牢,钉住",
+          "correct": false
+        },
+        {
+          "text": "n.礁,礁石,暗礁",
+          "correct": false
+        },
+        {
+          "text": "n. 胆小者,懦夫",
+          "correct": true
+        },
+        {
+          "text": "n. 猫;猫科;",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_7090985e32fa",
+      "word": "cozy",
+      "phonetic": "",
+      "meaning": "adj.舒适的,安逸的,惬意的",
+      "alternatives": [],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/514"
+      ],
+      "options": [
+        {
+          "text": "adj.寂寞的",
+          "correct": false
+        },
+        {
+          "text": "a. 未醉的;严肃的;素淡的;v. (up)(使)醒酒;(使)清醒",
+          "correct": false
+        },
+        {
+          "text": "a.大西洋的 n.大西洋",
+          "correct": false
+        },
+        {
+          "text": "adj.舒适的,安逸的,惬意的",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "word_fa6f4b9c0021",
+      "word": "cradle",
+      "phonetic": "",
+      "meaning": "n. 摇篮;策源地;支船架;vt. 把...放在摇篮里",
+      "alternatives": [
+        "n.摇篮,发源地,支船架;vt.将...放在摇篮内"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/515",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/1408",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/8588"
+      ],
+      "options": [
+        {
+          "text": "n. 棒球",
+          "correct": false
+        },
+        {
+          "text": "n.语调,声调;发声",
+          "correct": false
+        },
+        {
+          "text": "n. 笑,笑声",
+          "correct": false
+        },
+        {
+          "text": "n. 摇篮;策源地;支船架;vt. 把...放在摇篮里",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "word_5afe575efbf5",
+      "word": "creation",
+      "phonetic": "",
+      "meaning": "n. 创造,创作,创造物",
+      "alternatives": [
+        "n.创造,创作物"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/517",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/4337",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/5666"
+      ],
+      "options": [
+        {
+          "text": "n. 隧道,地道",
+          "correct": false
+        },
+        {
+          "text": "n. 创造,创作,创造物",
+          "correct": true
+        },
+        {
+          "text": "n./a./vt. 满意(的),使满意(足) n. 内容,目录",
+          "correct": false
+        },
+        {
+          "text": "n.皮重",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_6a574cf6282c",
+      "word": "credible",
+      "phonetic": "",
+      "meaning": "adj.可信的, 可靠的。",
+      "alternatives": [],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/518",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/7739"
+      ],
+      "options": [
+        {
+          "text": "adj.可信的, 可靠的。",
+          "correct": true
+        },
+        {
+          "text": "adj.及时的,凑巧的",
+          "correct": false
+        },
+        {
+          "text": "a. 相当大的;重要的",
+          "correct": false
+        },
+        {
+          "text": "a. 谦虚的;适度的;羞怯的",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_593c5f8b50fe",
+      "word": "cripple",
+      "phonetic": "",
+      "meaning": "n. 残疾人,跛子 vt. 使跛,使残疾",
+      "alternatives": [
+        "n.跛子;v.削弱"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/523",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/2309",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/4586"
+      ],
+      "options": [
+        {
+          "text": "n. 长途公共汽车,铁路客车,教师,教练 v. 辅导,训练",
+          "correct": false
+        },
+        {
+          "text": "n.精炼厂,提炼厂",
+          "correct": false
+        },
+        {
+          "text": "n. 残疾人,跛子 vt. 使跛,使残疾",
+          "correct": true
+        },
+        {
+          "text": "n.温室, 音乐学校。",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_d7dccdcfa16d",
+      "word": "crisp",
+      "phonetic": "",
+      "meaning": "a. 脆的,易碎的;霜冻的;干脆的;n. 油炸马铃薯片;v. (使)发脆",
+      "alternatives": [
+        "adj.脆的,易碎的"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/525",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/6453",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/6628"
+      ],
+      "options": [
+        {
+          "text": "a. 大的;重要的;宽宏大量的;大受欢迎的",
+          "correct": false
+        },
+        {
+          "text": "a. (in)前后一致的;(with)一致,符合",
+          "correct": false
+        },
+        {
+          "text": "adj.有浮力的, 轻快的。",
+          "correct": false
+        },
+        {
+          "text": "a. 脆的,易碎的;霜冻的;干脆的;n. 油炸马铃薯片;v. (使)发脆",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "word_ad3bcfdac54c",
+      "word": "criterion",
+      "phonetic": "",
+      "meaning": "n.(批评判断的)标准, 准据, 规范。",
+      "alternatives": [],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/526",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/3800"
+      ],
+      "options": [
+        {
+          "text": "n. 虹",
+          "correct": false
+        },
+        {
+          "text": "n.(批评判断的)标准, 准据, 规范。",
+          "correct": true
+        },
+        {
+          "text": "n.凉爽,冷淡",
+          "correct": false
+        },
+        {
+          "text": "n.占星术, 占星学(以观测天象来预卜人间事务的一种方术)。",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_dd3cf290d8a5",
+      "word": "crucial",
+      "phonetic": "",
+      "meaning": "adj.至关紧要的。",
+      "alternatives": [],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/532",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/590"
+      ],
+      "options": [
+        {
+          "text": "a. 有本领的,有能力的;(of)可以...的,能...的",
+          "correct": false
+        },
+        {
+          "text": "adj.愚昧的, 昏庸的, 发呆的, 愚笨的, 自满的。",
+          "correct": false
+        },
+        {
+          "text": "a. 精神的,思想的,心理的,智力的,脑力的",
+          "correct": false
+        },
+        {
+          "text": "adj.至关紧要的。",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "word_149b243c0025",
+      "word": "crumble",
+      "phonetic": "",
+      "meaning": "v. 弄碎,灭亡,消失",
+      "alternatives": [
+        "v.弄碎,粉碎,崩溃;n.面包屑"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/533",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/683",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/68"
+      ],
+      "options": [
+        {
+          "text": "v. 运送,搬运;传送,传播;领,带",
+          "correct": false
+        },
+        {
+          "text": "vt.使平均, 使平衡, 弥补。n.平衡量, 平衡力, 势均力敌",
+          "correct": false
+        },
+        {
+          "text": "v. 弄碎,灭亡,消失",
+          "correct": true
+        },
+        {
+          "text": "v.误解。",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_868d099240a8",
+      "word": "cucumber",
+      "phonetic": "",
+      "meaning": "n. 黄瓜",
+      "alternatives": [
+        "n.[植]黄瓜"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/535",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/2869",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/9047"
+      ],
+      "options": [
+        {
+          "text": "n. 污秽,淫猥",
+          "correct": false
+        },
+        {
+          "text": "n. 黄瓜",
+          "correct": true
+        },
+        {
+          "text": "n.光荣;尊敬,敬意",
+          "correct": false
+        },
+        {
+          "text": "n. 兔子",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_4a947c4f529b",
+      "word": "culminate",
+      "phonetic": "",
+      "meaning": "v.达到顶点。",
+      "alternatives": [],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/536",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/6349"
+      ],
+      "options": [
+        {
+          "text": "vt.遗弃,抛弃,摒绝",
+          "correct": false
+        },
+        {
+          "text": "v.达到顶点。",
+          "correct": true
+        },
+        {
+          "text": "v. 拒绝,抵制,丢弃,排斥,退掉n. 落选者",
+          "correct": false
+        },
+        {
+          "text": "v. (at,over)扫视n. 匆匆看,一瞥,一眼",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_c6141bdd4672",
+      "word": "cumulative",
+      "phonetic": "",
+      "meaning": "adj.累积的。",
+      "alternatives": [],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/538",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/8617"
+      ],
+      "options": [
+        {
+          "text": "a.水力的;水力学的",
+          "correct": false
+        },
+        {
+          "text": "a. 主要的;最好的",
+          "correct": false
+        },
+        {
+          "text": "adj.累积的。",
+          "correct": true
+        },
+        {
+          "text": "a. 潜伏的,潜在的",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_0c45d9e8abe5",
+      "word": "curb",
+      "phonetic": "",
+      "meaning": "n./vt. 勒马的皮带;控制,约束",
+      "alternatives": [
+        "n.路边"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/539",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/7151",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/463"
+      ],
+      "options": [
+        {
+          "text": "n.穿入;渗透,侵入",
+          "correct": false
+        },
+        {
+          "text": "n./vt. 勒马的皮带;控制,约束",
+          "correct": true
+        },
+        {
+          "text": "n. 伤害,损害",
+          "correct": false
+        },
+        {
+          "text": "n.连续",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_22da012abff1",
+      "word": "customary",
+      "phonetic": "",
+      "meaning": "a. 习惯的,惯例的",
+      "alternatives": [
+        "adj.习惯的,惯例的"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/542",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/3202",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/5563"
+      ],
+      "options": [
+        {
+          "text": "adj.陶器的。n.陶瓷制品",
+          "correct": false
+        },
+        {
+          "text": "a. 每星期的,一周的ad. 每周一次n. 周刊,周报",
+          "correct": false
+        },
+        {
+          "text": "a. 习惯的,惯例的",
+          "correct": true
+        },
+        {
+          "text": "adj.零碎的,不足的",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_c62a1190b91b",
+      "word": "cute",
+      "phonetic": "",
+      "meaning": "adj.可爱的, 聪明的, 伶俐的, 装腔作势的。",
+      "alternatives": [],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/543",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/2879"
+      ],
+      "options": [
+        {
+          "text": "a. 相互的,互惠的",
+          "correct": false
+        },
+        {
+          "text": "a. 易弯曲的,柔软的;灵活的",
+          "correct": false
+        },
+        {
+          "text": "adj.可爱的, 聪明的, 伶俐的, 装腔作势的。",
+          "correct": true
+        },
+        {
+          "text": "a. 贸易的,商业的 n. 电视电台广告",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_24a1ee580226",
+      "word": "cylinder",
+      "phonetic": "",
+      "meaning": "n.圆筒, 圆柱体, 汽缸, 柱面。",
+      "alternatives": [],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/545",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/6067"
+      ],
+      "options": [
+        {
+          "text": "n.异教徒, 异端者",
+          "correct": false
+        },
+        {
+          "text": "n.圆筒, 圆柱体, 汽缸, 柱面。",
+          "correct": true
+        },
+        {
+          "text": "n.拒绝",
+          "correct": false
+        },
+        {
+          "text": "n. 同盟者,同盟国vt. 使结盟;与...有关联",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_a1a2aafe9ae6",
+      "word": "cynical",
+      "phonetic": "",
+      "meaning": "adj.愤世嫉俗的。",
+      "alternatives": [],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/546",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/9064"
+      ],
+      "options": [
+        {
+          "text": "adj.灌输的, 鼓舞的。",
+          "correct": false
+        },
+        {
+          "text": "a. 过多的;过分的;额外",
+          "correct": false
+        },
+        {
+          "text": "a. 很可能的,有希望的ad. 大概,多半",
+          "correct": false
+        },
+        {
+          "text": "adj.愤世嫉俗的。",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "word_c1785e56efbb",
+      "word": "dart",
+      "phonetic": "",
+      "meaning": "n. 标,镖;vt. 投掷;vi. 急冲",
+      "alternatives": [
+        "n.标枪,镖,(昆虫的)刺,飞快的动作;v.飞奔,投掷"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/547",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/5783",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/1082"
+      ],
+      "options": [
+        {
+          "text": "n.结核病,肺结核",
+          "correct": false
+        },
+        {
+          "text": "n./vt. 贿赂,行贿",
+          "correct": false
+        },
+        {
+          "text": "n.石灰",
+          "correct": false
+        },
+        {
+          "text": "n. 标,镖;vt. 投掷;vi. 急冲",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "word_6d613a1ee01e",
+      "word": "database",
+      "phonetic": "",
+      "meaning": "n.[计] 数据库, 资料库。",
+      "alternatives": [],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/548",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/6830"
+      ],
+      "options": [
+        {
+          "text": "n.朝圣",
+          "correct": false
+        },
+        {
+          "text": "n. 牙齿;齿状物",
+          "correct": false
+        },
+        {
+          "text": "n.[计] 数据库, 资料库。",
+          "correct": true
+        },
+        {
+          "text": "n. 共计,合计",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_af8cd45d2f4c",
+      "word": "dazzle",
+      "phonetic": "",
+      "meaning": "vt. 眩目,耀眼;使迷惑",
+      "alternatives": [
+        "v.(使)眼花,眩耀;n.耀眼"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/549",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/7532",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/6857"
+      ],
+      "options": [
+        {
+          "text": "vt. 眩目,耀眼;使迷惑",
+          "correct": true
+        },
+        {
+          "text": "vt.为...带路;领导",
+          "correct": false
+        },
+        {
+          "text": "v. 决心,决定;确定,限定",
+          "correct": false
+        },
+        {
+          "text": "vt. 问,询问;请求,要求;邀请,约请",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_e23839cd729a",
+      "word": "deadline",
+      "phonetic": "",
+      "meaning": "n. 最后期限",
+      "alternatives": [
+        "n.最终期限"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/550",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/4339",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/1694"
+      ],
+      "options": [
+        {
+          "text": "n. 消遣,娱乐",
+          "correct": false
+        },
+        {
+          "text": "n. 最后期限",
+          "correct": true
+        },
+        {
+          "text": "n.公爵,君主;手",
+          "correct": false
+        },
+        {
+          "text": "n. 前任",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_ba6f564cd70a",
+      "word": "dean",
+      "phonetic": "",
+      "meaning": "n. (大学)院长,系主任,教务长",
+      "alternatives": [
+        "n.(大学)院长,主持牧师,(基督教)教长"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/552",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/2407",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/4652"
+      ],
+      "options": [
+        {
+          "text": "n. 道路,路程;方法/式,手段;习惯;状态",
+          "correct": false
+        },
+        {
+          "text": "n. 论坛",
+          "correct": false
+        },
+        {
+          "text": "n.钩子",
+          "correct": false
+        },
+        {
+          "text": "n. (大学)院长,系主任,教务长",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "word_45932d6fa98f",
+      "word": "decimal",
+      "phonetic": "",
+      "meaning": "a. 十进法的,小数的",
+      "alternatives": [
+        "adj.十进的,小数的,以十为基础的,十进制;n.小数"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/558",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/1170",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/4590"
+      ],
+      "options": [
+        {
+          "text": "adj.有经验的",
+          "correct": false
+        },
+        {
+          "text": "a. 可谈判的,可商议的;可兑换现金的;可通行的(道路、河流)",
+          "correct": false
+        },
+        {
+          "text": "a. 十进法的,小数的",
+          "correct": true
+        },
+        {
+          "text": "a. (for)足够的n. 足够,充分ad. 足够地",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_01a27bed31f8",
+      "word": "decisive",
+      "phonetic": "",
+      "meaning": "a. 决定性的",
+      "alternatives": [
+        "adj.决定性的"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/559",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/3349",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/8663"
+      ],
+      "options": [
+        {
+          "text": "a.(声音)嘶哑的",
+          "correct": false
+        },
+        {
+          "text": "adj.可溶的, 可溶解的。",
+          "correct": false
+        },
+        {
+          "text": "a. 重要的,重大的;有地位的,有权力的",
+          "correct": false
+        },
+        {
+          "text": "a. 决定性的",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "word_d67401c33c66",
+      "word": "decree",
+      "phonetic": "",
+      "meaning": "n./v. 法令,判决",
+      "alternatives": [
+        "n.法令,政令,教令,天命,判决;v.颁布"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/562",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/1546",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/671"
+      ],
+      "options": [
+        {
+          "text": "n. 青春,青春期",
+          "correct": false
+        },
+        {
+          "text": "n./v. 法令,判决",
+          "correct": true
+        },
+        {
+          "text": "n.流产",
+          "correct": false
+        },
+        {
+          "text": "n.内地",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_811318c64bc3",
+      "word": "dedicate",
+      "phonetic": "",
+      "meaning": "vt. 奉献,供奉;题献(著作)",
+      "alternatives": [
+        "vt.献(身),致力,题献(一部著作给某人)"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/563",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/2017",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/9119"
+      ],
+      "options": [
+        {
+          "text": "v. (with)同情;共鸣,同感;赞成",
+          "correct": false
+        },
+        {
+          "text": "vt. 奉献,供奉;题献(著作)",
+          "correct": true
+        },
+        {
+          "text": "v. 违反,触犯,侵害",
+          "correct": false
+        },
+        {
+          "text": "vt. 划线于...之下;强调",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_adebab7eb868",
+      "word": "deduct",
+      "phonetic": "",
+      "meaning": "vt. 扣除,减去",
+      "alternatives": [
+        "vt.扣除,演绎"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/565",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/7329",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/5270"
+      ],
+      "options": [
+        {
+          "text": "v.管闲事。",
+          "correct": false
+        },
+        {
+          "text": "v. (to,for)道歉,认错",
+          "correct": false
+        },
+        {
+          "text": "vt. 扣除,减去",
+          "correct": true
+        },
+        {
+          "text": "vt. 分配;确定时间或地点;指派",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_801f97925491",
+      "word": "deem",
+      "phonetic": "",
+      "meaning": "vt. 认为,视为",
+      "alternatives": [
+        "v.认为,相信"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/566",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/2924",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/2532"
+      ],
+      "options": [
+        {
+          "text": "v.评价。",
+          "correct": false
+        },
+        {
+          "text": "v. 点(头),点头招呼n. 点头招呼;打盹,瞌睡",
+          "correct": false
+        },
+        {
+          "text": "vt. 认为,视为",
+          "correct": true
+        },
+        {
+          "text": "v. 请教,咨询;查阅;商量",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_7505d64a54e0",
+      "word": "default",
+      "phonetic": "",
+      "meaning": "vi./n. 拖欠,违约;不出庭",
+      "alternatives": [
+        "n.默认(值),缺省(值),食言,不履行责任,[律]缺席;v.疏怠职责,缺席,拖欠,默认"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/567",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/4588",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/925"
+      ],
+      "options": [
+        {
+          "text": "vi./n. 拖欠,违约;不出庭",
+          "correct": true
+        },
+        {
+          "text": "v./n. 提及,说起",
+          "correct": false
+        },
+        {
+          "text": "vt./vi. 深思,考虑",
+          "correct": false
+        },
+        {
+          "text": "v.裹住,捂住",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_81e6e2829f46",
+      "word": "defendant",
+      "phonetic": "",
+      "meaning": "n.被告。adj.辩护的, 为自己辩护的。",
+      "alternatives": [],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/570",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/145"
+      ],
+      "options": [
+        {
+          "text": "n. 访问,参观v. 访问,参观;视察;降临;闲谈",
+          "correct": false
+        },
+        {
+          "text": "n. 好奇心;古董,古玩",
+          "correct": false
+        },
+        {
+          "text": "n. 二月",
+          "correct": false
+        },
+        {
+          "text": "n.被告。adj.辩护的, 为自己辩护的。",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "word_c86282770110",
+      "word": "defiance",
+      "phonetic": "",
+      "meaning": "n. 挑战,挑衅;违抗;蔑视",
+      "alternatives": [
+        "n.挑战,蔑视,挑衅"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/571",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/3958",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/7996"
+      ],
+      "options": [
+        {
+          "text": "n.存款,储蓄额",
+          "correct": false
+        },
+        {
+          "text": "n. 挑战,挑衅;违抗;蔑视",
+          "correct": true
+        },
+        {
+          "text": "n.衣架",
+          "correct": false
+        },
+        {
+          "text": "n. 金字塔",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_1869a8c8a5d1",
+      "word": "deficiency",
+      "phonetic": "",
+      "meaning": "n. 缺乏,不足;缺陷",
+      "alternatives": [
+        "n.缺乏,不足"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/572",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/7137",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/282"
+      ],
+      "options": [
+        {
+          "text": "n. 过程,步骤",
+          "correct": false
+        },
+        {
+          "text": "n. 枪,炮,手枪",
+          "correct": false
+        },
+        {
+          "text": "n. 缺乏,不足;缺陷",
+          "correct": true
+        },
+        {
+          "text": "n.出口",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_e30b3ddc9951",
+      "word": "deficit",
+      "phonetic": "",
+      "meaning": "n. 空额,赤字",
+      "alternatives": [
+        "n.赤字,不足额"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/573",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/4789",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/2871"
+      ],
+      "options": [
+        {
+          "text": "n.水母。",
+          "correct": false
+        },
+        {
+          "text": "n.军团, 兵队, 团, 兵种, 技术兵种, 特殊兵种, (德国大学的)学生联合会。",
+          "correct": false
+        },
+        {
+          "text": "n.生产者;舞台监督",
+          "correct": false
+        },
+        {
+          "text": "n. 空额,赤字",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "word_793d6f4fca39",
+      "word": "definitive",
+      "phonetic": "",
+      "meaning": "a. 可靠的,权威的;决定性的",
+      "alternatives": [
+        "adj.最后的,确定的,权威性的"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/577",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/1460",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/8459"
+      ],
+      "options": [
+        {
+          "text": "a. 死的;无生命的;死气沉沉的ad. 完全地",
+          "correct": false
+        },
+        {
+          "text": "a. 自愿的,志愿的;有意的",
+          "correct": false
+        },
+        {
+          "text": "a. 可靠的,权威的;决定性的",
+          "correct": true
+        },
+        {
+          "text": "a. 帮助的,辅助的n. 助手,助教;辅助物",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_0e289c4421b3",
+      "word": "defy",
+      "phonetic": "",
+      "meaning": "v. (公然)违抗,反抗;蔑视",
+      "alternatives": [
+        "vt.不服从,公然反抗,藐视,挑衅,违抗,使...难于;n.挑战"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/578",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/1450",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/6057"
+      ],
+      "options": [
+        {
+          "text": "vt. 使放心,使消除疑虑",
+          "correct": false
+        },
+        {
+          "text": "v. (公然)违抗,反抗;蔑视",
+          "correct": true
+        },
+        {
+          "text": "v. 跌倒;下降;减弱;坠落;变成,陷于n. 秋季",
+          "correct": false
+        },
+        {
+          "text": "vt. 抛弃;放弃",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_6dfdfb06bf22",
+      "word": "degenerate",
+      "phonetic": "",
+      "meaning": "adj.退化的。v.退化",
+      "alternatives": [],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/579",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/2169"
+      ],
+      "options": [
+        {
+          "text": "adj.彬彬有礼的, 文雅的。",
+          "correct": false
+        },
+        {
+          "text": "a. 无价的,无法估价的",
+          "correct": false
+        },
+        {
+          "text": "adj.退化的。v.退化",
+          "correct": true
+        },
+        {
+          "text": "a. 盲的,瞎的;盲目的vt. 使失明n. 百叶窗",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_9767364f4a23",
+      "word": "degrade",
+      "phonetic": "",
+      "meaning": "vt. 贬低;恶化;分解,降解",
+      "alternatives": [
+        "v.(使)降级,(使)堕落,(使)退化"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/580",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/2737",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/1907"
+      ],
+      "options": [
+        {
+          "text": "v.回复到,重议",
+          "correct": false
+        },
+        {
+          "text": "vt. 存取(计算机文件); n. 通道;入口;接近,进入;(to)接近(或进入、享用)的机会",
+          "correct": false
+        },
+        {
+          "text": "vt. 贬低;恶化;分解,降解",
+          "correct": true
+        },
+        {
+          "text": "vt.使发光;使快活",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_3c513544bca2",
+      "word": "deliberate",
+      "phonetic": "",
+      "meaning": "a. 故意的;从容的;仔细考虑的;v. 仔细考虑",
+      "alternatives": [
+        "adj.深思熟虑的,故意的,预有准备的;v.商讨"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/581",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/6362",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/3563"
+      ],
+      "options": [
+        {
+          "text": "adj.有害的。",
+          "correct": false
+        },
+        {
+          "text": "a. 故意的;从容的;仔细考虑的;v. 仔细考虑",
+          "correct": true
+        },
+        {
+          "text": "a. 看不见的,无形的",
+          "correct": false
+        },
+        {
+          "text": "adj.闷热的,性感的",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_1d2c64d4f960",
+      "word": "denial",
+      "phonetic": "",
+      "meaning": "n. 拒绝,否认;拒绝给予",
+      "alternatives": [
+        "n.否认,否定,谢绝,拒绝"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/585",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/4008",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/7753"
+      ],
+      "options": [
+        {
+          "text": "n. 瀑布",
+          "correct": false
+        },
+        {
+          "text": "n. 拒绝,否认;拒绝给予",
+          "correct": true
+        },
+        {
+          "text": "n. 公文,文献",
+          "correct": false
+        },
+        {
+          "text": "n.热望, 渴望。",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_851612a3ea77",
+      "word": "denote",
+      "phonetic": "",
+      "meaning": "vt. 是...的符号,指示,表示",
+      "alternatives": [
+        "vt.指示,表示"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/586",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/1522",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/3565"
+      ],
+      "options": [
+        {
+          "text": "v. 建设,建造,构造;创立",
+          "correct": false
+        },
+        {
+          "text": "v. 喷射,排出;驱逐",
+          "correct": false
+        },
+        {
+          "text": "vt. 是...的符号,指示,表示",
+          "correct": true
+        },
+        {
+          "text": "vt.粉刷,涂白",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_7803acfde759",
+      "word": "denounce",
+      "phonetic": "",
+      "meaning": "vt. 谴责,斥责",
+      "alternatives": [
+        "vt.公开指责,公然抨击,谴责"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/587",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/4516",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/9033"
+      ],
+      "options": [
+        {
+          "text": "v.转移。",
+          "correct": false
+        },
+        {
+          "text": "vt. 谴责,斥责",
+          "correct": true
+        },
+        {
+          "text": "v./n. 回顾,检查,评论",
+          "correct": false
+        },
+        {
+          "text": "vt. 使用,行使",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_e0f937561436",
+      "word": "dentist",
+      "phonetic": "",
+      "meaning": "n. 牙医",
+      "alternatives": [
+        "n.牙科医生"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/588",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/7343",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/8817"
+      ],
+      "options": [
+        {
+          "text": "n. (政府的)部;牧师",
+          "correct": false
+        },
+        {
+          "text": "n. 样式,型;模范;模型,原型;模特v. 模仿",
+          "correct": false
+        },
+        {
+          "text": "n. 牙医",
+          "correct": true
+        },
+        {
+          "text": "n. 十字(架);苦难a. 交叉的;发怒的v. 穿过",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_602d9caf0b39",
+      "word": "depict",
+      "phonetic": "",
+      "meaning": "vt. 描绘,描写",
+      "alternatives": [
+        "vt.描述,描写"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/590",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/6599",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/1580"
+      ],
+      "options": [
+        {
+          "text": "vt. 描绘,描写",
+          "correct": true
+        },
+        {
+          "text": "v./n. (to)回答,答复,以...作答",
+          "correct": false
+        },
+        {
+          "text": "vt. 放,搁,置;表达;使处于...状态,记下",
+          "correct": false
+        },
+        {
+          "text": "v.临时准备。",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_dad56c39ba64",
+      "word": "deport",
+      "phonetic": "",
+      "meaning": "vt.举止,驱逐",
+      "alternatives": [],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/591"
+      ],
+      "options": [
+        {
+          "text": "vt.举止,驱逐",
+          "correct": true
+        },
+        {
+          "text": "vt./n. 环视,眺望,测量,勘定,检查,调查,概述",
+          "correct": false
+        },
+        {
+          "text": "v.表示悲痛。",
+          "correct": false
+        },
+        {
+          "text": "v. 改进,修正",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_e25d80de16b2",
+      "word": "depression",
+      "phonetic": "",
+      "meaning": "n.消沉;不景气萧条期",
+      "alternatives": [
+        "n.沮丧,消沉,低气压,低压"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/593",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/2530",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/8669"
+      ],
+      "options": [
+        {
+          "text": "n.地形。",
+          "correct": false
+        },
+        {
+          "text": "n. 对手,反对者,敌手a. 对立的,对抗的",
+          "correct": false
+        },
+        {
+          "text": "n.消沉;不景气萧条期",
+          "correct": true
+        },
+        {
+          "text": "n.(美元)一角",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_f7659be9a0a8",
+      "word": "deprive",
+      "phonetic": "",
+      "meaning": "vt. 剥夺,使丧失",
+      "alternatives": [],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/594",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/1957",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/336"
+      ],
+      "options": [
+        {
+          "text": "v./n. 混合,把...混成一体,混合物",
+          "correct": false
+        },
+        {
+          "text": "vt. 剥夺,使丧失",
+          "correct": true
+        },
+        {
+          "text": "vi./n. 腐烂;衰微",
+          "correct": false
+        },
+        {
+          "text": "v.打开",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_1051f820052d",
+      "word": "descendant",
+      "phonetic": "",
+      "meaning": "n. 子孙,后代",
+      "alternatives": [
+        "n.子孙,后裔,后代"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/597",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/3965",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/7923"
+      ],
+      "options": [
+        {
+          "text": "n. 子孙,后代",
+          "correct": true
+        },
+        {
+          "text": "n.为某种共同目的而采取一致行动的政治组织, 集团。",
+          "correct": false
+        },
+        {
+          "text": "n. 成员,会员",
+          "correct": false
+        },
+        {
+          "text": "n.隔离,绝缘",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "word_9490580e9e57",
+      "word": "descent",
+      "phonetic": "",
+      "meaning": "n. 下降,降下;斜坡;血统,家世",
+      "alternatives": [
+        "n.降下,降落,世系,血统,侵袭"
+      ],
+      "sources": [
+        "六级词汇表.xlsx/Sheet1/598",
+        "雅思词汇EXCEL词-乱序版本.xlsx/常用8000/7468",
+        "雅思词汇EXCEL词-乱序版本.xlsx/全部9400/3804"
+      ],
+      "options": [
+        {
+          "text": "n. 准备;供应;条款",
+          "correct": false
+        },
+        {
+          "text": "n.刺激物, 促进因素, 刺激, 刺激。",
+          "correct": false
+        },
+        {
+          "text": "n. 持续,期间;身分,地位,名望;a. 永存的,常务的",
+          "correct": false
+        },
+        {
+          "text": "n. 下降,降下;斜坡;血统,家世",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}

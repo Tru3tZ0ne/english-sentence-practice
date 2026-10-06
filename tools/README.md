@@ -9,6 +9,8 @@
 
 `validate_libraries.py` 检查 JSON 和 schema，不检查语法、翻译或重复句。编辑前请阅读 [题库质量标准](../CONTENT_QUALITY.md)。
 
+`validate_wordlists.py` 检查单词库索引、Day 大小、跨 Day 去重，以及每个单词的四个释义选项。`import_wordlists.py` 用于从指定 Excel 目录重新生成去重后的单词库。
+
 以下脚本是历史批量生成工具，保留用于追溯旧题库的来源，已退出正式内容生产流程：
 
 - `generate_1000.py`

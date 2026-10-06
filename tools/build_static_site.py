@@ -32,6 +32,9 @@ def build(output: Path) -> tuple[int, int]:
     (output / "library-manifest.json").write_text(
         json.dumps(filenames, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
     )
+    wordlists_source = ROOT / "content" / "wordlists"
+    if wordlists_source.is_dir():
+        shutil.copytree(wordlists_source, output / "wordlists")
     (output / ".nojekyll").touch()
     return len(filenames), item_count
 

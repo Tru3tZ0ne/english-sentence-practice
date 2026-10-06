@@ -6,10 +6,10 @@ const SITE_LOGIN={
 
 const applicationScripts=[
   'js/api.js','js/state.js','js/components/dialog.js','js/pages/library-page.js',
-  'js/pages/practice-page.js','js/pages/settings-page.js','js/app.js'
+  'js/pages/practice-page.js','js/pages/word-page.js','js/pages/settings-page.js','js/app.js'
 ];
 
-function applicationMarkup(){return `<div id="app" class="shell"><header class="topbar"><button id="back" class="icon-btn" title="返回">← <span>题库</span></button><div class="brand">听写练习</div><div class="top-actions"><button id="settings-btn">设置</button><button id="favorites-btn">收藏</button><button id="close-btn" class="close-btn">关闭应用</button></div></header><div class="progress-track"><div id="progress-bar"></div></div><main id="view"></main><footer>Enter 提交/下一题　·　Ctrl + ←/→ 切题　·　Ctrl + D 收藏　·　Ctrl + L 朗读　·　Esc 关闭弹窗</footer></div><div id="toast"></div>`}
+function applicationMarkup(){return `<div id="app" class="shell"><header class="topbar"><button id="back" class="icon-btn" title="返回">← <span>题库</span></button><div class="brand">英语学习</div><div class="top-actions"><button id="words-btn">单词学习</button><button id="settings-btn">设置</button><button id="favorites-btn">收藏</button><button id="close-btn" class="close-btn">关闭应用</button></div></header><div class="progress-track"><div id="progress-bar"></div></div><main id="view"></main><footer>Enter 提交/下一题　·　Ctrl + ←/→ 切题　·　Ctrl + D 收藏　·　Ctrl + L 朗读　·　Esc 关闭弹窗</footer></div><div id="toast"></div>`}
 
 async function loadApplication(){
   document.body.innerHTML=applicationMarkup();

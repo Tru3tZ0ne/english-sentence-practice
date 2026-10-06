@@ -1,0 +1,30 @@
+{
+  "raw_valid_records": 22954,
+  "extracted": {
+    "单词汇总-excel.xlsx/Sheet1": 3397,
+    "六级词汇表.xlsx/Sheet1": 2220,
+    "雅思词汇EXCEL词-乱序版本.xlsx/常用8000": 7952,
+    "雅思词汇EXCEL词-乱序版本.xlsx/全部9400": 9385
+  },
+  "skipped": {
+    "empty_or_header": 58,
+    "missing_chinese_translation": 6,
+    "invalid_headword": 2,
+    "missing_word_or_meaning": 57687
+  },
+  "source_sha256": {
+    "六级词汇表.xlsx": "2bf7fce014e915f62315e41e61973702912f1520104eeba61831706ec653b9fb",
+    "单词汇总-excel.xlsx": "ae4f77bdfcdaa69ab3735b6f7a6bebf0b84f9040d402f1343941c771574846bd",
+    "雅思词汇EXCEL词-乱序版本.xlsx": "a1f9c70a4186f5fe99ff1d3ab56d33672af8d8de480825eb03e88b15da2b5062"
+  },
+  "unique_words": 9496,
+  "duplicate_rows_removed": 13458,
+  "words_with_alternative_meanings": 4013,
+  "source_directory": "四级",
+  "output": {
+    "word_count": 9496,
+    "day_count": 95,
+    "day_size": 100,
+    "last_day_count": 96
+  }
+}

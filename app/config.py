@@ -14,6 +14,7 @@ def project_root() -> Path:
 ROOT_DIR = project_root()
 WEB_DIR = ROOT_DIR / "web"
 LIBRARIES_DIR = ROOT_DIR / "content" / "libraries"
+WORDLISTS_DIR = ROOT_DIR / "content" / "wordlists"
 DATA_DIR = ROOT_DIR / "data"
 LOG_DIR = ROOT_DIR / "logs"
 DB_PATH = DATA_DIR / "app.db"
