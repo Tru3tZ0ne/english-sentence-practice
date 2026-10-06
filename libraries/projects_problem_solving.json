@@ -1,0 +1,1429 @@
+{
+  "schema_version": 1,
+  "id": "projects_problem_solving",
+  "title": "项目协作与问题解决 · 100 句",
+  "description": "澄清需求、拆解任务、资源协调、试验、排查、选择方案、实施、验收和复盘。",
+  "language": "en-GB",
+  "tags": [
+    "项目协作",
+    "逐题讲解"
+  ],
+  "items": [
+    {
+      "id": "projects_problem_solving_v3_0001",
+      "zh": "我们还没有定义成功标准。",
+      "en": "We have not defined success yet.",
+      "answers": [
+        "We have not defined success yet.",
+        "We haven't defined success yet."
+      ],
+      "notes": "define：定义",
+      "tags": [
+        "项目协作",
+        "需求"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0002",
+      "zh": "这个要求可以具体一点吗？",
+      "en": "Could this requirement be more specific?",
+      "answers": [
+        "Could this requirement be more specific?"
+      ],
+      "notes": "specific：具体",
+      "tags": [
+        "项目协作",
+        "需求"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0003",
+      "zh": "谁是最终使用者？",
+      "en": "Who is the end user?",
+      "answers": [
+        "Who is the end user?"
+      ],
+      "notes": "end user：最终用户",
+      "tags": [
+        "项目协作",
+        "需求"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0004",
+      "zh": "我们解决的其实是两个问题。",
+      "en": "We are actually solving two problems.",
+      "answers": [
+        "We are actually solving two problems."
+      ],
+      "notes": "actually：实际上",
+      "tags": [
+        "项目协作",
+        "需求"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0005",
+      "zh": "范围中是否包含培训？",
+      "en": "Does the scope include training?",
+      "answers": [
+        "Does the scope include training?"
+      ],
+      "notes": "scope：范围",
+      "tags": [
+        "项目协作",
+        "需求"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0006",
+      "zh": "这项假设还没有验证。",
+      "en": "This assumption remains untested.",
+      "answers": [
+        "This assumption remains untested."
+      ],
+      "notes": "untested：未验证",
+      "tags": [
+        "项目协作",
+        "需求"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0007",
+      "zh": "我需要区分必要项和可选项。",
+      "en": "I need to distinguish essentials from options.",
+      "answers": [
+        "I need to distinguish essentials from options."
+      ],
+      "notes": "distinguish A from B",
+      "tags": [
+        "项目协作",
+        "需求"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0008",
+      "zh": "请说明不能改变的限制。",
+      "en": "Please state the fixed constraints.",
+      "answers": [
+        "Please state the fixed constraints."
+      ],
+      "notes": "constraint：限制",
+      "tags": [
+        "项目协作",
+        "需求"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0009",
+      "zh": "这个要求与之前的决定冲突。",
+      "en": "This requirement conflicts with an earlier decision.",
+      "answers": [
+        "This requirement conflicts with an earlier decision."
+      ],
+      "notes": "conflict with",
+      "tags": [
+        "项目协作",
+        "需求"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0010",
+      "zh": "客户要求的外观调整不属于本轮维修范围。",
+      "en": "The cosmetic changes requested by the client fall outside this repair round.",
+      "answers": [
+        "The cosmetic changes requested by the client fall outside this repair round."
+      ],
+      "notes": "fall outside：不属于；区分外观变更和维修范围。",
+      "tags": [
+        "项目协作",
+        "需求"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "projects_problem_solving_v3_0011",
+      "zh": "先把任务拆成较小的部分。",
+      "en": "Break the task into smaller parts.",
+      "answers": [
+        "Break the task into smaller parts."
+      ],
+      "notes": "break into",
+      "tags": [
+        "项目协作",
+        "分解任务"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0012",
+      "zh": "这一步依赖上一步的结果。",
+      "en": "This step depends on the previous result.",
+      "answers": [
+        "This step depends on the previous result."
+      ],
+      "notes": "depend on",
+      "tags": [
+        "项目协作",
+        "分解任务"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0013",
+      "zh": "两个任务可以同时进行。",
+      "en": "The two tasks can run in parallel.",
+      "answers": [
+        "The two tasks can run in parallel."
+      ],
+      "notes": "in parallel：同时",
+      "tags": [
+        "项目协作",
+        "分解任务"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0014",
+      "zh": "我们漏掉了准备时间。",
+      "en": "We overlooked the preparation time.",
+      "answers": [
+        "We overlooked the preparation time."
+      ],
+      "notes": "overlook：忽略",
+      "tags": [
+        "项目协作",
+        "分解任务"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0015",
+      "zh": "这个部分需要专门负责人。",
+      "en": "This part needs a designated owner.",
+      "answers": [
+        "This part needs a designated owner."
+      ],
+      "notes": "designated：指定",
+      "tags": [
+        "项目协作",
+        "分解任务"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0016",
+      "zh": "我想先处理最不确定的环节。",
+      "en": "I want to address the greatest uncertainty first.",
+      "answers": [
+        "I want to address the greatest uncertainty first."
+      ],
+      "notes": "uncertainty：不确定性",
+      "tags": [
+        "项目协作",
+        "分解任务"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0017",
+      "zh": "勾完清单并不能证明工作已经完成。",
+      "en": "Ticking every box on a checklist does not prove that the work is complete.",
+      "answers": [
+        "Ticking every box on a checklist does not prove that the work is complete.",
+        "Ticking every box on a checklist doesn't prove that the work is complete."
+      ],
+      "notes": "tick a box：勾选；区分手续记录和实际完成。",
+      "tags": [
+        "项目协作",
+        "分解任务"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "projects_problem_solving_v3_0018",
+      "zh": "这项工作无法平均分配。",
+      "en": "This work cannot be divided evenly.",
+      "answers": [
+        "This work cannot be divided evenly.",
+        "This work can't be divided evenly."
+      ],
+      "notes": "evenly：平均",
+      "tags": [
+        "项目协作",
+        "分解任务"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0019",
+      "zh": "我们需要明确交接点。",
+      "en": "We need clear handover points.",
+      "answers": [
+        "We need clear handover points."
+      ],
+      "notes": "handover：交接",
+      "tags": [
+        "项目协作",
+        "分解任务"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0020",
+      "zh": "小任务也有自己的截止时间。",
+      "en": "Small tasks have deadlines of their own.",
+      "answers": [
+        "Small tasks have deadlines of their own."
+      ],
+      "notes": "of their own",
+      "tags": [
+        "项目协作",
+        "分解任务"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0021",
+      "zh": "我的估算包括实际操作时间，不包括等待审批的时间。",
+      "en": "My estimate covers hands-on work but excludes time spent waiting for approval.",
+      "answers": [
+        "My estimate covers hands-on work but excludes time spent waiting for approval."
+      ],
+      "notes": "hands-on work：实际操作；exclude：不计入。",
+      "tags": [
+        "项目协作",
+        "时间与资源"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0022",
+      "zh": "审批会成为瓶颈。",
+      "en": "Approval will be a bottleneck.",
+      "answers": [
+        "Approval will be a bottleneck."
+      ],
+      "notes": "bottleneck：瓶颈",
+      "tags": [
+        "项目协作",
+        "时间与资源"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0023",
+      "zh": "设备只有上午可以使用。",
+      "en": "The equipment is available only in the morning.",
+      "answers": [
+        "The equipment is available only in the morning."
+      ],
+      "notes": "available：可用",
+      "tags": [
+        "项目协作",
+        "时间与资源"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0024",
+      "zh": "我们需要给意外留余量。",
+      "en": "We need a margin for the unexpected.",
+      "answers": [
+        "We need a margin for the unexpected."
+      ],
+      "notes": "margin：余量",
+      "tags": [
+        "项目协作",
+        "时间与资源"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0025",
+      "zh": "增加人手不一定能加快每个阶段。",
+      "en": "Extra staff do not necessarily speed up every stage.",
+      "answers": [
+        "Extra staff do not necessarily speed up every stage.",
+        "Extra staff don't necessarily speed up every stage."
+      ],
+      "notes": "not necessarily：不一定；speed up：加快。",
+      "tags": [
+        "项目协作",
+        "时间与资源"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "projects_problem_solving_v3_0026",
+      "zh": "这个日期取决于材料到货。",
+      "en": "The date depends on material delivery.",
+      "answers": [
+        "The date depends on material delivery."
+      ],
+      "notes": "delivery：到货",
+      "tags": [
+        "项目协作",
+        "时间与资源"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0027",
+      "zh": "必须把维护时间算进去。",
+      "en": "Maintenance time must be included.",
+      "answers": [
+        "Maintenance time must be included."
+      ],
+      "notes": "被动语态",
+      "tags": [
+        "项目协作",
+        "时间与资源"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0028",
+      "zh": "我不能同时承诺这两项任务。",
+      "en": "I cannot commit to both tasks simultaneously.",
+      "answers": [
+        "I cannot commit to both tasks simultaneously.",
+        "I can't commit to both tasks simultaneously."
+      ],
+      "notes": "simultaneously：同时",
+      "tags": [
+        "项目协作",
+        "时间与资源"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0029",
+      "zh": "新的优先级会影响其他工作。",
+      "en": "The new priority will affect other work.",
+      "answers": [
+        "The new priority will affect other work."
+      ],
+      "notes": "priority：优先级",
+      "tags": [
+        "项目协作",
+        "时间与资源"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0030",
+      "zh": "我们应把预测与承诺区分开。",
+      "en": "We should separate forecasts from commitments.",
+      "answers": [
+        "We should separate forecasts from commitments."
+      ],
+      "notes": "commitment：承诺",
+      "tags": [
+        "项目协作",
+        "时间与资源"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0031",
+      "zh": "先测试最简单的版本。",
+      "en": "Test the simplest version first.",
+      "answers": [
+        "Test the simplest version first."
+      ],
+      "notes": "simplest：最简单",
+      "tags": [
+        "项目协作",
+        "试验"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0032",
+      "zh": "这只是验证概念的样品。",
+      "en": "This sample only tests the concept.",
+      "answers": [
+        "This sample only tests the concept."
+      ],
+      "notes": "concept：概念",
+      "tags": [
+        "项目协作",
+        "试验"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0033",
+      "zh": "我们需要记录失败条件。",
+      "en": "We need to record the failure conditions.",
+      "answers": [
+        "We need to record the failure conditions."
+      ],
+      "notes": "failure condition",
+      "tags": [
+        "项目协作",
+        "试验"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0034",
+      "zh": "一次只改变一个关键因素。",
+      "en": "Change one key factor at a time.",
+      "answers": [
+        "Change one key factor at a time."
+      ],
+      "notes": "at a time：每次",
+      "tags": [
+        "项目协作",
+        "试验"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0035",
+      "zh": "对照版本应保持不变。",
+      "en": "The comparison version should remain unchanged.",
+      "answers": [
+        "The comparison version should remain unchanged."
+      ],
+      "notes": "unchanged：不变",
+      "tags": [
+        "项目协作",
+        "试验"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0036",
+      "zh": "测试环境与实际使用不同。",
+      "en": "The test environment differs from real use.",
+      "answers": [
+        "The test environment differs from real use."
+      ],
+      "notes": "differ from",
+      "tags": [
+        "项目协作",
+        "试验"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0037",
+      "zh": "结果不符合我们的预期。",
+      "en": "The result contradicts our expectations.",
+      "answers": [
+        "The result contradicts our expectations."
+      ],
+      "notes": "contradict：不符合",
+      "tags": [
+        "项目协作",
+        "试验"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0038",
+      "zh": "这个问题只在重负载下出现。",
+      "en": "This issue occurs only under heavy load.",
+      "answers": [
+        "This issue occurs only under heavy load."
+      ],
+      "notes": "under load：负载下",
+      "tags": [
+        "项目协作",
+        "试验"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0039",
+      "zh": "我们需要复现这个现象。",
+      "en": "We need to reproduce this behaviour.",
+      "answers": [
+        "We need to reproduce this behaviour."
+      ],
+      "notes": "reproduce：复现",
+      "tags": [
+        "项目协作",
+        "试验"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0040",
+      "zh": "先确认测试方法没有问题。",
+      "en": "First establish that the test is valid.",
+      "answers": [
+        "First establish that the test is valid."
+      ],
+      "notes": "valid：有效",
+      "tags": [
+        "项目协作",
+        "试验"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0041",
+      "zh": "故障是间歇性的。",
+      "en": "The fault is intermittent.",
+      "answers": [
+        "The fault is intermittent."
+      ],
+      "notes": "intermittent：间歇性",
+      "tags": [
+        "项目协作",
+        "排查"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0042",
+      "zh": "我们不知道变化从哪里开始。",
+      "en": "We do not know where the change began.",
+      "answers": [
+        "We do not know where the change began.",
+        "We don't know where the change began."
+      ],
+      "notes": "where 从句",
+      "tags": [
+        "项目协作",
+        "排查"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0043",
+      "zh": "这两个事件发生时间相近。",
+      "en": "These events occurred close together in time.",
+      "answers": [
+        "These events occurred close together in time."
+      ],
+      "notes": "occur：发生",
+      "tags": [
+        "项目协作",
+        "排查"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0044",
+      "zh": "相邻发生不证明存在因果。",
+      "en": "Closeness in time does not prove causation.",
+      "answers": [
+        "Closeness in time does not prove causation.",
+        "Closeness in time doesn't prove causation."
+      ],
+      "notes": "causation：因果",
+      "tags": [
+        "项目协作",
+        "排查"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0045",
+      "zh": "先排除最容易检查的原因。",
+      "en": "Rule out the easiest causes to check first.",
+      "answers": [
+        "Rule out the easiest causes to check first."
+      ],
+      "notes": "rule out：排除",
+      "tags": [
+        "项目协作",
+        "排查"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0046",
+      "zh": "重启消除了故障表现，但没有揭示根本原因。",
+      "en": "Restarting cleared the symptom but did not reveal the underlying cause.",
+      "answers": [
+        "Restarting cleared the symptom but did not reveal the underlying cause.",
+        "Restarting cleared the symptom but didn't reveal the underlying cause."
+      ],
+      "notes": "clear the symptom：消除故障表现；reveal：揭示。",
+      "tags": [
+        "项目协作",
+        "排查"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0047",
+      "zh": "日志只保留了最后一分钟。",
+      "en": "The log retains only the final minute.",
+      "answers": [
+        "The log retains only the final minute."
+      ],
+      "notes": "retain：保留",
+      "tags": [
+        "项目协作",
+        "排查"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0048",
+      "zh": "我想了解失败前的操作顺序。",
+      "en": "I want the sequence of actions before failure.",
+      "answers": [
+        "I want the sequence of actions before failure."
+      ],
+      "notes": "sequence：顺序",
+      "tags": [
+        "项目协作",
+        "排查"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0049",
+      "zh": "这个解释无法涵盖所有情况。",
+      "en": "This explanation does not cover every case.",
+      "answers": [
+        "This explanation does not cover every case.",
+        "This explanation doesn't cover every case."
+      ],
+      "notes": "cover：涵盖",
+      "tags": [
+        "项目协作",
+        "排查"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0050",
+      "zh": "我们发现每次故障都伴随着同一个条件。",
+      "en": "We found a condition shared by every failure.",
+      "answers": [
+        "We found a condition shared by every failure."
+      ],
+      "notes": "shared by every failure：所有故障共有的。",
+      "tags": [
+        "项目协作",
+        "排查"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "projects_problem_solving_v3_0051",
+      "zh": "方案甲更快，但后期维护更难。",
+      "en": "Option A is faster but harder to maintain.",
+      "answers": [
+        "Option A is faster but harder to maintain."
+      ],
+      "notes": "maintain：维护",
+      "tags": [
+        "项目协作",
+        "方案比较"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "projects_problem_solving_v3_0052",
+      "zh": "临时修复可以争取时间。",
+      "en": "A temporary fix can buy us time.",
+      "answers": [
+        "A temporary fix can buy us time."
+      ],
+      "notes": "buy time：争取时间",
+      "tags": [
+        "项目协作",
+        "方案比较"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "projects_problem_solving_v3_0053",
+      "zh": "这个方案把成本推到了以后。",
+      "en": "This solution defers costs until later.",
+      "answers": [
+        "This solution defers costs until later."
+      ],
+      "notes": "defer：推迟",
+      "tags": [
+        "项目协作",
+        "方案比较"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "projects_problem_solving_v3_0054",
+      "zh": "我们需要比较总工作量。",
+      "en": "We need to compare total effort.",
+      "answers": [
+        "We need to compare total effort."
+      ],
+      "notes": "effort：工作量",
+      "tags": [
+        "项目协作",
+        "方案比较"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "projects_problem_solving_v3_0055",
+      "zh": "可逆的决定可以先小范围试行。",
+      "en": "Reversible decisions can be trialled on a small scale.",
+      "answers": [
+        "Reversible decisions can be trialled on a small scale."
+      ],
+      "notes": "reversible：可逆",
+      "tags": [
+        "项目协作",
+        "方案比较"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "projects_problem_solving_v3_0056",
+      "zh": "对单一供应商的依赖是个缺点。",
+      "en": "Dependence on one supplier is a drawback.",
+      "answers": [
+        "Dependence on one supplier is a drawback."
+      ],
+      "notes": "drawback：缺点",
+      "tags": [
+        "项目协作",
+        "方案比较"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "projects_problem_solving_v3_0057",
+      "zh": "最便宜的选项不满足关键要求。",
+      "en": "The cheapest option fails a key requirement.",
+      "answers": [
+        "The cheapest option fails a key requirement."
+      ],
+      "notes": "fail：不满足",
+      "tags": [
+        "项目协作",
+        "方案比较"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "projects_problem_solving_v3_0058",
+      "zh": "我们可以组合两个方案的优点。",
+      "en": "We can combine strengths from both approaches.",
+      "answers": [
+        "We can combine strengths from both approaches."
+      ],
+      "notes": "strength：长处",
+      "tags": [
+        "项目协作",
+        "方案比较"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "projects_problem_solving_v3_0059",
+      "zh": "这个取舍需要明确记录。",
+      "en": "This trade-off needs explicit documentation.",
+      "answers": [
+        "This trade-off needs explicit documentation."
+      ],
+      "notes": "trade-off：取舍",
+      "tags": [
+        "项目协作",
+        "方案比较"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "projects_problem_solving_v3_0060",
+      "zh": "暂时不采取行动也是一个选项。",
+      "en": "Taking no action for now is also an option.",
+      "answers": [
+        "Taking no action for now is also an option."
+      ],
+      "notes": "动名词主语",
+      "tags": [
+        "项目协作",
+        "方案比较"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "projects_problem_solving_v3_0061",
+      "zh": "先通知受影响的人。",
+      "en": "Notify affected people first.",
+      "answers": [
+        "Notify affected people first."
+      ],
+      "notes": "affected：受影响",
+      "tags": [
+        "项目协作",
+        "实施"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0062",
+      "zh": "变更应在低峰时段进行。",
+      "en": "The change should happen during quieter hours.",
+      "answers": [
+        "The change should happen during quieter hours."
+      ],
+      "notes": "quieter hours：低峰时段",
+      "tags": [
+        "项目协作",
+        "实施"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0063",
+      "zh": "我们需要能够退回旧版本。",
+      "en": "We need a way to restore the old version.",
+      "answers": [
+        "We need a way to restore the old version."
+      ],
+      "notes": "restore：恢复",
+      "tags": [
+        "项目协作",
+        "实施"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0064",
+      "zh": "实施负责人和验收负责人不同。",
+      "en": "Implementation and acceptance have different owners.",
+      "answers": [
+        "Implementation and acceptance have different owners."
+      ],
+      "notes": "acceptance：验收",
+      "tags": [
+        "项目协作",
+        "实施"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0065",
+      "zh": "这一步不能跳过。",
+      "en": "This step cannot be skipped.",
+      "answers": [
+        "This step cannot be skipped.",
+        "This step can't be skipped."
+      ],
+      "notes": "skip：跳过",
+      "tags": [
+        "项目协作",
+        "实施"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0066",
+      "zh": "先检查材料是否齐全。",
+      "en": "Check that all materials are present first.",
+      "answers": [
+        "Check that all materials are present first."
+      ],
+      "notes": "present：在场齐全",
+      "tags": [
+        "项目协作",
+        "实施"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0067",
+      "zh": "我会逐项记录实际进度。",
+      "en": "I will record actual progress item by item.",
+      "answers": [
+        "I will record actual progress item by item."
+      ],
+      "notes": "item by item",
+      "tags": [
+        "项目协作",
+        "实施"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0068",
+      "zh": "异常情况需要立即上报。",
+      "en": "Exceptions need to be reported promptly.",
+      "answers": [
+        "Exceptions need to be reported promptly."
+      ],
+      "notes": "promptly：及时",
+      "tags": [
+        "项目协作",
+        "实施"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0069",
+      "zh": "我们还没有进入最后阶段。",
+      "en": "We have not reached the final stage.",
+      "answers": [
+        "We have not reached the final stage.",
+        "We haven't reached the final stage."
+      ],
+      "notes": "stage：阶段",
+      "tags": [
+        "项目协作",
+        "实施"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0070",
+      "zh": "完成后检查关联功能。",
+      "en": "Check related functions afterwards.",
+      "answers": [
+        "Check related functions afterwards."
+      ],
+      "notes": "related：关联",
+      "tags": [
+        "项目协作",
+        "实施"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0071",
+      "zh": "更新应说明发生了什么变化。",
+      "en": "An update should explain what changed.",
+      "answers": [
+        "An update should explain what changed."
+      ],
+      "notes": "what 从句",
+      "tags": [
+        "项目协作",
+        "沟通"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0072",
+      "zh": "别只报告百分比。",
+      "en": "Report more than a percentage.",
+      "answers": [
+        "Report more than a percentage."
+      ],
+      "notes": "more than",
+      "tags": [
+        "项目协作",
+        "沟通"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0073",
+      "zh": "我需要一个可以采取行动的结论。",
+      "en": "I need an actionable conclusion.",
+      "answers": [
+        "I need an actionable conclusion."
+      ],
+      "notes": "actionable：可据以行动",
+      "tags": [
+        "项目协作",
+        "沟通"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0074",
+      "zh": "这个风险由谁决定接受？",
+      "en": "Who decides whether this risk is acceptable?",
+      "answers": [
+        "Who decides whether this risk is acceptable?"
+      ],
+      "notes": "whether 从句",
+      "tags": [
+        "项目协作",
+        "沟通"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "projects_problem_solving_v3_0075",
+      "zh": "我们意见不同，但目标一致。",
+      "en": "We disagree, but our objective is shared.",
+      "answers": [
+        "We disagree, but our objective is shared."
+      ],
+      "notes": "objective：目标",
+      "tags": [
+        "项目协作",
+        "沟通"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0076",
+      "zh": "请把问题和建议分开列出。",
+      "en": "Please list the issue separately from the recommendation.",
+      "answers": [
+        "Please list the issue separately from the recommendation."
+      ],
+      "notes": "separately：分开",
+      "tags": [
+        "项目协作",
+        "沟通"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0077",
+      "zh": "我想核对我们是否理解一致。",
+      "en": "I want to check our shared understanding.",
+      "answers": [
+        "I want to check our shared understanding."
+      ],
+      "notes": "understanding：理解",
+      "tags": [
+        "项目协作",
+        "沟通"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0078",
+      "zh": "需要把这项决定告知下游团队。",
+      "en": "The downstream team needs to be informed of this decision.",
+      "answers": [
+        "The downstream team needs to be informed of this decision."
+      ],
+      "notes": "be informed of：获知；downstream：下游环节。",
+      "tags": [
+        "项目协作",
+        "沟通"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0079",
+      "zh": "没有消息不代表没有阻碍。",
+      "en": "Silence does not mean there are no obstacles.",
+      "answers": [
+        "Silence does not mean there are no obstacles.",
+        "Silence doesn't mean there are no obstacles."
+      ],
+      "notes": "obstacle：阻碍",
+      "tags": [
+        "项目协作",
+        "沟通"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "projects_problem_solving_v3_0080",
+      "zh": "请注明哪些信息还不确定。",
+      "en": "Please mark the information that remains uncertain.",
+      "answers": [
+        "Please mark the information that remains uncertain."
+      ],
+      "notes": "uncertain：不确定",
+      "tags": [
+        "项目协作",
+        "沟通"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0081",
+      "zh": "验收测试必须使用实际样本。",
+      "en": "Acceptance testing must use real samples.",
+      "answers": [
+        "Acceptance testing must use real samples."
+      ],
+      "notes": "acceptance testing：验收测试。",
+      "tags": [
+        "项目协作",
+        "验收"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0082",
+      "zh": "我们需要验证边界情况。",
+      "en": "We need to verify edge cases.",
+      "answers": [
+        "We need to verify edge cases."
+      ],
+      "notes": "edge case：边界情况",
+      "tags": [
+        "项目协作",
+        "验收"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0083",
+      "zh": "文档也属于交付物。",
+      "en": "Documentation is also a deliverable.",
+      "answers": [
+        "Documentation is also a deliverable."
+      ],
+      "notes": "deliverable：交付物",
+      "tags": [
+        "项目协作",
+        "验收"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0084",
+      "zh": "这个缺陷是否影响主要用途？",
+      "en": "Does this defect affect the primary use?",
+      "answers": [
+        "Does this defect affect the primary use?"
+      ],
+      "notes": "defect：缺陷",
+      "tags": [
+        "项目协作",
+        "验收"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0085",
+      "zh": "我想保留双方签署的验收记录。",
+      "en": "I want to retain an acceptance record signed by both parties.",
+      "answers": [
+        "I want to retain an acceptance record signed by both parties."
+      ],
+      "notes": "signed by 限定验收记录；验收不同于收货。",
+      "tags": [
+        "项目协作",
+        "验收"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "projects_problem_solving_v3_0086",
+      "zh": "完成标准不应临时改变。",
+      "en": "Completion criteria should not change at the last minute.",
+      "answers": [
+        "Completion criteria should not change at the last minute.",
+        "Completion criteria shouldn't change at the last minute."
+      ],
+      "notes": "criterion：标准",
+      "tags": [
+        "项目协作",
+        "验收"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0087",
+      "zh": "我们不能只测试顺利的路径。",
+      "en": "We cannot test only the happy path.",
+      "answers": [
+        "We cannot test only the happy path.",
+        "We can't test only the happy path."
+      ],
+      "notes": "happy path：正常路径",
+      "tags": [
+        "项目协作",
+        "验收"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0088",
+      "zh": "培训结束不等于用户已经掌握。",
+      "en": "Completed training does not establish user competence.",
+      "answers": [
+        "Completed training does not establish user competence.",
+        "Completed training doesn't establish user competence."
+      ],
+      "notes": "competence：掌握能力",
+      "tags": [
+        "项目协作",
+        "验收"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "projects_problem_solving_v3_0089",
+      "zh": "遗留问题需要单独追踪。",
+      "en": "Remaining issues need separate tracking.",
+      "answers": [
+        "Remaining issues need separate tracking."
+      ],
+      "notes": "tracking：追踪",
+      "tags": [
+        "项目协作",
+        "验收"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0090",
+      "zh": "正式结束前确认支持渠道。",
+      "en": "Confirm support arrangements before formal closure.",
+      "answers": [
+        "Confirm support arrangements before formal closure."
+      ],
+      "notes": "closure：结项",
+      "tags": [
+        "项目协作",
+        "验收"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "projects_problem_solving_v3_0091",
+      "zh": "这次延误暴露了依赖关系。",
+      "en": "The delay exposed a dependency.",
+      "answers": [
+        "The delay exposed a dependency."
+      ],
+      "notes": "dependency：依赖关系",
+      "tags": [
+        "项目协作",
+        "复盘"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "projects_problem_solving_v3_0092",
+      "zh": "我们低估了沟通成本。",
+      "en": "We underestimated the cost of coordination.",
+      "answers": [
+        "We underestimated the cost of coordination."
+      ],
+      "notes": "underestimate：低估",
+      "tags": [
+        "项目协作",
+        "复盘"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "projects_problem_solving_v3_0093",
+      "zh": "顺利完成也值得分析原因。",
+      "en": "Success also deserves examination.",
+      "answers": [
+        "Success also deserves examination."
+      ],
+      "notes": "examination：分析",
+      "tags": [
+        "项目协作",
+        "复盘"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "projects_problem_solving_v3_0094",
+      "zh": "复盘不是寻找替罪羊。",
+      "en": "A review is not a search for scapegoats.",
+      "answers": [
+        "A review is not a search for scapegoats.",
+        "A review isn't a search for scapegoats."
+      ],
+      "notes": "scapegoat：替罪羊",
+      "tags": [
+        "项目协作",
+        "复盘"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "projects_problem_solving_v3_0095",
+      "zh": "我想知道哪项假设最脆弱。",
+      "en": "I want to identify the weakest assumption.",
+      "answers": [
+        "I want to identify the weakest assumption."
+      ],
+      "notes": "assumption：假设",
+      "tags": [
+        "项目协作",
+        "复盘"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "projects_problem_solving_v3_0096",
+      "zh": "教训应转化为具体改变。",
+      "en": "Lessons should lead to concrete changes.",
+      "answers": [
+        "Lessons should lead to concrete changes."
+      ],
+      "notes": "lead to",
+      "tags": [
+        "项目协作",
+        "复盘"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "projects_problem_solving_v3_0097",
+      "zh": "这个办法只适用于当时条件。",
+      "en": "That method suited those conditions only.",
+      "answers": [
+        "That method suited those conditions only."
+      ],
+      "notes": "suit：适合",
+      "tags": [
+        "项目协作",
+        "复盘"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "projects_problem_solving_v3_0098",
+      "zh": "我们需要保留失败尝试的记录。",
+      "en": "We need records of unsuccessful attempts.",
+      "answers": [
+        "We need records of unsuccessful attempts."
+      ],
+      "notes": "attempt：尝试",
+      "tags": [
+        "项目协作",
+        "复盘"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "projects_problem_solving_v3_0099",
+      "zh": "下次先明确接口。",
+      "en": "Next time, define the interfaces first.",
+      "answers": [
+        "Next time, define the interfaces first."
+      ],
+      "notes": "interface：接口",
+      "tags": [
+        "项目协作",
+        "复盘"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "projects_problem_solving_v3_0100",
+      "zh": "改进也需要验证效果。",
+      "en": "Improvements need evidence of effectiveness too.",
+      "answers": [
+        "Improvements need evidence of effectiveness too."
+      ],
+      "notes": "effectiveness：效果",
+      "tags": [
+        "项目协作",
+        "复盘"
+      ],
+      "difficulty": 3
+    }
+  ]
+}

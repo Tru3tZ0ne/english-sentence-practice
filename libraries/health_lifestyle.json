@@ -1,0 +1,581 @@
+{
+  "schema_version": 1,
+  "id": "health_lifestyle",
+  "title": "健康与生活方式精选 · 36 句",
+  "description": "围绕本主题的具体情境组织表达；覆盖请求、说明、比较与复合句，并附逐题用法。",
+  "language": "en-GB",
+  "tags": [
+    "健康与生活方式",
+    "health",
+    "主题分类",
+    "精选",
+    "逐题讲解"
+  ],
+  "items": [
+    {
+      "zh": "我不是每天都跑步，但会尽量在午饭后散步。",
+      "en": "I don't run every day, but I try to take a walk after lunch.",
+      "answers": [
+        "I don't run every day, but I try to take a walk after lunch.",
+        "I do not run every day, but I try to take a walk after lunch."
+      ],
+      "notes": "not every day 表示并非每天；take a walk 表示散步。",
+      "tags": [
+        "健康与生活方式",
+        "部分否定",
+        "描述运动习惯",
+        "日常活动"
+      ],
+      "difficulty": 2,
+      "id": "health_lifestyle_001"
+    },
+    {
+      "zh": "自从减少晚上的咖啡摄入，我就更容易入睡了。",
+      "en": "Since cutting down on coffee in the evening, I've found it easier to fall asleep.",
+      "answers": [
+        "Since cutting down on coffee in the evening, I've found it easier to fall asleep.",
+        "Since cutting down on coffee in the evening, I have found it easier to fall asleep."
+      ],
+      "notes": "cut down on 表示减少；个人经历的先后关系不等于普遍疗效。",
+      "tags": [
+        "健康与生活方式",
+        "现在完成时",
+        "描述习惯变化",
+        "睡眠"
+      ],
+      "difficulty": 3,
+      "id": "health_lifestyle_002"
+    },
+    {
+      "zh": "如果连续坐了很久，我会起来活动几分钟。",
+      "en": "If I've been sitting for a long time, I get up and move around for a few minutes.",
+      "answers": [
+        "If I've been sitting for a long time, I get up and move around for a few minutes.",
+        "If I have been sitting for a long time, I get up and move around for a few minutes."
+      ],
+      "notes": "现在完成进行时强调持续坐着；主句一般现在时描述习惯。",
+      "tags": [
+        "健康与生活方式",
+        "条件从句",
+        "描述活动安排",
+        "久坐"
+      ],
+      "difficulty": 3,
+      "id": "health_lifestyle_003"
+    },
+    {
+      "zh": "虽然我很忙，但午餐通常会留出一段不看手机的时间。",
+      "en": "Although I'm busy, I usually set aside some phone-free time at lunch.",
+      "answers": [
+        "Although I'm busy, I usually set aside some phone-free time at lunch.",
+        "Although I am busy, I usually set aside some phone-free time at lunch."
+      ],
+      "notes": "set aside time 表示专门留出时间；phone-free 表示不使用手机的。",
+      "tags": [
+        "健康与生活方式",
+        "让步从句",
+        "说明生活安排",
+        "休息"
+      ],
+      "difficulty": 2,
+      "id": "health_lifestyle_004"
+    },
+    {
+      "zh": "与其周末补很多觉，我想试着每天在相近的时间起床。",
+      "en": "Rather than catch up on sleep at the weekend, I'd like to try getting up at a similar time each day.",
+      "answers": [
+        "Rather than catch up on sleep at the weekend, I'd like to try getting up at a similar time each day."
+      ],
+      "notes": "catch up on sleep 表示补觉；try doing 表示尝试一种方法。",
+      "tags": [
+        "健康与生活方式",
+        "对比结构",
+        "提出个人计划",
+        "作息"
+      ],
+      "difficulty": 3,
+      "id": "health_lifestyle_005"
+    },
+    {
+      "zh": "让我难以坚持锻炼的，是去健身房需要花很长时间。",
+      "en": "What makes it hard for me to exercise regularly is the long journey to the gym.",
+      "answers": [
+        "What makes it hard for me to exercise regularly is the long journey to the gym."
+      ],
+      "notes": "what 从句作主语；make it hard for sb to do 中 it 为形式宾语。",
+      "tags": [
+        "健康与生活方式",
+        "主语从句",
+        "解释习惯障碍",
+        "运动条件"
+      ],
+      "difficulty": 4,
+      "id": "health_lifestyle_006"
+    },
+    {
+      "zh": "这道菜里的盐比我预想的多。",
+      "en": "This dish contains more salt than I expected.",
+      "answers": [
+        "This dish contains more salt than I expected."
+      ],
+      "notes": "salt 不可数；more ... than ... 比较实际与预期。",
+      "tags": [
+        "健康与生活方式",
+        "比较结构",
+        "描述饮食",
+        "食物口味"
+      ],
+      "difficulty": 1,
+      "id": "health_lifestyle_007"
+    },
+    {
+      "zh": "你想走楼梯，还是等电梯？",
+      "en": "Would you rather take the stairs or wait for the lift?",
+      "answers": [
+        "Would you rather take the stairs or wait for the lift?",
+        "Would you rather take the stairs or wait for the elevator?"
+      ],
+      "notes": "would rather 后用动词原形；take the stairs 表示走楼梯。",
+      "tags": [
+        "健康与生活方式",
+        "选择疑问句",
+        "询问活动选择",
+        "日常出行"
+      ],
+      "difficulty": 2,
+      "id": "health_lifestyle_008"
+    },
+    {
+      "zh": "为了更清楚地了解作息，我开始记录每天睡觉和起床的时间。",
+      "en": "To understand my sleep routine better, I've started recording when I go to bed and when I get up.",
+      "answers": [
+        "To understand my sleep routine better, I've started recording when I go to bed and when I get up.",
+        "To understand my sleep routine better, I have started recording when I go to bed and when I get up."
+      ],
+      "notes": "start doing；两个 when 从句并列作 recording 的宾语。",
+      "tags": [
+        "健康与生活方式",
+        "目的状语",
+        "描述自我记录",
+        "作息观察"
+      ],
+      "difficulty": 3,
+      "id": "health_lifestyle_009"
+    },
+    {
+      "zh": "工作到很晚之后，我需要一点时间让自己放松下来。",
+      "en": "After working late, I need some time to unwind.",
+      "answers": [
+        "After working late, I need some time to unwind."
+      ],
+      "notes": "unwind 表示放松；after working 的逻辑主语是 I。",
+      "tags": [
+        "健康与生活方式",
+        "时间状语",
+        "表达休息需求",
+        "工作恢复"
+      ],
+      "difficulty": 2,
+      "id": "health_lifestyle_010"
+    },
+    {
+      "zh": "即使天气不好，我们也可以在室内做些轻松的活动。",
+      "en": "Even if the weather is bad, we can do some gentle exercise indoors.",
+      "answers": [
+        "Even if the weather is bad, we can do some gentle exercise indoors."
+      ],
+      "notes": "even if 引出假设性让步；exercise 指运动时通常不可数。",
+      "tags": [
+        "健康与生活方式",
+        "让步条件句",
+        "调整活动计划",
+        "室内运动"
+      ],
+      "difficulty": 2,
+      "id": "health_lifestyle_011"
+    },
+    {
+      "zh": "这周我给自己定的目标是做三次饭，而不是每晚点外卖。",
+      "en": "My goal this week is to cook three times instead of ordering takeaway every evening.",
+      "answers": [
+        "My goal this week is to cook three times instead of ordering takeaway every evening."
+      ],
+      "notes": "to cook 作表语；instead of 后接 doing，具体目标比笼统计划更清楚。",
+      "tags": [
+        "健康与生活方式",
+        "表语不定式",
+        "设定生活目标",
+        "居家饮食"
+      ],
+      "difficulty": 2,
+      "id": "health_lifestyle_012"
+    },
+    {
+      "id": "health_lifestyle_ext_0001",
+      "zh": "我发现睡前看工作邮件会让我更难放松。",
+      "en": "I find it harder to relax when I read work emails before bed.",
+      "answers": [
+        "I find it harder to relax when I read work emails before bed."
+      ],
+      "notes": "find it + 形容词 + to do。",
+      "tags": [
+        "健康与生活方式",
+        "时间从句",
+        "睡前习惯"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "health_lifestyle_ext_0002",
+      "zh": "午休时我会离开办公桌，到外面透透气。",
+      "en": "During lunch breaks, I leave my desk to get some fresh air.",
+      "answers": [
+        "During lunch breaks, I leave my desk to get some fresh air."
+      ],
+      "notes": "get some fresh air：出去透气。",
+      "tags": [
+        "健康与生活方式",
+        "目的结构",
+        "工作间歇"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "health_lifestyle_ext_0003",
+      "zh": "这周我走路的次数比上周多。",
+      "en": "I have walked more often this week than last week.",
+      "answers": [
+        "I have walked more often this week than last week."
+      ],
+      "notes": "more often：更频繁。",
+      "tags": [
+        "健康与生活方式",
+        "比较结构",
+        "活动记录"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "health_lifestyle_ext_0004",
+      "zh": "我想选择一种自己愿意长期坚持的运动。",
+      "en": "I want an activity that I will enjoy sticking with over time.",
+      "answers": [
+        "I want an activity that I will enjoy sticking with over time.",
+        "I want an activity that I'll enjoy sticking with over time."
+      ],
+      "notes": "stick with：坚持做。",
+      "tags": [
+        "健康与生活方式",
+        "定语从句",
+        "运动选择"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "health_lifestyle_ext_0005",
+      "zh": "如果今天精力不足，我就把计划调整得轻松一些。",
+      "en": "If I have little energy today, I will make the plan less demanding.",
+      "answers": [
+        "If I have little energy today, I will make the plan less demanding.",
+        "If I have little energy today, I'll make the plan less demanding."
+      ],
+      "notes": "less demanding：要求较低、更轻松。",
+      "tags": [
+        "健康与生活方式",
+        "条件从句",
+        "活动调整"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "health_lifestyle_ext_0006",
+      "zh": "我会提前准备午饭，这样忙的时候也不用匆忙决定吃什么。",
+      "en": "I prepare lunch in advance so that I do not have to choose in a hurry when I am busy.",
+      "answers": [
+        "I prepare lunch in advance so that I do not have to choose in a hurry when I am busy.",
+        "I prepare lunch in advance so that I don't have to choose in a hurry when I'm busy."
+      ],
+      "notes": "in a hurry：匆忙地。",
+      "tags": [
+        "健康与生活方式",
+        "目的从句",
+        "备餐"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "health_lifestyle_ext_0007",
+      "zh": "这份包装里的食物有几人份？",
+      "en": "How many servings are in this package?",
+      "answers": [
+        "How many servings are in this package?"
+      ],
+      "notes": "serving：一份食物。",
+      "tags": [
+        "健康与生活方式",
+        "特殊疑问句",
+        "食物份量"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "health_lifestyle_ext_0008",
+      "zh": "我只想少放一点糖，不是完全不放。",
+      "en": "I would like less sugar, not none at all.",
+      "answers": [
+        "I would like less sugar, not none at all.",
+        "I'd like less sugar, not none at all."
+      ],
+      "notes": "less 与 none 区分减少和完全没有。",
+      "tags": [
+        "健康与生活方式",
+        "对比结构",
+        "饮食偏好"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "health_lifestyle_ext_0009",
+      "zh": "运动课结束后，我会留一点时间休息再赶下一场安排。",
+      "en": "After the exercise class, I leave time to rest before my next commitment.",
+      "answers": [
+        "After the exercise class, I leave time to rest before my next commitment."
+      ],
+      "notes": "commitment：已安排的事务。",
+      "tags": [
+        "健康与生活方式",
+        "时间结构",
+        "活动节奏"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "health_lifestyle_ext_0010",
+      "zh": "我不喜欢拥挤的健身房，因此通常选择安静的时段。",
+      "en": "I dislike crowded gyms, so I usually choose quieter times.",
+      "answers": [
+        "I dislike crowded gyms, so I usually choose quieter times."
+      ],
+      "notes": "quieter 为比较级。",
+      "tags": [
+        "健康与生活方式",
+        "因果并列句",
+        "运动环境"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "health_lifestyle_ext_0011",
+      "zh": "这双鞋长时间走路时会磨脚。",
+      "en": "These shoes rub my feet when I walk for a long time.",
+      "answers": [
+        "These shoes rub my feet when I walk for a long time."
+      ],
+      "notes": "rub：摩擦，使不舒服。",
+      "tags": [
+        "健康与生活方式",
+        "时间从句",
+        "穿着舒适"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "health_lifestyle_ext_0012",
+      "zh": "我需要把屏幕放高一些，才能坐得更舒服。",
+      "en": "I need to raise the screen so that I can sit more comfortably.",
+      "answers": [
+        "I need to raise the screen so that I can sit more comfortably."
+      ],
+      "notes": "raise 是及物动词。",
+      "tags": [
+        "健康与生活方式",
+        "目的从句",
+        "工作姿势"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "health_lifestyle_ext_0013",
+      "zh": "我已经很久没有真正休过一天假了。",
+      "en": "I have not had a proper day off for a long time.",
+      "answers": [
+        "I have not had a proper day off for a long time.",
+        "I've not had a proper day off for a long time."
+      ],
+      "notes": "a day off：休息日。",
+      "tags": [
+        "健康与生活方式",
+        "现在完成时",
+        "休息安排"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "health_lifestyle_ext_0014",
+      "zh": "有时我把口渴误以为只是想喝点有味道的饮料。",
+      "en": "Sometimes I mistake thirst for a craving for a flavoured drink.",
+      "answers": [
+        "Sometimes I mistake thirst for a craving for a flavoured drink."
+      ],
+      "notes": "mistake A for B：把 A 误认为 B。",
+      "tags": [
+        "健康与生活方式",
+        "一般现在时",
+        "自我观察"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "health_lifestyle_ext_0015",
+      "zh": "散步对我来说也是整理思绪的时间。",
+      "en": "Walking also gives me time to sort out my thoughts.",
+      "answers": [
+        "Walking also gives me time to sort out my thoughts."
+      ],
+      "notes": "sort out thoughts：理清思绪。",
+      "tags": [
+        "健康与生活方式",
+        "动名词主语",
+        "放松方式"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "health_lifestyle_ext_0016",
+      "zh": "虽然我没有完成全部计划，但我保留了每天活动的习惯。",
+      "en": "Although I did not complete the whole plan, I kept the habit of being active each day.",
+      "answers": [
+        "Although I did not complete the whole plan, I kept the habit of being active each day.",
+        "Although I didn't complete the whole plan, I kept the habit of being active each day."
+      ],
+      "notes": "keep the habit of doing。",
+      "tags": [
+        "健康与生活方式",
+        "让步从句",
+        "习惯维持"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "health_lifestyle_ext_0017",
+      "zh": "我们能选一家也提供蔬菜主菜的餐厅吗？",
+      "en": "Can we choose a restaurant that offers vegetable-based main dishes too?",
+      "answers": [
+        "Can we choose a restaurant that offers vegetable-based main dishes too?"
+      ],
+      "notes": "main dish：主菜。",
+      "tags": [
+        "健康与生活方式",
+        "定语从句",
+        "外出饮食"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "health_lifestyle_ext_0018",
+      "zh": "我会把工作通知关掉一小时，专心休息。",
+      "en": "I turn work notifications off for an hour to focus on resting.",
+      "answers": [
+        "I turn work notifications off for an hour to focus on resting."
+      ],
+      "notes": "focus on 后接动名词。",
+      "tags": [
+        "健康与生活方式",
+        "目的结构",
+        "休息边界"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "health_lifestyle_ext_0019",
+      "zh": "如果一个目标太难坚持，我会先缩小它的范围。",
+      "en": "If a goal is too difficult to maintain, I start by making it smaller.",
+      "answers": [
+        "If a goal is too difficult to maintain, I start by making it smaller."
+      ],
+      "notes": "start by doing：先从某行动开始。",
+      "tags": [
+        "健康与生活方式",
+        "条件从句",
+        "目标调整"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "health_lifestyle_ext_0020",
+      "zh": "周末的户外活动让我有机会暂时离开屏幕。",
+      "en": "Outdoor activities at the weekend give me a chance to step away from screens.",
+      "answers": [
+        "Outdoor activities at the weekend give me a chance to step away from screens."
+      ],
+      "notes": "step away from：暂时远离。",
+      "tags": [
+        "健康与生活方式",
+        "不定式结构",
+        "户外休闲"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "health_lifestyle_ext_0021",
+      "zh": "我想了解自己的日常节奏，而不是每天和别人比较。",
+      "en": "I want to understand my own routine rather than compare myself with others every day.",
+      "answers": [
+        "I want to understand my own routine rather than compare myself with others every day."
+      ],
+      "notes": "compare oneself with：与别人比较。",
+      "tags": [
+        "健康与生活方式",
+        "对比结构",
+        "个人习惯"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "health_lifestyle_ext_0022",
+      "zh": "预约了固定的运动时间后，我就不那么容易临时放弃。",
+      "en": "Having a fixed time for exercise makes me less likely to cancel at the last minute.",
+      "answers": [
+        "Having a fixed time for exercise makes me less likely to cancel at the last minute."
+      ],
+      "notes": "at the last minute：最后一刻。",
+      "tags": [
+        "健康与生活方式",
+        "动名词主语",
+        "时间安排"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "health_lifestyle_ext_0023",
+      "zh": "今天走的路线有很多台阶，比我想象的费力。",
+      "en": "Today's route had many steps and was more tiring than I expected.",
+      "answers": [
+        "Today's route had many steps and was more tiring than I expected."
+      ],
+      "notes": "tiring 描述使人疲累的事物。",
+      "tags": [
+        "健康与生活方式",
+        "比较结构",
+        "活动体验"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "health_lifestyle_ext_0024",
+      "zh": "睡眠记录里有几天缺失，我不想据此就下结论。",
+      "en": "Several days are missing from my sleep record, so I do not want to draw conclusions from it yet.",
+      "answers": [
+        "Several days are missing from my sleep record, so I do not want to draw conclusions from it yet.",
+        "Several days are missing from my sleep record, so I don't want to draw conclusions from it yet."
+      ],
+      "notes": "draw conclusions：得出结论。",
+      "tags": [
+        "健康与生活方式",
+        "因果并列句",
+        "自我记录"
+      ],
+      "difficulty": 3
+    }
+  ]
+}

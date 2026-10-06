@@ -1,0 +1,998 @@
+{
+  "schema_version": 1,
+  "id": "grammar_negation_modality",
+  "title": "语法 · 否定与情态｜范围和语气 · 60 句",
+  "description": "部分与全否定、否定转移、不必与禁止、建议责任、推断和弱否定；不以完成时态为专题。",
+  "language": "en-GB",
+  "tags": [
+    "语法专项",
+    "否定与情态",
+    "初中至六级"
+  ],
+  "items": [
+    {
+      "id": "grammar_negation_modality_s1_0001",
+      "zh": "不是所有座位都能看见字幕。",
+      "en": "Not all seats offer a view of the subtitles.",
+      "answers": [
+        "Not all seats offer a view of the subtitles."
+      ],
+      "notes": "not all 表部分否定，不等于 no seats。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "部分否定与全否定",
+        "初中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_negation_modality_s1_0002",
+      "zh": "我并不总是选择最便宜的餐点。",
+      "en": "I do not always choose the cheapest meal.",
+      "answers": [
+        "I do not always choose the cheapest meal.",
+        "I don't always choose the cheapest meal."
+      ],
+      "notes": "not always：不总是，不是 never。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "部分否定与全否定",
+        "初中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_negation_modality_s1_0003",
+      "zh": "这两条路线都不经过海滩。",
+      "en": "Neither route passes the beach.",
+      "answers": [
+        "Neither route passes the beach."
+      ],
+      "notes": "neither 指两者都不；谓语用单数 passes。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "部分否定与全否定",
+        "初中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_negation_modality_s1_0004",
+      "zh": "这里没有一位客人预订过早餐。",
+      "en": "None of the guests booked breakfast.",
+      "answers": [
+        "None of the guests booked breakfast."
+      ],
+      "notes": "none of 表已限定群体中没有任何一个。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "部分否定与全否定",
+        "初中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_negation_modality_s1_0005",
+      "zh": "这些照片并非都在同一天拍摄。",
+      "en": "The photographs were not all taken on the same day.",
+      "answers": [
+        "The photographs were not all taken on the same day.",
+        "The photographs weren't all taken on the same day."
+      ],
+      "notes": "not all 限定整组不是全部同日，不表示任意两张日期都不同。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "部分否定与全否定",
+        "初中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_negation_modality_s1_0006",
+      "zh": "她的意见并不完全基于个人经历。",
+      "en": "Her view is not based entirely on personal experience.",
+      "answers": [
+        "Her view is not based entirely on personal experience.",
+        "Her view isn't based entirely on personal experience."
+      ],
+      "notes": "not ... entirely 表并非完全，不否认部分依据。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "部分否定与全否定",
+        "初中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_negation_modality_s1_0007",
+      "zh": "我从没说过这个安排适合每个人。",
+      "en": "I never said the arrangement suited everyone.",
+      "answers": [
+        "I never said the arrangement suited everyone."
+      ],
+      "notes": "never 否定说过这一行为，不直接断言安排不适合任何人。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "部分否定与全否定",
+        "初中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_negation_modality_s1_0008",
+      "zh": "两个候选人中，没有一个愿意提前开始。",
+      "en": "Neither of the candidates is willing to start early.",
+      "answers": [
+        "Neither of the candidates is willing to start early."
+      ],
+      "notes": "neither of + 复数群体，书面语谓语用单数。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "部分否定与全否定",
+        "初中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_negation_modality_s1_0009",
+      "zh": "没有任何一种调味料能弥补食材不新鲜的问题。",
+      "en": "No seasoning can compensate for stale ingredients.",
+      "answers": [
+        "No seasoning can compensate for stale ingredients."
+      ],
+      "notes": "no + 名词表示全否定；can 表能力范围。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "部分否定与全否定",
+        "初中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_negation_modality_s1_0010",
+      "zh": "这家店并非每逢节假日都关门。",
+      "en": "The shop does not close on every public holiday.",
+      "answers": [
+        "The shop does not close on every public holiday.",
+        "The shop doesn't close on every public holiday."
+      ],
+      "notes": "not ... every 表部分否定，避免误译成从不关门。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "部分否定与全否定",
+        "初中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_negation_modality_s1_0011",
+      "zh": "我不认为他们故意漏掉了你的名字。",
+      "en": "I do not think they omitted your name deliberately.",
+      "answers": [
+        "I do not think they omitted your name deliberately.",
+        "I don't think they omitted your name deliberately."
+      ],
+      "notes": "英语常将 think 从句的否定前移至主句。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "否定范围与转移",
+        "初中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_negation_modality_s1_0012",
+      "zh": "我想他们不会拒绝合理的延期。",
+      "en": "I do not suppose they will refuse a reasonable extension.",
+      "answers": [
+        "I do not suppose they will refuse a reasonable extension.",
+        "I don't suppose they will refuse a reasonable extension."
+      ],
+      "notes": "do not suppose 为否定转移，表示推测不太会发生。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "否定范围与转移",
+        "初中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_negation_modality_s1_0013",
+      "zh": "我要求的是别打断她，不是让你保持沉默。",
+      "en": "I asked you not to interrupt her, not to remain silent.",
+      "answers": [
+        "I asked you not to interrupt her, not to remain silent."
+      ],
+      "notes": "not to interrupt 否定不定式；第二个 not 区分请求范围。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "否定范围与转移",
+        "初中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_negation_modality_s1_0014",
+      "zh": "使我生气的不是迟到，而是她没有提前告知。",
+      "en": "What upset me was not her lateness but her failure to let me know.",
+      "answers": [
+        "What upset me was not her lateness but her failure to let me know.",
+        "What upset me wasn't her lateness but her failure to let me know."
+      ],
+      "notes": "not A but B 清楚界定否定范围，避免 not ... because 的歧义。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "否定范围与转移",
+        "初中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_negation_modality_s1_0015",
+      "zh": "他答应免费提供的只有房间，不包括餐食。",
+      "en": "He agreed to provide only the room free of charge, not meals.",
+      "answers": [
+        "He agreed to provide only the room free of charge, not meals."
+      ],
+      "notes": "only 靠近 room，限定免费提供的对象。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "否定范围与转移",
+        "初中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_negation_modality_s1_0016",
+      "zh": "我没让所有人离开，只请吵闹的人出去。",
+      "en": "I did not ask everyone to leave, only those making noise.",
+      "answers": [
+        "I did not ask everyone to leave, only those making noise.",
+        "I didn't ask everyone to leave, only those making noise."
+      ],
+      "notes": "not everyone：不是所有人；only 说明实际对象。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "否定范围与转移",
+        "初中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_negation_modality_s1_0017",
+      "zh": "不去检查，并不意味着问题不存在。",
+      "en": "Not checking does not mean the problem is absent.",
+      "answers": [
+        "Not checking does not mean the problem is absent.",
+        "Not checking doesn't mean the problem is absent."
+      ],
+      "notes": "not checking 为否定动名词主语；主句另有否定。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "否定范围与转移",
+        "初中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_negation_modality_s1_0018",
+      "zh": "我希望你不要把这次提醒理解为责备。",
+      "en": "I hope you will not take this reminder as blame.",
+      "answers": [
+        "I hope you will not take this reminder as blame.",
+        "I hope you won't take this reminder as blame."
+      ],
+      "notes": "hope 通常保留从句否定，不用 I do not hope 表同一意思。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "否定范围与转移",
+        "初中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_negation_modality_s1_0019",
+      "zh": "她并没有承诺一定会参加。",
+      "en": "She did not promise that she would definitely attend.",
+      "answers": [
+        "She did not promise that she would definitely attend.",
+        "She didn't promise that she would definitely attend."
+      ],
+      "notes": "主句否定承诺存在，不等于承诺不参加。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "否定范围与转移",
+        "初中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_negation_modality_s1_0020",
+      "zh": "没有要求提交原件，不等于不接受原件。",
+      "en": "Not requiring originals is different from refusing them.",
+      "answers": [
+        "Not requiring originals is different from refusing them."
+      ],
+      "notes": "否定要求与主动拒绝是两个概念；动名词作主语。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "否定范围与转移",
+        "初中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_negation_modality_s1_0021",
+      "zh": "你不必买整盒，可以按块购买。",
+      "en": "You need not buy a whole box; individual pieces are available.",
+      "answers": [
+        "You need not buy a whole box; individual pieces are available.",
+        "You needn't buy a whole box; individual pieces are available."
+      ],
+      "notes": "need not 表不必要，不是禁止。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "不必与禁止",
+        "初中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_negation_modality_s1_0022",
+      "zh": "客人不得把宠物带进备餐区。",
+      "en": "Guests must not bring pets into the food preparation area.",
+      "answers": [
+        "Guests must not bring pets into the food preparation area.",
+        "Guests mustn't bring pets into the food preparation area."
+      ],
+      "notes": "must not 表禁止，区别 do not have to。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "不必与禁止",
+        "初中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_negation_modality_s1_0023",
+      "zh": "你今天不用付清尾款。",
+      "en": "You do not have to pay the balance today.",
+      "answers": [
+        "You do not have to pay the balance today.",
+        "You don't have to pay the balance today."
+      ],
+      "notes": "do not have to：无须，并非不能付款。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "不必与禁止",
+        "初中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_negation_modality_s1_0024",
+      "zh": "这条路禁止骑车，但可以推车通过。",
+      "en": "You may not cycle here, but you may walk your bicycle through.",
+      "answers": [
+        "You may not cycle here, but you may walk your bicycle through."
+      ],
+      "notes": "may not 在规则语境表不许可；may 表许可。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "不必与禁止",
+        "初中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_negation_modality_s1_0025",
+      "zh": "没有必要为了一页纸重新打印整本册子。",
+      "en": "There is no need to reprint the booklet for a single page.",
+      "answers": [
+        "There is no need to reprint the booklet for a single page."
+      ],
+      "notes": "no need to do 表缺乏必要性。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "不必与禁止",
+        "初中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_negation_modality_s1_0026",
+      "zh": "我们不能把别人的联系方式放进公开名单。",
+      "en": "We must not include other people's contact details in the public list.",
+      "answers": [
+        "We must not include other people's contact details in the public list.",
+        "We mustn't include other people's contact details in the public list."
+      ],
+      "notes": "must not 表明确行为禁令，而非能力不足。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "不必与禁止",
+        "初中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_negation_modality_s1_0027",
+      "zh": "这次不要求穿正式服装。",
+      "en": "Formal clothing is not required on this occasion.",
+      "answers": [
+        "Formal clothing is not required on this occasion.",
+        "Formal clothing isn't required on this occasion."
+      ],
+      "notes": "not required 表没有义务，不表示 forbidden。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "不必与禁止",
+        "初中至六级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_negation_modality_s1_0028",
+      "zh": "你可以拒绝合照，无须解释原因。",
+      "en": "You may decline the group photograph without having to explain why.",
+      "answers": [
+        "You may decline the group photograph without having to explain why."
+      ],
+      "notes": "may 表许可；without having to 表免除义务。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "不必与禁止",
+        "初中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_negation_modality_s1_0029",
+      "zh": "不要使用这台咖啡机，除非工作人员在场。",
+      "en": "You must not use this coffee machine unless a staff member is present.",
+      "answers": [
+        "You must not use this coffee machine unless a staff member is present.",
+        "You mustn't use this coffee machine unless a staff member is present."
+      ],
+      "notes": "must not ... unless 表带例外条件的禁止。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "不必与禁止",
+        "初中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_negation_modality_s1_0030",
+      "zh": "只要仍有空位，你就不用提前预约。",
+      "en": "You need not reserve a place while spaces remain available.",
+      "answers": [
+        "You need not reserve a place while spaces remain available.",
+        "You needn't reserve a place while spaces remain available."
+      ],
+      "notes": "need not 表不必要；while 限定适用期间。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "不必与禁止",
+        "初中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_negation_modality_s1_0031",
+      "zh": "最好提前尝一下酱汁，再决定配什么主食。",
+      "en": "You had better taste the sauce before choosing an accompaniment.",
+      "answers": [
+        "You had better taste the sauce before choosing an accompaniment."
+      ],
+      "notes": "had better 后接原形，表示较强建议。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "建议与责任强度",
+        "初中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_negation_modality_s1_0032",
+      "zh": "我们应该给行动较慢的人留出更多时间。",
+      "en": "We ought to allow extra time for slower walkers.",
+      "answers": [
+        "We ought to allow extra time for slower walkers."
+      ],
+      "notes": "ought to do 表应当，保留 to。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "建议与责任强度",
+        "初中至六级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_negation_modality_s1_0033",
+      "zh": "不妨先问问主人是否愿意接受帮忙。",
+      "en": "You could ask the host whether help would be welcome.",
+      "answers": [
+        "You could ask the host whether help would be welcome."
+      ],
+      "notes": "could 表建议，不是过去能力。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "建议与责任强度",
+        "初中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_negation_modality_s1_0034",
+      "zh": "在公开批评之前，你应该先核实引文。",
+      "en": "You should verify the quotation before criticising it publicly.",
+      "answers": [
+        "You should verify the quotation before criticising it publicly."
+      ],
+      "notes": "should 表建议义务，强度通常低于 must。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "建议与责任强度",
+        "初中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_negation_modality_s1_0035",
+      "zh": "我宁愿现在说明误会，也不愿拖到聚会以后。",
+      "en": "I would rather explain the misunderstanding now than after the gathering.",
+      "answers": [
+        "I would rather explain the misunderstanding now than after the gathering."
+      ],
+      "notes": "would rather 后接原形，与 rather than 的结构区分。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "建议与责任强度",
+        "初中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_negation_modality_s1_0036",
+      "zh": "你最好不要把鞋放在门口的通道里。",
+      "en": "You had better not leave shoes in the doorway.",
+      "answers": [
+        "You had better not leave shoes in the doorway."
+      ],
+      "notes": "had better not + 原形，not 放在 better 后。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "建议与责任强度",
+        "初中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_negation_modality_s1_0037",
+      "zh": "如果餐厅已经知道过敏情况，就应该明确标注这份餐点。",
+      "en": "If the restaurant knows about the allergy, it should label the meal clearly.",
+      "answers": [
+        "If the restaurant knows about the allergy, it should label the meal clearly."
+      ],
+      "notes": "should 表基于责任的建议，而非结果必然发生。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "建议与责任强度",
+        "初中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_negation_modality_s1_0038",
+      "zh": "我们或许可以把发言顺序交给参加者抽签决定。",
+      "en": "We might let participants draw lots for the speaking order.",
+      "answers": [
+        "We might let participants draw lots for the speaking order."
+      ],
+      "notes": "might 作试探性建议，保留协商空间。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "建议与责任强度",
+        "初中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_negation_modality_s1_0039",
+      "zh": "我宁愿你先征得她同意。",
+      "en": "I would rather you asked for her consent first.",
+      "answers": [
+        "I would rather you asked for her consent first."
+      ],
+      "notes": "would rather + 主语 + 过去式，表示希望他人现在或将来做。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "建议与责任强度",
+        "初中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_negation_modality_s1_0040",
+      "zh": "你没有义务接受所有人的意见。",
+      "en": "You are under no obligation to accept everyone's advice.",
+      "answers": [
+        "You are under no obligation to accept everyone's advice."
+      ],
+      "notes": "under no obligation to：没有义务；advice 不可数。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "建议与责任强度",
+        "初中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_negation_modality_s1_0041",
+      "zh": "餐厅可能换过厨师，因为菜的风格很不一样。",
+      "en": "The restaurant may have a different chef, as the food has changed markedly.",
+      "answers": [
+        "The restaurant may have a different chef, as the food has changed markedly."
+      ],
+      "notes": "may 表可能；have 在此是实义动词，并非完成结构。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "可能与推断",
+        "初中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_negation_modality_s1_0042",
+      "zh": "这不可能是我们的账单，我们没有点鱼。",
+      "en": "This cannot be our bill; we ordered no fish.",
+      "answers": [
+        "This cannot be our bill; we ordered no fish.",
+        "This can't be our bill; we ordered no fish."
+      ],
+      "notes": "cannot be 表基于证据的不可能判断。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "可能与推断",
+        "初中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_negation_modality_s1_0043",
+      "zh": "那一定是婚礼队伍，我认出了新娘。",
+      "en": "That must be the wedding party; I recognise the bride.",
+      "answers": [
+        "That must be the wedding party; I recognise the bride."
+      ],
+      "notes": "must be 表推断，不是义务。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "可能与推断",
+        "初中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_negation_modality_s1_0044",
+      "zh": "在这个海湾，潮水可能涨得很快。",
+      "en": "The tide can rise quickly in this bay.",
+      "answers": [
+        "The tide can rise quickly in this bay."
+      ],
+      "notes": "can 表客观可能性或一般特征，不特指某次推测。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "可能与推断",
+        "初中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_negation_modality_s1_0045",
+      "zh": "他们也许还在赶来的路上。",
+      "en": "They might still be on their way.",
+      "answers": [
+        "They might still be on their way."
+      ],
+      "notes": "might 表较弱推测；on their way：在途中。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "可能与推断",
+        "初中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_negation_modality_s1_0046",
+      "zh": "看台上很安静，但比赛不一定结束了。",
+      "en": "The stands are quiet, but the match need not be over.",
+      "answers": [
+        "The stands are quiet, but the match need not be over.",
+        "The stands are quiet, but the match needn't be over."
+      ],
+      "notes": "need not be 表不必然，不是没有义务结束。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "可能与推断",
+        "初中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_negation_modality_s1_0047",
+      "zh": "没有回应可能只是说明手机不在身边。",
+      "en": "A lack of response may simply mean the phone is out of reach.",
+      "answers": [
+        "A lack of response may simply mean the phone is out of reach."
+      ],
+      "notes": "may mean 表可能解释，非断言。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "可能与推断",
+        "初中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_negation_modality_s1_0048",
+      "zh": "他应该已经知道地点了，因为邀请函写得很清楚。",
+      "en": "He should know the location, since the invitation is clear.",
+      "answers": [
+        "He should know the location, since the invitation is clear."
+      ],
+      "notes": "should 表合理预期，不是要求知道。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "可能与推断",
+        "初中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_negation_modality_s1_0049",
+      "zh": "这可能是正确的门，也可能只是员工入口。",
+      "en": "This could be the right door or merely a staff entrance.",
+      "answers": [
+        "This could be the right door or merely a staff entrance."
+      ],
+      "notes": "could 表可能，or 提供另一解释。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "可能与推断",
+        "初中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_negation_modality_s1_0050",
+      "zh": "只凭这张照片，我们不能确定是谁到场了。",
+      "en": "We cannot determine who attended from this photograph alone.",
+      "answers": [
+        "We cannot determine who attended from this photograph alone.",
+        "We can't determine who attended from this photograph alone."
+      ],
+      "notes": "cannot 表证据不足导致无法判断，不是禁止判断。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "可能与推断",
+        "初中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_negation_modality_s1_0051",
+      "zh": "很少有餐厅在清晨供应这道菜。",
+      "en": "Few restaurants serve this dish at dawn.",
+      "answers": [
+        "Few restaurants serve this dish at dawn."
+      ],
+      "notes": "few 带近乎否定的数量含义。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "弱否定与逻辑重点",
+        "初中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_negation_modality_s1_0052",
+      "zh": "我们几乎听不见楼下的音乐。",
+      "en": "We can hardly hear the music downstairs.",
+      "answers": [
+        "We can hardly hear the music downstairs."
+      ],
+      "notes": "hardly 自带否定意味，不再加 not。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "弱否定与逻辑重点",
+        "初中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_negation_modality_s1_0053",
+      "zh": "这不是什么小小的不便，它会影响整段旅程。",
+      "en": "This is no minor inconvenience; it affects the entire journey.",
+      "answers": [
+        "This is no minor inconvenience; it affects the entire journey."
+      ],
+      "notes": "no + 名词短语强调否定程度，而非简单无此物。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "弱否定与逻辑重点",
+        "初中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_negation_modality_s1_0054",
+      "zh": "他几乎从不在没有看过菜单时点菜。",
+      "en": "He hardly ever orders without reading the menu.",
+      "answers": [
+        "He hardly ever orders without reading the menu."
+      ],
+      "notes": "hardly ever：几乎从不，不用 hardly never。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "弱否定与逻辑重点",
+        "初中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_negation_modality_s1_0055",
+      "zh": "只有会员能带一名客人，不是每个人都能带。",
+      "en": "Only members may bring a guest; the permission is not universal.",
+      "answers": [
+        "Only members may bring a guest; the permission is not universal.",
+        "Only members may bring a guest; the permission isn't universal."
+      ],
+      "notes": "only 限定主体，区别 members may only bring a guest。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "弱否定与逻辑重点",
+        "初中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_negation_modality_s1_0056",
+      "zh": "我只是借了那本书，没有拿走其他东西。",
+      "en": "I borrowed only the book and took nothing else.",
+      "answers": [
+        "I borrowed only the book and took nothing else."
+      ],
+      "notes": "only 紧邻 book 限定宾语范围。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "弱否定与逻辑重点",
+        "初中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_negation_modality_s1_0057",
+      "zh": "这个结果与失败相去甚远。",
+      "en": "The outcome is far from a failure.",
+      "answers": [
+        "The outcome is far from a failure."
+      ],
+      "notes": "far from + 名词表达强烈否定评价。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "弱否定与逻辑重点",
+        "初中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_negation_modality_s1_0058",
+      "zh": "我们既没有要求折扣，也没有要求特殊座位。",
+      "en": "We requested neither a discount nor special seating.",
+      "answers": [
+        "We requested neither a discount nor special seating."
+      ],
+      "notes": "neither ... nor ... 并列两个被否定对象。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "弱否定与逻辑重点",
+        "初中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_negation_modality_s1_0059",
+      "zh": "我不能不注意到这两份菜单的价格差异。",
+      "en": "I cannot help noticing the price difference between the menus.",
+      "answers": [
+        "I cannot help noticing the price difference between the menus.",
+        "I can't help noticing the price difference between the menus."
+      ],
+      "notes": "cannot help doing：不由得做，并非不能帮助。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "弱否定与逻辑重点",
+        "初中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_negation_modality_s1_0060",
+      "zh": "我并不是没有兴趣，只是不能承诺每周参加。",
+      "en": "I am not uninterested; I simply cannot commit to attending every week.",
+      "answers": [
+        "I am not uninterested; I simply cannot commit to attending every week.",
+        "I am not uninterested; I simply can't commit to attending every week."
+      ],
+      "notes": "not + 否定前缀词缓和否定；不能简单当作热情很高。",
+      "tags": [
+        "语法专项",
+        "否定与情态",
+        "弱否定与逻辑重点",
+        "初中至六级"
+      ],
+      "difficulty": 4
+    }
+  ]
+}

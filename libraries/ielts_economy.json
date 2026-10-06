@@ -1,0 +1,984 @@
+{
+  "schema_version": 1,
+  "id": "ielts_economy",
+  "title": "雅思·经济与公共投入 · 64 句",
+  "description": "价格、通胀、税收、公共投资、创新、收入财富、消费与政策评价中的论证练习。",
+  "language": "en-GB",
+  "tags": [
+    "IELTS",
+    "经济政策",
+    "逐题讲解"
+  ],
+  "items": [
+    {
+      "id": "ielts_economy_v3_0001",
+      "zh": "稀缺会推高价格，但价格也受到市场权力影响。",
+      "en": "Scarcity raises prices, but market power also shapes them.",
+      "answers": [
+        "Scarcity raises prices, but market power also shapes them."
+      ],
+      "notes": "scarcity：稀缺",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "价格与市场"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0002",
+      "zh": "当替代服务稀少时，消费者即使不满也可能被迫继续购买。",
+      "en": "Where alternative services are scarce, dissatisfied consumers may have little choice but to keep buying.",
+      "answers": [
+        "Where alternative services are scarce, dissatisfied consumers may have little choice but to keep buying."
+      ],
+      "notes": "have little choice but to：几乎别无选择，只能。",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "价格与市场"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_economy_v3_0003",
+      "zh": "低价竞争可能挤压企业改善工作条件的空间。",
+      "en": "Price competition can squeeze firms' capacity to improve working conditions.",
+      "answers": [
+        "Price competition can squeeze firms' capacity to improve working conditions."
+      ],
+      "notes": "squeeze：挤压",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "价格与市场"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0004",
+      "zh": "明确的比较信息有助于竞争，而复杂收费可能削弱它。",
+      "en": "Clear comparisons support competition, whereas complex charges can weaken it.",
+      "answers": [
+        "Clear comparisons support competition, whereas complex charges can weaken it."
+      ],
+      "notes": "whereas：对比",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "价格与市场"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0005",
+      "zh": "垄断企业可能缺乏改善售后服务的动力，因为顾客很难转向别家。",
+      "en": "A monopoly may have little incentive to improve after-sales service when customers cannot easily switch providers.",
+      "answers": [
+        "A monopoly may have little incentive to improve after-sales service when customers cannot easily switch providers.",
+        "A monopoly may have little incentive to improve after-sales service when customers can't easily switch providers."
+      ],
+      "notes": "incentive to：做某事的动力；when 引出市场条件。",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "价格与市场"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_economy_v3_0006",
+      "zh": "企业规模扩大可能降低成本，同时减少消费者的选择。",
+      "en": "Larger firms may cut costs while reducing consumer choice.",
+      "answers": [
+        "Larger firms may cut costs while reducing consumer choice."
+      ],
+      "notes": "while 在此表示两种效果同时存在。",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "价格与市场"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0007",
+      "zh": "市场进入门槛过高会阻碍新企业。",
+      "en": "High entry barriers can obstruct new businesses.",
+      "answers": [
+        "High entry barriers can obstruct new businesses."
+      ],
+      "notes": "entry barrier：进入门槛",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "价格与市场"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0008",
+      "zh": "价格上限若缺乏配套，可能改变供应意愿。",
+      "en": "Price ceilings without supporting measures may alter suppliers' incentives.",
+      "answers": [
+        "Price ceilings without supporting measures may alter suppliers' incentives."
+      ],
+      "notes": "price ceiling：价格上限",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "价格与市场"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0009",
+      "zh": "物价普遍上涨会压缩固定收入者的购买力。",
+      "en": "General price increases erode the purchasing power of fixed incomes.",
+      "answers": [
+        "General price increases erode the purchasing power of fixed incomes."
+      ],
+      "notes": "erode：侵蚀",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "通胀"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0010",
+      "zh": "由于支出结构不同，通胀对各个家庭的影响也不同。",
+      "en": "Inflation affects households differently because their spending patterns differ.",
+      "answers": [
+        "Inflation affects households differently because their spending patterns differ."
+      ],
+      "notes": "because 说明不同影响的原因。",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "通胀"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0011",
+      "zh": "食品涨价对低收入家庭的影响可能更大。",
+      "en": "Higher food prices may weigh more heavily on poorer households.",
+      "answers": [
+        "Higher food prices may weigh more heavily on poorer households."
+      ],
+      "notes": "weigh on：造成负担",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "通胀"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0012",
+      "zh": "工资上涨若落后于物价，实际收入仍可能下降。",
+      "en": "Real income can fall when wage growth trails price increases.",
+      "answers": [
+        "Real income can fall when wage growth trails price increases."
+      ],
+      "notes": "trail：落后于",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "通胀"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0013",
+      "zh": "短期价格波动不一定意味着长期通胀趋势改变。",
+      "en": "Short-lived price movements need not signal a lasting inflation shift.",
+      "answers": [
+        "Short-lived price movements need not signal a lasting inflation shift.",
+        "Short-lived price movements needn't signal a lasting inflation shift."
+      ],
+      "notes": "need not：未必",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "通胀"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0014",
+      "zh": "运输成本可以通过供应链传导到零售价格。",
+      "en": "Transport costs can feed through supply chains into retail prices.",
+      "answers": [
+        "Transport costs can feed through supply chains into retail prices."
+      ],
+      "notes": "feed through：传导",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "通胀"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0015",
+      "zh": "稳定预期是政策沟通的重要目标。",
+      "en": "Stable expectations are an important aim of policy communication.",
+      "answers": [
+        "Stable expectations are an important aim of policy communication."
+      ],
+      "notes": "expectation：预期",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "通胀"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0016",
+      "zh": "补贴可能减轻眼前压力，却也需要资金来源。",
+      "en": "Subsidies can ease immediate pressure but require funding.",
+      "answers": [
+        "Subsidies can ease immediate pressure but require funding."
+      ],
+      "notes": "subsidy：补贴",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "通胀"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0017",
+      "zh": "征税的实际负担未必由法律上缴税的一方承担。",
+      "en": "The legal taxpayer does not necessarily bear the economic burden.",
+      "answers": [
+        "The legal taxpayer does not necessarily bear the economic burden.",
+        "The legal taxpayer doesn't necessarily bear the economic burden."
+      ],
+      "notes": "bear：承担",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "税收"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0018",
+      "zh": "复杂的税制可能让小企业承担与其规模不成比例的合规成本。",
+      "en": "Complex taxes may impose disproportionate compliance costs on small firms.",
+      "answers": [
+        "Complex taxes may impose disproportionate compliance costs on small firms."
+      ],
+      "notes": "disproportionate：不成比例的；compliance costs：合规成本。",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "税收"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0019",
+      "zh": "税收优惠需要明确目标，而不是无限延续。",
+      "en": "Tax concessions need defined purposes rather than indefinite continuation.",
+      "answers": [
+        "Tax concessions need defined purposes rather than indefinite continuation."
+      ],
+      "notes": "concession：优惠",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "税收"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0020",
+      "zh": "降低税率并不保证投资随之增加。",
+      "en": "Lower tax rates do not guarantee additional investment.",
+      "answers": [
+        "Lower tax rates do not guarantee additional investment.",
+        "Lower tax rates don't guarantee additional investment."
+      ],
+      "notes": "guarantee：保证",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "税收"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0021",
+      "zh": "税基过窄会使收入更容易受到行业波动影响。",
+      "en": "A narrow tax base makes revenue vulnerable to sectoral fluctuations.",
+      "answers": [
+        "A narrow tax base makes revenue vulnerable to sectoral fluctuations."
+      ],
+      "notes": "tax base：税基",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "税收"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0022",
+      "zh": "可预测的规则有助于企业长期安排。",
+      "en": "Predictable tax rules help businesses plan over longer horizons.",
+      "answers": [
+        "Predictable tax rules help businesses plan over longer horizons."
+      ],
+      "notes": "predictable：可预期",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "税收"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0023",
+      "zh": "消费税可能对不同收入群体产生不同压力。",
+      "en": "Consumption taxes can place unequal pressure on different income groups.",
+      "answers": [
+        "Consumption taxes can place unequal pressure on different income groups."
+      ],
+      "notes": "consumption tax：消费税",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "税收"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0024",
+      "zh": "评价税制时也应考虑征收是否容易执行。",
+      "en": "A tax system should also be assessed for administrative feasibility.",
+      "answers": [
+        "A tax system should also be assessed for administrative feasibility."
+      ],
+      "notes": "feasibility：可行性",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "税收"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0025",
+      "zh": "基础设施的收益可能在建成多年后才出现。",
+      "en": "Infrastructure benefits may emerge years after construction ends.",
+      "answers": [
+        "Infrastructure benefits may emerge years after construction ends."
+      ],
+      "notes": "emerge：显现",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "公共投资"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0026",
+      "zh": "建设资金与日常维护资金应一并规划。",
+      "en": "Construction and maintenance funding should be planned together.",
+      "answers": [
+        "Construction and maintenance funding should be planned together."
+      ],
+      "notes": "maintenance：维护",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "公共投资"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0027",
+      "zh": "低成本项目不一定具有更高社会回报。",
+      "en": "Cheap projects do not necessarily offer greater social returns.",
+      "answers": [
+        "Cheap projects do not necessarily offer greater social returns.",
+        "Cheap projects don't necessarily offer greater social returns."
+      ],
+      "notes": "social return：社会回报",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "公共投资"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0028",
+      "zh": "增加支出只有转化为有效的服务才有价值。",
+      "en": "Higher spending matters only when it translates into effective services.",
+      "answers": [
+        "Higher spending matters only when it translates into effective services."
+      ],
+      "notes": "only when 限定支出产生价值的必要条件。",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "公共投资"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0029",
+      "zh": "项目评估需要考虑被放弃的其他选择。",
+      "en": "Project appraisal must consider the alternatives forgone.",
+      "answers": [
+        "Project appraisal must consider the alternatives forgone."
+      ],
+      "notes": "forgone：放弃的",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "公共投资"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0030",
+      "zh": "跨地区项目可能需要共同承担费用。",
+      "en": "Projects spanning regions may require shared financial responsibility.",
+      "answers": [
+        "Projects spanning regions may require shared financial responsibility."
+      ],
+      "notes": "spanning：跨越",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "公共投资"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0031",
+      "zh": "短期选举周期可能偏向容易展示的建设。",
+      "en": "Short electoral cycles may favour highly visible construction.",
+      "answers": [
+        "Short electoral cycles may favour highly visible construction."
+      ],
+      "notes": "favour：偏向",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "公共投资"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0032",
+      "zh": "借款可以分担跨代成本，但不能消除成本。",
+      "en": "Borrowing spreads costs across generations rather than removing them.",
+      "answers": [
+        "Borrowing spreads costs across generations rather than removing them."
+      ],
+      "notes": "rather than：区分",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "公共投资"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0033",
+      "zh": "初创企业需要试验空间，投资者也必须接受某些尝试会失败。",
+      "en": "Start-ups need room to experiment, and investors must accept that some attempts will fail.",
+      "answers": [
+        "Start-ups need room to experiment, and investors must accept that some attempts will fail."
+      ],
+      "notes": "accept that 引导必须接受的风险；room to experiment：试验空间。",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "企业与创新"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_economy_v3_0034",
+      "zh": "融资困难可能阻碍有价值的项目进入市场。",
+      "en": "Financing constraints can keep worthwhile projects out of the market.",
+      "answers": [
+        "Financing constraints can keep worthwhile projects out of the market."
+      ],
+      "notes": "constraint：约束",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "企业与创新"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0035",
+      "zh": "专利保护的期限涉及激励与知识传播的权衡。",
+      "en": "Patent duration balances incentives against the diffusion of knowledge.",
+      "answers": [
+        "Patent duration balances incentives against the diffusion of knowledge."
+      ],
+      "notes": "diffusion：传播",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "企业与创新"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0036",
+      "zh": "企业补贴应接受定期成效审查，而不应自动变成永久保护。",
+      "en": "Business subsidies should undergo regular outcome reviews rather than automatically become permanent protection.",
+      "answers": [
+        "Business subsidies should undergo regular outcome reviews rather than automatically become permanent protection."
+      ],
+      "notes": "undergo a review：接受审查；rather than 比较两种政策走向。",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "企业与创新"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_economy_v3_0037",
+      "zh": "倒闭不总意味着企业没有创造过价值。",
+      "en": "Failure does not erase the value a firm previously created.",
+      "answers": [
+        "Failure does not erase the value a firm previously created.",
+        "Failure doesn't erase the value a firm previously created."
+      ],
+      "notes": "erase：抹去",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "企业与创新"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0038",
+      "zh": "研发投入的回报通常存在不确定性。",
+      "en": "Returns on research investment are often uncertain.",
+      "answers": [
+        "Returns on research investment are often uncertain."
+      ],
+      "notes": "return：回报",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "企业与创新"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0039",
+      "zh": "收购小企业可能加快其产品推广，同时削弱市场竞争。",
+      "en": "Acquiring small firms can accelerate the rollout of their products while weakening market competition.",
+      "answers": [
+        "Acquiring small firms can accelerate the rollout of their products while weakening market competition."
+      ],
+      "notes": "acquire：收购；rollout：推广。",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "企业与创新"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_economy_v3_0040",
+      "zh": "生产率改善需要技术与组织方式共同适应。",
+      "en": "Productivity gains require technology and organisation to adapt together.",
+      "answers": [
+        "Productivity gains require technology and organisation to adapt together."
+      ],
+      "notes": "adapt：适应",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "企业与创新"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0041",
+      "zh": "收入反映一段时间的流入，财富反映资产积累。",
+      "en": "Income measures a flow; wealth reflects accumulated assets.",
+      "answers": [
+        "Income measures a flow; wealth reflects accumulated assets."
+      ],
+      "notes": "flow：流量",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "收入与财富"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0042",
+      "zh": "资产价格上涨可能扩大已拥有资产者的优势。",
+      "en": "Rising asset prices can widen owners' advantages.",
+      "answers": [
+        "Rising asset prices can widen owners' advantages."
+      ],
+      "notes": "asset：资产",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "收入与财富"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0043",
+      "zh": "较高平均收入可能与严重不平等同时存在。",
+      "en": "High average income can coexist with substantial inequality.",
+      "answers": [
+        "High average income can coexist with substantial inequality."
+      ],
+      "notes": "coexist with：并存",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "收入与财富"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0044",
+      "zh": "机会平等并不自动带来结果相同。",
+      "en": "Equal opportunity does not automatically produce equal outcomes.",
+      "answers": [
+        "Equal opportunity does not automatically produce equal outcomes.",
+        "Equal opportunity doesn't automatically produce equal outcomes."
+      ],
+      "notes": "outcome：结果",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "收入与财富"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0045",
+      "zh": "收入波动本身也会增加生活安排的困难。",
+      "en": "Income volatility itself complicates household planning.",
+      "answers": [
+        "Income volatility itself complicates household planning."
+      ],
+      "notes": "volatility：波动性",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "收入与财富"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0046",
+      "zh": "贫困衡量应考虑当地生活成本。",
+      "en": "Poverty measures need to reflect local living costs.",
+      "answers": [
+        "Poverty measures need to reflect local living costs."
+      ],
+      "notes": "reflect：反映",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "收入与财富"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0047",
+      "zh": "财富传承可能影响下一代承担风险的能力。",
+      "en": "Inherited wealth can affect the next generation's capacity to take risks.",
+      "answers": [
+        "Inherited wealth can affect the next generation's capacity to take risks."
+      ],
+      "notes": "inherited：继承的",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "收入与财富"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0048",
+      "zh": "分配政策需要关注收入之外的服务获取。",
+      "en": "Distribution policy should consider service access as well as earnings.",
+      "answers": [
+        "Distribution policy should consider service access as well as earnings."
+      ],
+      "notes": "as well as",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "收入与财富"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0049",
+      "zh": "消费增加可能刺激生产，也可能增加进口。",
+      "en": "Rising consumption can stimulate production or increase imports.",
+      "answers": [
+        "Rising consumption can stimulate production or increase imports."
+      ],
+      "notes": "stimulate：刺激",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "消费与增长"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0050",
+      "zh": "经济增长不能单独说明生活质量。",
+      "en": "Economic growth alone cannot describe quality of life.",
+      "answers": [
+        "Economic growth alone cannot describe quality of life.",
+        "Economic growth alone can't describe quality of life."
+      ],
+      "notes": "alone：单独",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "消费与增长"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0051",
+      "zh": "修理与共享会改变需求，而非完全取消经济活动。",
+      "en": "Repair and sharing reshape demand without eliminating economic activity.",
+      "answers": [
+        "Repair and sharing reshape demand without eliminating economic activity."
+      ],
+      "notes": "reshape：改变结构",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "消费与增长"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0052",
+      "zh": "过度依赖单一行业会增加经济脆弱性。",
+      "en": "Dependence on one industry increases economic vulnerability.",
+      "answers": [
+        "Dependence on one industry increases economic vulnerability."
+      ],
+      "notes": "vulnerability：脆弱性",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "消费与增长"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0053",
+      "zh": "家庭负债扩张可能暂时支撑消费。",
+      "en": "Rising household debt may support consumption temporarily.",
+      "answers": [
+        "Rising household debt may support consumption temporarily."
+      ],
+      "notes": "temporarily：暂时",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "消费与增长"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0054",
+      "zh": "企业信心会影响是否扩大产能。",
+      "en": "Business confidence influences decisions to expand capacity.",
+      "answers": [
+        "Business confidence influences decisions to expand capacity."
+      ],
+      "notes": "capacity：产能",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "消费与增长"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0055",
+      "zh": "出口收入上升不一定惠及所有地区。",
+      "en": "Higher export earnings need not benefit every region.",
+      "answers": [
+        "Higher export earnings need not benefit every region.",
+        "Higher export earnings needn't benefit every region."
+      ],
+      "notes": "need not：未必",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "消费与增长"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0056",
+      "zh": "长期繁荣需要考虑资源与环境约束。",
+      "en": "Lasting prosperity must account for resource and environmental limits.",
+      "answers": [
+        "Lasting prosperity must account for resource and environmental limits."
+      ],
+      "notes": "prosperity：繁荣",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "消费与增长"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0057",
+      "zh": "政策效果应与合理的对照情境比较。",
+      "en": "Policy effects need comparison with a credible alternative scenario.",
+      "answers": [
+        "Policy effects need comparison with a credible alternative scenario."
+      ],
+      "notes": "credible：可信",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "评价政策"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0058",
+      "zh": "补助申请者不一定代表全部潜在受益者。",
+      "en": "Grant applicants may not represent all potential beneficiaries.",
+      "answers": [
+        "Grant applicants may not represent all potential beneficiaries."
+      ],
+      "notes": "beneficiary：受益者",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "评价政策"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0059",
+      "zh": "平均效果可能掩盖少数群体的损失。",
+      "en": "Average effects can conceal losses for particular groups.",
+      "answers": [
+        "Average effects can conceal losses for particular groups."
+      ],
+      "notes": "conceal：掩盖",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "评价政策"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0060",
+      "zh": "政策宣布和实际执行之间可能存在间隔。",
+      "en": "Policy announcements may precede implementation by a substantial interval.",
+      "answers": [
+        "Policy announcements may precede implementation by a substantial interval."
+      ],
+      "notes": "precede：先于",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "评价政策"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0061",
+      "zh": "政策评估若只统计成功领取补助的人，就可能遗漏被繁琐手续挡在门外的申请者。",
+      "en": "Evaluations limited to successful grant recipients may overlook applicants deterred by complex procedures.",
+      "answers": [
+        "Evaluations limited to successful grant recipients may overlook applicants deterred by complex procedures."
+      ],
+      "notes": "limited to 与 deterred by 两个过去分词短语限定不同群体。",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "评价政策"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_economy_v3_0062",
+      "zh": "衡量就业不能只统计岗位数量。",
+      "en": "Employment assessment requires more than a job count.",
+      "answers": [
+        "Employment assessment requires more than a job count."
+      ],
+      "notes": "more than",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "评价政策"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0063",
+      "zh": "企业利润和社会收益不能完全等同。",
+      "en": "Business profit and social benefit are not interchangeable.",
+      "answers": [
+        "Business profit and social benefit are not interchangeable.",
+        "Business profit and social benefit aren't interchangeable."
+      ],
+      "notes": "interchangeable：可互换",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "评价政策"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_economy_v3_0064",
+      "zh": "经济政策的取舍应向公众解释清楚。",
+      "en": "Economic policy trade-offs should be explained openly.",
+      "answers": [
+        "Economic policy trade-offs should be explained openly."
+      ],
+      "notes": "trade-off：取舍",
+      "tags": [
+        "IELTS",
+        "经济政策",
+        "评价政策"
+      ],
+      "difficulty": 3
+    }
+  ]
+}

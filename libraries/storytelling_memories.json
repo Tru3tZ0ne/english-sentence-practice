@@ -1,0 +1,1421 @@
+{
+  "schema_version": 1,
+  "id": "storytelling_memories",
+  "title": "经历叙述与回忆 · 100 句",
+  "description": "故事背景、动作顺序、意外、误会、努力、童年、人物、反思与结尾。",
+  "language": "en-GB",
+  "tags": [
+    "叙事表达",
+    "逐题讲解"
+  ],
+  "items": [
+    {
+      "id": "storytelling_memories_v3_0001",
+      "zh": "事情发生在一个普通的周二。",
+      "en": "It happened on an ordinary Tuesday.",
+      "answers": [
+        "It happened on an ordinary Tuesday."
+      ],
+      "notes": "ordinary：普通",
+      "tags": [
+        "叙事表达",
+        "故事开端"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0002",
+      "zh": "我那时刚搬到附近。",
+      "en": "I had only just moved nearby.",
+      "answers": [
+        "I had only just moved nearby."
+      ],
+      "notes": "过去完成时",
+      "tags": [
+        "叙事表达",
+        "故事开端"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "storytelling_memories_v3_0003",
+      "zh": "一开始我没觉得有什么异常。",
+      "en": "At first, nothing seemed unusual.",
+      "answers": [
+        "At first, nothing seemed unusual."
+      ],
+      "notes": "at first：最初",
+      "tags": [
+        "叙事表达",
+        "故事开端"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0004",
+      "zh": "我们原本只打算待一小时。",
+      "en": "We had intended to stay for an hour.",
+      "answers": [
+        "We had intended to stay for an hour."
+      ],
+      "notes": "had intended",
+      "tags": [
+        "叙事表达",
+        "故事开端"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "storytelling_memories_v3_0005",
+      "zh": "那是我第一次独自出远门。",
+      "en": "It was my first long journey alone.",
+      "answers": [
+        "It was my first long journey alone."
+      ],
+      "notes": "alone：独自",
+      "tags": [
+        "叙事表达",
+        "故事开端"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0006",
+      "zh": "我当时不知道这件事会持续多久。",
+      "en": "I did not know how long it would last.",
+      "answers": [
+        "I did not know how long it would last.",
+        "I didn't know how long it would last."
+      ],
+      "notes": "would：过去将来",
+      "tags": [
+        "叙事表达",
+        "故事开端"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "storytelling_memories_v3_0007",
+      "zh": "这段回忆从一个电话开始。",
+      "en": "The memory begins with a phone call.",
+      "answers": [
+        "The memory begins with a phone call."
+      ],
+      "notes": "begin with",
+      "tags": [
+        "叙事表达",
+        "故事开端"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0008",
+      "zh": "我还记得房间里的气味。",
+      "en": "I still remember the smell of the room.",
+      "answers": [
+        "I still remember the smell of the room."
+      ],
+      "notes": "remember：记得",
+      "tags": [
+        "叙事表达",
+        "故事开端"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0009",
+      "zh": "我们认识时都很紧张。",
+      "en": "We were both nervous when we met.",
+      "answers": [
+        "We were both nervous when we met."
+      ],
+      "notes": "when 从句",
+      "tags": [
+        "叙事表达",
+        "故事开端"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0010",
+      "zh": "我差点没有接受邀请。",
+      "en": "I nearly declined the invitation.",
+      "answers": [
+        "I nearly declined the invitation."
+      ],
+      "notes": "nearly：差一点",
+      "tags": [
+        "叙事表达",
+        "故事开端"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0011",
+      "zh": "雨已经下了一整夜。",
+      "en": "It had been raining all night.",
+      "answers": [
+        "It had been raining all night."
+      ],
+      "notes": "过去完成进行时",
+      "tags": [
+        "叙事表达",
+        "背景"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "storytelling_memories_v3_0012",
+      "zh": "街上比平时安静。",
+      "en": "The street was quieter than usual.",
+      "answers": [
+        "The street was quieter than usual."
+      ],
+      "notes": "than usual：比平时",
+      "tags": [
+        "叙事表达",
+        "背景"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0013",
+      "zh": "那时候我每天坐同一班车。",
+      "en": "I took the same bus every day then.",
+      "answers": [
+        "I took the same bus every day then."
+      ],
+      "notes": "习惯性过去",
+      "tags": [
+        "叙事表达",
+        "背景"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0014",
+      "zh": "屋子很小，但光线充足。",
+      "en": "The room was small but bright.",
+      "answers": [
+        "The room was small but bright."
+      ],
+      "notes": "but：转折",
+      "tags": [
+        "叙事表达",
+        "背景"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0015",
+      "zh": "我们手头没有地图。",
+      "en": "We had no map with us.",
+      "answers": [
+        "We had no map with us."
+      ],
+      "notes": "with us：随身",
+      "tags": [
+        "叙事表达",
+        "背景"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0016",
+      "zh": "我已经连续工作了好几天。",
+      "en": "I had been working for several days.",
+      "answers": [
+        "I had been working for several days."
+      ],
+      "notes": "持续时间",
+      "tags": [
+        "叙事表达",
+        "背景"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "storytelling_memories_v3_0017",
+      "zh": "墙上挂着一只慢钟。",
+      "en": "A slow clock hung on the wall.",
+      "answers": [
+        "A slow clock hung on the wall."
+      ],
+      "notes": "hung：挂着",
+      "tags": [
+        "叙事表达",
+        "背景"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0018",
+      "zh": "门外的人没有说话。",
+      "en": "The person outside said nothing.",
+      "answers": [
+        "The person outside said nothing."
+      ],
+      "notes": "nothing：没有内容",
+      "tags": [
+        "叙事表达",
+        "背景"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0019",
+      "zh": "大家似乎都知道计划，只有我不知道。",
+      "en": "Everyone seemed to know the plan except me.",
+      "answers": [
+        "Everyone seemed to know the plan except me."
+      ],
+      "notes": "except：除了",
+      "tags": [
+        "叙事表达",
+        "背景"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0020",
+      "zh": "我当时对那座城市完全陌生。",
+      "en": "The city was entirely new to me.",
+      "answers": [
+        "The city was entirely new to me."
+      ],
+      "notes": "new to：陌生",
+      "tags": [
+        "叙事表达",
+        "背景"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0021",
+      "zh": "我先敲门，然后等了一会儿。",
+      "en": "I knocked, then waited a moment.",
+      "answers": [
+        "I knocked, then waited a moment."
+      ],
+      "notes": "then：然后",
+      "tags": [
+        "叙事表达",
+        "动作顺序"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0022",
+      "zh": "刚坐下，灯就灭了。",
+      "en": "I had just sat down when the lights went out.",
+      "answers": [
+        "I had just sat down when the lights went out."
+      ],
+      "notes": "had just ... when",
+      "tags": [
+        "叙事表达",
+        "动作顺序"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "storytelling_memories_v3_0023",
+      "zh": "我回头时，他已经离开了。",
+      "en": "When I turned round, he had gone.",
+      "answers": [
+        "When I turned round, he had gone."
+      ],
+      "notes": "过去完成时",
+      "tags": [
+        "叙事表达",
+        "动作顺序"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "storytelling_memories_v3_0024",
+      "zh": "她递来纸条，什么也没解释。",
+      "en": "She handed me a note without explaining.",
+      "answers": [
+        "She handed me a note without explaining."
+      ],
+      "notes": "without doing",
+      "tags": [
+        "叙事表达",
+        "动作顺序"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0025",
+      "zh": "我们走了几步才发现少了一人。",
+      "en": "We walked a little before noticing someone was missing.",
+      "answers": [
+        "We walked a little before noticing someone was missing."
+      ],
+      "notes": "before doing",
+      "tags": [
+        "叙事表达",
+        "动作顺序"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0026",
+      "zh": "直到走到门口，我才发现自己拿错了钥匙。",
+      "en": "Only when I reached the door did I realise I had brought the wrong key.",
+      "answers": [
+        "Only when I reached the door did I realise I had brought the wrong key."
+      ],
+      "notes": "only + 时间从句置于句首，主句部分倒装；had brought 表示更早的动作。",
+      "tags": [
+        "叙事表达",
+        "动作顺序"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "storytelling_memories_v3_0027",
+      "zh": "车停稳以后，我们才下车。",
+      "en": "We waited until the vehicle had come to a complete stop before getting out.",
+      "answers": [
+        "We waited until the vehicle had come to a complete stop before getting out."
+      ],
+      "notes": "come to a complete stop：完全停稳；get out：下车。",
+      "tags": [
+        "叙事表达",
+        "动作顺序"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "storytelling_memories_v3_0028",
+      "zh": "他把东西放下，又回了房间。",
+      "en": "He put it down and returned to the room.",
+      "answers": [
+        "He put it down and returned to the room."
+      ],
+      "notes": "and：动作相继",
+      "tags": [
+        "叙事表达",
+        "动作顺序"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0029",
+      "zh": "我读完信后又读了一遍。",
+      "en": "After finishing the letter, I read it again.",
+      "answers": [
+        "After finishing the letter, I read it again."
+      ],
+      "notes": "after doing",
+      "tags": [
+        "叙事表达",
+        "动作顺序"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0030",
+      "zh": "谈话被突然响起的电话打断。",
+      "en": "A ringing phone interrupted the conversation.",
+      "answers": [
+        "A ringing phone interrupted the conversation."
+      ],
+      "notes": "interrupt：打断",
+      "tags": [
+        "叙事表达",
+        "动作顺序"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0031",
+      "zh": "包比我记得的重得多。",
+      "en": "The bag was much heavier than I remembered.",
+      "answers": [
+        "The bag was much heavier than I remembered."
+      ],
+      "notes": "much 修饰比较级",
+      "tags": [
+        "叙事表达",
+        "意外"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0032",
+      "zh": "我们等的人竟然早到了。",
+      "en": "The person we were waiting for had arrived early.",
+      "answers": [
+        "The person we were waiting for had arrived early."
+      ],
+      "notes": "定语从句",
+      "tags": [
+        "叙事表达",
+        "意外"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "storytelling_memories_v3_0033",
+      "zh": "我没想到他还认得我。",
+      "en": "I had not expected him to recognise me.",
+      "answers": [
+        "I had not expected him to recognise me.",
+        "I hadn't expected him to recognise me."
+      ],
+      "notes": "expect sb to do",
+      "tags": [
+        "叙事表达",
+        "意外"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "storytelling_memories_v3_0034",
+      "zh": "地图上的小路已经消失了。",
+      "en": "The path on the map no longer existed.",
+      "answers": [
+        "The path on the map no longer existed."
+      ],
+      "notes": "no longer",
+      "tags": [
+        "叙事表达",
+        "意外"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0035",
+      "zh": "原来声音来自楼下。",
+      "en": "The sound turned out to come from downstairs.",
+      "answers": [
+        "The sound turned out to come from downstairs."
+      ],
+      "notes": "turn out：原来",
+      "tags": [
+        "叙事表达",
+        "意外"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0036",
+      "zh": "盒子里不是我们订的东西。",
+      "en": "The box did not contain what we ordered.",
+      "answers": [
+        "The box did not contain what we ordered.",
+        "The box didn't contain what we ordered."
+      ],
+      "notes": "what 从句",
+      "tags": [
+        "叙事表达",
+        "意外"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "storytelling_memories_v3_0037",
+      "zh": "偏偏那天我忘了充电。",
+      "en": "That was the day I forgot to charge it.",
+      "answers": [
+        "That was the day I forgot to charge it."
+      ],
+      "notes": "定语从句",
+      "tags": [
+        "叙事表达",
+        "意外"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0038",
+      "zh": "我们同时想到了同一个办法。",
+      "en": "The same idea occurred to both of us.",
+      "answers": [
+        "The same idea occurred to both of us."
+      ],
+      "notes": "occur to：想到",
+      "tags": [
+        "叙事表达",
+        "意外"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0039",
+      "zh": "最难的部分比预想的容易。",
+      "en": "The hardest part was easier than anticipated.",
+      "answers": [
+        "The hardest part was easier than anticipated."
+      ],
+      "notes": "anticipated：预想",
+      "tags": [
+        "叙事表达",
+        "意外"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0040",
+      "zh": "我后来才知道她也在附近。",
+      "en": "I only learned later that she was nearby too.",
+      "answers": [
+        "I only learned later that she was nearby too."
+      ],
+      "notes": "later：后来",
+      "tags": [
+        "叙事表达",
+        "意外"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "storytelling_memories_v3_0041",
+      "zh": "我以为会议被取消了。",
+      "en": "I assumed the meeting had been cancelled.",
+      "answers": [
+        "I assumed the meeting had been cancelled."
+      ],
+      "notes": "assume：以为",
+      "tags": [
+        "叙事表达",
+        "误会"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "storytelling_memories_v3_0042",
+      "zh": "他说的是周四，不是周二。",
+      "en": "He meant Thursday, not Tuesday.",
+      "answers": [
+        "He meant Thursday, not Tuesday."
+      ],
+      "notes": "mean：指的是",
+      "tags": [
+        "叙事表达",
+        "误会"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0043",
+      "zh": "我们各自以为对方带了票。",
+      "en": "Each of us thought the other had the tickets.",
+      "answers": [
+        "Each of us thought the other had the tickets."
+      ],
+      "notes": "each of us",
+      "tags": [
+        "叙事表达",
+        "误会"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "storytelling_memories_v3_0044",
+      "zh": "笑声让我误以为大家在嘲笑我。",
+      "en": "The laughter made me think they were mocking me.",
+      "answers": [
+        "The laughter made me think they were mocking me."
+      ],
+      "notes": "mock：嘲笑",
+      "tags": [
+        "叙事表达",
+        "误会"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "storytelling_memories_v3_0045",
+      "zh": "那个手势其实是在指路。",
+      "en": "The gesture was actually giving directions.",
+      "answers": [
+        "The gesture was actually giving directions."
+      ],
+      "notes": "actually：其实",
+      "tags": [
+        "叙事表达",
+        "误会"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "storytelling_memories_v3_0046",
+      "zh": "我把他的沉默理解为拒绝。",
+      "en": "I took his silence as a refusal.",
+      "answers": [
+        "I took his silence as a refusal."
+      ],
+      "notes": "take A as B",
+      "tags": [
+        "叙事表达",
+        "误会"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "storytelling_memories_v3_0047",
+      "zh": "名字相同造成了混淆。",
+      "en": "The identical names caused confusion.",
+      "answers": [
+        "The identical names caused confusion."
+      ],
+      "notes": "identical：相同",
+      "tags": [
+        "叙事表达",
+        "误会"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "storytelling_memories_v3_0048",
+      "zh": "照片拍摄日期被看错了。",
+      "en": "The photograph's date was misread.",
+      "answers": [
+        "The photograph's date was misread."
+      ],
+      "notes": "misread：看错",
+      "tags": [
+        "叙事表达",
+        "误会"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "storytelling_memories_v3_0049",
+      "zh": "解释清楚后，气氛轻松了。",
+      "en": "The mood relaxed once it was explained.",
+      "answers": [
+        "The mood relaxed once it was explained."
+      ],
+      "notes": "once：一旦",
+      "tags": [
+        "叙事表达",
+        "误会"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "storytelling_memories_v3_0050",
+      "zh": "我们后来常拿这件事开玩笑。",
+      "en": "We often joked about it afterwards.",
+      "answers": [
+        "We often joked about it afterwards."
+      ],
+      "notes": "joke about",
+      "tags": [
+        "叙事表达",
+        "误会"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "storytelling_memories_v3_0051",
+      "zh": "第一次尝试时，我们几乎没有取得进展。",
+      "en": "We made little progress on our first attempt.",
+      "answers": [
+        "We made little progress on our first attempt."
+      ],
+      "notes": "make progress：取得进展；little 表示几乎没有。",
+      "tags": [
+        "叙事表达",
+        "努力与结果"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0052",
+      "zh": "我想放弃，但又试了一次。",
+      "en": "I nearly gave up but tried again.",
+      "answers": [
+        "I nearly gave up but tried again."
+      ],
+      "notes": "give up：放弃",
+      "tags": [
+        "叙事表达",
+        "努力与结果"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0053",
+      "zh": "我们改变了顺序，终于奏效。",
+      "en": "Changing the order finally worked.",
+      "answers": [
+        "Changing the order finally worked."
+      ],
+      "notes": "动名词主语",
+      "tags": [
+        "叙事表达",
+        "努力与结果"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0054",
+      "zh": "小小的帮助让事情继续下去。",
+      "en": "A little help kept things moving.",
+      "answers": [
+        "A little help kept things moving."
+      ],
+      "notes": "keep sth doing",
+      "tags": [
+        "叙事表达",
+        "努力与结果"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0055",
+      "zh": "结果并不完美，却足够使用。",
+      "en": "The result was imperfect but usable.",
+      "answers": [
+        "The result was imperfect but usable."
+      ],
+      "notes": "usable：可用",
+      "tags": [
+        "叙事表达",
+        "努力与结果"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0056",
+      "zh": "我们花的时间比计划多一倍。",
+      "en": "We took twice as long as planned.",
+      "answers": [
+        "We took twice as long as planned."
+      ],
+      "notes": "twice as ... as",
+      "tags": [
+        "叙事表达",
+        "努力与结果"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0057",
+      "zh": "那次失败让我认真做准备。",
+      "en": "That failure taught me to prepare properly.",
+      "answers": [
+        "That failure taught me to prepare properly."
+      ],
+      "notes": "teach sb to do",
+      "tags": [
+        "叙事表达",
+        "努力与结果"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0058",
+      "zh": "成功时没有人欢呼，大家只松了口气。",
+      "en": "Nobody cheered; we simply felt relieved.",
+      "answers": [
+        "Nobody cheered; we simply felt relieved."
+      ],
+      "notes": "relieved：松口气",
+      "tags": [
+        "叙事表达",
+        "努力与结果"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0059",
+      "zh": "我很庆幸自己没有太早下结论。",
+      "en": "I was glad I had not drawn a conclusion too soon.",
+      "answers": [
+        "I was glad I had not drawn a conclusion too soon.",
+        "I was glad I hadn't drawn a conclusion too soon."
+      ],
+      "notes": "draw a conclusion：得出结论；过去完成时表示此前行为。",
+      "tags": [
+        "叙事表达",
+        "努力与结果"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "storytelling_memories_v3_0060",
+      "zh": "最后完成的人看起来反而最满意。",
+      "en": "The last person to finish seemed the most satisfied.",
+      "answers": [
+        "The last person to finish seemed the most satisfied."
+      ],
+      "notes": "seem：看起来；satisfied：满意。",
+      "tags": [
+        "叙事表达",
+        "努力与结果"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0061",
+      "zh": "小时候我常在那棵树下看书。",
+      "en": "As a child, I often read under that tree.",
+      "answers": [
+        "As a child, I often read under that tree."
+      ],
+      "notes": "as a child",
+      "tags": [
+        "叙事表达",
+        "童年与习惯"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0062",
+      "zh": "祖父总把工具擦干净再收。",
+      "en": "Grandad always cleaned his tools before storing them.",
+      "answers": [
+        "Grandad always cleaned his tools before storing them."
+      ],
+      "notes": "before doing",
+      "tags": [
+        "叙事表达",
+        "童年与习惯"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0063",
+      "zh": "那时街上几乎没有汽车。",
+      "en": "There were hardly any cars then.",
+      "answers": [
+        "There were hardly any cars then."
+      ],
+      "notes": "hardly any",
+      "tags": [
+        "叙事表达",
+        "童年与习惯"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0064",
+      "zh": "放学后我们会在门口等。",
+      "en": "We would wait outside after school.",
+      "answers": [
+        "We would wait outside after school."
+      ],
+      "notes": "would 表过去习惯",
+      "tags": [
+        "叙事表达",
+        "童年与习惯"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0065",
+      "zh": "我以前害怕在人前说话。",
+      "en": "I used to fear speaking in public.",
+      "answers": [
+        "I used to fear speaking in public."
+      ],
+      "notes": "used to：过去常常",
+      "tags": [
+        "叙事表达",
+        "童年与习惯"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0066",
+      "zh": "我们搬家后习惯也变了。",
+      "en": "Our routines changed after we moved.",
+      "answers": [
+        "Our routines changed after we moved."
+      ],
+      "notes": "routine：习惯",
+      "tags": [
+        "叙事表达",
+        "童年与习惯"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0067",
+      "zh": "我仍能想起第一次学骑车。",
+      "en": "I can still recall learning to ride.",
+      "answers": [
+        "I can still recall learning to ride."
+      ],
+      "notes": "recall doing",
+      "tags": [
+        "叙事表达",
+        "童年与习惯"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0068",
+      "zh": "旧玩具唤起了许多细节。",
+      "en": "The old toy brought back many details.",
+      "answers": [
+        "The old toy brought back many details."
+      ],
+      "notes": "bring back：唤起",
+      "tags": [
+        "叙事表达",
+        "童年与习惯"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "storytelling_memories_v3_0069",
+      "zh": "那家店早已不在了。",
+      "en": "That shop has long since disappeared.",
+      "answers": [
+        "That shop has long since disappeared."
+      ],
+      "notes": "long since：早已",
+      "tags": [
+        "叙事表达",
+        "童年与习惯"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0070",
+      "zh": "小时候觉得漫长的那段路，现在走起来很短。",
+      "en": "The walk that felt endless in childhood now seems short.",
+      "answers": [
+        "The walk that felt endless in childhood now seems short."
+      ],
+      "notes": "定语从句对比童年和现在的感受。",
+      "tags": [
+        "叙事表达",
+        "童年与习惯"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "storytelling_memories_v3_0071",
+      "zh": "她总是先听完再回答。",
+      "en": "She always listened before answering.",
+      "answers": [
+        "She always listened before answering."
+      ],
+      "notes": "before doing",
+      "tags": [
+        "叙事表达",
+        "人物印象"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0072",
+      "zh": "他看起来严肃，其实很幽默。",
+      "en": "He looked stern but was very humorous.",
+      "answers": [
+        "He looked stern but was very humorous."
+      ],
+      "notes": "stern：严肃",
+      "tags": [
+        "叙事表达",
+        "人物印象"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0073",
+      "zh": "我记得的是她的耐心。",
+      "en": "What I remember is her patience.",
+      "answers": [
+        "What I remember is her patience."
+      ],
+      "notes": "what 主语从句",
+      "tags": [
+        "叙事表达",
+        "人物印象"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "storytelling_memories_v3_0074",
+      "zh": "他从不因为小失误责备人。",
+      "en": "He never blamed people for minor mistakes.",
+      "answers": [
+        "He never blamed people for minor mistakes."
+      ],
+      "notes": "blame for",
+      "tags": [
+        "叙事表达",
+        "人物印象"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0075",
+      "zh": "她说得不多，却很有分量。",
+      "en": "She spoke little, but her words carried weight.",
+      "answers": [
+        "She spoke little, but her words carried weight."
+      ],
+      "notes": "carry weight：有分量",
+      "tags": [
+        "叙事表达",
+        "人物印象"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0076",
+      "zh": "他的声音在嘈杂中仍听得见。",
+      "en": "His voice carried through the noise.",
+      "answers": [
+        "His voice carried through the noise."
+      ],
+      "notes": "carry：传远",
+      "tags": [
+        "叙事表达",
+        "人物印象"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0077",
+      "zh": "她对陌生人也很周到。",
+      "en": "She was considerate even towards strangers.",
+      "answers": [
+        "She was considerate even towards strangers."
+      ],
+      "notes": "considerate：周到",
+      "tags": [
+        "叙事表达",
+        "人物印象"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0078",
+      "zh": "他没有夸大自己的作用。",
+      "en": "He did not exaggerate his role.",
+      "answers": [
+        "He did not exaggerate his role.",
+        "He didn't exaggerate his role."
+      ],
+      "notes": "exaggerate：夸大",
+      "tags": [
+        "叙事表达",
+        "人物印象"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0079",
+      "zh": "这次相遇改变了我的第一印象。",
+      "en": "The encounter changed my first impression.",
+      "answers": [
+        "The encounter changed my first impression."
+      ],
+      "notes": "encounter：相遇",
+      "tags": [
+        "叙事表达",
+        "人物印象"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0080",
+      "zh": "我后来才理解那句忠告。",
+      "en": "I understood that advice only later.",
+      "answers": [
+        "I understood that advice only later."
+      ],
+      "notes": "only later",
+      "tags": [
+        "叙事表达",
+        "人物印象"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0081",
+      "zh": "现在回想，我本可以先问清楚。",
+      "en": "Looking back, I could have asked first.",
+      "answers": [
+        "Looking back, I could have asked first."
+      ],
+      "notes": "could have done",
+      "tags": [
+        "叙事表达",
+        "反思"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "storytelling_memories_v3_0082",
+      "zh": "我把运气误当成了准备充分。",
+      "en": "I mistook luck for good preparation.",
+      "answers": [
+        "I mistook luck for good preparation."
+      ],
+      "notes": "mistake A for B",
+      "tags": [
+        "叙事表达",
+        "反思"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "storytelling_memories_v3_0083",
+      "zh": "那一刻我只看到了困难。",
+      "en": "At that moment, I saw only the difficulty.",
+      "answers": [
+        "At that moment, I saw only the difficulty."
+      ],
+      "notes": "at that moment",
+      "tags": [
+        "叙事表达",
+        "反思"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "storytelling_memories_v3_0084",
+      "zh": "事情没有按计划发展，但我仍从中学到了东西。",
+      "en": "Things did not go to plan, but I still learned from them.",
+      "answers": [
+        "Things did not go to plan, but I still learned from them.",
+        "Things didn't go to plan, but I still learned from them."
+      ],
+      "notes": "go to plan：按计划进行。",
+      "tags": [
+        "叙事表达",
+        "反思"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "storytelling_memories_v3_0085",
+      "zh": "我不再认为求助是弱点。",
+      "en": "I no longer see asking for help as weakness.",
+      "answers": [
+        "I no longer see asking for help as weakness."
+      ],
+      "notes": "see A as B",
+      "tags": [
+        "叙事表达",
+        "反思"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "storytelling_memories_v3_0086",
+      "zh": "我们最初忽略了最简单的解释。",
+      "en": "We initially overlooked the simplest explanation.",
+      "answers": [
+        "We initially overlooked the simplest explanation."
+      ],
+      "notes": "overlook：忽略",
+      "tags": [
+        "叙事表达",
+        "反思"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "storytelling_memories_v3_0087",
+      "zh": "这段经历让我更愿意倾听。",
+      "en": "The experience made me more willing to listen.",
+      "answers": [
+        "The experience made me more willing to listen."
+      ],
+      "notes": "willing：愿意",
+      "tags": [
+        "叙事表达",
+        "反思"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "storytelling_memories_v3_0088",
+      "zh": "并不是每个问题都需要立即解决。",
+      "en": "Not every problem requires an immediate solution.",
+      "answers": [
+        "Not every problem requires an immediate solution."
+      ],
+      "notes": "部分否定",
+      "tags": [
+        "叙事表达",
+        "反思"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "storytelling_memories_v3_0089",
+      "zh": "我后来学会给别人留时间。",
+      "en": "I later learned to give people time.",
+      "answers": [
+        "I later learned to give people time."
+      ],
+      "notes": "learn to",
+      "tags": [
+        "叙事表达",
+        "反思"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "storytelling_memories_v3_0090",
+      "zh": "那件事的重要性是慢慢显现的。",
+      "en": "Its significance became clear gradually.",
+      "answers": [
+        "Its significance became clear gradually."
+      ],
+      "notes": "significance：重要性",
+      "tags": [
+        "叙事表达",
+        "反思"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "storytelling_memories_v3_0091",
+      "zh": "我们一直聊到天黑。",
+      "en": "We talked until it grew dark.",
+      "answers": [
+        "We talked until it grew dark."
+      ],
+      "notes": "until：直到",
+      "tags": [
+        "叙事表达",
+        "结束与转述"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0092",
+      "zh": "最后留下的是一个简单的建议。",
+      "en": "What remained was a simple suggestion.",
+      "answers": [
+        "What remained was a simple suggestion."
+      ],
+      "notes": "what 主语从句",
+      "tags": [
+        "叙事表达",
+        "结束与转述"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "storytelling_memories_v3_0093",
+      "zh": "那次之后我们再也没见面。",
+      "en": "We never met again after that.",
+      "answers": [
+        "We never met again after that."
+      ],
+      "notes": "after that",
+      "tags": [
+        "叙事表达",
+        "结束与转述"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0094",
+      "zh": "故事还有我不知道的部分。",
+      "en": "There are parts of the story I do not know.",
+      "answers": [
+        "There are parts of the story I do not know.",
+        "There are parts of the story I don't know."
+      ],
+      "notes": "定语从句",
+      "tags": [
+        "叙事表达",
+        "结束与转述"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0095",
+      "zh": "我只能讲述自己看到的。",
+      "en": "I can only describe what I witnessed.",
+      "answers": [
+        "I can only describe what I witnessed."
+      ],
+      "notes": "witness：目睹",
+      "tags": [
+        "叙事表达",
+        "结束与转述"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0096",
+      "zh": "细节可能与她记得的不同。",
+      "en": "The details may differ from her recollection.",
+      "answers": [
+        "The details may differ from her recollection."
+      ],
+      "notes": "recollection：回忆",
+      "tags": [
+        "叙事表达",
+        "结束与转述"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0097",
+      "zh": "我不确定事情发生的确切年份。",
+      "en": "I am unsure of the exact year.",
+      "answers": [
+        "I am unsure of the exact year."
+      ],
+      "notes": "exact：确切",
+      "tags": [
+        "叙事表达",
+        "结束与转述"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0098",
+      "zh": "这不是故事的全部。",
+      "en": "This is not the whole story.",
+      "answers": [
+        "This is not the whole story.",
+        "This isn't the whole story."
+      ],
+      "notes": "whole：全部",
+      "tags": [
+        "叙事表达",
+        "结束与转述"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0099",
+      "zh": "当时不起眼的决定产生了长远影响。",
+      "en": "A seemingly minor decision had lasting effects.",
+      "answers": [
+        "A seemingly minor decision had lasting effects."
+      ],
+      "notes": "lasting：长远",
+      "tags": [
+        "叙事表达",
+        "结束与转述"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "storytelling_memories_v3_0100",
+      "zh": "我至今仍记得离开时的轻松。",
+      "en": "I still remember the relief when I left.",
+      "answers": [
+        "I still remember the relief when I left."
+      ],
+      "notes": "relief：轻松",
+      "tags": [
+        "叙事表达",
+        "结束与转述"
+      ],
+      "difficulty": 2
+    }
+  ]
+}

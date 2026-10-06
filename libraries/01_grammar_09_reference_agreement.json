@@ -1,0 +1,981 @@
+{
+  "schema_version": 1,
+  "id": "grammar_reference_agreement",
+  "title": "语法 · 指代与一致｜代词和主语中心 · 60 句",
+  "description": "主宾格、物主、反身与相互、替代指代、不定代词、主谓一致及就近判断。",
+  "language": "en-GB",
+  "tags": [
+    "语法专项",
+    "指代与一致",
+    "初中至高中"
+  ],
+  "items": [
+    {
+      "id": "grammar_reference_agreement_s1_0001",
+      "zh": "这份邀请是给我和我哥哥的。",
+      "en": "The invitation is for my brother and me.",
+      "answers": [
+        "The invitation is for my brother and me."
+      ],
+      "notes": "介词 for 后用宾格 me，不是 I。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "人称与格",
+        "初中至高中"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0002",
+      "zh": "是她而不是我提出了这个时间。",
+      "en": "She, rather than I, suggested this time.",
+      "answers": [
+        "She, rather than I, suggested this time."
+      ],
+      "notes": "主语位置用 she 和 I；rather than 短语不改变句子主语。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "人称与格",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0003",
+      "zh": "请把多出来的座位留给他们。",
+      "en": "Please save the extra seats for them.",
+      "answers": [
+        "Please save the extra seats for them."
+      ],
+      "notes": "for 后接宾格 them，不能用 they。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "人称与格",
+        "初中至高中"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0004",
+      "zh": "我和他对音乐的喜好不一样。",
+      "en": "He and I have different tastes in music.",
+      "answers": [
+        "He and I have different tastes in music."
+      ],
+      "notes": "并列主语用主格；两人作主语用 have。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "人称与格",
+        "初中至高中"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0005",
+      "zh": "除了她以外，我们都尝过这种水果。",
+      "en": "All of us except her have tasted this fruit.",
+      "answers": [
+        "All of us except her have tasted this fruit."
+      ],
+      "notes": "except 在此为介词，后接 her。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "人称与格",
+        "初中至高中"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0006",
+      "zh": "在你我之间，这只是一个猜测。",
+      "en": "Between you and me, this is only a guess.",
+      "answers": [
+        "Between you and me, this is only a guess."
+      ],
+      "notes": "between 为介词，固定用 you and me。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "人称与格",
+        "初中至高中"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0007",
+      "zh": "老师让她和我负责接待。",
+      "en": "The teacher put her and me in charge of reception.",
+      "answers": [
+        "The teacher put her and me in charge of reception."
+      ],
+      "notes": "动词 put 的宾语用 her 和 me。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "人称与格",
+        "初中至高中"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0008",
+      "zh": "我认为他们比我们准备得充分。",
+      "en": "I think they are better prepared than we are.",
+      "answers": [
+        "I think they are better prepared than we are."
+      ],
+      "notes": "比较从句保留谓语 are 时，主语用 we。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "人称与格",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0009",
+      "zh": "给孩子讲故事的是我们，不是邻居。",
+      "en": "We are the ones telling the children stories, not the neighbours.",
+      "answers": [
+        "We are the ones telling the children stories, not the neighbours."
+      ],
+      "notes": "we 作主语；the ones 指承担行为的人。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "人称与格",
+        "初中至高中"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0010",
+      "zh": "这件事关系到他，也关系到我们。",
+      "en": "This concerns him as well as us.",
+      "answers": [
+        "This concerns him as well as us."
+      ],
+      "notes": "concern 为及物动词，两个对象均用宾格。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "人称与格",
+        "初中至高中"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0011",
+      "zh": "我的茶已经凉了，你的还冒着热气。",
+      "en": "My tea is cold, but yours is still steaming.",
+      "answers": [
+        "My tea is cold, but yours is still steaming."
+      ],
+      "notes": "my 后接名词；yours 独立替代 your tea。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "物主与所属",
+        "初中至高中"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0012",
+      "zh": "她借走了我的伞，因为她自己的伞坏了。",
+      "en": "She borrowed my umbrella because hers was broken.",
+      "answers": [
+        "She borrowed my umbrella because hers was broken."
+      ],
+      "notes": "hers 为物主代词，不能再接 umbrella。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "物主与所属",
+        "初中至高中"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0013",
+      "zh": "这条围巾不是我们的，是那位歌手的。",
+      "en": "The scarf is not ours; it belongs to the singer.",
+      "answers": [
+        "The scarf is not ours; it belongs to the singer.",
+        "The scarf isn't ours; it belongs to the singer."
+      ],
+      "notes": "ours 独立作表语；belong to 表所属。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "物主与所属",
+        "初中至高中"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0014",
+      "zh": "他们的花园比我们的长，但更窄。",
+      "en": "Their garden is longer than ours but narrower.",
+      "answers": [
+        "Their garden is longer than ours but narrower."
+      ],
+      "notes": "their 为物主限定词，ours 替代 our garden。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "物主与所属",
+        "初中至高中"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0015",
+      "zh": "我们都带了自己的水瓶。",
+      "en": "We all brought our own water bottles.",
+      "answers": [
+        "We all brought our own water bottles."
+      ],
+      "notes": "our own 回指 we，强调每人带自己的物品。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "物主与所属",
+        "初中至高中"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0016",
+      "zh": "这家餐馆以它自己的面包闻名。",
+      "en": "The restaurant is known for its own bread.",
+      "answers": [
+        "The restaurant is known for its own bread."
+      ],
+      "notes": "its 为物主限定词，不写 it's。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "物主与所属",
+        "初中至高中"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0017",
+      "zh": "我父母的房间在楼上。",
+      "en": "My parents' room is upstairs.",
+      "answers": [
+        "My parents' room is upstairs."
+      ],
+      "notes": "复数 parents 已有 s，所有格只加撇号。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "物主与所属",
+        "初中至高中"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0018",
+      "zh": "孩子们的外套都挂在门边。",
+      "en": "The children's coats are hanging by the door.",
+      "answers": [
+        "The children's coats are hanging by the door."
+      ],
+      "notes": "children 为不规则复数，所有格用 children's。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "物主与所属",
+        "初中至高中"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0019",
+      "zh": "这是我姐姐的一位老朋友送的礼物。",
+      "en": "This is a gift from an old friend of my sister's.",
+      "answers": [
+        "This is a gift from an old friend of my sister's."
+      ],
+      "notes": "a friend of someone's 为双重所有格。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "物主与所属",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0020",
+      "zh": "一小时的步行让我们都饿了。",
+      "en": "An hour's walk made us hungry.",
+      "answers": [
+        "An hour's walk made us hungry."
+      ],
+      "notes": "时间名词可用 's 表度量修饰。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "物主与所属",
+        "初中至高中"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0021",
+      "zh": "我不是让你替我道歉，我会自己道歉。",
+      "en": "I am not asking you to apologise for me; I will do it myself.",
+      "answers": [
+        "I am not asking you to apologise for me; I will do it myself."
+      ],
+      "notes": "myself 强调本人执行，不代替主格 I。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "反身与相互",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0022",
+      "zh": "她在镜子里看着自己，试着露出儿时照片中的笑容。",
+      "en": "She looked at herself in the mirror and tried to copy her childhood smile.",
+      "answers": [
+        "She looked at herself in the mirror and tried to copy her childhood smile."
+      ],
+      "notes": "herself 作 at 的宾语，回指主语 she。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "反身与相互",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0023",
+      "zh": "请随意取用桌上的水果。",
+      "en": "Please help yourself to the fruit on the table.",
+      "answers": [
+        "Please help yourself to the fruit on the table."
+      ],
+      "notes": "help yourself to：请自取食物。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "反身与相互",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0024",
+      "zh": "我们不必把所有责任都揽到自己身上。",
+      "en": "We need not take all the responsibility on ourselves.",
+      "answers": [
+        "We need not take all the responsibility on ourselves.",
+        "We needn't take all the responsibility on ourselves."
+      ],
+      "notes": "ourselves 回指主语 we，不是其他人。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "反身与相互",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0025",
+      "zh": "两位选手比赛结束后互相祝贺。",
+      "en": "The two players congratulated each other after the match.",
+      "answers": [
+        "The two players congratulated each other after the match."
+      ],
+      "notes": "each other 表双方相互，不是 each themselves。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "反身与相互",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0026",
+      "zh": "他对自己说，再试一次就停。",
+      "en": "He told himself to try once more and then stop.",
+      "answers": [
+        "He told himself to try once more and then stop."
+      ],
+      "notes": "tell oneself：对自己说，主宾为同一人。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "反身与相互",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0027",
+      "zh": "我独自去看了那场演出。",
+      "en": "I went to the performance by myself.",
+      "answers": [
+        "I went to the performance by myself."
+      ],
+      "notes": "by myself：独自，与 myself 的强调功能区分。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "反身与相互",
+        "初中至高中"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0028",
+      "zh": "这些照片本身并不能解释争议。",
+      "en": "The photographs themselves do not explain the dispute.",
+      "answers": [
+        "The photographs themselves do not explain the dispute.",
+        "The photographs themselves don't explain the dispute."
+      ],
+      "notes": "themselves 为强调同位成分，去掉不影响句子骨架。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "反身与相互",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0029",
+      "zh": "我们为自己争取到了讨论的机会。",
+      "en": "We secured ourselves a chance to discuss the issue.",
+      "answers": [
+        "We secured ourselves a chance to discuss the issue."
+      ],
+      "notes": "ourselves 为受益者，与主语相同。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "反身与相互",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0030",
+      "zh": "两只猫在门口互相闻了闻。",
+      "en": "The two cats sniffed each other at the door.",
+      "answers": [
+        "The two cats sniffed each other at the door."
+      ],
+      "notes": "each other 表相互行为，不是各闻自己。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "反身与相互",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0031",
+      "zh": "我不想要带花纹的杯子，素色的就好。",
+      "en": "I do not want the patterned cup; a plain one will do.",
+      "answers": [
+        "I do not want the patterned cup; a plain one will do.",
+        "I don't want the patterned cup; a plain one will do."
+      ],
+      "notes": "one 替代可数单数 cup，避免重复。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "one与that的替代",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0032",
+      "zh": "红色的苹果比绿色的更软。",
+      "en": "The red apples are softer than the green ones.",
+      "answers": [
+        "The red apples are softer than the green ones."
+      ],
+      "notes": "ones 替代可数复数 apples。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "one与that的替代",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0033",
+      "zh": "这家店的价格比车站那家的低。",
+      "en": "The prices here are lower than those at the station shop.",
+      "answers": [
+        "The prices here are lower than those at the station shop."
+      ],
+      "notes": "those 替代 prices，保持比较对象同类。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "one与that的替代",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0034",
+      "zh": "今年的降雨量高于去年的。",
+      "en": "This year's rainfall exceeds that of last year.",
+      "answers": [
+        "This year's rainfall exceeds that of last year."
+      ],
+      "notes": "that 替代不可数 rainfall，不用 one。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "one与that的替代",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0035",
+      "zh": "请用深一点的碗，浅的装不下这份汤。",
+      "en": "Use a deeper bowl; the shallow one cannot hold this much soup.",
+      "answers": [
+        "Use a deeper bowl; the shallow one cannot hold this much soup.",
+        "Use a deeper bowl; the shallow one can't hold this much soup."
+      ],
+      "notes": "the shallow one 替代已知的浅碗；one 指可数单数。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "one与that的替代",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0036",
+      "zh": "我更喜欢这位作家的早期作品。",
+      "en": "I prefer this writer's earlier works to the later ones.",
+      "answers": [
+        "I prefer this writer's earlier works to the later ones."
+      ],
+      "notes": "ones 替代 works，保留 later 的对比。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "one与that的替代",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0037",
+      "zh": "现场录音的质量不如录音室版本。",
+      "en": "The quality of the live recording is below that of the studio version.",
+      "answers": [
+        "The quality of the live recording is below that of the studio version."
+      ],
+      "notes": "that 替代 quality，避免把质量与版本本身比较。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "one与that的替代",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0038",
+      "zh": "这些路线中，有没有适合儿童的？",
+      "en": "Are any of these routes suitable for children?",
+      "answers": [
+        "Are any of these routes suitable for children?"
+      ],
+      "notes": "any 独立指其中若干，不必重复 routes。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "one与that的替代",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0039",
+      "zh": "一辆车给游客使用，另一辆留给工作人员。",
+      "en": "One vehicle is for visitors; the other is for staff.",
+      "answers": [
+        "One vehicle is for visitors; the other is for staff."
+      ],
+      "notes": "明确两辆时用 one ... the other。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "one与that的替代",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0040",
+      "zh": "有些照片模糊了，其他的仍可以使用。",
+      "en": "Some photographs are blurred; the others are still usable.",
+      "answers": [
+        "Some photographs are blurred; the others are still usable."
+      ],
+      "notes": "the others 指已知集合中其余全部。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "one与that的替代",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0041",
+      "zh": "谁都可以提出意见，但每个人都需要说明理由。",
+      "en": "Anyone may comment, but everyone needs to give a reason.",
+      "answers": [
+        "Anyone may comment, but everyone needs to give a reason."
+      ],
+      "notes": "everyone 单数，谓语用 needs。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "不定指代与数量一致",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0042",
+      "zh": "每位乘客都能调节自己的阅读灯。",
+      "en": "Each passenger can adjust their reading light.",
+      "answers": [
+        "Each passenger can adjust their reading light."
+      ],
+      "notes": "each passenger 为单数；性别未知的个人可用 their 回指。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "不定指代与数量一致",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0043",
+      "zh": "没有人知道自己的名字会被先叫到。",
+      "en": "Nobody knows whose name will be called first.",
+      "answers": [
+        "Nobody knows whose name will be called first."
+      ],
+      "notes": "nobody 作单数主语，knows 加 s。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "不定指代与数量一致",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0044",
+      "zh": "任何有疑问的人都可以来问我。",
+      "en": "Anyone with questions is welcome to ask me.",
+      "answers": [
+        "Anyone with questions is welcome to ask me."
+      ],
+      "notes": "with questions 不改变 anyone 的单数属性。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "不定指代与数量一致",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0045",
+      "zh": "两位见证人都在协议上签了名。",
+      "en": "Both witnesses have signed the agreement.",
+      "answers": [
+        "Both witnesses have signed the agreement."
+      ],
+      "notes": "both + 复数名词；助动词用 have 而不是 has。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "不定指代与数量一致",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0046",
+      "zh": "两条建议都没有解决座位不足的问题。",
+      "en": "Neither suggestion addresses the shortage of seats.",
+      "answers": [
+        "Neither suggestion addresses the shortage of seats."
+      ],
+      "notes": "neither + 单数名词，谓语 addresses。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "不定指代与数量一致",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0047",
+      "zh": "这份名单上的每个人都已获通知。",
+      "en": "Everyone on this list has been notified.",
+      "answers": [
+        "Everyone on this list has been notified."
+      ],
+      "notes": "介词短语不影响 everyone 的单数一致。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "不定指代与数量一致",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0048",
+      "zh": "有人把外套落在这里了，但我们不知道是谁。",
+      "en": "Someone has left a coat here, but we do not know who.",
+      "answers": [
+        "Someone has left a coat here, but we do not know who.",
+        "Someone has left a coat here, but we don't know who."
+      ],
+      "notes": "someone 单数，has；who 可省略可恢复的谓语。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "不定指代与数量一致",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0049",
+      "zh": "大多数面包已经切好了。",
+      "en": "Most of the bread is sliced.",
+      "answers": [
+        "Most of the bread is sliced."
+      ],
+      "notes": "most of 后 bread 不可数，所以用 is。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "不定指代与数量一致",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0050",
+      "zh": "大多数面包卷已经售出。",
+      "en": "Most of the rolls are sold.",
+      "answers": [
+        "Most of the rolls are sold."
+      ],
+      "notes": "most of 后 rolls 可数复数，所以用 are。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "不定指代与数量一致",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0051",
+      "zh": "茶杯的数量不影响我们需要多少张桌子。",
+      "en": "The number of cups does not determine how many tables we need.",
+      "answers": [
+        "The number of cups does not determine how many tables we need.",
+        "The number of cups doesn't determine how many tables we need."
+      ],
+      "notes": "the number of 主语中心 number 单数，does。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "主语中心与就近判断",
+        "初中至高中"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0052",
+      "zh": "有几位客人希望换到户外。",
+      "en": "A number of guests wish to move outside.",
+      "answers": [
+        "A number of guests wish to move outside."
+      ],
+      "notes": "a number of 意为一些，谓语随 guests 用复数。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "主语中心与就近判断",
+        "初中至高中"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0053",
+      "zh": "那篮苹果闻起来很香。",
+      "en": "The basket of apples smells sweet.",
+      "answers": [
+        "The basket of apples smells sweet."
+      ],
+      "notes": "主语中心 basket 单数，不随 apples 用 smell。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "主语中心与就近判断",
+        "初中至高中"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0054",
+      "zh": "每张椅子和每张桌子都需要贴标签。",
+      "en": "Every chair and every table needs a label.",
+      "answers": [
+        "Every chair and every table needs a label."
+      ],
+      "notes": "every ... and every ... 逐个看待，谓语用单数。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "主语中心与就近判断",
+        "初中至高中"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0055",
+      "zh": "不是主人，就是两位助手负责关门。",
+      "en": "Either the host or the two assistants are responsible for locking up.",
+      "answers": [
+        "Either the host or the two assistants are responsible for locking up."
+      ],
+      "notes": "either ... or ... 通常就近一致，assistants 对应 are。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "主语中心与就近判断",
+        "初中至高中"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0056",
+      "zh": "两位助手和主人一起负责登记。",
+      "en": "The two assistants, together with the host, handle registration.",
+      "answers": [
+        "The two assistants, together with the host, handle registration."
+      ],
+      "notes": "together with 不构成并列主语，handle 随 assistants。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "主语中心与就近判断",
+        "初中至高中"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0057",
+      "zh": "散步和游泳都是她喜欢的活动。",
+      "en": "Walking and swimming are activities she enjoys.",
+      "answers": [
+        "Walking and swimming are activities she enjoys."
+      ],
+      "notes": "两个不同活动作并列主语，谓语复数。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "主语中心与就近判断",
+        "初中至高中"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0058",
+      "zh": "坐在窗边对他来说很重要。",
+      "en": "Sitting beside a window matters to him.",
+      "answers": [
+        "Sitting beside a window matters to him."
+      ],
+      "notes": "动名词短语整体作单数主语，用 matters。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "主语中心与就近判断",
+        "初中至高中"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0059",
+      "zh": "每一份反馈，包括匿名意见，都有参考价值。",
+      "en": "Every response, including anonymous feedback, has value.",
+      "answers": [
+        "Every response, including anonymous feedback, has value."
+      ],
+      "notes": "including 短语不改变 every response 的单数。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "主语中心与就近判断",
+        "初中至高中"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_reference_agreement_s1_0060",
+      "zh": "离入口十米远对这位老人来说已经太远。",
+      "en": "Ten metres from the entrance is too far for this elderly visitor.",
+      "answers": [
+        "Ten metres from the entrance is too far for this elderly visitor."
+      ],
+      "notes": "距离作为一个整体概念，谓语用 is。",
+      "tags": [
+        "语法专项",
+        "指代与一致",
+        "主语中心与就近判断",
+        "初中至高中"
+      ],
+      "difficulty": 4
+    }
+  ]
+}

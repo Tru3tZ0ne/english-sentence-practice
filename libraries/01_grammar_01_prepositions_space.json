@@ -1,0 +1,975 @@
+{
+  "schema_version": 1,
+  "id": "grammar_prepositions_space",
+  "title": "语法 · 介词｜位置、路径与时间边界 · 60 句",
+  "description": "区分位置、接触、穿越、方向、起终点、时点与期限；重点是关系，不单列时态。",
+  "language": "en-GB",
+  "tags": [
+    "语法专项",
+    "介词",
+    "初中起步"
+  ],
+  "items": [
+    {
+      "id": "grammar_prepositions_space_s1_0001",
+      "zh": "说明书粘在盒盖内侧。",
+      "en": "The instructions are stuck to the inside of the lid.",
+      "answers": [
+        "The instructions are stuck to the inside of the lid."
+      ],
+      "notes": "to 表示附着对象；the inside of 表示内侧。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "位置与接触",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0002",
+      "zh": "接待台正对着电梯门。",
+      "en": "The reception desk is opposite the lift doors.",
+      "answers": [
+        "The reception desk is opposite the lift doors."
+      ],
+      "notes": "opposite 直接接位置对象，不必再加 to。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "位置与接触",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0003",
+      "zh": "桌布下面压着一张便条。",
+      "en": "A note is tucked beneath the tablecloth.",
+      "answers": [
+        "A note is tucked beneath the tablecloth."
+      ],
+      "notes": "beneath 表示在覆盖物下面；tuck：塞放。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "位置与接触",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0004",
+      "zh": "把标签贴在瓶身上，别贴在瓶盖上。",
+      "en": "Attach the label to the bottle, not to the cap.",
+      "answers": [
+        "Attach the label to the bottle, not to the cap."
+      ],
+      "notes": "attach A to B：把 A 附着到 B；两处 to 对照对象。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "位置与接触",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0005",
+      "zh": "天花板与柜顶之间留有一道缝。",
+      "en": "There is a gap between the ceiling and the top of the cupboard.",
+      "answers": [
+        "There is a gap between the ceiling and the top of the cupboard."
+      ],
+      "notes": "between A and B 描述两个明确边界之间。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "位置与接触",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0006",
+      "zh": "壁画占满了窗户上方的空间。",
+      "en": "The mural fills the space above the window.",
+      "answers": [
+        "The mural fills the space above the window."
+      ],
+      "notes": "above 表示位置较高，不要求接触表面。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "位置与接触",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0007",
+      "zh": "钥匙藏在门垫底下的一个信封里。",
+      "en": "The key is in an envelope under the doormat.",
+      "answers": [
+        "The key is in an envelope under the doormat."
+      ],
+      "notes": "in 表容器内部，under 表位置关系；两层介词修饰。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "位置与接触",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0008",
+      "zh": "第三条横杆靠在墙边，没有固定。",
+      "en": "The third rail is leaning against the wall, unsecured.",
+      "answers": [
+        "The third rail is leaning against the wall, unsecured."
+      ],
+      "notes": "against 表示倚靠接触；unsecured：未固定的。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "位置与接触",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0009",
+      "zh": "台阶旁边的扶手延伸到了入口处。",
+      "en": "The handrail beside the steps extends to the entrance.",
+      "answers": [
+        "The handrail beside the steps extends to the entrance."
+      ],
+      "notes": "beside：旁边；to 标明延伸终点。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "位置与接触",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0010",
+      "zh": "展品周围有一道低矮的围栏。",
+      "en": "A low barrier surrounds the exhibit.",
+      "answers": [
+        "A low barrier surrounds the exhibit."
+      ],
+      "notes": "surround 是及物动词，此处不再加 around。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "位置与接触",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0011",
+      "zh": "地下通道从广场下面穿过。",
+      "en": "The passage runs underneath the square.",
+      "answers": [
+        "The passage runs underneath the square."
+      ],
+      "notes": "underneath 描述路径在另一物体下方。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "穿越与路径",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0012",
+      "zh": "小船穿过桥洞后向左转。",
+      "en": "The boat turns left after passing through the arch.",
+      "answers": [
+        "The boat turns left after passing through the arch."
+      ],
+      "notes": "through 表穿过有边界的空间；after 后接动名词。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "穿越与路径",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0013",
+      "zh": "邮递员抄近路穿过了草坪。",
+      "en": "The postman took a shortcut across the lawn.",
+      "answers": [
+        "The postman took a shortcut across the lawn."
+      ],
+      "notes": "across 表从平面的一侧到另一侧。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "穿越与路径",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0014",
+      "zh": "电线沿着墙脚一直通到厨房。",
+      "en": "The cable runs along the base of the wall into the kitchen.",
+      "answers": [
+        "The cable runs along the base of the wall into the kitchen."
+      ],
+      "notes": "along 描述沿线方向；into 表进入房间。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "穿越与路径",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0015",
+      "zh": "我们绕开水坑走到了公交站。",
+      "en": "We walked around the puddle to the bus stop.",
+      "answers": [
+        "We walked around the puddle to the bus stop."
+      ],
+      "notes": "around 表绕行；to 表目的地。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "穿越与路径",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0016",
+      "zh": "从隧道里出来后，你会看到码头。",
+      "en": "You will see the pier when you come out of the tunnel.",
+      "answers": [
+        "You will see the pier when you come out of the tunnel."
+      ],
+      "notes": "out of 表从内部出来，不能只用 out 接名词。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "穿越与路径",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0017",
+      "zh": "孩子沿楼梯滑下了玩具车。",
+      "en": "The child sent the toy car down the stairs.",
+      "answers": [
+        "The child sent the toy car down the stairs."
+      ],
+      "notes": "down 描述向下的运动路径。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "穿越与路径",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0018",
+      "zh": "把托盘从窄门里侧着搬过去。",
+      "en": "Carry the tray sideways through the narrow doorway.",
+      "answers": [
+        "Carry the tray sideways through the narrow doorway."
+      ],
+      "notes": "through 用于门洞；sideways 是方式副词。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "穿越与路径",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0019",
+      "zh": "乌云从屋顶上空掠过。",
+      "en": "Dark clouds swept over the rooftops.",
+      "answers": [
+        "Dark clouds swept over the rooftops."
+      ],
+      "notes": "over 表经过上方；sweep：掠过。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "穿越与路径",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0020",
+      "zh": "这条路在农舍前经过，但不进入院子。",
+      "en": "The road goes past the farmhouse without entering the yard.",
+      "answers": [
+        "The road goes past the farmhouse without entering the yard."
+      ],
+      "notes": "past 表经过旁边；enter 为及物动词，不加 into。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "穿越与路径",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0021",
+      "zh": "那名跑步者正朝出口跑，但还没有到。",
+      "en": "The runner is heading towards the exit but has not reached it.",
+      "answers": [
+        "The runner is heading towards the exit but has not reached it.",
+        "The runner is heading towards the exit but hasn't reached it."
+      ],
+      "notes": "towards 仅表方向，reach 直接接终点。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "方向与终点",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0022",
+      "zh": "把椅子往后挪，离开暖气片。",
+      "en": "Move the chair back, away from the radiator.",
+      "answers": [
+        "Move the chair back, away from the radiator."
+      ],
+      "notes": "away from 表远离；back 为方向副词。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "方向与终点",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0023",
+      "zh": "硬币从我的口袋里掉进了排水沟。",
+      "en": "A coin fell from my pocket into the drain.",
+      "answers": [
+        "A coin fell from my pocket into the drain."
+      ],
+      "notes": "from 标来源；into 标进入的终点。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "方向与终点",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0024",
+      "zh": "镜头朝向观众，背对舞台。",
+      "en": "The camera faces the audience, away from the stage.",
+      "answers": [
+        "The camera faces the audience, away from the stage."
+      ],
+      "notes": "face 直接接对象；away from 表背离方向。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "方向与终点",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0025",
+      "zh": "从大门到温室有一条石子路。",
+      "en": "A gravel path leads from the gate to the greenhouse.",
+      "answers": [
+        "A gravel path leads from the gate to the greenhouse."
+      ],
+      "notes": "from ... to ... 描述起终点。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "方向与终点",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0026",
+      "zh": "最后几阶台阶通向一个小阁楼。",
+      "en": "The last few steps lead up to a small attic.",
+      "answers": [
+        "The last few steps lead up to a small attic."
+      ],
+      "notes": "up 表向上；to 表终点，两者各有作用。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "方向与终点",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0027",
+      "zh": "有些鸟顺着气流上升到山脊上方。",
+      "en": "Some birds rise on air currents above the ridge.",
+      "answers": [
+        "Some birds rise on air currents above the ridge."
+      ],
+      "notes": "on air currents 表借助气流；above 表最终高度关系。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "方向与终点",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0028",
+      "zh": "路标让车辆驶离主路，进入临时停车区。",
+      "en": "The signs direct vehicles off the main road into temporary parking.",
+      "answers": [
+        "The signs direct vehicles off the main road into temporary parking."
+      ],
+      "notes": "off 表离开原路线；into 表进入新区域。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "方向与终点",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0029",
+      "zh": "把绳子从箱子下面穿过去，再从另一侧拉出来。",
+      "en": "Pass the rope under the crate and pull it out on the other side.",
+      "answers": [
+        "Pass the rope under the crate and pull it out on the other side."
+      ],
+      "notes": "under 表路径；on the other side 表拉出的所在侧。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "方向与终点",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0030",
+      "zh": "球弹向篱笆，又反弹回我脚边。",
+      "en": "The ball bounced towards the fence and back to my feet.",
+      "answers": [
+        "The ball bounced towards the fence and back to my feet."
+      ],
+      "notes": "towards 不保证到达；back to 表返回终点。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "方向与终点",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0031",
+      "zh": "我们在日落时分收起了画架。",
+      "en": "We packed away the easels at sunset.",
+      "answers": [
+        "We packed away the easels at sunset."
+      ],
+      "notes": "at 接具体时点，如 sunset，而非 on sunset。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "时点与时段",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0032",
+      "zh": "检查安排在周五早晨。",
+      "en": "The inspection is scheduled for Friday morning.",
+      "answers": [
+        "The inspection is scheduled for Friday morning."
+      ],
+      "notes": "schedule for 指安排的时间；有具体星期的早晨可用 on。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "时点与时段",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0033",
+      "zh": "交谈中途，门铃响了。",
+      "en": "The doorbell rang in the middle of our conversation.",
+      "answers": [
+        "The doorbell rang in the middle of our conversation."
+      ],
+      "notes": "in the middle of 表一段活动的中间。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "时点与时段",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0034",
+      "zh": "这块地冬季不对外开放。",
+      "en": "The grounds are closed to visitors in winter.",
+      "answers": [
+        "The grounds are closed to visitors in winter."
+      ],
+      "notes": "in 接季节；closed to 表不对某类人开放。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "时点与时段",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0035",
+      "zh": "演出期间请不要使用闪光灯。",
+      "en": "Please avoid flash photography during the performance.",
+      "answers": [
+        "Please avoid flash photography during the performance."
+      ],
+      "notes": "during 后接事件名词，说明事件期间。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "时点与时段",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0036",
+      "zh": "两场演出之间有半小时休息。",
+      "en": "There is a half-hour break between the performances.",
+      "answers": [
+        "There is a half-hour break between the performances."
+      ],
+      "notes": "between 用于两个事件之间的间隔。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "时点与时段",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0037",
+      "zh": "我在午餐后不久接到了确认电话。",
+      "en": "The confirmation call came shortly after lunch.",
+      "answers": [
+        "The confirmation call came shortly after lunch."
+      ],
+      "notes": "after 表晚于；shortly 修饰时间间隔。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "时点与时段",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0038",
+      "zh": "这个街区一到夜里就很安静。",
+      "en": "The neighbourhood is quiet at night.",
+      "answers": [
+        "The neighbourhood is quiet at night."
+      ],
+      "notes": "at night 是泛指夜间的惯用表达。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "时点与时段",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0039",
+      "zh": "他们选在一个寒冷的早晨出发。",
+      "en": "They set off on a cold morning.",
+      "answers": [
+        "They set off on a cold morning."
+      ],
+      "notes": "具体描述的某个早晨用 on，而非泛指的 in the morning。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "时点与时段",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0040",
+      "zh": "请在访问之前告知我们人数。",
+      "en": "Please tell us the group size before your visit.",
+      "answers": [
+        "Please tell us the group size before your visit."
+      ],
+      "notes": "before 后接名词 visit，表示早于该事件。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "时点与时段",
+        "初中起步"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0041",
+      "zh": "借来的投影仪必须在中午之前送还。",
+      "en": "The borrowed projector must be returned by noon.",
+      "answers": [
+        "The borrowed projector must be returned by noon."
+      ],
+      "notes": "by 表不晚于某时；与一直持续到某时的 until 区分。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "期限与持续",
+        "初中起步"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0042",
+      "zh": "你可以把画留在这里直到展览结束。",
+      "en": "You may leave the painting here until the exhibition closes.",
+      "answers": [
+        "You may leave the painting here until the exhibition closes."
+      ],
+      "notes": "until 表持续终点，强调可留置的时段。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "期限与持续",
+        "初中起步"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0043",
+      "zh": "维修需要进行两天，这期间电梯无法使用。",
+      "en": "The lift will be unavailable for two days during the repairs.",
+      "answers": [
+        "The lift will be unavailable for two days during the repairs."
+      ],
+      "notes": "for 接持续长度；during 接事件。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "期限与持续",
+        "初中起步"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0044",
+      "zh": "请在收到邀请后的三天内回复。",
+      "en": "Please reply within three days of receiving the invitation.",
+      "answers": [
+        "Please reply within three days of receiving the invitation."
+      ],
+      "notes": "within 表不超过时间界限；of 标起算事件。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "期限与持续",
+        "初中起步"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0045",
+      "zh": "在开门前十分钟到达就足够了。",
+      "en": "Arriving ten minutes before the doors open is sufficient.",
+      "answers": [
+        "Arriving ten minutes before the doors open is sufficient."
+      ],
+      "notes": "时间量放 before 前，表示提前多少。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "期限与持续",
+        "初中起步"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0046",
+      "zh": "超时之后，每多停一小时都会收费。",
+      "en": "Beyond the time limit, a charge applies for each additional hour.",
+      "answers": [
+        "Beyond the time limit, a charge applies for each additional hour."
+      ],
+      "notes": "beyond 表超过界限；for each 表按单位收费。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "期限与持续",
+        "初中起步"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0047",
+      "zh": "我会隔一天检查一次邮箱。",
+      "en": "I will check the mailbox every other day.",
+      "answers": [
+        "I will check the mailbox every other day."
+      ],
+      "notes": "every other day 表每隔一天，前面不加 in 或 on。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "期限与持续",
+        "初中起步"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0048",
+      "zh": "报名可在三月一日至十五日期间办理。",
+      "en": "Registration is open from 1 to 15 March.",
+      "answers": [
+        "Registration is open from 1 to 15 March."
+      ],
+      "notes": "from ... to ... 表范围；to 不等于截止含义的 by。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "期限与持续",
+        "初中起步"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0049",
+      "zh": "活动将在半小时后开始，所以现在还有准备时间。",
+      "en": "The activity starts in half an hour, leaving time to prepare.",
+      "answers": [
+        "The activity starts in half an hour, leaving time to prepare."
+      ],
+      "notes": "in + 时长表示从现在起多久以后，而非持续多久。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "期限与持续",
+        "初中起步"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0050",
+      "zh": "整个假期里，花园一直有人照料。",
+      "en": "The garden receives care throughout the holiday.",
+      "answers": [
+        "The garden receives care throughout the holiday."
+      ],
+      "notes": "throughout 强调覆盖整个期间。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "期限与持续",
+        "初中起步"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0051",
+      "zh": "这个地址在免费配送范围之外。",
+      "en": "The address lies outside the free delivery zone.",
+      "answers": [
+        "The address lies outside the free delivery zone."
+      ],
+      "notes": "outside 表在界限外，不等于 away from 的距离远离。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "空间范围与测量",
+        "初中起步"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0052",
+      "zh": "两张床之间至少要留出一米。",
+      "en": "Leave at least a metre between the beds.",
+      "answers": [
+        "Leave at least a metre between the beds."
+      ],
+      "notes": "between 指间隔位置；at least 表最低值。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "空间范围与测量",
+        "初中起步"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0053",
+      "zh": "信号在墙的另一侧明显变弱。",
+      "en": "The signal becomes weaker on the other side of the wall.",
+      "answers": [
+        "The signal becomes weaker on the other side of the wall."
+      ],
+      "notes": "on the other side of：在另一侧，强调位置而非穿过动作。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "空间范围与测量",
+        "初中起步"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0054",
+      "zh": "我们在海平面以下十二米处看到了这个洞口。",
+      "en": "We spotted the opening twelve metres below sea level.",
+      "answers": [
+        "We spotted the opening twelve metres below sea level."
+      ],
+      "notes": "距离量 + below + 基准面，表示低于基准多少。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "空间范围与测量",
+        "初中起步"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0055",
+      "zh": "这些盒子按尺寸排列，从小到大。",
+      "en": "The boxes are arranged by size, from smallest to largest.",
+      "answers": [
+        "The boxes are arranged by size, from smallest to largest."
+      ],
+      "notes": "by 表分类依据；from ... to ... 表排序两端。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "空间范围与测量",
+        "初中起步"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0056",
+      "zh": "小径距离悬崖边缘还有几米。",
+      "en": "The path is several metres from the cliff edge.",
+      "answers": [
+        "The path is several metres from the cliff edge."
+      ],
+      "notes": "距离量 + from 表与参照点的距离。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "空间范围与测量",
+        "初中起步"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0057",
+      "zh": "水位已经低于最低刻度。",
+      "en": "The water is below the lowest mark.",
+      "answers": [
+        "The water is below the lowest mark."
+      ],
+      "notes": "below 表低于基准，不要求在正下方。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "空间范围与测量",
+        "初中起步"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0058",
+      "zh": "城市边界以内的车辆适用同一规定。",
+      "en": "Vehicles within the city boundary are subject to the same rule.",
+      "answers": [
+        "Vehicles within the city boundary are subject to the same rule."
+      ],
+      "notes": "within 表范围内；subject to 为固定搭配。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "空间范围与测量",
+        "初中起步"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0059",
+      "zh": "这个洞约有拇指那么宽。",
+      "en": "The opening is about the width of a thumb.",
+      "answers": [
+        "The opening is about the width of a thumb."
+      ],
+      "notes": "of 表尺寸所属；about 表近似。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "空间范围与测量",
+        "初中起步"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_space_s1_0060",
+      "zh": "绳索横跨沟渠，离地面很高。",
+      "en": "The rope stretches across the ditch, high above the ground.",
+      "answers": [
+        "The rope stretches across the ditch, high above the ground."
+      ],
+      "notes": "across 表横跨；above 表离地高度关系。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "空间范围与测量",
+        "初中起步"
+      ],
+      "difficulty": 3
+    }
+  ]
+}

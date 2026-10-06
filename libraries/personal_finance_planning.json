@@ -1,0 +1,1428 @@
+{
+  "schema_version": 1,
+  "id": "personal_finance_planning",
+  "title": "个人财务与长期安排 · 100 句",
+  "description": "预算、储蓄、借款、保险、家庭费用、财务文件、风险辨识与长期安排；练习语言表达。",
+  "language": "en-GB",
+  "tags": [
+    "个人财务",
+    "逐题讲解"
+  ],
+  "items": [
+    {
+      "id": "personal_finance_planning_v3_0001",
+      "zh": "我的收入每个月都不同。",
+      "en": "My income varies from month to month.",
+      "answers": [
+        "My income varies from month to month."
+      ],
+      "notes": "vary：变化",
+      "tags": [
+        "个人财务",
+        "收支"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0002",
+      "zh": "固定支出先从预算中扣除。",
+      "en": "Fixed expenses come out of the budget first.",
+      "answers": [
+        "Fixed expenses come out of the budget first."
+      ],
+      "notes": "fixed expense：固定支出",
+      "tags": [
+        "个人财务",
+        "收支"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0003",
+      "zh": "这笔收入不是每个月都有。",
+      "en": "This income does not come in every month.",
+      "answers": [
+        "This income does not come in every month.",
+        "This income doesn't come in every month."
+      ],
+      "notes": "come in：收入到账；not every：并非每个。",
+      "tags": [
+        "个人财务",
+        "收支"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0004",
+      "zh": "我把日常和年度支出分开。",
+      "en": "I separate everyday and annual expenses.",
+      "answers": [
+        "I separate everyday and annual expenses."
+      ],
+      "notes": "annual：年度",
+      "tags": [
+        "个人财务",
+        "收支"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0005",
+      "zh": "税前金额和到手收入不同。",
+      "en": "Gross pay differs from take-home pay.",
+      "answers": [
+        "Gross pay differs from take-home pay."
+      ],
+      "notes": "gross pay：税前薪资",
+      "tags": [
+        "个人财务",
+        "收支"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0006",
+      "zh": "这个月有一笔意外维修费。",
+      "en": "There is an unexpected repair cost this month.",
+      "answers": [
+        "There is an unexpected repair cost this month."
+      ],
+      "notes": "unexpected：意外",
+      "tags": [
+        "个人财务",
+        "收支"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0007",
+      "zh": "零碎消费加起来不少。",
+      "en": "Small purchases add up.",
+      "answers": [
+        "Small purchases add up."
+      ],
+      "notes": "add up：累积",
+      "tags": [
+        "个人财务",
+        "收支"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0008",
+      "zh": "我需要看完整个月的情况。",
+      "en": "I need the picture for the whole month.",
+      "answers": [
+        "I need the picture for the whole month."
+      ],
+      "notes": "whole：整个",
+      "tags": [
+        "个人财务",
+        "收支"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0009",
+      "zh": "这笔转账不是新的收入。",
+      "en": "This transfer is not new income.",
+      "answers": [
+        "This transfer is not new income.",
+        "This transfer isn't new income."
+      ],
+      "notes": "transfer：转账",
+      "tags": [
+        "个人财务",
+        "收支"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0010",
+      "zh": "报销会晚于实际付款。",
+      "en": "Reimbursement comes after the payment.",
+      "answers": [
+        "Reimbursement comes after the payment."
+      ],
+      "notes": "reimbursement：报销",
+      "tags": [
+        "个人财务",
+        "收支"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0011",
+      "zh": "我预留了不定期账单的费用。",
+      "en": "I allowed for irregular bills.",
+      "answers": [
+        "I allowed for irregular bills."
+      ],
+      "notes": "allow for：预留",
+      "tags": [
+        "个人财务",
+        "预算"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0012",
+      "zh": "这项分类太宽泛。",
+      "en": "This category is too broad.",
+      "answers": [
+        "This category is too broad."
+      ],
+      "notes": "broad：宽泛",
+      "tags": [
+        "个人财务",
+        "预算"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0013",
+      "zh": "预算需要反映真实习惯。",
+      "en": "A budget needs to reflect actual habits.",
+      "answers": [
+        "A budget needs to reflect actual habits."
+      ],
+      "notes": "reflect：反映",
+      "tags": [
+        "个人财务",
+        "预算"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0014",
+      "zh": "我不想把所有余额都花掉。",
+      "en": "I do not want to spend the entire balance.",
+      "answers": [
+        "I do not want to spend the entire balance.",
+        "I don't want to spend the entire balance."
+      ],
+      "notes": "balance：余额",
+      "tags": [
+        "个人财务",
+        "预算"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0015",
+      "zh": "这个计划没有留出缓冲。",
+      "en": "This plan leaves no buffer.",
+      "answers": [
+        "This plan leaves no buffer."
+      ],
+      "notes": "buffer：缓冲",
+      "tags": [
+        "个人财务",
+        "预算"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0016",
+      "zh": "实际费用超出了预留金额。",
+      "en": "Actual costs exceeded the allowance.",
+      "answers": [
+        "Actual costs exceeded the allowance."
+      ],
+      "notes": "allowance：预留额",
+      "tags": [
+        "个人财务",
+        "预算"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0017",
+      "zh": "我会按需要调整分配。",
+      "en": "I will adjust allocations as needed.",
+      "answers": [
+        "I will adjust allocations as needed."
+      ],
+      "notes": "allocation：分配",
+      "tags": [
+        "个人财务",
+        "预算"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0018",
+      "zh": "可用额度不等于可支配收入。",
+      "en": "Available credit is not disposable income.",
+      "answers": [
+        "Available credit is not disposable income.",
+        "Available credit isn't disposable income."
+      ],
+      "notes": "disposable income",
+      "tags": [
+        "个人财务",
+        "预算"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0019",
+      "zh": "我需要知道哪项费用可以暂停。",
+      "en": "I need to identify expenses I can pause.",
+      "answers": [
+        "I need to identify expenses I can pause."
+      ],
+      "notes": "identify：找出",
+      "tags": [
+        "个人财务",
+        "预算"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0020",
+      "zh": "记录太复杂时很难坚持。",
+      "en": "Complicated record-keeping is hard to maintain.",
+      "answers": [
+        "Complicated record-keeping is hard to maintain."
+      ],
+      "notes": "record-keeping：记账",
+      "tags": [
+        "个人财务",
+        "预算"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0021",
+      "zh": "我把这笔钱留给明确的用途。",
+      "en": "I set this money aside for a defined purpose.",
+      "answers": [
+        "I set this money aside for a defined purpose."
+      ],
+      "notes": "set aside：留出",
+      "tags": [
+        "个人财务",
+        "储蓄"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0022",
+      "zh": "取用资金需要提前通知吗？",
+      "en": "Is advance notice required to access the funds?",
+      "answers": [
+        "Is advance notice required to access the funds?"
+      ],
+      "notes": "access：取用",
+      "tags": [
+        "个人财务",
+        "储蓄"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0023",
+      "zh": "利息是按日计算的吗？",
+      "en": "Is interest calculated daily?",
+      "answers": [
+        "Is interest calculated daily?"
+      ],
+      "notes": "interest：利息",
+      "tags": [
+        "个人财务",
+        "储蓄"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0024",
+      "zh": "账户有提款次数限制。",
+      "en": "The account limits the number of withdrawals.",
+      "answers": [
+        "The account limits the number of withdrawals."
+      ],
+      "notes": "withdrawal：提款",
+      "tags": [
+        "个人财务",
+        "储蓄"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0025",
+      "zh": "临时优惠结束后利率会变化。",
+      "en": "The rate changes when the promotion ends.",
+      "answers": [
+        "The rate changes when the promotion ends."
+      ],
+      "notes": "rate：利率",
+      "tags": [
+        "个人财务",
+        "储蓄"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0026",
+      "zh": "我需要区分存款与投资。",
+      "en": "I need to distinguish deposits from investments.",
+      "answers": [
+        "I need to distinguish deposits from investments."
+      ],
+      "notes": "deposit：存款",
+      "tags": [
+        "个人财务",
+        "储蓄"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0027",
+      "zh": "这笔钱短期内可能要用。",
+      "en": "I may need this money soon.",
+      "answers": [
+        "I may need this money soon."
+      ],
+      "notes": "may：可能",
+      "tags": [
+        "个人财务",
+        "储蓄"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0028",
+      "zh": "储蓄目标应该有时间范围。",
+      "en": "A savings goal should have a timeframe.",
+      "answers": [
+        "A savings goal should have a timeframe."
+      ],
+      "notes": "timeframe：时间范围",
+      "tags": [
+        "个人财务",
+        "储蓄"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0029",
+      "zh": "我不想为提款支付额外费用。",
+      "en": "I do not want extra withdrawal charges.",
+      "answers": [
+        "I do not want extra withdrawal charges.",
+        "I don't want extra withdrawal charges."
+      ],
+      "notes": "charge：费用",
+      "tags": [
+        "个人财务",
+        "储蓄"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0030",
+      "zh": "能否设置自动定期转入？",
+      "en": "Can regular automatic deposits be arranged?",
+      "answers": [
+        "Can regular automatic deposits be arranged?"
+      ],
+      "notes": "automatic deposit",
+      "tags": [
+        "个人财务",
+        "储蓄"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0031",
+      "zh": "每月还款包括本金和利息。",
+      "en": "Monthly repayments include principal and interest.",
+      "answers": [
+        "Monthly repayments include principal and interest."
+      ],
+      "notes": "principal：本金",
+      "tags": [
+        "个人财务",
+        "借款"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "personal_finance_planning_v3_0032",
+      "zh": "最低还款额不等于全部欠款。",
+      "en": "The minimum payment is not the full debt.",
+      "answers": [
+        "The minimum payment is not the full debt.",
+        "The minimum payment isn't the full debt."
+      ],
+      "notes": "debt：债务",
+      "tags": [
+        "个人财务",
+        "借款"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "personal_finance_planning_v3_0033",
+      "zh": "这笔贷款是否需要抵押？",
+      "en": "Does this loan require collateral?",
+      "answers": [
+        "Does this loan require collateral?"
+      ],
+      "notes": "collateral：抵押物",
+      "tags": [
+        "个人财务",
+        "借款"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "personal_finance_planning_v3_0034",
+      "zh": "担保人的责任有哪些？",
+      "en": "What obligations does the guarantor have?",
+      "answers": [
+        "What obligations does the guarantor have?"
+      ],
+      "notes": "guarantor：担保人",
+      "tags": [
+        "个人财务",
+        "借款"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "personal_finance_planning_v3_0035",
+      "zh": "延长还款期可能增加总费用。",
+      "en": "A longer repayment period may increase total costs.",
+      "answers": [
+        "A longer repayment period may increase total costs."
+      ],
+      "notes": "repayment period",
+      "tags": [
+        "个人财务",
+        "借款"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "personal_finance_planning_v3_0036",
+      "zh": "我需要书面的费用说明。",
+      "en": "I need the charges explained in writing.",
+      "answers": [
+        "I need the charges explained in writing."
+      ],
+      "notes": "in writing：书面",
+      "tags": [
+        "个人财务",
+        "借款"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "personal_finance_planning_v3_0037",
+      "zh": "这个报价使用浮动利率。",
+      "en": "This quotation uses a variable rate.",
+      "answers": [
+        "This quotation uses a variable rate."
+      ],
+      "notes": "variable：浮动",
+      "tags": [
+        "个人财务",
+        "借款"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "personal_finance_planning_v3_0038",
+      "zh": "优惠期之后会发生什么？",
+      "en": "What happens after the introductory period?",
+      "answers": [
+        "What happens after the introductory period?"
+      ],
+      "notes": "introductory period",
+      "tags": [
+        "个人财务",
+        "借款"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0039",
+      "zh": "逾期付款会如何记录？",
+      "en": "How are late payments recorded?",
+      "answers": [
+        "How are late payments recorded?"
+      ],
+      "notes": "late payment：逾期付款；询问记录方式。",
+      "tags": [
+        "个人财务",
+        "借款"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "personal_finance_planning_v3_0040",
+      "zh": "我想在签字前理解所有义务。",
+      "en": "I want to understand every obligation before signing.",
+      "answers": [
+        "I want to understand every obligation before signing."
+      ],
+      "notes": "obligation：义务",
+      "tags": [
+        "个人财务",
+        "借款"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "personal_finance_planning_v3_0041",
+      "zh": "这份保障有哪些除外责任？",
+      "en": "What exclusions apply to this cover?",
+      "answers": [
+        "What exclusions apply to this cover?"
+      ],
+      "notes": "exclusion：除外责任",
+      "tags": [
+        "个人财务",
+        "保险"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "personal_finance_planning_v3_0042",
+      "zh": "自付额是多少？",
+      "en": "What is the excess?",
+      "answers": [
+        "What is the excess?"
+      ],
+      "notes": "excess：自付额",
+      "tags": [
+        "个人财务",
+        "保险"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "personal_finance_planning_v3_0043",
+      "zh": "续保价格是否已经确定？",
+      "en": "Has the renewal price been confirmed?",
+      "answers": [
+        "Has the renewal price been confirmed?"
+      ],
+      "notes": "renewal：续保",
+      "tags": [
+        "个人财务",
+        "保险"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "personal_finance_planning_v3_0044",
+      "zh": "理赔需要哪些证据？",
+      "en": "What evidence is needed for a claim?",
+      "answers": [
+        "What evidence is needed for a claim?"
+      ],
+      "notes": "claim：理赔申请",
+      "tags": [
+        "个人财务",
+        "保险"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "personal_finance_planning_v3_0045",
+      "zh": "保障是否包括个人物品？",
+      "en": "Does the cover include personal belongings?",
+      "answers": [
+        "Does the cover include personal belongings?"
+      ],
+      "notes": "cover：保障",
+      "tags": [
+        "个人财务",
+        "保险"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "personal_finance_planning_v3_0046",
+      "zh": "这项损失发生在保单生效前。",
+      "en": "The loss occurred before the policy began.",
+      "answers": [
+        "The loss occurred before the policy began."
+      ],
+      "notes": "policy：保单",
+      "tags": [
+        "个人财务",
+        "保险"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "personal_finance_planning_v3_0047",
+      "zh": "我需要申报情况变化吗？",
+      "en": "Do I need to disclose a change in circumstances?",
+      "answers": [
+        "Do I need to disclose a change in circumstances?"
+      ],
+      "notes": "disclose：申报",
+      "tags": [
+        "个人财务",
+        "保险"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "personal_finance_planning_v3_0048",
+      "zh": "这份报价包括所有家庭成员吗？",
+      "en": "Does the quote include every household member?",
+      "answers": [
+        "Does the quote include every household member?"
+      ],
+      "notes": "quote：报价",
+      "tags": [
+        "个人财务",
+        "保险"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "personal_finance_planning_v3_0049",
+      "zh": "保障金额与赔付限额不同吗？",
+      "en": "Does the insured amount differ from the payout limit?",
+      "answers": [
+        "Does the insured amount differ from the payout limit?"
+      ],
+      "notes": "payout：赔付",
+      "tags": [
+        "个人财务",
+        "保险"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "personal_finance_planning_v3_0050",
+      "zh": "我想知道取消保单的条件。",
+      "en": "I want the conditions for cancelling the policy.",
+      "answers": [
+        "I want the conditions for cancelling the policy."
+      ],
+      "notes": "condition：条件",
+      "tags": [
+        "个人财务",
+        "保险"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "personal_finance_planning_v3_0051",
+      "zh": "与月付相比，年付能便宜多少？",
+      "en": "How much cheaper is annual billing than monthly payment?",
+      "answers": [
+        "How much cheaper is annual billing than monthly payment?"
+      ],
+      "notes": "how much cheaper ... than：相比便宜多少。",
+      "tags": [
+        "个人财务",
+        "订阅与合同"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0052",
+      "zh": "合同到期会自动续约。",
+      "en": "The contract renews automatically at expiry.",
+      "answers": [
+        "The contract renews automatically at expiry."
+      ],
+      "notes": "expiry：到期",
+      "tags": [
+        "个人财务",
+        "订阅与合同"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0053",
+      "zh": "取消需要提前几天通知？",
+      "en": "How many days' notice is needed to cancel?",
+      "answers": [
+        "How many days' notice is needed to cancel?"
+      ],
+      "notes": "notice：提前通知",
+      "tags": [
+        "个人财务",
+        "订阅与合同"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0054",
+      "zh": "停止使用不代表停止收费。",
+      "en": "Stopping use does not stop charges.",
+      "answers": [
+        "Stopping use does not stop charges.",
+        "Stopping use doesn't stop charges."
+      ],
+      "notes": "动名词主语",
+      "tags": [
+        "个人财务",
+        "订阅与合同"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0055",
+      "zh": "这个套餐的基础价格不含设备。",
+      "en": "The base price excludes equipment.",
+      "answers": [
+        "The base price excludes equipment."
+      ],
+      "notes": "exclude：不包括",
+      "tags": [
+        "个人财务",
+        "订阅与合同"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0056",
+      "zh": "我需要保留取消确认。",
+      "en": "I need to keep the cancellation confirmation.",
+      "answers": [
+        "I need to keep the cancellation confirmation."
+      ],
+      "notes": "confirmation：确认",
+      "tags": [
+        "个人财务",
+        "订阅与合同"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0057",
+      "zh": "账单周期与自然月不同。",
+      "en": "The billing cycle differs from a calendar month.",
+      "answers": [
+        "The billing cycle differs from a calendar month."
+      ],
+      "notes": "billing cycle：账期",
+      "tags": [
+        "个人财务",
+        "订阅与合同"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0058",
+      "zh": "升级套餐会重新开始合同期吗？",
+      "en": "Does an upgrade restart the contract term?",
+      "answers": [
+        "Does an upgrade restart the contract term?"
+      ],
+      "notes": "term：合同期限",
+      "tags": [
+        "个人财务",
+        "订阅与合同"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0059",
+      "zh": "这项服务有提前终止费。",
+      "en": "This service has an early termination fee.",
+      "answers": [
+        "This service has an early termination fee."
+      ],
+      "notes": "termination：终止",
+      "tags": [
+        "个人财务",
+        "订阅与合同"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0060",
+      "zh": "降级后哪些功能会失去？",
+      "en": "Which features disappear after a downgrade?",
+      "answers": [
+        "Which features disappear after a downgrade?"
+      ],
+      "notes": "downgrade：降级",
+      "tags": [
+        "个人财务",
+        "订阅与合同"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0061",
+      "zh": "共用支出需要双方都看得懂。",
+      "en": "Shared expenses need to be understandable to both people.",
+      "answers": [
+        "Shared expenses need to be understandable to both people."
+      ],
+      "notes": "understandable：易懂",
+      "tags": [
+        "个人财务",
+        "家庭费用"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0062",
+      "zh": "我们应先约定分摊方式。",
+      "en": "We should agree on cost sharing first.",
+      "answers": [
+        "We should agree on cost sharing first."
+      ],
+      "notes": "cost sharing：分摊",
+      "tags": [
+        "个人财务",
+        "家庭费用"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0063",
+      "zh": "一次性购买不能代表每月开销。",
+      "en": "A one-off purchase is not a monthly expense.",
+      "answers": [
+        "A one-off purchase is not a monthly expense.",
+        "A one-off purchase isn't a monthly expense."
+      ],
+      "notes": "one-off：一次性",
+      "tags": [
+        "个人财务",
+        "家庭费用"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0064",
+      "zh": "孩子长大后费用结构变了。",
+      "en": "Costs changed as the children grew.",
+      "answers": [
+        "Costs changed as the children grew."
+      ],
+      "notes": "as：随着",
+      "tags": [
+        "个人财务",
+        "家庭费用"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0065",
+      "zh": "这笔支出用于必要的维修。",
+      "en": "This expense covers essential repairs.",
+      "answers": [
+        "This expense covers essential repairs."
+      ],
+      "notes": "cover：支付；expense 与维修行为本身区分。",
+      "tags": [
+        "个人财务",
+        "家庭费用"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0066",
+      "zh": "我们把搬家费用单独计算。",
+      "en": "We calculate moving costs separately.",
+      "answers": [
+        "We calculate moving costs separately."
+      ],
+      "notes": "separately：单独",
+      "tags": [
+        "个人财务",
+        "家庭费用"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0067",
+      "zh": "租金不是居住的唯一成本。",
+      "en": "Rent is not the only housing cost.",
+      "answers": [
+        "Rent is not the only housing cost.",
+        "Rent isn't the only housing cost."
+      ],
+      "notes": "not the only",
+      "tags": [
+        "个人财务",
+        "家庭费用"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0068",
+      "zh": "我想比较不同地点的通勤与住房总费用。",
+      "en": "I want to compare the combined costs of commuting and housing in different locations.",
+      "answers": [
+        "I want to compare the combined costs of commuting and housing in different locations."
+      ],
+      "notes": "combined costs：合计费用；compare 明确比较任务。",
+      "tags": [
+        "个人财务",
+        "家庭费用"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "personal_finance_planning_v3_0069",
+      "zh": "费用分担不一定按人数平均。",
+      "en": "Cost sharing need not be equal per person.",
+      "answers": [
+        "Cost sharing need not be equal per person.",
+        "Cost sharing needn't be equal per person."
+      ],
+      "notes": "need not：不必",
+      "tags": [
+        "个人财务",
+        "家庭费用"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0070",
+      "zh": "大额购买最好事先沟通。",
+      "en": "Large purchases deserve advance discussion.",
+      "answers": [
+        "Large purchases deserve advance discussion."
+      ],
+      "notes": "advance：提前",
+      "tags": [
+        "个人财务",
+        "家庭费用"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0071",
+      "zh": "这张发票缺少付款日期。",
+      "en": "This invoice lacks a payment date.",
+      "answers": [
+        "This invoice lacks a payment date."
+      ],
+      "notes": "invoice：发票",
+      "tags": [
+        "个人财务",
+        "财务文件"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0072",
+      "zh": "收据上的金额与记录一致。",
+      "en": "The receipt amount matches the record.",
+      "answers": [
+        "The receipt amount matches the record."
+      ],
+      "notes": "match：一致",
+      "tags": [
+        "个人财务",
+        "财务文件"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0073",
+      "zh": "有些报销申请即使已提供扫描件，也仍要求提交原始收据。",
+      "en": "Some expense claims require original receipts even when scans have been supplied.",
+      "answers": [
+        "Some expense claims require original receipts even when scans have been supplied."
+      ],
+      "notes": "even when 表示让步；expense claim：报销申请。",
+      "tags": [
+        "个人财务",
+        "财务文件"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "personal_finance_planning_v3_0074",
+      "zh": "扫描件上的数字看不清。",
+      "en": "The figures on the scan are illegible.",
+      "answers": [
+        "The figures on the scan are illegible."
+      ],
+      "notes": "illegible：无法辨认",
+      "tags": [
+        "个人财务",
+        "财务文件"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0075",
+      "zh": "这个文件属于上一财年。",
+      "en": "This document belongs to the previous financial year.",
+      "answers": [
+        "This document belongs to the previous financial year."
+      ],
+      "notes": "financial year：财年",
+      "tags": [
+        "个人财务",
+        "财务文件"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0076",
+      "zh": "费用说明应列出币种。",
+      "en": "The expense record should state the currency.",
+      "answers": [
+        "The expense record should state the currency."
+      ],
+      "notes": "currency：币种",
+      "tags": [
+        "个人财务",
+        "财务文件"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0077",
+      "zh": "我想标明这笔钱的用途。",
+      "en": "I want to label the purpose of this payment.",
+      "answers": [
+        "I want to label the purpose of this payment."
+      ],
+      "notes": "purpose：用途",
+      "tags": [
+        "个人财务",
+        "财务文件"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0078",
+      "zh": "重复记录会夸大支出。",
+      "en": "Duplicate entries overstate spending.",
+      "answers": [
+        "Duplicate entries overstate spending."
+      ],
+      "notes": "overstate：夸大",
+      "tags": [
+        "个人财务",
+        "财务文件"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0079",
+      "zh": "这份汇总还没有核对。",
+      "en": "This summary has not been reconciled.",
+      "answers": [
+        "This summary has not been reconciled.",
+        "This summary hasn't been reconciled."
+      ],
+      "notes": "reconcile：核对",
+      "tags": [
+        "个人财务",
+        "财务文件"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0080",
+      "zh": "找不到凭证的项目先单独标记。",
+      "en": "Flag entries without supporting documents separately.",
+      "answers": [
+        "Flag entries without supporting documents separately."
+      ],
+      "notes": "flag：标记",
+      "tags": [
+        "个人财务",
+        "财务文件"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0081",
+      "zh": "宣传中的收益并不保证实现。",
+      "en": "Advertised returns are not guaranteed.",
+      "answers": [
+        "Advertised returns are not guaranteed.",
+        "Advertised returns aren't guaranteed."
+      ],
+      "notes": "return：收益",
+      "tags": [
+        "个人财务",
+        "风险与判断"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "personal_finance_planning_v3_0082",
+      "zh": "过去表现不能确定未来结果。",
+      "en": "Past performance cannot determine future outcomes.",
+      "answers": [
+        "Past performance cannot determine future outcomes.",
+        "Past performance can't determine future outcomes."
+      ],
+      "notes": "determine：确定",
+      "tags": [
+        "个人财务",
+        "风险与判断"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "personal_finance_planning_v3_0083",
+      "zh": "我需要了解可能损失的最高金额。",
+      "en": "I need to understand the maximum amount I could lose.",
+      "answers": [
+        "I need to understand the maximum amount I could lose."
+      ],
+      "notes": "maximum amount：最高金额；could 保留可能性。",
+      "tags": [
+        "个人财务",
+        "风险与判断"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "personal_finance_planning_v3_0084",
+      "zh": "资金被锁定多久？",
+      "en": "How long are the funds locked in?",
+      "answers": [
+        "How long are the funds locked in?"
+      ],
+      "notes": "locked in：无法取出",
+      "tags": [
+        "个人财务",
+        "风险与判断"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "personal_finance_planning_v3_0085",
+      "zh": "这项费用会侵蚀净收益。",
+      "en": "This charge reduces the net return.",
+      "answers": [
+        "This charge reduces the net return."
+      ],
+      "notes": "net return：净收益",
+      "tags": [
+        "个人财务",
+        "风险与判断"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "personal_finance_planning_v3_0086",
+      "zh": "我不理解的产品需要更多解释。",
+      "en": "An unfamiliar product needs further explanation.",
+      "answers": [
+        "An unfamiliar product needs further explanation."
+      ],
+      "notes": "unfamiliar：不熟悉",
+      "tags": [
+        "个人财务",
+        "风险与判断"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "personal_finance_planning_v3_0087",
+      "zh": "卖方可能获得销售佣金。",
+      "en": "The seller may receive a commission.",
+      "answers": [
+        "The seller may receive a commission."
+      ],
+      "notes": "commission：佣金",
+      "tags": [
+        "个人财务",
+        "风险与判断"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "personal_finance_planning_v3_0088",
+      "zh": "高收益宣传应说明相应风险。",
+      "en": "High-return claims should explain the associated risks.",
+      "answers": [
+        "High-return claims should explain the associated risks."
+      ],
+      "notes": "associated：相关",
+      "tags": [
+        "个人财务",
+        "风险与判断"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "personal_finance_planning_v3_0089",
+      "zh": "我不想仅仅因为优惠即将结束就作出决定。",
+      "en": "I do not want to make a decision just because the offer is about to expire.",
+      "answers": [
+        "I do not want to make a decision just because the offer is about to expire.",
+        "I don't want to make a decision just because the offer is about to expire."
+      ],
+      "notes": "just because 说明不希望受期限施压的原因。",
+      "tags": [
+        "个人财务",
+        "风险与判断"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "personal_finance_planning_v3_0090",
+      "zh": "比较必须使用相同的时间范围。",
+      "en": "Comparisons need the same time horizon.",
+      "answers": [
+        "Comparisons need the same time horizon."
+      ],
+      "notes": "time horizon：期限",
+      "tags": [
+        "个人财务",
+        "风险与判断"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "personal_finance_planning_v3_0091",
+      "zh": "今天的预算也要考虑未来义务。",
+      "en": "Today's budget needs to consider future obligations.",
+      "answers": [
+        "Today's budget needs to consider future obligations."
+      ],
+      "notes": "obligation：义务",
+      "tags": [
+        "个人财务",
+        "长期安排"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "personal_finance_planning_v3_0092",
+      "zh": "生活变化后目标可能需要调整。",
+      "en": "Goals may need revision after life changes.",
+      "answers": [
+        "Goals may need revision after life changes."
+      ],
+      "notes": "revision：调整",
+      "tags": [
+        "个人财务",
+        "长期安排"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "personal_finance_planning_v3_0093",
+      "zh": "我想定期检查自己的安排。",
+      "en": "I want to review my arrangements periodically.",
+      "answers": [
+        "I want to review my arrangements periodically."
+      ],
+      "notes": "periodically：定期",
+      "tags": [
+        "个人财务",
+        "长期安排"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "personal_finance_planning_v3_0094",
+      "zh": "计划不能只依赖最乐观的情况。",
+      "en": "A plan cannot rely solely on optimism.",
+      "answers": [
+        "A plan cannot rely solely on optimism.",
+        "A plan can't rely solely on optimism."
+      ],
+      "notes": "solely：仅仅",
+      "tags": [
+        "个人财务",
+        "长期安排"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "personal_finance_planning_v3_0095",
+      "zh": "家庭成员需要知道文件在哪里。",
+      "en": "Family members need to know where documents are kept.",
+      "answers": [
+        "Family members need to know where documents are kept."
+      ],
+      "notes": "where 从句",
+      "tags": [
+        "个人财务",
+        "长期安排"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "personal_finance_planning_v3_0096",
+      "zh": "设定新的储蓄目标之前，我需要计入已经承诺支付的款项。",
+      "en": "Before setting a new savings target, I need to allow for payments I have already promised.",
+      "answers": [
+        "Before setting a new savings target, I need to allow for payments I have already promised."
+      ],
+      "notes": "allow for：计入；区分可调整目标和已承诺款项。",
+      "tags": [
+        "个人财务",
+        "长期安排"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "personal_finance_planning_v3_0097",
+      "zh": "物价上涨会改变购买能力。",
+      "en": "Rising prices change purchasing power.",
+      "answers": [
+        "Rising prices change purchasing power."
+      ],
+      "notes": "purchasing power",
+      "tags": [
+        "个人财务",
+        "长期安排"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "personal_finance_planning_v3_0098",
+      "zh": "退休开销可能与现在不同。",
+      "en": "Retirement expenses may differ from current spending.",
+      "answers": [
+        "Retirement expenses may differ from current spending."
+      ],
+      "notes": "retirement：退休",
+      "tags": [
+        "个人财务",
+        "长期安排"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "personal_finance_planning_v3_0099",
+      "zh": "这个目标需要分阶段实现。",
+      "en": "This goal needs to be achieved in stages.",
+      "answers": [
+        "This goal needs to be achieved in stages."
+      ],
+      "notes": "in stages：分阶段。",
+      "tags": [
+        "个人财务",
+        "长期安排"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "personal_finance_planning_v3_0100",
+      "zh": "定期回顾比完全不调整更有用。",
+      "en": "Regular review is better than leaving everything unchanged.",
+      "answers": [
+        "Regular review is better than leaving everything unchanged."
+      ],
+      "notes": "review：回顾",
+      "tags": [
+        "个人财务",
+        "长期安排"
+      ],
+      "difficulty": 3
+    }
+  ]
+}

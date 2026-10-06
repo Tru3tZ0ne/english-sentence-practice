@@ -1,0 +1,981 @@
+{
+  "schema_version": 1,
+  "id": "grammar_prepositions_patterns",
+  "title": "语法 · 介词｜搭配与动名词 · 60 句",
+  "description": "动词、形容词、名词的介词搭配，介词后动名词、复合介词与不应多加介词的动词。",
+  "language": "en-GB",
+  "tags": [
+    "语法专项",
+    "介词",
+    "初中至四级"
+  ],
+  "items": [
+    {
+      "id": "grammar_prepositions_patterns_s1_0001",
+      "zh": "请向登记员咨询门禁卡的领取办法。",
+      "en": "Consult the registrar about collecting your access card.",
+      "answers": [
+        "Consult the registrar about collecting your access card."
+      ],
+      "notes": "consult 直接接人；about 引出咨询主题。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "动词与对象",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0002",
+      "zh": "我没有把照片附在信上，而是另行发送了。",
+      "en": "I sent the photograph separately instead of attaching it to the letter.",
+      "answers": [
+        "I sent the photograph separately instead of attaching it to the letter."
+      ],
+      "notes": "attach A to B；instead of 后接动名词。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "动词与对象",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0003",
+      "zh": "这个结论依赖于尚未核实的目击描述。",
+      "en": "The conclusion rests on eyewitness accounts that remain unverified.",
+      "answers": [
+        "The conclusion rests on eyewitness accounts that remain unverified."
+      ],
+      "notes": "rest on：以……为依据；不要误用 rest at。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "动词与对象",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0004",
+      "zh": "我们向邻居借了一个能折叠的推车。",
+      "en": "We borrowed a folding trolley from our neighbour.",
+      "answers": [
+        "We borrowed a folding trolley from our neighbour."
+      ],
+      "notes": "borrow A from B，区别 lend A to B。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "动词与对象",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0005",
+      "zh": "经理把不满归因于排班不透明。",
+      "en": "The manager attributed the dissatisfaction to unclear scheduling.",
+      "answers": [
+        "The manager attributed the dissatisfaction to unclear scheduling."
+      ],
+      "notes": "attribute A to B：将 A 归因于 B。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "动词与对象",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0006",
+      "zh": "这项服务为独居者提供定期联系。",
+      "en": "The service provides people living alone with regular contact.",
+      "answers": [
+        "The service provides people living alone with regular contact."
+      ],
+      "notes": "provide someone with something；对象与内容不可颠倒。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "动词与对象",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0007",
+      "zh": "我不想让孩子因为口音而被嘲笑。",
+      "en": "I do not want children to be laughed at for their accents.",
+      "answers": [
+        "I do not want children to be laughed at for their accents.",
+        "I don't want children to be laughed at for their accents."
+      ],
+      "notes": "laugh at 被动时保留 at；for 表原因。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "动词与对象",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0008",
+      "zh": "他们劝我不要在拥挤时段搬运钢琴。",
+      "en": "They advised me against moving the piano at a busy time.",
+      "answers": [
+        "They advised me against moving the piano at a busy time."
+      ],
+      "notes": "advise someone against doing：劝某人不要做。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "动词与对象",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0009",
+      "zh": "请把误送来的信转交给楼下住户。",
+      "en": "Please pass the misdelivered letter on to the downstairs resident.",
+      "answers": [
+        "Please pass the misdelivered letter on to the downstairs resident."
+      ],
+      "notes": "pass something on to someone：转交；to 标接收者。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "动词与对象",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0010",
+      "zh": "志愿者把毯子分发给了正在等候的乘客。",
+      "en": "Volunteers distributed blankets to the waiting passengers.",
+      "answers": [
+        "Volunteers distributed blankets to the waiting passengers."
+      ],
+      "notes": "distribute A to B；waiting 修饰接收者。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "动词与对象",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0011",
+      "zh": "这个斜坡不适合轮椅独立通行。",
+      "en": "The slope is unsuitable for independent wheelchair access.",
+      "answers": [
+        "The slope is unsuitable for independent wheelchair access."
+      ],
+      "notes": "unsuitable for 后接用途或对象。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "形容词的补足",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0012",
+      "zh": "他对新成员的提问一直很有耐心。",
+      "en": "He is consistently patient with newcomers' questions.",
+      "answers": [
+        "He is consistently patient with newcomers' questions."
+      ],
+      "notes": "patient with：对……有耐心；不使用 patient to。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "形容词的补足",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0013",
+      "zh": "我对这份工作的时间要求已有充分了解。",
+      "en": "I am fully aware of the time demands of this role.",
+      "answers": [
+        "I am fully aware of the time demands of this role."
+      ],
+      "notes": "aware of 后接所知内容；of 与 aware 搭配。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "形容词的补足",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0014",
+      "zh": "屋顶上的太阳能板很容易受到冰雹损害。",
+      "en": "The rooftop panels are vulnerable to hail damage.",
+      "answers": [
+        "The rooftop panels are vulnerable to hail damage."
+      ],
+      "notes": "vulnerable to 中 to 是介词，后接名词。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "形容词的补足",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0015",
+      "zh": "这份结果与我们原先的估算一致。",
+      "en": "The result is consistent with our original estimate.",
+      "answers": [
+        "The result is consistent with our original estimate."
+      ],
+      "notes": "consistent with：与……一致。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "形容词的补足",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0016",
+      "zh": "该程序与较旧的操作系统不兼容。",
+      "en": "The program is incompatible with older operating systems.",
+      "answers": [
+        "The program is incompatible with older operating systems."
+      ],
+      "notes": "compatible 或 incompatible 均搭配 with。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "形容词的补足",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0017",
+      "zh": "她负责的是内容审核，而不是资金审批。",
+      "en": "She is responsible for content review, not funding approval.",
+      "answers": [
+        "She is responsible for content review, not funding approval."
+      ],
+      "notes": "responsible for + 职责内容，不能省略 for。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "形容词的补足",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0018",
+      "zh": "新入口可以让行动不便的人使用。",
+      "en": "The new entrance is accessible to people with limited mobility.",
+      "answers": [
+        "The new entrance is accessible to people with limited mobility."
+      ],
+      "notes": "accessible to 标可使用的人；with 描述个人情况。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "形容词的补足",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0019",
+      "zh": "我不愿意接受没有说明原因的更改。",
+      "en": "I am reluctant to accept unexplained alterations.",
+      "answers": [
+        "I am reluctant to accept unexplained alterations."
+      ],
+      "notes": "reluctant 后是不定式 to accept，此 to 不同于介词 to。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "形容词的补足",
+        "初中至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0020",
+      "zh": "目前没有任何方案能完全免受风险影响。",
+      "en": "No available option is entirely free from risk.",
+      "answers": [
+        "No available option is entirely free from risk."
+      ],
+      "notes": "free from 表免于不良因素；entirely 限定程度。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "形容词的补足",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0021",
+      "zh": "夜间噪声的增加引起了住户的关注。",
+      "en": "An increase in night-time noise has drawn residents' attention.",
+      "answers": [
+        "An increase in night-time noise has drawn residents' attention."
+      ],
+      "notes": "increase in + 发生变化的指标；不把 in 写为 of。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "名词与介词",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0022",
+      "zh": "屋顶损坏的原因尚不明确。",
+      "en": "The cause of the roof damage remains unclear.",
+      "answers": [
+        "The cause of the roof damage remains unclear."
+      ],
+      "notes": "cause of 接结果；原因自身不是 because of 的从句。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "名词与介词",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0023",
+      "zh": "学生缺少参加国际交流的机会。",
+      "en": "Students lack opportunities for international exchange.",
+      "answers": [
+        "Students lack opportunities for international exchange."
+      ],
+      "notes": "opportunities for + 名词；也可用 opportunity to do。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "名词与介词",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0024",
+      "zh": "这个方案与实际需求之间存在明显差距。",
+      "en": "There is a clear gap between the proposal and actual needs.",
+      "answers": [
+        "There is a clear gap between the proposal and actual needs."
+      ],
+      "notes": "gap between A and B 描述二者差距。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "名词与介词",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0025",
+      "zh": "公众对公告的反应比预期更平静。",
+      "en": "The public response to the announcement was calmer than expected.",
+      "answers": [
+        "The public response to the announcement was calmer than expected."
+      ],
+      "notes": "response to：对……的回应；to 为介词。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "名词与介词",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0026",
+      "zh": "设备更换带来的收益尚未超过成本。",
+      "en": "The benefits of replacing the equipment have not yet outweighed the cost.",
+      "answers": [
+        "The benefits of replacing the equipment have not yet outweighed the cost.",
+        "The benefits of replacing the equipment haven't yet outweighed the cost."
+      ],
+      "notes": "benefits of doing：某行为带来的收益。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "名词与介词",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0027",
+      "zh": "团队对外部顾问的依赖正在减少。",
+      "en": "The team's reliance on external advisers is decreasing.",
+      "answers": [
+        "The team's reliance on external advisers is decreasing."
+      ],
+      "notes": "reliance on：对……的依赖，与 rely on 对应。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "名词与介词",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0028",
+      "zh": "费用的分配方式引发了双方的争议。",
+      "en": "The allocation of costs caused a dispute between the two parties.",
+      "answers": [
+        "The allocation of costs caused a dispute between the two parties."
+      ],
+      "notes": "allocation of：……的分配；between 标双方关系。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "名词与介词",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0029",
+      "zh": "我们需要解释异常数据，而不只是删除它们。",
+      "en": "We need an explanation for the unusual figures, not merely their removal.",
+      "answers": [
+        "We need an explanation for the unusual figures, not merely their removal."
+      ],
+      "notes": "explanation for：对某现象的解释。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "名词与介词",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0030",
+      "zh": "放宽标准不应成为忽视质量的借口。",
+      "en": "Flexible standards should not become an excuse for neglecting quality.",
+      "answers": [
+        "Flexible standards should not become an excuse for neglecting quality.",
+        "Flexible standards shouldn't become an excuse for neglecting quality."
+      ],
+      "notes": "excuse for doing：做某事的借口。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "名词与介词",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0031",
+      "zh": "她通过画示意图解释了水流方向。",
+      "en": "She explained the direction of flow by drawing a diagram.",
+      "answers": [
+        "She explained the direction of flow by drawing a diagram."
+      ],
+      "notes": "by doing 表手段，不能写 by draw。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "介词后接动名词",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0032",
+      "zh": "我很期待与你一起查看这些手稿。",
+      "en": "I look forward to examining the manuscripts with you.",
+      "answers": [
+        "I look forward to examining the manuscripts with you."
+      ],
+      "notes": "look forward to 中 to 为介词，后用 examining。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "介词后接动名词",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0033",
+      "zh": "我们反对在没有说明的情况下更改规则。",
+      "en": "We object to changing the rules without an explanation.",
+      "answers": [
+        "We object to changing the rules without an explanation."
+      ],
+      "notes": "object to doing：反对做；不是 object to change。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "介词后接动名词",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0034",
+      "zh": "他们坚持亲自查看损坏的部件。",
+      "en": "They insisted on inspecting the damaged components themselves.",
+      "answers": [
+        "They insisted on inspecting the damaged components themselves."
+      ],
+      "notes": "insist on doing；themselves 强调亲自。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "介词后接动名词",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0035",
+      "zh": "我为没有及时归还测量仪器道歉。",
+      "en": "I apologise for not returning the measuring instrument promptly.",
+      "answers": [
+        "I apologise for not returning the measuring instrument promptly."
+      ],
+      "notes": "for 后用 not doing，否定放动名词前。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "介词后接动名词",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0036",
+      "zh": "除了清点库存，她还核查了标签。",
+      "en": "Besides counting the stock, she checked the labels.",
+      "answers": [
+        "Besides counting the stock, she checked the labels."
+      ],
+      "notes": "besides doing：除做此事之外还做其他事。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "介词后接动名词",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0037",
+      "zh": "你能阻止这些信息被自动删除吗？",
+      "en": "Can you prevent the information from being deleted automatically?",
+      "answers": [
+        "Can you prevent the information from being deleted automatically?"
+      ],
+      "notes": "prevent ... from being done：阻止某物被处理。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "介词后接动名词",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0038",
+      "zh": "我们没有通过添加装饰来解决版面问题。",
+      "en": "We did not solve the layout problem by adding decoration.",
+      "answers": [
+        "We did not solve the layout problem by adding decoration.",
+        "We didn't solve the layout problem by adding decoration."
+      ],
+      "notes": "by doing 表方式；否定针对这种解决方式。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "介词后接动名词",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0039",
+      "zh": "在决定接受之前，我想核对付款条件。",
+      "en": "Before agreeing to accept, I want to check the payment terms.",
+      "answers": [
+        "Before agreeing to accept, I want to check the payment terms."
+      ],
+      "notes": "before 后接 agreeing；agree to accept 中 to 是不定式标记。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "介词后接动名词",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0040",
+      "zh": "他离开时没有取走自己的行李。",
+      "en": "He left without collecting his luggage.",
+      "answers": [
+        "He left without collecting his luggage."
+      ],
+      "notes": "without doing：没有做某事便……；luggage 不可数。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "介词后接动名词",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0041",
+      "zh": "这批座椅是根据观众反馈重新设计的。",
+      "en": "These seats were redesigned in response to audience feedback.",
+      "answers": [
+        "These seats were redesigned in response to audience feedback."
+      ],
+      "notes": "in response to：为回应；to 后接名词。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "关系和方式短语",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0042",
+      "zh": "货物由铁路运送，而不是由公路运送。",
+      "en": "The goods travel by rail rather than by road.",
+      "answers": [
+        "The goods travel by rail rather than by road."
+      ],
+      "notes": "by + 交通方式通常不加冠词。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "关系和方式短语",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0043",
+      "zh": "仓库暂时关闭，以便检查屋顶。",
+      "en": "The warehouse is closed for the purpose of inspecting the roof.",
+      "answers": [
+        "The warehouse is closed for the purpose of inspecting the roof."
+      ],
+      "notes": "for the purpose of doing：为了做某事。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "关系和方式短语",
+        "初中至四级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0044",
+      "zh": "他以个人身份出席，而非代表所在机构。",
+      "en": "He attended in a personal capacity rather than on behalf of his institution.",
+      "answers": [
+        "He attended in a personal capacity rather than on behalf of his institution."
+      ],
+      "notes": "in a ... capacity 表身份；on behalf of 表代表。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "关系和方式短语",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0045",
+      "zh": "这些措施是针对反馈采取的，并非随机变化。",
+      "en": "The measures were taken in light of the feedback, not at random.",
+      "answers": [
+        "The measures were taken in light of the feedback, not at random."
+      ],
+      "notes": "in light of：考虑到；at random：随机地。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "关系和方式短语",
+        "初中至四级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0046",
+      "zh": "无论天气如何，室内展览都会照常进行。",
+      "en": "The indoor exhibition will proceed regardless of the weather.",
+      "answers": [
+        "The indoor exhibition will proceed regardless of the weather."
+      ],
+      "notes": "regardless of + 名词，不直接接完整陈述句。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "关系和方式短语",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0047",
+      "zh": "根据目前掌握的资料，尚无法确认来源。",
+      "en": "On the basis of the available information, the source cannot be confirmed.",
+      "answers": [
+        "On the basis of the available information, the source cannot be confirmed.",
+        "On the basis of the available information, the source can't be confirmed."
+      ],
+      "notes": "on the basis of：根据……。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "关系和方式短语",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0048",
+      "zh": "这笔款项应只用于培训相关费用。",
+      "en": "The payment should cover expenses in connection with training only.",
+      "answers": [
+        "The payment should cover expenses in connection with training only."
+      ],
+      "notes": "in connection with：与……有关。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "关系和方式短语",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0049",
+      "zh": "与常见印象相反，这个地区的冬天相当温和。",
+      "en": "Contrary to the common impression, winters in this region are fairly mild.",
+      "answers": [
+        "Contrary to the common impression, winters in this region are fairly mild."
+      ],
+      "notes": "contrary to + 名词，表示与某说法相反。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "关系和方式短语",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0050",
+      "zh": "这套设备目前正由技术人员检查。",
+      "en": "The equipment is currently under inspection by technicians.",
+      "answers": [
+        "The equipment is currently under inspection by technicians."
+      ],
+      "notes": "under inspection 表处于检查状态；by 标执行者。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "关系和方式短语",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0051",
+      "zh": "我们讨论了安全问题，没有马上作出决定。",
+      "en": "We discussed safety concerns without reaching an immediate decision.",
+      "answers": [
+        "We discussed safety concerns without reaching an immediate decision."
+      ],
+      "notes": "discuss 直接接宾语，不加 about。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "易混搭配与省略",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0052",
+      "zh": "所有新生都必须参加入学说明会。",
+      "en": "All new students must attend the induction session.",
+      "answers": [
+        "All new students must attend the induction session."
+      ],
+      "notes": "attend 表参加活动时直接接宾语，不加 to。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "易混搭配与省略",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0053",
+      "zh": "我联系了管理员，询问丢失的包裹。",
+      "en": "I contacted the caretaker about the missing parcel.",
+      "answers": [
+        "I contacted the caretaker about the missing parcel."
+      ],
+      "notes": "contact 直接接人；about 接联系主题。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "易混搭配与省略",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0054",
+      "zh": "请回答屏幕上的问题，不必回复这封邮件。",
+      "en": "Answer the question on screen; there is no need to reply to this email.",
+      "answers": [
+        "Answer the question on screen; there is no need to reply to this email."
+      ],
+      "notes": "answer 直接接对象，reply 必须搭配 to。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "易混搭配与省略",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0055",
+      "zh": "不能仅根据价格把这两种材料相比较。",
+      "en": "The two materials cannot be compared solely on price.",
+      "answers": [
+        "The two materials cannot be compared solely on price.",
+        "The two materials can't be compared solely on price."
+      ],
+      "notes": "compare on + 比较维度；solely 限定单一依据。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "易混搭配与省略",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0056",
+      "zh": "她向我们解释了故障，但没有解释为什么没有提前通知。",
+      "en": "She explained the fault to us but not the lack of advance notice.",
+      "answers": [
+        "She explained the fault to us but not the lack of advance notice."
+      ],
+      "notes": "explain something to someone，不能写 explain us something。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "易混搭配与省略",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0057",
+      "zh": "我提醒他检查电池，并没有警告他会失败。",
+      "en": "I reminded him to check the battery; I did not warn him of failure.",
+      "answers": [
+        "I reminded him to check the battery; I did not warn him of failure.",
+        "I reminded him to check the battery; I didn't warn him of failure."
+      ],
+      "notes": "remind someone to do 与 warn someone of something 使用不同补足结构。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "易混搭配与省略",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0058",
+      "zh": "我更喜欢步行，而不是等一班不确定何时来的车。",
+      "en": "I prefer walking to waiting for an unpredictable bus.",
+      "answers": [
+        "I prefer walking to waiting for an unpredictable bus."
+      ],
+      "notes": "prefer doing to doing；to 是比较介词，后接动名词。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "易混搭配与省略",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0059",
+      "zh": "这个数据集包括匿名回答，但不包含联系方式。",
+      "en": "The dataset comprises anonymous responses but excludes contact details.",
+      "answers": [
+        "The dataset comprises anonymous responses but excludes contact details."
+      ],
+      "notes": "comprise 为及物动词，此处不写 comprise of。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "易混搭配与省略",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_prepositions_patterns_s1_0060",
+      "zh": "尽管缺少说明书，他们还是把零件正确装好了。",
+      "en": "Despite the missing manual, they assembled the parts correctly.",
+      "answers": [
+        "Despite the missing manual, they assembled the parts correctly."
+      ],
+      "notes": "despite 后接名词短语，不能写 despite of。",
+      "tags": [
+        "语法专项",
+        "介词",
+        "易混搭配与省略",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    }
+  ]
+}

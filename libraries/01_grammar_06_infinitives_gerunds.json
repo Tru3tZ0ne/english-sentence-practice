@@ -1,0 +1,981 @@
+{
+  "schema_version": 1,
+  "id": "grammar_infinitives_gerunds",
+  "title": "语法 · 非谓语｜不定式与动名词 · 60 句",
+  "description": "动词补足形式、stop/remember/try/mean 的意义变化、主语评价、使役及用途。",
+  "language": "en-GB",
+  "tags": [
+    "语法专项",
+    "非谓语",
+    "初中至高中"
+  ],
+  "items": [
+    {
+      "id": "grammar_infinitives_gerunds_s1_0001",
+      "zh": "他们决定把入口移到背风的一侧。",
+      "en": "They decided to move the entrance to the sheltered side.",
+      "answers": [
+        "They decided to move the entrance to the sheltered side."
+      ],
+      "notes": "decide to do，不用 decide doing。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "动词后接不定式",
+        "初中至高中"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0002",
+      "zh": "我设法从裂缝里取出了卡片。",
+      "en": "I managed to retrieve the card from the crack.",
+      "answers": [
+        "I managed to retrieve the card from the crack."
+      ],
+      "notes": "manage to do 表成功做到，不只是尝试。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "动词后接不定式",
+        "初中至高中"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0003",
+      "zh": "她拒绝在看过样品之前批准印刷。",
+      "en": "She refused to approve printing before seeing a sample.",
+      "answers": [
+        "She refused to approve printing before seeing a sample."
+      ],
+      "notes": "refuse to do；before 后用 seeing。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "动词后接不定式",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0004",
+      "zh": "我们希望能在开放前完成照明测试。",
+      "en": "We hope to finish testing the lighting before opening.",
+      "answers": [
+        "We hope to finish testing the lighting before opening."
+      ],
+      "notes": "hope to do；finish 后接 testing，两种补足形式不同。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "动词后接不定式",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0005",
+      "zh": "那位歌手似乎还不知道节目有变。",
+      "en": "The singer appears to be unaware of the programme change.",
+      "answers": [
+        "The singer appears to be unaware of the programme change."
+      ],
+      "notes": "appear to be + 形容词表观察判断；unaware of：不知道。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "动词后接不定式",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0006",
+      "zh": "请安排在安静的房间里进行录音。",
+      "en": "Please arrange to record in a quiet room.",
+      "answers": [
+        "Please arrange to record in a quiet room."
+      ],
+      "notes": "arrange to do；不定式说明安排做的动作。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "动词后接不定式",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0007",
+      "zh": "我没能让门锁重新正常工作。",
+      "en": "I failed to get the lock working again.",
+      "answers": [
+        "I failed to get the lock working again."
+      ],
+      "notes": "fail to do；get + 宾语 + working 表使恢复运转。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "动词后接不定式",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0008",
+      "zh": "我们不能承受丢失唯一原件的风险。",
+      "en": "We cannot afford to lose the sole original.",
+      "answers": [
+        "We cannot afford to lose the sole original.",
+        "We can't afford to lose the sole original."
+      ],
+      "notes": "afford to do 表承受某行为后果，不限金钱。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "动词后接不定式",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0009",
+      "zh": "他主动提出陪我们去核对地址。",
+      "en": "He offered to accompany us to verify the address.",
+      "answers": [
+        "He offered to accompany us to verify the address."
+      ],
+      "notes": "offer to do 表主动提议；第二个 to 表目的。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "动词后接不定式",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0010",
+      "zh": "承包方同意更换所有破损的地砖。",
+      "en": "The contractor agreed to replace every cracked tile.",
+      "answers": [
+        "The contractor agreed to replace every cracked tile."
+      ],
+      "notes": "agree to do，区别 agree with someone。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "动词后接不定式",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0011",
+      "zh": "我很享受把碎片重新拼成图案的过程。",
+      "en": "I enjoy fitting the fragments back into a pattern.",
+      "answers": [
+        "I enjoy fitting the fragments back into a pattern."
+      ],
+      "notes": "enjoy 后接 doing，不接 to do。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "动词后接动名词",
+        "初中至高中"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0012",
+      "zh": "他们考虑把旧门改成一张桌子。",
+      "en": "They considered turning the old door into a table.",
+      "answers": [
+        "They considered turning the old door into a table."
+      ],
+      "notes": "consider doing：考虑做，而不是认为某人是什么。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "动词后接动名词",
+        "初中至高中"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0013",
+      "zh": "请避免在接缝处施加压力。",
+      "en": "Avoid applying pressure to the seam.",
+      "answers": [
+        "Avoid applying pressure to the seam."
+      ],
+      "notes": "avoid doing；apply pressure to：向某处施压。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "动词后接动名词",
+        "初中至高中"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0014",
+      "zh": "我不介意重做封面，但希望保留正文。",
+      "en": "I do not mind redoing the cover, but I want to retain the text.",
+      "answers": [
+        "I do not mind redoing the cover, but I want to retain the text.",
+        "I don't mind redoing the cover, but I want to retain the text."
+      ],
+      "notes": "mind doing；want to do，两者补足形式不同。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "动词后接动名词",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0015",
+      "zh": "工程师建议减少连接点的数量。",
+      "en": "The engineer suggested reducing the number of joints.",
+      "answers": [
+        "The engineer suggested reducing the number of joints."
+      ],
+      "notes": "suggest doing，不用 suggest to do。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "动词后接动名词",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0016",
+      "zh": "我们推迟了给门框进行最后打磨的工作。",
+      "en": "We postponed giving the doorframe its final sanding.",
+      "answers": [
+        "We postponed giving the doorframe its final sanding."
+      ],
+      "notes": "postpone doing：推迟某动作；final 明确修饰打磨步骤。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "动词后接动名词",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0017",
+      "zh": "他承认把两个编号抄反了。",
+      "en": "He admitted reversing the two numbers when copying them.",
+      "answers": [
+        "He admitted reversing the two numbers when copying them."
+      ],
+      "notes": "admit doing：承认做过；reverse：颠倒。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "动词后接动名词",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0018",
+      "zh": "他们否认曾向公众开放过这个通道。",
+      "en": "They denied opening the passage to the public.",
+      "answers": [
+        "They denied opening the passage to the public."
+      ],
+      "notes": "deny doing 表否认行为，不用 deny to do。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "动词后接动名词",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0019",
+      "zh": "我们已经完成了对每个按钮的标记。",
+      "en": "We have finished labelling every button.",
+      "answers": [
+        "We have finished labelling every button."
+      ],
+      "notes": "finish doing 表完成动作；没有 finish to label。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "动词后接动名词",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0020",
+      "zh": "我想象过在这样的小房间里排练会是什么样。",
+      "en": "I imagined rehearsing in such a small room.",
+      "answers": [
+        "I imagined rehearsing in such a small room."
+      ],
+      "notes": "imagine doing：想象做某事。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "动词后接动名词",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0021",
+      "zh": "停下搬箱子的工作，先来看看这个裂缝。",
+      "en": "Stop moving the crates and look at this crack first.",
+      "answers": [
+        "Stop moving the crates and look at this crack first."
+      ],
+      "notes": "stop doing：停止正在进行的行为。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "两种形式含义不同",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0022",
+      "zh": "我们在门口停下来核对腕带。",
+      "en": "We stopped to check wristbands at the entrance.",
+      "answers": [
+        "We stopped to check wristbands at the entrance."
+      ],
+      "notes": "stop to do：停下原先活动，去做另一件事。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "两种形式含义不同",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0023",
+      "zh": "我记得把收据夹在了说明书里。",
+      "en": "I remember placing the receipt inside the manual.",
+      "answers": [
+        "I remember placing the receipt inside the manual."
+      ],
+      "notes": "remember doing：记得已经做过。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "两种形式含义不同",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0024",
+      "zh": "离开前记得关上天窗。",
+      "en": "Remember to close the skylight before leaving.",
+      "answers": [
+        "Remember to close the skylight before leaving."
+      ],
+      "notes": "remember to do：记得去完成待办行为。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "两种形式含义不同",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0025",
+      "zh": "我忘了给钥匙贴标签，现在分不清哪把是哪把。",
+      "en": "I forgot to label the keys and now cannot tell them apart.",
+      "answers": [
+        "I forgot to label the keys and now cannot tell them apart.",
+        "I forgot to label the keys and now can't tell them apart."
+      ],
+      "notes": "forget to do 表未做；tell apart：区分。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "两种形式含义不同",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0026",
+      "zh": "我永远不会忘记第一次触摸那块陨石。",
+      "en": "I will never forget touching that meteorite for the first time.",
+      "answers": [
+        "I will never forget touching that meteorite for the first time."
+      ],
+      "notes": "forget doing 指忘记过去经历，与未完成任务不同。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "两种形式含义不同",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0027",
+      "zh": "不妨把插头倒过来试试，看看是否能接上。",
+      "en": "Try turning the plug around to see whether it fits.",
+      "answers": [
+        "Try turning the plug around to see whether it fits."
+      ],
+      "notes": "try doing 表尝试一种解决方法。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "两种形式含义不同",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0028",
+      "zh": "他努力够到开关，却始终差一点。",
+      "en": "He tried to reach the switch but fell just short.",
+      "answers": [
+        "He tried to reach the switch but fell just short."
+      ],
+      "notes": "try to do 表努力做，未保证成功。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "两种形式含义不同",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0029",
+      "zh": "保留整面墙意味着失去一部分展示空间。",
+      "en": "Keeping the whole wall means losing some display space.",
+      "answers": [
+        "Keeping the whole wall means losing some display space."
+      ],
+      "notes": "mean doing：意味着产生某结果。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "两种形式含义不同",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0030",
+      "zh": "我本来打算给边缘上漆，却把它漏掉了。",
+      "en": "I meant to paint the edges but overlooked them.",
+      "answers": [
+        "I meant to paint the edges but overlooked them."
+      ],
+      "notes": "mean to do：本打算做，不是“意味着”。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "两种形式含义不同",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0031",
+      "zh": "把每个步骤都拍下来需要额外时间。",
+      "en": "Photographing every step takes extra time.",
+      "answers": [
+        "Photographing every step takes extra time."
+      ],
+      "notes": "动名词短语作主语，谓语用 takes。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "主语与评价结构",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0032",
+      "zh": "在这里安装坡道并不困难。",
+      "en": "It is not difficult to install a ramp here.",
+      "answers": [
+        "It is not difficult to install a ramp here.",
+        "It isn't difficult to install a ramp here."
+      ],
+      "notes": "it 为形式主语，真正主语是不定式。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "主语与评价结构",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0033",
+      "zh": "在未测量前就切割材料是浪费。",
+      "en": "Cutting material before measuring it is wasteful.",
+      "answers": [
+        "Cutting material before measuring it is wasteful."
+      ],
+      "notes": "动名词作主语；before 后也用动名词。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "主语与评价结构",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0034",
+      "zh": "为了省一分钟而损坏样品并不值得。",
+      "en": "It is not worth damaging a sample to save a minute.",
+      "answers": [
+        "It is not worth damaging a sample to save a minute.",
+        "It isn't worth damaging a sample to save a minute."
+      ],
+      "notes": "worth 后接 doing，不定式 to save 另表目的。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "主语与评价结构",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0035",
+      "zh": "试图移动一块已经固定的板没有意义。",
+      "en": "There is no point in trying to move a fixed panel.",
+      "answers": [
+        "There is no point in trying to move a fixed panel."
+      ],
+      "notes": "no point in doing；try to move 表试图做。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "主语与评价结构",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0036",
+      "zh": "清楚地标出边界可以减少误解。",
+      "en": "Marking boundaries clearly can reduce misunderstandings.",
+      "answers": [
+        "Marking boundaries clearly can reduce misunderstandings."
+      ],
+      "notes": "动名词短语整体作主语；clearly 修饰 marking。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "主语与评价结构",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0037",
+      "zh": "不戴手套处理这种材料是不明智的。",
+      "en": "It is unwise to handle this material without gloves.",
+      "answers": [
+        "It is unwise to handle this material without gloves."
+      ],
+      "notes": "it is + 形容词 + to do，对行为作评价。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "主语与评价结构",
+        "初中至高中"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0038",
+      "zh": "她主动把自己的位置让给别人，真是体贴。",
+      "en": "It was considerate of her to give up her place.",
+      "answers": [
+        "It was considerate of her to give up her place."
+      ],
+      "notes": "评价人的品质用 of someone，而非 for someone。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "主语与评价结构",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0039",
+      "zh": "对视力较弱的人来说，分辨这些浅色很困难。",
+      "en": "It is difficult for people with poor eyesight to distinguish these pale colours.",
+      "answers": [
+        "It is difficult for people with poor eyesight to distinguish these pale colours."
+      ],
+      "notes": "说明行为对某人的难度用 for someone。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "主语与评价结构",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0040",
+      "zh": "我们当前的首要任务是确定物件的来源。",
+      "en": "Our immediate priority is to establish the object's origin.",
+      "answers": [
+        "Our immediate priority is to establish the object's origin."
+      ],
+      "notes": "不定式作表语，说明待完成目标。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "主语与评价结构",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0041",
+      "zh": "守卫要求我们出示箱子里的物品。",
+      "en": "The guard asked us to show the contents of the case.",
+      "answers": [
+        "The guard asked us to show the contents of the case."
+      ],
+      "notes": "ask someone to do，宾语 us 是 show 的逻辑主语。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "宾语补足与使役",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0042",
+      "zh": "这块垫片能防止盖子完全合上。",
+      "en": "The spacer prevents the lid from closing fully.",
+      "answers": [
+        "The spacer prevents the lid from closing fully."
+      ],
+      "notes": "prevent someone/something from doing，不用 to close。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "宾语补足与使役",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0043",
+      "zh": "我让助手把编号再读一遍。",
+      "en": "I had the assistant read the numbers again.",
+      "answers": [
+        "I had the assistant read the numbers again."
+      ],
+      "notes": "have someone do 的 do 为原形，不带 to。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "宾语补足与使役",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0044",
+      "zh": "这段音效让观众转头看向后方。",
+      "en": "The sound effect made the audience turn towards the back.",
+      "answers": [
+        "The sound effect made the audience turn towards the back."
+      ],
+      "notes": "make someone do 主动句用原形。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "宾语补足与使役",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0045",
+      "zh": "他们被要求从头重新填写表格。",
+      "en": "They were made to complete the form again from the beginning.",
+      "answers": [
+        "They were made to complete the form again from the beginning."
+      ],
+      "notes": "make 被动结构恢复 to：be made to do。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "宾语补足与使役",
+        "初中至高中"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0046",
+      "zh": "请允许材料自然干燥。",
+      "en": "Allow the material to dry naturally.",
+      "answers": [
+        "Allow the material to dry naturally."
+      ],
+      "notes": "allow something to do，与 let ... do 区分。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "宾语补足与使役",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0047",
+      "zh": "别让电池直接接触金属。",
+      "en": "Do not let the battery touch bare metal.",
+      "answers": [
+        "Do not let the battery touch bare metal.",
+        "Don't let the battery touch bare metal."
+      ],
+      "notes": "let + 宾语 + 原形，不加 to。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "宾语补足与使役",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0048",
+      "zh": "标记能帮助使用者把零件正确对齐。",
+      "en": "The marks help users align the parts correctly.",
+      "answers": [
+        "The marks help users align the parts correctly.",
+        "The marks help users to align the parts correctly."
+      ],
+      "notes": "help someone do，也可用 help someone to do。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "宾语补足与使役",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0049",
+      "zh": "我们说服店主保留了那块旧招牌。",
+      "en": "We persuaded the owner to retain the old sign.",
+      "answers": [
+        "We persuaded the owner to retain the old sign."
+      ],
+      "notes": "persuade someone to do：说服某人做。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "宾语补足与使役",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0050",
+      "zh": "谁授权他们拆除这些支架的？",
+      "en": "Who authorised them to remove these supports?",
+      "answers": [
+        "Who authorised them to remove these supports?"
+      ],
+      "notes": "authorise someone to do；who 作疑问句主语。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "宾语补足与使役",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0051",
+      "zh": "我带了一块布来包住锋利的边缘。",
+      "en": "I brought a cloth to wrap around the sharp edges.",
+      "answers": [
+        "I brought a cloth to wrap around the sharp edges."
+      ],
+      "notes": "to wrap 修饰 cloth，说明用途。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "目的与名词后置",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0052",
+      "zh": "我们没有足够的夹子来固定整圈边框。",
+      "en": "We lack enough clamps to secure the whole border.",
+      "answers": [
+        "We lack enough clamps to secure the whole border."
+      ],
+      "notes": "enough + 名词 + to do 说明达到用途所需数量。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "目的与名词后置",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0053",
+      "zh": "这扇门太窄，轮椅无法通过。",
+      "en": "The doorway is too narrow for a wheelchair to pass through.",
+      "answers": [
+        "The doorway is too narrow for a wheelchair to pass through."
+      ],
+      "notes": "too ... for ... to ...；through 保留与 doorway 的关系。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "目的与名词后置",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0054",
+      "zh": "这里需要一个可以安全切割的表面。",
+      "en": "We need a surface to cut on safely.",
+      "answers": [
+        "We need a surface to cut on safely."
+      ],
+      "notes": "不定式与名词为介词宾语关系，保留 on。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "目的与名词后置",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0055",
+      "zh": "谁是最后一个检查锁扣的人？",
+      "en": "Who was the last person to inspect the clasp?",
+      "answers": [
+        "Who was the last person to inspect the clasp?"
+      ],
+      "notes": "the last person 后用不定式作定语。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "目的与名词后置",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0056",
+      "zh": "他把眼镜取下来，以便更靠近查看划痕。",
+      "en": "He removed his glasses to examine the scratch more closely.",
+      "answers": [
+        "He removed his glasses to examine the scratch more closely."
+      ],
+      "notes": "to do 表目的，逻辑主语与主句相同。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "目的与名词后置",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0057",
+      "zh": "为了不遮住出口，展台被移到了墙边。",
+      "en": "The stand was moved against the wall so as not to obstruct the exit.",
+      "answers": [
+        "The stand was moved against the wall so as not to obstruct the exit."
+      ],
+      "notes": "so as not to 表否定目的；not 放在 to 前。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "目的与名词后置",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0058",
+      "zh": "我们需要找一个能商量这个问题的人。",
+      "en": "We need someone to discuss this problem with.",
+      "answers": [
+        "We need someone to discuss this problem with."
+      ],
+      "notes": "with 不能省略，因为 someone 是 discuss ... with 的对象。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "目的与名词后置",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0059",
+      "zh": "这是一个重新审视采购方式的机会。",
+      "en": "This is an opportunity to reconsider how we purchase supplies.",
+      "answers": [
+        "This is an opportunity to reconsider how we purchase supplies."
+      ],
+      "notes": "opportunity 后接 to do 说明机会内容。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "目的与名词后置",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_infinitives_gerunds_s1_0060",
+      "zh": "我把备用灯放在近处，以便发生故障时使用。",
+      "en": "I kept a spare lamp nearby to use in case of a failure.",
+      "answers": [
+        "I kept a spare lamp nearby to use in case of a failure."
+      ],
+      "notes": "to use 表用途；in case of + 名词表预防情形。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "目的与名词后置",
+        "初中至高中"
+      ],
+      "difficulty": 3
+    }
+  ]
+}

@@ -1,0 +1,984 @@
+{
+  "schema_version": 1,
+  "id": "ielts_global_connections",
+  "title": "雅思·全球联系与地方发展 · 64 句",
+  "description": "贸易、供应链、人才迁移、语言交流、旅游、国际规则、援助与地方影响。",
+  "language": "en-GB",
+  "tags": [
+    "IELTS",
+    "全球联系",
+    "逐题讲解"
+  ],
+  "items": [
+    {
+      "id": "ielts_global_connections_v3_0001",
+      "zh": "贸易能扩大选择，也会改变本地企业面对的竞争。",
+      "en": "Trade expands choice while changing competition for local firms.",
+      "answers": [
+        "Trade expands choice while changing competition for local firms."
+      ],
+      "notes": "while：同时",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "贸易"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0002",
+      "zh": "关税可能保护生产者，却增加部分消费者成本。",
+      "en": "Tariffs can protect producers while raising some consumer costs.",
+      "answers": [
+        "Tariffs can protect producers while raising some consumer costs."
+      ],
+      "notes": "tariff：关税",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "贸易"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0003",
+      "zh": "进口依赖的风险取决于替代来源是否存在。",
+      "en": "Import dependence is riskier when alternative sources are unavailable.",
+      "answers": [
+        "Import dependence is riskier when alternative sources are unavailable."
+      ],
+      "notes": "alternative source",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "贸易"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0004",
+      "zh": "出口增长需要稳定的物流支持。",
+      "en": "Export growth requires dependable logistics.",
+      "answers": [
+        "Export growth requires dependable logistics."
+      ],
+      "notes": "logistics：物流",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "贸易"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0005",
+      "zh": "贸易收益可能在行业之间分配不均。",
+      "en": "Trade benefits can be distributed unevenly across sectors.",
+      "answers": [
+        "Trade benefits can be distributed unevenly across sectors."
+      ],
+      "notes": "unevenly：不均",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "贸易"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0006",
+      "zh": "共同标准可以减少重复检测，但小型出口商可能需要支持才能支付认证费用。",
+      "en": "Common standards can reduce duplicate testing, but small exporters may need help with certification costs.",
+      "answers": [
+        "Common standards can reduce duplicate testing, but small exporters may need help with certification costs."
+      ],
+      "notes": "duplicate testing：重复检测；certification costs：认证费用。",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "贸易"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_global_connections_v3_0007",
+      "zh": "低价进口不一定意味着生产条件令人满意。",
+      "en": "Cheap imports do not establish satisfactory production conditions.",
+      "answers": [
+        "Cheap imports do not establish satisfactory production conditions.",
+        "Cheap imports don't establish satisfactory production conditions."
+      ],
+      "notes": "establish：证明",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "贸易"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0008",
+      "zh": "贸易争端可能影响并未参与决策的工人。",
+      "en": "Trade disputes can affect workers excluded from decision-making.",
+      "answers": [
+        "Trade disputes can affect workers excluded from decision-making."
+      ],
+      "notes": "excluded：未参与",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "贸易"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0009",
+      "zh": "全球分工可以提高专业化程度，同时加深生产环节之间的依赖。",
+      "en": "A global division of labour can increase specialisation while deepening dependence between production stages.",
+      "answers": [
+        "A global division of labour can increase specialisation while deepening dependence between production stages."
+      ],
+      "notes": "division of labour：分工；while 表示并存的影响。",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "供应链"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0010",
+      "zh": "单一港口中断可能影响远处工厂。",
+      "en": "Disruption at one port can affect distant factories.",
+      "answers": [
+        "Disruption at one port can affect distant factories."
+      ],
+      "notes": "disruption：中断",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "供应链"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0011",
+      "zh": "储备库存需要与仓储成本权衡。",
+      "en": "Reserve inventories must be weighed against storage costs.",
+      "answers": [
+        "Reserve inventories must be weighed against storage costs."
+      ],
+      "notes": "inventory：库存",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "供应链"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0012",
+      "zh": "供应商多元化不等于没有风险。",
+      "en": "Supplier diversification does not eliminate risk.",
+      "answers": [
+        "Supplier diversification does not eliminate risk.",
+        "Supplier diversification doesn't eliminate risk."
+      ],
+      "notes": "diversification：多元化",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "供应链"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0013",
+      "zh": "透明合同能明确延误责任。",
+      "en": "Transparent contracts can clarify responsibility for delays.",
+      "answers": [
+        "Transparent contracts can clarify responsibility for delays."
+      ],
+      "notes": "clarify：明确",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "供应链"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0014",
+      "zh": "外包会转移任务，但不一定消除责任。",
+      "en": "Outsourcing transfers tasks without necessarily removing responsibility.",
+      "answers": [
+        "Outsourcing transfers tasks without necessarily removing responsibility."
+      ],
+      "notes": "outsourcing：外包",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "供应链"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0015",
+      "zh": "企业需要了解直接供应商之外的环节。",
+      "en": "Firms need visibility beyond their immediate suppliers.",
+      "answers": [
+        "Firms need visibility beyond their immediate suppliers."
+      ],
+      "notes": "visibility：可见性",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "供应链"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0016",
+      "zh": "效率与应对中断的能力需要同时考虑。",
+      "en": "Efficiency and resilience to disruption need joint consideration.",
+      "answers": [
+        "Efficiency and resilience to disruption need joint consideration."
+      ],
+      "notes": "resilience：应对能力",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "供应链"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0017",
+      "zh": "人才流动可以促进知识交流，同时也可能使某些地区出现技能短缺。",
+      "en": "Talent mobility can facilitate knowledge exchange while leaving some regions short of skills.",
+      "answers": [
+        "Talent mobility can facilitate knowledge exchange while leaving some regions short of skills."
+      ],
+      "notes": "facilitate：促进；leave ... short of：使……缺少。",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "迁移与人才"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_global_connections_v3_0018",
+      "zh": "海外资格未获认可会浪费已有技能。",
+      "en": "Unrecognised overseas qualifications can leave existing skills unused.",
+      "answers": [
+        "Unrecognised overseas qualifications can leave existing skills unused."
+      ],
+      "notes": "qualification：资格",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "迁移与人才"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0019",
+      "zh": "移民融入需要语言支持和就业机会。",
+      "en": "Migrant integration needs language support and employment opportunities.",
+      "answers": [
+        "Migrant integration needs language support and employment opportunities."
+      ],
+      "notes": "integration：融入",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "迁移与人才"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0020",
+      "zh": "汇款能够支持家庭，却不能替代全部公共服务。",
+      "en": "Remittances support families but cannot replace every public service.",
+      "answers": [
+        "Remittances support families but cannot replace every public service.",
+        "Remittances support families but can't replace every public service."
+      ],
+      "notes": "remittance：汇款",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "迁移与人才"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0021",
+      "zh": "移居海外的人可能通过远程指导继续支持家乡的专业网络。",
+      "en": "People who move abroad may continue supporting professional networks at home through remote mentoring.",
+      "answers": [
+        "People who move abroad may continue supporting professional networks at home through remote mentoring."
+      ],
+      "notes": "at home 指原居国或家乡；through 表示支持方式。",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "迁移与人才"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0022",
+      "zh": "短期签证会限制家庭作长期安排的能力。",
+      "en": "Short-term visas can limit families' capacity for long-term planning.",
+      "answers": [
+        "Short-term visas can limit families' capacity for long-term planning."
+      ],
+      "notes": "short-term 与 long-term 对照两个时间尺度。",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "迁移与人才"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0023",
+      "zh": "吸引人才的政策也应考虑本地培训。",
+      "en": "Talent recruitment policies should also consider local training.",
+      "answers": [
+        "Talent recruitment policies should also consider local training."
+      ],
+      "notes": "recruitment：引进",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "迁移与人才"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0024",
+      "zh": "返回者可能把新经验带回原社区。",
+      "en": "Returnees may bring new experience to their home communities.",
+      "answers": [
+        "Returnees may bring new experience to their home communities."
+      ],
+      "notes": "returnee：返回者",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "迁移与人才"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0025",
+      "zh": "共同语言能够降低沟通成本，但不消除文化差异。",
+      "en": "A shared language lowers communication costs without erasing cultural differences.",
+      "answers": [
+        "A shared language lowers communication costs without erasing cultural differences."
+      ],
+      "notes": "erase：消除",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "语言与交流"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0026",
+      "zh": "翻译应重视含义，而不是仅对应字词。",
+      "en": "Translation should preserve meaning rather than merely match words.",
+      "answers": [
+        "Translation should preserve meaning rather than merely match words."
+      ],
+      "notes": "merely：仅仅",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "语言与交流"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0027",
+      "zh": "优势语言可能挤压小语种的使用空间。",
+      "en": "Dominant languages can narrow the space for minority languages.",
+      "answers": [
+        "Dominant languages can narrow the space for minority languages."
+      ],
+      "notes": "dominant：优势的",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "语言与交流"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0028",
+      "zh": "跨国协议中，同一个术语可能在不同法律体系下产生不同义务。",
+      "en": "In cross-border agreements, the same term may create different obligations under different legal systems.",
+      "answers": [
+        "In cross-border agreements, the same term may create different obligations under different legal systems."
+      ],
+      "notes": "under a legal system：在某法律体系下。",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "语言与交流"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_global_connections_v3_0029",
+      "zh": "口音不应被自动等同于能力不足。",
+      "en": "An accent should not be equated with limited ability.",
+      "answers": [
+        "An accent should not be equated with limited ability.",
+        "An accent shouldn't be equated with limited ability."
+      ],
+      "notes": "equate with：等同",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "语言与交流"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0030",
+      "zh": "学习当地语言可能让新来者参与非正式交流，而这种机会难以用考试分数衡量。",
+      "en": "Learning the local language may open informal conversations to newcomers, an opportunity poorly captured by test scores.",
+      "answers": [
+        "Learning the local language may open informal conversations to newcomers, an opportunity poorly captured by test scores."
+      ],
+      "notes": "同位语 an opportunity 说明难以量化的收益。",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "语言与交流"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_global_connections_v3_0031",
+      "zh": "跨时区协作需要公平分担不便。",
+      "en": "Work across time zones requires fair sharing of inconvenience.",
+      "answers": [
+        "Work across time zones requires fair sharing of inconvenience."
+      ],
+      "notes": "time zone：时区",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "语言与交流"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0032",
+      "zh": "直接表达在不同文化中可能被不同解读。",
+      "en": "Direct expression can be interpreted differently across cultures.",
+      "answers": [
+        "Direct expression can be interpreted differently across cultures."
+      ],
+      "notes": "interpret：解读",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "语言与交流"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0033",
+      "zh": "国际旅游使地方经济接触新的需求。",
+      "en": "International tourism exposes local economies to new demand.",
+      "answers": [
+        "International tourism exposes local economies to new demand."
+      ],
+      "notes": "expose to：使接触",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "旅游联系"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0034",
+      "zh": "游客支出不一定留在目的地社区。",
+      "en": "Tourist spending does not necessarily stay in destination communities.",
+      "answers": [
+        "Tourist spending does not necessarily stay in destination communities.",
+        "Tourist spending doesn't necessarily stay in destination communities."
+      ],
+      "notes": "destination：目的地",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "旅游联系"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0035",
+      "zh": "文化展示可能在市场压力下被简化。",
+      "en": "Cultural presentations may be simplified under market pressure.",
+      "answers": [
+        "Cultural presentations may be simplified under market pressure."
+      ],
+      "notes": "market pressure",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "旅游联系"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0036",
+      "zh": "旅游淡季会影响临时工的收入稳定。",
+      "en": "Tourism's low season affects temporary workers' income stability.",
+      "answers": [
+        "Tourism's low season affects temporary workers' income stability."
+      ],
+      "notes": "low season：淡季",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "旅游联系"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0037",
+      "zh": "目的地推广应尊重当地居民的生活。",
+      "en": "Destination promotion should respect residents' everyday lives.",
+      "answers": [
+        "Destination promotion should respect residents' everyday lives."
+      ],
+      "notes": "promotion：推广",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "旅游联系"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0038",
+      "zh": "旅游限制需要说明实施依据。",
+      "en": "Tourism restrictions need a clear rationale.",
+      "answers": [
+        "Tourism restrictions need a clear rationale."
+      ],
+      "notes": "rationale：依据",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "旅游联系"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0039",
+      "zh": "远程地区可能承担较高的接待成本。",
+      "en": "Remote destinations may bear high visitor-management costs.",
+      "answers": [
+        "Remote destinations may bear high visitor-management costs."
+      ],
+      "notes": "bear：承担",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "旅游联系"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0040",
+      "zh": "交流的质量比短暂停留的数量更难衡量。",
+      "en": "Exchange quality is harder to measure than brief visit counts.",
+      "answers": [
+        "Exchange quality is harder to measure than brief visit counts."
+      ],
+      "notes": "brief：短暂",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "旅游联系"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0041",
+      "zh": "跨境问题难以由单个国家独自解决。",
+      "en": "Cross-border problems resist purely national solutions.",
+      "answers": [
+        "Cross-border problems resist purely national solutions."
+      ],
+      "notes": "cross-border：跨境",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "国际规则"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0042",
+      "zh": "共同规则需要可信的执行机制。",
+      "en": "Shared rules require credible enforcement mechanisms.",
+      "answers": [
+        "Shared rules require credible enforcement mechanisms."
+      ],
+      "notes": "enforcement：执行",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "国际规则"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0043",
+      "zh": "资源较少的国家也应参与规则制定。",
+      "en": "Less-resourced countries should participate in rule-making.",
+      "answers": [
+        "Less-resourced countries should participate in rule-making."
+      ],
+      "notes": "participate：参与",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "国际规则"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0044",
+      "zh": "协议签署不等于国内执行已经完成。",
+      "en": "Signing an agreement does not complete domestic implementation.",
+      "answers": [
+        "Signing an agreement does not complete domestic implementation.",
+        "Signing an agreement doesn't complete domestic implementation."
+      ],
+      "notes": "implementation：执行",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "国际规则"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0045",
+      "zh": "长期合作需要处理利益不对称。",
+      "en": "Lasting cooperation needs to address asymmetric interests.",
+      "answers": [
+        "Lasting cooperation needs to address asymmetric interests."
+      ],
+      "notes": "asymmetric：不对称",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "国际规则"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0046",
+      "zh": "技术标准可能影响谁能进入市场。",
+      "en": "Technical standards can shape market access.",
+      "answers": [
+        "Technical standards can shape market access."
+      ],
+      "notes": "market access：市场准入",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "国际规则"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0047",
+      "zh": "知识产权规则需要考虑不同发展阶段。",
+      "en": "Intellectual property rules should consider differing development stages.",
+      "answers": [
+        "Intellectual property rules should consider differing development stages."
+      ],
+      "notes": "intellectual property",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "国际规则"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0048",
+      "zh": "争端处理程序应对弱势参与者可用。",
+      "en": "Dispute procedures need to be accessible to weaker participants.",
+      "answers": [
+        "Dispute procedures need to be accessible to weaker participants."
+      ],
+      "notes": "accessible：可用",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "国际规则"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0049",
+      "zh": "援助项目需要适应接受方的制度能力。",
+      "en": "Aid projects need to match recipients' institutional capacity.",
+      "answers": [
+        "Aid projects need to match recipients' institutional capacity."
+      ],
+      "notes": "institutional：制度的",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "援助与发展"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0050",
+      "zh": "外部设备如果无法维修，长期价值可能有限。",
+      "en": "Imported equipment has limited value if it cannot be maintained.",
+      "answers": [
+        "Imported equipment has limited value if it cannot be maintained.",
+        "Imported equipment has limited value if it can't be maintained."
+      ],
+      "notes": "maintain：维护",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "援助与发展"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0051",
+      "zh": "让当地居民参与选择供水地点，有助于识别外部规划者忽略的步行负担。",
+      "en": "Involving residents in choosing water-supply locations can reveal walking burdens overlooked by outside planners.",
+      "answers": [
+        "Involving residents in choosing water-supply locations can reveal walking burdens overlooked by outside planners."
+      ],
+      "notes": "involve ... in：让……参与；overlooked 限定被忽略的负担。",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "援助与发展"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_global_connections_v3_0052",
+      "zh": "短期交付数量不能完整证明发展成效。",
+      "en": "Short-term delivery counts cannot fully demonstrate development outcomes.",
+      "answers": [
+        "Short-term delivery counts cannot fully demonstrate development outcomes.",
+        "Short-term delivery counts can't fully demonstrate development outcomes."
+      ],
+      "notes": "outcome：成效",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "援助与发展"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0053",
+      "zh": "资金承诺应与实际到账区分开。",
+      "en": "Funding pledges should be distinguished from actual disbursements.",
+      "answers": [
+        "Funding pledges should be distinguished from actual disbursements."
+      ],
+      "notes": "disbursement：拨付",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "援助与发展"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0054",
+      "zh": "援助退出需要考虑服务能否持续。",
+      "en": "Aid withdrawal must consider whether services can continue.",
+      "answers": [
+        "Aid withdrawal must consider whether services can continue."
+      ],
+      "notes": "withdrawal：退出",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "援助与发展"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0055",
+      "zh": "跨国伙伴应分享知识，而不只是分配任务。",
+      "en": "International partners should share knowledge, not merely allocate tasks.",
+      "answers": [
+        "International partners should share knowledge, not merely allocate tasks."
+      ],
+      "notes": "allocate：分配",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "援助与发展"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0056",
+      "zh": "接受方应有空间调整不合适的方案。",
+      "en": "Recipients need room to adapt unsuitable proposals.",
+      "answers": [
+        "Recipients need room to adapt unsuitable proposals."
+      ],
+      "notes": "adapt：调整",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "援助与发展"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0057",
+      "zh": "全球趋势会通过当地条件产生不同结果。",
+      "en": "Global trends produce different outcomes through local conditions.",
+      "answers": [
+        "Global trends produce different outcomes through local conditions."
+      ],
+      "notes": "outcome：结果",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "全球与地方"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0058",
+      "zh": "本地特色可以在跨境交流中发展。",
+      "en": "Local identities can evolve through international exchange.",
+      "answers": [
+        "Local identities can evolve through international exchange."
+      ],
+      "notes": "evolve：发展变化",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "全球与地方"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0059",
+      "zh": "统一模式可能忽略重要的地区差别。",
+      "en": "Uniform models can overlook significant regional differences.",
+      "answers": [
+        "Uniform models can overlook significant regional differences."
+      ],
+      "notes": "uniform：统一的",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "全球与地方"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0060",
+      "zh": "全球品牌也需要理解本地习惯。",
+      "en": "Global brands also need to understand local practices.",
+      "answers": [
+        "Global brands also need to understand local practices."
+      ],
+      "notes": "practice：习惯",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "全球与地方"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0061",
+      "zh": "连接更紧密不意味着利益完全一致。",
+      "en": "Closer connections do not mean identical interests.",
+      "answers": [
+        "Closer connections do not mean identical interests.",
+        "Closer connections don't mean identical interests."
+      ],
+      "notes": "identical：相同",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "全球与地方"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0062",
+      "zh": "数字联系不能完全替代面对面理解。",
+      "en": "Digital connections cannot wholly replace face-to-face understanding.",
+      "answers": [
+        "Digital connections cannot wholly replace face-to-face understanding.",
+        "Digital connections can't wholly replace face-to-face understanding."
+      ],
+      "notes": "wholly：完全",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "全球与地方"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0063",
+      "zh": "国际经验应经过评估后用于本地。",
+      "en": "International experience needs appraisal before local application.",
+      "answers": [
+        "International experience needs appraisal before local application."
+      ],
+      "notes": "appraisal：评估",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "全球与地方"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_global_connections_v3_0064",
+      "zh": "一个国家可以保持贸易开放，同时为关键物资保留多种采购渠道。",
+      "en": "A country can remain open to trade while retaining several procurement channels for essential supplies.",
+      "answers": [
+        "A country can remain open to trade while retaining several procurement channels for essential supplies."
+      ],
+      "notes": "while 表示两个目标可以并行；procurement：采购。",
+      "tags": [
+        "IELTS",
+        "全球联系",
+        "全球与地方"
+      ],
+      "difficulty": 3
+    }
+  ]
+}

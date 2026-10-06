@@ -1,0 +1,979 @@
+{
+  "schema_version": 1,
+  "id": "level_cet4_campus",
+  "title": "分级 · 四级｜大学事务与学习沟通 · 60 句",
+  "description": "选课住宿、资料检索、小组展示、实习与学业申请；按大学英语四级常见应用任务定位的自编练习。",
+  "language": "en-GB",
+  "tags": [
+    "分级训练",
+    "四级",
+    "CET4",
+    "大学事务与学习沟通"
+  ],
+  "items": [
+    {
+      "id": "level_cet4_campus_g1_0001",
+      "zh": "这门课的实践环节与我的必修课冲突，因此我正在申请换组。",
+      "en": "The practical session clashes with a compulsory class, so I am applying to change groups.",
+      "answers": [
+        "The practical session clashes with a compulsory class, so I am applying to change groups."
+      ],
+      "notes": "clash with：时间冲突；compulsory：必修的。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "选课与学业安排"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0002",
+      "zh": "选课系统显示已满，但系办公室仍在统计额外需求。",
+      "en": "The registration system shows the course as full, but the department is still assessing additional demand.",
+      "answers": [
+        "The registration system shows the course as full, but the department is still assessing additional demand."
+      ],
+      "notes": "show ... as：显示为；assess demand：评估需求。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "选课与学业安排"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0003",
+      "zh": "我已修完先修课，但成绩尚未录入系统。",
+      "en": "I have completed the prerequisite course, although the grade has not yet been entered.",
+      "answers": [
+        "I have completed the prerequisite course, although the grade has not yet been entered.",
+        "I have completed the prerequisite course, although the grade hasn't yet been entered."
+      ],
+      "notes": "prerequisite：先修要求；现在完成时与被动语态结合。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "选课与学业安排"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0004",
+      "zh": "这门选修课不计入专业要求，却可以计入总学分。",
+      "en": "The elective does not count towards my major requirements, but it contributes to my total credits.",
+      "answers": [
+        "The elective does not count towards my major requirements, but it contributes to my total credits.",
+        "The elective doesn't count towards my major requirements, but it contributes to my total credits."
+      ],
+      "notes": "count towards：计入；credit：学分。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "选课与学业安排"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0005",
+      "zh": "退课截止日之后，需要额外提交书面理由。",
+      "en": "Withdrawing after the deadline requires an additional written explanation.",
+      "answers": [
+        "Withdrawing after the deadline requires an additional written explanation."
+      ],
+      "notes": "withdrawing 作主语；written explanation：书面说明。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "选课与学业安排"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0006",
+      "zh": "研讨课要求提前阅读，而不是到课堂上才第一次接触材料。",
+      "en": "The seminar requires advance reading, rather than a first encounter with the material in class.",
+      "answers": [
+        "The seminar requires advance reading, rather than a first encounter with the material in class."
+      ],
+      "notes": "advance reading：预先阅读；encounter：接触。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "选课与学业安排"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0007",
+      "zh": "如果转专业获批，我需要重新核对毕业要求。",
+      "en": "If my change of major is approved, I will need to review the graduation requirements.",
+      "answers": [
+        "If my change of major is approved, I will need to review the graduation requirements."
+      ],
+      "notes": "change of major：转专业；if 从句用现在时表将来条件。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "选课与学业安排"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0008",
+      "zh": "导师建议我把课程负担分散到两个学期。",
+      "en": "My adviser recommended spreading the course load over two semesters.",
+      "answers": [
+        "My adviser recommended spreading the course load over two semesters."
+      ],
+      "notes": "recommend doing；spread ... over ...：分散到某段时间。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "选课与学业安排"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0009",
+      "zh": "实验课缺席不能仅靠交一份读书报告补上。",
+      "en": "An absence from the laboratory class cannot be made up simply by submitting a reading report.",
+      "answers": [
+        "An absence from the laboratory class cannot be made up simply by submitting a reading report.",
+        "An absence from the laboratory class can't be made up simply by submitting a reading report."
+      ],
+      "notes": "make up an absence：补上缺课；simply 限定补救方式。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "选课与学业安排"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0010",
+      "zh": "成绩单上的课程名称与招生网页使用的名称不同。",
+      "en": "The course title on my transcript differs from the one used on the admissions website.",
+      "answers": [
+        "The course title on my transcript differs from the one used on the admissions website."
+      ],
+      "notes": "transcript：成绩单；the one 替代 title。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "选课与学业安排"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0011",
+      "zh": "自习室实行预约制，但未按时到场的座位会重新开放。",
+      "en": "Study-room seats require reservations, but unused bookings are released if holders fail to arrive on time.",
+      "answers": [
+        "Study-room seats require reservations, but unused bookings are released if holders fail to arrive on time."
+      ],
+      "notes": "release a booking：释放预约；if 说明触发条件。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "住宿与校园空间"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0012",
+      "zh": "宿舍维修安排在白天，夜班实习的同学可能需要另找休息地点。",
+      "en": "Daytime repairs in the residence hall may require night-shift interns to find somewhere else to rest.",
+      "answers": [
+        "Daytime repairs in the residence hall may require night-shift interns to find somewhere else to rest."
+      ],
+      "notes": "require someone to do；night-shift：夜班的。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "住宿与校园空间"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0013",
+      "zh": "我们的房间靠近公共厨房，因此需要约定深夜使用时间。",
+      "en": "Our room is beside the shared kitchen, so we need an agreement on late-night use.",
+      "answers": [
+        "Our room is beside the shared kitchen, so we need an agreement on late-night use."
+      ],
+      "notes": "an agreement on：关于……的约定。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "住宿与校园空间"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0014",
+      "zh": "校外住宿租金较低，但晚课后的交通不太方便。",
+      "en": "Off-campus housing costs less, though transport after evening classes is less convenient.",
+      "answers": [
+        "Off-campus housing costs less, though transport after evening classes is less convenient."
+      ],
+      "notes": "off-campus：校外的；though 表示权衡。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "住宿与校园空间"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0015",
+      "zh": "阅览区可以轻声讨论，档案查阅室则要求保持安静。",
+      "en": "Quiet discussion is permitted in the reading area, whereas the archive room requires silence.",
+      "answers": [
+        "Quiet discussion is permitted in the reading area, whereas the archive room requires silence."
+      ],
+      "notes": "whereas 对照两个空间的规则。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "住宿与校园空间"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0016",
+      "zh": "无障碍入口在楼的另一侧，现有指示牌没有说明绕行路线。",
+      "en": "The accessible entrance is on the other side of the building, but the signs omit the route around it.",
+      "answers": [
+        "The accessible entrance is on the other side of the building, but the signs omit the route around it."
+      ],
+      "notes": "accessible entrance：无障碍入口；omit：遗漏。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "住宿与校园空间"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0017",
+      "zh": "我们希望借用一间带可移动桌椅的教室，以便重新安排座位。",
+      "en": "We would like a room with movable furniture so we can rearrange the seating.",
+      "answers": [
+        "We would like a room with movable furniture so we can rearrange the seating."
+      ],
+      "notes": "movable：可移动的；so 引出空间需求的理由。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "住宿与校园空间"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0018",
+      "zh": "行李可以暂存到下午，但贵重物品需要自己保管。",
+      "en": "Luggage can be stored until the afternoon, but valuables must remain with their owners.",
+      "answers": [
+        "Luggage can be stored until the afternoon, but valuables must remain with their owners."
+      ],
+      "notes": "luggage 不可数；valuables：贵重物品。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "住宿与校园空间"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0019",
+      "zh": "校园施工围栏挡住了原来的自行车入口。",
+      "en": "Construction fencing on campus has blocked the original bicycle entrance.",
+      "answers": [
+        "Construction fencing on campus has blocked the original bicycle entrance."
+      ],
+      "notes": "construction fencing：施工围栏；现在完成时表示当前影响。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "住宿与校园空间"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0020",
+      "zh": "开放学习空间增加后，独立安静房间的需求依然存在。",
+      "en": "Demand for private quiet rooms persists despite the expansion of open study spaces.",
+      "answers": [
+        "Demand for private quiet rooms persists despite the expansion of open study spaces."
+      ],
+      "notes": "persist：持续存在；despite 后接名词。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "住宿与校园空间"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet4_campus_g1_0021",
+      "zh": "这本书有多个版本，我需要确认老师指定的是哪一版。",
+      "en": "The book has several editions, and I need to identify which one the lecturer assigned.",
+      "answers": [
+        "The book has several editions, and I need to identify which one the lecturer assigned."
+      ],
+      "notes": "edition：版本；assign：指定学习材料。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "资料检索与引用"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0022",
+      "zh": "检索时只用一个关键词，可能漏掉采用不同术语的文章。",
+      "en": "Searching with a single keyword may miss articles that use different terminology.",
+      "answers": [
+        "Searching with a single keyword may miss articles that use different terminology."
+      ],
+      "notes": "searching 作主语；terminology：术语。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "资料检索与引用"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0023",
+      "zh": "摘要看起来相关，但全文讨论的是另一种人群。",
+      "en": "The abstract seems relevant, yet the full text concerns a different population.",
+      "answers": [
+        "The abstract seems relevant, yet the full text concerns a different population."
+      ],
+      "notes": "abstract：摘要；population：研究人群。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "资料检索与引用"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0024",
+      "zh": "我通过参考文献找到了这项观点更早的出处。",
+      "en": "The references led me to an earlier source of the argument.",
+      "answers": [
+        "The references led me to an earlier source of the argument."
+      ],
+      "notes": "lead someone to：引导某人找到；source：出处。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "资料检索与引用"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0025",
+      "zh": "数据库允许下载文章供个人学习，但不允许随意公开上传。",
+      "en": "The database permits downloads for personal study, not unrestricted public uploads.",
+      "answers": [
+        "The database permits downloads for personal study, not unrestricted public uploads."
+      ],
+      "notes": "permit：允许；unrestricted：不受限制的。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "资料检索与引用"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0026",
+      "zh": "把检索范围限制在文章标题上，能提高相关性，却可能漏掉正文中的重要讨论。",
+      "en": "Limiting a search to article titles can improve relevance but may miss important discussions within the text.",
+      "answers": [
+        "Limiting a search to article titles can improve relevance but may miss important discussions within the text."
+      ],
+      "notes": "limit ... to：限制在；relevance：相关性；within the text：正文中。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "资料检索与引用"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet4_campus_g1_0027",
+      "zh": "即使改变了措辞，借用别人的观点也需要注明来源。",
+      "en": "Borrowed ideas need attribution even when their wording has been changed.",
+      "answers": [
+        "Borrowed ideas need attribution even when their wording has been changed."
+      ],
+      "notes": "attribution：注明来源；even when 表让步。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "资料检索与引用"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0028",
+      "zh": "这份材料的出版日期比网页上的更新时间早得多。",
+      "en": "The material was published well before the date of the website update.",
+      "answers": [
+        "The material was published well before the date of the website update."
+      ],
+      "notes": "well before：早得多；区分出版时间与页面更新时间。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "资料检索与引用"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0029",
+      "zh": "我想申请馆际互借，因为本校没有这本书。",
+      "en": "I would like to request an interlibrary loan because our library lacks the book.",
+      "answers": [
+        "I would like to request an interlibrary loan because our library lacks the book."
+      ],
+      "notes": "interlibrary loan：馆际互借；because 说明请求理由。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "资料检索与引用"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0030",
+      "zh": "引用电子书时，我需要使用稳定的章节编号而不是屏幕页码。",
+      "en": "When citing the ebook, I need stable chapter numbers rather than screen-dependent page numbers.",
+      "answers": [
+        "When citing the ebook, I need stable chapter numbers rather than screen-dependent page numbers."
+      ],
+      "notes": "when doing：在……时；rather than 区分引用定位方式。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "资料检索与引用"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0031",
+      "zh": "我们把资料整理与幻灯片制作分给了不同成员。",
+      "en": "We assigned source organisation and slide preparation to different members.",
+      "answers": [
+        "We assigned source organisation and slide preparation to different members."
+      ],
+      "notes": "assign ... to：把任务分配给某人。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "小组作业与展示"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0032",
+      "zh": "演示过程中应先解释问题，再展示我们设计的工具。",
+      "en": "The presentation should explain the problem before introducing the tool we designed.",
+      "answers": [
+        "The presentation should explain the problem before introducing the tool we designed."
+      ],
+      "notes": "before doing：先后顺序；we designed 修饰 tool。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "小组作业与展示"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0033",
+      "zh": "队友补充的例子改变了我们原先的结论。",
+      "en": "An example added by a teammate changed our initial conclusion.",
+      "answers": [
+        "An example added by a teammate changed our initial conclusion."
+      ],
+      "notes": "added by 过去分词短语修饰 example。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "小组作业与展示"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0034",
+      "zh": "如果每个人只负责自己的一页，整场展示可能缺少连贯性。",
+      "en": "The presentation may lack coherence if each person focuses only on their own slide.",
+      "answers": [
+        "The presentation may lack coherence if each person focuses only on their own slide."
+      ],
+      "notes": "coherence：连贯性；if 说明组织风险。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "小组作业与展示"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0035",
+      "zh": "我们需要练习交接发言，而不只是单独背熟各自的部分。",
+      "en": "We need to rehearse speaker transitions as well as learn our individual sections.",
+      "answers": [
+        "We need to rehearse speaker transitions as well as learn our individual sections."
+      ],
+      "notes": "speaker transition：发言交接；as well as：也要。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "小组作业与展示"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0036",
+      "zh": "图片放大后不够清晰，所以我们重新绘制了示意图。",
+      "en": "The enlarged image was unclear, so we redrew the diagram.",
+      "answers": [
+        "The enlarged image was unclear, so we redrew the diagram."
+      ],
+      "notes": "enlarged：放大的；redraw：重画。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "小组作业与展示"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0037",
+      "zh": "我负责回答方法方面的问题，另一位成员说明结果。",
+      "en": "I will answer questions about the method, while another member explains the results.",
+      "answers": [
+        "I will answer questions about the method, while another member explains the results."
+      ],
+      "notes": "while 对照分工；questions about：有关……的问题。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "小组作业与展示"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0038",
+      "zh": "同伴评价应针对贡献，而不是谁与谁关系更好。",
+      "en": "Peer assessment should concern contribution rather than personal friendships.",
+      "answers": [
+        "Peer assessment should concern contribution rather than personal friendships."
+      ],
+      "notes": "peer assessment：同伴评价；rather than 限定评价依据。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "小组作业与展示"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet4_campus_g1_0039",
+      "zh": "我们决定删去一页背景资料，为解释主要发现留出时间。",
+      "en": "We removed a background slide to allow time for explaining the main finding.",
+      "answers": [
+        "We removed a background slide to allow time for explaining the main finding."
+      ],
+      "notes": "to allow time for：为了给……留时间。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "小组作业与展示"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0040",
+      "zh": "合作记录能帮助老师了解成品之外的工作过程。",
+      "en": "A collaboration log can help the lecturer understand the work behind the final product.",
+      "answers": [
+        "A collaboration log can help the lecturer understand the work behind the final product."
+      ],
+      "notes": "collaboration log：合作记录；behind：背后的。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "小组作业与展示"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0041",
+      "zh": "实习开始前，我想了解哪些任务需要监督人员在场。",
+      "en": "Before the placement begins, I want to know which tasks require a supervisor to be present.",
+      "answers": [
+        "Before the placement begins, I want to know which tasks require a supervisor to be present."
+      ],
+      "notes": "placement：实习；require someone to be present：要求某人在场。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "实习与初入职场"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0042",
+      "zh": "我可以接触真实案例，但必须在离开办公室前归还资料。",
+      "en": "I may consult real cases but must return the documents before leaving the office.",
+      "answers": [
+        "I may consult real cases but must return the documents before leaving the office."
+      ],
+      "notes": "may 表许可；must 表义务；consult：查阅。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "实习与初入职场"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0043",
+      "zh": "轮岗安排让我看到了同一订单在不同部门如何流转。",
+      "en": "The rotation showed me how one order moves through different departments.",
+      "answers": [
+        "The rotation showed me how one order moves through different departments."
+      ],
+      "notes": "rotation：轮岗；how 引导流程说明。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "实习与初入职场"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0044",
+      "zh": "指导老师提醒我，提问之前应先说明已经尝试了什么。",
+      "en": "My mentor advised me to explain what I had already tried before asking a question.",
+      "answers": [
+        "My mentor advised me to explain what I had already tried before asking a question."
+      ],
+      "notes": "advise someone to do；had tried 表更早动作。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "实习与初入职场"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0045",
+      "zh": "这项任务与职位描述不同，我需要确认它的目的。",
+      "en": "This assignment differs from the role description, so I need to clarify its purpose.",
+      "answers": [
+        "This assignment differs from the role description, so I need to clarify its purpose."
+      ],
+      "notes": "clarify：澄清；purpose：目的。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "实习与初入职场"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0046",
+      "zh": "我记录了每次修改的原因，以便写实习总结时使用。",
+      "en": "I recorded the reason for each revision for use in my placement report.",
+      "answers": [
+        "I recorded the reason for each revision for use in my placement report."
+      ],
+      "notes": "for use in：供……使用；revision：修改。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "实习与初入职场"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0047",
+      "zh": "客户的问题超出了我的权限，因此我请同事接手。",
+      "en": "The client's question was beyond my authority, so I asked a colleague to take over.",
+      "answers": [
+        "The client's question was beyond my authority, so I asked a colleague to take over."
+      ],
+      "notes": "beyond my authority：超出权限；take over：接手。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "实习与初入职场"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0048",
+      "zh": "实习评价既看任务完成，也看是否及时沟通困难。",
+      "en": "The placement assessment considers task completion and timely communication of difficulties.",
+      "answers": [
+        "The placement assessment considers task completion and timely communication of difficulties."
+      ],
+      "notes": "timely：及时的；communication of：对……的说明。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "实习与初入职场"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0049",
+      "zh": "我从观察一次失败的交付中学到了流程衔接的重要性。",
+      "en": "Observing a failed delivery taught me the importance of coordination between stages.",
+      "answers": [
+        "Observing a failed delivery taught me the importance of coordination between stages."
+      ],
+      "notes": "动名词作主语；coordination：协调。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "实习与初入职场"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0050",
+      "zh": "在简历中，我会准确说明自己的参与程度。",
+      "en": "On my CV, I will describe the extent of my involvement accurately.",
+      "answers": [
+        "On my CV, I will describe the extent of my involvement accurately."
+      ],
+      "notes": "the extent of：……的程度；involvement：参与。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "实习与初入职场"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0051",
+      "zh": "我希望申请延期，因为主要资料比承诺的时间晚到了。",
+      "en": "I would like to request an extension because the main source material arrived later than promised.",
+      "answers": [
+        "I would like to request an extension because the main source material arrived later than promised."
+      ],
+      "notes": "request an extension：申请延期；than promised：比承诺的更晚。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "申请与学业沟通"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0052",
+      "zh": "老师的批注指出了问题，但我还不清楚如何缩小题目范围。",
+      "en": "The lecturer's comments identify the problem, but I am unsure how to narrow the topic.",
+      "answers": [
+        "The lecturer's comments identify the problem, but I am unsure how to narrow the topic."
+      ],
+      "notes": "narrow a topic：缩小题目范围。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "申请与学业沟通"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0053",
+      "zh": "我附上了修改前后的两版，方便你查看思路的变化。",
+      "en": "I have attached both versions so you can see how the argument developed.",
+      "answers": [
+        "I have attached both versions so you can see how the argument developed."
+      ],
+      "notes": "how the argument developed：论证如何发展；so 表目的。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "申请与学业沟通"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0054",
+      "zh": "奖学金申请需要说明经济情况，但不要求提交无关的家庭细节。",
+      "en": "The scholarship application requires financial information without asking for unrelated family details.",
+      "answers": [
+        "The scholarship application requires financial information without asking for unrelated family details."
+      ],
+      "notes": "scholarship：奖学金；unrelated：无关的。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "申请与学业沟通"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0055",
+      "zh": "我想确认休学期间是否还能使用图书馆账户。",
+      "en": "I would like to confirm whether library access continues during a suspension of study.",
+      "answers": [
+        "I would like to confirm whether library access continues during a suspension of study."
+      ],
+      "notes": "whether：是否；suspension of study：休学。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "申请与学业沟通"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0056",
+      "zh": "如果无法参加答疑，我会先把问题按主题发给你。",
+      "en": "If I cannot attend office hours, I will send my questions grouped by topic.",
+      "answers": [
+        "If I cannot attend office hours, I will send my questions grouped by topic.",
+        "If I can't attend office hours, I will send my questions grouped by topic."
+      ],
+      "notes": "office hours：教师答疑时间；grouped by：按……分组。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "申请与学业沟通"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0057",
+      "zh": "我并非要求改变评分，只想理解这条评语所指的问题。",
+      "en": "I am seeking clarification of the comment rather than a change to the grade.",
+      "answers": [
+        "I am seeking clarification of the comment rather than a change to the grade."
+      ],
+      "notes": "seek clarification of：寻求澄清；rather than 明确请求范围。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "申请与学业沟通"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0058",
+      "zh": "这门课提供录音，但我想知道有无对应的文字稿。",
+      "en": "The course provides recordings, and I would like to know whether transcripts are available.",
+      "answers": [
+        "The course provides recordings, and I would like to know whether transcripts are available."
+      ],
+      "notes": "transcript 在此指录音文字稿，与成绩单义项不同。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "申请与学业沟通"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0059",
+      "zh": "退还的申请材料里少了一份证明，我会重新提交。",
+      "en": "One certificate was missing from the returned application, so I will resubmit it.",
+      "answers": [
+        "One certificate was missing from the returned application, so I will resubmit it."
+      ],
+      "notes": "resubmit：重新提交；it 回指 certificate。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "申请与学业沟通"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_cet4_campus_g1_0060",
+      "zh": "在决定读研之前，我希望先了解研究工作的日常内容。",
+      "en": "Before deciding on postgraduate study, I hope to understand the everyday work of research.",
+      "answers": [
+        "Before deciding on postgraduate study, I hope to understand the everyday work of research."
+      ],
+      "notes": "decide on：决定选择；postgraduate study：研究生学习。",
+      "tags": [
+        "分级训练",
+        "四级",
+        "CET4",
+        "申请与学业沟通"
+      ],
+      "difficulty": 3
+    }
+  ]
+}

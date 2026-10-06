@@ -1,0 +1,1420 @@
+{
+  "schema_version": 1,
+  "id": "science_nature",
+  "title": "科学观察与自然 · 100 句",
+  "description": "从测量与材料到植物、动物、天气和天文，练习观察、描述和谨慎推断。",
+  "language": "en-GB",
+  "tags": [
+    "科学自然",
+    "逐题讲解"
+  ],
+  "items": [
+    {
+      "id": "science_nature_v3_0001",
+      "zh": "刻度从零开始。",
+      "en": "The scale begins at zero.",
+      "answers": [
+        "The scale begins at zero."
+      ],
+      "notes": "scale：刻度",
+      "tags": [
+        "科学自然",
+        "观察与测量"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0002",
+      "zh": "先记录单位，再写数值。",
+      "en": "Record the unit before the value.",
+      "answers": [
+        "Record the unit before the value."
+      ],
+      "notes": "unit：单位",
+      "tags": [
+        "科学自然",
+        "观察与测量"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0003",
+      "zh": "两次测量略有不同。",
+      "en": "The two measurements differ slightly.",
+      "answers": [
+        "The two measurements differ slightly."
+      ],
+      "notes": "differ：不同",
+      "tags": [
+        "科学自然",
+        "观察与测量"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0004",
+      "zh": "容器本身也有质量。",
+      "en": "The container itself has mass.",
+      "answers": [
+        "The container itself has mass."
+      ],
+      "notes": "mass：质量；与 weight（重量）区分。",
+      "tags": [
+        "科学自然",
+        "观察与测量"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0005",
+      "zh": "我们需要更精确的仪器。",
+      "en": "We need a more precise instrument.",
+      "answers": [
+        "We need a more precise instrument."
+      ],
+      "notes": "precise：精确",
+      "tags": [
+        "科学自然",
+        "观察与测量"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0006",
+      "zh": "读数在缓慢变化。",
+      "en": "The reading is changing slowly.",
+      "answers": [
+        "The reading is changing slowly."
+      ],
+      "notes": "reading：读数",
+      "tags": [
+        "科学自然",
+        "观察与测量"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0007",
+      "zh": "观察者可能影响测量结果。",
+      "en": "The observer may influence the measurement.",
+      "answers": [
+        "The observer may influence the measurement."
+      ],
+      "notes": "observer：观察者",
+      "tags": [
+        "科学自然",
+        "观察与测量"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0008",
+      "zh": "这只是估计，不是直接测量。",
+      "en": "This is an estimate, not a direct measurement.",
+      "answers": [
+        "This is an estimate, not a direct measurement."
+      ],
+      "notes": "estimate：估计",
+      "tags": [
+        "科学自然",
+        "观察与测量"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0009",
+      "zh": "我把观察和解释分开记录。",
+      "en": "I record observations and explanations separately.",
+      "answers": [
+        "I record observations and explanations separately."
+      ],
+      "notes": "separately：分开",
+      "tags": [
+        "科学自然",
+        "观察与测量"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0010",
+      "zh": "这个量超出了仪器范围。",
+      "en": "This quantity exceeds the instrument's range.",
+      "answers": [
+        "This quantity exceeds the instrument's range."
+      ],
+      "notes": "exceed：超出",
+      "tags": [
+        "科学自然",
+        "观察与测量"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0011",
+      "zh": "加热后金属会膨胀。",
+      "en": "Metal expands when heated.",
+      "answers": [
+        "Metal expands when heated."
+      ],
+      "notes": "expand：膨胀",
+      "tags": [
+        "科学自然",
+        "材料"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0012",
+      "zh": "玻璃让可见光通过。",
+      "en": "Glass allows visible light to pass through.",
+      "answers": [
+        "Glass allows visible light to pass through."
+      ],
+      "notes": "pass through：穿过",
+      "tags": [
+        "科学自然",
+        "材料"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0013",
+      "zh": "这个表面吸水很快。",
+      "en": "This surface absorbs water quickly.",
+      "answers": [
+        "This surface absorbs water quickly."
+      ],
+      "notes": "absorb：吸收",
+      "tags": [
+        "科学自然",
+        "材料"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0014",
+      "zh": "橡胶可以变形后恢复。",
+      "en": "Rubber can recover after deformation.",
+      "answers": [
+        "Rubber can recover after deformation."
+      ],
+      "notes": "deformation：形变",
+      "tags": [
+        "科学自然",
+        "材料"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0015",
+      "zh": "混合物不是单一物质。",
+      "en": "A mixture contains more than one substance.",
+      "answers": [
+        "A mixture contains more than one substance."
+      ],
+      "notes": "mixture：混合物",
+      "tags": [
+        "科学自然",
+        "材料"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0016",
+      "zh": "盐溶解后仍然在水里。",
+      "en": "Dissolved salt remains in the water.",
+      "answers": [
+        "Dissolved salt remains in the water."
+      ],
+      "notes": "dissolve：溶解",
+      "tags": [
+        "科学自然",
+        "材料"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0017",
+      "zh": "密度取决于质量和体积。",
+      "en": "Density depends on mass and volume.",
+      "answers": [
+        "Density depends on mass and volume."
+      ],
+      "notes": "density：密度",
+      "tags": [
+        "科学自然",
+        "材料"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0018",
+      "zh": "这两种材料导热不同。",
+      "en": "These materials conduct heat differently.",
+      "answers": [
+        "These materials conduct heat differently."
+      ],
+      "notes": "conduct heat：导热",
+      "tags": [
+        "科学自然",
+        "材料"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0019",
+      "zh": "与厚块相比，薄片更容易弯曲。",
+      "en": "A thin sheet bends more easily than a thick block.",
+      "answers": [
+        "A thin sheet bends more easily than a thick block."
+      ],
+      "notes": "than 明确比较对象；bend：弯曲。",
+      "tags": [
+        "科学自然",
+        "材料"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0020",
+      "zh": "表面涂层改变了摩擦。",
+      "en": "The coating changes surface friction.",
+      "answers": [
+        "The coating changes surface friction."
+      ],
+      "notes": "friction：摩擦",
+      "tags": [
+        "科学自然",
+        "材料"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0021",
+      "zh": "速度不仅描述快慢，也包括方向。",
+      "en": "Velocity includes direction as well as speed.",
+      "answers": [
+        "Velocity includes direction as well as speed."
+      ],
+      "notes": "velocity：速度矢量",
+      "tags": [
+        "科学自然",
+        "力与运动"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0022",
+      "zh": "球的路径是弯曲的。",
+      "en": "The ball follows a curved path.",
+      "answers": [
+        "The ball follows a curved path."
+      ],
+      "notes": "curved：弯曲的",
+      "tags": [
+        "科学自然",
+        "力与运动"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0023",
+      "zh": "摩擦使滑块减速。",
+      "en": "Friction slows the sliding block.",
+      "answers": [
+        "Friction slows the sliding block."
+      ],
+      "notes": "slow：使减速",
+      "tags": [
+        "科学自然",
+        "力与运动"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0024",
+      "zh": "拉力与运动方向相反。",
+      "en": "The pull opposes the direction of motion.",
+      "answers": [
+        "The pull opposes the direction of motion."
+      ],
+      "notes": "oppose：方向相反",
+      "tags": [
+        "科学自然",
+        "力与运动"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "science_nature_v3_0025",
+      "zh": "更重不等于下落必然更快。",
+      "en": "Greater weight does not guarantee a faster fall.",
+      "answers": [
+        "Greater weight does not guarantee a faster fall.",
+        "Greater weight doesn't guarantee a faster fall."
+      ],
+      "notes": "guarantee：保证",
+      "tags": [
+        "科学自然",
+        "力与运动"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0026",
+      "zh": "支点的位置改变了杠杆效果。",
+      "en": "The pivot position changes the leverage.",
+      "answers": [
+        "The pivot position changes the leverage."
+      ],
+      "notes": "pivot：支点",
+      "tags": [
+        "科学自然",
+        "力与运动"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "science_nature_v3_0027",
+      "zh": "这个系统接近静止平衡。",
+      "en": "The system is near static equilibrium.",
+      "answers": [
+        "The system is near static equilibrium."
+      ],
+      "notes": "equilibrium：平衡",
+      "tags": [
+        "科学自然",
+        "力与运动"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0028",
+      "zh": "弹簧储存了能量。",
+      "en": "The spring stores energy.",
+      "answers": [
+        "The spring stores energy."
+      ],
+      "notes": "store energy",
+      "tags": [
+        "科学自然",
+        "力与运动"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0029",
+      "zh": "整个接触面上都存在压强。",
+      "en": "Pressure acts across the entire contact surface.",
+      "answers": [
+        "Pressure acts across the entire contact surface."
+      ],
+      "notes": "pressure：压强；entire：整个。",
+      "tags": [
+        "科学自然",
+        "力与运动"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0030",
+      "zh": "测量距离时需要确定参照点。",
+      "en": "Distance measurements need a reference point.",
+      "answers": [
+        "Distance measurements need a reference point."
+      ],
+      "notes": "reference point：参照点",
+      "tags": [
+        "科学自然",
+        "力与运动"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0031",
+      "zh": "光在镜面发生反射。",
+      "en": "Light reflects from the mirror.",
+      "answers": [
+        "Light reflects from the mirror."
+      ],
+      "notes": "reflect：反射",
+      "tags": [
+        "科学自然",
+        "光与声音"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0032",
+      "zh": "透镜让光线汇聚。",
+      "en": "The lens brings light rays together.",
+      "answers": [
+        "The lens brings light rays together."
+      ],
+      "notes": "lens：透镜",
+      "tags": [
+        "科学自然",
+        "光与声音"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0033",
+      "zh": "颜色取决于进入眼睛的光。",
+      "en": "Colour depends on light entering the eye.",
+      "answers": [
+        "Colour depends on light entering the eye."
+      ],
+      "notes": "entering 作定语",
+      "tags": [
+        "科学自然",
+        "光与声音"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0034",
+      "zh": "影子的大小随距离变化。",
+      "en": "Shadow size varies with distance.",
+      "answers": [
+        "Shadow size varies with distance."
+      ],
+      "notes": "vary with：随之变化",
+      "tags": [
+        "科学自然",
+        "光与声音"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0035",
+      "zh": "声音通过振动传播。",
+      "en": "Sound travels through vibrations.",
+      "answers": [
+        "Sound travels through vibrations."
+      ],
+      "notes": "vibration：振动",
+      "tags": [
+        "科学自然",
+        "光与声音"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0036",
+      "zh": "频率影响音高。",
+      "en": "Frequency affects pitch.",
+      "answers": [
+        "Frequency affects pitch."
+      ],
+      "notes": "pitch：音高",
+      "tags": [
+        "科学自然",
+        "光与声音"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0037",
+      "zh": "回声需要时间返回。",
+      "en": "An echo takes time to return.",
+      "answers": [
+        "An echo takes time to return."
+      ],
+      "notes": "echo：回声",
+      "tags": [
+        "科学自然",
+        "光与声音"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0038",
+      "zh": "这个材料吸收了部分声音。",
+      "en": "This material absorbs some sound.",
+      "answers": [
+        "This material absorbs some sound."
+      ],
+      "notes": "absorb：吸收",
+      "tags": [
+        "科学自然",
+        "光与声音"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0039",
+      "zh": "强光使细节难以分辨。",
+      "en": "Bright light makes detail difficult to distinguish.",
+      "answers": [
+        "Bright light makes detail difficult to distinguish."
+      ],
+      "notes": "distinguish：分辨",
+      "tags": [
+        "科学自然",
+        "光与声音"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0040",
+      "zh": "棱镜能把白光分成不同颜色。",
+      "en": "A prism separates white light into colours.",
+      "answers": [
+        "A prism separates white light into colours."
+      ],
+      "notes": "prism：棱镜",
+      "tags": [
+        "科学自然",
+        "光与声音"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0041",
+      "zh": "根部从土壤中吸收水分。",
+      "en": "Roots absorb water from the soil.",
+      "answers": [
+        "Roots absorb water from the soil."
+      ],
+      "notes": "root：根",
+      "tags": [
+        "科学自然",
+        "植物"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0042",
+      "zh": "幼苗朝光照方向生长。",
+      "en": "The seedling grows towards the light.",
+      "answers": [
+        "The seedling grows towards the light."
+      ],
+      "notes": "seedling：幼苗",
+      "tags": [
+        "科学自然",
+        "植物"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0043",
+      "zh": "种子萌发需要合适的条件。",
+      "en": "Seeds need suitable conditions to germinate.",
+      "answers": [
+        "Seeds need suitable conditions to germinate."
+      ],
+      "notes": "germinate：发芽",
+      "tags": [
+        "科学自然",
+        "植物"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0044",
+      "zh": "叶片表面有细小气孔。",
+      "en": "Leaves have tiny pores on their surfaces.",
+      "answers": [
+        "Leaves have tiny pores on their surfaces."
+      ],
+      "notes": "pore：气孔",
+      "tags": [
+        "科学自然",
+        "植物"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0045",
+      "zh": "花粉可以通过昆虫传播。",
+      "en": "Insects can carry pollen.",
+      "answers": [
+        "Insects can carry pollen."
+      ],
+      "notes": "pollen：花粉",
+      "tags": [
+        "科学自然",
+        "植物"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0046",
+      "zh": "这片叶子的边缘呈锯齿状。",
+      "en": "This leaf has a serrated edge.",
+      "answers": [
+        "This leaf has a serrated edge."
+      ],
+      "notes": "serrated：锯齿状",
+      "tags": [
+        "科学自然",
+        "植物"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0047",
+      "zh": "果实包裹着种子。",
+      "en": "The fruit encloses the seeds.",
+      "answers": [
+        "The fruit encloses the seeds."
+      ],
+      "notes": "enclose：包裹",
+      "tags": [
+        "科学自然",
+        "植物"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0048",
+      "zh": "植物也需要进行呼吸作用。",
+      "en": "Plants carry out respiration too.",
+      "answers": [
+        "Plants carry out respiration too."
+      ],
+      "notes": "respiration：呼吸作用",
+      "tags": [
+        "科学自然",
+        "植物"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0049",
+      "zh": "树干的年轮提供生长信息。",
+      "en": "Tree rings provide information about growth.",
+      "answers": [
+        "Tree rings provide information about growth."
+      ],
+      "notes": "tree ring：年轮",
+      "tags": [
+        "科学自然",
+        "植物"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0050",
+      "zh": "阴影改变了地面的湿度。",
+      "en": "Shade changes moisture levels in the ground.",
+      "answers": [
+        "Shade changes moisture levels in the ground."
+      ],
+      "notes": "moisture：湿度、水分",
+      "tags": [
+        "科学自然",
+        "植物"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0051",
+      "zh": "伪装使动物更难被发现。",
+      "en": "Camouflage makes animals harder to spot.",
+      "answers": [
+        "Camouflage makes animals harder to spot."
+      ],
+      "notes": "camouflage：伪装",
+      "tags": [
+        "科学自然",
+        "动物"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0052",
+      "zh": "鸟喙形状与取食方式有关。",
+      "en": "Beak shape relates to feeding behaviour.",
+      "answers": [
+        "Beak shape relates to feeding behaviour."
+      ],
+      "notes": "beak：鸟喙",
+      "tags": [
+        "科学自然",
+        "动物"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0053",
+      "zh": "夜行动物在夜间活动。",
+      "en": "Nocturnal animals are active at night.",
+      "answers": [
+        "Nocturnal animals are active at night."
+      ],
+      "notes": "nocturnal：夜行的",
+      "tags": [
+        "科学自然",
+        "动物"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0054",
+      "zh": "迁徙可能跨越多个栖息地。",
+      "en": "Migration may cross several habitats.",
+      "answers": [
+        "Migration may cross several habitats."
+      ],
+      "notes": "habitat：栖息地",
+      "tags": [
+        "科学自然",
+        "动物"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0055",
+      "zh": "并非所有昆虫都有相同食性。",
+      "en": "Not all insects share the same diet.",
+      "answers": [
+        "Not all insects share the same diet."
+      ],
+      "notes": "not all：部分否定",
+      "tags": [
+        "科学自然",
+        "动物"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0056",
+      "zh": "捕食者数量会受到猎物影响。",
+      "en": "Predator numbers are influenced by prey availability.",
+      "answers": [
+        "Predator numbers are influenced by prey availability."
+      ],
+      "notes": "prey：猎物",
+      "tags": [
+        "科学自然",
+        "动物"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0057",
+      "zh": "这个巢已经空了。",
+      "en": "This nest is now vacant.",
+      "answers": [
+        "This nest is now vacant."
+      ],
+      "notes": "vacant：空的",
+      "tags": [
+        "科学自然",
+        "动物"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0058",
+      "zh": "足迹的间距显示步幅。",
+      "en": "The spacing of tracks indicates stride length.",
+      "answers": [
+        "The spacing of tracks indicates stride length."
+      ],
+      "notes": "stride：步幅",
+      "tags": [
+        "科学自然",
+        "动物"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0059",
+      "zh": "动物行为需要结合环境解释。",
+      "en": "Animal behaviour needs environmental context.",
+      "answers": [
+        "Animal behaviour needs environmental context."
+      ],
+      "notes": "context：背景",
+      "tags": [
+        "科学自然",
+        "动物"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0060",
+      "zh": "不能仅凭大小判断年龄。",
+      "en": "Size alone cannot establish age.",
+      "answers": [
+        "Size alone cannot establish age.",
+        "Size alone can't establish age."
+      ],
+      "notes": "establish：确定",
+      "tags": [
+        "科学自然",
+        "动物"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0061",
+      "zh": "沉积物逐渐积累成层。",
+      "en": "Sediment accumulates in layers.",
+      "answers": [
+        "Sediment accumulates in layers."
+      ],
+      "notes": "sediment：沉积物",
+      "tags": [
+        "科学自然",
+        "地球"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0062",
+      "zh": "流水可以侵蚀岩石。",
+      "en": "Running water can erode rock.",
+      "answers": [
+        "Running water can erode rock."
+      ],
+      "notes": "erode：侵蚀",
+      "tags": [
+        "科学自然",
+        "地球"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0063",
+      "zh": "地下水存在于孔隙和裂隙中。",
+      "en": "Groundwater occupies pores and cracks.",
+      "answers": [
+        "Groundwater occupies pores and cracks."
+      ],
+      "notes": "groundwater：地下水",
+      "tags": [
+        "科学自然",
+        "地球"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0064",
+      "zh": "这块岩石包含可见晶体。",
+      "en": "This rock contains visible crystals.",
+      "answers": [
+        "This rock contains visible crystals."
+      ],
+      "notes": "crystal：晶体",
+      "tags": [
+        "科学自然",
+        "地球"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0065",
+      "zh": "海岸线会随时间变化。",
+      "en": "Coastlines change over time.",
+      "answers": [
+        "Coastlines change over time."
+      ],
+      "notes": "over time：随时间",
+      "tags": [
+        "科学自然",
+        "地球"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0066",
+      "zh": "火山灰不等同于普通烟尘。",
+      "en": "Volcanic ash is not ordinary smoke.",
+      "answers": [
+        "Volcanic ash is not ordinary smoke.",
+        "Volcanic ash isn't ordinary smoke."
+      ],
+      "notes": "volcanic ash：火山灰",
+      "tags": [
+        "科学自然",
+        "地球"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0067",
+      "zh": "地震波通过地球传播。",
+      "en": "Seismic waves travel through the Earth.",
+      "answers": [
+        "Seismic waves travel through the Earth."
+      ],
+      "notes": "seismic：地震的",
+      "tags": [
+        "科学自然",
+        "地球"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0068",
+      "zh": "土壤包括矿物和有机质。",
+      "en": "Soil includes minerals and organic matter.",
+      "answers": [
+        "Soil includes minerals and organic matter."
+      ],
+      "notes": "organic matter：有机质",
+      "tags": [
+        "科学自然",
+        "地球"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0069",
+      "zh": "坡度影响地表径流速度。",
+      "en": "Slope affects the speed of surface runoff.",
+      "answers": [
+        "Slope affects the speed of surface runoff."
+      ],
+      "notes": "runoff：径流",
+      "tags": [
+        "科学自然",
+        "地球"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0070",
+      "zh": "地质时间远长于人的寿命。",
+      "en": "Geological timescales exceed human lifespans.",
+      "answers": [
+        "Geological timescales exceed human lifespans."
+      ],
+      "notes": "timescale：时间尺度",
+      "tags": [
+        "科学自然",
+        "地球"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0071",
+      "zh": "露水来自空气中水汽的凝结。",
+      "en": "Dew forms when water vapour condenses.",
+      "answers": [
+        "Dew forms when water vapour condenses."
+      ],
+      "notes": "condense：凝结",
+      "tags": [
+        "科学自然",
+        "天气"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0072",
+      "zh": "气压变化有助于判断天气。",
+      "en": "Pressure changes help with weather assessment.",
+      "answers": [
+        "Pressure changes help with weather assessment."
+      ],
+      "notes": "pressure：气压",
+      "tags": [
+        "科学自然",
+        "天气"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0073",
+      "zh": "云的高度并不相同。",
+      "en": "Clouds occur at different heights.",
+      "answers": [
+        "Clouds occur at different heights."
+      ],
+      "notes": "occur：出现",
+      "tags": [
+        "科学自然",
+        "天气"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0074",
+      "zh": "湿度影响汗液蒸发。",
+      "en": "Humidity affects the evaporation of sweat.",
+      "answers": [
+        "Humidity affects the evaporation of sweat."
+      ],
+      "notes": "evaporation：蒸发",
+      "tags": [
+        "科学自然",
+        "天气"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0075",
+      "zh": "天气是短期状况，气候是长期模式。",
+      "en": "Weather describes short-term conditions; climate describes long-term patterns.",
+      "answers": [
+        "Weather describes short-term conditions; climate describes long-term patterns."
+      ],
+      "notes": "weather 与 climate",
+      "tags": [
+        "科学自然",
+        "天气"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0076",
+      "zh": "热空气通常会上升。",
+      "en": "Warm air generally rises.",
+      "answers": [
+        "Warm air generally rises."
+      ],
+      "notes": "generally：一般",
+      "tags": [
+        "科学自然",
+        "天气"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0077",
+      "zh": "风向指的是风吹来的方向。",
+      "en": "Wind direction indicates where wind comes from.",
+      "answers": [
+        "Wind direction indicates where wind comes from."
+      ],
+      "notes": "comes from：来自",
+      "tags": [
+        "科学自然",
+        "天气"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0078",
+      "zh": "降水可能以多种形式出现。",
+      "en": "Precipitation takes several forms.",
+      "answers": [
+        "Precipitation takes several forms."
+      ],
+      "notes": "precipitation：降水",
+      "tags": [
+        "科学自然",
+        "天气"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0079",
+      "zh": "城市表面可能积存热量。",
+      "en": "Urban surfaces can retain heat.",
+      "answers": [
+        "Urban surfaces can retain heat."
+      ],
+      "notes": "retain：保留",
+      "tags": [
+        "科学自然",
+        "天气"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0080",
+      "zh": "一次寒潮不足以说明长期趋势。",
+      "en": "One cold spell cannot establish a long-term trend.",
+      "answers": [
+        "One cold spell cannot establish a long-term trend.",
+        "One cold spell can't establish a long-term trend."
+      ],
+      "notes": "cold spell：寒潮",
+      "tags": [
+        "科学自然",
+        "天气"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0081",
+      "zh": "月球反射太阳光。",
+      "en": "The Moon reflects sunlight.",
+      "answers": [
+        "The Moon reflects sunlight."
+      ],
+      "notes": "reflect：反射",
+      "tags": [
+        "科学自然",
+        "天文"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0082",
+      "zh": "行星绕恒星运行。",
+      "en": "Planets orbit stars.",
+      "answers": [
+        "Planets orbit stars."
+      ],
+      "notes": "orbit：绕行",
+      "tags": [
+        "科学自然",
+        "天文"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0083",
+      "zh": "望远镜收集更多光线。",
+      "en": "A telescope gathers more light.",
+      "answers": [
+        "A telescope gathers more light."
+      ],
+      "notes": "telescope：望远镜",
+      "tags": [
+        "科学自然",
+        "天文"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0084",
+      "zh": "光源越远，光到达我们这里所需的时间就越长。",
+      "en": "The farther away the source, the longer its light takes to reach us.",
+      "answers": [
+        "The farther away the source, the longer its light takes to reach us."
+      ],
+      "notes": "the ... the ...：越……越……。",
+      "tags": [
+        "科学自然",
+        "天文"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "science_nature_v3_0085",
+      "zh": "日食要求太阳、月球和地球处于特定的位置关系。",
+      "en": "A solar eclipse requires a particular alignment of the Sun, Moon and Earth.",
+      "answers": [
+        "A solar eclipse requires a particular alignment of the Sun, Moon and Earth."
+      ],
+      "notes": "solar eclipse：日食；alignment：排列关系。",
+      "tags": [
+        "科学自然",
+        "天文"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0086",
+      "zh": "星座是从地球看形成的图案。",
+      "en": "Constellations are patterns seen from Earth.",
+      "answers": [
+        "Constellations are patterns seen from Earth."
+      ],
+      "notes": "constellation：星座",
+      "tags": [
+        "科学自然",
+        "天文"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0087",
+      "zh": "我们看到的星光来自过去。",
+      "en": "The starlight we see comes from the past.",
+      "answers": [
+        "The starlight we see comes from the past."
+      ],
+      "notes": "定语从句",
+      "tags": [
+        "科学自然",
+        "天文"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "science_nature_v3_0088",
+      "zh": "月相不是地球影子造成的。",
+      "en": "Lunar phases are not caused by Earth's shadow.",
+      "answers": [
+        "Lunar phases are not caused by Earth's shadow.",
+        "Lunar phases aren't caused by Earth's shadow."
+      ],
+      "notes": "lunar phase：月相",
+      "tags": [
+        "科学自然",
+        "天文"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0089",
+      "zh": "自转与公转是不同运动。",
+      "en": "Rotation and revolution are different motions.",
+      "answers": [
+        "Rotation and revolution are different motions."
+      ],
+      "notes": "rotation：自转",
+      "tags": [
+        "科学自然",
+        "天文"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0090",
+      "zh": "宇宙尺度需要不同的距离单位。",
+      "en": "Cosmic scales require different distance units.",
+      "answers": [
+        "Cosmic scales require different distance units."
+      ],
+      "notes": "cosmic：宇宙的",
+      "tags": [
+        "科学自然",
+        "天文"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "science_nature_v3_0091",
+      "zh": "模型保留关键特征，省略其他细节。",
+      "en": "A model retains key features and omits others.",
+      "answers": [
+        "A model retains key features and omits others."
+      ],
+      "notes": "omit：省略",
+      "tags": [
+        "科学自然",
+        "科学思考"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "science_nature_v3_0092",
+      "zh": "实验条件必须记录清楚。",
+      "en": "Experimental conditions must be documented clearly.",
+      "answers": [
+        "Experimental conditions must be documented clearly."
+      ],
+      "notes": "document：记录",
+      "tags": [
+        "科学自然",
+        "科学思考"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "science_nature_v3_0093",
+      "zh": "没有变化也是一个观察结果。",
+      "en": "No change is still an observation.",
+      "answers": [
+        "No change is still an observation."
+      ],
+      "notes": "observation：观察结果",
+      "tags": [
+        "科学自然",
+        "科学思考"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "science_nature_v3_0094",
+      "zh": "结论应能被证据检验。",
+      "en": "Conclusions should be testable against evidence.",
+      "answers": [
+        "Conclusions should be testable against evidence."
+      ],
+      "notes": "testable：可检验",
+      "tags": [
+        "科学自然",
+        "科学思考"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "science_nature_v3_0095",
+      "zh": "我们不能把巧合当作规律。",
+      "en": "We cannot treat coincidence as a rule.",
+      "answers": [
+        "We cannot treat coincidence as a rule.",
+        "We can't treat coincidence as a rule."
+      ],
+      "notes": "coincidence：巧合",
+      "tags": [
+        "科学自然",
+        "科学思考"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "science_nature_v3_0096",
+      "zh": "仪器精度限制了结论范围。",
+      "en": "Instrument precision limits our conclusions.",
+      "answers": [
+        "Instrument precision limits our conclusions."
+      ],
+      "notes": "precision：精度",
+      "tags": [
+        "科学自然",
+        "科学思考"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "science_nature_v3_0097",
+      "zh": "分类标准需要保持一致。",
+      "en": "Classification criteria need consistency.",
+      "answers": [
+        "Classification criteria need consistency."
+      ],
+      "notes": "criterion：标准",
+      "tags": [
+        "科学自然",
+        "科学思考"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "science_nature_v3_0098",
+      "zh": "解释改变并不意味着科学毫无价值。",
+      "en": "Revised explanations do not make science worthless.",
+      "answers": [
+        "Revised explanations do not make science worthless.",
+        "Revised explanations don't make science worthless."
+      ],
+      "notes": "revised：修订的",
+      "tags": [
+        "科学自然",
+        "科学思考"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "science_nature_v3_0099",
+      "zh": "预测失败可能暴露模型的局限。",
+      "en": "A failed prediction may reveal a model's limits.",
+      "answers": [
+        "A failed prediction may reveal a model's limits."
+      ],
+      "notes": "prediction：预测",
+      "tags": [
+        "科学自然",
+        "科学思考"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "science_nature_v3_0100",
+      "zh": "提出好问题也是研究的一部分。",
+      "en": "Asking good questions is part of research.",
+      "answers": [
+        "Asking good questions is part of research."
+      ],
+      "notes": "动名词主语",
+      "tags": [
+        "科学自然",
+        "科学思考"
+      ],
+      "difficulty": 3
+    }
+  ]
+}

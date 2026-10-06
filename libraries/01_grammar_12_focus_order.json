@@ -1,0 +1,980 @@
+{
+  "schema_version": 1,
+  "id": "grammar_focus_order",
+  "title": "语法 · 语序与焦点｜强调、倒装和省略 · 60 句",
+  "description": "副词位置、强调结构、否定前置、直接与嵌入问句、平行结构及省略替代。",
+  "language": "en-GB",
+  "tags": [
+    "语法专项",
+    "语序与焦点",
+    "高中至六级"
+  ],
+  "items": [
+    {
+      "id": "grammar_focus_order_s1_0001",
+      "zh": "她通常在早餐后练唱，而不是一醒来就练。",
+      "en": "She usually practises singing after breakfast rather than immediately on waking.",
+      "answers": [
+        "She usually practises singing after breakfast rather than immediately on waking."
+      ],
+      "notes": "频率副词通常放实义动词前。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "频率与焦点位置",
+        "高中至六级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_focus_order_s1_0002",
+      "zh": "这家餐馆周末总是很热闹。",
+      "en": "The restaurant is always busy at weekends.",
+      "answers": [
+        "The restaurant is always busy at weekends."
+      ],
+      "notes": "always 放在 be 动词后，形容词前。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "频率与焦点位置",
+        "高中至六级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_focus_order_s1_0003",
+      "zh": "我只在需要安静时才来这里。",
+      "en": "I come here only when I need quiet.",
+      "answers": [
+        "I come here only when I need quiet."
+      ],
+      "notes": "only 靠近 when 从句，限定来访条件。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "频率与焦点位置",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_focus_order_s1_0004",
+      "zh": "只有我妹妹知道聚会的地点。",
+      "en": "Only my sister knows where the gathering is.",
+      "answers": [
+        "Only my sister knows where the gathering is."
+      ],
+      "notes": "only 放主语前，限定知道的人，不触发倒装。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "频率与焦点位置",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_focus_order_s1_0005",
+      "zh": "我妹妹只知道聚会地点，不知道时间。",
+      "en": "My sister knows only the location, not the time.",
+      "answers": [
+        "My sister knows only the location, not the time."
+      ],
+      "notes": "only 放宾语前，限定知道的信息。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "频率与焦点位置",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_focus_order_s1_0006",
+      "zh": "我们甚至没有机会品尝自己做的菜。",
+      "en": "We did not even get a chance to taste our own cooking.",
+      "answers": [
+        "We did not even get a chance to taste our own cooking.",
+        "We didn't even get a chance to taste our own cooking."
+      ],
+      "notes": "even 放否定后，强调连最基本机会都没有。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "频率与焦点位置",
+        "高中至六级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_focus_order_s1_0007",
+      "zh": "我已经把食物放进冰箱，但还没有贴日期。",
+      "en": "I have already refrigerated the food but have not dated it yet.",
+      "answers": [
+        "I have already refrigerated the food but have not dated it yet.",
+        "I have already refrigerated the food but haven't dated it yet."
+      ],
+      "notes": "already 通常放助动词后；yet 常位于否定句末。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "频率与焦点位置",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_focus_order_s1_0008",
+      "zh": "这件事几乎完全取决于天气。",
+      "en": "It depends almost entirely on the weather.",
+      "answers": [
+        "It depends almost entirely on the weather."
+      ],
+      "notes": "almost 修饰 entirely，顺序体现程度层次。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "频率与焦点位置",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_focus_order_s1_0009",
+      "zh": "她直接回答了问题，没有绕开重点。",
+      "en": "She answered the question directly without avoiding the main point.",
+      "answers": [
+        "She answered the question directly without avoiding the main point."
+      ],
+      "notes": "方式副词一般放宾语后，不拆开动词与短宾语。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "频率与焦点位置",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_focus_order_s1_0010",
+      "zh": "他们也想参加，但不想负责组织。",
+      "en": "They also want to attend, but not to organise.",
+      "answers": [
+        "They also want to attend, but not to organise."
+      ],
+      "notes": "also 位于实义动词前；后半省略可恢复的 they want。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "频率与焦点位置",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_focus_order_s1_0011",
+      "zh": "让我改变主意的是那次谈话，而不是广告。",
+      "en": "It was the conversation, not the advertisement, that changed my mind.",
+      "answers": [
+        "It was the conversation, not the advertisement, that changed my mind."
+      ],
+      "notes": "it was ... that 强调主语，去掉强调框架仍成完整句。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "强调句与焦点结构",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_focus_order_s1_0012",
+      "zh": "我最欣赏的是她愿意承认错误。",
+      "en": "What I admire most is her willingness to admit mistakes.",
+      "answers": [
+        "What I admire most is her willingness to admit mistakes."
+      ],
+      "notes": "what 引导伪分裂句主语，把新信息放表语位置。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "强调句与焦点结构",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_focus_order_s1_0013",
+      "zh": "我们是在旅程结束以后才知道这件事的。",
+      "en": "It was after the journey that we learned about it.",
+      "answers": [
+        "It was after the journey that we learned about it."
+      ],
+      "notes": "强调时间短语，不把 that 误写为 when。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "强调句与焦点结构",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_focus_order_s1_0014",
+      "zh": "我想要的不是退款，而是一个解释。",
+      "en": "What I want is an explanation rather than a refund.",
+      "answers": [
+        "What I want is an explanation rather than a refund."
+      ],
+      "notes": "what 主语从句聚焦所需对象。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "强调句与焦点结构",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_focus_order_s1_0015",
+      "zh": "正是因为座位太少，大家才站在走廊上。",
+      "en": "It is because there are too few seats that people stand in the corridor.",
+      "answers": [
+        "It is because there are too few seats that people stand in the corridor."
+      ],
+      "notes": "强调 because 原因从句，用 that 收束。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "强调句与焦点结构",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_focus_order_s1_0016",
+      "zh": "真正让人疲惫的是噪声，不是距离。",
+      "en": "It is the noise, not the distance, that makes the trip tiring.",
+      "answers": [
+        "It is the noise, not the distance, that makes the trip tiring."
+      ],
+      "notes": "被强调主语 noise 单数，makes 与其一致。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "强调句与焦点结构",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_focus_order_s1_0017",
+      "zh": "我们所做的只是给客人提供另一种选择。",
+      "en": "All we did was offer guests another option.",
+      "answers": [
+        "All we did was offer guests another option."
+      ],
+      "notes": "all we did was 后可用原形 offer，强调行为范围有限。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "强调句与焦点结构",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_focus_order_s1_0018",
+      "zh": "我确实很感谢你的邀请。",
+      "en": "I do appreciate your invitation.",
+      "answers": [
+        "I do appreciate your invitation."
+      ],
+      "notes": "do + 原形强调肯定，不表示一般疑问。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "强调句与焦点结构",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_focus_order_s1_0019",
+      "zh": "这份甜点最特别的地方在于它温热的夹心。",
+      "en": "What makes the dessert special is its warm filling.",
+      "answers": [
+        "What makes the dessert special is its warm filling."
+      ],
+      "notes": "what 从句作主语，焦点在 filling。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "强调句与焦点结构",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_focus_order_s1_0020",
+      "zh": "邀请他的是主办方，不是我。",
+      "en": "It was the organiser who invited him, not me.",
+      "answers": [
+        "It was the organiser who invited him, not me."
+      ],
+      "notes": "强调人时可用 who；not me 对照被强调成分。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "强调句与焦点结构",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_focus_order_s1_0021",
+      "zh": "我以前从未在露天看过这样的演出。",
+      "en": "Never before have I seen a performance like this outdoors.",
+      "answers": [
+        "Never before have I seen a performance like this outdoors."
+      ],
+      "notes": "否定状语 never before 置首，助动词提前。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "否定前置与倒装",
+        "高中至六级"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "grammar_focus_order_s1_0022",
+      "zh": "只有坐下来以后，我才发觉自己有多累。",
+      "en": "Only after I sat down did I realise how tired I was.",
+      "answers": [
+        "Only after I sat down did I realise how tired I was."
+      ],
+      "notes": "only + 状语置首，主句倒装，从句不倒装。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "否定前置与倒装",
+        "高中至六级"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "grammar_focus_order_s1_0023",
+      "zh": "她很少把陌生人的沉默当成不友好。",
+      "en": "Rarely does she interpret a stranger's silence as hostility.",
+      "answers": [
+        "Rarely does she interpret a stranger's silence as hostility."
+      ],
+      "notes": "rarely 前置，补 does，interpret 用原形。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "否定前置与倒装",
+        "高中至六级"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "grammar_focus_order_s1_0024",
+      "zh": "任何时候都不应让儿童独自靠近水边。",
+      "en": "At no time should children approach the water alone.",
+      "answers": [
+        "At no time should children approach the water alone."
+      ],
+      "notes": "at no time 为否定状语，情态动词提前。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "否定前置与倒装",
+        "高中至六级"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "grammar_focus_order_s1_0025",
+      "zh": "我们直到账单送来才发现服务费已包含在内。",
+      "en": "Not until the bill arrived did we realise the service charge was included.",
+      "answers": [
+        "Not until the bill arrived did we realise the service charge was included."
+      ],
+      "notes": "not until 从句保持正常语序，主句用 did 倒装。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "否定前置与倒装",
+        "高中至六级"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "grammar_focus_order_s1_0026",
+      "zh": "他不仅会演奏，还会自己修理乐器。",
+      "en": "Not only does he perform, but he also repairs his instruments.",
+      "answers": [
+        "Not only does he perform, but he also repairs his instruments."
+      ],
+      "notes": "not only 引导分句前置倒装；but also 后不倒装。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "否定前置与倒装",
+        "高中至六级"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "grammar_focus_order_s1_0027",
+      "zh": "我完全没有怀疑过她的诚意。",
+      "en": "At no point did I question her sincerity.",
+      "answers": [
+        "At no point did I question her sincerity."
+      ],
+      "notes": "at no point 前置，使用 did + 主语 + 原形。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "否定前置与倒装",
+        "高中至六级"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "grammar_focus_order_s1_0028",
+      "zh": "只有通过交谈，我们才能发现彼此不同的期待。",
+      "en": "Only through conversation can we discover our different expectations.",
+      "answers": [
+        "Only through conversation can we discover our different expectations."
+      ],
+      "notes": "only + 介词短语置首，can 提前。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "否定前置与倒装",
+        "高中至六级"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "grammar_focus_order_s1_0029",
+      "zh": "我绝不会在没有说明的情况下取消约定。",
+      "en": "Under no circumstances would I cancel an arrangement without explanation.",
+      "answers": [
+        "Under no circumstances would I cancel an arrangement without explanation."
+      ],
+      "notes": "否定介词短语前置触发倒装。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "否定前置与倒装",
+        "高中至六级"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "grammar_focus_order_s1_0030",
+      "zh": "我那时不知道，这首歌会成为全场最受欢迎的一首。",
+      "en": "Little did I know that the song would become the audience's favourite.",
+      "answers": [
+        "Little did I know that the song would become the audience's favourite."
+      ],
+      "notes": "little 表几乎不知道，前置后用 did 倒装。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "否定前置与倒装",
+        "高中至六级"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "grammar_focus_order_s1_0031",
+      "zh": "是谁决定把晚餐搬到室外的？",
+      "en": "Who decided to move dinner outdoors?",
+      "answers": [
+        "Who decided to move dinner outdoors?"
+      ],
+      "notes": "who 作主语，不加 did。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "问句与嵌入语序",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_focus_order_s1_0032",
+      "zh": "你把给老师的卡片交给谁了？",
+      "en": "Who did you give the card for the teacher to?",
+      "answers": [
+        "Who did you give the card for the teacher to?"
+      ],
+      "notes": "who 作介词宾语，主句用 did；to 留在句尾。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "问句与嵌入语序",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_focus_order_s1_0033",
+      "zh": "你觉得哪种菜最适合第一次尝试的人？",
+      "en": "Which dish do you think suits a first-time visitor best?",
+      "answers": [
+        "Which dish do you think suits a first-time visitor best?"
+      ],
+      "notes": "which dish 是 suits 的主语，不在从句再加 does。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "问句与嵌入语序",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_focus_order_s1_0034",
+      "zh": "你为什么没告诉我们票价已经改变？",
+      "en": "Why did you not tell us the fare had changed?",
+      "answers": [
+        "Why did you not tell us the fare had changed?"
+      ],
+      "notes": "疑问句 did 提前，tell 用原形。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "问句与嵌入语序",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_focus_order_s1_0035",
+      "zh": "除了主持人，还有谁知道结果？",
+      "en": "Who else knows the result apart from the host?",
+      "answers": [
+        "Who else knows the result apart from the host?"
+      ],
+      "notes": "who else 作主语，knows 单数。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "问句与嵌入语序",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_focus_order_s1_0036",
+      "zh": "能告诉我最近的饮水点在哪里吗？",
+      "en": "Can you tell me where the nearest drinking-water point is?",
+      "answers": [
+        "Can you tell me where the nearest drinking-water point is?"
+      ],
+      "notes": "嵌入问句用 where ... is，不用 where is。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "问句与嵌入语序",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_focus_order_s1_0037",
+      "zh": "要到什么时候我们才能知道有没有空位？",
+      "en": "When will we know whether any places are available?",
+      "answers": [
+        "When will we know whether any places are available?"
+      ],
+      "notes": "外层 when 疑问倒装，内层 whether 陈述语序。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "问句与嵌入语序",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_focus_order_s1_0038",
+      "zh": "你是想在这里等，还是想先去散步？",
+      "en": "Would you prefer to wait here or go for a walk first?",
+      "answers": [
+        "Would you prefer to wait here or go for a walk first?"
+      ],
+      "notes": "选择问句共享 prefer to，or 后不必重复。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "问句与嵌入语序",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_focus_order_s1_0039",
+      "zh": "为什么不让每个人各带一道菜呢？",
+      "en": "Why not let everyone bring a dish?",
+      "answers": [
+        "Why not let everyone bring a dish?"
+      ],
+      "notes": "why not 后接原形，表示建议。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "问句与嵌入语序",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_focus_order_s1_0040",
+      "zh": "还有什么是我们出发前需要知道的？",
+      "en": "What else do we need to know before setting out?",
+      "answers": [
+        "What else do we need to know before setting out?"
+      ],
+      "notes": "what else 为 know 的宾语；do 提前构成疑问。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "问句与嵌入语序",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_focus_order_s1_0041",
+      "zh": "好的向导既会观察，也会倾听。",
+      "en": "A good guide both observes and listens.",
+      "answers": [
+        "A good guide both observes and listens."
+      ],
+      "notes": "both ... and ... 连接相同词性动词。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "并列与平行结构",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_focus_order_s1_0042",
+      "zh": "我们可以提前离开，也可以接受等到傍晚。",
+      "en": "We can either leave early or wait until dusk.",
+      "answers": [
+        "We can either leave early or wait until dusk."
+      ],
+      "notes": "either ... or ... 连接两个原形动词。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "并列与平行结构",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_focus_order_s1_0043",
+      "zh": "这次讨论关注怎样参与、怎样提问和怎样回应。",
+      "en": "The discussion concerns how to participate, ask questions and respond.",
+      "answers": [
+        "The discussion concerns how to participate, ask questions and respond."
+      ],
+      "notes": "三个动词共享 how to，保持平行结构。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "并列与平行结构",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_focus_order_s1_0044",
+      "zh": "她喜欢旅行中的交谈、观察和记录。",
+      "en": "She enjoys talking, observing and keeping notes while travelling.",
+      "answers": [
+        "She enjoys talking, observing and keeping notes while travelling."
+      ],
+      "notes": "enjoys 后三个并列动名词形式一致。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "并列与平行结构",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_focus_order_s1_0045",
+      "zh": "问题不在于缺少想法，而在于缺少落实的时间。",
+      "en": "The problem is not a lack of ideas but a lack of time to act on them.",
+      "answers": [
+        "The problem is not a lack of ideas but a lack of time to act on them.",
+        "The problem isn't a lack of ideas but a lack of time to act on them."
+      ],
+      "notes": "not ... but ... 两端为平行名词短语。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "并列与平行结构",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_focus_order_s1_0046",
+      "zh": "我们既没有催促孩子，也没有替他们完成任务。",
+      "en": "We neither rushed the children nor completed the task for them.",
+      "answers": [
+        "We neither rushed the children nor completed the task for them."
+      ],
+      "notes": "neither ... nor ... 并列同类谓语动作。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "并列与平行结构",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_focus_order_s1_0047",
+      "zh": "她希望饭菜简单、分量充足，而且容易分享。",
+      "en": "She wants the food to be simple, plentiful and easy to share.",
+      "answers": [
+        "She wants the food to be simple, plentiful and easy to share."
+      ],
+      "notes": "并列形容词作补足，第三项可为形容词短语。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "并列与平行结构",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_focus_order_s1_0048",
+      "zh": "我愿意帮忙准备，却不愿负责主持。",
+      "en": "I am willing to help prepare but unwilling to host.",
+      "answers": [
+        "I am willing to help prepare but unwilling to host."
+      ],
+      "notes": "willing 与 unwilling 平行，第二项省略 I am。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "并列与平行结构",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_focus_order_s1_0049",
+      "zh": "组织者既要解释规则，也要听取异议。",
+      "en": "Organisers need to explain the rules as well as listen to objections.",
+      "answers": [
+        "Organisers need to explain the rules as well as listen to objections."
+      ],
+      "notes": "as well as 连接同级动作，两边形式对应。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "并列与平行结构",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_focus_order_s1_0050",
+      "zh": "我们想知道谁受益、谁付款，以及谁作决定。",
+      "en": "We want to know who benefits, who pays and who decides.",
+      "answers": [
+        "We want to know who benefits, who pays and who decides."
+      ],
+      "notes": "三个 who 从句平行作宾语。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "并列与平行结构",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_focus_order_s1_0051",
+      "zh": "我以为她会拒绝，但她没有。",
+      "en": "I thought she would refuse, but she did not.",
+      "answers": [
+        "I thought she would refuse, but she did not.",
+        "I thought she would refuse, but she didn't."
+      ],
+      "notes": "did not 替代重复的 refuse，不重复整个动作。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "省略与替代",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_focus_order_s1_0052",
+      "zh": "你喜欢热闹的聚会，他也一样。",
+      "en": "You enjoy lively gatherings, and so does he.",
+      "answers": [
+        "You enjoy lively gatherings, and so does he."
+      ],
+      "notes": "so + 助动词 + 主语 表另一人也如此，does 对应 enjoys。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "省略与替代",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_focus_order_s1_0053",
+      "zh": "我不会滑冰，她也不会。",
+      "en": "I cannot skate, and neither can she.",
+      "answers": [
+        "I cannot skate, and neither can she.",
+        "I can't skate, and neither can she."
+      ],
+      "notes": "neither + 情态动词 + 主语，承接否定。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "省略与替代",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_focus_order_s1_0054",
+      "zh": "他们打算留下来吃饭，我们也打算这样做。",
+      "en": "They plan to stay for dinner, and we plan to do so too.",
+      "answers": [
+        "They plan to stay for dinner, and we plan to do so too."
+      ],
+      "notes": "do so 替代 stay for dinner 的行为。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "省略与替代",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_focus_order_s1_0055",
+      "zh": "还会有空位吗？我希望有，但不能确定。",
+      "en": "Will there be seats left? I hope so, but I cannot be certain.",
+      "answers": [
+        "Will there be seats left? I hope so, but I cannot be certain.",
+        "Will there be seats left? I hope so, but I can't be certain."
+      ],
+      "notes": "so 替代前问中的肯定命题 there will be seats left。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "省略与替代",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_focus_order_s1_0056",
+      "zh": "如果有需要，我们可以把桌子移开。",
+      "en": "If necessary, we can move the table aside.",
+      "answers": [
+        "If necessary, we can move the table aside."
+      ],
+      "notes": "if necessary 省略 if it is necessary。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "省略与替代",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_focus_order_s1_0057",
+      "zh": "只要可能，她都会走路去拜访朋友。",
+      "en": "Whenever possible, she walks to visit friends.",
+      "answers": [
+        "Whenever possible, she walks to visit friends."
+      ],
+      "notes": "whenever possible 为省略结构。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "省略与替代",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_focus_order_s1_0058",
+      "zh": "想吃什么就拿什么，但别拿超过你能吃完的量。",
+      "en": "Take what you want, but no more than you can finish.",
+      "answers": [
+        "Take what you want, but no more than you can finish."
+      ],
+      "notes": "后半省略 take，保持可恢复性。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "省略与替代",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_focus_order_s1_0059",
+      "zh": "他答应过来，也确实来了。",
+      "en": "He promised to come, and he did.",
+      "answers": [
+        "He promised to come, and he did."
+      ],
+      "notes": "did 代替 came，表示行为兑现。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "省略与替代",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_focus_order_s1_0060",
+      "zh": "我不愿意在忙乱时作决定，所以只要能等，我就会等。",
+      "en": "I prefer not to decide in a rush, so I wait whenever I can.",
+      "answers": [
+        "I prefer not to decide in a rush, so I wait whenever I can."
+      ],
+      "notes": "whenever I can 省略 wait，内容由前面的 I wait 明确恢复。",
+      "tags": [
+        "语法专项",
+        "语序与焦点",
+        "省略与替代",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    }
+  ]
+}

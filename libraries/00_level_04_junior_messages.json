@@ -1,0 +1,985 @@
+{
+  "schema_version": 1,
+  "id": "level_junior_messages",
+  "title": "分级 · 初中｜校园沟通与短文表达 · 60 句",
+  "description": "邀请、询问、失物说明、建议、学习计划与简短观点；从表达事实过渡到交代理由。",
+  "language": "en-GB",
+  "tags": [
+    "分级训练",
+    "初中",
+    "初中应用",
+    "校园沟通与短文表达"
+  ],
+  "items": [
+    {
+      "id": "level_junior_messages_g1_0001",
+      "zh": "请带一件与你的家乡有关的小物品来交流会。",
+      "en": "Please bring a small object connected with your hometown to the gathering.",
+      "answers": [
+        "Please bring a small object connected with your hometown to the gathering."
+      ],
+      "notes": "connected with：与……有关；gathering：交流聚会。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "邀请与活动通知"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_messages_g1_0002",
+      "zh": "我们欢迎不会画画的人参加美术角。",
+      "en": "People who cannot draw are welcome at our art corner.",
+      "answers": [
+        "People who cannot draw are welcome at our art corner.",
+        "People who can't draw are welcome at our art corner."
+      ],
+      "notes": "who 引导定语从句；be welcome：受欢迎。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "邀请与活动通知"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_messages_g1_0003",
+      "zh": "如果你需要借乐器，请在报名时注明。",
+      "en": "If you need to borrow an instrument, please say so when you sign up.",
+      "answers": [
+        "If you need to borrow an instrument, please say so when you sign up."
+      ],
+      "notes": "say so：说明这一点；sign up：报名。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "邀请与活动通知"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_messages_g1_0004",
+      "zh": "这次活动的主题由参加者自己投票决定。",
+      "en": "Participants will vote to choose the theme of this event.",
+      "answers": [
+        "Participants will vote to choose the theme of this event."
+      ],
+      "notes": "vote to choose：投票选择；participant：参加者。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "邀请与活动通知"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_messages_g1_0005",
+      "zh": "比赛分两轮，第二轮只对第一轮的优胜者开放。",
+      "en": "The contest has two rounds; only the first-round winners enter the second.",
+      "answers": [
+        "The contest has two rounds; only the first-round winners enter the second."
+      ],
+      "notes": "round：轮次；only 限定参赛资格。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "邀请与活动通知"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_messages_g1_0006",
+      "zh": "学校开放日允许每名学生带两位家人。",
+      "en": "Each pupil may bring two family members to the school open day.",
+      "answers": [
+        "Each pupil may bring two family members to the school open day."
+      ],
+      "notes": "each 后接单数；may 表示许可。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "邀请与活动通知"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_messages_g1_0007",
+      "zh": "请尽量提前到场，以便有时间布置展台。",
+      "en": "Try to arrive early enough to set up your display.",
+      "answers": [
+        "Try to arrive early enough to set up your display."
+      ],
+      "notes": "early enough to：足够早以便……；set up：布置。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "邀请与活动通知"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_messages_g1_0008",
+      "zh": "作品可以匿名提交，但需要留下联系方式。",
+      "en": "You may submit your work without a name, but contact details are required.",
+      "answers": [
+        "You may submit your work without a name, but contact details are required."
+      ],
+      "notes": "without a name：匿名；be required：被要求提供。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "邀请与活动通知"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_messages_g1_0009",
+      "zh": "这次阅读分享没有固定书目。",
+      "en": "There is no set reading list for this book discussion.",
+      "answers": [
+        "There is no set reading list for this book discussion."
+      ],
+      "notes": "set 在此是形容词，表示固定的。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "邀请与活动通知"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_messages_g1_0010",
+      "zh": "原定的户外寻宝将改在体育馆里进行。",
+      "en": "The planned outdoor treasure hunt will take place in the sports hall instead.",
+      "answers": [
+        "The planned outdoor treasure hunt will take place in the sports hall instead."
+      ],
+      "notes": "take place：举行；instead：改为。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "邀请与活动通知"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_messages_g1_0011",
+      "zh": "我想参加交换活动，但不清楚是否符合年龄要求。",
+      "en": "I would like to join the exchange but am unsure whether I meet the age requirement.",
+      "answers": [
+        "I would like to join the exchange but am unsure whether I meet the age requirement."
+      ],
+      "notes": "meet a requirement：符合要求；whether：是否。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "求助与询问"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_messages_g1_0012",
+      "zh": "能告诉我应把参赛照片发到哪里吗？",
+      "en": "Could you tell me where to send my competition photograph?",
+      "answers": [
+        "Could you tell me where to send my competition photograph?"
+      ],
+      "notes": "where to send：发到哪里；礼貌间接问法。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "求助与询问"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_messages_g1_0013",
+      "zh": "如果没有电脑，我可以手写报名表吗？",
+      "en": "May I complete the form by hand if I have no computer?",
+      "answers": [
+        "May I complete the form by hand if I have no computer?"
+      ],
+      "notes": "by hand：手写；if 说明申请另一方式的条件。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "求助与询问"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_messages_g1_0014",
+      "zh": "公告只写了开始时间，没有写结束时间。",
+      "en": "The notice gives the starting time but leaves out the finishing time.",
+      "answers": [
+        "The notice gives the starting time but leaves out the finishing time."
+      ],
+      "notes": "leave out：遗漏；对照已给出与缺失的信息。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "求助与询问"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_messages_g1_0015",
+      "zh": "我们的小组缺一位朗读者，你有兴趣吗？",
+      "en": "Our group needs someone to read aloud. Would you be interested?",
+      "answers": [
+        "Our group needs someone to read aloud. Would you be interested?"
+      ],
+      "notes": "read aloud：朗读；would 表示礼貌邀请。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "求助与询问"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_messages_g1_0016",
+      "zh": "我应该自己准备材料，还是学校会提供？",
+      "en": "Should I bring my own materials, or will the school supply them?",
+      "answers": [
+        "Should I bring my own materials, or will the school supply them?"
+      ],
+      "notes": "or 连接两种安排；them 回指 materials。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "求助与询问"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_messages_g1_0017",
+      "zh": "请问奖品是给个人，还是给整个团队？",
+      "en": "Are the prizes for individuals or for whole teams?",
+      "answers": [
+        "Are the prizes for individuals or for whole teams?"
+      ],
+      "notes": "individual：个人；or 表示两种选择。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "求助与询问"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_messages_g1_0018",
+      "zh": "我想了解错过的那节课讲了什么。",
+      "en": "I want to find out what was covered in the lesson I missed.",
+      "answers": [
+        "I want to find out what was covered in the lesson I missed."
+      ],
+      "notes": "be covered：被讲到；I missed 修饰 lesson。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "求助与询问"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_messages_g1_0019",
+      "zh": "你能推荐一本不太长的英文小说吗？",
+      "en": "Could you recommend an English novel that is not too long?",
+      "answers": [
+        "Could you recommend an English novel that is not too long?",
+        "Could you recommend an English novel that isn't too long?"
+      ],
+      "notes": "recommend：推荐；that 引导定语从句。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "求助与询问"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_messages_g1_0020",
+      "zh": "我找不到活动室，地图上也没有标出来。",
+      "en": "I cannot find the activity room, and it is not marked on the map.",
+      "answers": [
+        "I cannot find the activity room, and it is not marked on the map.",
+        "I can't find the activity room, and it isn't marked on the map.",
+        "I can't find the activity room, and it is not marked on the map.",
+        "I cannot find the activity room, and it isn't marked on the map."
+      ],
+      "notes": "be marked on：标在……上。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "求助与询问"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_messages_g1_0021",
+      "zh": "我捡到一本写着姓名首字母的笔记本。",
+      "en": "I found a notebook with someone's initials inside.",
+      "answers": [
+        "I found a notebook with someone's initials inside."
+      ],
+      "notes": "initials：姓名首字母；with 表示带有某信息。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "失物与情况说明"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_messages_g1_0022",
+      "zh": "书包里最容易辨认的东西是一把彩虹色雨伞。",
+      "en": "The easiest thing to recognise in the bag is a rainbow-coloured umbrella.",
+      "answers": [
+        "The easiest thing to recognise in the bag is a rainbow-coloured umbrella."
+      ],
+      "notes": "the easiest thing to：最容易……的东西。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "失物与情况说明"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_messages_g1_0023",
+      "zh": "如果这是你的表，请描述一下表带。",
+      "en": "If this is your watch, please describe its strap.",
+      "answers": [
+        "If this is your watch, please describe its strap."
+      ],
+      "notes": "describe：描述；strap：表带。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "失物与情况说明"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_messages_g1_0024",
+      "zh": "我最后一次用公交卡是在图书馆附近。",
+      "en": "I last used my bus pass near the library.",
+      "answers": [
+        "I last used my bus pass near the library."
+      ],
+      "notes": "last 作副词表示最后一次；bus pass：乘车卡。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "失物与情况说明"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_messages_g1_0025",
+      "zh": "盒子外面没有姓名，所以我们暂时交给了老师。",
+      "en": "The box had no name on it, so we left it with a teacher for now.",
+      "answers": [
+        "The box had no name on it, so we left it with a teacher for now."
+      ],
+      "notes": "leave something with someone：交给某人保管。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "失物与情况说明"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_messages_g1_0026",
+      "zh": "排练之后，讲台上多了一副眼镜。",
+      "en": "A pair of glasses was left on the teacher's desk after rehearsal.",
+      "answers": [
+        "A pair of glasses was left on the teacher's desk after rehearsal."
+      ],
+      "notes": "a pair of 作主语时用 was；glasses：眼镜。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "失物与情况说明"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_messages_g1_0027",
+      "zh": "我把两份作业装进了错误的文件袋。",
+      "en": "I put the two assignments into the wrong folders.",
+      "answers": [
+        "I put the two assignments into the wrong folders."
+      ],
+      "notes": "assignment：作业；wrong：错误的。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "失物与情况说明"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_messages_g1_0028",
+      "zh": "打印机把最后一段漏印了。",
+      "en": "The printer left the final paragraph off the page.",
+      "answers": [
+        "The printer left the final paragraph off the page."
+      ],
+      "notes": "leave ... off：漏掉；paragraph：段落。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "失物与情况说明"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_messages_g1_0029",
+      "zh": "不是我不想回复，而是那条消息没发成功。",
+      "en": "I meant to reply, but the message failed to send.",
+      "answers": [
+        "I meant to reply, but the message failed to send."
+      ],
+      "notes": "mean to do：打算做；fail to do：未能做成。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "失物与情况说明"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_messages_g1_0030",
+      "zh": "展示时间变短了，因此我们省去了最后一个例子。",
+      "en": "The presentation time was shortened, so we left out our final example.",
+      "answers": [
+        "The presentation time was shortened, so we left out our final example."
+      ],
+      "notes": "be shortened：被缩短；so 引出后果。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "失物与情况说明"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_messages_g1_0031",
+      "zh": "与其在走廊排队，不如给不同班级安排不同时间。",
+      "en": "Instead of queuing in the corridor, different classes could come at different times.",
+      "answers": [
+        "Instead of queuing in the corridor, different classes could come at different times."
+      ],
+      "notes": "instead of doing：用另一安排替代当前做法。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "建议与协商"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_messages_g1_0032",
+      "zh": "如果我们把说明画出来，低年级学生可能更容易懂。",
+      "en": "Younger pupils might understand the instructions better if we illustrated them.",
+      "answers": [
+        "Younger pupils might understand the instructions better if we illustrated them."
+      ],
+      "notes": "if 与 might 表示建议可能产生的效果；illustrate：配图说明。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "建议与协商"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_messages_g1_0033",
+      "zh": "我建议每组留一名成员负责回答观众提问。",
+      "en": "I suggest that each group leave one member to answer visitors' questions.",
+      "answers": [
+        "I suggest that each group leave one member to answer visitors' questions."
+      ],
+      "notes": "suggest that 后动词用原形；leave someone to do：留下某人做。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "建议与协商"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_messages_g1_0034",
+      "zh": "展品不必全部摆在同一个高度。",
+      "en": "The exhibits need not all be displayed at the same height.",
+      "answers": [
+        "The exhibits need not all be displayed at the same height.",
+        "The exhibits needn't all be displayed at the same height."
+      ],
+      "notes": "need not all：不必全部；be displayed：被展示。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "建议与协商"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_messages_g1_0035",
+      "zh": "午休时间有限，我们可以先试最短的路线。",
+      "en": "Since the lunch break is short, we could try the shortest route first.",
+      "answers": [
+        "Since the lunch break is short, we could try the shortest route first."
+      ],
+      "notes": "since 引出理由；could 表示建议。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "建议与协商"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_messages_g1_0036",
+      "zh": "两种想法可以保留，只要大家知道分别用于什么。",
+      "en": "We can keep both ideas as long as everyone knows what each is for.",
+      "answers": [
+        "We can keep both ideas as long as everyone knows what each is for."
+      ],
+      "notes": "as long as：只要；each 指两种想法中的每一种。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "建议与协商"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_messages_g1_0037",
+      "zh": "音乐声能否调小一点，让正在讨论的人听得见彼此？",
+      "en": "Could the music be quieter so people discussing the task can hear one another?",
+      "answers": [
+        "Could the music be quieter so people discussing the task can hear one another?"
+      ],
+      "notes": "so 引出调整音量的目的；one another：彼此。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "建议与协商"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_messages_g1_0038",
+      "zh": "我们不妨先征求意见，再决定是否更换班徽。",
+      "en": "Why not ask for opinions before deciding whether to change the class badge?",
+      "answers": [
+        "Why not ask for opinions before deciding whether to change the class badge?"
+      ],
+      "notes": "why not + 动词原形：提出建议；whether：是否。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "建议与协商"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_messages_g1_0039",
+      "zh": "如果有人帮我写稿，我愿意负责活动开场。",
+      "en": "I am willing to open the event if someone helps me write the script.",
+      "answers": [
+        "I am willing to open the event if someone helps me write the script."
+      ],
+      "notes": "if：如果；be willing to：愿意；script：稿件。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "建议与协商"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_messages_g1_0040",
+      "zh": "如果海报太拥挤，就把详细日程放到另一张纸上。",
+      "en": "If the poster is crowded, put the detailed schedule on a separate sheet.",
+      "answers": [
+        "If the poster is crowded, put the detailed schedule on a separate sheet."
+      ],
+      "notes": "crowded：内容拥挤；separate sheet：单独的一张纸。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "建议与协商"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_messages_g1_0041",
+      "zh": "我给复习计划留了空档，好补上没完成的部分。",
+      "en": "I left gaps in my revision plan to catch up on unfinished work.",
+      "answers": [
+        "I left gaps in my revision plan to catch up on unfinished work."
+      ],
+      "notes": "catch up on：补上；to 表示目的。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "学习计划与说明"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_messages_g1_0042",
+      "zh": "我先用自己的话解释规则，再对照课本检查。",
+      "en": "I explain the rule in my own words before checking it against the textbook.",
+      "answers": [
+        "I explain the rule in my own words before checking it against the textbook."
+      ],
+      "notes": "in my own words：用自己的话；check against：对照检查。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "学习计划与说明"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_messages_g1_0043",
+      "zh": "每天的记录帮助我发现自己总在同一处出错。",
+      "en": "My daily record helped me notice that I kept making the same error.",
+      "answers": [
+        "My daily record helped me notice that I kept making the same error."
+      ],
+      "notes": "keep doing：反复做；notice that：发现……。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "学习计划与说明"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_messages_g1_0044",
+      "zh": "背完单词以后，还需要知道它们在句子里怎么用。",
+      "en": "After learning the words, I still need to know how they work in sentences.",
+      "answers": [
+        "After learning the words, I still need to know how they work in sentences."
+      ],
+      "notes": "how they work：它们如何使用；still 表示还需要。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "学习计划与说明"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_messages_g1_0045",
+      "zh": "我把错题按原因分类，而不是只按科目分类。",
+      "en": "I group my mistakes by cause, not just by subject.",
+      "answers": [
+        "I group my mistakes by cause, not just by subject."
+      ],
+      "notes": "group ... by ...：按……分类；cause：原因。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "学习计划与说明"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_messages_g1_0046",
+      "zh": "这张表是用来发现变化的，并不是要求每天完成同样多的任务。",
+      "en": "This chart is for spotting changes, not for demanding the same amount of work every day.",
+      "answers": [
+        "This chart is for spotting changes, not for demanding the same amount of work every day."
+      ],
+      "notes": "be for doing：用于做某事；两种用途形成对照。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "学习计划与说明"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_messages_g1_0047",
+      "zh": "我宁愿把一个问题弄懂，也不想匆忙看完十个答案。",
+      "en": "I would rather understand one problem than rush through ten answers.",
+      "answers": [
+        "I would rather understand one problem than rush through ten answers."
+      ],
+      "notes": "would rather ... than ...；rush through：匆匆做完。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "学习计划与说明"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_messages_g1_0048",
+      "zh": "把手机留在另一个房间后，我更容易专心了。",
+      "en": "Leaving my phone in another room made it easier to concentrate.",
+      "answers": [
+        "Leaving my phone in another room made it easier to concentrate."
+      ],
+      "notes": "made it easier to：使做某事更容易；动名词作主语。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "学习计划与说明"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_messages_g1_0049",
+      "zh": "这周我打算检查计划是否太紧，而不只是看有没有完成。",
+      "en": "This week I will check whether my plan is too demanding, not just whether I finished it.",
+      "answers": [
+        "This week I will check whether my plan is too demanding, not just whether I finished it."
+      ],
+      "notes": "两个 whether 从句区分计划合理性和完成情况。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "学习计划与说明"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_messages_g1_0050",
+      "zh": "我发现讲给别人听能暴露自己没弄懂的地方。",
+      "en": "Explaining it to someone else reveals the parts I have not understood.",
+      "answers": [
+        "Explaining it to someone else reveals the parts I have not understood.",
+        "Explaining it to someone else reveals the parts I haven't understood."
+      ],
+      "notes": "reveal：暴露；定语从句限定尚未理解的部分。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "学习计划与说明"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_messages_g1_0051",
+      "zh": "谢谢你在我找词时耐心等着，没有替我把话说完。",
+      "en": "Thank you for waiting while I searched for words instead of finishing my sentence for me.",
+      "answers": [
+        "Thank you for waiting while I searched for words instead of finishing my sentence for me."
+      ],
+      "notes": "thank you for doing；instead of 区分等待和代说。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "感谢与简短观点"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_messages_g1_0052",
+      "zh": "这次展示让我明白，提问有时比马上给答案更有用。",
+      "en": "The display taught me that asking questions can be more useful than giving immediate answers.",
+      "answers": [
+        "The display taught me that asking questions can be more useful than giving immediate answers."
+      ],
+      "notes": "more useful than：比……更有用；动名词作比较对象。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "感谢与简短观点"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_messages_g1_0053",
+      "zh": "我感谢那些负责收拾、却没有站上舞台的同学。",
+      "en": "I am grateful to the classmates who cleaned up without appearing on stage.",
+      "answers": [
+        "I am grateful to the classmates who cleaned up without appearing on stage."
+      ],
+      "notes": "be grateful to：感谢某人；who 限定感谢对象。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "感谢与简短观点"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_messages_g1_0054",
+      "zh": "如果班级投票只允许一种意见，结果就没有多大意义。",
+      "en": "A class vote means little if only one opinion is allowed.",
+      "answers": [
+        "A class vote means little if only one opinion is allowed."
+      ],
+      "notes": "mean little：意义不大；if 引出限制条件。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "感谢与简短观点"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_messages_g1_0055",
+      "zh": "允许学生选择展示方式，可以让不同长处得到发挥。",
+      "en": "Letting pupils choose how to present their work can bring out different strengths.",
+      "answers": [
+        "Letting pupils choose how to present their work can bring out different strengths."
+      ],
+      "notes": "bring out：发挥、显现；how to present：如何展示。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "感谢与简短观点"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_messages_g1_0056",
+      "zh": "我不认为安静的同学一定没有想法。",
+      "en": "I do not think quiet classmates necessarily lack ideas.",
+      "answers": [
+        "I do not think quiet classmates necessarily lack ideas.",
+        "I don't think quiet classmates necessarily lack ideas."
+      ],
+      "notes": "not ... necessarily：不一定；lack：缺少。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "感谢与简短观点"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_messages_g1_0057",
+      "zh": "一次不理想的成绩可以提醒我调整方法，却不能说明我的全部能力。",
+      "en": "A disappointing result can prompt a change of method without defining all my abilities.",
+      "answers": [
+        "A disappointing result can prompt a change of method without defining all my abilities."
+      ],
+      "notes": "prompt：促使；without 限定成绩能说明的范围。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "感谢与简短观点"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_messages_g1_0058",
+      "zh": "班级规定如果配上理由，往往更容易被理解。",
+      "en": "Class rules are often easier to understand when reasons are given.",
+      "answers": [
+        "Class rules are often easier to understand when reasons are given."
+      ],
+      "notes": "when 表示某种条件下；be given：被说明。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "感谢与简短观点"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_messages_g1_0059",
+      "zh": "互相帮助不等于把自己的答案直接交给别人。",
+      "en": "Helping one another is not the same as handing over our answers.",
+      "answers": [
+        "Helping one another is not the same as handing over our answers.",
+        "Helping one another isn't the same as handing over our answers."
+      ],
+      "notes": "not the same as：不等同于；hand over：直接交给。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "感谢与简短观点"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_messages_g1_0060",
+      "zh": "我希望下次活动也能听见那些不常发言的人的声音。",
+      "en": "I hope the next event also includes voices we do not often hear.",
+      "answers": [
+        "I hope the next event also includes voices we do not often hear.",
+        "I hope the next event also includes voices we don't often hear."
+      ],
+      "notes": "hope 后接从句；voices 在此代指意见。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中应用",
+        "感谢与简短观点"
+      ],
+      "difficulty": 3
+    }
+  ]
+}

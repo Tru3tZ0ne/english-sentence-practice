@@ -1,0 +1,991 @@
+{
+  "schema_version": 1,
+  "id": "level_senior_reasoning",
+  "title": "分级 · 高中｜信息整合与观点组织 · 60 句",
+  "description": "比较依据、证据、让步条件、材料转述及校园议题；练习限定观点和组织论证。",
+  "language": "en-GB",
+  "tags": [
+    "分级训练",
+    "高中",
+    "高中论证",
+    "信息整合与观点组织"
+  ],
+  "items": [
+    {
+      "id": "level_senior_reasoning_g1_0001",
+      "zh": "选择选修课时，兴趣和时间安排都值得考虑。",
+      "en": "Both interest and scheduling deserve consideration when choosing optional courses.",
+      "answers": [
+        "Both interest and scheduling deserve consideration when choosing optional courses."
+      ],
+      "notes": "both ... and ... 连接两个选择依据。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "比较与选择依据"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_senior_reasoning_g1_0002",
+      "zh": "线上讲座便于回放，现场讲座则更方便即时提问。",
+      "en": "Online lectures allow replay, whereas live sessions make immediate questions easier.",
+      "answers": [
+        "Online lectures allow replay, whereas live sessions make immediate questions easier."
+      ],
+      "notes": "whereas 对照不同功能，保持比较维度清晰。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "比较与选择依据"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_senior_reasoning_g1_0003",
+      "zh": "借用设备可以降低初期费用，但未必适合每天使用。",
+      "en": "Borrowing equipment reduces initial costs but may not suit daily use.",
+      "answers": [
+        "Borrowing equipment reduces initial costs but may not suit daily use."
+      ],
+      "notes": "initial：初期的；may not 限定适用场景。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "比较与选择依据"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_senior_reasoning_g1_0004",
+      "zh": "看起来最热闹的社团，不一定最适合你的目标。",
+      "en": "The club that appears busiest is not necessarily the best match for your goals.",
+      "answers": [
+        "The club that appears busiest is not necessarily the best match for your goals.",
+        "The club that appears busiest isn't necessarily the best match for your goals."
+      ],
+      "notes": "not necessarily：未必；best match：最合适的选择。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "比较与选择依据"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_senior_reasoning_g1_0005",
+      "zh": "短篇作品适合课堂细读，长篇作品则能展示更完整的发展。",
+      "en": "Short texts suit close classroom reading, while longer works show fuller development.",
+      "answers": [
+        "Short texts suit close classroom reading, while longer works show fuller development."
+      ],
+      "notes": "close reading：细读；while 对照学习用途。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "比较与选择依据"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_senior_reasoning_g1_0006",
+      "zh": "比赛成绩相同，并不意味着两组用了相同的方法。",
+      "en": "Equal competition scores do not imply identical methods in the two groups.",
+      "answers": [
+        "Equal competition scores do not imply identical methods in the two groups.",
+        "Equal competition scores don't imply identical methods in the two groups."
+      ],
+      "notes": "imply：意味着；equal 与 identical 分别描述结果和方法。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "比较与选择依据"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_senior_reasoning_g1_0007",
+      "zh": "保留纸质笔记还是使用电子笔记，应取决于实际任务。",
+      "en": "The choice between paper and digital notes should depend on the task at hand.",
+      "answers": [
+        "The choice between paper and digital notes should depend on the task at hand."
+      ],
+      "notes": "the choice between：两者之间的选择；at hand：当前的。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "比较与选择依据"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_senior_reasoning_g1_0008",
+      "zh": "评价一次研学时，不应把行程长短当成收获多少。",
+      "en": "The length of a study trip should not be mistaken for the amount learned.",
+      "answers": [
+        "The length of a study trip should not be mistaken for the amount learned.",
+        "The length of a study trip shouldn't be mistaken for the amount learned."
+      ],
+      "notes": "mistake A for B 的被动形式：把 A 误当成 B。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "比较与选择依据"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_senior_reasoning_g1_0009",
+      "zh": "人数较少的讨论组可能更容易让每个人发言。",
+      "en": "A smaller discussion group may make it easier for each member to speak.",
+      "answers": [
+        "A smaller discussion group may make it easier for each member to speak."
+      ],
+      "notes": "make it easier for ... to：使某人更容易做。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "比较与选择依据"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_senior_reasoning_g1_0010",
+      "zh": "选项越多，越需要先弄清自己最重视什么。",
+      "en": "The more options there are, the more important it is to clarify what matters most.",
+      "answers": [
+        "The more options there are, the more important it is to clarify what matters most."
+      ],
+      "notes": "the more ... the more ...：越……越……。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "比较与选择依据"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0011",
+      "zh": "同学们喜欢这堂课，可能与教师的回应方式有关。",
+      "en": "The class's popularity may be connected with the way the teacher responds.",
+      "answers": [
+        "The class's popularity may be connected with the way the teacher responds."
+      ],
+      "notes": "may be connected with 保留因果不确定性。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "因果与证据"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0012",
+      "zh": "两件事同时发生，不足以说明其中一件造成了另一件。",
+      "en": "Two events occurring together are not enough to show that one caused the other.",
+      "answers": [
+        "Two events occurring together are not enough to show that one caused the other.",
+        "Two events occurring together aren't enough to show that one caused the other."
+      ],
+      "notes": "occurring 修饰 events；区分同时发生与因果。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "因果与证据"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0013",
+      "zh": "为了判断方法是否有效，我们还需要了解起点水平。",
+      "en": "To judge whether the method worked, we also need to know the starting level.",
+      "answers": [
+        "To judge whether the method worked, we also need to know the starting level."
+      ],
+      "notes": "to judge 表目的；whether 引导判断内容。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "因果与证据"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0014",
+      "zh": "这份问卷只包含自愿回答者，因此可能漏掉不感兴趣的学生。",
+      "en": "The questionnaire includes only volunteers and may therefore miss uninterested students.",
+      "answers": [
+        "The questionnaire includes only volunteers and may therefore miss uninterested students."
+      ],
+      "notes": "therefore 连接样本来源与可能遗漏。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "因果与证据"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0015",
+      "zh": "一篇优秀作品能够说明可能做到什么，却不能说明人人都能做到。",
+      "en": "An excellent piece of work shows what is possible, not what everyone can achieve.",
+      "answers": [
+        "An excellent piece of work shows what is possible, not what everyone can achieve."
+      ],
+      "notes": "两个 what 从句区分可能性与普遍性。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "因果与证据"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0016",
+      "zh": "复习时间增加后成绩提高了，但我们还不能排除其他因素。",
+      "en": "Marks improved after revision time increased, but other factors have not been ruled out.",
+      "answers": [
+        "Marks improved after revision time increased, but other factors have not been ruled out.",
+        "Marks improved after revision time increased, but other factors haven't been ruled out."
+      ],
+      "notes": "rule out：排除；after 不直接证明因果。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "因果与证据"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0017",
+      "zh": "如果评价只问满意不满意，就可能解释不了学习困难在哪里。",
+      "en": "An evaluation asking only about satisfaction may not reveal where learning difficulties lie.",
+      "answers": [
+        "An evaluation asking only about satisfaction may not reveal where learning difficulties lie."
+      ],
+      "notes": "asking 修饰 evaluation；where ... lie：问题在哪里。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "因果与证据"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0018",
+      "zh": "得出结论之前，应该先看看反例是否被忽略了。",
+      "en": "Before reaching a conclusion, we should check whether counterexamples have been overlooked.",
+      "answers": [
+        "Before reaching a conclusion, we should check whether counterexamples have been overlooked."
+      ],
+      "notes": "counterexample：反例；have been overlooked：被忽视。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "因果与证据"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0019",
+      "zh": "没有发现差异，也可能是因为比较的时间太短。",
+      "en": "A failure to find a difference may reflect a comparison period that was too short.",
+      "answers": [
+        "A failure to find a difference may reflect a comparison period that was too short."
+      ],
+      "notes": "may reflect 引出替代解释；不把未发现视为不存在。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "因果与证据"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0020",
+      "zh": "这项观察为猜想提供了支持，却还不足以证实它。",
+      "en": "The observation supports the idea without being sufficient to confirm it.",
+      "answers": [
+        "The observation supports the idea without being sufficient to confirm it."
+      ],
+      "notes": "support 与 confirm 区分证据强度。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "因果与证据"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0021",
+      "zh": "虽然公开排名能显示差距，但它也可能使部分学生不愿尝试新任务。",
+      "en": "Although public rankings reveal gaps, they may discourage some pupils from attempting unfamiliar tasks.",
+      "answers": [
+        "Although public rankings reveal gaps, they may discourage some pupils from attempting unfamiliar tasks."
+      ],
+      "notes": "discourage someone from doing：使某人不愿做。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "让步与条件"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0022",
+      "zh": "允许自行安排时间有助于培养责任感，前提是学生能获得必要指导。",
+      "en": "Independent scheduling can build responsibility, provided students receive the guidance they need.",
+      "answers": [
+        "Independent scheduling can build responsibility, provided students receive the guidance they need."
+      ],
+      "notes": "provided 引出前提；they need 修饰 guidance。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "让步与条件"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0023",
+      "zh": "即使采用同样的教材，不同课堂的学习体验也可能不同。",
+      "en": "Even with the same textbook, learning experiences may differ between classrooms.",
+      "answers": [
+        "Even with the same textbook, learning experiences may differ between classrooms."
+      ],
+      "notes": "even with：即使使用……；differ between：在……之间不同。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "让步与条件"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0024",
+      "zh": "节省十分钟并不总值得，尤其是在理解因此受损时。",
+      "en": "Saving ten minutes is not always worthwhile, especially if understanding suffers.",
+      "answers": [
+        "Saving ten minutes is not always worthwhile, especially if understanding suffers.",
+        "Saving ten minutes isn't always worthwhile, especially if understanding suffers."
+      ],
+      "notes": "not always：不总是；especially if 强调特定条件。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "让步与条件"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0025",
+      "zh": "我支持学生参与制定规则，但并不认为每一条规则都应由投票决定。",
+      "en": "I support student involvement in rule-making without believing that every rule should be decided by a vote.",
+      "answers": [
+        "I support student involvement in rule-making without believing that every rule should be decided by a vote."
+      ],
+      "notes": "without doing 限定支持的范围。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "让步与条件"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0026",
+      "zh": "除非参与者知道自己为何被分组，否则活动可能显得随意。",
+      "en": "Unless participants understand the reason for their grouping, the activity may seem arbitrary.",
+      "answers": [
+        "Unless participants understand the reason for their grouping, the activity may seem arbitrary."
+      ],
+      "notes": "unless：除非；arbitrary：随意的。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "让步与条件"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0027",
+      "zh": "这项建议可以减少重复劳动，却不能替代必要的练习。",
+      "en": "The suggestion may reduce repetitive work, yet it cannot replace necessary practice.",
+      "answers": [
+        "The suggestion may reduce repetitive work, yet it cannot replace necessary practice.",
+        "The suggestion may reduce repetitive work, yet it can't replace necessary practice."
+      ],
+      "notes": "yet 表转折；区分重复劳动与练习价值。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "让步与条件"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0028",
+      "zh": "只要能说明理由，学生就应该可以修改自己的立场。",
+      "en": "Students should be free to revise their position as long as they explain why.",
+      "answers": [
+        "Students should be free to revise their position as long as they explain why."
+      ],
+      "notes": "as long as：只要；revise a position：修改立场。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "让步与条件"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0029",
+      "zh": "竞争未必损害合作，关键是奖励依据如何设计。",
+      "en": "Competition need not harm cooperation; much depends on how rewards are designed.",
+      "answers": [
+        "Competition need not harm cooperation; much depends on how rewards are designed.",
+        "Competition needn't harm cooperation; much depends on how rewards are designed."
+      ],
+      "notes": "need not：未必；how 从句说明关键条件。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "让步与条件"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0030",
+      "zh": "对一部分人有效的方法不必被否定，但也不该被要求人人使用。",
+      "en": "A method that helps some people need not be rejected, but neither should it be required of everyone.",
+      "answers": [
+        "A method that helps some people need not be rejected, but neither should it be required of everyone.",
+        "A method that helps some people needn't be rejected, but neither should it be required of everyone."
+      ],
+      "notes": "neither should ... 倒装，补充另一不应采取的做法。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "让步与条件"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "level_senior_reasoning_g1_0031",
+      "zh": "两位受访者都赞同改变时间表，但理由不同。",
+      "en": "Both interviewees supported changing the timetable, though their reasons differed.",
+      "answers": [
+        "Both interviewees supported changing the timetable, though their reasons differed."
+      ],
+      "notes": "both 指两者；though 标出共识之内的差别。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "信息整合与转述"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_senior_reasoning_g1_0032",
+      "zh": "第一段介绍背景，第二段解释作者为什么改变看法。",
+      "en": "The first paragraph sets the scene, and the second explains the author's change of view.",
+      "answers": [
+        "The first paragraph sets the scene, and the second explains the author's change of view."
+      ],
+      "notes": "set the scene：交代背景。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "信息整合与转述"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_senior_reasoning_g1_0033",
+      "zh": "作者并未否认问题存在，而是质疑所提出的解决办法。",
+      "en": "The writer questions the proposed solution without denying that the problem exists.",
+      "answers": [
+        "The writer questions the proposed solution without denying that the problem exists."
+      ],
+      "notes": "question 作动词表示质疑；without denying 限定立场。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "信息整合与转述"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_senior_reasoning_g1_0034",
+      "zh": "据讲座介绍，这个项目最初是由学生发起的。",
+      "en": "According to the lecture, the project was originally initiated by students.",
+      "answers": [
+        "According to the lecture, the project was originally initiated by students."
+      ],
+      "notes": "according to 标明信息来源；be initiated by：由……发起。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "信息整合与转述"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_senior_reasoning_g1_0035",
+      "zh": "两个例子看似不同，实际都说明了提前准备的作用。",
+      "en": "The examples appear different but both illustrate the value of preparation.",
+      "answers": [
+        "The examples appear different but both illustrate the value of preparation."
+      ],
+      "notes": "appear：看似；illustrate：说明。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "信息整合与转述"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_senior_reasoning_g1_0036",
+      "zh": "摘要应保留作者的主要理由，而不必重复每个细节。",
+      "en": "A summary should retain the main reasons without repeating every detail.",
+      "answers": [
+        "A summary should retain the main reasons without repeating every detail."
+      ],
+      "notes": "retain：保留；without doing：无需重复某行为。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "信息整合与转述"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_senior_reasoning_g1_0037",
+      "zh": "这句话可以理解为提醒，而不一定是反对。",
+      "en": "The sentence can be read as a caution rather than necessarily an objection.",
+      "answers": [
+        "The sentence can be read as a caution rather than necessarily an objection."
+      ],
+      "notes": "be read as：被理解为；caution：提醒。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "信息整合与转述"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_senior_reasoning_g1_0038",
+      "zh": "文章结尾的问题把讨论从个人选择转向了学校责任。",
+      "en": "The closing question shifts the discussion from personal choice to school responsibility.",
+      "answers": [
+        "The closing question shifts the discussion from personal choice to school responsibility."
+      ],
+      "notes": "shift ... from ... to ...：将……从……转向……。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "信息整合与转述"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_senior_reasoning_g1_0039",
+      "zh": "我引用这个例子是为了说明局限，而不是证明整个方案失败。",
+      "en": "I use this example to illustrate a limitation, not to prove that the whole plan failed.",
+      "answers": [
+        "I use this example to illustrate a limitation, not to prove that the whole plan failed."
+      ],
+      "notes": "两个目的不定式区分引用作用。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "信息整合与转述"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_senior_reasoning_g1_0040",
+      "zh": "报告强调了共同点，同时承认两个群体的需要不同。",
+      "en": "The report stresses common ground while acknowledging different needs in the two groups.",
+      "answers": [
+        "The report stresses common ground while acknowledging different needs in the two groups."
+      ],
+      "notes": "common ground：共同点；while 表同时兼顾。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "信息整合与转述"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0041",
+      "zh": "若社团名额只按报名速度分配，较晚获得消息的学生可能吃亏。",
+      "en": "Allocating club places solely by registration speed may disadvantage pupils who hear the news later.",
+      "answers": [
+        "Allocating club places solely by registration speed may disadvantage pupils who hear the news later."
+      ],
+      "notes": "allocate：分配；who 从句限定受影响者。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "校园议题论证"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0042",
+      "zh": "午休区需要照顾想聊天的人，也需要照顾想安静休息的人。",
+      "en": "A lunch-break area needs to accommodate conversation as well as quiet rest.",
+      "answers": [
+        "A lunch-break area needs to accommodate conversation as well as quiet rest."
+      ],
+      "notes": "accommodate：兼顾；as well as 连接两类需要。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "校园议题论证"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0043",
+      "zh": "匿名意见箱能降低表达压力，但学校仍需说明如何回应。",
+      "en": "An anonymous suggestion box can ease pressure to speak, but the school still needs a response procedure.",
+      "answers": [
+        "An anonymous suggestion box can ease pressure to speak, but the school still needs a response procedure."
+      ],
+      "notes": "response procedure：回应流程；让步后补充执行要求。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "校园议题论证"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0044",
+      "zh": "校刊如果只刊登获奖作品，就难以展示创作过程中的探索。",
+      "en": "A school magazine limited to prize-winning work may fail to show creative exploration.",
+      "answers": [
+        "A school magazine limited to prize-winning work may fail to show creative exploration."
+      ],
+      "notes": "limited to 限定收录范围；fail to show：未能呈现。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "校园议题论证"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0045",
+      "zh": "让学生参与图书采购，有助于发现借阅记录没有反映的兴趣。",
+      "en": "Involving pupils in book purchasing may reveal interests absent from borrowing records.",
+      "answers": [
+        "Involving pupils in book purchasing may reveal interests absent from borrowing records."
+      ],
+      "notes": "absent from：未体现于；involve ... in：让……参与。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "校园议题论证"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0046",
+      "zh": "一项活动是否有价值，不能只看最后有没有拿到证书。",
+      "en": "The value of an activity cannot be judged solely by whether it ends with a certificate.",
+      "answers": [
+        "The value of an activity cannot be judged solely by whether it ends with a certificate.",
+        "The value of an activity can't be judged solely by whether it ends with a certificate."
+      ],
+      "notes": "by whether：依据是否；solely 限制单一评价标准。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "校园议题论证"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0047",
+      "zh": "参观结束后留下讨论时间，可能比再增加一个参观点更有用。",
+      "en": "Time for discussion after a visit may be more useful than adding another stop.",
+      "answers": [
+        "Time for discussion after a visit may be more useful than adding another stop."
+      ],
+      "notes": "比较两种时间分配方式，而不是单看数量。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "校园议题论证"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0048",
+      "zh": "自由选题能够提高投入程度，但过宽的题目需要教师帮助缩小。",
+      "en": "Choosing a topic can increase engagement, though overly broad topics need a teacher's help to narrow them.",
+      "answers": [
+        "Choosing a topic can increase engagement, though overly broad topics need a teacher's help to narrow them."
+      ],
+      "notes": "narrow a topic：缩小题目范围；though 补充指导需要。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "校园议题论证"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0049",
+      "zh": "展示失败的实验可以帮助同学理解，结论并非一开始就明确。",
+      "en": "Displaying unsuccessful experiments can show pupils that conclusions are not clear from the outset.",
+      "answers": [
+        "Displaying unsuccessful experiments can show pupils that conclusions are not clear from the outset.",
+        "Displaying unsuccessful experiments can show pupils that conclusions aren't clear from the outset."
+      ],
+      "notes": "from the outset：从一开始；that 从句说明教学作用。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "校园议题论证"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0050",
+      "zh": "如果值日安排只强调处罚，就可能忽略工具不足的问题。",
+      "en": "A duty system focused only on penalties may overlook a shortage of cleaning equipment.",
+      "answers": [
+        "A duty system focused only on penalties may overlook a shortage of cleaning equipment."
+      ],
+      "notes": "focused on 修饰 system；overlook：忽略。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "校园议题论证"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0051",
+      "zh": "与其说手机必然影响学习，不如说它的影响取决于使用方式。",
+      "en": "Rather than inevitably harming learning, phones have effects that depend on how they are used.",
+      "answers": [
+        "Rather than inevitably harming learning, phones have effects that depend on how they are used."
+      ],
+      "notes": "rather than 修正绝对判断；depend on how：取决于如何。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "修正绝对化表达"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0052",
+      "zh": "有些同学从独立学习中受益，这并不说明合作学习毫无价值。",
+      "en": "Some pupils benefit from independent study without this making cooperative learning worthless.",
+      "answers": [
+        "Some pupils benefit from independent study without this making cooperative learning worthless."
+      ],
+      "notes": "without this making ...：这并不导致另一极端结论。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "修正绝对化表达"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0053",
+      "zh": "我们有理由担心负担增加，但没有理由断言所有新活动都多余。",
+      "en": "Concern about a heavier workload is justified; dismissing every new activity is not.",
+      "answers": [
+        "Concern about a heavier workload is justified; dismissing every new activity is not.",
+        "Concern about a heavier workload is justified; dismissing every new activity isn't."
+      ],
+      "notes": "is justified：有理由；并列省略避免重复。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "修正绝对化表达"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0054",
+      "zh": "阅读速度快可能有帮助，却不等于理解一定深入。",
+      "en": "Reading quickly may help, but speed does not guarantee depth of understanding.",
+      "answers": [
+        "Reading quickly may help, but speed does not guarantee depth of understanding.",
+        "Reading quickly may help, but speed doesn't guarantee depth of understanding."
+      ],
+      "notes": "guarantee：保证；区分速度与理解深度。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "修正绝对化表达"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0055",
+      "zh": "同一个建议在考试周和假期可能需要不同的应用方式。",
+      "en": "The same advice may need to be applied differently during exam week and the holidays.",
+      "answers": [
+        "The same advice may need to be applied differently during exam week and the holidays."
+      ],
+      "notes": "be applied differently：以不同方式应用。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "修正绝对化表达"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0056",
+      "zh": "没有发言的学生可能正在思考，不能直接被判定为不投入。",
+      "en": "A student who says nothing may be thinking and should not automatically be judged disengaged.",
+      "answers": [
+        "A student who says nothing may be thinking and should not automatically be judged disengaged.",
+        "A student who says nothing may be thinking and shouldn't automatically be judged disengaged."
+      ],
+      "notes": "be judged + 形容词：被判断为某状态。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "修正绝对化表达"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0057",
+      "zh": "讨论的目标不必是消除所有分歧，也可以是让分歧更清楚。",
+      "en": "Discussion can clarify disagreements without necessarily eliminating them.",
+      "answers": [
+        "Discussion can clarify disagreements without necessarily eliminating them."
+      ],
+      "notes": "clarify 与 eliminate 区分讨论目标。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "修正绝对化表达"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0058",
+      "zh": "指出计划的问题，并不意味着否认提出者的努力。",
+      "en": "Identifying a flaw in a plan does not deny the effort of its author.",
+      "answers": [
+        "Identifying a flaw in a plan does not deny the effort of its author.",
+        "Identifying a flaw in a plan doesn't deny the effort of its author."
+      ],
+      "notes": "flaw：缺陷；否定方案部分内容不等于否定个人。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "修正绝对化表达"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0059",
+      "zh": "一次改变没有立刻奏效，不代表原来的做法一定更好。",
+      "en": "A change that fails to work immediately does not prove the previous approach was better.",
+      "answers": [
+        "A change that fails to work immediately does not prove the previous approach was better.",
+        "A change that fails to work immediately doesn't prove the previous approach was better."
+      ],
+      "notes": "immediately 限定时间；不从短期结果推出整体结论。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "修正绝对化表达"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_senior_reasoning_g1_0060",
+      "zh": "比起承诺适用于所有人，说明建议适用于谁更负责任。",
+      "en": "Explaining whom advice suits is more responsible than promising it works for everyone.",
+      "answers": [
+        "Explaining whom advice suits is more responsible than promising it works for everyone."
+      ],
+      "notes": "两个动名词短语作比较；whom advice suits：适合谁。",
+      "tags": [
+        "分级训练",
+        "高中",
+        "高中论证",
+        "修正绝对化表达"
+      ],
+      "difficulty": 4
+    }
+  ]
+}

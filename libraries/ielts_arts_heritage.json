@@ -1,0 +1,985 @@
+{
+  "schema_version": 1,
+  "id": "ielts_arts_heritage",
+  "title": "雅思·艺术与文化遗产 · 64 句",
+  "description": "艺术价值与资助、文化遗产、博物馆、创意劳动、多样性、数字保存与城市文化。",
+  "language": "en-GB",
+  "tags": [
+    "IELTS",
+    "文化遗产",
+    "逐题讲解"
+  ],
+  "items": [
+    {
+      "id": "ielts_arts_heritage_v3_0001",
+      "zh": "艺术的意义未必能用票房收入完整表达。",
+      "en": "Box-office revenue cannot fully express the value of art.",
+      "answers": [
+        "Box-office revenue cannot fully express the value of art.",
+        "Box-office revenue can't fully express the value of art."
+      ],
+      "notes": "box-office：票房",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "艺术价值"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0002",
+      "zh": "陌生作品有时需要解释才能被欣赏。",
+      "en": "Unfamiliar works may need interpretation before they are appreciated.",
+      "answers": [
+        "Unfamiliar works may need interpretation before they are appreciated."
+      ],
+      "notes": "interpretation：解释",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "艺术价值"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0003",
+      "zh": "艺术可以表达难以直接陈述的经验。",
+      "en": "Art can express experiences difficult to state directly.",
+      "answers": [
+        "Art can express experiences difficult to state directly."
+      ],
+      "notes": "express：表达",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "艺术价值"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0004",
+      "zh": "流行程度与艺术创新不是同一个指标。",
+      "en": "Popularity and artistic innovation measure different things.",
+      "answers": [
+        "Popularity and artistic innovation measure different things."
+      ],
+      "notes": "innovation：创新",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "艺术价值"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0005",
+      "zh": "观众参与可以改变作品的意义。",
+      "en": "Audience participation can alter a work's meaning.",
+      "answers": [
+        "Audience participation can alter a work's meaning."
+      ],
+      "notes": "alter：改变",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "艺术价值"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0006",
+      "zh": "批评应具体说明判断依据。",
+      "en": "Criticism should explain the basis for its judgement.",
+      "answers": [
+        "Criticism should explain the basis for its judgement."
+      ],
+      "notes": "basis：依据",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "艺术价值"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0007",
+      "zh": "保存经典不应排除支持新作品。",
+      "en": "Preserving classics should not exclude support for new work.",
+      "answers": [
+        "Preserving classics should not exclude support for new work.",
+        "Preserving classics shouldn't exclude support for new work."
+      ],
+      "notes": "exclude：排除",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "艺术价值"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0008",
+      "zh": "艺术体验可能随观看者的经历而不同。",
+      "en": "Artistic experience can vary with the viewer's background.",
+      "answers": [
+        "Artistic experience can vary with the viewer's background."
+      ],
+      "notes": "vary with",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "艺术价值"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0009",
+      "zh": "文化机构需要支付日常运营费用，而不只是建馆。",
+      "en": "Cultural institutions need operating funds, not merely construction budgets.",
+      "answers": [
+        "Cultural institutions need operating funds, not merely construction budgets."
+      ],
+      "notes": "operating fund",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "资助"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0010",
+      "zh": "资助标准应允许多种艺术形式。",
+      "en": "Funding criteria should accommodate diverse art forms.",
+      "answers": [
+        "Funding criteria should accommodate diverse art forms."
+      ],
+      "notes": "accommodate：容纳",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "资助"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0011",
+      "zh": "短期观众数量难以衡量长期文化价值。",
+      "en": "Short-term attendance poorly measures lasting cultural value.",
+      "answers": [
+        "Short-term attendance poorly measures lasting cultural value."
+      ],
+      "notes": "lasting：长期",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "资助"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0012",
+      "zh": "赞助有助于生存，但可能影响展示选择。",
+      "en": "Sponsorship supports survival but can influence exhibition choices.",
+      "answers": [
+        "Sponsorship supports survival but can influence exhibition choices."
+      ],
+      "notes": "sponsorship：赞助",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "资助"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0013",
+      "zh": "偏远地区的文化服务不应只靠票房。",
+      "en": "Remote cultural services should not depend solely on ticket income.",
+      "answers": [
+        "Remote cultural services should not depend solely on ticket income.",
+        "Remote cultural services shouldn't depend solely on ticket income."
+      ],
+      "notes": "solely：仅仅",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "资助"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0014",
+      "zh": "大型项目不应自动挤掉小型组织。",
+      "en": "Large projects should not automatically displace smaller organisations.",
+      "answers": [
+        "Large projects should not automatically displace smaller organisations.",
+        "Large projects shouldn't automatically displace smaller organisations."
+      ],
+      "notes": "displace：挤出",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "资助"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0015",
+      "zh": "公开评审理由可以提高资助透明度。",
+      "en": "Published assessment reasons can improve funding transparency.",
+      "answers": [
+        "Published assessment reasons can improve funding transparency."
+      ],
+      "notes": "transparency：透明度",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "资助"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0016",
+      "zh": "按项目发放的资助可能支持演出本身，却无法支付两次委约之间的排练场租金。",
+      "en": "Project grants may fund a performance without covering rehearsal-space rent between commissions.",
+      "answers": [
+        "Project grants may fund a performance without covering rehearsal-space rent between commissions."
+      ],
+      "notes": "without covering 区分项目支出与持续成本；commission：委约。",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "资助"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0017",
+      "zh": "为历史建筑增加无障碍通道时，需要避免破坏赋予其特色的构件。",
+      "en": "Adding accessible routes to historic buildings requires care to avoid damaging the features that give them their character.",
+      "answers": [
+        "Adding accessible routes to historic buildings requires care to avoid damaging the features that give them their character."
+      ],
+      "notes": "to avoid 表目的；that 从句说明需保留的构件。",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "文化遗产"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0018",
+      "zh": "修复过度可能抹去历史痕迹。",
+      "en": "Excessive restoration can erase historical evidence.",
+      "answers": [
+        "Excessive restoration can erase historical evidence."
+      ],
+      "notes": "erase：抹去",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "文化遗产"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0019",
+      "zh": "非物质遗产依赖实践者持续参与。",
+      "en": "Intangible heritage depends on continuing participation by practitioners.",
+      "answers": [
+        "Intangible heritage depends on continuing participation by practitioners."
+      ],
+      "notes": "intangible：非物质",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "文化遗产"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0020",
+      "zh": "录下传统技艺可以保留步骤，却未必传达师徒现场合作时的默契。",
+      "en": "Recording a traditional craft preserves its steps but may not convey the tacit understanding developed through apprenticeship.",
+      "answers": [
+        "Recording a traditional craft preserves its steps but may not convey the tacit understanding developed through apprenticeship."
+      ],
+      "notes": "tacit understanding：默契；apprenticeship：学徒训练。",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "文化遗产"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0021",
+      "zh": "当地居民应参与遗产用途的决定。",
+      "en": "Residents should help decide how heritage sites are used.",
+      "answers": [
+        "Residents should help decide how heritage sites are used."
+      ],
+      "notes": "how 从句",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "文化遗产"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0022",
+      "zh": "遗产展览可能涉及不同群体之间相互冲突的历史记忆。",
+      "en": "Heritage displays can involve competing historical memories among different groups.",
+      "answers": [
+        "Heritage displays can involve competing historical memories among different groups."
+      ],
+      "notes": "competing 在此指相互冲突，而非仅仅不同。",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "文化遗产"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0023",
+      "zh": "改造需要区分可逆和永久改变。",
+      "en": "Adaptation needs to distinguish reversible from permanent changes.",
+      "answers": [
+        "Adaptation needs to distinguish reversible from permanent changes."
+      ],
+      "notes": "reversible：可逆",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "文化遗产"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0024",
+      "zh": "保护成本应与公共收益一同讨论。",
+      "en": "Preservation costs should be discussed alongside public benefits.",
+      "answers": [
+        "Preservation costs should be discussed alongside public benefits."
+      ],
+      "notes": "alongside：一并",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "文化遗产"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0025",
+      "zh": "收藏品的来源需要得到审查。",
+      "en": "The origins of collections require scrutiny.",
+      "answers": [
+        "The origins of collections require scrutiny."
+      ],
+      "notes": "scrutiny：审查",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "博物馆"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0026",
+      "zh": "展签应承认知识中仍存在的空白。",
+      "en": "Exhibition labels should acknowledge gaps in knowledge.",
+      "answers": [
+        "Exhibition labels should acknowledge gaps in knowledge."
+      ],
+      "notes": "acknowledge：承认",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "博物馆"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0027",
+      "zh": "博物馆可以呈现不同解释，而不只给出唯一叙述。",
+      "en": "Museums can present multiple interpretations instead of one narrative.",
+      "answers": [
+        "Museums can present multiple interpretations instead of one narrative."
+      ],
+      "notes": "narrative：叙述",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "博物馆"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0028",
+      "zh": "儿童参观需要适合其理解程度的设计。",
+      "en": "Children's visits need age-appropriate interpretation.",
+      "answers": [
+        "Children's visits need age-appropriate interpretation."
+      ],
+      "notes": "age-appropriate",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "博物馆"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0029",
+      "zh": "线上展览扩大接触，却难以复制物体尺度。",
+      "en": "Online exhibitions widen access but cannot reproduce physical scale.",
+      "answers": [
+        "Online exhibitions widen access but cannot reproduce physical scale.",
+        "Online exhibitions widen access but can't reproduce physical scale."
+      ],
+      "notes": "reproduce：复制呈现",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "博物馆"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0030",
+      "zh": "借展有助于交流，也带来保管责任。",
+      "en": "Loans support exchange while creating conservation responsibilities.",
+      "answers": [
+        "Loans support exchange while creating conservation responsibilities."
+      ],
+      "notes": "conservation：保管保护",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "博物馆"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0031",
+      "zh": "延迟闭馆可能帮助轮班工人参观，但返程交通也需要纳入安排。",
+      "en": "Later museum closing times may help shift workers attend, provided that transport home is also considered.",
+      "answers": [
+        "Later museum closing times may help shift workers attend, provided that transport home is also considered."
+      ],
+      "notes": "provided that：前提是；说明延长开放时间的配套条件。",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "博物馆"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0032",
+      "zh": "观众反馈可以揭示展示中的误解。",
+      "en": "Visitor feedback can reveal misunderstandings in displays.",
+      "answers": [
+        "Visitor feedback can reveal misunderstandings in displays."
+      ],
+      "notes": "reveal：揭示",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "博物馆"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0033",
+      "zh": "创意职业也需要可持续的报酬。",
+      "en": "Creative work also requires sustainable remuneration.",
+      "answers": [
+        "Creative work also requires sustainable remuneration."
+      ],
+      "notes": "remuneration：报酬",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "创意劳动"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0034",
+      "zh": "所谓曝光机会不应总是代替付费。",
+      "en": "Exposure should not routinely substitute for payment.",
+      "answers": [
+        "Exposure should not routinely substitute for payment.",
+        "Exposure shouldn't routinely substitute for payment."
+      ],
+      "notes": "exposure：曝光",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "创意劳动"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0035",
+      "zh": "作品传播需要尊重署名。",
+      "en": "Circulation of work should respect attribution.",
+      "answers": [
+        "Circulation of work should respect attribution."
+      ],
+      "notes": "attribution：署名",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "创意劳动"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0036",
+      "zh": "平台能扩大受众，也可能集中收益。",
+      "en": "Platforms can expand audiences while concentrating revenue.",
+      "answers": [
+        "Platforms can expand audiences while concentrating revenue."
+      ],
+      "notes": "concentrate：集中",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "创意劳动"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0037",
+      "zh": "如果创作者必须不断迎合资助申请的分类，形式上的创作自由也可能受到限制。",
+      "en": "Formal artistic freedom may be constrained if creators must continually fit the categories used in funding applications.",
+      "answers": [
+        "Formal artistic freedom may be constrained if creators must continually fit the categories used in funding applications."
+      ],
+      "notes": "be constrained：受限制；if 说明制度层面的约束。",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "创意劳动"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0038",
+      "zh": "项目制工作可能使收入难以预测。",
+      "en": "Project-based work can make earnings unpredictable.",
+      "answers": [
+        "Project-based work can make earnings unpredictable."
+      ],
+      "notes": "unpredictable：难预测",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "创意劳动"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0039",
+      "zh": "技术变化可能创造形式，也改变职业路径。",
+      "en": "Technological change can create forms and reshape careers.",
+      "answers": [
+        "Technological change can create forms and reshape careers."
+      ],
+      "notes": "reshape：重塑",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "创意劳动"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0040",
+      "zh": "评价创作者不应只看商业成功。",
+      "en": "Creators should not be judged solely by commercial success.",
+      "answers": [
+        "Creators should not be judged solely by commercial success.",
+        "Creators shouldn't be judged solely by commercial success."
+      ],
+      "notes": "solely：仅仅",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "创意劳动"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0041",
+      "zh": "少数群体应能参与讲述自己的历史。",
+      "en": "Minority groups should participate in telling their own histories.",
+      "answers": [
+        "Minority groups should participate in telling their own histories."
+      ],
+      "notes": "participate in",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "文化多样性"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0042",
+      "zh": "文化交流不一定导致文化完全趋同。",
+      "en": "Cultural exchange need not produce complete uniformity.",
+      "answers": [
+        "Cultural exchange need not produce complete uniformity.",
+        "Cultural exchange needn't produce complete uniformity."
+      ],
+      "notes": "uniformity：一致化",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "文化多样性"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0043",
+      "zh": "传统可以改变，而不必失去所有意义。",
+      "en": "Traditions can change without losing all meaning.",
+      "answers": [
+        "Traditions can change without losing all meaning."
+      ],
+      "notes": "without doing",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "文化多样性"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0044",
+      "zh": "商业化可能提供收入，也可能压缩表达。",
+      "en": "Commercialisation can provide income while narrowing expression.",
+      "answers": [
+        "Commercialisation can provide income while narrowing expression."
+      ],
+      "notes": "commercialisation：商业化",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "文化多样性"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0045",
+      "zh": "语言消失会影响口述知识的传承。",
+      "en": "Language loss affects the transmission of oral knowledge.",
+      "answers": [
+        "Language loss affects the transmission of oral knowledge."
+      ],
+      "notes": "transmission：传承",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "文化多样性"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0046",
+      "zh": "不同代际可能对同一习俗有不同理解。",
+      "en": "Generations may interpret the same custom differently.",
+      "answers": [
+        "Generations may interpret the same custom differently."
+      ],
+      "notes": "interpret：理解",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "文化多样性"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0047",
+      "zh": "参与文化活动的权利不应取决于出身。",
+      "en": "Cultural participation should not depend on social origin.",
+      "answers": [
+        "Cultural participation should not depend on social origin.",
+        "Cultural participation shouldn't depend on social origin."
+      ],
+      "notes": "social origin：出身",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "文化多样性"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0048",
+      "zh": "尊重差异也允许讨论和质疑。",
+      "en": "Respect for difference can coexist with debate and criticism.",
+      "answers": [
+        "Respect for difference can coexist with debate and criticism."
+      ],
+      "notes": "coexist：并存",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "文化多样性"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0049",
+      "zh": "数字化文件仍需要持续维护。",
+      "en": "Digitised records still require ongoing maintenance.",
+      "answers": [
+        "Digitised records still require ongoing maintenance."
+      ],
+      "notes": "digitised：数字化的",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "数字保存"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0050",
+      "zh": "扫描可以记录物件的外观，却无法保留用手感受其重量与质地的体验。",
+      "en": "Scanning can record an object's appearance but cannot preserve the experience of feeling its weight and texture by hand.",
+      "answers": [
+        "Scanning can record an object's appearance but cannot preserve the experience of feeling its weight and texture by hand.",
+        "Scanning can record an object's appearance but can't preserve the experience of feeling its weight and texture by hand."
+      ],
+      "notes": "appearance 与 feeling ... by hand 区分视觉信息和触觉体验。",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "数字保存"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0051",
+      "zh": "文件格式过时可能妨碍未来读取。",
+      "en": "Obsolete formats can obstruct future access.",
+      "answers": [
+        "Obsolete formats can obstruct future access."
+      ],
+      "notes": "obsolete：过时",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "数字保存"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0052",
+      "zh": "档案检索依赖准确的描述信息。",
+      "en": "Archive retrieval depends on accurate descriptive information.",
+      "answers": [
+        "Archive retrieval depends on accurate descriptive information."
+      ],
+      "notes": "retrieval：检索",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "数字保存"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0053",
+      "zh": "数字副本扩大使用，但不解决所有权争议。",
+      "en": "Digital copies broaden use without resolving ownership disputes.",
+      "answers": [
+        "Digital copies broaden use without resolving ownership disputes."
+      ],
+      "notes": "ownership：所有权",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "数字保存"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0054",
+      "zh": "社区成员可能认出档案照片中的地点，补足正式目录中缺失的信息。",
+      "en": "Community members may recognise places in archival photographs and supply details missing from formal catalogues.",
+      "answers": [
+        "Community members may recognise places in archival photographs and supply details missing from formal catalogues."
+      ],
+      "notes": "archival：档案中的；missing from：未列入。",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "数字保存"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0055",
+      "zh": "保留多个副本需要明确管理责任。",
+      "en": "Multiple copies require clear custodial responsibility.",
+      "answers": [
+        "Multiple copies require clear custodial responsibility."
+      ],
+      "notes": "custodial：保管的",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "数字保存"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0056",
+      "zh": "长期保存应从项目开始时就规划。",
+      "en": "Long-term preservation should be planned from the outset.",
+      "answers": [
+        "Long-term preservation should be planned from the outset."
+      ],
+      "notes": "outset：开始",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "数字保存"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0057",
+      "zh": "文化活动可以吸引人流，但居民也需要生活空间。",
+      "en": "Cultural events attract visitors, but residents also need everyday space.",
+      "answers": [
+        "Cultural events attract visitors, but residents also need everyday space."
+      ],
+      "notes": "everyday：日常",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "文化与城市"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0058",
+      "zh": "艺术街区走红可能推高创作者的租金。",
+      "en": "Successful arts districts can raise creators' rents.",
+      "answers": [
+        "Successful arts districts can raise creators' rents."
+      ],
+      "notes": "raise：提高",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "文化与城市"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0059",
+      "zh": "公共艺术的摆放应考虑轮椅通行路线，而不能只看正面观看效果。",
+      "en": "The placement of public art should account for wheelchair routes as well as its appearance from the front.",
+      "answers": [
+        "The placement of public art should account for wheelchair routes as well as its appearance from the front."
+      ],
+      "notes": "account for：考虑到；as well as 补充空间使用条件。",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "文化与城市"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0060",
+      "zh": "社区参与可以影响作品选址。",
+      "en": "Community participation can inform the siting of artworks.",
+      "answers": [
+        "Community participation can inform the siting of artworks."
+      ],
+      "notes": "siting：选址",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "文化与城市"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0061",
+      "zh": "文化地标并不自动形成活跃的文化生活。",
+      "en": "Cultural landmarks do not automatically create active cultural life.",
+      "answers": [
+        "Cultural landmarks do not automatically create active cultural life.",
+        "Cultural landmarks don't automatically create active cultural life."
+      ],
+      "notes": "landmark：地标",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "文化与城市"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0062",
+      "zh": "小型场地可能支持更频繁的日常活动。",
+      "en": "Small venues can support more frequent everyday activity.",
+      "answers": [
+        "Small venues can support more frequent everyday activity."
+      ],
+      "notes": "venue：场地",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "文化与城市"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0063",
+      "zh": "城市文化形象应与实际服务相匹配。",
+      "en": "A city's cultural image should match its actual provision.",
+      "answers": [
+        "A city's cultural image should match its actual provision."
+      ],
+      "notes": "provision：服务供给",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "文化与城市"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_arts_heritage_v3_0064",
+      "zh": "文化规划需要给未被预见的创作留空间。",
+      "en": "Cultural planning needs room for unforeseen creativity.",
+      "answers": [
+        "Cultural planning needs room for unforeseen creativity."
+      ],
+      "notes": "unforeseen：未预见",
+      "tags": [
+        "IELTS",
+        "文化遗产",
+        "文化与城市"
+      ],
+      "difficulty": 3
+    }
+  ]
+}

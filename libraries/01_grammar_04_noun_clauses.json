@@ -1,0 +1,985 @@
+{
+  "schema_version": 1,
+  "id": "grammar_noun_clauses",
+  "title": "语法 · 名词性从句｜句子成分与语序 · 60 句",
+  "description": "宾语、主语、表语和同位语从句；重点区分 that、what、whether、if 及间接问句。",
+  "language": "en-GB",
+  "tags": [
+    "语法专项",
+    "名词性从句",
+    "高中至六级"
+  ],
+  "items": [
+    {
+      "id": "grammar_noun_clauses_s1_0001",
+      "zh": "我不清楚备用电源放在哪里。",
+      "en": "I am unsure where the backup power unit is kept.",
+      "answers": [
+        "I am unsure where the backup power unit is kept."
+      ],
+      "notes": "间接问句用陈述语序 where ... is kept。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "宾语从句与语序",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0002",
+      "zh": "请查一下哪一份记录包含原始日期。",
+      "en": "Please check which record contains the original date.",
+      "answers": [
+        "Please check which record contains the original date."
+      ],
+      "notes": "which record 在从句中作主语，不添加 does。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "宾语从句与语序",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0003",
+      "zh": "他们没有说明为什么部分门票被取消了。",
+      "en": "They did not explain why some tickets had been cancelled.",
+      "answers": [
+        "They did not explain why some tickets had been cancelled.",
+        "They didn't explain why some tickets had been cancelled."
+      ],
+      "notes": "why 后为陈述语序；主句过去不影响从句句型。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "宾语从句与语序",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0004",
+      "zh": "我想知道这块布是用什么材料织成的。",
+      "en": "I wonder what this fabric is woven from.",
+      "answers": [
+        "I wonder what this fabric is woven from."
+      ],
+      "notes": "what 是 from 的宾语，介词可以留在末尾。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "宾语从句与语序",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0005",
+      "zh": "我们还不知道由谁负责最终清点。",
+      "en": "We do not yet know who is responsible for the final count.",
+      "answers": [
+        "We do not yet know who is responsible for the final count.",
+        "We don't yet know who is responsible for the final count."
+      ],
+      "notes": "who 作主语，从句无需额外助动词。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "宾语从句与语序",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0006",
+      "zh": "你能说明我们每次最多可以借几件吗？",
+      "en": "Could you explain how many items we may borrow at a time?",
+      "answers": [
+        "Could you explain how many items we may borrow at a time?"
+      ],
+      "notes": "how many 修饰 items；we may 为陈述语序。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "宾语从句与语序",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0007",
+      "zh": "我听说他们准备重新开放观景塔。",
+      "en": "I heard that they plan to reopen the viewing tower.",
+      "answers": [
+        "I heard that they plan to reopen the viewing tower."
+      ],
+      "notes": "that 引出陈述内容，不在从句中充当成分。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "宾语从句与语序",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0008",
+      "zh": "记录显示这扇门在检查前就损坏了。",
+      "en": "The record shows that the door was already damaged before inspection.",
+      "answers": [
+        "The record shows that the door was already damaged before inspection."
+      ],
+      "notes": "that 从句作 shows 的宾语，不能省去主语 the door。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "宾语从句与语序",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0009",
+      "zh": "她问的是费用包括什么，而不是总共多少钱。",
+      "en": "She asked what the fee covered, not how much it was.",
+      "answers": [
+        "She asked what the fee covered, not how much it was."
+      ],
+      "notes": "两个宾语从句分别询问范围和金额。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "宾语从句与语序",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0010",
+      "zh": "我无法判断这段话是在陈述事实还是引用他人观点。",
+      "en": "I cannot tell whether the passage states a fact or quotes someone else's view.",
+      "answers": [
+        "I cannot tell whether the passage states a fact or quotes someone else's view.",
+        "I can't tell whether the passage states a fact or quotes someone else's view."
+      ],
+      "notes": "whether ... or ... 连接两种备选判断。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "宾语从句与语序",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0011",
+      "zh": "是否关闭侧门，仍有待商量。",
+      "en": "Whether to close the side entrance remains under discussion.",
+      "answers": [
+        "Whether to close the side entrance remains under discussion."
+      ],
+      "notes": "whether to do 作主语，不能用 if to do。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "whether与if的边界",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0012",
+      "zh": "讨论取决于我们是否能找到共同的标准。",
+      "en": "The discussion depends on whether we can find a common standard.",
+      "answers": [
+        "The discussion depends on whether we can find a common standard."
+      ],
+      "notes": "介词 on 后用 whether，不用 if。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "whether与if的边界",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0013",
+      "zh": "他还没决定是自己搬，还是请搬家公司。",
+      "en": "He has not decided whether to move the furniture himself or hire movers.",
+      "answers": [
+        "He has not decided whether to move the furniture himself or hire movers.",
+        "He hasn't decided whether to move the furniture himself or hire movers."
+      ],
+      "notes": "whether + 不定式 + or；自己做与雇人形成选择。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "whether与if的边界",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0014",
+      "zh": "问题在于那份许可是否仍有效。",
+      "en": "The question is whether the permit remains valid.",
+      "answers": [
+        "The question is whether the permit remains valid."
+      ],
+      "notes": "whether 从句作表语，说明待判断事项。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "whether与if的边界",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0015",
+      "zh": "是否提供大字版，不应取决于有没有人提出要求。",
+      "en": "Whether a large-print version is provided should not depend on whether anyone requests one.",
+      "answers": [
+        "Whether a large-print version is provided should not depend on whether anyone requests one.",
+        "Whether a large-print version is provided shouldn't depend on whether anyone requests one."
+      ],
+      "notes": "句首 whether 从句作主语；on 后的 whether 从句作介词宾语，两处均不用 if。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "whether与if的边界",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0016",
+      "zh": "我不在乎座位是否靠窗，只要能听清就行。",
+      "en": "I do not mind whether the seat is by a window, provided I can hear clearly.",
+      "answers": [
+        "I do not mind whether the seat is by a window, provided I can hear clearly.",
+        "I don't mind whether the seat is by a window, provided I can hear clearly."
+      ],
+      "notes": "whether 引出在乎与否的内容；provided 另表条件。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "whether与if的边界",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0017",
+      "zh": "我们正在核实箱子是否全都到齐了。",
+      "en": "We are checking if all the crates have arrived.",
+      "answers": [
+        "We are checking if all the crates have arrived.",
+        "We are checking whether all the crates have arrived."
+      ],
+      "notes": "check 后 if 可引导是否，也可用 whether。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "whether与if的边界",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0018",
+      "zh": "关于合同是否应延长，双方没有达成一致。",
+      "en": "There is no agreement on whether the contract should be extended.",
+      "answers": [
+        "There is no agreement on whether the contract should be extended."
+      ],
+      "notes": "on whether 作名词 agreement 的补足信息。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "whether与if的边界",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0019",
+      "zh": "是不是故意遗漏了名单，需要进一步调查。",
+      "en": "Whether the names were omitted deliberately needs further investigation.",
+      "answers": [
+        "Whether the names were omitted deliberately needs further investigation."
+      ],
+      "notes": "句首主语从句用 whether；整体作单数主语。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "whether与if的边界",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0020",
+      "zh": "请告诉我是否要保留封面上的日期。",
+      "en": "Let me know whether to keep the date on the cover.",
+      "answers": [
+        "Let me know whether to keep the date on the cover."
+      ],
+      "notes": "whether to keep 省略了由语境明确的执行者。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "whether与if的边界",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0021",
+      "zh": "谁负责保管钥匙，比钥匙放在哪个抽屉更重要。",
+      "en": "Who keeps the key matters more than which drawer contains it.",
+      "answers": [
+        "Who keeps the key matters more than which drawer contains it."
+      ],
+      "notes": "两个名词性从句作比较；主语从句后用 matters。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "主语从句与形式主语",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0022",
+      "zh": "我们最需要的是一张标明替代入口的地图。",
+      "en": "What we need most is a map showing alternative entrances.",
+      "answers": [
+        "What we need most is a map showing alternative entrances."
+      ],
+      "notes": "what 自身含“所……的东西”，不再加 the thing。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "主语从句与形式主语",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0023",
+      "zh": "这批货是否受潮，可以通过检查内包装判断。",
+      "en": "Whether the goods are damp can be determined by checking the inner packaging.",
+      "answers": [
+        "Whether the goods are damp can be determined by checking the inner packaging."
+      ],
+      "notes": "whether 从句作主语，谓语为 can be determined。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "主语从句与形式主语",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0024",
+      "zh": "显然，两个标签指向的是同一批产品。",
+      "en": "It is apparent that both labels refer to the same batch.",
+      "answers": [
+        "It is apparent that both labels refer to the same batch."
+      ],
+      "notes": "it 为形式主语，真正主语是 that 从句。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "主语从句与形式主语",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0025",
+      "zh": "令人遗憾的是，我们只保留了裁剪后的版本。",
+      "en": "It is unfortunate that we retained only the cropped version.",
+      "answers": [
+        "It is unfortunate that we retained only the cropped version."
+      ],
+      "notes": "it is + 形容词 + that，评价整个事实。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "主语从句与形式主语",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0026",
+      "zh": "他为什么拒绝授权，目前还不清楚。",
+      "en": "Why he refused permission is still unclear.",
+      "answers": [
+        "Why he refused permission is still unclear."
+      ],
+      "notes": "why 从句作主语，主句谓语用 is。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "主语从句与形式主语",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0027",
+      "zh": "这项建议会影响多少人，尚未被计算出来。",
+      "en": "How many people the proposal would affect has not been calculated.",
+      "answers": [
+        "How many people the proposal would affect has not been calculated.",
+        "How many people the proposal would affect hasn't been calculated."
+      ],
+      "notes": "how many people 为 affect 宾语，整个从句作单数主语。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "主语从句与形式主语",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0028",
+      "zh": "重要的是每个成员都知道暂停的信号。",
+      "en": "It matters that every member recognises the signal to pause.",
+      "answers": [
+        "It matters that every member recognises the signal to pause."
+      ],
+      "notes": "it 为形式主语；that 引出真正重要的事项。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "主语从句与形式主语",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0029",
+      "zh": "令我们意外的是箱子里还有一层隔板。",
+      "en": "What surprised us was another partition inside the box.",
+      "answers": [
+        "What surprised us was another partition inside the box."
+      ],
+      "notes": "what 作 surprised 主语，整个从句又作主句主语。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "主语从句与形式主语",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0030",
+      "zh": "有人能在最后一刻接班，实在是帮了大忙。",
+      "en": "That someone could cover the shift at the last moment was a great help.",
+      "answers": [
+        "That someone could cover the shift at the last moment was a great help."
+      ],
+      "notes": "that 引导完整事实作主语，本身不充当从句成分。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "主语从句与形式主语",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0031",
+      "zh": "困难在于出口太窄，无法把整张桌子搬出去。",
+      "en": "The difficulty is that the exit is too narrow for the whole desk.",
+      "answers": [
+        "The difficulty is that the exit is too narrow for the whole desk."
+      ],
+      "notes": "that 从句说明 difficulty 的具体内容。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "表语从句与解释",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0032",
+      "zh": "真正的问题是我们愿意等多久。",
+      "en": "The real issue is how long we are willing to wait.",
+      "answers": [
+        "The real issue is how long we are willing to wait."
+      ],
+      "notes": "how long 从句作表语，保持陈述语序。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "表语从句与解释",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0033",
+      "zh": "那就是照片看起来偏蓝的原因。",
+      "en": "That is why the photograph looks bluish.",
+      "answers": [
+        "That is why the photograph looks bluish."
+      ],
+      "notes": "why 表结果前的原因说明，不能再加 because。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "表语从句与解释",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0034",
+      "zh": "我担心的是急着修复反而会造成更多损坏。",
+      "en": "My concern is that a rushed repair may cause further damage.",
+      "answers": [
+        "My concern is that a rushed repair may cause further damage."
+      ],
+      "notes": "that 引出担忧内容，不应错用 what，因为从句完整。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "表语从句与解释",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0035",
+      "zh": "我们要核实的是这道裂缝是否还在扩大。",
+      "en": "What we need to establish is whether the crack is widening.",
+      "answers": [
+        "What we need to establish is whether the crack is widening."
+      ],
+      "notes": "what 主语从句与 whether 表语从句各有功能。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "表语从句与解释",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0036",
+      "zh": "争议不在于要不要清洁，而在于谁支付费用。",
+      "en": "The dispute is not whether cleaning is needed but who pays for it.",
+      "answers": [
+        "The dispute is not whether cleaning is needed but who pays for it.",
+        "The dispute isn't whether cleaning is needed but who pays for it."
+      ],
+      "notes": "两个表语从句用 not ... but ... 对照。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "表语从句与解释",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0037",
+      "zh": "我的理解是借用期可以续一次。",
+      "en": "My understanding is that the loan can be renewed once.",
+      "answers": [
+        "My understanding is that the loan can be renewed once."
+      ],
+      "notes": "that 引出理解的完整内容；once 表次数。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "表语从句与解释",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0038",
+      "zh": "他们认为最重要的，正是我们最先忽略的。",
+      "en": "What they considered most important was what we overlooked first.",
+      "answers": [
+        "What they considered most important was what we overlooked first."
+      ],
+      "notes": "两个 what 从句分别作主语和表语。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "表语从句与解释",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0039",
+      "zh": "这就是控制线必须保持完整的原因。",
+      "en": "This is why the control cable must remain intact.",
+      "answers": [
+        "This is why the control cable must remain intact."
+      ],
+      "notes": "why 从句作表语；intact：完整未断的。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "表语从句与解释",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0040",
+      "zh": "问题似乎是谁都以为别人已经检查过。",
+      "en": "The problem seems to be that everyone assumed someone else had checked.",
+      "answers": [
+        "The problem seems to be that everyone assumed someone else had checked."
+      ],
+      "notes": "seems to be 后接 that 表语从句。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "表语从句与解释",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0041",
+      "zh": "有消息说渡轮可能暂停一天。",
+      "en": "There is news that the ferry may stop running for a day.",
+      "answers": [
+        "There is news that the ferry may stop running for a day."
+      ],
+      "notes": "that 从句解释 news 的内容，不是修饰一个缺成分的句子。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "同位语内容与定语区分",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0042",
+      "zh": "他们拒绝了必须立即签字的要求。",
+      "en": "They rejected the demand that they sign immediately.",
+      "answers": [
+        "They rejected the demand that they sign immediately."
+      ],
+      "notes": "demand 后同位语从句用动词原形 sign。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "同位语内容与定语区分",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0043",
+      "zh": "我们没有证据表明涂层已经失效。",
+      "en": "We have no evidence that the coating has failed.",
+      "answers": [
+        "We have no evidence that the coating has failed."
+      ],
+      "notes": "that 内容完整，说明 evidence 所支持的命题。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "同位语内容与定语区分",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0044",
+      "zh": "导游没有兑现带我们参观塔楼的承诺。",
+      "en": "The guide did not fulfil the promise that we would visit the tower.",
+      "answers": [
+        "The guide did not fulfil the promise that we would visit the tower.",
+        "The guide didn't fulfil the promise that we would visit the tower."
+      ],
+      "notes": "that 从句说明 promise 内容，不在从句中作宾语。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "同位语内容与定语区分",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0045",
+      "zh": "认为价格越高质量就一定越好的想法值得怀疑。",
+      "en": "The idea that higher prices always mean better quality is questionable.",
+      "answers": [
+        "The idea that higher prices always mean better quality is questionable."
+      ],
+      "notes": "that 引导 idea 的同位语从句；主句主语中心为 idea。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "同位语内容与定语区分",
+        "高中至六级"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0046",
+      "zh": "他们听到了一个关于旧桥将被保留的传闻。",
+      "en": "They heard a rumour that the old bridge would be retained.",
+      "answers": [
+        "They heard a rumour that the old bridge would be retained."
+      ],
+      "notes": "rumour that + 完整句子，说明传闻内容。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "同位语内容与定语区分",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0047",
+      "zh": "我们需要回答谁来承担运费的问题。",
+      "en": "We need to answer the question of who will cover shipping.",
+      "answers": [
+        "We need to answer the question of who will cover shipping."
+      ],
+      "notes": "of 后接 who 从句，具体解释 question。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "同位语内容与定语区分",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0048",
+      "zh": "她提出的假设尚未经过试验。",
+      "en": "The assumption that she proposed remains untested.",
+      "answers": [
+        "The assumption that she proposed remains untested."
+      ],
+      "notes": "that 作 proposed 的宾语，此处是定语从句，不是同位语从句。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "同位语内容与定语区分",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0049",
+      "zh": "设备必须停机的事实改变了我们的安排。",
+      "en": "The fact that the equipment must be shut down changes our plans.",
+      "answers": [
+        "The fact that the equipment must be shut down changes our plans."
+      ],
+      "notes": "that 从句解释 fact 的内容；主句动词 changes 与 fact 一致。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "同位语内容与定语区分",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0050",
+      "zh": "我同意先试用一个月的建议。",
+      "en": "I agree with the suggestion that we try it for a month first.",
+      "answers": [
+        "I agree with the suggestion that we try it for a month first."
+      ],
+      "notes": "suggestion 后内容从句用原形 try；with 属于 agree 的搭配。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "同位语内容与定语区分",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0051",
+      "zh": "请把你认为有用的东西留下。",
+      "en": "Keep whatever you consider useful.",
+      "answers": [
+        "Keep whatever you consider useful."
+      ],
+      "notes": "whatever 作 consider 的宾语，指任何你认为有用之物。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "what与开放指代",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0052",
+      "zh": "谁先完成，就由谁去核对清单。",
+      "en": "Whoever finishes first should check the inventory.",
+      "answers": [
+        "Whoever finishes first should check the inventory."
+      ],
+      "notes": "whoever 在从句中作主语，整个从句作主句主语。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "what与开放指代",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0053",
+      "zh": "你可以选择最适合窗口大小的那一款。",
+      "en": "You may choose whichever fits the window best.",
+      "answers": [
+        "You may choose whichever fits the window best."
+      ],
+      "notes": "whichever 指限定选项中的任意一个，在从句中作主语。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "what与开放指代",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0054",
+      "zh": "我相信的是能够复核的内容。",
+      "en": "I trust what can be checked independently.",
+      "answers": [
+        "I trust what can be checked independently."
+      ],
+      "notes": "what 作从句主语，同时整个从句作 trust 的宾语。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "what与开放指代",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0055",
+      "zh": "把副本交给你认为负责存档的人。",
+      "en": "Give the copy to whoever you think handles the archive.",
+      "answers": [
+        "Give the copy to whoever you think handles the archive."
+      ],
+      "notes": "whoever 作 handles 主语，不能因前有 to 就改成 whomever。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "what与开放指代",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0056",
+      "zh": "他们记录了自己能记起的所有细节。",
+      "en": "They recorded whatever details they could recall.",
+      "answers": [
+        "They recorded whatever details they could recall."
+      ],
+      "notes": "whatever details 作 recall 的宾语，说明不限具体细节。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "what与开放指代",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0057",
+      "zh": "你最终选什么，都需要在表上注明。",
+      "en": "Whatever you eventually choose needs to be entered on the form.",
+      "answers": [
+        "Whatever you eventually choose needs to be entered on the form."
+      ],
+      "notes": "whatever 从句作主语，主句用 needs。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "what与开放指代",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0058",
+      "zh": "我不能承诺超出设备能力的事情。",
+      "en": "I cannot promise more than what the equipment can deliver.",
+      "answers": [
+        "I cannot promise more than what the equipment can deliver.",
+        "I can't promise more than what the equipment can deliver."
+      ],
+      "notes": "what 作 deliver 宾语；more than 限定承诺范围。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "what与开放指代",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0059",
+      "zh": "请确认从机器里取出来的确实是正确的零件。",
+      "en": "Check that what comes out of the machine is the correct component.",
+      "answers": [
+        "Check that what comes out of the machine is the correct component."
+      ],
+      "notes": "that 宾语从句内部含 what 主语从句。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "what与开放指代",
+        "高中至六级"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "grammar_noun_clauses_s1_0060",
+      "zh": "我们更在意作品表达了什么，而不是作者是谁。",
+      "en": "We care more about what the work expresses than who created it.",
+      "answers": [
+        "We care more about what the work expresses than who created it."
+      ],
+      "notes": "两个名词性从句分别回答内容与作者。",
+      "tags": [
+        "语法专项",
+        "名词性从句",
+        "what与开放指代",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    }
+  ]
+}

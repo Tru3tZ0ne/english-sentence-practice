@@ -1,0 +1,575 @@
+{
+  "schema_version": 1,
+  "id": "environment_climate",
+  "title": "环境与气候精选 · 36 句",
+  "description": "围绕本主题的具体情境组织表达；覆盖请求、说明、比较与复合句，并附逐题用法。",
+  "language": "en-GB",
+  "tags": [
+    "环境与气候",
+    "environment",
+    "主题分类",
+    "精选",
+    "逐题讲解"
+  ],
+  "items": [
+    {
+      "zh": "这个容器可以重复使用，只要盖子还能密封。",
+      "en": "This container can be reused as long as the lid still seals properly.",
+      "answers": [
+        "This container can be reused as long as the lid still seals properly."
+      ],
+      "notes": "can be reused 是情态被动；as long as 提出重复使用的条件。",
+      "tags": [
+        "环境与气候",
+        "条件从句",
+        "说明使用条件",
+        "重复利用"
+      ],
+      "difficulty": 3,
+      "id": "environment_climate_001"
+    },
+    {
+      "zh": "与其买瓶装水，我带了一个可补水的水瓶。",
+      "en": "Rather than buy bottled water, I brought a refillable bottle.",
+      "answers": [
+        "Rather than buy bottled water, I brought a refillable bottle."
+      ],
+      "notes": "rather than 后接动词原形；brought 是 bring 的过去式，refillable 表示可补充装水的。",
+      "tags": [
+        "环境与气候",
+        "对比结构",
+        "描述环保选择",
+        "日常减废"
+      ],
+      "difficulty": 2,
+      "id": "environment_climate_002"
+    },
+    {
+      "zh": "这些落叶会被收集起来，制成堆肥。",
+      "en": "These fallen leaves will be collected and turned into compost.",
+      "answers": [
+        "These fallen leaves will be collected and turned into compost."
+      ],
+      "notes": "两个将来时被动谓语共用 will be；turn into 表示变成。",
+      "tags": [
+        "环境与气候",
+        "被动语态",
+        "说明处理过程",
+        "堆肥"
+      ],
+      "difficulty": 2,
+      "id": "environment_climate_003"
+    },
+    {
+      "zh": "虽然包装上印着回收标志，但当地不一定能处理这种材料。",
+      "en": "Although the packaging carries a recycling symbol, local facilities may not be able to process this material.",
+      "answers": [
+        "Although the packaging carries a recycling symbol, local facilities may not be able to process this material."
+      ],
+      "notes": "carry a symbol 表示印有标志；may not 指能力并不确定。",
+      "tags": [
+        "环境与气候",
+        "让步从句",
+        "核实回收条件",
+        "垃圾分类"
+      ],
+      "difficulty": 3,
+      "id": "environment_climate_004"
+    },
+    {
+      "zh": "暴雨过后，河水变得浑浊，岸边还堆着垃圾。",
+      "en": "After the heavy rain, the river turned muddy and litter accumulated along its banks.",
+      "answers": [
+        "After the heavy rain, the river turned muddy and litter accumulated along its banks."
+      ],
+      "notes": "turn + 形容词描述状态变化；litter 为不可数名词，banks 在此指河岸。",
+      "tags": [
+        "环境与气候",
+        "并列句",
+        "描述环境变化",
+        "河流观察"
+      ],
+      "difficulty": 2,
+      "id": "environment_climate_005"
+    },
+    {
+      "zh": "你知道旧电池应该送到哪里回收吗？",
+      "en": "Do you know where used batteries should be taken for recycling?",
+      "answers": [
+        "Do you know where used batteries should be taken for recycling?"
+      ],
+      "notes": "where 后使用陈述语序；should be taken 是情态被动语态。",
+      "tags": [
+        "环境与气候",
+        "间接疑问句",
+        "询问处理地点",
+        "电池回收"
+      ],
+      "difficulty": 3,
+      "id": "environment_climate_006"
+    },
+    {
+      "zh": "修好这双鞋，比直接换一双产生的废弃物更少。",
+      "en": "Repairing these shoes creates less waste than replacing them.",
+      "answers": [
+        "Repairing these shoes creates less waste than replacing them."
+      ],
+      "notes": "repairing 与 replacing 比较两种行为；waste 在此不可数，用 less。",
+      "tags": [
+        "环境与气候",
+        "比较结构",
+        "比较消费选择",
+        "物品维修"
+      ],
+      "difficulty": 2,
+      "id": "environment_climate_007"
+    },
+    {
+      "zh": "为了避免浪费食物，我会先看看冰箱里还有什么。",
+      "en": "To avoid wasting food, I check what is already in the fridge first.",
+      "answers": [
+        "To avoid wasting food, I check what is already in the fridge first."
+      ],
+      "notes": "avoid 后接 doing；what 从句作 check 的宾语。",
+      "tags": [
+        "环境与气候",
+        "目的状语",
+        "说明生活习惯",
+        "食物浪费"
+      ],
+      "difficulty": 2,
+      "id": "environment_climate_008"
+    },
+    {
+      "zh": "如果暖气开着，请把这扇窗关上。",
+      "en": "Please close this window if the heating is on.",
+      "answers": [
+        "Please close this window if the heating is on."
+      ],
+      "notes": "be on 表示设备处于开启状态；if 引出操作条件。",
+      "tags": [
+        "环境与气候",
+        "条件从句",
+        "提出节能请求",
+        "家庭节能"
+      ],
+      "difficulty": 1,
+      "id": "environment_climate_009"
+    },
+    {
+      "zh": "让这个街区更凉快的，不只是树的数量，还有树荫的位置。",
+      "en": "What makes this neighbourhood cooler is not just the number of trees but also where their shade falls.",
+      "answers": [
+        "What makes this neighbourhood cooler is not just the number of trees but also where their shade falls."
+      ],
+      "notes": "what 从句作主语；not just ... but also ... 并列评价因素。",
+      "tags": [
+        "环境与气候",
+        "主语从句",
+        "解释局部环境",
+        "树荫"
+      ],
+      "difficulty": 4,
+      "id": "environment_climate_010"
+    },
+    {
+      "zh": "自从安装了水表，我们就能更清楚地了解用水量。",
+      "en": "Since the water meter was installed, we've been able to track our water use more clearly.",
+      "answers": [
+        "Since the water meter was installed, we've been able to track our water use more clearly.",
+        "Since the water meter was installed, we have been able to track our water use more clearly."
+      ],
+      "notes": "since 从句用过去时被动；track 在此表示持续了解或记录。",
+      "tags": [
+        "环境与气候",
+        "现在完成时",
+        "描述设备作用",
+        "家庭用水"
+      ],
+      "difficulty": 3,
+      "id": "environment_climate_011"
+    },
+    {
+      "zh": "社区正在征集志愿者，帮助清理步道旁的垃圾。",
+      "en": "The community is looking for volunteers to help remove litter beside the footpath.",
+      "answers": [
+        "The community is looking for volunteers to help remove litter beside the footpath."
+      ],
+      "notes": "look for 表示寻找；to help 说明志愿者参与的任务。",
+      "tags": [
+        "环境与气候",
+        "现在进行时",
+        "介绍社区活动",
+        "环境清理"
+      ],
+      "difficulty": 2,
+      "id": "environment_climate_012"
+    },
+    {
+      "id": "environment_climate_ext_0001",
+      "zh": "请把纸箱压平，这样回收桶里能放更多东西。",
+      "en": "Please flatten the cardboard boxes so that more will fit in the recycling bin.",
+      "answers": [
+        "Please flatten the cardboard boxes so that more will fit in the recycling bin."
+      ],
+      "notes": "flatten：压平。",
+      "tags": [
+        "环境与气候",
+        "目的从句",
+        "分类回收"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "environment_climate_ext_0002",
+      "zh": "这件旧衣服还能穿，我打算把它捐出去。",
+      "en": "This old garment is still wearable, so I plan to donate it.",
+      "answers": [
+        "This old garment is still wearable, so I plan to donate it."
+      ],
+      "notes": "wearable：还能穿的。",
+      "tags": [
+        "环境与气候",
+        "因果并列句",
+        "旧物捐赠"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "environment_climate_ext_0003",
+      "zh": "活动结束后，我们称了剩余食物的重量。",
+      "en": "After the event, we weighed the leftover food.",
+      "answers": [
+        "After the event, we weighed the leftover food."
+      ],
+      "notes": "weigh 是动词，weight 是名词。",
+      "tags": [
+        "环境与气候",
+        "时间状语",
+        "减废记录"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "environment_climate_ext_0004",
+      "zh": "超市允许顾客自带容器购买这些商品。",
+      "en": "The supermarket allows customers to buy these products in their own containers.",
+      "answers": [
+        "The supermarket allows customers to buy these products in their own containers."
+      ],
+      "notes": "allow sb to do。",
+      "tags": [
+        "环境与气候",
+        "不定式结构",
+        "自带容器"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "environment_climate_ext_0005",
+      "zh": "我想知道这个清洁剂的补充装放在哪里。",
+      "en": "I would like to know where the refills for this cleaner are kept.",
+      "answers": [
+        "I would like to know where the refills for this cleaner are kept.",
+        "I'd like to know where the refills for this cleaner are kept."
+      ],
+      "notes": "refill：补充装。",
+      "tags": [
+        "环境与气候",
+        "间接疑问句",
+        "重复灌装"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "environment_climate_ext_0006",
+      "zh": "这盏灯接了定时器，不会整夜亮着。",
+      "en": "This light is on a timer, so it will not stay on all night.",
+      "answers": [
+        "This light is on a timer, so it will not stay on all night.",
+        "This light is on a timer, so it won't stay on all night."
+      ],
+      "notes": "stay on：保持开启。",
+      "tags": [
+        "环境与气候",
+        "因果并列句",
+        "照明节能"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "environment_climate_ext_0007",
+      "zh": "洗衣机还没装满，我们可以晚一点再开。",
+      "en": "The washing machine is not full yet; we can run it later.",
+      "answers": [
+        "The washing machine is not full yet; we can run it later.",
+        "The washing machine isn't full yet; we can run it later."
+      ],
+      "notes": "run a machine：启动使用机器。",
+      "tags": [
+        "环境与气候",
+        "并列句",
+        "家务节能"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "environment_climate_ext_0008",
+      "zh": "修理工说窗框的缝隙让很多热量散失了。",
+      "en": "The repairer said gaps around the window frame were letting a lot of heat escape.",
+      "answers": [
+        "The repairer said gaps around the window frame were letting a lot of heat escape."
+      ],
+      "notes": "let sth do：使某事发生。",
+      "tags": [
+        "环境与气候",
+        "宾语从句",
+        "住宅保温"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "environment_climate_ext_0009",
+      "zh": "如果充电器不用了，请从插座上拔下来。",
+      "en": "Please unplug the charger if it is no longer in use.",
+      "answers": [
+        "Please unplug the charger if it is no longer in use."
+      ],
+      "notes": "unplug：拔掉插头。",
+      "tags": [
+        "环境与气候",
+        "条件从句",
+        "电器使用"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "environment_climate_ext_0010",
+      "zh": "这段步道暂时关闭，以保护正在筑巢的鸟类。",
+      "en": "This section of the trail is temporarily closed to protect nesting birds.",
+      "answers": [
+        "This section of the trail is temporarily closed to protect nesting birds."
+      ],
+      "notes": "to protect 表示关闭的目的。",
+      "tags": [
+        "环境与气候",
+        "目的状语",
+        "野生动物保护"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "environment_climate_ext_0011",
+      "zh": "我们观鸟时会保持距离，避免惊扰它们。",
+      "en": "We keep our distance while birdwatching to avoid disturbing the birds.",
+      "answers": [
+        "We keep our distance while birdwatching to avoid disturbing the birds."
+      ],
+      "notes": "avoid 后接动名词。",
+      "tags": [
+        "环境与气候",
+        "目的结构",
+        "自然观察"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "environment_climate_ext_0012",
+      "zh": "清理海滩时，我们发现最多的是食品包装。",
+      "en": "Food wrappers were the most common items we found during the beach clean-up.",
+      "answers": [
+        "Food wrappers were the most common items we found during the beach clean-up."
+      ],
+      "notes": "most common：最常见的。",
+      "tags": [
+        "环境与气候",
+        "最高级结构",
+        "环境活动"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "environment_climate_ext_0013",
+      "zh": "请不要把园艺废物倒进这条小溪。",
+      "en": "Please do not dump garden waste into this stream.",
+      "answers": [
+        "Please do not dump garden waste into this stream.",
+        "Please don't dump garden waste into this stream."
+      ],
+      "notes": "dump：倾倒。",
+      "tags": [
+        "环境与气候",
+        "否定祈使句",
+        "水体保护"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "environment_climate_ext_0014",
+      "zh": "新种的树在干旱期间需要有人照看。",
+      "en": "The newly planted trees need someone to look after them during the drought.",
+      "answers": [
+        "The newly planted trees need someone to look after them during the drought."
+      ],
+      "notes": "newly planted：新种下的。",
+      "tags": [
+        "环境与气候",
+        "分词定语",
+        "社区绿化"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "environment_climate_ext_0015",
+      "zh": "我想报名参加周末的修理工作坊，而不是立刻买新的。",
+      "en": "I want to join the weekend repair workshop rather than immediately buy a replacement.",
+      "answers": [
+        "I want to join the weekend repair workshop rather than immediately buy a replacement."
+      ],
+      "notes": "replacement：替换物。",
+      "tags": [
+        "环境与气候",
+        "对比结构",
+        "物品维修"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "environment_climate_ext_0016",
+      "zh": "购买二手家具之前，我们先量了门的宽度。",
+      "en": "Before buying second-hand furniture, we measured the width of the doorway.",
+      "answers": [
+        "Before buying second-hand furniture, we measured the width of the doorway."
+      ],
+      "notes": "furniture 为不可数名词。",
+      "tags": [
+        "环境与气候",
+        "时间状语",
+        "二手消费"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "environment_climate_ext_0017",
+      "zh": "这个过滤器可以拆下来清洗，不必每次都换。",
+      "en": "This filter can be removed and washed instead of replaced each time.",
+      "answers": [
+        "This filter can be removed and washed instead of replaced each time."
+      ],
+      "notes": "被动谓语共用 can be。",
+      "tags": [
+        "环境与气候",
+        "被动语态",
+        "产品维护"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "environment_climate_ext_0018",
+      "zh": "如果你只需要用一次，可以先看看邻居能否借给你。",
+      "en": "If you only need it once, you could see whether a neighbour can lend it to you.",
+      "answers": [
+        "If you only need it once, you could see whether a neighbour can lend it to you."
+      ],
+      "notes": "lend ... to：借给。",
+      "tags": [
+        "环境与气候",
+        "条件从句",
+        "共享物品"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "environment_climate_ext_0019",
+      "zh": "我们把出行集中在同一天，减少了来回跑的次数。",
+      "en": "We combined our errands into one day, reducing the number of separate trips.",
+      "answers": [
+        "We combined our errands into one day, reducing the number of separate trips."
+      ],
+      "notes": "errands：需要外出的日常事务。",
+      "tags": [
+        "环境与气候",
+        "分词结果状语",
+        "出行安排"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "environment_climate_ext_0020",
+      "zh": "这张标签没有解释“环保”具体指的是什么。",
+      "en": "This label does not explain what environmentally friendly means in this case.",
+      "answers": [
+        "This label does not explain what environmentally friendly means in this case.",
+        "This label doesn't explain what environmentally friendly means in this case."
+      ],
+      "notes": "what 引出需要解释的含义。",
+      "tags": [
+        "环境与气候",
+        "宾语从句",
+        "环保标签"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "environment_climate_ext_0021",
+      "zh": "我记下了烟雾出现的时间和位置，准备报告给相关部门。",
+      "en": "I recorded when and where the smoke appeared so that I could report it to the relevant authority.",
+      "answers": [
+        "I recorded when and where the smoke appeared so that I could report it to the relevant authority."
+      ],
+      "notes": "when and where 并列信息。",
+      "tags": [
+        "环境与气候",
+        "目的从句",
+        "环境报告"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "environment_climate_ext_0022",
+      "zh": "昨晚的雨把新铺的泥土冲到了人行道上。",
+      "en": "Last night's rain washed the newly laid soil onto the pavement.",
+      "answers": [
+        "Last night's rain washed the newly laid soil onto the pavement."
+      ],
+      "notes": "wash ... onto：把某物冲到某处。",
+      "tags": [
+        "环境与气候",
+        "一般过去时",
+        "雨后观察"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "environment_climate_ext_0023",
+      "zh": "我们正在比较不同灯泡的耗电量，而不只是价格。",
+      "en": "We are comparing the power consumption of different bulbs, not just their prices.",
+      "answers": [
+        "We are comparing the power consumption of different bulbs, not just their prices.",
+        "We're comparing the power consumption of different bulbs, not just their prices."
+      ],
+      "notes": "power consumption：耗电量。",
+      "tags": [
+        "环境与气候",
+        "进行时表达",
+        "购买比较"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "environment_climate_ext_0024",
+      "zh": "只要物品保持完好，这个交换点就接受捐赠。",
+      "en": "This exchange point accepts donated items as long as they remain in good condition.",
+      "answers": [
+        "This exchange point accepts donated items as long as they remain in good condition."
+      ],
+      "notes": "in good condition：状况良好。",
+      "tags": [
+        "环境与气候",
+        "条件从句",
+        "社区交换"
+      ],
+      "difficulty": 2
+    }
+  ]
+}

@@ -1,0 +1,585 @@
+{
+  "schema_version": 1,
+  "id": "relationships_emotions",
+  "title": "人际与情绪精选 · 36 句",
+  "description": "围绕本主题的具体情境组织表达；覆盖请求、说明、比较与复合句，并附逐题用法。",
+  "language": "en-GB",
+  "tags": [
+    "人际与情绪",
+    "主题分类",
+    "精选",
+    "逐题讲解"
+  ],
+  "items": [
+    {
+      "zh": "我需要一点独处的时间，这并不意味着我在生你的气。",
+      "en": "I need some time alone; that doesn't mean I'm angry with you.",
+      "answers": [
+        "I need some time alone; that doesn't mean I'm angry with you.",
+        "I need some time alone; that does not mean I am angry with you."
+      ],
+      "notes": "be angry with sb 表示生某人的气；分号连接两句，说明独处需求而不指责对方。",
+      "tags": [
+        "人际与情绪",
+        "并列句",
+        "解释感受",
+        "个人空间"
+      ],
+      "difficulty": 2,
+      "id": "relationships_emotions_001"
+    },
+    {
+      "zh": "你刚才打断我时，我觉得自己的话没有被认真听取。",
+      "en": "When you interrupted me just now, I felt that I wasn't being heard.",
+      "answers": [
+        "When you interrupted me just now, I felt that I wasn't being heard.",
+        "When you interrupted me just now, I felt that I was not being heard."
+      ],
+      "notes": "when 交代具体行为；wasn't being heard 是过去进行时被动，用于表达当时的感受。",
+      "tags": [
+        "人际与情绪",
+        "时间从句",
+        "表达感受",
+        "沟通冲突"
+      ],
+      "difficulty": 3,
+      "id": "relationships_emotions_002"
+    },
+    {
+      "zh": "下次你借我的东西之前，可以先问我一下吗？",
+      "en": "Could you ask me before borrowing my things next time?",
+      "answers": [
+        "Could you ask me before borrowing my things next time?"
+      ],
+      "notes": "could you 用于礼貌请求；before 后接动名词 borrowing。",
+      "tags": [
+        "人际与情绪",
+        "礼貌疑问句",
+        "建立边界",
+        "借用物品"
+      ],
+      "difficulty": 2,
+      "id": "relationships_emotions_003"
+    },
+    {
+      "zh": "虽然我理解你的担心，但这件事我想自己决定。",
+      "en": "Although I understand your concern, I'd like to make this decision myself.",
+      "answers": [
+        "Although I understand your concern, I'd like to make this decision myself.",
+        "Although I understand your concern, I would like to make this decision myself."
+      ],
+      "notes": "although 承认对方感受；myself 强调由自己决定。",
+      "tags": [
+        "人际与情绪",
+        "让步从句",
+        "维护自主权",
+        "个人决定"
+      ],
+      "difficulty": 3,
+      "id": "relationships_emotions_004"
+    },
+    {
+      "zh": "如果你现在不想谈，我们可以晚一点再聊。",
+      "en": "If you don't feel like talking now, we can discuss it later.",
+      "answers": [
+        "If you don't feel like talking now, we can discuss it later.",
+        "If you do not feel like talking now, we can discuss it later."
+      ],
+      "notes": "feel like 后接 doing；if 条件句给对方选择空间。",
+      "tags": [
+        "人际与情绪",
+        "条件从句",
+        "尊重意愿",
+        "谈话时机"
+      ],
+      "difficulty": 2,
+      "id": "relationships_emotions_005"
+    },
+    {
+      "zh": "让我难过的不是意见不同，而是你没有告诉我。",
+      "en": "What upset me wasn't the disagreement but the fact that you didn't tell me.",
+      "answers": [
+        "What upset me wasn't the disagreement but the fact that you didn't tell me.",
+        "What upset me was not the disagreement but the fact that you did not tell me."
+      ],
+      "notes": "what 从句作主语；not ... but ... 明确真正介意的原因。",
+      "tags": [
+        "人际与情绪",
+        "主语从句",
+        "澄清问题",
+        "信任"
+      ],
+      "difficulty": 4,
+      "id": "relationships_emotions_006"
+    },
+    {
+      "zh": "我很感激你愿意听我说，而不是马上给建议。",
+      "en": "I appreciate your listening instead of immediately offering advice.",
+      "answers": [
+        "I appreciate your listening instead of immediately offering advice."
+      ],
+      "notes": "appreciate 后接名词或动名词；advice 不可数，不能写成 advices。",
+      "tags": [
+        "人际与情绪",
+        "动名词宾语",
+        "表达感谢",
+        "倾听"
+      ],
+      "difficulty": 3,
+      "id": "relationships_emotions_007"
+    },
+    {
+      "zh": "我本该早点告诉你计划变了。",
+      "en": "I should have told you earlier that the plan had changed.",
+      "answers": [
+        "I should have told you earlier that the plan had changed."
+      ],
+      "notes": "should have done 表示本该做却没做；had changed 表示变化发生在告知之前。",
+      "tags": [
+        "人际与情绪",
+        "情态完成式",
+        "承担责任",
+        "道歉"
+      ],
+      "difficulty": 3,
+      "id": "relationships_emotions_008"
+    },
+    {
+      "zh": "我们能先暂停这场争论，等两个人都冷静下来再继续吗？",
+      "en": "Can we pause this argument and return to it when we've both calmed down?",
+      "answers": [
+        "Can we pause this argument and return to it when we've both calmed down?",
+        "Can we pause this argument and return to it when we have both calmed down?"
+      ],
+      "notes": "pause 与 return 并列；calm down 表示冷静下来。",
+      "tags": [
+        "人际与情绪",
+        "疑问句",
+        "缓和冲突",
+        "争论"
+      ],
+      "difficulty": 2,
+      "id": "relationships_emotions_009"
+    },
+    {
+      "zh": "你的支持让我更有信心尝试一些新东西。",
+      "en": "Your support has given me the confidence to try something new.",
+      "answers": [
+        "Your support has given me the confidence to try something new."
+      ],
+      "notes": "give sb the confidence to do；something new 中形容词放在不定代词之后。",
+      "tags": [
+        "人际与情绪",
+        "现在完成时",
+        "表达积极影响",
+        "支持"
+      ],
+      "difficulty": 2,
+      "id": "relationships_emotions_010"
+    },
+    {
+      "zh": "我无法替你解决这件事，但我可以陪你一起想办法。",
+      "en": "I can't solve this for you, but I can help you think it through.",
+      "answers": [
+        "I can't solve this for you, but I can help you think it through.",
+        "I cannot solve this for you, but I can help you think it through."
+      ],
+      "notes": "think sth through 表示充分考虑；用具体支持回应困难。",
+      "tags": [
+        "人际与情绪",
+        "转折并列句",
+        "提供支持",
+        "共同解决问题"
+      ],
+      "difficulty": 2,
+      "id": "relationships_emotions_011"
+    },
+    {
+      "zh": "无论我们是否同意彼此，都可以尊重对方的选择。",
+      "en": "Whether or not we agree, we can still respect each other's choices.",
+      "answers": [
+        "Whether or not we agree, we can still respect each other's choices."
+      ],
+      "notes": "whether or not 表示无论是否；each other's 为相互关系的所有格。",
+      "tags": [
+        "人际与情绪",
+        "让步从句",
+        "尊重差异",
+        "人际边界"
+      ],
+      "difficulty": 3,
+      "id": "relationships_emotions_012"
+    },
+    {
+      "id": "relationships_emotions_ext_0001",
+      "zh": "我刚才反应太快了，想重新解释一下我的意思。",
+      "en": "I reacted too quickly and would like to explain what I meant again.",
+      "answers": [
+        "I reacted too quickly and would like to explain what I meant again."
+      ],
+      "notes": "react：作出反应。",
+      "tags": [
+        "人际与情绪",
+        "宾语从句",
+        "澄清表达"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "relationships_emotions_ext_0002",
+      "zh": "你可以不同意，但请让我把话说完。",
+      "en": "You can disagree, but please let me finish.",
+      "answers": [
+        "You can disagree, but please let me finish."
+      ],
+      "notes": "let sb do：让某人做事。",
+      "tags": [
+        "人际与情绪",
+        "转折并列句",
+        "谈话边界"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "relationships_emotions_ext_0003",
+      "zh": "我不是在要求你马上回答。",
+      "en": "I am not asking you to answer immediately.",
+      "answers": [
+        "I am not asking you to answer immediately.",
+        "I'm not asking you to answer immediately."
+      ],
+      "notes": "ask sb to do：要求或请人做事。",
+      "tags": [
+        "人际与情绪",
+        "现在进行时",
+        "减轻压力"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "relationships_emotions_ext_0004",
+      "zh": "当计划突然改变时，我需要一点时间适应。",
+      "en": "When plans change suddenly, I need some time to adjust.",
+      "answers": [
+        "When plans change suddenly, I need some time to adjust."
+      ],
+      "notes": "adjust：适应变化。",
+      "tags": [
+        "人际与情绪",
+        "时间从句",
+        "表达需求"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "relationships_emotions_ext_0005",
+      "zh": "你昨天没有回复，我担心你是不是遇到了困难。",
+      "en": "When you did not reply yesterday, I wondered whether something was wrong.",
+      "answers": [
+        "When you did not reply yesterday, I wondered whether something was wrong.",
+        "When you didn't reply yesterday, I wondered whether something was wrong."
+      ],
+      "notes": "wonder whether：想知道是否。",
+      "tags": [
+        "人际与情绪",
+        "宾语从句",
+        "表达关心"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "relationships_emotions_ext_0006",
+      "zh": "我不想猜你的意思，宁愿直接问清楚。",
+      "en": "I would rather ask you directly than guess what you mean.",
+      "answers": [
+        "I would rather ask you directly than guess what you mean.",
+        "I'd rather ask you directly than guess what you mean."
+      ],
+      "notes": "would rather do A than do B。",
+      "tags": [
+        "人际与情绪",
+        "偏好结构",
+        "沟通方式"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "relationships_emotions_ext_0007",
+      "zh": "这件事对你意味着什么，我想听听你的看法。",
+      "en": "I would like to hear what this means to you.",
+      "answers": [
+        "I would like to hear what this means to you.",
+        "I'd like to hear what this means to you."
+      ],
+      "notes": "what 引出对方赋予的意义。",
+      "tags": [
+        "人际与情绪",
+        "宾语从句",
+        "主动倾听"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "relationships_emotions_ext_0008",
+      "zh": "我们记得的细节不同，但可以先确认共同知道的部分。",
+      "en": "We remember different details, but we can first establish what we both know.",
+      "answers": [
+        "We remember different details, but we can first establish what we both know."
+      ],
+      "notes": "establish：确认、厘清。",
+      "tags": [
+        "人际与情绪",
+        "转折并列句",
+        "处理分歧"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "relationships_emotions_ext_0009",
+      "zh": "我需要拒绝这次请求，因为已经承担了太多事情。",
+      "en": "I need to decline this request because I have taken on too much.",
+      "answers": [
+        "I need to decline this request because I have taken on too much."
+      ],
+      "notes": "take on：承担。",
+      "tags": [
+        "人际与情绪",
+        "原因从句",
+        "拒绝请求"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "relationships_emotions_ext_0010",
+      "zh": "虽然你是出于好意，这个建议现在并不适合我。",
+      "en": "Although you mean well, this suggestion does not suit me right now.",
+      "answers": [
+        "Although you mean well, this suggestion does not suit me right now.",
+        "Although you mean well, this suggestion doesn't suit me right now."
+      ],
+      "notes": "mean well：出于好意。",
+      "tags": [
+        "人际与情绪",
+        "让步从句",
+        "回应建议"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "relationships_emotions_ext_0011",
+      "zh": "我很高兴你把这件事告诉了我。",
+      "en": "I am glad you told me about this.",
+      "answers": [
+        "I am glad you told me about this.",
+        "I'm glad you told me about this."
+      ],
+      "notes": "glad 后可接省略 that 的从句。",
+      "tags": [
+        "人际与情绪",
+        "表语从句",
+        "回应信任"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "relationships_emotions_ext_0012",
+      "zh": "如果你只想有人听，我可以先不提解决办法。",
+      "en": "If you just want someone to listen, I can hold off on suggesting solutions.",
+      "answers": [
+        "If you just want someone to listen, I can hold off on suggesting solutions."
+      ],
+      "notes": "hold off on doing：暂缓做某事。",
+      "tags": [
+        "人际与情绪",
+        "条件从句",
+        "提供倾听"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "relationships_emotions_ext_0013",
+      "zh": "我希望我们的讨论能集中在这次发生的事上。",
+      "en": "I would like our discussion to focus on what happened this time.",
+      "answers": [
+        "I would like our discussion to focus on what happened this time.",
+        "I'd like our discussion to focus on what happened this time."
+      ],
+      "notes": "focus on：集中讨论。",
+      "tags": [
+        "人际与情绪",
+        "宾语从句",
+        "界定范围"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "relationships_emotions_ext_0014",
+      "zh": "我承认自己忘了这件事，不想找借口。",
+      "en": "I admit that I forgot and do not want to make excuses.",
+      "answers": [
+        "I admit that I forgot and do not want to make excuses.",
+        "I admit that I forgot and don't want to make excuses."
+      ],
+      "notes": "make excuses：找借口。",
+      "tags": [
+        "人际与情绪",
+        "宾语从句",
+        "承担责任"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "relationships_emotions_ext_0015",
+      "zh": "你的道歉对我很重要，但我还需要一点时间。",
+      "en": "Your apology matters to me, but I still need some time.",
+      "answers": [
+        "Your apology matters to me, but I still need some time."
+      ],
+      "notes": "matter to sb：对某人重要。",
+      "tags": [
+        "人际与情绪",
+        "转折并列句",
+        "回应道歉"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "relationships_emotions_ext_0016",
+      "zh": "我想先把情绪平静下来，再作决定。",
+      "en": "I want to settle my emotions before making a decision.",
+      "answers": [
+        "I want to settle my emotions before making a decision."
+      ],
+      "notes": "before doing 表达顺序。",
+      "tags": [
+        "人际与情绪",
+        "时间状语",
+        "决定时机"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "relationships_emotions_ext_0017",
+      "zh": "比起公开谈论，我更愿意私下说这件事。",
+      "en": "I would feel more comfortable discussing this privately than in public.",
+      "answers": [
+        "I would feel more comfortable discussing this privately than in public.",
+        "I'd feel more comfortable discussing this privately than in public."
+      ],
+      "notes": "feel comfortable doing：愿意自在地做。",
+      "tags": [
+        "人际与情绪",
+        "比较结构",
+        "隐私需求"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "relationships_emotions_ext_0018",
+      "zh": "你不需要和我有同样的经历，才能理解我的感受。",
+      "en": "You do not need the same experiences as me to understand how I feel.",
+      "answers": [
+        "You do not need the same experiences as me to understand how I feel.",
+        "You don't need the same experiences as me to understand how I feel."
+      ],
+      "notes": "to understand 表达目的或条件。",
+      "tags": [
+        "人际与情绪",
+        "不定式结构",
+        "寻求理解"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "relationships_emotions_ext_0019",
+      "zh": "这次合作让我看到了你做事很可靠的一面。",
+      "en": "Working together showed me how dependable you are.",
+      "answers": [
+        "Working together showed me how dependable you are."
+      ],
+      "notes": "dependable：可靠的。",
+      "tags": [
+        "人际与情绪",
+        "动名词主语",
+        "表达认可"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "relationships_emotions_ext_0020",
+      "zh": "我不想在没有询问你的情况下替你答应。",
+      "en": "I do not want to agree on your behalf without asking you.",
+      "answers": [
+        "I do not want to agree on your behalf without asking you.",
+        "I don't want to agree on your behalf without asking you."
+      ],
+      "notes": "on your behalf：代表你。",
+      "tags": [
+        "人际与情绪",
+        "条件短语",
+        "尊重决定"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "relationships_emotions_ext_0021",
+      "zh": "如果我误解了，请直接纠正我。",
+      "en": "Please correct me directly if I have misunderstood.",
+      "answers": [
+        "Please correct me directly if I have misunderstood."
+      ],
+      "notes": "have misunderstood：已产生误解。",
+      "tags": [
+        "人际与情绪",
+        "条件从句",
+        "邀请纠正"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "relationships_emotions_ext_0022",
+      "zh": "我们可以保持联系，即使见面的机会变少了。",
+      "en": "We can stay in touch even if we see each other less often.",
+      "answers": [
+        "We can stay in touch even if we see each other less often."
+      ],
+      "notes": "stay in touch：保持联系。",
+      "tags": [
+        "人际与情绪",
+        "让步条件句",
+        "维持关系"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "relationships_emotions_ext_0023",
+      "zh": "我更在意你是否守约，而不是承诺听起来有多好。",
+      "en": "I care more about whether you follow through than how good the promise sounds.",
+      "answers": [
+        "I care more about whether you follow through than how good the promise sounds."
+      ],
+      "notes": "follow through：把承诺落实。",
+      "tags": [
+        "人际与情绪",
+        "比较结构",
+        "信任建立"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "relationships_emotions_ext_0024",
+      "zh": "谢谢你记得我提过的小事，让我觉得自己被重视。",
+      "en": "Thank you for remembering the small things I mentioned; it makes me feel valued.",
+      "answers": [
+        "Thank you for remembering the small things I mentioned; it makes me feel valued."
+      ],
+      "notes": "feel valued：感到被重视。",
+      "tags": [
+        "人际与情绪",
+        "定语从句",
+        "表达感谢"
+      ],
+      "difficulty": 3
+    }
+  ]
+}

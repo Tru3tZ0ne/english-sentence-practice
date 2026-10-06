@@ -1,0 +1,979 @@
+{
+  "schema_version": 1,
+  "id": "grammar_participles_complements",
+  "title": "语法 · 非谓语｜分词、补足与逻辑主语 · 60 句",
+  "description": "主动与被动分词、状语、感官和使役补足、with 结构及悬垂分词辨析。",
+  "language": "en-GB",
+  "tags": [
+    "语法专项",
+    "非谓语",
+    "高中至六级"
+  ],
+  "items": [
+    {
+      "id": "grammar_participles_complements_s1_0001",
+      "zh": "站在帐篷旁唱歌的人是我们的厨师。",
+      "en": "The person singing beside the tent is our cook.",
+      "answers": [
+        "The person singing beside the tent is our cook."
+      ],
+      "notes": "singing 主动修饰 person，相当于 who is singing。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "现在分词修饰",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_participles_complements_s1_0002",
+      "zh": "所有希望参加夜游的游客都应携带外套。",
+      "en": "Visitors wishing to join the night tour should bring a coat.",
+      "answers": [
+        "Visitors wishing to join the night tour should bring a coat."
+      ],
+      "notes": "wishing 表游客的主动意愿，不能用 wished。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "现在分词修饰",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_participles_complements_s1_0003",
+      "zh": "流经村庄的小溪在下游汇入大河。",
+      "en": "The stream flowing through the village joins a larger river downstream.",
+      "answers": [
+        "The stream flowing through the village joins a larger river downstream."
+      ],
+      "notes": "flowing 修饰 stream，主句动词为 joins。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "现在分词修饰",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_participles_complements_s1_0004",
+      "zh": "这个俱乐部欢迎正在学习第二种语言的退休人士。",
+      "en": "The club welcomes retired people learning a second language.",
+      "answers": [
+        "The club welcomes retired people learning a second language."
+      ],
+      "notes": "learning 为后置定语；retired 为已退休状态。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "现在分词修饰",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_participles_complements_s1_0005",
+      "zh": "我喜欢那些探讨普通人生活的小说。",
+      "en": "I enjoy novels exploring the lives of ordinary people.",
+      "answers": [
+        "I enjoy novels exploring the lives of ordinary people."
+      ],
+      "notes": "exploring 与 novels 为主动意义关系。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "现在分词修饰",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_participles_complements_s1_0006",
+      "zh": "到达终点的选手会得到一条干毛巾。",
+      "en": "Runners reaching the finish receive a dry towel.",
+      "answers": [
+        "Runners reaching the finish receive a dry towel."
+      ],
+      "notes": "reaching 修饰 runners，不作为主句谓语。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "现在分词修饰",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_participles_complements_s1_0007",
+      "zh": "房价的上涨使新来的教师更难找到住处。",
+      "en": "Rising house prices make accommodation harder to find for newly arrived teachers.",
+      "answers": [
+        "Rising house prices make accommodation harder to find for newly arrived teachers."
+      ],
+      "notes": "rising 是主动变化，不能用 raised 表自然上涨。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "现在分词修饰",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_participles_complements_s1_0008",
+      "zh": "连接各村的班车只在集市日运行。",
+      "en": "The shuttle linking the villages runs only on market days.",
+      "answers": [
+        "The shuttle linking the villages runs only on market days."
+      ],
+      "notes": "linking 作定语，runs 才是主句谓语。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "现在分词修饰",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_participles_complements_s1_0009",
+      "zh": "正在接受采访的医生要求暂停片刻。",
+      "en": "The doctor being interviewed asked for a short break.",
+      "answers": [
+        "The doctor being interviewed asked for a short break."
+      ],
+      "notes": "being interviewed 表被动且正在进行。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "现在分词修饰",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_participles_complements_s1_0010",
+      "zh": "在山坡上觅食的鹿没有注意到我们。",
+      "en": "The deer feeding on the hillside did not notice us.",
+      "answers": [
+        "The deer feeding on the hillside did not notice us.",
+        "The deer feeding on the hillside didn't notice us."
+      ],
+      "notes": "feeding 主动修饰 deer；定语可压缩关系从句。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "现在分词修饰",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_participles_complements_s1_0011",
+      "zh": "用当地水果制作的果酱只在秋季出售。",
+      "en": "Jam made from local fruit is sold only in autumn.",
+      "answers": [
+        "Jam made from local fruit is sold only in autumn."
+      ],
+      "notes": "made 为被动定语；is sold 为主句谓语。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "过去分词修饰",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_participles_complements_s1_0012",
+      "zh": "这首献给朋友的诗直到多年后才发表。",
+      "en": "The poem dedicated to a friend was published only years later.",
+      "answers": [
+        "The poem dedicated to a friend was published only years later."
+      ],
+      "notes": "dedicated to：献给；过去分词表被动关系。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "过去分词修饰",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_participles_complements_s1_0013",
+      "zh": "受洪水影响的家庭可以申请临时住宿。",
+      "en": "Families affected by the flood may request temporary accommodation.",
+      "answers": [
+        "Families affected by the flood may request temporary accommodation."
+      ],
+      "notes": "affected by 指受到影响，而非 affecting 主动影响别人。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "过去分词修饰",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_participles_complements_s1_0014",
+      "zh": "我们听到的版本是由学生改编的。",
+      "en": "The version we heard was adapted by students.",
+      "answers": [
+        "The version we heard was adapted by students."
+      ],
+      "notes": "was adapted 为谓语被动；we heard 是定语从句。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "过去分词修饰",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_participles_complements_s1_0015",
+      "zh": "采摘过早的梨口感可能偏硬。",
+      "en": "Pears picked too early may have a hard texture.",
+      "answers": [
+        "Pears picked too early may have a hard texture."
+      ],
+      "notes": "picked too early 后置修饰 pears。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "过去分词修饰",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_participles_complements_s1_0016",
+      "zh": "我带回了一幅用炭笔画的肖像。",
+      "en": "I brought back a portrait drawn in charcoal.",
+      "answers": [
+        "I brought back a portrait drawn in charcoal."
+      ],
+      "notes": "drawn 是 draw 的过去分词，不是 drawing。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "过去分词修饰",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_participles_complements_s1_0017",
+      "zh": "为新手预留的泳道今天用于教学。",
+      "en": "The lane reserved for beginners is used for lessons today.",
+      "answers": [
+        "The lane reserved for beginners is used for lessons today."
+      ],
+      "notes": "reserved 为定语，is used 为谓语，不能漏 is。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "过去分词修饰",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_participles_complements_s1_0018",
+      "zh": "一段毫无变化地反复演奏的旋律可能失去吸引力。",
+      "en": "A melody repeated without variation may lose its appeal.",
+      "answers": [
+        "A melody repeated without variation may lose its appeal."
+      ],
+      "notes": "repeated 为被动后置定语，修饰 melody；主句谓语是 may lose。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "过去分词修饰",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_participles_complements_s1_0019",
+      "zh": "这家店出售已经修复的二手乐器。",
+      "en": "The shop sells restored second-hand instruments.",
+      "answers": [
+        "The shop sells restored second-hand instruments."
+      ],
+      "notes": "restored 表已修复，与待修复不同。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "过去分词修饰",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_participles_complements_s1_0020",
+      "zh": "没有及时冷藏的奶制品不能用于这道甜点。",
+      "en": "Dairy products not refrigerated promptly cannot be used in this dessert.",
+      "answers": [
+        "Dairy products not refrigerated promptly cannot be used in this dessert.",
+        "Dairy products not refrigerated promptly can't be used in this dessert."
+      ],
+      "notes": "not 置于分词前，否定被动修饰语。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "过去分词修饰",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_participles_complements_s1_0021",
+      "zh": "听到自己的曲子被演奏，他忍不住笑了。",
+      "en": "Hearing his composition performed, he could not help smiling.",
+      "answers": [
+        "Hearing his composition performed, he could not help smiling.",
+        "Hearing his composition performed, he couldn't help smiling."
+      ],
+      "notes": "Hearing 的逻辑主语为 he；performed 补充 composition。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "主动分词作状语",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_participles_complements_s1_0022",
+      "zh": "沿着河岸走，我们看到了水獭留下的痕迹。",
+      "en": "Walking along the riverbank, we spotted signs of otters.",
+      "answers": [
+        "Walking along the riverbank, we spotted signs of otters."
+      ],
+      "notes": "walking 的执行者须与 we 一致，避免悬垂分词。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "主动分词作状语",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_participles_complements_s1_0023",
+      "zh": "她把日记递给我，示意我看最后一页。",
+      "en": "She handed me the diary, pointing to its final page.",
+      "answers": [
+        "She handed me the diary, pointing to its final page."
+      ],
+      "notes": "pointing 表伴随动作，主语仍是 she。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "主动分词作状语",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_participles_complements_s1_0024",
+      "zh": "没有认出主办人，我直接走过了他身旁。",
+      "en": "Not recognising the organiser, I walked straight past him.",
+      "answers": [
+        "Not recognising the organiser, I walked straight past him."
+      ],
+      "notes": "not doing 作原因状语，否定放在分词前。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "主动分词作状语",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_participles_complements_s1_0025",
+      "zh": "考虑到父母行动不便，我们选了不用爬楼的餐厅。",
+      "en": "Considering our parents' limited mobility, we chose a restaurant without stairs.",
+      "answers": [
+        "Considering our parents' limited mobility, we chose a restaurant without stairs."
+      ],
+      "notes": "considering 引出考虑因素；与主句决策有关。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "主动分词作状语",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_participles_complements_s1_0026",
+      "zh": "她先核对了歌词，然后才加入合唱。",
+      "en": "Having checked the lyrics, she joined the choir.",
+      "answers": [
+        "Having checked the lyrics, she joined the choir."
+      ],
+      "notes": "having done 表先于主句完成的动作，重点在先后结构。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "主动分词作状语",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_participles_complements_s1_0027",
+      "zh": "游客挤满了街道，使居民很难推车通过。",
+      "en": "Visitors filled the street, making it difficult for residents to push carts through.",
+      "answers": [
+        "Visitors filled the street, making it difficult for residents to push carts through."
+      ],
+      "notes": "making 表自然结果，逻辑原因是前句整体。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "主动分词作状语",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_participles_complements_s1_0028",
+      "zh": "由于不知道路线变更，我们去了原来的集合点。",
+      "en": "Not knowing about the route change, we went to the original meeting point.",
+      "answers": [
+        "Not knowing about the route change, we went to the original meeting point."
+      ],
+      "notes": "not knowing 表原因，主语与 we 一致。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "主动分词作状语",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_participles_complements_s1_0029",
+      "zh": "他坐在岸边，看着孩子们放纸船。",
+      "en": "He sat on the bank, watching the children launch paper boats.",
+      "answers": [
+        "He sat on the bank, watching the children launch paper boats."
+      ],
+      "notes": "watching 为伴随状语，不是另一个完整句子。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "主动分词作状语",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_participles_complements_s1_0030",
+      "zh": "为了接近鸟巢，我们慢慢移动，尽量不发出声音。",
+      "en": "We moved slowly towards the nest, trying to make no sound.",
+      "answers": [
+        "We moved slowly towards the nest, trying to make no sound."
+      ],
+      "notes": "trying 表伴随努力，to make 为 try 的补足。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "主动分词作状语",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_participles_complements_s1_0031",
+      "zh": "被问到最喜欢哪段旅程时，她提到了夜间渡海。",
+      "en": "Asked about her favourite journey, she mentioned a night crossing.",
+      "answers": [
+        "Asked about her favourite journey, she mentioned a night crossing."
+      ],
+      "notes": "asked 的承受者是 she，不能以 journey 为主语。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "被动分词作状语",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_participles_complements_s1_0032",
+      "zh": "如果保存得当，这些种子能维持活性。",
+      "en": "Stored properly, these seeds remain viable.",
+      "answers": [
+        "Stored properly, these seeds remain viable."
+      ],
+      "notes": "stored properly 压缩被动条件从句。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "被动分词作状语",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_participles_complements_s1_0033",
+      "zh": "被观众的热情鼓舞，乐队加演了一首。",
+      "en": "Encouraged by the audience, the band played an extra song.",
+      "answers": [
+        "Encouraged by the audience, the band played an extra song."
+      ],
+      "notes": "encouraged 表乐队受到鼓舞的原因。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "被动分词作状语",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_participles_complements_s1_0034",
+      "zh": "这道菜配上米饭后，足够两个人吃。",
+      "en": "Served with rice, the dish is enough for two.",
+      "answers": [
+        "Served with rice, the dish is enough for two."
+      ],
+      "notes": "served 与 dish 为被动关系。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "被动分词作状语",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_participles_complements_s1_0035",
+      "zh": "与沿海地区相比，内陆的温差更大。",
+      "en": "Compared with the coast, inland areas have greater temperature variation.",
+      "answers": [
+        "Compared with the coast, inland areas have greater temperature variation."
+      ],
+      "notes": "compared with 的比较对象需与主句主语同类。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "被动分词作状语",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_participles_complements_s1_0036",
+      "zh": "第一次听来，这段旋律似乎很简单。",
+      "en": "Heard for the first time, the melody seems simple.",
+      "answers": [
+        "Heard for the first time, the melody seems simple."
+      ],
+      "notes": "heard 的对象为 melody，保持逻辑主语一致。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "被动分词作状语",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_participles_complements_s1_0037",
+      "zh": "除非有人邀请，否则他不愿进入讨论。",
+      "en": "Unless invited, he prefers to stay out of the discussion.",
+      "answers": [
+        "Unless invited, he prefers to stay out of the discussion."
+      ],
+      "notes": "unless invited 省略 unless he is invited。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "被动分词作状语",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_participles_complements_s1_0038",
+      "zh": "即使切成小块，这种肉仍需要慢炖。",
+      "en": "Even cut into small pieces, this meat still needs slow cooking.",
+      "answers": [
+        "Even cut into small pieces, this meat still needs slow cooking."
+      ],
+      "notes": "even + 被动分词短语表让步。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "被动分词作状语",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_participles_complements_s1_0039",
+      "zh": "被雾笼罩，岛上的灯塔几乎看不见。",
+      "en": "Covered in mist, the island's lighthouse was barely visible.",
+      "answers": [
+        "Covered in mist, the island's lighthouse was barely visible."
+      ],
+      "notes": "covered 修饰主句主语 lighthouse，说明不可见的原因。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "被动分词作状语",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_participles_complements_s1_0040",
+      "zh": "按年龄分组后，差异变得更容易理解。",
+      "en": "Grouped by age, the results became easier to interpret.",
+      "answers": [
+        "Grouped by age, the results became easier to interpret."
+      ],
+      "notes": "grouped 指结果数据被分组，不指研究者。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "被动分词作状语",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_participles_complements_s1_0041",
+      "zh": "我听见观众在走廊里轻声唱那首歌。",
+      "en": "I heard the audience singing the song softly in the corridor.",
+      "answers": [
+        "I heard the audience singing the song softly in the corridor."
+      ],
+      "notes": "hear someone doing 强调听到正在发生的过程。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "感官与宾语补足",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_participles_complements_s1_0042",
+      "zh": "我们看着那只鸟从栏杆飞到了树上。",
+      "en": "We watched the bird fly from the railing to the tree.",
+      "answers": [
+        "We watched the bird fly from the railing to the tree."
+      ],
+      "notes": "watch someone do 原形强调完整动作。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "感官与宾语补足",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_participles_complements_s1_0043",
+      "zh": "她发现自己的名字被拼错了。",
+      "en": "She found her name misspelled.",
+      "answers": [
+        "She found her name misspelled."
+      ],
+      "notes": "find + 宾语 + 过去分词，表示发现被处理后的状态。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "感官与宾语补足",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_participles_complements_s1_0044",
+      "zh": "我感到脚下的地板在振动。",
+      "en": "I felt the floor vibrating beneath my feet.",
+      "answers": [
+        "I felt the floor vibrating beneath my feet."
+      ],
+      "notes": "feel something doing 表正在发生的感受。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "感官与宾语补足",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_participles_complements_s1_0045",
+      "zh": "下雨时让窗户半开着是不安全的。",
+      "en": "Leaving the window half open in the rain is unsafe.",
+      "answers": [
+        "Leaving the window half open in the rain is unsafe."
+      ],
+      "notes": "leave + 宾语 + 形容词作状态补足。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "感官与宾语补足",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_participles_complements_s1_0046",
+      "zh": "我们请人把鞋跟修好了。",
+      "en": "We had the heels repaired.",
+      "answers": [
+        "We had the heels repaired."
+      ],
+      "notes": "have something done 表请别人处理，不是自己执行。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "感官与宾语补足",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_participles_complements_s1_0047",
+      "zh": "孩子们让老师在场边等了很久。",
+      "en": "The children kept the teacher waiting at the edge of the field.",
+      "answers": [
+        "The children kept the teacher waiting at the edge of the field."
+      ],
+      "notes": "keep someone doing 表动作持续，不接 to wait。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "感官与宾语补足",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_participles_complements_s1_0048",
+      "zh": "她把声音放轻，以免吵醒婴儿。",
+      "en": "She kept her voice low to avoid waking the baby.",
+      "answers": [
+        "She kept her voice low to avoid waking the baby."
+      ],
+      "notes": "keep + 宾语 + 形容词，low 补充 voice 状态。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "感官与宾语补足",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_participles_complements_s1_0049",
+      "zh": "我不愿让争吵毁掉这顿饭。",
+      "en": "I do not want the meal ruined by an argument.",
+      "answers": [
+        "I do not want the meal ruined by an argument.",
+        "I don't want the meal ruined by an argument."
+      ],
+      "notes": "want + 宾语 + 过去分词，meal 是被毁掉的对象。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "感官与宾语补足",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_participles_complements_s1_0050",
+      "zh": "我们把空出来的房间称为“交换角”。",
+      "en": "We called the spare room the exchange corner.",
+      "answers": [
+        "We called the spare room the exchange corner."
+      ],
+      "notes": "call + 宾语 + 名词，名词作宾语补足语。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "感官与宾语补足",
+        "高中至六级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_participles_complements_s1_0051",
+      "zh": "孩子们都睡着后，家里终于安静了下来。",
+      "en": "With the children asleep, the house was finally quiet.",
+      "answers": [
+        "With the children asleep, the house was finally quiet."
+      ],
+      "notes": "with + 名词 + 形容词表背景状态。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "with复合结构与易错主语",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_participles_complements_s1_0052",
+      "zh": "还有两位客人没到，我们暂时没有开饭。",
+      "en": "With two guests still to arrive, we delayed the meal.",
+      "answers": [
+        "With two guests still to arrive, we delayed the meal."
+      ],
+      "notes": "with + 名词 + to do 表尚待发生的事。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "with复合结构与易错主语",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_participles_complements_s1_0053",
+      "zh": "风从背后吹来，骑车轻松了许多。",
+      "en": "With the wind behind us, cycling felt much easier.",
+      "answers": [
+        "With the wind behind us, cycling felt much easier."
+      ],
+      "notes": "with + 名词 + 介词短语，描述背景位置。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "with复合结构与易错主语",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_participles_complements_s1_0054",
+      "zh": "所有灯都亮着，舞台看起来比平时大。",
+      "en": "With every light on, the stage looked larger than usual.",
+      "answers": [
+        "With every light on, the stage looked larger than usual."
+      ],
+      "notes": "on 为状态副词，补充 light。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "with复合结构与易错主语",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_participles_complements_s1_0055",
+      "zh": "双手被购物袋占着，我没法拿钥匙。",
+      "en": "With my hands full of shopping bags, I could not reach my keys.",
+      "answers": [
+        "With my hands full of shopping bags, I could not reach my keys.",
+        "With my hands full of shopping bags, I couldn't reach my keys."
+      ],
+      "notes": "with 结构允许其内部主语 hands 与主句 I 不同。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "with复合结构与易错主语",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_participles_complements_s1_0056",
+      "zh": "听完录音后，这段对话更容易理解了。",
+      "en": "After we listened to the recording, the conversation was easier to understand.",
+      "answers": [
+        "After we listened to the recording, the conversation was easier to understand."
+      ],
+      "notes": "保留 we，避免写 Listening ... the conversation 造成悬垂分词。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "with复合结构与易错主语",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_participles_complements_s1_0057",
+      "zh": "看着地图时，我忽然明白我们绕了多远。",
+      "en": "Looking at the map, I realised how far we had gone around.",
+      "answers": [
+        "Looking at the map, I realised how far we had gone around."
+      ],
+      "notes": "Looking 的执行者与 I 相同；how far 从句为宾语。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "with复合结构与易错主语",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_participles_complements_s1_0058",
+      "zh": "从列车上望出去，我看到山顶积着雪。",
+      "en": "Looking out from the train, I saw snow on the peaks.",
+      "answers": [
+        "Looking out from the train, I saw snow on the peaks."
+      ],
+      "notes": "分词主语是观察者 I，不是 snow。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "with复合结构与易错主语",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_participles_complements_s1_0059",
+      "zh": "客人们一走，我们就开始收拾。",
+      "en": "The guests having left, we began clearing up.",
+      "answers": [
+        "The guests having left, we began clearing up."
+      ],
+      "notes": "独立主格结构具有自身主语 the guests，与 we 不同。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "with复合结构与易错主语",
+        "高中至六级"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "grammar_participles_complements_s1_0060",
+      "zh": "如果把散步时间算进去，整个行程需要三小时。",
+      "en": "With walking time included, the whole outing takes three hours.",
+      "answers": [
+        "With walking time included, the whole outing takes three hours."
+      ],
+      "notes": "with + 名词 + 过去分词表被计入的条件。",
+      "tags": [
+        "语法专项",
+        "非谓语",
+        "with复合结构与易错主语",
+        "高中至六级"
+      ],
+      "difficulty": 4
+    }
+  ]
+}

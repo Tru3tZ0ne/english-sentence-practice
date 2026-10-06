@@ -1,0 +1,1432 @@
+{
+  "schema_version": 1,
+  "id": "media_information",
+  "title": "媒体阅读与信息辨析 · 100 句",
+  "description": "新闻来源、统计报道、采访、社交平台、图片语境、订阅、公共讨论与信息责任。",
+  "language": "en-GB",
+  "tags": [
+    "信息辨析",
+    "逐题讲解"
+  ],
+  "items": [
+    {
+      "id": "media_information_v3_0001",
+      "zh": "报道没有给出事件日期。",
+      "en": "The report omits the date of the event.",
+      "answers": [
+        "The report omits the date of the event."
+      ],
+      "notes": "omit：遗漏",
+      "tags": [
+        "信息辨析",
+        "读新闻"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0002",
+      "zh": "标题比正文说得更绝对。",
+      "en": "The headline is more absolute than the article.",
+      "answers": [
+        "The headline is more absolute than the article."
+      ],
+      "notes": "absolute：绝对",
+      "tags": [
+        "信息辨析",
+        "读新闻"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0003",
+      "zh": "消息来源没有署名。",
+      "en": "The source is unnamed.",
+      "answers": [
+        "The source is unnamed."
+      ],
+      "notes": "unnamed：未署名",
+      "tags": [
+        "信息辨析",
+        "读新闻"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0004",
+      "zh": "这段内容属于评论。",
+      "en": "This passage is commentary.",
+      "answers": [
+        "This passage is commentary."
+      ],
+      "notes": "commentary：评论",
+      "tags": [
+        "信息辨析",
+        "读新闻"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0005",
+      "zh": "图片说明与照片不符。",
+      "en": "The caption does not match the photograph.",
+      "answers": [
+        "The caption does not match the photograph.",
+        "The caption doesn't match the photograph."
+      ],
+      "notes": "caption：图注",
+      "tags": [
+        "信息辨析",
+        "读新闻"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0006",
+      "zh": "我们需要区分新闻和广告。",
+      "en": "We need to distinguish news from advertising.",
+      "answers": [
+        "We need to distinguish news from advertising."
+      ],
+      "notes": "distinguish：区分",
+      "tags": [
+        "信息辨析",
+        "读新闻"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0007",
+      "zh": "这个事件仍在发展。",
+      "en": "The situation is still unfolding.",
+      "answers": [
+        "The situation is still unfolding."
+      ],
+      "notes": "unfold：发展",
+      "tags": [
+        "信息辨析",
+        "读新闻"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0008",
+      "zh": "文章后来补充了说明。",
+      "en": "The article was later updated with clarification.",
+      "answers": [
+        "The article was later updated with clarification."
+      ],
+      "notes": "clarification：澄清",
+      "tags": [
+        "信息辨析",
+        "读新闻"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0009",
+      "zh": "我想找到最初的报道。",
+      "en": "I want to locate the original report.",
+      "answers": [
+        "I want to locate the original report."
+      ],
+      "notes": "locate：找到",
+      "tags": [
+        "信息辨析",
+        "读新闻"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0010",
+      "zh": "转述可能遗漏上下文。",
+      "en": "Retelling can leave out context.",
+      "answers": [
+        "Retelling can leave out context."
+      ],
+      "notes": "context：上下文",
+      "tags": [
+        "信息辨析",
+        "读新闻"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0011",
+      "zh": "链接指向另一个转载网站。",
+      "en": "The link leads to another reposting site.",
+      "answers": [
+        "The link leads to another reposting site."
+      ],
+      "notes": "repost：转载",
+      "tags": [
+        "信息辨析",
+        "核实来源"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0012",
+      "zh": "这份声明来自当事人。",
+      "en": "This statement comes from someone directly involved.",
+      "answers": [
+        "This statement comes from someone directly involved."
+      ],
+      "notes": "involved：涉事",
+      "tags": [
+        "信息辨析",
+        "核实来源"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0013",
+      "zh": "匿名并不自动意味着虚假。",
+      "en": "Anonymity does not automatically imply falsehood.",
+      "answers": [
+        "Anonymity does not automatically imply falsehood.",
+        "Anonymity doesn't automatically imply falsehood."
+      ],
+      "notes": "imply：意味着",
+      "tags": [
+        "信息辨析",
+        "核实来源"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0014",
+      "zh": "我想知道证据从哪里来。",
+      "en": "I want to know where the evidence originated.",
+      "answers": [
+        "I want to know where the evidence originated."
+      ],
+      "notes": "originate：起源",
+      "tags": [
+        "信息辨析",
+        "核实来源"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0015",
+      "zh": "截图看不出完整对话。",
+      "en": "The screenshot does not show the entire exchange.",
+      "answers": [
+        "The screenshot does not show the entire exchange.",
+        "The screenshot doesn't show the entire exchange."
+      ],
+      "notes": "exchange：对话",
+      "tags": [
+        "信息辨析",
+        "核实来源"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0016",
+      "zh": "日期显示它是旧消息。",
+      "en": "The date shows that the story is old.",
+      "answers": [
+        "The date shows that the story is old."
+      ],
+      "notes": "日期核对",
+      "tags": [
+        "信息辨析",
+        "核实来源"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0017",
+      "zh": "我们应该查看原始文件。",
+      "en": "We should consult the original document.",
+      "answers": [
+        "We should consult the original document."
+      ],
+      "notes": "consult：查阅",
+      "tags": [
+        "信息辨析",
+        "核实来源"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0018",
+      "zh": "两篇文章可能引用了同一来源。",
+      "en": "Both articles may rely on the same source.",
+      "answers": [
+        "Both articles may rely on the same source."
+      ],
+      "notes": "rely on：依赖",
+      "tags": [
+        "信息辨析",
+        "核实来源"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0019",
+      "zh": "没有找到证据不等于证明不存在。",
+      "en": "Failure to find evidence does not prove absence.",
+      "answers": [
+        "Failure to find evidence does not prove absence.",
+        "Failure to find evidence doesn't prove absence."
+      ],
+      "notes": "absence：不存在",
+      "tags": [
+        "信息辨析",
+        "核实来源"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0020",
+      "zh": "核实需要比转发更长的时间。",
+      "en": "Verification takes longer than forwarding.",
+      "answers": [
+        "Verification takes longer than forwarding."
+      ],
+      "notes": "verification：核实",
+      "tags": [
+        "信息辨析",
+        "核实来源"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0021",
+      "zh": "百分比没有给出样本量。",
+      "en": "The percentage comes without a sample size.",
+      "answers": [
+        "The percentage comes without a sample size."
+      ],
+      "notes": "sample size：样本量",
+      "tags": [
+        "信息辨析",
+        "统计报道"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0022",
+      "zh": "平均收入可能掩盖差距。",
+      "en": "Average income may conceal disparities.",
+      "answers": [
+        "Average income may conceal disparities."
+      ],
+      "notes": "disparity：差距",
+      "tags": [
+        "信息辨析",
+        "统计报道"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0023",
+      "zh": "增长率与实际增量不同。",
+      "en": "The growth rate differs from the absolute increase.",
+      "answers": [
+        "The growth rate differs from the absolute increase."
+      ],
+      "notes": "absolute increase：实际增量",
+      "tags": [
+        "信息辨析",
+        "统计报道"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0024",
+      "zh": "图表纵轴没有从零开始。",
+      "en": "The vertical axis does not start at zero.",
+      "answers": [
+        "The vertical axis does not start at zero.",
+        "The vertical axis doesn't start at zero."
+      ],
+      "notes": "vertical axis：纵轴",
+      "tags": [
+        "信息辨析",
+        "统计报道"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0025",
+      "zh": "这项排名使用了不同口径。",
+      "en": "This ranking uses a different basis.",
+      "answers": [
+        "This ranking uses a different basis."
+      ],
+      "notes": "basis：口径",
+      "tags": [
+        "信息辨析",
+        "统计报道"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0026",
+      "zh": "问卷只访问了订阅者。",
+      "en": "The survey questioned subscribers only.",
+      "answers": [
+        "The survey questioned subscribers only."
+      ],
+      "notes": "subscriber：订阅者",
+      "tags": [
+        "信息辨析",
+        "统计报道"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0027",
+      "zh": "这个预测不是已经发生的结果。",
+      "en": "This projection is not an observed outcome.",
+      "answers": [
+        "This projection is not an observed outcome.",
+        "This projection isn't an observed outcome."
+      ],
+      "notes": "projection：预测",
+      "tags": [
+        "信息辨析",
+        "统计报道"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0028",
+      "zh": "比较时应考虑人口规模。",
+      "en": "Population size matters in the comparison.",
+      "answers": [
+        "Population size matters in the comparison."
+      ],
+      "notes": "comparison：比较",
+      "tags": [
+        "信息辨析",
+        "统计报道"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0029",
+      "zh": "基于小样本的估计值可能波动很大。",
+      "en": "Estimates based on small samples can fluctuate substantially.",
+      "answers": [
+        "Estimates based on small samples can fluctuate substantially."
+      ],
+      "notes": "based on 修饰 estimates；波动的是估计结果。",
+      "tags": [
+        "信息辨析",
+        "统计报道"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0030",
+      "zh": "图表没有说明缺失数据。",
+      "en": "The chart does not explain the missing data.",
+      "answers": [
+        "The chart does not explain the missing data.",
+        "The chart doesn't explain the missing data."
+      ],
+      "notes": "missing data：缺失数据",
+      "tags": [
+        "信息辨析",
+        "统计报道"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0031",
+      "zh": "先问开放式问题。",
+      "en": "Begin with an open-ended question.",
+      "answers": [
+        "Begin with an open-ended question."
+      ],
+      "notes": "open-ended：开放式",
+      "tags": [
+        "信息辨析",
+        "采访"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0032",
+      "zh": "这个问法可能暗示答案。",
+      "en": "This wording may suggest an answer.",
+      "answers": [
+        "This wording may suggest an answer."
+      ],
+      "notes": "wording：措辞",
+      "tags": [
+        "信息辨析",
+        "采访"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0033",
+      "zh": "我想确认能否引用原话。",
+      "en": "I want permission to quote the exact words.",
+      "answers": [
+        "I want permission to quote the exact words."
+      ],
+      "notes": "quote：引用",
+      "tags": [
+        "信息辨析",
+        "采访"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0034",
+      "zh": "受访者可以拒绝回答。",
+      "en": "The interviewee can decline to answer.",
+      "answers": [
+        "The interviewee can decline to answer."
+      ],
+      "notes": "interviewee：受访者",
+      "tags": [
+        "信息辨析",
+        "采访"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0035",
+      "zh": "录音开始前要说明用途。",
+      "en": "Explain the recording's purpose before starting.",
+      "answers": [
+        "Explain the recording's purpose before starting."
+      ],
+      "notes": "purpose：用途",
+      "tags": [
+        "信息辨析",
+        "采访"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0036",
+      "zh": "我们需要给对方回应机会。",
+      "en": "We need to allow an opportunity to respond.",
+      "answers": [
+        "We need to allow an opportunity to respond."
+      ],
+      "notes": "respond：回应",
+      "tags": [
+        "信息辨析",
+        "采访"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0037",
+      "zh": "停顿不一定表示同意。",
+      "en": "A pause does not necessarily signal agreement.",
+      "answers": [
+        "A pause does not necessarily signal agreement.",
+        "A pause doesn't necessarily signal agreement."
+      ],
+      "notes": "signal：表明",
+      "tags": [
+        "信息辨析",
+        "采访"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0038",
+      "zh": "我会把摘要发给你核对。",
+      "en": "I will send the summary for checking.",
+      "answers": [
+        "I will send the summary for checking."
+      ],
+      "notes": "summary：摘要",
+      "tags": [
+        "信息辨析",
+        "采访"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0039",
+      "zh": "这句话是背景说明，不宜脱离语境。",
+      "en": "This background statement needs its context.",
+      "answers": [
+        "This background statement needs its context."
+      ],
+      "notes": "context：语境",
+      "tags": [
+        "信息辨析",
+        "采访"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0040",
+      "zh": "追问应围绕尚不清楚的部分。",
+      "en": "Follow-up questions should address what remains unclear.",
+      "answers": [
+        "Follow-up questions should address what remains unclear."
+      ],
+      "notes": "follow-up：追问",
+      "tags": [
+        "信息辨析",
+        "采访"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0041",
+      "zh": "热门不等于有代表性。",
+      "en": "Popularity does not establish representativeness.",
+      "answers": [
+        "Popularity does not establish representativeness.",
+        "Popularity doesn't establish representativeness."
+      ],
+      "notes": "representativeness：代表性",
+      "tags": [
+        "信息辨析",
+        "社交平台"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0042",
+      "zh": "我看到的是平台筛选后的内容。",
+      "en": "I see content selected by the platform.",
+      "answers": [
+        "I see content selected by the platform."
+      ],
+      "notes": "selected：筛选后的",
+      "tags": [
+        "信息辨析",
+        "社交平台"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0043",
+      "zh": "这条帖子故意激起愤怒。",
+      "en": "This post deliberately provokes anger.",
+      "answers": [
+        "This post deliberately provokes anger."
+      ],
+      "notes": "provoke：激起",
+      "tags": [
+        "信息辨析",
+        "社交平台"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0044",
+      "zh": "评论区未必反映多数意见。",
+      "en": "Comments may not reflect majority opinion.",
+      "answers": [
+        "Comments may not reflect majority opinion."
+      ],
+      "notes": "majority：多数",
+      "tags": [
+        "信息辨析",
+        "社交平台"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0045",
+      "zh": "重复出现会让说法显得熟悉。",
+      "en": "Repetition can make a claim feel familiar.",
+      "answers": [
+        "Repetition can make a claim feel familiar."
+      ],
+      "notes": "repetition：重复",
+      "tags": [
+        "信息辨析",
+        "社交平台"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0046",
+      "zh": "我不想在读完整篇文章之前转发。",
+      "en": "I do not want to share the article before reading it in full.",
+      "answers": [
+        "I do not want to share the article before reading it in full.",
+        "I don't want to share the article before reading it in full."
+      ],
+      "notes": "in full：完整地；区分未读与尚未读完。",
+      "tags": [
+        "信息辨析",
+        "社交平台"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0047",
+      "zh": "这段视频可能经过剪辑。",
+      "en": "This clip may have been edited.",
+      "answers": [
+        "This clip may have been edited."
+      ],
+      "notes": "clip：片段",
+      "tags": [
+        "信息辨析",
+        "社交平台"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0048",
+      "zh": "转发者不一定核实过内容。",
+      "en": "People sharing it may not have checked it.",
+      "answers": [
+        "People sharing it may not have checked it."
+      ],
+      "notes": "may have done",
+      "tags": [
+        "信息辨析",
+        "社交平台"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0049",
+      "zh": "我们可以先暂停通知。",
+      "en": "We can pause notifications for now.",
+      "answers": [
+        "We can pause notifications for now."
+      ],
+      "notes": "pause：暂停",
+      "tags": [
+        "信息辨析",
+        "社交平台"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0050",
+      "zh": "算法推荐不是个人背书。",
+      "en": "An algorithmic recommendation is not a personal endorsement.",
+      "answers": [
+        "An algorithmic recommendation is not a personal endorsement.",
+        "An algorithmic recommendation isn't a personal endorsement."
+      ],
+      "notes": "endorsement：背书",
+      "tags": [
+        "信息辨析",
+        "社交平台"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0051",
+      "zh": "画面被裁掉了关键部分。",
+      "en": "A crucial part of the image was cropped out.",
+      "answers": [
+        "A crucial part of the image was cropped out."
+      ],
+      "notes": "crop out：裁掉",
+      "tags": [
+        "信息辨析",
+        "图片与视频"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0052",
+      "zh": "这个角度隐藏了距离。",
+      "en": "This angle conceals the distance.",
+      "answers": [
+        "This angle conceals the distance."
+      ],
+      "notes": "conceal：隐藏",
+      "tags": [
+        "信息辨析",
+        "图片与视频"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0053",
+      "zh": "声音可能是后期添加的。",
+      "en": "The audio may have been added afterwards.",
+      "answers": [
+        "The audio may have been added afterwards."
+      ],
+      "notes": "afterwards：之后",
+      "tags": [
+        "信息辨析",
+        "图片与视频"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0054",
+      "zh": "相机时间可能设置错误。",
+      "en": "The camera clock may be wrong.",
+      "answers": [
+        "The camera clock may be wrong."
+      ],
+      "notes": "clock：时钟设置",
+      "tags": [
+        "信息辨析",
+        "图片与视频"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0055",
+      "zh": "高分辨率不保证真实性。",
+      "en": "High resolution does not guarantee authenticity.",
+      "answers": [
+        "High resolution does not guarantee authenticity.",
+        "High resolution doesn't guarantee authenticity."
+      ],
+      "notes": "authenticity：真实性",
+      "tags": [
+        "信息辨析",
+        "图片与视频"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0056",
+      "zh": "视频缺少开始前的过程。",
+      "en": "The video omits what happened beforehand.",
+      "answers": [
+        "The video omits what happened beforehand."
+      ],
+      "notes": "beforehand：事先",
+      "tags": [
+        "信息辨析",
+        "图片与视频"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0057",
+      "zh": "演示画面需要明确标注。",
+      "en": "Demonstration footage needs clear labelling.",
+      "answers": [
+        "Demonstration footage needs clear labelling."
+      ],
+      "notes": "footage：影像",
+      "tags": [
+        "信息辨析",
+        "图片与视频"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0058",
+      "zh": "我们不应猜测照片中人的身份。",
+      "en": "We should not guess the identities of people pictured.",
+      "answers": [
+        "We should not guess the identities of people pictured.",
+        "We shouldn't guess the identities of people pictured."
+      ],
+      "notes": "pictured：图中所示",
+      "tags": [
+        "信息辨析",
+        "图片与视频"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0059",
+      "zh": "画面中的地标有助于确认照片拍摄的位置。",
+      "en": "Landmarks in the image can help establish where the photograph was taken.",
+      "answers": [
+        "Landmarks in the image can help establish where the photograph was taken."
+      ],
+      "notes": "establish where：确定位置；用可识别地标核实图像背景。",
+      "tags": [
+        "信息辨析",
+        "图片与视频"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0060",
+      "zh": "相似的场景不代表同一地点。",
+      "en": "Similar scenes do not establish a shared location.",
+      "answers": [
+        "Similar scenes do not establish a shared location.",
+        "Similar scenes don't establish a shared location."
+      ],
+      "notes": "establish：证明",
+      "tags": [
+        "信息辨析",
+        "图片与视频"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0061",
+      "zh": "这份通讯多久发送一次？",
+      "en": "How often is this newsletter sent?",
+      "answers": [
+        "How often is this newsletter sent?"
+      ],
+      "notes": "newsletter：通讯",
+      "tags": [
+        "信息辨析",
+        "订阅与选择"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0062",
+      "zh": "我只想接收每周摘要。",
+      "en": "I only want the weekly digest.",
+      "answers": [
+        "I only want the weekly digest."
+      ],
+      "notes": "digest：摘要",
+      "tags": [
+        "信息辨析",
+        "订阅与选择"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0063",
+      "zh": "免费试读什么时候结束？",
+      "en": "When does the free trial end?",
+      "answers": [
+        "When does the free trial end?"
+      ],
+      "notes": "free trial：免费试用",
+      "tags": [
+        "信息辨析",
+        "订阅与选择"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0064",
+      "zh": "订阅价格会自动调整吗？",
+      "en": "Will the subscription price change automatically?",
+      "answers": [
+        "Will the subscription price change automatically?"
+      ],
+      "notes": "subscription：订阅",
+      "tags": [
+        "信息辨析",
+        "订阅与选择"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0065",
+      "zh": "我希望关闭个性化推荐。",
+      "en": "I would like to disable personalised recommendations.",
+      "answers": [
+        "I would like to disable personalised recommendations."
+      ],
+      "notes": "disable：关闭",
+      "tags": [
+        "信息辨析",
+        "订阅与选择"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0066",
+      "zh": "这个来源有公开更正记录。",
+      "en": "This source publishes its corrections.",
+      "answers": [
+        "This source publishes its corrections."
+      ],
+      "notes": "correction：更正",
+      "tags": [
+        "信息辨析",
+        "订阅与选择"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0067",
+      "zh": "我会比较不同立场的报道。",
+      "en": "I compare coverage from different perspectives.",
+      "answers": [
+        "I compare coverage from different perspectives."
+      ],
+      "notes": "coverage：报道",
+      "tags": [
+        "信息辨析",
+        "订阅与选择"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0068",
+      "zh": "信息太多时，我先确定需求。",
+      "en": "When information overwhelms me, I clarify my need first.",
+      "answers": [
+        "When information overwhelms me, I clarify my need first."
+      ],
+      "notes": "overwhelm：使难以应付",
+      "tags": [
+        "信息辨析",
+        "订阅与选择"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0069",
+      "zh": "不是每条更新都需要立即关注。",
+      "en": "Not every update needs immediate attention.",
+      "answers": [
+        "Not every update needs immediate attention."
+      ],
+      "notes": "not every：部分否定",
+      "tags": [
+        "信息辨析",
+        "订阅与选择"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "media_information_v3_0070",
+      "zh": "我想保留可供以后核查的链接。",
+      "en": "I want a link I can revisit for verification.",
+      "answers": [
+        "I want a link I can revisit for verification."
+      ],
+      "notes": "revisit：再次查看",
+      "tags": [
+        "信息辨析",
+        "订阅与选择"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0071",
+      "zh": "请把推测写成推测。",
+      "en": "Present speculation as speculation.",
+      "answers": [
+        "Present speculation as speculation."
+      ],
+      "notes": "speculation：推测",
+      "tags": [
+        "信息辨析",
+        "信息表达"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0072",
+      "zh": "这个措辞混淆了可能与必然。",
+      "en": "This wording confuses possibility with certainty.",
+      "answers": [
+        "This wording confuses possibility with certainty."
+      ],
+      "notes": "certainty：确定性",
+      "tags": [
+        "信息辨析",
+        "信息表达"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0073",
+      "zh": "我需要说明不知道的部分。",
+      "en": "I need to state what is unknown.",
+      "answers": [
+        "I need to state what is unknown."
+      ],
+      "notes": "unknown：未知",
+      "tags": [
+        "信息辨析",
+        "信息表达"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0074",
+      "zh": "简短表达不应牺牲关键条件。",
+      "en": "Brevity should not remove essential qualifications.",
+      "answers": [
+        "Brevity should not remove essential qualifications.",
+        "Brevity shouldn't remove essential qualifications."
+      ],
+      "notes": "qualification：限定条件",
+      "tags": [
+        "信息辨析",
+        "信息表达"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0075",
+      "zh": "引用应保留原意。",
+      "en": "A quotation should preserve the original meaning.",
+      "answers": [
+        "A quotation should preserve the original meaning."
+      ],
+      "notes": "preserve：保留",
+      "tags": [
+        "信息辨析",
+        "信息表达"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0076",
+      "zh": "图例需要解释符号。",
+      "en": "The legend needs to explain the symbols.",
+      "answers": [
+        "The legend needs to explain the symbols."
+      ],
+      "notes": "legend：图例",
+      "tags": [
+        "信息辨析",
+        "信息表达"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0077",
+      "zh": "我们可以用具体实例帮助理解。",
+      "en": "A concrete example can aid understanding.",
+      "answers": [
+        "A concrete example can aid understanding."
+      ],
+      "notes": "aid：帮助",
+      "tags": [
+        "信息辨析",
+        "信息表达"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0078",
+      "zh": "报道中的哪些证据支持标题所用的肯定语气？",
+      "en": "What evidence in the report supports the headline's claim of certainty?",
+      "answers": [
+        "What evidence in the report supports the headline's claim of certainty?"
+      ],
+      "notes": "claim of certainty：声称确定；询问证据与措辞是否匹配。",
+      "tags": [
+        "信息辨析",
+        "信息表达"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0079",
+      "zh": "澄清应该出现在显眼的位置。",
+      "en": "The clarification should be prominently displayed.",
+      "answers": [
+        "The clarification should be prominently displayed."
+      ],
+      "notes": "prominently：显眼地",
+      "tags": [
+        "信息辨析",
+        "信息表达"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0080",
+      "zh": "我希望读者能分清已知和未知。",
+      "en": "I want readers to separate known facts from uncertainty.",
+      "answers": [
+        "I want readers to separate known facts from uncertainty."
+      ],
+      "notes": "uncertainty：未知部分",
+      "tags": [
+        "信息辨析",
+        "信息表达"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0081",
+      "zh": "反对一个观点不等于攻击一个人。",
+      "en": "Challenging an idea is not attacking a person.",
+      "answers": [
+        "Challenging an idea is not attacking a person.",
+        "Challenging an idea isn't attacking a person."
+      ],
+      "notes": "challenge：质疑",
+      "tags": [
+        "信息辨析",
+        "公共讨论"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0082",
+      "zh": "我们先确认争议点。",
+      "en": "Let's identify the point of disagreement.",
+      "answers": [
+        "Let's identify the point of disagreement."
+      ],
+      "notes": "disagreement：分歧",
+      "tags": [
+        "信息辨析",
+        "公共讨论"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0083",
+      "zh": "对方的最强论据是什么？",
+      "en": "What is the strongest opposing argument?",
+      "answers": [
+        "What is the strongest opposing argument?"
+      ],
+      "notes": "opposing：对立的",
+      "tags": [
+        "信息辨析",
+        "公共讨论"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0084",
+      "zh": "我愿意根据新证据改变看法。",
+      "en": "I am willing to revise my view with new evidence.",
+      "answers": [
+        "I am willing to revise my view with new evidence."
+      ],
+      "notes": "revise：修改",
+      "tags": [
+        "信息辨析",
+        "公共讨论"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0085",
+      "zh": "这个例子无法代表所有情况。",
+      "en": "This example cannot represent every situation.",
+      "answers": [
+        "This example cannot represent every situation.",
+        "This example can't represent every situation."
+      ],
+      "notes": "represent：代表",
+      "tags": [
+        "信息辨析",
+        "公共讨论"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0086",
+      "zh": "情绪反应和事实判断需要区分。",
+      "en": "Emotional reactions differ from factual judgements.",
+      "answers": [
+        "Emotional reactions differ from factual judgements."
+      ],
+      "notes": "judgement：判断",
+      "tags": [
+        "信息辨析",
+        "公共讨论"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0087",
+      "zh": "我们不必在每个细节上达成一致。",
+      "en": "Agreement on every detail is unnecessary.",
+      "answers": [
+        "Agreement on every detail is unnecessary."
+      ],
+      "notes": "unnecessary：不必要",
+      "tags": [
+        "信息辨析",
+        "公共讨论"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0088",
+      "zh": "承认例外不会自动推翻整体论点。",
+      "en": "Acknowledging exceptions need not invalidate the whole argument.",
+      "answers": [
+        "Acknowledging exceptions need not invalidate the whole argument.",
+        "Acknowledging exceptions needn't invalidate the whole argument."
+      ],
+      "notes": "invalidate：推翻",
+      "tags": [
+        "信息辨析",
+        "公共讨论"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0089",
+      "zh": "沉默的人也可能有不同意见。",
+      "en": "Silent participants may disagree too.",
+      "answers": [
+        "Silent participants may disagree too."
+      ],
+      "notes": "participant：参与者",
+      "tags": [
+        "信息辨析",
+        "公共讨论"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0090",
+      "zh": "讨论应该给修正错误留下空间。",
+      "en": "Discussion should allow room for correction.",
+      "answers": [
+        "Discussion should allow room for correction."
+      ],
+      "notes": "room for：空间",
+      "tags": [
+        "信息辨析",
+        "公共讨论"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0091",
+      "zh": "公开个人信息需要谨慎判断。",
+      "en": "Publishing personal information requires careful judgement.",
+      "answers": [
+        "Publishing personal information requires careful judgement."
+      ],
+      "notes": "judgement：判断",
+      "tags": [
+        "信息辨析",
+        "信息责任"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0092",
+      "zh": "公共利益与公众的好奇心不同。",
+      "en": "Public interest differs from public curiosity.",
+      "answers": [
+        "Public interest differs from public curiosity."
+      ],
+      "notes": "public interest 在此是公共利益，不是公众兴趣。",
+      "tags": [
+        "信息辨析",
+        "信息责任"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0093",
+      "zh": "错误指认可能伤害无辜的人。",
+      "en": "Mistaken identification can harm innocent people.",
+      "answers": [
+        "Mistaken identification can harm innocent people."
+      ],
+      "notes": "innocent：无辜",
+      "tags": [
+        "信息辨析",
+        "信息责任"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0094",
+      "zh": "更正需要覆盖原来的受众。",
+      "en": "A correction needs to reach the original audience.",
+      "answers": [
+        "A correction needs to reach the original audience."
+      ],
+      "notes": "reach：触达",
+      "tags": [
+        "信息辨析",
+        "信息责任"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0095",
+      "zh": "我会明确注明利益关系。",
+      "en": "I will disclose relevant interests.",
+      "answers": [
+        "I will disclose relevant interests."
+      ],
+      "notes": "disclose：披露",
+      "tags": [
+        "信息辨析",
+        "信息责任"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0096",
+      "zh": "赞助关系应让读者看得见。",
+      "en": "Sponsorship should be visible to readers.",
+      "answers": [
+        "Sponsorship should be visible to readers."
+      ],
+      "notes": "sponsorship：赞助",
+      "tags": [
+        "信息辨析",
+        "信息责任"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0097",
+      "zh": "没有证实的指控不能当成事实。",
+      "en": "Unverified allegations cannot be treated as facts.",
+      "answers": [
+        "Unverified allegations cannot be treated as facts.",
+        "Unverified allegations can't be treated as facts."
+      ],
+      "notes": "allegation：指控",
+      "tags": [
+        "信息辨析",
+        "信息责任"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0098",
+      "zh": "传播信息也是一种责任。",
+      "en": "Distributing information carries responsibility.",
+      "answers": [
+        "Distributing information carries responsibility."
+      ],
+      "notes": "carry responsibility",
+      "tags": [
+        "信息辨析",
+        "信息责任"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0099",
+      "zh": "删除帖子不一定消除影响。",
+      "en": "Deleting a post may not erase its impact.",
+      "answers": [
+        "Deleting a post may not erase its impact."
+      ],
+      "notes": "erase：消除",
+      "tags": [
+        "信息辨析",
+        "信息责任"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "media_information_v3_0100",
+      "zh": "可靠性需要长期一致的做法。",
+      "en": "Reliability requires consistent practice over time.",
+      "answers": [
+        "Reliability requires consistent practice over time."
+      ],
+      "notes": "reliability：可靠性",
+      "tags": [
+        "信息辨析",
+        "信息责任"
+      ],
+      "difficulty": 3
+    }
+  ]
+}

@@ -1,0 +1,985 @@
+{
+  "schema_version": 1,
+  "id": "ielts_scientific_research",
+  "title": "雅思·科研与探索 · 64 句",
+  "description": "研究价值、资助、方法证据、伦理、合作、传播、空间探索与科研制度。",
+  "language": "en-GB",
+  "tags": [
+    "IELTS",
+    "科学研究",
+    "逐题讲解"
+  ],
+  "items": [
+    {
+      "id": "ielts_scientific_research_v3_0001",
+      "zh": "基础研究的用途有时无法提前预测。",
+      "en": "The applications of basic research are sometimes unforeseeable.",
+      "answers": [
+        "The applications of basic research are sometimes unforeseeable."
+      ],
+      "notes": "unforeseeable：难预见",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "研究价值"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0002",
+      "zh": "要求立即回报可能排挤长期探索。",
+      "en": "Demands for immediate returns can displace long-term exploration.",
+      "answers": [
+        "Demands for immediate returns can displace long-term exploration."
+      ],
+      "notes": "displace：挤出",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "研究价值"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0003",
+      "zh": "没有成功的实验也可能排除错误路径。",
+      "en": "Unsuccessful experiments can still eliminate unproductive avenues.",
+      "answers": [
+        "Unsuccessful experiments can still eliminate unproductive avenues."
+      ],
+      "notes": "avenue：路径",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "研究价值"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0004",
+      "zh": "科学发现通常依赖许多人的积累。",
+      "en": "Scientific discovery often builds on many people's contributions.",
+      "answers": [
+        "Scientific discovery often builds on many people's contributions."
+      ],
+      "notes": "build on：建立在",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "研究价值"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0005",
+      "zh": "应用价值只是研究价值的一部分。",
+      "en": "Practical utility is only one dimension of research value.",
+      "answers": [
+        "Practical utility is only one dimension of research value."
+      ],
+      "notes": "utility：用途",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "研究价值"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0006",
+      "zh": "重复研究有助于判断结果是否稳健。",
+      "en": "Replication helps establish whether findings are robust.",
+      "answers": [
+        "Replication helps establish whether findings are robust."
+      ],
+      "notes": "robust：稳健",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "研究价值"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0007",
+      "zh": "没有发现预期效果的研究也值得发表，否则读者可能高估成功的频率。",
+      "en": "Studies finding no expected effect also merit publication; otherwise, readers may overestimate how often success occurs.",
+      "answers": [
+        "Studies finding no expected effect also merit publication; otherwise, readers may overestimate how often success occurs."
+      ],
+      "notes": "otherwise 引出不发表阴性结果可能造成的偏差。",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "研究价值"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_scientific_research_v3_0008",
+      "zh": "研究中断可能浪费已经投入的资源。",
+      "en": "Interrupted research can waste resources already committed.",
+      "answers": [
+        "Interrupted research can waste resources already committed."
+      ],
+      "notes": "committed：投入的",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "研究价值"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0009",
+      "zh": "短期资助周期可能不适合长期观测。",
+      "en": "Short funding cycles may poorly suit long-term observations.",
+      "answers": [
+        "Short funding cycles may poorly suit long-term observations."
+      ],
+      "notes": "funding cycle",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "资助方式"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0010",
+      "zh": "评审者需要理解不同学科的产出方式。",
+      "en": "Reviewers need to recognise differences in disciplinary outputs.",
+      "answers": [
+        "Reviewers need to recognise differences in disciplinary outputs."
+      ],
+      "notes": "disciplinary：学科的",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "资助方式"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0011",
+      "zh": "竞争性资助可能促进质量，也增加申请负担。",
+      "en": "Competitive funding can encourage quality while increasing application burdens.",
+      "answers": [
+        "Competitive funding can encourage quality while increasing application burdens."
+      ],
+      "notes": "while：并存",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "资助方式"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0012",
+      "zh": "小团队提出的新问题可能跨越常见学科分类，因此需要灵活的评审安排。",
+      "en": "A small team's question may cross conventional disciplinary boundaries and therefore require flexible review arrangements.",
+      "answers": [
+        "A small team's question may cross conventional disciplinary boundaries and therefore require flexible review arrangements."
+      ],
+      "notes": "cross boundaries：跨越界限；therefore 连接评审需求。",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "资助方式"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_scientific_research_v3_0013",
+      "zh": "机构声望不能替代对方案本身的评价。",
+      "en": "Institutional prestige cannot substitute for assessment of the proposal.",
+      "answers": [
+        "Institutional prestige cannot substitute for assessment of the proposal.",
+        "Institutional prestige can't substitute for assessment of the proposal."
+      ],
+      "notes": "substitute for",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "资助方式"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0014",
+      "zh": "资助者应说明选择项目的标准。",
+      "en": "Funders should explain their selection criteria.",
+      "answers": [
+        "Funders should explain their selection criteria."
+      ],
+      "notes": "criterion：标准",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "资助方式"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0015",
+      "zh": "设备共享可以降低重复购置成本。",
+      "en": "Shared equipment can reduce duplicated capital costs.",
+      "answers": [
+        "Shared equipment can reduce duplicated capital costs."
+      ],
+      "notes": "capital cost：设备资本支出",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "资助方式"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0016",
+      "zh": "科研预算也需要考虑技术支持人员。",
+      "en": "Research budgets must also account for technical support staff.",
+      "answers": [
+        "Research budgets must also account for technical support staff."
+      ],
+      "notes": "account for",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "资助方式"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0017",
+      "zh": "测量误差可能改变看似明确的结论。",
+      "en": "Measurement error can alter apparently clear conclusions.",
+      "answers": [
+        "Measurement error can alter apparently clear conclusions."
+      ],
+      "notes": "apparently：表面上",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "方法与证据"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0018",
+      "zh": "提出一种合理机制可以帮助解释统计关联，却不能单凭这一点证明因果。",
+      "en": "A plausible mechanism can help explain a statistical association without establishing causation on its own.",
+      "answers": [
+        "A plausible mechanism can help explain a statistical association without establishing causation on its own."
+      ],
+      "notes": "without ... on its own 限定机制解释所能支持的结论。",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "方法与证据"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_scientific_research_v3_0019",
+      "zh": "事先公开分析计划，可以减少研究者在看到结果后只挑有利分析来报告的空间。",
+      "en": "Publishing an analysis plan in advance leaves less room to select favourable analyses after seeing the results.",
+      "answers": [
+        "Publishing an analysis plan in advance leaves less room to select favourable analyses after seeing the results."
+      ],
+      "notes": "leave less room to：减少余地；对比事先计划与事后选择。",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "方法与证据"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_scientific_research_v3_0020",
+      "zh": "不同方法可能揭示同一问题的不同方面。",
+      "en": "Different methods can reveal different aspects of one question.",
+      "answers": [
+        "Different methods can reveal different aspects of one question."
+      ],
+      "notes": "aspect：方面",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "方法与证据"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0021",
+      "zh": "实验室中的效果未必能在真实环境中重现。",
+      "en": "Laboratory effects may not recur in real-world settings.",
+      "answers": [
+        "Laboratory effects may not recur in real-world settings."
+      ],
+      "notes": "recur：再次出现",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "方法与证据"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0022",
+      "zh": "极端条件下的试验不能代表常态。",
+      "en": "Tests under extreme conditions do not represent typical circumstances.",
+      "answers": [
+        "Tests under extreme conditions do not represent typical circumstances.",
+        "Tests under extreme conditions don't represent typical circumstances."
+      ],
+      "notes": "typical：常态",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "方法与证据"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0023",
+      "zh": "样本多样性影响结论的推广范围。",
+      "en": "Sample diversity affects how widely conclusions can be generalised.",
+      "answers": [
+        "Sample diversity affects how widely conclusions can be generalised."
+      ],
+      "notes": "generalise：推广",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "方法与证据"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0024",
+      "zh": "数据透明有助于发现错误，而不是证明不会出错。",
+      "en": "Data transparency helps expose errors rather than guarantee their absence.",
+      "answers": [
+        "Data transparency helps expose errors rather than guarantee their absence."
+      ],
+      "notes": "rather than",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "方法与证据"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0025",
+      "zh": "研究参与者需要理解退出的权利。",
+      "en": "Research participants need to understand their right to withdraw.",
+      "answers": [
+        "Research participants need to understand their right to withdraw."
+      ],
+      "notes": "withdraw：退出",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "伦理"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0026",
+      "zh": "同意不能建立在误导性承诺之上。",
+      "en": "Consent cannot rest on misleading promises.",
+      "answers": [
+        "Consent cannot rest on misleading promises.",
+        "Consent can't rest on misleading promises."
+      ],
+      "notes": "rest on：建立在",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "伦理"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0027",
+      "zh": "脆弱群体可能需要额外的保护措施。",
+      "en": "Vulnerable participants may require additional safeguards.",
+      "answers": [
+        "Vulnerable participants may require additional safeguards."
+      ],
+      "notes": "safeguard：保障措施",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "伦理"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0028",
+      "zh": "潜在社会收益不能自动抹去个人风险。",
+      "en": "Potential social benefits do not automatically cancel individual risks.",
+      "answers": [
+        "Potential social benefits do not automatically cancel individual risks.",
+        "Potential social benefits don't automatically cancel individual risks."
+      ],
+      "notes": "cancel：抵消",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "伦理"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0029",
+      "zh": "动物实验需要审查替代方法是否可行。",
+      "en": "Animal studies require consideration of feasible alternatives.",
+      "answers": [
+        "Animal studies require consideration of feasible alternatives."
+      ],
+      "notes": "feasible：可行",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "伦理"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0030",
+      "zh": "隐去姓名并不保证数据无法重新识别。",
+      "en": "Removing names does not guarantee that data cannot be reidentified.",
+      "answers": [
+        "Removing names does not guarantee that data cannot be reidentified.",
+        "Removing names doesn't guarantee that data can't be reidentified.",
+        "Removing names doesn't guarantee that data cannot be reidentified.",
+        "Removing names does not guarantee that data can't be reidentified."
+      ],
+      "notes": "reidentify：重新识别",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "伦理"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_scientific_research_v3_0031",
+      "zh": "伦理审查应伴随研究过程，而不是只在开始。",
+      "en": "Ethical oversight should continue throughout research, not merely precede it.",
+      "answers": [
+        "Ethical oversight should continue throughout research, not merely precede it."
+      ],
+      "notes": "oversight：监督",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "伦理"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0032",
+      "zh": "研究者需要披露可能影响判断的利益关系。",
+      "en": "Researchers should disclose interests that could affect their judgement.",
+      "answers": [
+        "Researchers should disclose interests that could affect their judgement."
+      ],
+      "notes": "disclose：披露",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "伦理"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0033",
+      "zh": "跨学科合作需要共同理解术语。",
+      "en": "Interdisciplinary collaboration requires shared understanding of terminology.",
+      "answers": [
+        "Interdisciplinary collaboration requires shared understanding of terminology."
+      ],
+      "notes": "terminology：术语",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "合作"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0034",
+      "zh": "没有说明单位和缺失值含义的开放数据，可能很难被准确复用。",
+      "en": "Open data may be difficult to reuse accurately if units and missing values are left unexplained.",
+      "answers": [
+        "Open data may be difficult to reuse accurately if units and missing values are left unexplained."
+      ],
+      "notes": "if 引出数据难以复用的条件；left unexplained：未说明。",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "合作"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_scientific_research_v3_0035",
+      "zh": "跨国合作可能受不同规则影响。",
+      "en": "International collaboration can be complicated by differing regulations.",
+      "answers": [
+        "International collaboration can be complicated by differing regulations."
+      ],
+      "notes": "complicate：使复杂",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "合作"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0036",
+      "zh": "数据收集者的贡献应获得认可。",
+      "en": "Those collecting data deserve recognition for their contribution.",
+      "answers": [
+        "Those collecting data deserve recognition for their contribution."
+      ],
+      "notes": "recognition：认可",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "合作"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0037",
+      "zh": "大型合作中，署名规则应说明谁能为分析负责，而不只是列出参与者。",
+      "en": "In large collaborations, authorship rules should identify who can answer for the analysis, not merely list participants.",
+      "answers": [
+        "In large collaborations, authorship rules should identify who can answer for the analysis, not merely list participants."
+      ],
+      "notes": "answer for：对……负责；区分署名与责任。",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "合作"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_scientific_research_v3_0038",
+      "zh": "共享资源不应忽略维护成本。",
+      "en": "Resource sharing should not overlook maintenance costs.",
+      "answers": [
+        "Resource sharing should not overlook maintenance costs.",
+        "Resource sharing shouldn't overlook maintenance costs."
+      ],
+      "notes": "overlook：忽视",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "合作"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0039",
+      "zh": "地方知识可以帮助研究者提出更合适的问题。",
+      "en": "Local knowledge can help researchers ask more relevant questions.",
+      "answers": [
+        "Local knowledge can help researchers ask more relevant questions."
+      ],
+      "notes": "relevant：切题",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "合作"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0040",
+      "zh": "合作中的信任需要可靠的沟通支持。",
+      "en": "Trust in collaboration needs dependable communication.",
+      "answers": [
+        "Trust in collaboration needs dependable communication."
+      ],
+      "notes": "dependable：可靠",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "合作"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0041",
+      "zh": "科研新闻应说明不确定性，而不仅突出发现。",
+      "en": "Research news should communicate uncertainty alongside discoveries.",
+      "answers": [
+        "Research news should communicate uncertainty alongside discoveries."
+      ],
+      "notes": "alongside：一并",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "传播"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0042",
+      "zh": "尚未评审的结果不应被当成定论。",
+      "en": "Unreviewed findings should not be presented as settled conclusions.",
+      "answers": [
+        "Unreviewed findings should not be presented as settled conclusions.",
+        "Unreviewed findings shouldn't be presented as settled conclusions."
+      ],
+      "notes": "settled：确定的",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "传播"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0043",
+      "zh": "专家意见的权重取决于相关专长。",
+      "en": "Expert opinion carries weight when the expertise is relevant.",
+      "answers": [
+        "Expert opinion carries weight when the expertise is relevant."
+      ],
+      "notes": "carry weight",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "传播"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0044",
+      "zh": "简化解释不能改变原有结论的边界。",
+      "en": "Simplification must preserve the limits of the original conclusion.",
+      "answers": [
+        "Simplification must preserve the limits of the original conclusion."
+      ],
+      "notes": "preserve：保留",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "传播"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0045",
+      "zh": "公众提问可以暴露沟通中的缺口。",
+      "en": "Public questions can reveal gaps in scientific communication.",
+      "answers": [
+        "Public questions can reveal gaps in scientific communication."
+      ],
+      "notes": "gap：缺口",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "传播"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0046",
+      "zh": "一次发现很少足以解决整个争论。",
+      "en": "One discovery rarely settles an entire debate.",
+      "answers": [
+        "One discovery rarely settles an entire debate."
+      ],
+      "notes": "settle：解决",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "传播"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0047",
+      "zh": "更正论文说明纠错机制在发挥作用。",
+      "en": "Correcting a paper can show that error-correction mechanisms work.",
+      "answers": [
+        "Correcting a paper can show that error-correction mechanisms work."
+      ],
+      "notes": "mechanism：机制",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "传播"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0048",
+      "zh": "科普应区分已知事实与开放问题。",
+      "en": "Science communication should distinguish established facts from open questions.",
+      "answers": [
+        "Science communication should distinguish established facts from open questions."
+      ],
+      "notes": "open question",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "传播"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0049",
+      "zh": "空间观测能够提供地面难以获得的信息。",
+      "en": "Space observations can supply information unavailable from the ground.",
+      "answers": [
+        "Space observations can supply information unavailable from the ground."
+      ],
+      "notes": "unavailable：无法获得",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "空间与探索"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0050",
+      "zh": "太空项目的收益与成本应使用一致口径。",
+      "en": "Space programmes need consistent accounting of benefits and costs.",
+      "answers": [
+        "Space programmes need consistent accounting of benefits and costs."
+      ],
+      "notes": "accounting：核算",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "空间与探索"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0051",
+      "zh": "卫星数量增加也带来轨道管理问题。",
+      "en": "More satellites also create orbital management challenges.",
+      "answers": [
+        "More satellites also create orbital management challenges."
+      ],
+      "notes": "orbital：轨道的",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "空间与探索"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0052",
+      "zh": "探索任务可能产生原目标之外的技术用途。",
+      "en": "Exploration missions may generate uses beyond their original purpose.",
+      "answers": [
+        "Exploration missions may generate uses beyond their original purpose."
+      ],
+      "notes": "beyond：超出",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "空间与探索"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0053",
+      "zh": "航天器失效后仍可能影响其他任务。",
+      "en": "Defunct spacecraft can continue affecting other missions.",
+      "answers": [
+        "Defunct spacecraft can continue affecting other missions."
+      ],
+      "notes": "defunct：失效的",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "空间与探索"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0054",
+      "zh": "数据长期保存有助于未来重新分析。",
+      "en": "Long-term data preservation enables future reanalysis.",
+      "answers": [
+        "Long-term data preservation enables future reanalysis."
+      ],
+      "notes": "reanalysis：重新分析",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "空间与探索"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0055",
+      "zh": "国际规则需要跟上商业活动的发展。",
+      "en": "International rules need to keep pace with commercial activity.",
+      "answers": [
+        "International rules need to keep pace with commercial activity."
+      ],
+      "notes": "keep pace with",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "空间与探索"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0056",
+      "zh": "探索的象征意义不能替代透明预算。",
+      "en": "Exploration's symbolic value does not replace budget transparency.",
+      "answers": [
+        "Exploration's symbolic value does not replace budget transparency.",
+        "Exploration's symbolic value doesn't replace budget transparency."
+      ],
+      "notes": "symbolic：象征的",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "空间与探索"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0057",
+      "zh": "发表数量不能完整衡量科研贡献。",
+      "en": "Publication counts cannot fully measure scientific contribution.",
+      "answers": [
+        "Publication counts cannot fully measure scientific contribution.",
+        "Publication counts can't fully measure scientific contribution."
+      ],
+      "notes": "publication：发表成果",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "科研制度"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0058",
+      "zh": "过度强调新颖性可能削弱验证工作。",
+      "en": "Excessive emphasis on novelty can weaken verification work.",
+      "answers": [
+        "Excessive emphasis on novelty can weaken verification work."
+      ],
+      "notes": "novelty：新颖性",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "科研制度"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0059",
+      "zh": "导师应帮助学生判断证据强度。",
+      "en": "Supervisors should help students assess evidence strength.",
+      "answers": [
+        "Supervisors should help students assess evidence strength."
+      ],
+      "notes": "supervisor：导师",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "科研制度"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0060",
+      "zh": "稳定岗位有助于保存专门技能。",
+      "en": "Stable positions help retain specialised skills.",
+      "answers": [
+        "Stable positions help retain specialised skills."
+      ],
+      "notes": "retain：保留",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "科研制度"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0061",
+      "zh": "研究诚信也依赖合理的激励制度。",
+      "en": "Research integrity also depends on sensible incentives.",
+      "answers": [
+        "Research integrity also depends on sensible incentives."
+      ],
+      "notes": "integrity：诚信",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "科研制度"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0062",
+      "zh": "允许承认错误可以改善研究文化。",
+      "en": "Allowing mistakes to be acknowledged can improve research culture.",
+      "answers": [
+        "Allowing mistakes to be acknowledged can improve research culture."
+      ],
+      "notes": "acknowledge：承认",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "科研制度"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0063",
+      "zh": "研究工具的限制应在报告中写明。",
+      "en": "Reports should state the limitations of research tools.",
+      "answers": [
+        "Reports should state the limitations of research tools."
+      ],
+      "notes": "limitation：局限",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "科研制度"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_scientific_research_v3_0064",
+      "zh": "当年轻研究者有理由质疑资深同事时，科研机构应允许他们在不担心报复的情况下提出异议。",
+      "en": "Institutions should let junior researchers challenge senior colleagues without fear of retaliation when they have grounds to disagree.",
+      "answers": [
+        "Institutions should let junior researchers challenge senior colleagues without fear of retaliation when they have grounds to disagree."
+      ],
+      "notes": "have grounds to：有理由；without fear of retaliation：不担心报复。",
+      "tags": [
+        "IELTS",
+        "科学研究",
+        "科研制度"
+      ],
+      "difficulty": 4
+    }
+  ]
+}

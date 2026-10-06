@@ -1,0 +1,1229 @@
+{
+  "schema_version": 1,
+  "id": "formal_correspondence",
+  "title": "正式书面沟通与表达精度 · 86 句",
+  "description": "文件版本、授权范围、会议安排与纪要、交付说明、更正、催办、公告和证据精度。",
+  "language": "en-GB",
+  "tags": [
+    "书面沟通",
+    "逐题讲解"
+  ],
+  "items": [
+    {
+      "id": "formal_correspondence_v3_0001",
+      "zh": "请以附件中的修订版为准，昨天发送的版本已作废。",
+      "en": "Please refer to the attached revision; the version sent yesterday is no longer valid.",
+      "answers": [
+        "Please refer to the attached revision; the version sent yesterday is no longer valid."
+      ],
+      "notes": "refer to：查阅或参照；no longer valid 明确旧版本状态。",
+      "tags": [
+        "书面沟通",
+        "文件与版本"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0002",
+      "zh": "为方便核对，我用黄色标出了所有改动。",
+      "en": "For ease of comparison, I have highlighted every change in yellow.",
+      "answers": [
+        "For ease of comparison, I have highlighted every change in yellow."
+      ],
+      "notes": "for ease of：为了便于；highlight in yellow：用黄色标出。",
+      "tags": [
+        "书面沟通",
+        "文件与版本"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0003",
+      "zh": "正文中的编号与附录中的编号一一对应。",
+      "en": "The numbers in the main text correspond directly to those in the appendix.",
+      "answers": [
+        "The numbers in the main text correspond directly to those in the appendix."
+      ],
+      "notes": "correspond to：与……对应；those 代替 numbers。",
+      "tags": [
+        "书面沟通",
+        "文件与版本"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0004",
+      "zh": "第二份附件包含原始表格，第一份只是一页摘要。",
+      "en": "The second attachment contains the original tables, whereas the first is a one-page summary.",
+      "answers": [
+        "The second attachment contains the original tables, whereas the first is a one-page summary."
+      ],
+      "notes": "whereas 对照附件用途；one-page 修饰 summary。",
+      "tags": [
+        "书面沟通",
+        "文件与版本"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0005",
+      "zh": "这份草案尚未获得批准，请在引用时注明其状态。",
+      "en": "This draft has yet to be approved, so please state its status when citing it.",
+      "answers": [
+        "This draft has yet to be approved, so please state its status when citing it."
+      ],
+      "notes": "has yet to be approved：尚未获批。",
+      "tags": [
+        "书面沟通",
+        "文件与版本"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "formal_correspondence_v3_0006",
+      "zh": "扫描件的最后一页似乎缺失了，能否单独补发？",
+      "en": "The final page appears to be missing from the scan. Could you send it separately?",
+      "answers": [
+        "The final page appears to be missing from the scan. Could you send it separately?"
+      ],
+      "notes": "appears to 表示基于当前文件作出的谨慎判断。",
+      "tags": [
+        "书面沟通",
+        "文件与版本"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0007",
+      "zh": "我保留了原有标题，以便读者继续使用旧目录查找。",
+      "en": "I have retained the original headings so that readers can still use the earlier contents list.",
+      "answers": [
+        "I have retained the original headings so that readers can still use the earlier contents list."
+      ],
+      "notes": "so that 说明保留标题的目的。",
+      "tags": [
+        "书面沟通",
+        "文件与版本"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0008",
+      "zh": "表格底部的脚注适用于整列数据。",
+      "en": "The footnote beneath the table applies to the entire column.",
+      "answers": [
+        "The footnote beneath the table applies to the entire column."
+      ],
+      "notes": "apply to：适用于；entire 明确覆盖范围。",
+      "tags": [
+        "书面沟通",
+        "文件与版本"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0009",
+      "zh": "请不要把批注中的建议当作已经通过的修改。",
+      "en": "Please do not treat suggestions in the comments as approved amendments.",
+      "answers": [
+        "Please do not treat suggestions in the comments as approved amendments.",
+        "Please don't treat suggestions in the comments as approved amendments."
+      ],
+      "notes": "treat A as B：将 A 视为 B。",
+      "tags": [
+        "书面沟通",
+        "文件与版本"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0010",
+      "zh": "如果你引用了更新后的数字，也请同步修改图注。",
+      "en": "If you cite the updated figures, please revise the chart caption accordingly.",
+      "answers": [
+        "If you cite the updated figures, please revise the chart caption accordingly."
+      ],
+      "notes": "accordingly：作相应调整；caption：图注。",
+      "tags": [
+        "书面沟通",
+        "文件与版本"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0011",
+      "zh": "我可以确认收件，但无权代表委员会接受这些条款。",
+      "en": "I can acknowledge receipt but am not authorised to accept these terms on behalf of the committee.",
+      "answers": [
+        "I can acknowledge receipt but am not authorised to accept these terms on behalf of the committee."
+      ],
+      "notes": "on behalf of：代表；确认收到不等于接受条款。",
+      "tags": [
+        "书面沟通",
+        "责任与授权范围"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "formal_correspondence_v3_0012",
+      "zh": "这封邮件只确认交付日期，未批准额外支出。",
+      "en": "This email confirms the delivery date only and does not approve additional expenditure.",
+      "answers": [
+        "This email confirms the delivery date only and does not approve additional expenditure.",
+        "This email confirms the delivery date only and doesn't approve additional expenditure."
+      ],
+      "notes": "only 限定确认范围；expenditure：支出。",
+      "tags": [
+        "书面沟通",
+        "责任与授权范围"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "formal_correspondence_v3_0013",
+      "zh": "请将任何超出原定范围的工作单独列项报价。",
+      "en": "Please quote separately for any work beyond the agreed scope.",
+      "answers": [
+        "Please quote separately for any work beyond the agreed scope."
+      ],
+      "notes": "quote for：为某项工作报价；agreed scope：约定范围。",
+      "tags": [
+        "书面沟通",
+        "责任与授权范围"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "formal_correspondence_v3_0014",
+      "zh": "技术问题由我负责，账单相关事宜请联系财务团队。",
+      "en": "I will handle technical matters; billing enquiries should go to the finance team.",
+      "answers": [
+        "I will handle technical matters; billing enquiries should go to the finance team."
+      ],
+      "notes": "用并列分句划清两类问题的负责人。",
+      "tags": [
+        "书面沟通",
+        "责任与授权范围"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "formal_correspondence_v3_0015",
+      "zh": "在负责人书面确认之前，这项安排仍属临时性质。",
+      "en": "The arrangement remains provisional until the person responsible confirms it in writing.",
+      "answers": [
+        "The arrangement remains provisional until the person responsible confirms it in writing."
+      ],
+      "notes": "provisional：暂定的；in writing：以书面形式。",
+      "tags": [
+        "书面沟通",
+        "责任与授权范围"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "formal_correspondence_v3_0016",
+      "zh": "授权仅限于此次活动，不延伸到后续宣传。",
+      "en": "Permission is limited to this event and does not extend to subsequent publicity.",
+      "answers": [
+        "Permission is limited to this event and does not extend to subsequent publicity.",
+        "Permission is limited to this event and doesn't extend to subsequent publicity."
+      ],
+      "notes": "be limited to 与 extend to 明确许可边界。",
+      "tags": [
+        "书面沟通",
+        "责任与授权范围"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0017",
+      "zh": "我提出的是供讨论的建议，并非对执行团队的指令。",
+      "en": "I am offering a proposal for discussion, rather than an instruction to the implementation team.",
+      "answers": [
+        "I am offering a proposal for discussion, rather than an instruction to the implementation team."
+      ],
+      "notes": "rather than 区分建议与指令的语用效力。",
+      "tags": [
+        "书面沟通",
+        "责任与授权范围"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "formal_correspondence_v3_0018",
+      "zh": "双方各自承担本方员工的差旅费用。",
+      "en": "Each party will cover the travel expenses of its own staff.",
+      "answers": [
+        "Each party will cover the travel expenses of its own staff."
+      ],
+      "notes": "each party 单数；its own 明确各自承担。",
+      "tags": [
+        "书面沟通",
+        "责任与授权范围"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "formal_correspondence_v3_0019",
+      "zh": "接收设备并不意味着我们已经验收其性能。",
+      "en": "Taking delivery of the equipment does not mean that we have accepted its performance.",
+      "answers": [
+        "Taking delivery of the equipment does not mean that we have accepted its performance.",
+        "Taking delivery of the equipment doesn't mean that we have accepted its performance."
+      ],
+      "notes": "take delivery of：接收交付；区分收货和性能验收。",
+      "tags": [
+        "书面沟通",
+        "责任与授权范围"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "formal_correspondence_v3_0020",
+      "zh": "若需要由其他人签署，请提供其姓名及授权依据。",
+      "en": "If someone else needs to sign, please provide their name and the basis of their authority.",
+      "answers": [
+        "If someone else needs to sign, please provide their name and the basis of their authority."
+      ],
+      "notes": "the basis of their authority：授权依据；their 可指性别未明的单个人。",
+      "tags": [
+        "书面沟通",
+        "责任与授权范围"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "formal_correspondence_v3_0021",
+      "zh": "由于参会人员来自三个时区，邀请中会同时列出各地时间。",
+      "en": "As participants are joining from three time zones, the invitation will show the time in each location.",
+      "answers": [
+        "As participants are joining from three time zones, the invitation will show the time in each location."
+      ],
+      "notes": "as 引出安排的原因；each location 避免时区歧义。",
+      "tags": [
+        "书面沟通",
+        "预约与书面安排"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0022",
+      "zh": "此次讨论预留四十五分钟，其中最后十分钟用于确认下一步。",
+      "en": "Forty-five minutes have been set aside for this discussion, including ten at the end to agree the next steps.",
+      "answers": [
+        "Forty-five minutes have been set aside for this discussion, including ten at the end to agree the next steps."
+      ],
+      "notes": "set aside：预留；including 引出总时长中的一部分。",
+      "tags": [
+        "书面沟通",
+        "预约与书面安排"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0023",
+      "zh": "如果这个议题需要更多时间，我们可以另约一次专门会议。",
+      "en": "Should this issue require more time, we can arrange a separate meeting devoted to it.",
+      "answers": [
+        "Should this issue require more time, we can arrange a separate meeting devoted to it."
+      ],
+      "notes": "should 引导省略 if 的条件倒装；devoted to：专门用于。",
+      "tags": [
+        "书面沟通",
+        "预约与书面安排"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "formal_correspondence_v3_0024",
+      "zh": "请告知你是否需要口译，以便我们提前安排。",
+      "en": "Please let us know whether you require an interpreter so that we can make arrangements in advance.",
+      "answers": [
+        "Please let us know whether you require an interpreter so that we can make arrangements in advance."
+      ],
+      "notes": "interpreter 指口译员；whether 引导间接问句。",
+      "tags": [
+        "书面沟通",
+        "预约与书面安排"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0025",
+      "zh": "线上参会链接将在会议前一天发送给已登记人员。",
+      "en": "The link for remote participation will be sent to registered attendees the day before the meeting.",
+      "answers": [
+        "The link for remote participation will be sent to registered attendees the day before the meeting."
+      ],
+      "notes": "registered attendees：已登记参会者。",
+      "tags": [
+        "书面沟通",
+        "预约与书面安排"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0026",
+      "zh": "议程已留出一项开放讨论，未列明的问题可在该环节提出。",
+      "en": "An open discussion is included in the agenda, during which unlisted issues may be raised.",
+      "answers": [
+        "An open discussion is included in the agenda, during which unlisted issues may be raised."
+      ],
+      "notes": "during which 回指讨论环节；raise an issue：提出问题。",
+      "tags": [
+        "书面沟通",
+        "预约与书面安排"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0027",
+      "zh": "若你只能参加前半场，请先审阅与你有关的议题。",
+      "en": "If you can attend only the first half, please review the items relevant to you beforehand.",
+      "answers": [
+        "If you can attend only the first half, please review the items relevant to you beforehand."
+      ],
+      "notes": "relevant to：与……有关；beforehand：事先。",
+      "tags": [
+        "书面沟通",
+        "预约与书面安排"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0028",
+      "zh": "实地参观需要穿封闭式鞋，现场将提供其他防护用品。",
+      "en": "Closed-toe shoes are required for the site visit; other protective equipment will be provided on arrival.",
+      "answers": [
+        "Closed-toe shoes are required for the site visit; other protective equipment will be provided on arrival."
+      ],
+      "notes": "closed-toe shoes：包住脚趾的鞋；equipment 不可数。",
+      "tags": [
+        "书面沟通",
+        "预约与书面安排"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0029",
+      "zh": "为了让讨论有依据，请带上一份能代表常见问题的案例。",
+      "en": "Please bring a representative case to give the discussion a concrete basis.",
+      "answers": [
+        "Please bring a representative case to give the discussion a concrete basis."
+      ],
+      "notes": "representative case：有代表性的案例；不只是随意举例。",
+      "tags": [
+        "书面沟通",
+        "预约与书面安排"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0030",
+      "zh": "会后无需另行发送出席证明，我们将统一记录。",
+      "en": "There is no need to send separate confirmation of attendance afterwards; we will keep a central record.",
+      "answers": [
+        "There is no need to send separate confirmation of attendance afterwards; we will keep a central record."
+      ],
+      "notes": "there is no need to 表示免除额外手续。",
+      "tags": [
+        "书面沟通",
+        "预约与书面安排"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0031",
+      "zh": "记录应区分已经达成的决定和尚待讨论的提议。",
+      "en": "The minutes should distinguish decisions reached from proposals still under discussion.",
+      "answers": [
+        "The minutes should distinguish decisions reached from proposals still under discussion."
+      ],
+      "notes": "distinguish A from B；minutes 在此指会议记录。",
+      "tags": [
+        "书面沟通",
+        "会议记录与决议"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "formal_correspondence_v3_0032",
+      "zh": "我们同意先试行两周，再决定是否全面采用。",
+      "en": "We agreed to run a two-week trial before deciding whether to adopt the arrangement in full.",
+      "answers": [
+        "We agreed to run a two-week trial before deciding whether to adopt the arrangement in full."
+      ],
+      "notes": "agree to do；before deciding 说明决策顺序。",
+      "tags": [
+        "书面沟通",
+        "会议记录与决议"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "formal_correspondence_v3_0033",
+      "zh": "这一点尚未形成共识，因此请勿在纪要中写成一致通过。",
+      "en": "No consensus was reached on this point, so please do not record it as unanimously approved.",
+      "answers": [
+        "No consensus was reached on this point, so please do not record it as unanimously approved.",
+        "No consensus was reached on this point, so please don't record it as unanimously approved."
+      ],
+      "notes": "consensus：共识；unanimously：一致地。",
+      "tags": [
+        "书面沟通",
+        "会议记录与决议"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "formal_correspondence_v3_0034",
+      "zh": "行动清单为每项任务列明了负责人和截止日期。",
+      "en": "The action list names an owner and a deadline for each task.",
+      "answers": [
+        "The action list names an owner and a deadline for each task."
+      ],
+      "notes": "owner 在任务管理中指负责人。",
+      "tags": [
+        "书面沟通",
+        "会议记录与决议"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "formal_correspondence_v3_0035",
+      "zh": "我对预算部分有保留意见，希望将这一点写入记录。",
+      "en": "I have reservations about the budget section and would like them entered in the record.",
+      "answers": [
+        "I have reservations about the budget section and would like them entered in the record."
+      ],
+      "notes": "have reservations about：对……持保留意见。",
+      "tags": [
+        "书面沟通",
+        "会议记录与决议"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "formal_correspondence_v3_0036",
+      "zh": "会议讨论了延期的可能性，但并未批准延期。",
+      "en": "The meeting considered a possible extension but did not approve one.",
+      "answers": [
+        "The meeting considered a possible extension but did not approve one.",
+        "The meeting considered a possible extension but didn't approve one."
+      ],
+      "notes": "one 代替 extension；consider 不等于 approve。",
+      "tags": [
+        "书面沟通",
+        "会议记录与决议"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0037",
+      "zh": "请把我的发言更正为“可能减少成本”，而不是“一定减少成本”。",
+      "en": "Please correct the record of my statement to say that costs may fall, not that they definitely will.",
+      "answers": [
+        "Please correct the record of my statement to say that costs may fall, not that they definitely will."
+      ],
+      "notes": "may 与 definitely 的确定程度不同。",
+      "tags": [
+        "书面沟通",
+        "会议记录与决议"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "formal_correspondence_v3_0038",
+      "zh": "缺席成员可以提交书面意见，但不能被计为现场投票者。",
+      "en": "Absent members may submit written comments but cannot be counted as having voted in person.",
+      "answers": [
+        "Absent members may submit written comments but cannot be counted as having voted in person.",
+        "Absent members may submit written comments but can't be counted as having voted in person."
+      ],
+      "notes": "be counted as having done：被计入已完成某行为者。",
+      "tags": [
+        "书面沟通",
+        "会议记录与决议"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "formal_correspondence_v3_0039",
+      "zh": "旧决议继续有效，直到新的安排正式获批。",
+      "en": "The earlier resolution remains in force until the new arrangement is formally approved.",
+      "answers": [
+        "The earlier resolution remains in force until the new arrangement is formally approved."
+      ],
+      "notes": "remain in force：继续有效。",
+      "tags": [
+        "书面沟通",
+        "会议记录与决议"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "formal_correspondence_v3_0040",
+      "zh": "附件列出了会后补充的信息，并注明了来源。",
+      "en": "The attachment lists information added after the meeting and identifies its sources.",
+      "answers": [
+        "The attachment lists information added after the meeting and identifies its sources."
+      ],
+      "notes": "added after the meeting 限定会后补充材料。",
+      "tags": [
+        "书面沟通",
+        "会议记录与决议"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "formal_correspondence_v3_0041",
+      "zh": "交付包中附有一份清单，标明每个文件的用途。",
+      "en": "The delivery package includes an index explaining what each file is for.",
+      "answers": [
+        "The delivery package includes an index explaining what each file is for."
+      ],
+      "notes": "what each file is for 用间接问句说明用途。",
+      "tags": [
+        "书面沟通",
+        "交付与使用说明"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0042",
+      "zh": "图片的预览版带有水印，正式授权版本则没有。",
+      "en": "The preview images carry watermarks, which are absent from the licensed versions.",
+      "answers": [
+        "The preview images carry watermarks, which are absent from the licensed versions."
+      ],
+      "notes": "which 回指 watermarks；licensed：已授权的。",
+      "tags": [
+        "书面沟通",
+        "交付与使用说明"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0043",
+      "zh": "请先复制一份模板，再填写你自己的信息。",
+      "en": "Please make a copy of the template before entering your own details.",
+      "answers": [
+        "Please make a copy of the template before entering your own details."
+      ],
+      "notes": "make a copy：制作副本；before 表示必要顺序。",
+      "tags": [
+        "书面沟通",
+        "交付与使用说明"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0044",
+      "zh": "灰色单元格含有公式，直接输入会覆盖计算结果。",
+      "en": "The grey cells contain formulas; typing into them will overwrite the calculations.",
+      "answers": [
+        "The grey cells contain formulas; typing into them will overwrite the calculations."
+      ],
+      "notes": "overwrite：覆盖已有内容。",
+      "tags": [
+        "书面沟通",
+        "交付与使用说明"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0045",
+      "zh": "目录中的链接指向文件夹内部，移动单个文件可能导致链接失效。",
+      "en": "The index links point within the folder, so moving individual files may break them.",
+      "answers": [
+        "The index links point within the folder, so moving individual files may break them."
+      ],
+      "notes": "break links：使链接失效；them 回指 links。",
+      "tags": [
+        "书面沟通",
+        "交付与使用说明"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0046",
+      "zh": "此说明假定读者已完成安装，安装步骤另有文档。",
+      "en": "These instructions assume that installation is complete; the installation steps are documented separately.",
+      "answers": [
+        "These instructions assume that installation is complete; the installation steps are documented separately."
+      ],
+      "notes": "assume that 明确文档适用前提。",
+      "tags": [
+        "书面沟通",
+        "交付与使用说明"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0047",
+      "zh": "示例中的姓名和地址均为虚构，仅用于演示格式。",
+      "en": "The names and addresses in the example are fictional and serve only to demonstrate the format.",
+      "answers": [
+        "The names and addresses in the example are fictional and serve only to demonstrate the format."
+      ],
+      "notes": "serve to：用于；fictional：虚构的。",
+      "tags": [
+        "书面沟通",
+        "交付与使用说明"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0048",
+      "zh": "可编辑原稿与只读副本存放在不同的子文件夹中。",
+      "en": "Editable source files and read-only copies are stored in separate subfolders.",
+      "answers": [
+        "Editable source files and read-only copies are stored in separate subfolders."
+      ],
+      "notes": "editable 与 read-only 区分两种用途。",
+      "tags": [
+        "书面沟通",
+        "交付与使用说明"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0049",
+      "zh": "本次交付不包含历史记录，因为它们不在约定范围之内。",
+      "en": "Historical records are excluded from this delivery because they fall outside the agreed scope.",
+      "answers": [
+        "Historical records are excluded from this delivery because they fall outside the agreed scope."
+      ],
+      "notes": "fall outside the scope：超出范围。",
+      "tags": [
+        "书面沟通",
+        "交付与使用说明"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0050",
+      "zh": "若文件无法打开，请告知文件名及屏幕上显示的错误信息。",
+      "en": "If a file will not open, please report its name and the error message shown on screen.",
+      "answers": [
+        "If a file will not open, please report its name and the error message shown on screen.",
+        "If a file won't open, please report its name and the error message shown on screen."
+      ],
+      "notes": "will not 可表示设备或文件无法正常响应。",
+      "tags": [
+        "书面沟通",
+        "交付与使用说明"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0051",
+      "zh": "我在上一封邮件中把两项费用对调了，正确明细如下。",
+      "en": "I transposed two charges in my previous email; the correct breakdown follows.",
+      "answers": [
+        "I transposed two charges in my previous email; the correct breakdown follows."
+      ],
+      "notes": "transpose：将位置对调；breakdown：分类明细。",
+      "tags": [
+        "书面沟通",
+        "更正与补充说明"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "formal_correspondence_v3_0052",
+      "zh": "日期中的月份有误，但已确认的星期和时间不变。",
+      "en": "The month in the date was incorrect, but the agreed day of the week and time remain unchanged.",
+      "answers": [
+        "The month in the date was incorrect, but the agreed day of the week and time remain unchanged."
+      ],
+      "notes": "day of the week 指星期几，避免与具体日期混淆。",
+      "tags": [
+        "书面沟通",
+        "更正与补充说明"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "formal_correspondence_v3_0053",
+      "zh": "补充说明一下，该金额不包含可退还的押金。",
+      "en": "For clarification, the amount excludes the refundable deposit.",
+      "answers": [
+        "For clarification, the amount excludes the refundable deposit."
+      ],
+      "notes": "for clarification：为澄清起见；refundable：可退还的。",
+      "tags": [
+        "书面沟通",
+        "更正与补充说明"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "formal_correspondence_v3_0054",
+      "zh": "措辞可能让人误以为这是强制要求，我的本意是提出建议。",
+      "en": "The wording may have suggested a compulsory requirement; I intended it as a recommendation.",
+      "answers": [
+        "The wording may have suggested a compulsory requirement; I intended it as a recommendation."
+      ],
+      "notes": "may have done 表示对过去效果的可能判断。",
+      "tags": [
+        "书面沟通",
+        "更正与补充说明"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "formal_correspondence_v3_0055",
+      "zh": "我们发现了一处计算错误，因此撤回先前的估算。",
+      "en": "We have identified a calculation error and are therefore withdrawing the earlier estimate.",
+      "answers": [
+        "We have identified a calculation error and are therefore withdrawing the earlier estimate."
+      ],
+      "notes": "withdraw an estimate：撤回估算。",
+      "tags": [
+        "书面沟通",
+        "更正与补充说明"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "formal_correspondence_v3_0056",
+      "zh": "更正仅涉及标签，底层数据没有变化。",
+      "en": "The correction concerns the labels only; the underlying data are unchanged.",
+      "answers": [
+        "The correction concerns the labels only; the underlying data are unchanged."
+      ],
+      "notes": "underlying data：底层数据；only 限定修改范围。",
+      "tags": [
+        "书面沟通",
+        "更正与补充说明"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "formal_correspondence_v3_0057",
+      "zh": "我之前遗漏了一个条件：场地只能在办公时间内使用。",
+      "en": "I omitted one condition earlier: the venue is available during office hours only.",
+      "answers": [
+        "I omitted one condition earlier: the venue is available during office hours only."
+      ],
+      "notes": "omit：遗漏；冒号引出被遗漏条件。",
+      "tags": [
+        "书面沟通",
+        "更正与补充说明"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "formal_correspondence_v3_0058",
+      "zh": "请允许我澄清“完成”的含义：文件已提交，但审查仍在进行。",
+      "en": "Let me clarify what I meant by complete: the documents have been submitted, but the review is ongoing.",
+      "answers": [
+        "Let me clarify what I meant by complete: the documents have been submitted, but the review is ongoing."
+      ],
+      "notes": "区分提交完成和审核完成；ongoing：仍在进行。",
+      "tags": [
+        "书面沟通",
+        "更正与补充说明"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "formal_correspondence_v3_0059",
+      "zh": "为避免歧义，下文中的“客户”均指签约单位。",
+      "en": "To avoid ambiguity, client refers throughout the text below to the contracting organisation.",
+      "answers": [
+        "To avoid ambiguity, client refers throughout the text below to the contracting organisation."
+      ],
+      "notes": "throughout：贯穿全文；明确术语所指。",
+      "tags": [
+        "书面沟通",
+        "更正与补充说明"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "formal_correspondence_v3_0060",
+      "zh": "我们采用的是发货日期，而不是订单创建日期。",
+      "en": "We have used the dispatch date rather than the date on which the order was created.",
+      "answers": [
+        "We have used the dispatch date rather than the date on which the order was created."
+      ],
+      "notes": "on which 修饰 date；明确计算或记录的时间依据。",
+      "tags": [
+        "书面沟通",
+        "更正与补充说明"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "formal_correspondence_v3_0061",
+      "zh": "为赶上印刷排期，我们需要在周三中午前收到最终文本。",
+      "en": "To meet the print schedule, we need the final text by noon on Wednesday.",
+      "answers": [
+        "To meet the print schedule, we need the final text by noon on Wednesday."
+      ],
+      "notes": "meet a schedule：按期完成；by 指最迟时间。",
+      "tags": [
+        "书面沟通",
+        "礼貌催办与收尾"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0062",
+      "zh": "若目前还无法给出完整答复，请先告知预计回复时间。",
+      "en": "If a full response is not yet possible, please indicate when we can expect one.",
+      "answers": [
+        "If a full response is not yet possible, please indicate when we can expect one.",
+        "If a full response isn't yet possible, please indicate when we can expect one."
+      ],
+      "notes": "one 代替 response；给出可执行的替代回应。",
+      "tags": [
+        "书面沟通",
+        "礼貌催办与收尾"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0063",
+      "zh": "我再次附上所需清单，方便你核对缺少的材料。",
+      "en": "I have reattached the checklist to help you identify any outstanding documents.",
+      "answers": [
+        "I have reattached the checklist to help you identify any outstanding documents."
+      ],
+      "notes": "outstanding documents 指尚未交齐的文件。",
+      "tags": [
+        "书面沟通",
+        "礼貌催办与收尾"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0064",
+      "zh": "在收到尺寸确认之前，供应商无法开始制作。",
+      "en": "The supplier cannot begin production until the dimensions have been confirmed.",
+      "answers": [
+        "The supplier cannot begin production until the dimensions have been confirmed.",
+        "The supplier can't begin production until the dimensions have been confirmed."
+      ],
+      "notes": "not ... until 表明后续工作依赖尺寸确认。",
+      "tags": [
+        "书面沟通",
+        "礼貌催办与收尾"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0065",
+      "zh": "如果你已经发送了回复，请忽略这封提醒邮件。",
+      "en": "If you have already replied, please disregard this reminder.",
+      "answers": [
+        "If you have already replied, please disregard this reminder."
+      ],
+      "notes": "disregard：忽略；条件句避免重复催办。",
+      "tags": [
+        "书面沟通",
+        "礼貌催办与收尾"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0066",
+      "zh": "我们已收到全部资料，本阶段无需你采取进一步行动。",
+      "en": "We have received all the material and require no further action from you at this stage.",
+      "answers": [
+        "We have received all the material and require no further action from you at this stage."
+      ],
+      "notes": "at this stage 限定当前阶段，避免暗示永远无后续。",
+      "tags": [
+        "书面沟通",
+        "礼貌催办与收尾"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0067",
+      "zh": "该问题已转交负责团队，并附上此前的往来记录。",
+      "en": "The matter has been referred to the team responsible, together with the earlier correspondence.",
+      "answers": [
+        "The matter has been referred to the team responsible, together with the earlier correspondence."
+      ],
+      "notes": "refer a matter to：将事项转交；correspondence 不可数。",
+      "tags": [
+        "书面沟通",
+        "礼貌催办与收尾"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0068",
+      "zh": "如未收到明确确认，我们将继续按原定安排执行。",
+      "en": "Without explicit confirmation, we will proceed with the original arrangements.",
+      "answers": [
+        "Without explicit confirmation, we will proceed with the original arrangements."
+      ],
+      "notes": "without 引出缺少确认时的处理方式。",
+      "tags": [
+        "书面沟通",
+        "礼貌催办与收尾"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0069",
+      "zh": "谢谢你指出这一遗漏；它已在最新版本中补上。",
+      "en": "Thank you for drawing attention to the omission; it has been addressed in the latest version.",
+      "answers": [
+        "Thank you for drawing attention to the omission; it has been addressed in the latest version."
+      ],
+      "notes": "draw attention to：指出；address an omission：补上遗漏。",
+      "tags": [
+        "书面沟通",
+        "礼貌催办与收尾"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0070",
+      "zh": "待最后一项费用结清后，我们会发送结项通知。",
+      "en": "Once the final charge has been settled, we will issue a notice of closure.",
+      "answers": [
+        "Once the final charge has been settled, we will issue a notice of closure."
+      ],
+      "notes": "settle a charge：结清费用；once 引出结项条件。",
+      "tags": [
+        "书面沟通",
+        "礼貌催办与收尾"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0071",
+      "zh": "维护期间，自助服务暂停，人工柜台照常开放。",
+      "en": "During maintenance, self-service facilities will be unavailable, while staffed counters will remain open.",
+      "answers": [
+        "During maintenance, self-service facilities will be unavailable, while staffed counters will remain open."
+      ],
+      "notes": "while 对照受影响和继续开放的服务。",
+      "tags": [
+        "书面沟通",
+        "公告与信息披露"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0072",
+      "zh": "新收费只适用于生效日期之后提交的申请。",
+      "en": "The revised fee applies only to applications submitted after the effective date.",
+      "answers": [
+        "The revised fee applies only to applications submitted after the effective date."
+      ],
+      "notes": "effective date：生效日期；only 限定适用申请。",
+      "tags": [
+        "书面沟通",
+        "公告与信息披露"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0073",
+      "zh": "报名按收到完整材料的先后顺序处理。",
+      "en": "Registrations are processed in the order in which complete applications are received.",
+      "answers": [
+        "Registrations are processed in the order in which complete applications are received."
+      ],
+      "notes": "in the order in which：按……的顺序。",
+      "tags": [
+        "书面沟通",
+        "公告与信息披露"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0074",
+      "zh": "名额已满后，申请人可选择加入候补名单。",
+      "en": "Once all places have been filled, applicants may opt to join the waiting list.",
+      "answers": [
+        "Once all places have been filled, applicants may opt to join the waiting list."
+      ],
+      "notes": "opt to do：选择做；waiting list：候补名单。",
+      "tags": [
+        "书面沟通",
+        "公告与信息披露"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0075",
+      "zh": "本公告替代此前关于开放时间的通知。",
+      "en": "This announcement supersedes the earlier notice concerning opening hours.",
+      "answers": [
+        "This announcement supersedes the earlier notice concerning opening hours."
+      ],
+      "notes": "supersede：取代并使先前版本不再适用。",
+      "tags": [
+        "书面沟通",
+        "公告与信息披露"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0076",
+      "zh": "任何变更都会在此页面公布，并注明更新时间。",
+      "en": "Any changes will be published on this page with the time of the update.",
+      "answers": [
+        "Any changes will be published on this page with the time of the update."
+      ],
+      "notes": "with 补充更新信息，明确查询位置。",
+      "tags": [
+        "书面沟通",
+        "公告与信息披露"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0077",
+      "zh": "公开摘要已删除个人信息，但保留了主要结论。",
+      "en": "Personal information has been removed from the public summary, while the main findings have been retained.",
+      "answers": [
+        "Personal information has been removed from the public summary, while the main findings have been retained."
+      ],
+      "notes": "remove 与 retain 对照删去和保留内容。",
+      "tags": [
+        "书面沟通",
+        "公告与信息披露"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0078",
+      "zh": "所收集的联系方式仅用于协调本次活动。",
+      "en": "The contact details collected will be used solely to coordinate this event.",
+      "answers": [
+        "The contact details collected will be used solely to coordinate this event."
+      ],
+      "notes": "solely 限定使用目的；collected 后置修饰 details。",
+      "tags": [
+        "书面沟通",
+        "公告与信息披露"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0079",
+      "zh": "读者可申请无障碍版本，无需另付费用。",
+      "en": "An accessible version is available on request at no additional charge.",
+      "answers": [
+        "An accessible version is available on request at no additional charge."
+      ],
+      "notes": "on request：按申请提供；at no additional charge：不另收费。",
+      "tags": [
+        "书面沟通",
+        "公告与信息披露"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0080",
+      "zh": "此链接将在月底失效，请及时下载所需材料。",
+      "en": "This link will expire at the end of the month, so please download any material you need beforehand.",
+      "answers": [
+        "This link will expire at the end of the month, so please download any material you need beforehand."
+      ],
+      "notes": "expire：失效；beforehand 回指到期前。",
+      "tags": [
+        "书面沟通",
+        "公告与信息披露"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "formal_correspondence_v3_0081",
+      "zh": "请区分“没有收到投诉”和“没有发生问题”。",
+      "en": "Please distinguish receiving no complaints from experiencing no problems.",
+      "answers": [
+        "Please distinguish receiving no complaints from experiencing no problems."
+      ],
+      "notes": "没有反馈记录并不等于没有事件；distinguish A from B。",
+      "tags": [
+        "书面沟通",
+        "措辞与证据精度"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "formal_correspondence_v3_0082",
+      "zh": "这份记录反映的是当时已知的信息，而非后续调查的全部结果。",
+      "en": "This record reflects what was known at the time, rather than the full findings of the subsequent investigation.",
+      "answers": [
+        "This record reflects what was known at the time, rather than the full findings of the subsequent investigation."
+      ],
+      "notes": "what was known 限定当时知识范围。",
+      "tags": [
+        "书面沟通",
+        "措辞与证据精度"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "formal_correspondence_v3_0083",
+      "zh": "预估区间包含不确定性，不应将上限当作承诺。",
+      "en": "The estimated range allows for uncertainty; its upper limit should not be treated as a commitment.",
+      "answers": [
+        "The estimated range allows for uncertainty; its upper limit should not be treated as a commitment.",
+        "The estimated range allows for uncertainty; its upper limit shouldn't be treated as a commitment."
+      ],
+      "notes": "allow for：考虑到；上限不等于承诺。",
+      "tags": [
+        "书面沟通",
+        "措辞与证据精度"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "formal_correspondence_v3_0084",
+      "zh": "受访者描述的是自身经历，我们尚未独立核实这些叙述。",
+      "en": "Respondents described their own experiences, and we have not independently verified their accounts.",
+      "answers": [
+        "Respondents described their own experiences, and we have not independently verified their accounts.",
+        "Respondents described their own experiences, and we haven't independently verified their accounts."
+      ],
+      "notes": "account 在此指叙述；区分报告内容与核实结果。",
+      "tags": [
+        "书面沟通",
+        "措辞与证据精度"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "formal_correspondence_v3_0085",
+      "zh": "“未评估”表示没有作出判断，并不表示已经判定不合格。",
+      "en": "Not assessed means that no judgement has been made, not that a failure has been established.",
+      "answers": [
+        "Not assessed means that no judgement has been made, not that a failure has been established."
+      ],
+      "notes": "未评估与不合格是不同状态，不能相互替代。",
+      "tags": [
+        "书面沟通",
+        "措辞与证据精度"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "formal_correspondence_v3_0086",
+      "zh": "请保留原文中的限定词，以免把初步结论写成确定事实。",
+      "en": "Please retain the qualifiers in the original text to avoid presenting tentative conclusions as established facts.",
+      "answers": [
+        "Please retain the qualifiers in the original text to avoid presenting tentative conclusions as established facts."
+      ],
+      "notes": "qualifier：限定词；tentative：初步的、暂定的。",
+      "tags": [
+        "书面沟通",
+        "措辞与证据精度"
+      ],
+      "difficulty": 4
+    }
+  ]
+}

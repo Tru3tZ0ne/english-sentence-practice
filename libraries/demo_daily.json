@@ -1,0 +1,321 @@
+{
+  "schema_version": 1,
+  "id": "demo_daily",
+  "title": "日常口语入门 · 20 句",
+  "description": "问候、感谢、请求与个人感受；保留原有表达并补充逐题用法。",
+  "language": "en-US",
+  "tags": [
+    "日常",
+    "精选",
+    "逐题讲解"
+  ],
+  "items": [
+    {
+      "id": "daily_0001",
+      "zh": "回头见。",
+      "en": "See you later.",
+      "notes": "see you later 是非正式告别，不一定约定具体时间。",
+      "tags": [
+        "日常",
+        "日常口语",
+        "交际表达"
+      ],
+      "difficulty": 1,
+      "answers": [
+        "See you later."
+      ]
+    },
+    {
+      "id": "daily_0002",
+      "zh": "我对你彻底没感觉了。",
+      "en": "I'm completely over you.",
+      "answers": [
+        "I'm completely over you.",
+        "I am completely over you."
+      ],
+      "notes": "be over sb 表示已经从对某人的感情中走出来；语气较直接，适合明确的关系语境。",
+      "tags": [
+        "日常",
+        "日常口语",
+        "交际表达"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_0003",
+      "zh": "别担心。",
+      "en": "Don't worry.",
+      "notes": "don't + 动词原形构成否定祈使句；用于安慰。",
+      "tags": [
+        "日常",
+        "日常口语",
+        "交际表达"
+      ],
+      "difficulty": 1,
+      "answers": [
+        "Don't worry.",
+        "Do not worry."
+      ]
+    },
+    {
+      "id": "daily_0004",
+      "zh": "我马上回来。",
+      "en": "I'll be right back.",
+      "answers": [
+        "I'll be right back.",
+        "I will be right back."
+      ],
+      "notes": "be right back 表示马上回来；right 在这里加强时间上的紧接感。",
+      "tags": [
+        "日常",
+        "日常口语",
+        "交际表达"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_0005",
+      "zh": "你今天怎么样？",
+      "en": "How are you today?",
+      "notes": "how are you 用于询问近况或感受。",
+      "tags": [
+        "日常",
+        "日常口语",
+        "交际表达"
+      ],
+      "difficulty": 1,
+      "answers": [
+        "How are you today?"
+      ]
+    },
+    {
+      "id": "daily_0006",
+      "zh": "我正在路上。",
+      "en": "I'm on my way.",
+      "notes": "be on my way 表示正在前往的路上。",
+      "tags": [
+        "日常",
+        "日常口语",
+        "交际表达"
+      ],
+      "difficulty": 1,
+      "answers": [
+        "I'm on my way.",
+        "I am on my way."
+      ]
+    },
+    {
+      "id": "daily_0007",
+      "zh": "请稍等。",
+      "en": "Please wait a moment.",
+      "notes": "wait a moment 表示稍等片刻；please 使请求更礼貌。",
+      "tags": [
+        "日常",
+        "日常口语",
+        "交际表达"
+      ],
+      "difficulty": 1,
+      "answers": [
+        "Please wait a moment."
+      ]
+    },
+    {
+      "id": "daily_0008",
+      "zh": "这听起来不错。",
+      "en": "That sounds good.",
+      "notes": "sound 作系动词，后接形容词 good，表示听起来不错。",
+      "tags": [
+        "日常",
+        "日常口语",
+        "交际表达"
+      ],
+      "difficulty": 1,
+      "answers": [
+        "That sounds good."
+      ]
+    },
+    {
+      "id": "daily_0009",
+      "zh": "我不太确定。",
+      "en": "I'm not sure.",
+      "notes": "be not sure 表示不确定；可用于委婉保留意见。",
+      "tags": [
+        "日常",
+        "日常口语",
+        "交际表达"
+      ],
+      "difficulty": 1,
+      "answers": [
+        "I'm not sure.",
+        "I am not sure."
+      ]
+    },
+    {
+      "id": "daily_0010",
+      "zh": "我们明天再聊。",
+      "en": "Let's talk tomorrow.",
+      "notes": "let's 提出共同建议；tomorrow 前不用介词。",
+      "tags": [
+        "日常",
+        "日常口语",
+        "交际表达"
+      ],
+      "difficulty": 1,
+      "answers": [
+        "Let's talk tomorrow."
+      ]
+    },
+    {
+      "id": "daily_0011",
+      "zh": "轮到你了。",
+      "en": "It's your turn.",
+      "notes": "your turn 表示轮到你；turn 为可数名词。",
+      "tags": [
+        "日常",
+        "日常口语",
+        "交际表达"
+      ],
+      "difficulty": 1,
+      "answers": [
+        "It's your turn."
+      ]
+    },
+    {
+      "id": "daily_0012",
+      "zh": "我明白你的意思。",
+      "en": "I see what you mean.",
+      "notes": "see 在此表示理解；what you mean 为宾语从句。",
+      "tags": [
+        "日常",
+        "日常口语",
+        "交际表达"
+      ],
+      "difficulty": 1,
+      "answers": [
+        "I see what you mean."
+      ]
+    },
+    {
+      "id": "daily_0013",
+      "zh": "能帮我一下吗？",
+      "en": "Could you help me?",
+      "notes": "could you 表示礼貌请求；help 为及物动词。",
+      "tags": [
+        "日常",
+        "日常口语",
+        "交际表达"
+      ],
+      "difficulty": 1,
+      "answers": [
+        "Could you help me?"
+      ]
+    },
+    {
+      "id": "daily_0014",
+      "zh": "我需要一点时间。",
+      "en": "I need some time.",
+      "notes": "time 表示时间时不可数；some 表示一些。",
+      "tags": [
+        "日常",
+        "日常口语",
+        "交际表达"
+      ],
+      "difficulty": 1,
+      "answers": [
+        "I need some time."
+      ]
+    },
+    {
+      "id": "daily_0015",
+      "zh": "那就这样吧。",
+      "en": "Let's leave it at that.",
+      "notes": "leave it at that 表示到此为止；用于结束讨论时语气较明确。",
+      "tags": [
+        "日常",
+        "日常口语",
+        "交际表达"
+      ],
+      "difficulty": 1,
+      "answers": [
+        "Let's leave it at that."
+      ]
+    },
+    {
+      "id": "daily_0016",
+      "zh": "祝你好运！",
+      "en": "Good luck!",
+      "notes": "good luck 是祝福表达；luck 通常不可数。",
+      "tags": [
+        "日常",
+        "日常口语",
+        "交际表达"
+      ],
+      "difficulty": 1,
+      "answers": [
+        "Good luck!"
+      ]
+    },
+    {
+      "id": "daily_0017",
+      "zh": "我很期待。",
+      "en": "I'm looking forward to it.",
+      "notes": "look forward to 后接名词或动名词；to 是介词。",
+      "tags": [
+        "日常",
+        "日常口语",
+        "交际表达"
+      ],
+      "difficulty": 1,
+      "answers": [
+        "I'm looking forward to it.",
+        "I am looking forward to it."
+      ]
+    },
+    {
+      "id": "daily_0018",
+      "zh": "小心！",
+      "en": "Be careful!",
+      "notes": "be careful 是祈使句，用于及时提醒注意。",
+      "tags": [
+        "日常",
+        "日常口语",
+        "交际表达"
+      ],
+      "difficulty": 1,
+      "answers": [
+        "Be careful!"
+      ]
+    },
+    {
+      "id": "daily_0019",
+      "zh": "没关系。",
+      "en": "It's okay.",
+      "notes": "it's okay 可回应道歉或表示可以接受；具体意思依语境判断。",
+      "tags": [
+        "日常",
+        "日常口语",
+        "交际表达"
+      ],
+      "difficulty": 1,
+      "answers": [
+        "It's okay."
+      ]
+    },
+    {
+      "id": "daily_0020",
+      "zh": "我会尽力的。",
+      "en": "I'll do my best.",
+      "notes": "do my best 表示尽自己最大努力；will 用于表达承诺。",
+      "tags": [
+        "日常",
+        "日常口语",
+        "交际表达"
+      ],
+      "difficulty": 1,
+      "answers": [
+        "I'll do my best.",
+        "I will do my best."
+      ]
+    }
+  ]
+}

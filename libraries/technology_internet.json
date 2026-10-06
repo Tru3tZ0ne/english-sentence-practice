@@ -1,0 +1,577 @@
+{
+  "schema_version": 1,
+  "id": "technology_internet",
+  "title": "科技与互联网精选 · 36 句",
+  "description": "围绕本主题的具体情境组织表达；覆盖请求、说明、比较与复合句，并附逐题用法。",
+  "language": "en-GB",
+  "tags": [
+    "科技与互联网",
+    "technology",
+    "主题分类",
+    "精选",
+    "逐题讲解"
+  ],
+  "items": [
+    {
+      "zh": "我刚上传的文件为什么还没有出现在共享文件夹里？",
+      "en": "Why hasn't the file I just uploaded appeared in the shared folder yet?",
+      "answers": [
+        "Why hasn't the file I just uploaded appeared in the shared folder yet?",
+        "Why has not the file I just uploaded appeared in the shared folder yet?"
+      ],
+      "notes": "I just uploaded 是省略关系代词的定语从句；yet 用于询问尚未发生的预期结果。",
+      "tags": [
+        "科技与互联网",
+        "现在完成时疑问句",
+        "排查同步问题",
+        "文件共享"
+      ],
+      "difficulty": 3,
+      "id": "technology_internet_001"
+    },
+    {
+      "zh": "在恢复出厂设置之前，请先备份照片。",
+      "en": "Please back up your photos before restoring the device to its factory settings.",
+      "answers": [
+        "Please back up your photos before restoring the device to its factory settings."
+      ],
+      "notes": "back up 是动词短语，backup 常用作名词；before 后接 doing。",
+      "tags": [
+        "科技与互联网",
+        "时间从句",
+        "说明操作顺序",
+        "数据备份"
+      ],
+      "difficulty": 2,
+      "id": "technology_internet_002"
+    },
+    {
+      "zh": "如果忘记密码，我还能用备用邮箱登录吗？",
+      "en": "Can I still sign in using my recovery email if I forget my password?",
+      "answers": [
+        "Can I still sign in using my recovery email if I forget my password?"
+      ],
+      "notes": "sign in 表示登录；using 引出方式，if 引出条件。",
+      "tags": [
+        "科技与互联网",
+        "条件疑问句",
+        "确认恢复方式",
+        "账户访问"
+      ],
+      "difficulty": 2,
+      "id": "technology_internet_003"
+    },
+    {
+      "zh": "虽然无线网络显示已连接，但我打不开任何网页。",
+      "en": "Although the Wi-Fi shows as connected, I can't open any web pages.",
+      "answers": [
+        "Although the Wi-Fi shows as connected, I can't open any web pages.",
+        "Although the Wi-Fi shows as connected, I cannot open any web pages."
+      ],
+      "notes": "although 对比连接状态与实际功能；否定句用 any。",
+      "tags": [
+        "科技与互联网",
+        "让步从句",
+        "描述网络故障",
+        "网络连接"
+      ],
+      "difficulty": 3,
+      "id": "technology_internet_004"
+    },
+    {
+      "zh": "这个应用一直请求访问通讯录，但我不明白它为什么需要这些信息。",
+      "en": "This app keeps asking for access to my contacts, but I don't understand why it needs this information.",
+      "answers": [
+        "This app keeps asking for access to my contacts, but I don't understand why it needs this information.",
+        "This app keeps asking for access to my contacts, but I do not understand why it needs this information."
+      ],
+      "notes": "keep doing 表示反复做；access to 表示访问权限，information 不可数。",
+      "tags": [
+        "科技与互联网",
+        "转折并列句",
+        "质疑权限用途",
+        "应用权限"
+      ],
+      "difficulty": 3,
+      "id": "technology_internet_005"
+    },
+    {
+      "zh": "你发来的链接已经过期，能否重新生成一个？",
+      "en": "The link you sent has expired; could you generate a new one?",
+      "answers": [
+        "The link you sent has expired; could you generate a new one?"
+      ],
+      "notes": "定语从句省略关系代词；expire 表示失效，one 代指 link。",
+      "tags": [
+        "科技与互联网",
+        "定语从句",
+        "请求更新",
+        "文件链接"
+      ],
+      "difficulty": 2,
+      "id": "technology_internet_006"
+    },
+    {
+      "zh": "让我困惑的是，同一份文件在两个设备上显示的版本不同。",
+      "en": "What confuses me is that the same file shows different versions on the two devices.",
+      "answers": [
+        "What confuses me is that the same file shows different versions on the two devices."
+      ],
+      "notes": "what 从句作主语；on a device 表示在设备上。",
+      "tags": [
+        "科技与互联网",
+        "主语从句",
+        "描述版本冲突",
+        "同步"
+      ],
+      "difficulty": 4,
+      "id": "technology_internet_007"
+    },
+    {
+      "zh": "与其每次手动保存，不如打开自动保存功能。",
+      "en": "Instead of saving manually each time, turn on autosave.",
+      "answers": [
+        "Instead of saving manually each time, turn on autosave."
+      ],
+      "notes": "instead of 后接动名词；turn on 表示启用功能。",
+      "tags": [
+        "科技与互联网",
+        "介词对比",
+        "建议操作方式",
+        "文档编辑"
+      ],
+      "difficulty": 2,
+      "id": "technology_internet_008"
+    },
+    {
+      "zh": "安装更新后，我的打印机就不再出现在设备列表里了。",
+      "en": "After I installed the update, my printer stopped appearing in the device list.",
+      "answers": [
+        "After I installed the update, my printer stopped appearing in the device list."
+      ],
+      "notes": "stop doing 表示停止某种状态；说明变化时点，未把先后关系断言为原因。",
+      "tags": [
+        "科技与互联网",
+        "时间从句",
+        "报告故障经过",
+        "设备连接"
+      ],
+      "difficulty": 2,
+      "id": "technology_internet_009"
+    },
+    {
+      "zh": "请把通知设为静音，直到会议结束。",
+      "en": "Please mute notifications until the meeting is over.",
+      "answers": [
+        "Please mute notifications until the meeting is over."
+      ],
+      "notes": "mute 在此作动词；until 引出持续状态的终点。",
+      "tags": [
+        "科技与互联网",
+        "时间从句",
+        "调整通知",
+        "会议设置"
+      ],
+      "difficulty": 2,
+      "id": "technology_internet_010"
+    },
+    {
+      "zh": "这张截图显示了错误提示，却没有显示你之前做了什么操作。",
+      "en": "This screenshot shows the error message but not the steps you took beforehand.",
+      "answers": [
+        "This screenshot shows the error message but not the steps you took beforehand."
+      ],
+      "notes": "steps you took 中 take steps 指进行操作步骤；beforehand 表示事先。",
+      "tags": [
+        "科技与互联网",
+        "转折结构",
+        "索取诊断信息",
+        "技术支持"
+      ],
+      "difficulty": 3,
+      "id": "technology_internet_011"
+    },
+    {
+      "zh": "只有管理员批准后，新成员才能访问这个工作区。",
+      "en": "New members can access this workspace only after an administrator approves them.",
+      "answers": [
+        "New members can access this workspace only after an administrator approves them."
+      ],
+      "notes": "only after 表示必要的先后条件；access 是及物动词。",
+      "tags": [
+        "科技与互联网",
+        "时间从句",
+        "说明权限流程",
+        "工作区管理"
+      ],
+      "difficulty": 3,
+      "id": "technology_internet_012"
+    },
+    {
+      "id": "technology_internet_ext_0001",
+      "zh": "我误删了一个文件，回收站里还能找到它吗？",
+      "en": "I deleted a file by mistake; might it still be in the recycle bin?",
+      "answers": [
+        "I deleted a file by mistake; might it still be in the recycle bin?"
+      ],
+      "notes": "by mistake：误操作。",
+      "tags": [
+        "科技与互联网",
+        "情态疑问句",
+        "文件恢复"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "technology_internet_ext_0002",
+      "zh": "这个文件是只读的，我无法保存修改。",
+      "en": "This file is read-only, so I cannot save my changes.",
+      "answers": [
+        "This file is read-only, so I cannot save my changes.",
+        "This file is read-only, so I can't save my changes."
+      ],
+      "notes": "read-only：只读的。",
+      "tags": [
+        "科技与互联网",
+        "因果并列句",
+        "文件权限"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "technology_internet_ext_0003",
+      "zh": "你能给我查看权限，而不是编辑权限吗？",
+      "en": "Could you give me viewing access rather than editing access?",
+      "answers": [
+        "Could you give me viewing access rather than editing access?"
+      ],
+      "notes": "rather than 区分两种权限。",
+      "tags": [
+        "科技与互联网",
+        "礼貌疑问句",
+        "共享权限"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "technology_internet_ext_0004",
+      "zh": "请在发送之前把附件压缩一下。",
+      "en": "Please compress the attachment before sending it.",
+      "answers": [
+        "Please compress the attachment before sending it."
+      ],
+      "notes": "compress：压缩文件。",
+      "tags": [
+        "科技与互联网",
+        "时间状语",
+        "附件处理"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "technology_internet_ext_0005",
+      "zh": "视频能播放，但没有声音。",
+      "en": "The video plays, but there is no sound.",
+      "answers": [
+        "The video plays, but there is no sound."
+      ],
+      "notes": "play 可用作不及物动词。",
+      "tags": [
+        "科技与互联网",
+        "转折并列句",
+        "音视频"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "technology_internet_ext_0006",
+      "zh": "我戴着耳机，所以扬声器没有输出声音。",
+      "en": "I have headphones connected, so no sound is coming from the speakers.",
+      "answers": [
+        "I have headphones connected, so no sound is coming from the speakers."
+      ],
+      "notes": "have sth connected：处于连接状态。",
+      "tags": [
+        "科技与互联网",
+        "因果并列句",
+        "音频设备"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "technology_internet_ext_0007",
+      "zh": "会议软件提示另一个程序正在使用摄像头。",
+      "en": "The meeting software says another application is using the camera.",
+      "answers": [
+        "The meeting software says another application is using the camera."
+      ],
+      "notes": "software 为不可数名词。",
+      "tags": [
+        "科技与互联网",
+        "宾语从句",
+        "摄像头"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "technology_internet_ext_0008",
+      "zh": "屏幕共享时，请只选择相关窗口。",
+      "en": "When sharing your screen, please select only the relevant window.",
+      "answers": [
+        "When sharing your screen, please select only the relevant window."
+      ],
+      "notes": "when doing：在执行某操作时。",
+      "tags": [
+        "科技与互联网",
+        "省略状语从句",
+        "屏幕共享"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "technology_internet_ext_0009",
+      "zh": "网页要求启用第三方 Cookie 才能继续。",
+      "en": "The page requires third-party cookies to be enabled before I can continue.",
+      "answers": [
+        "The page requires third-party cookies to be enabled before I can continue."
+      ],
+      "notes": "require sth to be done。",
+      "tags": [
+        "科技与互联网",
+        "被动不定式",
+        "网页设置"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "technology_internet_ext_0010",
+      "zh": "我清除了浏览器缓存，但旧页面仍然出现。",
+      "en": "I cleared the browser cache, but the old page still appears.",
+      "answers": [
+        "I cleared the browser cache, but the old page still appears."
+      ],
+      "notes": "cache：缓存。",
+      "tags": [
+        "科技与互联网",
+        "转折并列句",
+        "浏览器故障"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "technology_internet_ext_0011",
+      "zh": "下载进度停在百分之六十，已经十分钟没有变化了。",
+      "en": "The download is stuck at sixty per cent and has not progressed for ten minutes.",
+      "answers": [
+        "The download is stuck at sixty per cent and has not progressed for ten minutes.",
+        "The download is stuck at sixty per cent and hasn't progressed for ten minutes."
+      ],
+      "notes": "be stuck at：停滞在某个进度。",
+      "tags": [
+        "科技与互联网",
+        "现在完成时",
+        "下载问题"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "technology_internet_ext_0012",
+      "zh": "安装程序说磁盘空间不足。",
+      "en": "The installer says there is not enough disk space.",
+      "answers": [
+        "The installer says there is not enough disk space.",
+        "The installer says there isn't enough disk space."
+      ],
+      "notes": "disk space 为不可数表达。",
+      "tags": [
+        "科技与互联网",
+        "宾语从句",
+        "安装条件"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "technology_internet_ext_0013",
+      "zh": "这个应用在后台运行时，电池耗得特别快。",
+      "en": "The battery drains especially quickly when this app runs in the background.",
+      "answers": [
+        "The battery drains especially quickly when this app runs in the background."
+      ],
+      "notes": "run in the background：后台运行。",
+      "tags": [
+        "科技与互联网",
+        "时间从句",
+        "耗电问题"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "technology_internet_ext_0014",
+      "zh": "我想撤销刚才对位置权限的授权。",
+      "en": "I want to revoke the location permission I just granted.",
+      "answers": [
+        "I want to revoke the location permission I just granted."
+      ],
+      "notes": "revoke permission：撤销授权。",
+      "tags": [
+        "科技与互联网",
+        "定语从句",
+        "权限撤回"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "technology_internet_ext_0015",
+      "zh": "手机更换后，双重验证代码不再发到新设备上。",
+      "en": "Since changing phones, I no longer receive two-factor authentication codes on the new device.",
+      "answers": [
+        "Since changing phones, I no longer receive two-factor authentication codes on the new device."
+      ],
+      "notes": "no longer：不再。",
+      "tags": [
+        "科技与互联网",
+        "时间状语",
+        "身份验证"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "technology_internet_ext_0016",
+      "zh": "请不要通过普通聊天发送这个临时密码。",
+      "en": "Please do not send this temporary password through an ordinary chat.",
+      "answers": [
+        "Please do not send this temporary password through an ordinary chat.",
+        "Please don't send this temporary password through an ordinary chat."
+      ],
+      "notes": "temporary：临时的。",
+      "tags": [
+        "科技与互联网",
+        "否定祈使句",
+        "凭证传递"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "technology_internet_ext_0017",
+      "zh": "二维码把我带到了一个与公司名称不符的网址。",
+      "en": "The QR code took me to a web address that does not match the company name.",
+      "answers": [
+        "The QR code took me to a web address that does not match the company name.",
+        "The QR code took me to a web address that doesn't match the company name."
+      ],
+      "notes": "take sb to：将人导向某处。",
+      "tags": [
+        "科技与互联网",
+        "定语从句",
+        "链接核实"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "technology_internet_ext_0018",
+      "zh": "我需要导出联系人，以便转移到另一台设备。",
+      "en": "I need to export my contacts so that I can transfer them to another device.",
+      "answers": [
+        "I need to export my contacts so that I can transfer them to another device."
+      ],
+      "notes": "export 与 transfer 分别指导出和转移。",
+      "tags": [
+        "科技与互联网",
+        "目的从句",
+        "数据迁移"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "technology_internet_ext_0019",
+      "zh": "这次更新改变了菜单位置，我找不到原来的选项。",
+      "en": "This update moved the menu, and I cannot find the old option.",
+      "answers": [
+        "This update moved the menu, and I cannot find the old option.",
+        "This update moved the menu, and I can't find the old option."
+      ],
+      "notes": "option：可选择的设置项。",
+      "tags": [
+        "科技与互联网",
+        "并列句",
+        "界面变化"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "technology_internet_ext_0020",
+      "zh": "如果开启字幕，录制视频里也会包含字幕吗？",
+      "en": "If captions are enabled, will they also appear in the recorded video?",
+      "answers": [
+        "If captions are enabled, will they also appear in the recorded video?"
+      ],
+      "notes": "captions：字幕。",
+      "tags": [
+        "科技与互联网",
+        "条件疑问句",
+        "字幕设置"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "technology_internet_ext_0021",
+      "zh": "文件名里的特殊字符可能导致上传失败。",
+      "en": "Special characters in the filename may be causing the upload to fail.",
+      "answers": [
+        "Special characters in the filename may be causing the upload to fail."
+      ],
+      "notes": "cause sth to do：导致某事。",
+      "tags": [
+        "科技与互联网",
+        "进行时推测",
+        "上传排查"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "technology_internet_ext_0022",
+      "zh": "我已经退出所有设备上的账户。",
+      "en": "I have signed out of my account on all devices.",
+      "answers": [
+        "I have signed out of my account on all devices."
+      ],
+      "notes": "sign out of：退出账户。",
+      "tags": [
+        "科技与互联网",
+        "现在完成时",
+        "账户管理"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "technology_internet_ext_0023",
+      "zh": "这个通知只是提醒，还是需要我立即处理？",
+      "en": "Is this notification just a reminder, or does it require immediate action?",
+      "answers": [
+        "Is this notification just a reminder, or does it require immediate action?"
+      ],
+      "notes": "require action：需要采取行动。",
+      "tags": [
+        "科技与互联网",
+        "选择疑问句",
+        "通知理解"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "technology_internet_ext_0024",
+      "zh": "重新连接之前，我们先确认线缆没有松动。",
+      "en": "Before reconnecting, let's make sure the cable is secure.",
+      "answers": [
+        "Before reconnecting, let's make sure the cable is secure."
+      ],
+      "notes": "secure 在此表示连接牢固。",
+      "tags": [
+        "科技与互联网",
+        "时间状语",
+        "硬件排查"
+      ],
+      "difficulty": 2
+    }
+  ]
+}
