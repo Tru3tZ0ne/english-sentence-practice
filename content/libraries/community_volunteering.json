@@ -1,0 +1,1430 @@
+{
+  "schema_version": 1,
+  "id": "community_volunteering",
+  "title": "社区参与与志愿服务 · 100 句",
+  "description": "志愿报名、接待、物资、活动组织、不同参与需要、边界、邻里事务与筹款。",
+  "language": "en-GB",
+  "tags": [
+    "社区服务",
+    "逐题讲解"
+  ],
+  "items": [
+    {
+      "id": "community_volunteering_v3_0001",
+      "zh": "这个岗位需要固定时间参加吗？",
+      "en": "Does this role require regular attendance?",
+      "answers": [
+        "Does this role require regular attendance?"
+      ],
+      "notes": "attendance：出勤",
+      "tags": [
+        "社区服务",
+        "报名"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0002",
+      "zh": "我能帮忙，但每次时间有限。",
+      "en": "I can help, but my time is limited.",
+      "answers": [
+        "I can help, but my time is limited."
+      ],
+      "notes": "limited：有限",
+      "tags": [
+        "社区服务",
+        "报名"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0003",
+      "zh": "报名表没有列出年龄要求。",
+      "en": "The form omits the age requirement.",
+      "answers": [
+        "The form omits the age requirement."
+      ],
+      "notes": "omit：遗漏",
+      "tags": [
+        "社区服务",
+        "报名"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0004",
+      "zh": "活动是否提供必要培训？",
+      "en": "Is training provided for this activity?",
+      "answers": [
+        "Is training provided for this activity?"
+      ],
+      "notes": "provided：提供",
+      "tags": [
+        "社区服务",
+        "报名"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0005",
+      "zh": "我想了解实际承担的任务。",
+      "en": "I want to understand the practical duties.",
+      "answers": [
+        "I want to understand the practical duties."
+      ],
+      "notes": "duty：任务",
+      "tags": [
+        "社区服务",
+        "报名"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0006",
+      "zh": "志愿者需要提前登记。",
+      "en": "Volunteers need to register beforehand.",
+      "answers": [
+        "Volunteers need to register beforehand."
+      ],
+      "notes": "beforehand：提前",
+      "tags": [
+        "社区服务",
+        "报名"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0007",
+      "zh": "我不方便搬运重物。",
+      "en": "I cannot comfortably handle heavy loads.",
+      "answers": [
+        "I cannot comfortably handle heavy loads.",
+        "I can't comfortably handle heavy loads."
+      ],
+      "notes": "load：重物",
+      "tags": [
+        "社区服务",
+        "报名"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0008",
+      "zh": "我可以协助翻译文字。",
+      "en": "I can help translate written material.",
+      "answers": [
+        "I can help translate written material."
+      ],
+      "notes": "written material：文字材料",
+      "tags": [
+        "社区服务",
+        "报名"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0009",
+      "zh": "有没有适合初次参加者的安排？",
+      "en": "Are there arrangements for first-time volunteers?",
+      "answers": [
+        "Are there arrangements for first-time volunteers?"
+      ],
+      "notes": "first-time：首次",
+      "tags": [
+        "社区服务",
+        "报名"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0010",
+      "zh": "我们应明确双方的期待。",
+      "en": "We should clarify expectations on both sides.",
+      "answers": [
+        "We should clarify expectations on both sides."
+      ],
+      "notes": "expectation：期待",
+      "tags": [
+        "社区服务",
+        "报名"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0011",
+      "zh": "入口需要有人引导。",
+      "en": "Someone needs to guide people at the entrance.",
+      "answers": [
+        "Someone needs to guide people at the entrance."
+      ],
+      "notes": "guide：引导",
+      "tags": [
+        "社区服务",
+        "接待"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0012",
+      "zh": "请先确认访客要去哪里。",
+      "en": "First check where the visitor needs to go.",
+      "answers": [
+        "First check where the visitor needs to go."
+      ],
+      "notes": "where 从句",
+      "tags": [
+        "社区服务",
+        "接待"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0013",
+      "zh": "这份地图标出了无障碍通道。",
+      "en": "This map marks the accessible route.",
+      "answers": [
+        "This map marks the accessible route."
+      ],
+      "notes": "accessible：无障碍",
+      "tags": [
+        "社区服务",
+        "接待"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0014",
+      "zh": "等候区在门的右边。",
+      "en": "The waiting area is to the right of the door.",
+      "answers": [
+        "The waiting area is to the right of the door."
+      ],
+      "notes": "to the right",
+      "tags": [
+        "社区服务",
+        "接待"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0015",
+      "zh": "我们会按到达顺序登记。",
+      "en": "We register people in order of arrival.",
+      "answers": [
+        "We register people in order of arrival."
+      ],
+      "notes": "in order of",
+      "tags": [
+        "社区服务",
+        "接待"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0016",
+      "zh": "我找不到你的姓名标签。",
+      "en": "I cannot find your name badge.",
+      "answers": [
+        "I cannot find your name badge.",
+        "I can't find your name badge."
+      ],
+      "notes": "badge：名牌",
+      "tags": [
+        "社区服务",
+        "接待"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0017",
+      "zh": "请不要堵住主要出口。",
+      "en": "Please keep the main exit clear.",
+      "answers": [
+        "Please keep the main exit clear."
+      ],
+      "notes": "keep clear",
+      "tags": [
+        "社区服务",
+        "接待"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0018",
+      "zh": "需要口译的人可以到这里咨询。",
+      "en": "Anyone needing an interpreter can ask here.",
+      "answers": [
+        "Anyone needing an interpreter can ask here."
+      ],
+      "notes": "needing 作定语",
+      "tags": [
+        "社区服务",
+        "接待"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0019",
+      "zh": "我会带你去登记处。",
+      "en": "I will take you to registration.",
+      "answers": [
+        "I will take you to registration."
+      ],
+      "notes": "registration：登记处",
+      "tags": [
+        "社区服务",
+        "接待"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0020",
+      "zh": "今天的安排有所调整。",
+      "en": "Today's arrangements have changed.",
+      "answers": [
+        "Today's arrangements have changed."
+      ],
+      "notes": "现在完成时",
+      "tags": [
+        "社区服务",
+        "接待"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0021",
+      "zh": "捐赠品需要按用途分类。",
+      "en": "Donations need sorting by purpose.",
+      "answers": [
+        "Donations need sorting by purpose."
+      ],
+      "notes": "sort by：按……分类",
+      "tags": [
+        "社区服务",
+        "物资"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0022",
+      "zh": "这批物资缺少数量标签。",
+      "en": "This batch lacks quantity labels.",
+      "answers": [
+        "This batch lacks quantity labels."
+      ],
+      "notes": "quantity：数量",
+      "tags": [
+        "社区服务",
+        "物资"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0023",
+      "zh": "先发放最急需的用品。",
+      "en": "Distribute the most urgently needed supplies first.",
+      "answers": [
+        "Distribute the most urgently needed supplies first."
+      ],
+      "notes": "distribute：发放",
+      "tags": [
+        "社区服务",
+        "物资"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0024",
+      "zh": "我们需要保存领用记录。",
+      "en": "We need records of items issued.",
+      "answers": [
+        "We need records of items issued."
+      ],
+      "notes": "issue：发放",
+      "tags": [
+        "社区服务",
+        "物资"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0025",
+      "zh": "破损物品应单独放置。",
+      "en": "Damaged items should be set aside.",
+      "answers": [
+        "Damaged items should be set aside."
+      ],
+      "notes": "set aside：分开放",
+      "tags": [
+        "社区服务",
+        "物资"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0026",
+      "zh": "这个箱子上没有内容说明。",
+      "en": "This box has no contents label.",
+      "answers": [
+        "This box has no contents label."
+      ],
+      "notes": "contents：内装物",
+      "tags": [
+        "社区服务",
+        "物资"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0027",
+      "zh": "食品捐赠有专门的接收规定。",
+      "en": "Food donations have specific acceptance rules.",
+      "answers": [
+        "Food donations have specific acceptance rules."
+      ],
+      "notes": "acceptance：接收",
+      "tags": [
+        "社区服务",
+        "物资"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0028",
+      "zh": "我负责清点剩余库存。",
+      "en": "I am responsible for the remaining stock count.",
+      "answers": [
+        "I am responsible for the remaining stock count."
+      ],
+      "notes": "stock count：盘点",
+      "tags": [
+        "社区服务",
+        "物资"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0029",
+      "zh": "运输需要考虑体积，不只是重量。",
+      "en": "Transport planning needs volume as well as weight.",
+      "answers": [
+        "Transport planning needs volume as well as weight."
+      ],
+      "notes": "volume：体积",
+      "tags": [
+        "社区服务",
+        "物资"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0030",
+      "zh": "我们不能承诺尚未收到的物资。",
+      "en": "We cannot promise supplies not yet received.",
+      "answers": [
+        "We cannot promise supplies not yet received.",
+        "We can't promise supplies not yet received."
+      ],
+      "notes": "received：收到的",
+      "tags": [
+        "社区服务",
+        "物资"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0031",
+      "zh": "场地容量限制了参加人数。",
+      "en": "The venue capacity limits attendance.",
+      "answers": [
+        "The venue capacity limits attendance."
+      ],
+      "notes": "capacity：容量",
+      "tags": [
+        "社区服务",
+        "社区活动"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0032",
+      "zh": "我们需要一份雨天备用安排。",
+      "en": "We need a wet-weather alternative.",
+      "answers": [
+        "We need a wet-weather alternative."
+      ],
+      "notes": "alternative：替代安排",
+      "tags": [
+        "社区服务",
+        "社区活动"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0033",
+      "zh": "活动说明要使用清楚的语言。",
+      "en": "The instructions need plain language.",
+      "answers": [
+        "The instructions need plain language."
+      ],
+      "notes": "plain language：易懂语言",
+      "tags": [
+        "社区服务",
+        "社区活动"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0034",
+      "zh": "儿童必须由指定成人陪同。",
+      "en": "Children must have a designated adult accompanying them.",
+      "answers": [
+        "Children must have a designated adult accompanying them."
+      ],
+      "notes": "designated：指定的",
+      "tags": [
+        "社区服务",
+        "社区活动"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0035",
+      "zh": "报名人数超过了预期。",
+      "en": "Registrations exceeded expectations.",
+      "answers": [
+        "Registrations exceeded expectations."
+      ],
+      "notes": "exceed：超过",
+      "tags": [
+        "社区服务",
+        "社区活动"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0036",
+      "zh": "我们能否增加一场说明会？",
+      "en": "Could we add an information session?",
+      "answers": [
+        "Could we add an information session?"
+      ],
+      "notes": "session：一场活动",
+      "tags": [
+        "社区服务",
+        "社区活动"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0037",
+      "zh": "音响设备需要提前测试。",
+      "en": "The sound equipment needs an advance check.",
+      "answers": [
+        "The sound equipment needs an advance check."
+      ],
+      "notes": "advance：提前",
+      "tags": [
+        "社区服务",
+        "社区活动"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0038",
+      "zh": "结束后留出清理时间。",
+      "en": "Allow time for clearing up afterwards.",
+      "answers": [
+        "Allow time for clearing up afterwards."
+      ],
+      "notes": "clear up：清理",
+      "tags": [
+        "社区服务",
+        "社区活动"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0039",
+      "zh": "活动不应阻碍附近居民通行。",
+      "en": "The event should not block residents' access.",
+      "answers": [
+        "The event should not block residents' access.",
+        "The event shouldn't block residents' access."
+      ],
+      "notes": "access：通行",
+      "tags": [
+        "社区服务",
+        "社区活动"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0040",
+      "zh": "我们想听听没有参加者的意见。",
+      "en": "We want feedback from non-participants too.",
+      "answers": [
+        "We want feedback from non-participants too."
+      ],
+      "notes": "non-participant：未参加者",
+      "tags": [
+        "社区服务",
+        "社区活动"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0041",
+      "zh": "这份材料有大字版吗？",
+      "en": "Is a large-print version available?",
+      "answers": [
+        "Is a large-print version available?"
+      ],
+      "notes": "large-print：大字版",
+      "tags": [
+        "社区服务",
+        "照顾不同需要"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0042",
+      "zh": "讲解速度需要让大家跟上。",
+      "en": "The explanation needs a pace everyone can follow.",
+      "answers": [
+        "The explanation needs a pace everyone can follow."
+      ],
+      "notes": "pace：节奏",
+      "tags": [
+        "社区服务",
+        "照顾不同需要"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0043",
+      "zh": "我们提供安静的休息角落。",
+      "en": "We provide a quiet place to pause.",
+      "answers": [
+        "We provide a quiet place to pause."
+      ],
+      "notes": "pause：休息",
+      "tags": [
+        "社区服务",
+        "照顾不同需要"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0044",
+      "zh": "不要假设所有人都会上网。",
+      "en": "Do not assume everyone uses the internet.",
+      "answers": [
+        "Do not assume everyone uses the internet.",
+        "Don't assume everyone uses the internet."
+      ],
+      "notes": "assume：假设",
+      "tags": [
+        "社区服务",
+        "照顾不同需要"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0045",
+      "zh": "可以用不同方式提交意见。",
+      "en": "Feedback can be submitted in different ways.",
+      "answers": [
+        "Feedback can be submitted in different ways."
+      ],
+      "notes": "submit：提交",
+      "tags": [
+        "社区服务",
+        "照顾不同需要"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0046",
+      "zh": "椅子之间要留出轮椅空间。",
+      "en": "Leave wheelchair space between the chairs.",
+      "answers": [
+        "Leave wheelchair space between the chairs."
+      ],
+      "notes": "wheelchair space",
+      "tags": [
+        "社区服务",
+        "照顾不同需要"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0047",
+      "zh": "图片应配上文字说明。",
+      "en": "Images should have written descriptions.",
+      "answers": [
+        "Images should have written descriptions."
+      ],
+      "notes": "description：说明",
+      "tags": [
+        "社区服务",
+        "照顾不同需要"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0048",
+      "zh": "我们需要了解实际障碍是什么。",
+      "en": "We need to understand the actual barrier.",
+      "answers": [
+        "We need to understand the actual barrier."
+      ],
+      "notes": "barrier：障碍",
+      "tags": [
+        "社区服务",
+        "照顾不同需要"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0049",
+      "zh": "提供帮助之前，先问对方是否需要。",
+      "en": "Ask whether help is wanted before stepping in.",
+      "answers": [
+        "Ask whether help is wanted before stepping in."
+      ],
+      "notes": "step in：介入帮忙；避免把主动介入视为理所当然。",
+      "tags": [
+        "社区服务",
+        "照顾不同需要"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0050",
+      "zh": "尊重个人选择也是支持的一部分。",
+      "en": "Respecting choice is part of support.",
+      "answers": [
+        "Respecting choice is part of support."
+      ],
+      "notes": "动名词主语",
+      "tags": [
+        "社区服务",
+        "照顾不同需要"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0051",
+      "zh": "每个班次需要一位联系人。",
+      "en": "Each shift needs a contact person.",
+      "answers": [
+        "Each shift needs a contact person."
+      ],
+      "notes": "shift：班次",
+      "tags": [
+        "社区服务",
+        "协作"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0052",
+      "zh": "我会把重要情况交给下一班。",
+      "en": "I will pass key information to the next shift.",
+      "answers": [
+        "I will pass key information to the next shift."
+      ],
+      "notes": "pass to：交给",
+      "tags": [
+        "社区服务",
+        "协作"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0053",
+      "zh": "任务变化后应更新名单。",
+      "en": "Update the roster when duties change.",
+      "answers": [
+        "Update the roster when duties change."
+      ],
+      "notes": "roster：排班表",
+      "tags": [
+        "社区服务",
+        "协作"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0054",
+      "zh": "我们需要防止两个人重复处理。",
+      "en": "We need to prevent duplicate effort.",
+      "answers": [
+        "We need to prevent duplicate effort."
+      ],
+      "notes": "duplicate：重复",
+      "tags": [
+        "社区服务",
+        "协作"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0055",
+      "zh": "请说明你已经完成了什么。",
+      "en": "Please state what you have completed.",
+      "answers": [
+        "Please state what you have completed."
+      ],
+      "notes": "what 从句",
+      "tags": [
+        "社区服务",
+        "协作"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0056",
+      "zh": "我现在需要另一位志愿者协助。",
+      "en": "I need another volunteer's assistance now.",
+      "answers": [
+        "I need another volunteer's assistance now."
+      ],
+      "notes": "assistance：协助",
+      "tags": [
+        "社区服务",
+        "协作"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0057",
+      "zh": "不要把个人号码公开张贴。",
+      "en": "Do not post personal numbers publicly.",
+      "answers": [
+        "Do not post personal numbers publicly.",
+        "Don't post personal numbers publicly."
+      ],
+      "notes": "publicly：公开地",
+      "tags": [
+        "社区服务",
+        "协作"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0058",
+      "zh": "我们用统一渠道沟通变更。",
+      "en": "We use one channel for changes.",
+      "answers": [
+        "We use one channel for changes."
+      ],
+      "notes": "channel：渠道",
+      "tags": [
+        "社区服务",
+        "协作"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0059",
+      "zh": "遇到无法解决的问题要升级处理。",
+      "en": "Escalate issues you cannot resolve.",
+      "answers": [
+        "Escalate issues you cannot resolve.",
+        "Escalate issues you can't resolve."
+      ],
+      "notes": "escalate：升级处理",
+      "tags": [
+        "社区服务",
+        "协作"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0060",
+      "zh": "我可以接替最后半小时。",
+      "en": "I can cover the final half hour.",
+      "answers": [
+        "I can cover the final half hour."
+      ],
+      "notes": "cover：代班",
+      "tags": [
+        "社区服务",
+        "协作"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0061",
+      "zh": "受助者可以拒绝拍照。",
+      "en": "Recipients may refuse to be photographed.",
+      "answers": [
+        "Recipients may refuse to be photographed."
+      ],
+      "notes": "recipient：受助者",
+      "tags": [
+        "社区服务",
+        "尊重与边界"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0062",
+      "zh": "个人故事不能未经同意传播。",
+      "en": "Personal stories must not circulate without consent.",
+      "answers": [
+        "Personal stories must not circulate without consent.",
+        "Personal stories mustn't circulate without consent."
+      ],
+      "notes": "consent：同意",
+      "tags": [
+        "社区服务",
+        "尊重与边界"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0063",
+      "zh": "我们不应承诺超出自身能力范围的帮助。",
+      "en": "We should not promise help beyond our competence.",
+      "answers": [
+        "We should not promise help beyond our competence.",
+        "We shouldn't promise help beyond our competence."
+      ],
+      "notes": "beyond our competence：超出能力范围。",
+      "tags": [
+        "社区服务",
+        "尊重与边界"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0064",
+      "zh": "尊严不应以接受帮助为代价。",
+      "en": "Receiving help should not cost someone their dignity.",
+      "answers": [
+        "Receiving help should not cost someone their dignity.",
+        "Receiving help shouldn't cost someone their dignity."
+      ],
+      "notes": "dignity：尊严",
+      "tags": [
+        "社区服务",
+        "尊重与边界"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0065",
+      "zh": "请不要在公开场合讨论个案。",
+      "en": "Please do not discuss individual cases in public.",
+      "answers": [
+        "Please do not discuss individual cases in public.",
+        "Please don't discuss individual cases in public."
+      ],
+      "notes": "individual case：个案",
+      "tags": [
+        "社区服务",
+        "尊重与边界"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0066",
+      "zh": "我需要了解保密规则。",
+      "en": "I need to understand the confidentiality rules.",
+      "answers": [
+        "I need to understand the confidentiality rules."
+      ],
+      "notes": "confidentiality：保密",
+      "tags": [
+        "社区服务",
+        "尊重与边界"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0067",
+      "zh": "我们提供信息，但不替别人决定。",
+      "en": "We offer information without deciding for others.",
+      "answers": [
+        "We offer information without deciding for others."
+      ],
+      "notes": "without doing",
+      "tags": [
+        "社区服务",
+        "尊重与边界"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0068",
+      "zh": "拒绝参与不应影响其他服务。",
+      "en": "Declining participation should not affect other services.",
+      "answers": [
+        "Declining participation should not affect other services.",
+        "Declining participation shouldn't affect other services."
+      ],
+      "notes": "decline：拒绝",
+      "tags": [
+        "社区服务",
+        "尊重与边界"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0069",
+      "zh": "受助者的意见需要认真记录。",
+      "en": "Recipients' views need careful recording.",
+      "answers": [
+        "Recipients' views need careful recording."
+      ],
+      "notes": "view：意见",
+      "tags": [
+        "社区服务",
+        "尊重与边界"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0070",
+      "zh": "关系熟悉也不能忽略边界。",
+      "en": "Familiarity does not remove boundaries.",
+      "answers": [
+        "Familiarity does not remove boundaries.",
+        "Familiarity doesn't remove boundaries."
+      ],
+      "notes": "boundary：边界",
+      "tags": [
+        "社区服务",
+        "尊重与边界"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0071",
+      "zh": "公共花园需要一份维护轮值表。",
+      "en": "The shared garden needs a maintenance rota.",
+      "answers": [
+        "The shared garden needs a maintenance rota."
+      ],
+      "notes": "maintenance rota：维护轮值表。",
+      "tags": [
+        "社区服务",
+        "邻里事务"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0072",
+      "zh": "有人提出增加垃圾桶。",
+      "en": "Someone proposed additional bins.",
+      "answers": [
+        "Someone proposed additional bins."
+      ],
+      "notes": "propose：提议",
+      "tags": [
+        "社区服务",
+        "邻里事务"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0073",
+      "zh": "这项安排影响整个楼栋。",
+      "en": "This arrangement affects the whole building.",
+      "answers": [
+        "This arrangement affects the whole building."
+      ],
+      "notes": "affect：影响",
+      "tags": [
+        "社区服务",
+        "邻里事务"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0074",
+      "zh": "我们需要通知没有加入群聊的人。",
+      "en": "We need to inform people outside the group chat.",
+      "answers": [
+        "We need to inform people outside the group chat."
+      ],
+      "notes": "inform：通知",
+      "tags": [
+        "社区服务",
+        "邻里事务"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0075",
+      "zh": "会议记录可以张贴在公告栏。",
+      "en": "The minutes can go on the noticeboard.",
+      "answers": [
+        "The minutes can go on the noticeboard."
+      ],
+      "notes": "noticeboard：公告栏",
+      "tags": [
+        "社区服务",
+        "邻里事务"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0076",
+      "zh": "投票前先说明所有选项。",
+      "en": "Explain every option before the vote.",
+      "answers": [
+        "Explain every option before the vote."
+      ],
+      "notes": "vote：投票",
+      "tags": [
+        "社区服务",
+        "邻里事务"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0077",
+      "zh": "噪声记录应包括时间与持续长度。",
+      "en": "Noise records should include timing and duration.",
+      "answers": [
+        "Noise records should include timing and duration."
+      ],
+      "notes": "duration：时长",
+      "tags": [
+        "社区服务",
+        "邻里事务"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0078",
+      "zh": "邻里争议需要双方都有机会说话。",
+      "en": "Neighbour disputes need both sides to be heard.",
+      "answers": [
+        "Neighbour disputes need both sides to be heard."
+      ],
+      "notes": "dispute：争议",
+      "tags": [
+        "社区服务",
+        "邻里事务"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "community_volunteering_v3_0079",
+      "zh": "我们轮流负责给公共活动室锁门吧，免得总由一个邻居承担。",
+      "en": "Let's rotate responsibility for locking the shared room so it does not fall to one neighbour.",
+      "answers": [
+        "Let's rotate responsibility for locking the shared room so it does not fall to one neighbour.",
+        "Let's rotate responsibility for locking the shared room so it doesn't fall to one neighbour."
+      ],
+      "notes": "rotate responsibility：轮流负责；fall to：由某人承担。",
+      "tags": [
+        "社区服务",
+        "邻里事务"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0080",
+      "zh": "没人回应不代表大家都同意。",
+      "en": "No response does not mean universal agreement.",
+      "answers": [
+        "No response does not mean universal agreement.",
+        "No response doesn't mean universal agreement."
+      ],
+      "notes": "universal：所有人的",
+      "tags": [
+        "社区服务",
+        "邻里事务"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0081",
+      "zh": "筹款目标需要清楚说明。",
+      "en": "The fundraising goal needs a clear explanation.",
+      "answers": [
+        "The fundraising goal needs a clear explanation."
+      ],
+      "notes": "fundraising：筹款",
+      "tags": [
+        "社区服务",
+        "筹款"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0082",
+      "zh": "我们应公开资金的具体用途。",
+      "en": "We should disclose how funds will be used.",
+      "answers": [
+        "We should disclose how funds will be used."
+      ],
+      "notes": "disclose：公开",
+      "tags": [
+        "社区服务",
+        "筹款"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0083",
+      "zh": "捐款人可以选择不署名。",
+      "en": "Donors can choose anonymity.",
+      "answers": [
+        "Donors can choose anonymity."
+      ],
+      "notes": "donor：捐款人",
+      "tags": [
+        "社区服务",
+        "筹款"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0084",
+      "zh": "手续费会减少实际收到的金额。",
+      "en": "Processing fees reduce the amount received.",
+      "answers": [
+        "Processing fees reduce the amount received."
+      ],
+      "notes": "processing fee：手续费",
+      "tags": [
+        "社区服务",
+        "筹款"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0085",
+      "zh": "这笔钱限定用于指定项目。",
+      "en": "This money is restricted to a designated project.",
+      "answers": [
+        "This money is restricted to a designated project."
+      ],
+      "notes": "restricted to：限用于",
+      "tags": [
+        "社区服务",
+        "筹款"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0086",
+      "zh": "我们需要保存收支凭证。",
+      "en": "We need evidence of income and expenditure.",
+      "answers": [
+        "We need evidence of income and expenditure."
+      ],
+      "notes": "expenditure：支出",
+      "tags": [
+        "社区服务",
+        "筹款"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0087",
+      "zh": "捐款不是购买服务。",
+      "en": "A donation is not a service purchase.",
+      "answers": [
+        "A donation is not a service purchase.",
+        "A donation isn't a service purchase."
+      ],
+      "notes": "purchase：购买",
+      "tags": [
+        "社区服务",
+        "筹款"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0088",
+      "zh": "活动成本也应列在报告里。",
+      "en": "Event costs belong in the report too.",
+      "answers": [
+        "Event costs belong in the report too."
+      ],
+      "notes": "belong in：应列入",
+      "tags": [
+        "社区服务",
+        "筹款"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0089",
+      "zh": "超额募集的资金将如何处理？",
+      "en": "How will surplus funds be handled?",
+      "answers": [
+        "How will surplus funds be handled?"
+      ],
+      "notes": "surplus：多余",
+      "tags": [
+        "社区服务",
+        "筹款"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0090",
+      "zh": "我们会向支持者反馈结果。",
+      "en": "We will report outcomes to supporters.",
+      "answers": [
+        "We will report outcomes to supporters."
+      ],
+      "notes": "outcome：结果",
+      "tags": [
+        "社区服务",
+        "筹款"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0091",
+      "zh": "参加人数不能说明所有成效。",
+      "en": "Attendance figures do not capture every benefit.",
+      "answers": [
+        "Attendance figures do not capture every benefit.",
+        "Attendance figures don't capture every benefit."
+      ],
+      "notes": "capture：反映",
+      "tags": [
+        "社区服务",
+        "回顾"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0092",
+      "zh": "最需要服务的人可能没有到场。",
+      "en": "Those most in need may not have attended.",
+      "answers": [
+        "Those most in need may not have attended."
+      ],
+      "notes": "those：那些人",
+      "tags": [
+        "社区服务",
+        "回顾"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "community_volunteering_v3_0093",
+      "zh": "我们需要了解缺席的原因。",
+      "en": "We need to understand the reasons for absence.",
+      "answers": [
+        "We need to understand the reasons for absence."
+      ],
+      "notes": "absence：缺席",
+      "tags": [
+        "社区服务",
+        "回顾"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0094",
+      "zh": "志愿者也需要休息安排。",
+      "en": "Volunteers need breaks too.",
+      "answers": [
+        "Volunteers need breaks too."
+      ],
+      "notes": "break：休息",
+      "tags": [
+        "社区服务",
+        "回顾"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0095",
+      "zh": "这个流程让登记更公平。",
+      "en": "This process makes registration fairer.",
+      "answers": [
+        "This process makes registration fairer."
+      ],
+      "notes": "make + 宾语 + 形容词",
+      "tags": [
+        "社区服务",
+        "回顾"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0096",
+      "zh": "反馈应包含不满意的声音。",
+      "en": "Feedback should include dissatisfied voices.",
+      "answers": [
+        "Feedback should include dissatisfied voices."
+      ],
+      "notes": "dissatisfied：不满意",
+      "tags": [
+        "社区服务",
+        "回顾"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0097",
+      "zh": "我们发现了之前忽略的需求。",
+      "en": "We discovered a previously overlooked need.",
+      "answers": [
+        "We discovered a previously overlooked need."
+      ],
+      "notes": "overlooked：忽略的",
+      "tags": [
+        "社区服务",
+        "回顾"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0098",
+      "zh": "下次需要更早联系场地方。",
+      "en": "Next time we need earlier contact with the venue.",
+      "answers": [
+        "Next time we need earlier contact with the venue."
+      ],
+      "notes": "earlier contact",
+      "tags": [
+        "社区服务",
+        "回顾"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0099",
+      "zh": "项目结束后仍要保留求助渠道。",
+      "en": "A support contact should remain after the project.",
+      "answers": [
+        "A support contact should remain after the project."
+      ],
+      "notes": "remain：保留",
+      "tags": [
+        "社区服务",
+        "回顾"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "community_volunteering_v3_0100",
+      "zh": "感谢应覆盖幕后工作的人。",
+      "en": "Thanks should include those working behind the scenes.",
+      "answers": [
+        "Thanks should include those working behind the scenes."
+      ],
+      "notes": "behind the scenes",
+      "tags": [
+        "社区服务",
+        "回顾"
+      ],
+      "difficulty": 3
+    }
+  ]
+}

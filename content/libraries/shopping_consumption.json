@@ -1,0 +1,1426 @@
+{
+  "schema_version": 1,
+  "id": "shopping_consumption",
+  "title": "购物与消费决策 · 100 句",
+  "description": "尺寸、材质、洗护、比价、订单、配送、退换、耐用品、二手交易与消费判断。",
+  "language": "en-GB",
+  "tags": [
+    "购物消费",
+    "逐题讲解"
+  ],
+  "items": [
+    {
+      "id": "shopping_consumption_v3_0001",
+      "zh": "腰围合适，但袖子太长。",
+      "en": "The waist fits, but the sleeves are too long.",
+      "answers": [
+        "The waist fits, but the sleeves are too long."
+      ],
+      "notes": "sleeve：袖子",
+      "tags": [
+        "购物消费",
+        "服装尺寸"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0002",
+      "zh": "这件衣服的肩部很紧。",
+      "en": "This garment is tight across the shoulders.",
+      "answers": [
+        "This garment is tight across the shoulders."
+      ],
+      "notes": "across：横跨",
+      "tags": [
+        "购物消费",
+        "服装尺寸"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0003",
+      "zh": "我想试穿后再决定。",
+      "en": "I want to try it on before deciding.",
+      "answers": [
+        "I want to try it on before deciding."
+      ],
+      "notes": "try on：试穿",
+      "tags": [
+        "购物消费",
+        "服装尺寸"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0004",
+      "zh": "不同品牌的尺码差别很大。",
+      "en": "Sizes vary considerably between brands.",
+      "answers": [
+        "Sizes vary considerably between brands."
+      ],
+      "notes": "vary：不同",
+      "tags": [
+        "购物消费",
+        "服装尺寸"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0005",
+      "zh": "这双鞋的鞋头太窄。",
+      "en": "The toe box is too narrow.",
+      "answers": [
+        "The toe box is too narrow."
+      ],
+      "notes": "toe box：鞋头空间",
+      "tags": [
+        "购物消费",
+        "服装尺寸"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0006",
+      "zh": "还有更宽松的剪裁吗？",
+      "en": "Is there a more relaxed cut?",
+      "answers": [
+        "Is there a more relaxed cut?"
+      ],
+      "notes": "cut：剪裁",
+      "tags": [
+        "购物消费",
+        "服装尺寸"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0007",
+      "zh": "我需要量一下内侧裤长。",
+      "en": "I need to measure the inside leg.",
+      "answers": [
+        "I need to measure the inside leg."
+      ],
+      "notes": "inside leg：内侧裤长",
+      "tags": [
+        "购物消费",
+        "服装尺寸"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0008",
+      "zh": "这件外套能盖住膝盖。",
+      "en": "This coat reaches below my knees.",
+      "answers": [
+        "This coat reaches below my knees."
+      ],
+      "notes": "reach：延伸到",
+      "tags": [
+        "购物消费",
+        "服装尺寸"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0009",
+      "zh": "穿上以后布料会撑开吗？",
+      "en": "Will the fabric stretch with wear?",
+      "answers": [
+        "Will the fabric stretch with wear?"
+      ],
+      "notes": "stretch：伸展",
+      "tags": [
+        "购物消费",
+        "服装尺寸"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0010",
+      "zh": "镜子里看到的颜色与日光下看到的不同。",
+      "en": "The colour in the mirror differs from what I see in daylight.",
+      "answers": [
+        "The colour in the mirror differs from what I see in daylight."
+      ],
+      "notes": "differ from：不同于；what 引导名词性从句。",
+      "tags": [
+        "购物消费",
+        "服装尺寸"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "shopping_consumption_v3_0011",
+      "zh": "标签上写着纯棉。",
+      "en": "The label says pure cotton.",
+      "answers": [
+        "The label says pure cotton."
+      ],
+      "notes": "pure cotton：纯棉",
+      "tags": [
+        "购物消费",
+        "材质与做工"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0012",
+      "zh": "接缝处有松线。",
+      "en": "There are loose threads at the seam.",
+      "answers": [
+        "There are loose threads at the seam."
+      ],
+      "notes": "thread：线",
+      "tags": [
+        "购物消费",
+        "材质与做工"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0013",
+      "zh": "这个面料摸起来扎手。",
+      "en": "This fabric feels scratchy.",
+      "answers": [
+        "This fabric feels scratchy."
+      ],
+      "notes": "scratchy：扎的",
+      "tags": [
+        "购物消费",
+        "材质与做工"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0014",
+      "zh": "皮带扣有一道划痕。",
+      "en": "The buckle has a scratch.",
+      "answers": [
+        "The buckle has a scratch."
+      ],
+      "notes": "buckle：扣",
+      "tags": [
+        "购物消费",
+        "材质与做工"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0015",
+      "zh": "鞋子的内衬起皱了。",
+      "en": "The shoe lining is wrinkled.",
+      "answers": [
+        "The shoe lining is wrinkled."
+      ],
+      "notes": "lining：内衬",
+      "tags": [
+        "购物消费",
+        "材质与做工"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0016",
+      "zh": "这块布很容易起静电。",
+      "en": "This fabric builds up static easily.",
+      "answers": [
+        "This fabric builds up static easily."
+      ],
+      "notes": "static：静电",
+      "tags": [
+        "购物消费",
+        "材质与做工"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0017",
+      "zh": "边缘没有缝整齐。",
+      "en": "The edge is unevenly stitched.",
+      "answers": [
+        "The edge is unevenly stitched."
+      ],
+      "notes": "stitch：缝",
+      "tags": [
+        "购物消费",
+        "材质与做工"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0018",
+      "zh": "这件针织衫容易勾丝吗？",
+      "en": "Does this knitwear snag easily?",
+      "answers": [
+        "Does this knitwear snag easily?"
+      ],
+      "notes": "snag：勾丝",
+      "tags": [
+        "购物消费",
+        "材质与做工"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0019",
+      "zh": "我更喜欢可修补的材料。",
+      "en": "I prefer materials that can be repaired.",
+      "answers": [
+        "I prefer materials that can be repaired."
+      ],
+      "notes": "定语从句",
+      "tags": [
+        "购物消费",
+        "材质与做工"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0020",
+      "zh": "这件商品的做工与样品不同。",
+      "en": "The finish differs from the sample.",
+      "answers": [
+        "The finish differs from the sample."
+      ],
+      "notes": "finish：做工",
+      "tags": [
+        "购物消费",
+        "材质与做工"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0021",
+      "zh": "这件衣服只能手洗。",
+      "en": "This garment requires hand washing.",
+      "answers": [
+        "This garment requires hand washing."
+      ],
+      "notes": "hand washing：手洗",
+      "tags": [
+        "购物消费",
+        "洗护与使用"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0022",
+      "zh": "低温熨烫可以吗？",
+      "en": "Can it be ironed at low heat?",
+      "answers": [
+        "Can it be ironed at low heat?"
+      ],
+      "notes": "iron：熨烫",
+      "tags": [
+        "购物消费",
+        "洗护与使用"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0023",
+      "zh": "洗涤说明已经褪色。",
+      "en": "The care instructions have faded.",
+      "answers": [
+        "The care instructions have faded."
+      ],
+      "notes": "care instructions：洗护说明",
+      "tags": [
+        "购物消费",
+        "洗护与使用"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0024",
+      "zh": "是否应该避免使用衣物柔顺剂？",
+      "en": "Should fabric conditioner be avoided?",
+      "answers": [
+        "Should fabric conditioner be avoided?"
+      ],
+      "notes": "should 询问建议；fabric conditioner：衣物柔顺剂。",
+      "tags": [
+        "购物消费",
+        "洗护与使用"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0025",
+      "zh": "这条毯子适合烘干吗？",
+      "en": "Is this blanket suitable for tumble drying?",
+      "answers": [
+        "Is this blanket suitable for tumble drying?"
+      ],
+      "notes": "tumble drying：滚筒烘干",
+      "tags": [
+        "购物消费",
+        "洗护与使用"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0026",
+      "zh": "阳光直晒可能使颜色变淡。",
+      "en": "Direct sunlight may fade the colour.",
+      "answers": [
+        "Direct sunlight may fade the colour."
+      ],
+      "notes": "fade：使褪色",
+      "tags": [
+        "购物消费",
+        "洗护与使用"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0027",
+      "zh": "这个配件可以单独替换。",
+      "en": "This attachment can be replaced separately.",
+      "answers": [
+        "This attachment can be replaced separately."
+      ],
+      "notes": "attachment：配件",
+      "tags": [
+        "购物消费",
+        "洗护与使用"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0028",
+      "zh": "我想了解正确的清洁方式。",
+      "en": "I want the recommended cleaning method.",
+      "answers": [
+        "I want the recommended cleaning method."
+      ],
+      "notes": "recommended：建议的",
+      "tags": [
+        "购物消费",
+        "洗护与使用"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0029",
+      "zh": "说明书没有中文版本。",
+      "en": "The manual has no Chinese edition.",
+      "answers": [
+        "The manual has no Chinese edition."
+      ],
+      "notes": "edition：版本",
+      "tags": [
+        "购物消费",
+        "洗护与使用"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0030",
+      "zh": "保养会影响使用寿命。",
+      "en": "Maintenance affects the product's lifespan.",
+      "answers": [
+        "Maintenance affects the product's lifespan."
+      ],
+      "notes": "lifespan：寿命",
+      "tags": [
+        "购物消费",
+        "洗护与使用"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0031",
+      "zh": "大包装的单位价格更低。",
+      "en": "The larger pack has a lower unit price.",
+      "answers": [
+        "The larger pack has a lower unit price."
+      ],
+      "notes": "unit price：单价",
+      "tags": [
+        "购物消费",
+        "价格比较"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0032",
+      "zh": "优惠只适用于第二件。",
+      "en": "The offer applies only to the second item.",
+      "answers": [
+        "The offer applies only to the second item."
+      ],
+      "notes": "apply to：适用",
+      "tags": [
+        "购物消费",
+        "价格比较"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0033",
+      "zh": "这不是打折前实际收取的价格。",
+      "en": "This is not the price charged before the discount.",
+      "answers": [
+        "This is not the price charged before the discount.",
+        "This isn't the price charged before the discount."
+      ],
+      "notes": "charged 过去分词修饰 price，指实际收费。",
+      "tags": [
+        "购物消费",
+        "价格比较"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0034",
+      "zh": "运费让总价超过预算。",
+      "en": "Shipping takes the total over my budget.",
+      "answers": [
+        "Shipping takes the total over my budget."
+      ],
+      "notes": "over budget：超预算",
+      "tags": [
+        "购物消费",
+        "价格比较"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0035",
+      "zh": "会员价格需要年费。",
+      "en": "The member price requires an annual fee.",
+      "answers": [
+        "The member price requires an annual fee."
+      ],
+      "notes": "annual fee：年费",
+      "tags": [
+        "购物消费",
+        "价格比较"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0036",
+      "zh": "我想比较规格相当的产品。",
+      "en": "I want to compare products with equivalent specifications.",
+      "answers": [
+        "I want to compare products with equivalent specifications."
+      ],
+      "notes": "equivalent specifications：相当的规格。",
+      "tags": [
+        "购物消费",
+        "价格比较"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0037",
+      "zh": "折扣券不能叠加使用。",
+      "en": "The vouchers cannot be combined.",
+      "answers": [
+        "The vouchers cannot be combined.",
+        "The vouchers can't be combined."
+      ],
+      "notes": "voucher：优惠券",
+      "tags": [
+        "购物消费",
+        "价格比较"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0038",
+      "zh": "结账时还会增加税费吗？",
+      "en": "Will taxes be added at checkout?",
+      "answers": [
+        "Will taxes be added at checkout?"
+      ],
+      "notes": "checkout：结账",
+      "tags": [
+        "购物消费",
+        "价格比较"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0039",
+      "zh": "这个套餐包括我用不到的东西。",
+      "en": "This bundle includes things I will not use.",
+      "answers": [
+        "This bundle includes things I will not use.",
+        "This bundle includes things I won't use."
+      ],
+      "notes": "bundle：组合套餐",
+      "tags": [
+        "购物消费",
+        "价格比较"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0040",
+      "zh": "便宜不一定意味着更划算。",
+      "en": "Cheaper does not always mean better value.",
+      "answers": [
+        "Cheaper does not always mean better value.",
+        "Cheaper doesn't always mean better value."
+      ],
+      "notes": "value：性价比",
+      "tags": [
+        "购物消费",
+        "价格比较"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0041",
+      "zh": "商品图片没有展示背面。",
+      "en": "The product photographs omit the back view.",
+      "answers": [
+        "The product photographs omit the back view."
+      ],
+      "notes": "omit：遗漏",
+      "tags": [
+        "购物消费",
+        "网络订单"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0042",
+      "zh": "尺寸表与描述互相矛盾。",
+      "en": "The size chart contradicts the description.",
+      "answers": [
+        "The size chart contradicts the description."
+      ],
+      "notes": "contradict：矛盾",
+      "tags": [
+        "购物消费",
+        "网络订单"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0043",
+      "zh": "下单按钮一直是灰色。",
+      "en": "The order button remains greyed out.",
+      "answers": [
+        "The order button remains greyed out."
+      ],
+      "notes": "greyed out：不可用",
+      "tags": [
+        "购物消费",
+        "网络订单"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0044",
+      "zh": "购物车里多了一件商品。",
+      "en": "An extra item appeared in my basket.",
+      "answers": [
+        "An extra item appeared in my basket."
+      ],
+      "notes": "basket：购物车",
+      "tags": [
+        "购物消费",
+        "网络订单"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0045",
+      "zh": "优惠码显示已过期。",
+      "en": "The promotion code is marked as expired.",
+      "answers": [
+        "The promotion code is marked as expired."
+      ],
+      "notes": "expired：过期",
+      "tags": [
+        "购物消费",
+        "网络订单"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0046",
+      "zh": "我想取消预购商品的订单，现货商品的订单保留。",
+      "en": "Please cancel my preorder and keep the order for the in-stock item.",
+      "answers": [
+        "Please cancel my preorder and keep the order for the in-stock item."
+      ],
+      "notes": "preorder：预购订单；in-stock：有现货的。",
+      "tags": [
+        "购物消费",
+        "网络订单"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0047",
+      "zh": "订单被拆成两个包裹。",
+      "en": "The order was split into two parcels.",
+      "answers": [
+        "The order was split into two parcels."
+      ],
+      "notes": "split into：拆分",
+      "tags": [
+        "购物消费",
+        "网络订单"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0048",
+      "zh": "卖家尚未确认库存。",
+      "en": "The seller has not confirmed availability.",
+      "answers": [
+        "The seller has not confirmed availability.",
+        "The seller hasn't confirmed availability."
+      ],
+      "notes": "availability：有货情况",
+      "tags": [
+        "购物消费",
+        "网络订单"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0049",
+      "zh": "电子收据发到了旧邮箱。",
+      "en": "The electronic receipt went to my old email.",
+      "answers": [
+        "The electronic receipt went to my old email."
+      ],
+      "notes": "receipt：收据",
+      "tags": [
+        "购物消费",
+        "网络订单"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0050",
+      "zh": "付款成功后页面没有跳转。",
+      "en": "The page did not redirect after payment.",
+      "answers": [
+        "The page did not redirect after payment.",
+        "The page didn't redirect after payment."
+      ],
+      "notes": "redirect：跳转",
+      "tags": [
+        "购物消费",
+        "网络订单"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0051",
+      "zh": "包裹被留在了错误的楼栋。",
+      "en": "The parcel was left in the wrong building.",
+      "answers": [
+        "The parcel was left in the wrong building."
+      ],
+      "notes": "parcel：包裹",
+      "tags": [
+        "购物消费",
+        "配送"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0052",
+      "zh": "跟踪记录显示无人签收。",
+      "en": "The tracking record shows no signature.",
+      "answers": [
+        "The tracking record shows no signature."
+      ],
+      "notes": "tracking：物流追踪",
+      "tags": [
+        "购物消费",
+        "配送"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0053",
+      "zh": "外包装被压坏了。",
+      "en": "The outer packaging is crushed.",
+      "answers": [
+        "The outer packaging is crushed."
+      ],
+      "notes": "crush：压坏",
+      "tags": [
+        "购物消费",
+        "配送"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0054",
+      "zh": "配送员需要门禁密码。",
+      "en": "The courier needs an entry code.",
+      "answers": [
+        "The courier needs an entry code."
+      ],
+      "notes": "courier：快递员",
+      "tags": [
+        "购物消费",
+        "配送"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0055",
+      "zh": "我没有同意把包裹留在门外。",
+      "en": "I did not authorise leaving the parcel outside my door.",
+      "answers": [
+        "I did not authorise leaving the parcel outside my door.",
+        "I didn't authorise leaving the parcel outside my door."
+      ],
+      "notes": "authorise doing：许可某种处理方式。",
+      "tags": [
+        "购物消费",
+        "配送"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0056",
+      "zh": "大型家具需要预约送货时间。",
+      "en": "Large furniture requires a delivery appointment.",
+      "answers": [
+        "Large furniture requires a delivery appointment."
+      ],
+      "notes": "delivery appointment",
+      "tags": [
+        "购物消费",
+        "配送"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0057",
+      "zh": "楼内没有可用电梯。",
+      "en": "There is no usable lift in the building.",
+      "answers": [
+        "There is no usable lift in the building."
+      ],
+      "notes": "usable：可使用",
+      "tags": [
+        "购物消费",
+        "配送"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0058",
+      "zh": "搬上楼是否包含在费用中？",
+      "en": "Is carrying it upstairs included in the charge?",
+      "answers": [
+        "Is carrying it upstairs included in the charge?"
+      ],
+      "notes": "carrying：搬运",
+      "tags": [
+        "购物消费",
+        "配送"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0059",
+      "zh": "请别把箱子倒着放。",
+      "en": "Please do not place the box upside down.",
+      "answers": [
+        "Please do not place the box upside down.",
+        "Please don't place the box upside down."
+      ],
+      "notes": "upside down：倒置",
+      "tags": [
+        "购物消费",
+        "配送"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0060",
+      "zh": "两个箱子应该同时到达。",
+      "en": "The two boxes should arrive together.",
+      "answers": [
+        "The two boxes should arrive together."
+      ],
+      "notes": "together：一起",
+      "tags": [
+        "购物消费",
+        "配送"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0061",
+      "zh": "标签还在，但外袋丢了。",
+      "en": "The tag remains, but the outer bag is missing.",
+      "answers": [
+        "The tag remains, but the outer bag is missing."
+      ],
+      "notes": "tag：商品吊牌",
+      "tags": [
+        "购物消费",
+        "退换货"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0062",
+      "zh": "试用品也能退吗？",
+      "en": "Are trial products returnable?",
+      "answers": [
+        "Are trial products returnable?"
+      ],
+      "notes": "returnable：可退",
+      "tags": [
+        "购物消费",
+        "退换货"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0063",
+      "zh": "退货标签需要自己打印。",
+      "en": "I need to print the return label myself.",
+      "answers": [
+        "I need to print the return label myself."
+      ],
+      "notes": "return label：退货标签",
+      "tags": [
+        "购物消费",
+        "退换货"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0064",
+      "zh": "这个地址不接受上门退货。",
+      "en": "This address does not accept in-person returns.",
+      "answers": [
+        "This address does not accept in-person returns.",
+        "This address doesn't accept in-person returns."
+      ],
+      "notes": "in person：本人到场",
+      "tags": [
+        "购物消费",
+        "退换货"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "shopping_consumption_v3_0065",
+      "zh": "我需要一个可以追踪的退货凭证。",
+      "en": "I need traceable proof of return.",
+      "answers": [
+        "I need traceable proof of return."
+      ],
+      "notes": "traceable：可追踪",
+      "tags": [
+        "购物消费",
+        "退换货"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0066",
+      "zh": "换货会重新计算保修期吗？",
+      "en": "Does an exchange restart the warranty period?",
+      "answers": [
+        "Does an exchange restart the warranty period?"
+      ],
+      "notes": "warranty：保修",
+      "tags": [
+        "购物消费",
+        "退换货"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0067",
+      "zh": "退款扣除了我不理解的费用。",
+      "en": "The refund includes a deduction I do not understand.",
+      "answers": [
+        "The refund includes a deduction I do not understand.",
+        "The refund includes a deduction I don't understand."
+      ],
+      "notes": "deduction：扣款",
+      "tags": [
+        "购物消费",
+        "退换货"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "shopping_consumption_v3_0068",
+      "zh": "退回商品还没被登记。",
+      "en": "The returned item has not been logged.",
+      "answers": [
+        "The returned item has not been logged.",
+        "The returned item hasn't been logged."
+      ],
+      "notes": "log：登记",
+      "tags": [
+        "购物消费",
+        "退换货"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0069",
+      "zh": "他们提供的是商店余额，没有把钱退回原付款方式。",
+      "en": "They offered store credit instead of refunding my original payment method.",
+      "answers": [
+        "They offered store credit instead of refunding my original payment method."
+      ],
+      "notes": "store credit：商店余额；original payment method：原付款方式。",
+      "tags": [
+        "购物消费",
+        "退换货"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0070",
+      "zh": "我想保留取件的照片。",
+      "en": "I want to keep photographs of the collection.",
+      "answers": [
+        "I want to keep photographs of the collection."
+      ],
+      "notes": "collection：取件",
+      "tags": [
+        "购物消费",
+        "退换货"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0071",
+      "zh": "这个柜子需要自己组装。",
+      "en": "This cabinet requires self-assembly.",
+      "answers": [
+        "This cabinet requires self-assembly."
+      ],
+      "notes": "self-assembly：自行组装",
+      "tags": [
+        "购物消费",
+        "耐用品"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0072",
+      "zh": "零件袋里的螺丝少了两个。",
+      "en": "Two screws are missing from the parts bag.",
+      "answers": [
+        "Two screws are missing from the parts bag."
+      ],
+      "notes": "screw：螺丝",
+      "tags": [
+        "购物消费",
+        "耐用品"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0073",
+      "zh": "安装孔没有对齐。",
+      "en": "The mounting holes do not align.",
+      "answers": [
+        "The mounting holes do not align.",
+        "The mounting holes don't align."
+      ],
+      "notes": "align：对齐",
+      "tags": [
+        "购物消费",
+        "耐用品"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0074",
+      "zh": "承重限制写在哪里？",
+      "en": "Where is the load limit stated?",
+      "answers": [
+        "Where is the load limit stated?"
+      ],
+      "notes": "load limit：承重上限",
+      "tags": [
+        "购物消费",
+        "耐用品"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0075",
+      "zh": "这个桌面容易留下水印。",
+      "en": "This tabletop marks easily with water.",
+      "answers": [
+        "This tabletop marks easily with water."
+      ],
+      "notes": "mark：留痕",
+      "tags": [
+        "购物消费",
+        "耐用品"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0076",
+      "zh": "轮子能否锁住？",
+      "en": "Can the wheels be locked?",
+      "answers": [
+        "Can the wheels be locked?"
+      ],
+      "notes": "lock：锁定",
+      "tags": [
+        "购物消费",
+        "耐用品"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0077",
+      "zh": "我需要确认折叠后的尺寸。",
+      "en": "I need the dimensions when folded.",
+      "answers": [
+        "I need the dimensions when folded."
+      ],
+      "notes": "dimension：尺寸",
+      "tags": [
+        "购物消费",
+        "耐用品"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0078",
+      "zh": "替换滤芯是否容易买到？",
+      "en": "Are replacement filters readily available?",
+      "answers": [
+        "Are replacement filters readily available?"
+      ],
+      "notes": "readily available",
+      "tags": [
+        "购物消费",
+        "耐用品"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0079",
+      "zh": "备用零件会供应多久？",
+      "en": "How long will spare parts remain available?",
+      "answers": [
+        "How long will spare parts remain available?"
+      ],
+      "notes": "spare part：备件",
+      "tags": [
+        "购物消费",
+        "耐用品"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0080",
+      "zh": "维修点离我住处很远。",
+      "en": "The service centre is far from my home.",
+      "answers": [
+        "The service centre is far from my home."
+      ],
+      "notes": "service centre：维修点",
+      "tags": [
+        "购物消费",
+        "耐用品"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0081",
+      "zh": "卖家没有说明维修历史。",
+      "en": "The seller omitted the repair history.",
+      "answers": [
+        "The seller omitted the repair history."
+      ],
+      "notes": "repair history",
+      "tags": [
+        "购物消费",
+        "二手交易"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0082",
+      "zh": "我想现场检查后再付款。",
+      "en": "I want to inspect it before paying.",
+      "answers": [
+        "I want to inspect it before paying."
+      ],
+      "notes": "inspect：检查",
+      "tags": [
+        "购物消费",
+        "二手交易"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0083",
+      "zh": "这个划痕比照片里明显。",
+      "en": "The scratch is more obvious in person.",
+      "answers": [
+        "The scratch is more obvious in person."
+      ],
+      "notes": "in person：现场",
+      "tags": [
+        "购物消费",
+        "二手交易"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0084",
+      "zh": "所有原装配件还在吗？",
+      "en": "Are all the original accessories present?",
+      "answers": [
+        "Are all the original accessories present?"
+      ],
+      "notes": "accessory：配件",
+      "tags": [
+        "购物消费",
+        "二手交易"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "shopping_consumption_v3_0085",
+      "zh": "我不确定序列号是否清晰。",
+      "en": "I am unsure whether the serial number is legible.",
+      "answers": [
+        "I am unsure whether the serial number is legible."
+      ],
+      "notes": "legible：可辨认",
+      "tags": [
+        "购物消费",
+        "二手交易"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "shopping_consumption_v3_0086",
+      "zh": "电池使用时间明显缩短了。",
+      "en": "Battery life has noticeably decreased.",
+      "answers": [
+        "Battery life has noticeably decreased."
+      ],
+      "notes": "noticeably：明显",
+      "tags": [
+        "购物消费",
+        "二手交易"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0087",
+      "zh": "我可以请专业人员先检测。",
+      "en": "I can arrange a professional inspection first.",
+      "answers": [
+        "I can arrange a professional inspection first."
+      ],
+      "notes": "inspection：检测",
+      "tags": [
+        "购物消费",
+        "二手交易"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0088",
+      "zh": "这件商品已经停产。",
+      "en": "This product has been discontinued.",
+      "answers": [
+        "This product has been discontinued."
+      ],
+      "notes": "discontinue：停产",
+      "tags": [
+        "购物消费",
+        "二手交易"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0089",
+      "zh": "我们应把约定留成文字。",
+      "en": "We should keep a written record of our agreement.",
+      "answers": [
+        "We should keep a written record of our agreement."
+      ],
+      "notes": "written record",
+      "tags": [
+        "购物消费",
+        "二手交易"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0090",
+      "zh": "交易地点需要双方都方便。",
+      "en": "The meeting place needs to suit both parties.",
+      "answers": [
+        "The meeting place needs to suit both parties."
+      ],
+      "notes": "both parties：双方",
+      "tags": [
+        "购物消费",
+        "二手交易"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "shopping_consumption_v3_0091",
+      "zh": "我想等需求明确后再买。",
+      "en": "I want to wait until the need is clear.",
+      "answers": [
+        "I want to wait until the need is clear."
+      ],
+      "notes": "until：直到",
+      "tags": [
+        "购物消费",
+        "消费决定"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "shopping_consumption_v3_0092",
+      "zh": "购物清单帮助我避免冲动。",
+      "en": "A shopping list helps me avoid impulse purchases.",
+      "answers": [
+        "A shopping list helps me avoid impulse purchases."
+      ],
+      "notes": "impulse purchase：冲动购买",
+      "tags": [
+        "购物消费",
+        "消费决定"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "shopping_consumption_v3_0093",
+      "zh": "我更关心每天是否好用。",
+      "en": "I care more about everyday usability.",
+      "answers": [
+        "I care more about everyday usability."
+      ],
+      "notes": "usability：好用程度",
+      "tags": [
+        "购物消费",
+        "消费决定"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "shopping_consumption_v3_0094",
+      "zh": "购买成本只是总成本的一部分。",
+      "en": "Purchase price is only part of total cost.",
+      "answers": [
+        "Purchase price is only part of total cost."
+      ],
+      "notes": "total cost：总成本",
+      "tags": [
+        "购物消费",
+        "消费决定"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "shopping_consumption_v3_0095",
+      "zh": "广告没有说明适用限制。",
+      "en": "The advertisement leaves out important limitations.",
+      "answers": [
+        "The advertisement leaves out important limitations."
+      ],
+      "notes": "limitation：限制",
+      "tags": [
+        "购物消费",
+        "消费决定"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "shopping_consumption_v3_0096",
+      "zh": "评价可能来自不同使用场景。",
+      "en": "Reviews may reflect different usage contexts.",
+      "answers": [
+        "Reviews may reflect different usage contexts."
+      ],
+      "notes": "usage context",
+      "tags": [
+        "购物消费",
+        "消费决定"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "shopping_consumption_v3_0097",
+      "zh": "我不需要最新款才能完成任务。",
+      "en": "I do not need the latest model for the task.",
+      "answers": [
+        "I do not need the latest model for the task.",
+        "I don't need the latest model for the task."
+      ],
+      "notes": "latest model：最新款",
+      "tags": [
+        "购物消费",
+        "消费决定"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "shopping_consumption_v3_0098",
+      "zh": "租用可能更适合短期需求。",
+      "en": "Hiring may suit a short-term need better.",
+      "answers": [
+        "Hiring may suit a short-term need better."
+      ],
+      "notes": "short-term：短期",
+      "tags": [
+        "购物消费",
+        "消费决定"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "shopping_consumption_v3_0099",
+      "zh": "我会先检查家里是否已有类似物品。",
+      "en": "I will check for something similar at home first.",
+      "answers": [
+        "I will check for something similar at home first."
+      ],
+      "notes": "check for",
+      "tags": [
+        "购物消费",
+        "消费决定"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "shopping_consumption_v3_0100",
+      "zh": "减少购买也意味着减少维护负担。",
+      "en": "Buying less also reduces the burden of upkeep.",
+      "answers": [
+        "Buying less also reduces the burden of upkeep."
+      ],
+      "notes": "upkeep：维护",
+      "tags": [
+        "购物消费",
+        "消费决定"
+      ],
+      "difficulty": 3
+    }
+  ]
+}

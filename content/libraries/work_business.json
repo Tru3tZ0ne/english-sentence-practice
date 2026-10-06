@@ -1,0 +1,578 @@
+{
+  "schema_version": 1,
+  "id": "work_business",
+  "title": "职场与商务精选 · 36 句",
+  "description": "围绕本主题的具体情境组织表达；覆盖请求、说明、比较与复合句，并附逐题用法。",
+  "language": "en-GB",
+  "tags": [
+    "职场与商务",
+    "business",
+    "主题分类",
+    "精选",
+    "逐题讲解"
+  ],
+  "items": [
+    {
+      "zh": "这份报价包含售后支持，但不包含现场安装。",
+      "en": "This quotation includes after-sales support but excludes on-site installation.",
+      "answers": [
+        "This quotation includes after-sales support but excludes on-site installation."
+      ],
+      "notes": "include 与 exclude 对照；quotation 在商务语境中指报价单。",
+      "tags": [
+        "职场与商务",
+        "转折并列句",
+        "明确服务范围",
+        "商务报价"
+      ],
+      "difficulty": 2,
+      "id": "work_business_001"
+    },
+    {
+      "zh": "你能把交付日期提前到周四吗？",
+      "en": "Could you bring the delivery date forward to Thursday?",
+      "answers": [
+        "Could you bring the delivery date forward to Thursday?"
+      ],
+      "notes": "bring ... forward 表示将时间提前；push ... back 表示推迟。",
+      "tags": [
+        "职场与商务",
+        "礼貌疑问句",
+        "协商进度",
+        "项目交付"
+      ],
+      "difficulty": 2,
+      "id": "work_business_002"
+    },
+    {
+      "zh": "如果供应商今天不能确认，我们就需要启用备用方案。",
+      "en": "If the supplier can't confirm today, we'll need to use our backup plan.",
+      "answers": [
+        "If the supplier can't confirm today, we'll need to use our backup plan.",
+        "If the supplier cannot confirm today, we will need to use our backup plan."
+      ],
+      "notes": "真实条件句用 if + 现在时，主句 will；backup plan 指备用方案。",
+      "tags": [
+        "职场与商务",
+        "条件从句",
+        "安排应对措施",
+        "供应商管理"
+      ],
+      "difficulty": 2,
+      "id": "work_business_003"
+    },
+    {
+      "zh": "虽然销售额增长了，利润却因为运输成本上升而下降。",
+      "en": "Although sales increased, profit fell because shipping costs rose.",
+      "answers": [
+        "Although sales increased, profit fell because shipping costs rose."
+      ],
+      "notes": "although 与 because 分别表达转折与原因；sales 和 profit 是不同指标。",
+      "tags": [
+        "职场与商务",
+        "让步与原因从句",
+        "解释经营表现",
+        "成本分析"
+      ],
+      "difficulty": 3,
+      "id": "work_business_004"
+    },
+    {
+      "zh": "我已经把客户的修改意见整理成清单，方便团队逐项处理。",
+      "en": "I've organised the client's requested changes into a checklist so that the team can address them one by one.",
+      "answers": [
+        "I've organised the client's requested changes into a checklist so that the team can address them one by one.",
+        "I have organised the client's requested changes into a checklist so that the team can address them one by one."
+      ],
+      "notes": "organise ... into ... 表示整理成；so that 说明目的。",
+      "tags": [
+        "职场与商务",
+        "目的从句",
+        "汇报准备工作",
+        "客户反馈"
+      ],
+      "difficulty": 3,
+      "id": "work_business_005"
+    },
+    {
+      "zh": "与其在邮件里来回讨论，我们不如约十五分钟把范围确认下来。",
+      "en": "Rather than go back and forth by email, let's spend fifteen minutes agreeing on the scope.",
+      "answers": [
+        "Rather than go back and forth by email, let's spend fifteen minutes agreeing on the scope."
+      ],
+      "notes": "spend time doing；scope 指工作范围，agree on 表示就某事达成一致。",
+      "tags": [
+        "职场与商务",
+        "对比结构",
+        "改进协作方式",
+        "项目范围"
+      ],
+      "difficulty": 3,
+      "id": "work_business_006"
+    },
+    {
+      "zh": "真正耽误进度的是审批时间，而不是设计工作本身。",
+      "en": "What is delaying progress is the approval process, not the design work itself.",
+      "answers": [
+        "What is delaying progress is the approval process, not the design work itself."
+      ],
+      "notes": "what 从句作主语；itself 强调工作本身。",
+      "tags": [
+        "职场与商务",
+        "主语从句",
+        "定位瓶颈",
+        "进度分析"
+      ],
+      "difficulty": 4,
+      "id": "work_business_007"
+    },
+    {
+      "zh": "会议结束前，请确认每项任务由谁负责。",
+      "en": "Before the meeting ends, please confirm who is responsible for each task.",
+      "answers": [
+        "Before the meeting ends, please confirm who is responsible for each task."
+      ],
+      "notes": "who 从句作 confirm 的宾语；be responsible for 表示负责。",
+      "tags": [
+        "职场与商务",
+        "时间从句",
+        "明确责任",
+        "会议行动项"
+      ],
+      "difficulty": 2,
+      "id": "work_business_008"
+    },
+    {
+      "zh": "这个客户要求的功能不在原合同范围内。",
+      "en": "The feature this client requested falls outside the original contract.",
+      "answers": [
+        "The feature this client requested falls outside the original contract."
+      ],
+      "notes": "省略关系代词的定语从句修饰 feature；fall outside 表示不属于某范围。",
+      "tags": [
+        "职场与商务",
+        "定语从句",
+        "识别范围变化",
+        "合同执行"
+      ],
+      "difficulty": 3,
+      "id": "work_business_009"
+    },
+    {
+      "zh": "如果我们当时早点核对库存，就能避免承诺无法按时交付的数量。",
+      "en": "If we'd checked stock earlier, we could have avoided promising quantities we couldn't deliver on time.",
+      "answers": [
+        "If we'd checked stock earlier, we could have avoided promising quantities we couldn't deliver on time.",
+        "If we'd checked stock earlier, we could have avoided promising quantities we could not deliver on time."
+      ],
+      "notes": "过去虚拟条件句；avoid 后接 doing，quantities 后是省略关系代词的定语从句。",
+      "tags": [
+        "职场与商务",
+        "过去虚拟条件句",
+        "复盘失误",
+        "库存管理"
+      ],
+      "difficulty": 4,
+      "id": "work_business_010"
+    },
+    {
+      "zh": "为了便于比较，请按相同的口径列出各方案的成本。",
+      "en": "To make comparison easier, please present the costs of each option on the same basis.",
+      "answers": [
+        "To make comparison easier, please present the costs of each option on the same basis."
+      ],
+      "notes": "to do 说明目的；on the same basis 表示按同一口径。",
+      "tags": [
+        "职场与商务",
+        "目的状语",
+        "规范信息",
+        "方案比较"
+      ],
+      "difficulty": 3,
+      "id": "work_business_011"
+    },
+    {
+      "zh": "只要质量检查通过，我就可以批准发货。",
+      "en": "I can authorise dispatch as long as the goods pass the quality check.",
+      "answers": [
+        "I can authorise dispatch as long as the goods pass the quality check."
+      ],
+      "notes": "as long as 引出条件；authorise dispatch 表示批准发货。",
+      "tags": [
+        "职场与商务",
+        "条件从句",
+        "确认放行要求",
+        "质量管理"
+      ],
+      "difficulty": 3,
+      "id": "work_business_012"
+    },
+    {
+      "id": "work_business_ext_0001",
+      "zh": "这封邮件需要抄送财务部门吗？",
+      "en": "Should the finance department be copied into this email?",
+      "answers": [
+        "Should the finance department be copied into this email?"
+      ],
+      "notes": "copy sb into an email：抄送。",
+      "tags": [
+        "职场与商务",
+        "被动疑问句",
+        "邮件沟通"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "work_business_ext_0002",
+      "zh": "我已经把会议记录发给所有参会者了。",
+      "en": "I have sent the minutes to everyone who attended the meeting.",
+      "answers": [
+        "I have sent the minutes to everyone who attended the meeting.",
+        "I've sent the minutes to everyone who attended the meeting."
+      ],
+      "notes": "minutes 在此指会议记录。",
+      "tags": [
+        "职场与商务",
+        "现在完成时",
+        "会议记录"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "work_business_ext_0003",
+      "zh": "请在回复里注明您使用的是哪一版报价。",
+      "en": "Please specify which version of the quotation you are using in your reply.",
+      "answers": [
+        "Please specify which version of the quotation you are using in your reply."
+      ],
+      "notes": "specify：明确说明。",
+      "tags": [
+        "职场与商务",
+        "宾语从句",
+        "版本核对"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "work_business_ext_0004",
+      "zh": "在预算获批之前，我们不能承诺采购。",
+      "en": "We cannot commit to the purchase until the budget is approved.",
+      "answers": [
+        "We cannot commit to the purchase until the budget is approved.",
+        "We can't commit to the purchase until the budget is approved."
+      ],
+      "notes": "commit to：作出承诺。",
+      "tags": [
+        "职场与商务",
+        "时间从句",
+        "采购审批"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "work_business_ext_0005",
+      "zh": "这个任务看似简单，但需要两个部门共同确认。",
+      "en": "The task looks straightforward but requires confirmation from two departments.",
+      "answers": [
+        "The task looks straightforward but requires confirmation from two departments."
+      ],
+      "notes": "straightforward：看似直接、简单。",
+      "tags": [
+        "职场与商务",
+        "转折并列句",
+        "跨部门协作"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "work_business_ext_0006",
+      "zh": "我明天休假，紧急事项请联系我的同事。",
+      "en": "I am on leave tomorrow; please contact my colleague about urgent matters.",
+      "answers": [
+        "I am on leave tomorrow; please contact my colleague about urgent matters.",
+        "I'm on leave tomorrow; please contact my colleague about urgent matters."
+      ],
+      "notes": "on leave：休假。",
+      "tags": [
+        "职场与商务",
+        "并列句",
+        "工作交接"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "work_business_ext_0007",
+      "zh": "能否在报告里分别列出已确认和预计的收入？",
+      "en": "Could you list confirmed and projected revenue separately in the report?",
+      "answers": [
+        "Could you list confirmed and projected revenue separately in the report?"
+      ],
+      "notes": "projected：预计的。",
+      "tags": [
+        "职场与商务",
+        "礼貌疑问句",
+        "财务报告"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "work_business_ext_0008",
+      "zh": "我们需要知道延误是否会影响最终交付。",
+      "en": "We need to know whether the delay will affect final delivery.",
+      "answers": [
+        "We need to know whether the delay will affect final delivery."
+      ],
+      "notes": "whether：是否。",
+      "tags": [
+        "职场与商务",
+        "宾语从句",
+        "风险判断"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "work_business_ext_0009",
+      "zh": "客户要求的变更应先评估成本，再决定是否接受。",
+      "en": "The client's requested change should be costed before we decide whether to accept it.",
+      "answers": [
+        "The client's requested change should be costed before we decide whether to accept it."
+      ],
+      "notes": "cost 作动词表示估算费用。",
+      "tags": [
+        "职场与商务",
+        "被动语态",
+        "变更评估"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "work_business_ext_0010",
+      "zh": "这项工作不在我的职责范围内，但我可以帮你找到负责人。",
+      "en": "This falls outside my responsibilities, but I can help you find the person in charge.",
+      "answers": [
+        "This falls outside my responsibilities, but I can help you find the person in charge."
+      ],
+      "notes": "in charge：负责的。",
+      "tags": [
+        "职场与商务",
+        "转折并列句",
+        "职责边界"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "work_business_ext_0011",
+      "zh": "我们需要一个明确的验收标准，以免交付时产生分歧。",
+      "en": "We need clear acceptance criteria to avoid disagreements at handover.",
+      "answers": [
+        "We need clear acceptance criteria to avoid disagreements at handover."
+      ],
+      "notes": "acceptance criteria：验收标准。",
+      "tags": [
+        "职场与商务",
+        "目的结构",
+        "交付验收"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "work_business_ext_0012",
+      "zh": "能否把讨论移到下午，让技术同事也能参加？",
+      "en": "Could we move the discussion to the afternoon so that our technical colleagues can join?",
+      "answers": [
+        "Could we move the discussion to the afternoon so that our technical colleagues can join?"
+      ],
+      "notes": "so that 说明改时间的目的。",
+      "tags": [
+        "职场与商务",
+        "目的从句",
+        "会议安排"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "work_business_ext_0013",
+      "zh": "这家供应商的价格较低，但付款条件更严格。",
+      "en": "This supplier offers a lower price but stricter payment terms.",
+      "answers": [
+        "This supplier offers a lower price but stricter payment terms."
+      ],
+      "notes": "payment terms：付款条件。",
+      "tags": [
+        "职场与商务",
+        "比较结构",
+        "供应商比较"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "work_business_ext_0014",
+      "zh": "我想先确认订单数量，再让团队开始准备。",
+      "en": "I would like to confirm the order quantity before the team begins preparation.",
+      "answers": [
+        "I would like to confirm the order quantity before the team begins preparation.",
+        "I'd like to confirm the order quantity before the team begins preparation."
+      ],
+      "notes": "before 引出动作顺序。",
+      "tags": [
+        "职场与商务",
+        "时间从句",
+        "订单确认"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "work_business_ext_0015",
+      "zh": "这个数字包括税费吗？",
+      "en": "Does this figure include taxes and charges?",
+      "answers": [
+        "Does this figure include taxes and charges?"
+      ],
+      "notes": "figure 在这里指金额。",
+      "tags": [
+        "职场与商务",
+        "一般疑问句",
+        "金额核对"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "work_business_ext_0016",
+      "zh": "我已标出需要您批准的部分。",
+      "en": "I have marked the sections that require your approval.",
+      "answers": [
+        "I have marked the sections that require your approval.",
+        "I've marked the sections that require your approval."
+      ],
+      "notes": "require approval：需要批准。",
+      "tags": [
+        "职场与商务",
+        "定语从句",
+        "文件审批"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "work_business_ext_0017",
+      "zh": "我们今天能决定的，只是先开展小范围试行。",
+      "en": "All we can decide today is to begin a limited trial.",
+      "answers": [
+        "All we can decide today is to begin a limited trial."
+      ],
+      "notes": "all ... is ...：限定当前决定范围。",
+      "tags": [
+        "职场与商务",
+        "表语结构",
+        "试行决策"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "work_business_ext_0018",
+      "zh": "会议拖得太久，留给行动安排的时间不够了。",
+      "en": "The meeting ran over, leaving too little time to agree on next steps.",
+      "answers": [
+        "The meeting ran over, leaving too little time to agree on next steps."
+      ],
+      "notes": "run over：超时。",
+      "tags": [
+        "职场与商务",
+        "分词结果状语",
+        "会议效率"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "work_business_ext_0019",
+      "zh": "如果数据今晚到不了，我会在报告中标明尚未核实。",
+      "en": "If the data do not arrive tonight, I will mark them as unverified in the report.",
+      "answers": [
+        "If the data do not arrive tonight, I will mark them as unverified in the report.",
+        "If the data don't arrive tonight, I'll mark them as unverified in the report."
+      ],
+      "notes": "mark A as B：标记为某状态。",
+      "tags": [
+        "职场与商务",
+        "条件从句",
+        "数据状态"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "work_business_ext_0020",
+      "zh": "新的流程减少了一次审批，却增加了前期准备工作。",
+      "en": "The new process removes one approval stage but adds more preparation at the start.",
+      "answers": [
+        "The new process removes one approval stage but adds more preparation at the start."
+      ],
+      "notes": "approval stage：审批环节。",
+      "tags": [
+        "职场与商务",
+        "转折并列句",
+        "流程评估"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "work_business_ext_0021",
+      "zh": "在最终签字之前，法务团队还需要检查条款。",
+      "en": "The legal team still needs to review the terms before final sign-off.",
+      "answers": [
+        "The legal team still needs to review the terms before final sign-off."
+      ],
+      "notes": "sign-off：正式批准。",
+      "tags": [
+        "职场与商务",
+        "时间从句",
+        "合同审阅"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "work_business_ext_0022",
+      "zh": "我可以负责执行，但优先顺序需要由项目负责人决定。",
+      "en": "I can handle implementation, but the project lead needs to set the priorities.",
+      "answers": [
+        "I can handle implementation, but the project lead needs to set the priorities."
+      ],
+      "notes": "set priorities：确定优先级。",
+      "tags": [
+        "职场与商务",
+        "转折并列句",
+        "工作分工"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "work_business_ext_0023",
+      "zh": "客户没有回复，不一定意味着他们接受了方案。",
+      "en": "A lack of response from the client does not necessarily mean acceptance.",
+      "answers": [
+        "A lack of response from the client does not necessarily mean acceptance.",
+        "A lack of response from the client doesn't necessarily mean acceptance."
+      ],
+      "notes": "lack of response：没有回应。",
+      "tags": [
+        "职场与商务",
+        "否定推论",
+        "客户沟通"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "work_business_ext_0024",
+      "zh": "请保留修改记录，方便我们以后追溯决定。",
+      "en": "Please retain the change history so that we can trace decisions later.",
+      "answers": [
+        "Please retain the change history so that we can trace decisions later."
+      ],
+      "notes": "trace：追溯。",
+      "tags": [
+        "职场与商务",
+        "目的从句",
+        "记录管理"
+      ],
+      "difficulty": 2
+    }
+  ]
+}

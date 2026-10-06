@@ -1,0 +1,577 @@
+{
+  "schema_version": 1,
+  "id": "medical_english",
+  "title": "医疗与问诊精选 · 36 句",
+  "description": "围绕本主题的具体情境组织表达；覆盖请求、说明、比较与复合句，并附逐题用法。",
+  "language": "en-GB",
+  "tags": [
+    "医疗与问诊",
+    "主题分类",
+    "精选",
+    "逐题讲解"
+  ],
+  "items": [
+    {
+      "zh": "我喉咙痛了三天，吞咽时尤其明显。",
+      "en": "I've had a sore throat for three days, especially when I swallow.",
+      "answers": [
+        "I've had a sore throat for three days, especially when I swallow.",
+        "I have had a sore throat for three days, especially when I swallow."
+      ],
+      "notes": "have had 配合 for 描述持续症状；a sore throat 表示喉咙痛。",
+      "tags": [
+        "医疗与问诊",
+        "现在完成时",
+        "描述症状",
+        "问诊"
+      ],
+      "difficulty": 2,
+      "id": "medical_english_001"
+    },
+    {
+      "zh": "疼痛是突然开始的，还是逐渐加重的？",
+      "en": "Did the pain start suddenly, or did it gradually get worse?",
+      "answers": [
+        "Did the pain start suddenly, or did it gradually get worse?"
+      ],
+      "notes": "两个过去时疑问句并列；get worse 表示变得更严重。",
+      "tags": [
+        "医疗与问诊",
+        "选择疑问句",
+        "询问病程",
+        "症状变化"
+      ],
+      "difficulty": 2,
+      "id": "medical_english_002"
+    },
+    {
+      "zh": "我以前服用这种药时出过皮疹。",
+      "en": "I developed a rash when I took this medicine before.",
+      "answers": [
+        "I developed a rash when I took this medicine before."
+      ],
+      "notes": "develop a rash 表示出现皮疹；when 从句提供既往用药情境。",
+      "tags": [
+        "医疗与问诊",
+        "时间从句",
+        "说明用药反应",
+        "药物史"
+      ],
+      "difficulty": 2,
+      "id": "medical_english_003"
+    },
+    {
+      "zh": "这项检查需要空腹做吗？",
+      "en": "Do I need to fast before this test?",
+      "answers": [
+        "Do I need to fast before this test?"
+      ],
+      "notes": "fast 在此作动词，指禁食；此句向医护确认要求，并非给出医疗建议。",
+      "tags": [
+        "医疗与问诊",
+        "一般疑问句",
+        "确认检查准备",
+        "检查"
+      ],
+      "difficulty": 2,
+      "id": "medical_english_004"
+    },
+    {
+      "zh": "您能把服药说明写下来，让我回家后可以再看吗？",
+      "en": "Could you write down the instructions so that I can check them again at home?",
+      "answers": [
+        "Could you write down the instructions so that I can check them again at home?"
+      ],
+      "notes": "so that 引导目的从句；write down 表示记下。",
+      "tags": [
+        "医疗与问诊",
+        "目的从句",
+        "请求书面说明",
+        "用药沟通"
+      ],
+      "difficulty": 3,
+      "id": "medical_english_005"
+    },
+    {
+      "zh": "自从换了药，我晚上就很难入睡。",
+      "en": "Since changing medication, I've had trouble falling asleep at night.",
+      "answers": [
+        "Since changing medication, I've had trouble falling asleep at night.",
+        "Since changing medication, I have had trouble falling asleep at night."
+      ],
+      "notes": "have trouble doing 表示做某事有困难；since changing 的逻辑主语是 I。",
+      "tags": [
+        "医疗与问诊",
+        "现在完成时",
+        "报告变化",
+        "复诊"
+      ],
+      "difficulty": 3,
+      "id": "medical_english_006"
+    },
+    {
+      "zh": "如果我漏服了一次，应该联系谁询问该怎么处理？",
+      "en": "Who should I contact for advice if I miss a dose?",
+      "answers": [
+        "Who should I contact for advice if I miss a dose?"
+      ],
+      "notes": "miss a dose 指漏服一次；contact 是及物动词，后面不加 with。",
+      "tags": [
+        "医疗与问诊",
+        "条件疑问句",
+        "询问处理渠道",
+        "用药咨询"
+      ],
+      "difficulty": 3,
+      "id": "medical_english_007"
+    },
+    {
+      "zh": "我想预约复诊，最好在下周一下午。",
+      "en": "I'd like to book a follow-up appointment, preferably next Monday afternoon.",
+      "answers": [
+        "I'd like to book a follow-up appointment, preferably next Monday afternoon.",
+        "I would like to book a follow-up appointment, preferably next Monday afternoon."
+      ],
+      "notes": "follow-up appointment 指复诊预约；preferably 表示最好。",
+      "tags": [
+        "医疗与问诊",
+        "礼貌陈述",
+        "预约就诊",
+        "复诊安排"
+      ],
+      "difficulty": 2,
+      "id": "medical_english_008"
+    },
+    {
+      "zh": "让我担心的是，这次头痛和以前的不一样。",
+      "en": "What worries me is that this headache feels different from the ones I've had before.",
+      "answers": [
+        "What worries me is that this headache feels different from the ones I've had before.",
+        "What worries me is that this headache feels different from the ones I have had before."
+      ],
+      "notes": "what 从句作主语；ones 代指以前的头痛，避免重复。",
+      "tags": [
+        "医疗与问诊",
+        "主语从句",
+        "表达担忧",
+        "症状对比"
+      ],
+      "difficulty": 4,
+      "id": "medical_english_009"
+    },
+    {
+      "zh": "您说的副作用包括嗜睡吗？",
+      "en": "Does the side effect you mentioned include drowsiness?",
+      "answers": [
+        "Does the side effect you mentioned include drowsiness?"
+      ],
+      "notes": "省略关系代词的定语从句修饰 side effect；drowsiness 表示嗜睡、困倦。",
+      "tags": [
+        "医疗与问诊",
+        "定语从句",
+        "澄清术语",
+        "副作用"
+      ],
+      "difficulty": 3,
+      "id": "medical_english_010"
+    },
+    {
+      "zh": "在我同意这项操作之前，您能解释一下有哪些替代方案吗？",
+      "en": "Before I consent to this procedure, could you explain what alternatives are available?",
+      "answers": [
+        "Before I consent to this procedure, could you explain what alternatives are available?"
+      ],
+      "notes": "consent to 后接名词；what 从句使用陈述语序。",
+      "tags": [
+        "医疗与问诊",
+        "时间从句",
+        "了解选择",
+        "治疗沟通"
+      ],
+      "difficulty": 3,
+      "id": "medical_english_011"
+    },
+    {
+      "zh": "我走上楼梯时会气短，但休息后会好一些。",
+      "en": "I get short of breath when I climb stairs, but it improves after I rest.",
+      "answers": [
+        "I get short of breath when I climb stairs, but it improves after I rest."
+      ],
+      "notes": "get short of breath 表示气短；描述诱因与缓解情况，不自行推断病因。",
+      "tags": [
+        "医疗与问诊",
+        "转折并列句",
+        "描述症状模式",
+        "呼吸症状"
+      ],
+      "difficulty": 3,
+      "id": "medical_english_012"
+    },
+    {
+      "id": "medical_english_ext_0001",
+      "zh": "我左耳听起来像被堵住了。",
+      "en": "My left ear feels blocked.",
+      "answers": [
+        "My left ear feels blocked."
+      ],
+      "notes": "blocked：堵塞的感觉。",
+      "tags": [
+        "医疗与问诊",
+        "症状描述",
+        "耳部不适"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "medical_english_ext_0002",
+      "zh": "这处肿胀是昨天晚上才出现的。",
+      "en": "This swelling appeared only last night.",
+      "answers": [
+        "This swelling appeared only last night."
+      ],
+      "notes": "swelling：肿胀。",
+      "tags": [
+        "医疗与问诊",
+        "一般过去时",
+        "症状时间"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "medical_english_ext_0003",
+      "zh": "我能指出疼痛最明显的位置。",
+      "en": "I can point to where the pain is strongest.",
+      "answers": [
+        "I can point to where the pain is strongest."
+      ],
+      "notes": "point to：指向。",
+      "tags": [
+        "医疗与问诊",
+        "宾语从句",
+        "疼痛位置"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "medical_english_ext_0004",
+      "zh": "疼痛会延伸到肩膀，还是只在脖子周围？",
+      "en": "Does the pain extend to the shoulder or stay around the neck?",
+      "answers": [
+        "Does the pain extend to the shoulder or stay around the neck?"
+      ],
+      "notes": "extend to：延伸到。",
+      "tags": [
+        "医疗与问诊",
+        "选择疑问句",
+        "疼痛范围"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "medical_english_ext_0005",
+      "zh": "这种不适每次持续大约十分钟。",
+      "en": "The discomfort lasts about ten minutes each time.",
+      "answers": [
+        "The discomfort lasts about ten minutes each time."
+      ],
+      "notes": "last 作动词表示持续。",
+      "tags": [
+        "医疗与问诊",
+        "症状描述",
+        "持续时间"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "medical_english_ext_0006",
+      "zh": "我最近没有受伤，也没有更换日常活动。",
+      "en": "I have not had an injury or changed my usual activities recently.",
+      "answers": [
+        "I have not had an injury or changed my usual activities recently.",
+        "I've not had an injury or changed my usual activities recently."
+      ],
+      "notes": "否定句中的 or 并列两项。",
+      "tags": [
+        "医疗与问诊",
+        "现在完成时",
+        "病史说明"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "medical_english_ext_0007",
+      "zh": "我带来了目前正在服用的药物清单。",
+      "en": "I have brought a list of the medicines I am currently taking.",
+      "answers": [
+        "I have brought a list of the medicines I am currently taking.",
+        "I've brought a list of the medicines I'm currently taking."
+      ],
+      "notes": "take medicine：服药。",
+      "tags": [
+        "医疗与问诊",
+        "定语从句",
+        "用药清单"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "medical_english_ext_0008",
+      "zh": "这包括我自己购买的非处方药。",
+      "en": "This includes the over-the-counter medicines I bought myself.",
+      "answers": [
+        "This includes the over-the-counter medicines I bought myself."
+      ],
+      "notes": "over-the-counter：非处方的。",
+      "tags": [
+        "医疗与问诊",
+        "定语从句",
+        "用药补充"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "medical_english_ext_0009",
+      "zh": "您需要知道我上次接种疫苗的日期吗？",
+      "en": "Do you need the date of my most recent vaccination?",
+      "answers": [
+        "Do you need the date of my most recent vaccination?"
+      ],
+      "notes": "vaccination：疫苗接种。",
+      "tags": [
+        "医疗与问诊",
+        "一般疑问句",
+        "接种记录"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "medical_english_ext_0010",
+      "zh": "我不确定家里是否有人有过类似症状。",
+      "en": "I am not sure whether anyone in my family has had similar symptoms.",
+      "answers": [
+        "I am not sure whether anyone in my family has had similar symptoms.",
+        "I'm not sure whether anyone in my family has had similar symptoms."
+      ],
+      "notes": "whether：是否。",
+      "tags": [
+        "医疗与问诊",
+        "宾语从句",
+        "家族情况"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "medical_english_ext_0011",
+      "zh": "检查结果会通过电话通知，还是发到线上账户？",
+      "en": "Will the results be given by phone or sent to my online account?",
+      "answers": [
+        "Will the results be given by phone or sent to my online account?"
+      ],
+      "notes": "两个被动谓语共用 will be。",
+      "tags": [
+        "医疗与问诊",
+        "选择疑问句",
+        "结果通知"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "medical_english_ext_0012",
+      "zh": "如果结果迟迟没有出来，我应该联系哪个部门？",
+      "en": "Which department should I contact if the results are delayed?",
+      "answers": [
+        "Which department should I contact if the results are delayed?"
+      ],
+      "notes": "delayed：延迟的。",
+      "tags": [
+        "医疗与问诊",
+        "条件疑问句",
+        "结果跟进"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "medical_english_ext_0013",
+      "zh": "我需要请一天假做检查，能开就诊证明吗？",
+      "en": "I need a day off for the test; could I have proof of attendance?",
+      "answers": [
+        "I need a day off for the test; could I have proof of attendance?"
+      ],
+      "notes": "proof of attendance：就诊到场证明。",
+      "tags": [
+        "医疗与问诊",
+        "请求表达",
+        "就诊文件"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "medical_english_ext_0014",
+      "zh": "这次预约是否包括与医生讨论结果的时间？",
+      "en": "Does this appointment include time to discuss the results with the doctor?",
+      "answers": [
+        "Does this appointment include time to discuss the results with the doctor?"
+      ],
+      "notes": "time to do：做某事的时间。",
+      "tags": [
+        "医疗与问诊",
+        "一般疑问句",
+        "预约范围"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "medical_english_ext_0015",
+      "zh": "我希望有人陪同就诊，需要提前登记吗？",
+      "en": "I would like someone to accompany me; do they need to register in advance?",
+      "answers": [
+        "I would like someone to accompany me; do they need to register in advance?",
+        "I'd like someone to accompany me; do they need to register in advance?"
+      ],
+      "notes": "accompany：陪同。",
+      "tags": [
+        "医疗与问诊",
+        "疑问与陈述",
+        "陪诊安排"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "medical_english_ext_0016",
+      "zh": "您能用更简单的话解释这个术语吗？",
+      "en": "Could you explain this term in simpler language?",
+      "answers": [
+        "Could you explain this term in simpler language?"
+      ],
+      "notes": "in simpler language：用更简单的语言。",
+      "tags": [
+        "医疗与问诊",
+        "礼貌疑问句",
+        "术语理解"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "medical_english_ext_0017",
+      "zh": "我想确认自己是否正确理解了下一步安排。",
+      "en": "I would like to check that I have understood the next steps correctly.",
+      "answers": [
+        "I would like to check that I have understood the next steps correctly.",
+        "I'd like to check that I have understood the next steps correctly."
+      ],
+      "notes": "check that：核对某理解。",
+      "tags": [
+        "医疗与问诊",
+        "宾语从句",
+        "理解确认"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "medical_english_ext_0018",
+      "zh": "这次治疗需要几次后续预约？",
+      "en": "How many follow-up visits does this treatment involve?",
+      "answers": [
+        "How many follow-up visits does this treatment involve?"
+      ],
+      "notes": "involve：涉及、需要。",
+      "tags": [
+        "医疗与问诊",
+        "特殊疑问句",
+        "治疗安排"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "medical_english_ext_0019",
+      "zh": "如果症状发生变化，应该通过什么渠道联系诊所？",
+      "en": "How should I contact the clinic if my symptoms change?",
+      "answers": [
+        "How should I contact the clinic if my symptoms change?"
+      ],
+      "notes": "if 引出需要联系的情况。",
+      "tags": [
+        "医疗与问诊",
+        "条件疑问句",
+        "后续沟通"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "medical_english_ext_0020",
+      "zh": "我记下了症状出现时正在做的事情。",
+      "en": "I noted what I was doing when the symptoms appeared.",
+      "answers": [
+        "I noted what I was doing when the symptoms appeared."
+      ],
+      "notes": "过去进行时描述当时活动。",
+      "tags": [
+        "医疗与问诊",
+        "时间从句",
+        "症状记录"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "medical_english_ext_0021",
+      "zh": "这个伤口接触衣服时会疼。",
+      "en": "The wound hurts when it touches my clothing.",
+      "answers": [
+        "The wound hurts when it touches my clothing."
+      ],
+      "notes": "hurt 可作不及物动词。",
+      "tags": [
+        "医疗与问诊",
+        "时间从句",
+        "伤口描述"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "medical_english_ext_0022",
+      "zh": "我的视力有时模糊，但并不是一直如此。",
+      "en": "My vision is sometimes blurred, but not all the time.",
+      "answers": [
+        "My vision is sometimes blurred, but not all the time."
+      ],
+      "notes": "not all the time：并非一直。",
+      "tags": [
+        "医疗与问诊",
+        "部分否定",
+        "视力描述"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "medical_english_ext_0023",
+      "zh": "我想了解这次转诊的原因和预约方式。",
+      "en": "I would like to understand the reason for this referral and how to book it.",
+      "answers": [
+        "I would like to understand the reason for this referral and how to book it.",
+        "I'd like to understand the reason for this referral and how to book it."
+      ],
+      "notes": "referral：转诊。",
+      "tags": [
+        "医疗与问诊",
+        "并列宾语",
+        "转诊咨询"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "medical_english_ext_0024",
+      "zh": "费用估算中是否包含化验室收费？",
+      "en": "Does the cost estimate include laboratory fees?",
+      "answers": [
+        "Does the cost estimate include laboratory fees?"
+      ],
+      "notes": "cost estimate：费用预估。",
+      "tags": [
+        "医疗与问诊",
+        "一般疑问句",
+        "医疗费用"
+      ],
+      "difficulty": 2
+    }
+  ]
+}

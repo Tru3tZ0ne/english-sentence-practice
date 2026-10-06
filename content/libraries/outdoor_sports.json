@@ -1,0 +1,1418 @@
+{
+  "schema_version": 1,
+  "id": "outdoor_sports",
+  "title": "户外活动与运动 · 100 句",
+  "description": "装备与路线、天气判断、团队安排、露营、骑行、球类、水上活动及自然观察。",
+  "language": "en-GB",
+  "tags": [
+    "户外运动",
+    "逐题讲解"
+  ],
+  "items": [
+    {
+      "id": "outdoor_sports_v3_0001",
+      "zh": "背包的胸带太紧了。",
+      "en": "The chest strap on my backpack is too tight.",
+      "answers": [
+        "The chest strap on my backpack is too tight."
+      ],
+      "notes": "strap：带子",
+      "tags": [
+        "户外运动",
+        "装备"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0002",
+      "zh": "我的鞋底已经磨平了。",
+      "en": "The soles of my shoes have worn smooth.",
+      "answers": [
+        "The soles of my shoes have worn smooth."
+      ],
+      "notes": "wear smooth：磨平",
+      "tags": [
+        "户外运动",
+        "装备"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0003",
+      "zh": "这根登山杖能调长度吗？",
+      "en": "Is the length of this walking pole adjustable?",
+      "answers": [
+        "Is the length of this walking pole adjustable?"
+      ],
+      "notes": "adjustable：可调节",
+      "tags": [
+        "户外运动",
+        "装备"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0004",
+      "zh": "把常用的东西放在侧袋。",
+      "en": "Keep frequently used items in the side pocket.",
+      "answers": [
+        "Keep frequently used items in the side pocket."
+      ],
+      "notes": "frequently used：经常使用的。",
+      "tags": [
+        "户外运动",
+        "装备"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0005",
+      "zh": "帐篷少了一根支杆。",
+      "en": "One pole is missing from the tent.",
+      "answers": [
+        "One pole is missing from the tent."
+      ],
+      "notes": "pole：支杆",
+      "tags": [
+        "户外运动",
+        "装备"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0006",
+      "zh": "这件外套透气但不防水。",
+      "en": "This jacket is breathable but not waterproof.",
+      "answers": [
+        "This jacket is breathable but not waterproof."
+      ],
+      "notes": "breathable：透气",
+      "tags": [
+        "户外运动",
+        "装备"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0007",
+      "zh": "头灯的备用电池在哪里？",
+      "en": "Where are the spare batteries for the head torch?",
+      "answers": [
+        "Where are the spare batteries for the head torch?"
+      ],
+      "notes": "spare：备用",
+      "tags": [
+        "户外运动",
+        "装备"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0008",
+      "zh": "我需要把睡袋压小一点。",
+      "en": "I need to compress the sleeping bag.",
+      "answers": [
+        "I need to compress the sleeping bag."
+      ],
+      "notes": "compress：压缩",
+      "tags": [
+        "户外运动",
+        "装备"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0009",
+      "zh": "绳结松了，先检查一下。",
+      "en": "The knot is loose; check it first.",
+      "answers": [
+        "The knot is loose; check it first."
+      ],
+      "notes": "knot：绳结",
+      "tags": [
+        "户外运动",
+        "装备"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0010",
+      "zh": "这个扣具戴手套也能打开。",
+      "en": "This buckle opens even with gloves on.",
+      "answers": [
+        "This buckle opens even with gloves on."
+      ],
+      "notes": "buckle：扣具",
+      "tags": [
+        "户外运动",
+        "装备"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0011",
+      "zh": "岔路口没有明显标志。",
+      "en": "There is no clear sign at the fork.",
+      "answers": [
+        "There is no clear sign at the fork."
+      ],
+      "notes": "fork：岔路",
+      "tags": [
+        "户外运动",
+        "路线"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0012",
+      "zh": "这段路沿着山脊走。",
+      "en": "This section follows the ridge.",
+      "answers": [
+        "This section follows the ridge."
+      ],
+      "notes": "ridge：山脊",
+      "tags": [
+        "户外运动",
+        "路线"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0013",
+      "zh": "我们已经偏离了标记路线。",
+      "en": "We have strayed from the marked route.",
+      "answers": [
+        "We have strayed from the marked route."
+      ],
+      "notes": "stray from：偏离",
+      "tags": [
+        "户外运动",
+        "路线"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0014",
+      "zh": "这幅地图的比例尺太小，无法显示足够的细节。",
+      "en": "The map scale is too small to show enough detail.",
+      "answers": [
+        "The map scale is too small to show enough detail."
+      ],
+      "notes": "too ... to 表示比例尺小所造成的限制。",
+      "tags": [
+        "户外运动",
+        "路线"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0015",
+      "zh": "那条近路需要涉水吗？",
+      "en": "Does that shortcut involve crossing water?",
+      "answers": [
+        "Does that shortcut involve crossing water?"
+      ],
+      "notes": "shortcut：近路",
+      "tags": [
+        "户外运动",
+        "路线"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0016",
+      "zh": "返程比去程更陡。",
+      "en": "The return route is steeper than the outward one.",
+      "answers": [
+        "The return route is steeper than the outward one."
+      ],
+      "notes": "steeper：更陡",
+      "tags": [
+        "户外运动",
+        "路线"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0017",
+      "zh": "我们到树线以上了。",
+      "en": "We are above the tree line now.",
+      "answers": [
+        "We are above the tree line now."
+      ],
+      "notes": "tree line：树线",
+      "tags": [
+        "户外运动",
+        "路线"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0018",
+      "zh": "这个环线回到同一个起点。",
+      "en": "This loop returns to the same starting point.",
+      "answers": [
+        "This loop returns to the same starting point."
+      ],
+      "notes": "loop：环线",
+      "tags": [
+        "户外运动",
+        "路线"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0019",
+      "zh": "我想选择有明确出口的路线。",
+      "en": "I want a route with clear exit points.",
+      "answers": [
+        "I want a route with clear exit points."
+      ],
+      "notes": "exit point：退出点",
+      "tags": [
+        "户外运动",
+        "路线"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0020",
+      "zh": "下一个地标是一座石桥。",
+      "en": "The next landmark is a stone bridge.",
+      "answers": [
+        "The next landmark is a stone bridge."
+      ],
+      "notes": "landmark：地标",
+      "tags": [
+        "户外运动",
+        "路线"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0021",
+      "zh": "云层正在山顶聚集。",
+      "en": "Cloud is gathering around the summit.",
+      "answers": [
+        "Cloud is gathering around the summit."
+      ],
+      "notes": "summit：山顶",
+      "tags": [
+        "户外运动",
+        "天气判断"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0022",
+      "zh": "山谷里的风小一些。",
+      "en": "The wind is weaker in the valley.",
+      "answers": [
+        "The wind is weaker in the valley."
+      ],
+      "notes": "valley：山谷",
+      "tags": [
+        "户外运动",
+        "天气判断"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0023",
+      "zh": "预报只覆盖了低海拔地区。",
+      "en": "The forecast covers lower elevations only.",
+      "answers": [
+        "The forecast covers lower elevations only."
+      ],
+      "notes": "elevation：海拔",
+      "tags": [
+        "户外运动",
+        "天气判断"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0024",
+      "zh": "雨让岩石表面变滑了。",
+      "en": "Rain has made the rock surface slippery.",
+      "answers": [
+        "Rain has made the rock surface slippery."
+      ],
+      "notes": "slippery：滑",
+      "tags": [
+        "户外运动",
+        "天气判断"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0025",
+      "zh": "我们需要重新评估今天的计划。",
+      "en": "We need to reassess today's plan.",
+      "answers": [
+        "We need to reassess today's plan."
+      ],
+      "notes": "reassess：重新评估",
+      "tags": [
+        "户外运动",
+        "天气判断"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0026",
+      "zh": "雾中很难估计距离。",
+      "en": "Distance is difficult to judge in fog.",
+      "answers": [
+        "Distance is difficult to judge in fog."
+      ],
+      "notes": "judge：判断",
+      "tags": [
+        "户外运动",
+        "天气判断"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0027",
+      "zh": "日照比预想的强。",
+      "en": "The sunshine is stronger than expected.",
+      "answers": [
+        "The sunshine is stronger than expected."
+      ],
+      "notes": "than expected",
+      "tags": [
+        "户外运动",
+        "天气判断"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0028",
+      "zh": "潮汐时间会影响可走的路段。",
+      "en": "Tide times affect which sections are accessible.",
+      "answers": [
+        "Tide times affect which sections are accessible."
+      ],
+      "notes": "tide：潮汐",
+      "tags": [
+        "户外运动",
+        "天气判断"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0029",
+      "zh": "暴风雨警报还没解除。",
+      "en": "The storm warning has not been lifted.",
+      "answers": [
+        "The storm warning has not been lifted.",
+        "The storm warning hasn't been lifted."
+      ],
+      "notes": "lift a warning",
+      "tags": [
+        "户外运动",
+        "天气判断"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0030",
+      "zh": "今天的情况不适合这条路线。",
+      "en": "Conditions are unsuitable for this route today.",
+      "answers": [
+        "Conditions are unsuitable for this route today."
+      ],
+      "notes": "unsuitable：不适合",
+      "tags": [
+        "户外运动",
+        "天气判断"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0031",
+      "zh": "我们按照走得最慢的人的速度前进。",
+      "en": "We walk at the pace of the slowest member.",
+      "answers": [
+        "We walk at the pace of the slowest member."
+      ],
+      "notes": "at the pace of：按某人的速度。",
+      "tags": [
+        "户外运动",
+        "队伍安排"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0032",
+      "zh": "我们在每个岔口重新集合。",
+      "en": "We regroup at every junction.",
+      "answers": [
+        "We regroup at every junction."
+      ],
+      "notes": "regroup：重新集合",
+      "tags": [
+        "户外运动",
+        "队伍安排"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0033",
+      "zh": "不要让队伍拉得太长。",
+      "en": "Avoid spreading the group too far apart.",
+      "answers": [
+        "Avoid spreading the group too far apart."
+      ],
+      "notes": "spread apart：分散",
+      "tags": [
+        "户外运动",
+        "队伍安排"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0034",
+      "zh": "谁负责确认最后一人跟上？",
+      "en": "Who checks that the last person keeps up?",
+      "answers": [
+        "Who checks that the last person keeps up?"
+      ],
+      "notes": "keep up：跟上",
+      "tags": [
+        "户外运动",
+        "队伍安排"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0035",
+      "zh": "我需要比别人更多的休息。",
+      "en": "I need more breaks than the others.",
+      "answers": [
+        "I need more breaks than the others."
+      ],
+      "notes": "break：休息",
+      "tags": [
+        "户外运动",
+        "队伍安排"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0036",
+      "zh": "把预计结束时间告诉组织者。",
+      "en": "Give the organiser our estimated finishing time.",
+      "answers": [
+        "Give the organiser our estimated finishing time."
+      ],
+      "notes": "estimated：预计的",
+      "tags": [
+        "户外运动",
+        "队伍安排"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0037",
+      "zh": "我们应在这里折返。",
+      "en": "We should turn back here.",
+      "answers": [
+        "We should turn back here."
+      ],
+      "notes": "turn back：折返",
+      "tags": [
+        "户外运动",
+        "队伍安排"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0038",
+      "zh": "有人想缩短今天的活动吗？",
+      "en": "Does anyone want a shorter outing today?",
+      "answers": [
+        "Does anyone want a shorter outing today?"
+      ],
+      "notes": "outing：外出活动",
+      "tags": [
+        "户外运动",
+        "队伍安排"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0039",
+      "zh": "我能负责携带公共物资。",
+      "en": "I can carry the shared supplies.",
+      "answers": [
+        "I can carry the shared supplies."
+      ],
+      "notes": "supplies：物资",
+      "tags": [
+        "户外运动",
+        "队伍安排"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0040",
+      "zh": "先清点人数再出发。",
+      "en": "Count everyone before setting out.",
+      "answers": [
+        "Count everyone before setting out."
+      ],
+      "notes": "set out：出发",
+      "tags": [
+        "户外运动",
+        "队伍安排"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0041",
+      "zh": "地面有些倾斜。",
+      "en": "The ground slopes slightly.",
+      "answers": [
+        "The ground slopes slightly."
+      ],
+      "notes": "slope：倾斜",
+      "tags": [
+        "户外运动",
+        "露营"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0042",
+      "zh": "这里不允许生明火。",
+      "en": "Open fires are not permitted here.",
+      "answers": [
+        "Open fires are not permitted here.",
+        "Open fires aren't permitted here."
+      ],
+      "notes": "open fire：明火",
+      "tags": [
+        "户外运动",
+        "露营"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0043",
+      "zh": "帐篷入口不要正对风。",
+      "en": "Keep the tent entrance out of the wind.",
+      "answers": [
+        "Keep the tent entrance out of the wind."
+      ],
+      "notes": "out of the wind",
+      "tags": [
+        "户外运动",
+        "露营"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0044",
+      "zh": "我们预订的是带电源的营位。",
+      "en": "We booked a pitch with an electrical connection.",
+      "answers": [
+        "We booked a pitch with an electrical connection."
+      ],
+      "notes": "pitch：营位",
+      "tags": [
+        "户外运动",
+        "露营"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0045",
+      "zh": "水源离营地很远。",
+      "en": "The water source is far from camp.",
+      "answers": [
+        "The water source is far from camp."
+      ],
+      "notes": "source：来源",
+      "tags": [
+        "户外运动",
+        "露营"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0046",
+      "zh": "夜里食物存放有什么规定？",
+      "en": "What rules apply to storing food overnight?",
+      "answers": [
+        "What rules apply to storing food overnight?"
+      ],
+      "notes": "apply to：适用",
+      "tags": [
+        "户外运动",
+        "露营"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0047",
+      "zh": "这块地属于私人所有。",
+      "en": "This land is privately owned.",
+      "answers": [
+        "This land is privately owned."
+      ],
+      "notes": "privately owned",
+      "tags": [
+        "户外运动",
+        "露营"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0048",
+      "zh": "我们要把垃圾全部带走。",
+      "en": "We will carry all our rubbish out.",
+      "answers": [
+        "We will carry all our rubbish out."
+      ],
+      "notes": "carry out：带离",
+      "tags": [
+        "户外运动",
+        "露营"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0049",
+      "zh": "睡垫放气了。",
+      "en": "The sleeping mat has deflated.",
+      "answers": [
+        "The sleeping mat has deflated."
+      ],
+      "notes": "deflate：漏气变瘪",
+      "tags": [
+        "户外运动",
+        "露营"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0050",
+      "zh": "离开时检查有没有落下绳子。",
+      "en": "Check for forgotten ropes before leaving.",
+      "answers": [
+        "Check for forgotten ropes before leaving."
+      ],
+      "notes": "check for：检查有无",
+      "tags": [
+        "户外运动",
+        "露营"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0051",
+      "zh": "这段赛道有急转弯。",
+      "en": "This part of the course has sharp bends.",
+      "answers": [
+        "This part of the course has sharp bends."
+      ],
+      "notes": "sharp bend：急弯",
+      "tags": [
+        "户外运动",
+        "跑步与骑行"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0052",
+      "zh": "我不想一开始就冲太快。",
+      "en": "I do not want to start too fast.",
+      "answers": [
+        "I do not want to start too fast.",
+        "I don't want to start too fast."
+      ],
+      "notes": "start too fast",
+      "tags": [
+        "户外运动",
+        "跑步与骑行"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0053",
+      "zh": "我们在下一处补给点见。",
+      "en": "Meet me at the next refreshment station.",
+      "answers": [
+        "Meet me at the next refreshment station."
+      ],
+      "notes": "refreshment station：补给站",
+      "tags": [
+        "户外运动",
+        "跑步与骑行"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0054",
+      "zh": "号码布需要放在前面吗？",
+      "en": "Does the race number need to face forwards?",
+      "answers": [
+        "Does the race number need to face forwards?"
+      ],
+      "notes": "face forwards：朝前",
+      "tags": [
+        "户外运动",
+        "跑步与骑行"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0055",
+      "zh": "我的链条掉了。",
+      "en": "My chain has come off.",
+      "answers": [
+        "My chain has come off."
+      ],
+      "notes": "come off：脱落",
+      "tags": [
+        "户外运动",
+        "跑步与骑行"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0056",
+      "zh": "刹车碰到了轮圈。",
+      "en": "The brake is rubbing against the rim.",
+      "answers": [
+        "The brake is rubbing against the rim."
+      ],
+      "notes": "rim：轮圈",
+      "tags": [
+        "户外运动",
+        "跑步与骑行"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0057",
+      "zh": "自行车道前面并入公路。",
+      "en": "The cycle path merges with the road ahead.",
+      "answers": [
+        "The cycle path merges with the road ahead."
+      ],
+      "notes": "merge with：汇入",
+      "tags": [
+        "户外运动",
+        "跑步与骑行"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0058",
+      "zh": "我会提前示意转弯。",
+      "en": "I will signal before turning.",
+      "answers": [
+        "I will signal before turning."
+      ],
+      "notes": "signal：发信号",
+      "tags": [
+        "户外运动",
+        "跑步与骑行"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0059",
+      "zh": "这个车座需要降低。",
+      "en": "This saddle needs lowering.",
+      "answers": [
+        "This saddle needs lowering."
+      ],
+      "notes": "saddle：车座",
+      "tags": [
+        "户外运动",
+        "跑步与骑行"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0060",
+      "zh": "逆风骑行比预期费劲。",
+      "en": "Cycling into the wind was harder than expected.",
+      "answers": [
+        "Cycling into the wind was harder than expected."
+      ],
+      "notes": "into the wind：逆风",
+      "tags": [
+        "户外运动",
+        "跑步与骑行"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0061",
+      "zh": "这个球失去弹性了。",
+      "en": "This ball has lost its bounce.",
+      "answers": [
+        "This ball has lost its bounce."
+      ],
+      "notes": "bounce：弹性",
+      "tags": [
+        "户外运动",
+        "球类活动"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0062",
+      "zh": "边线外也算出界吗？",
+      "en": "Does landing beyond the sideline count as out?",
+      "answers": [
+        "Does landing beyond the sideline count as out?"
+      ],
+      "notes": "count as：算作",
+      "tags": [
+        "户外运动",
+        "球类活动"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0063",
+      "zh": "我们轮流发球。",
+      "en": "We take turns serving.",
+      "answers": [
+        "We take turns serving."
+      ],
+      "notes": "serve：发球",
+      "tags": [
+        "户外运动",
+        "球类活动"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0064",
+      "zh": "我还不熟悉计分方式。",
+      "en": "I am unfamiliar with the scoring system.",
+      "answers": [
+        "I am unfamiliar with the scoring system."
+      ],
+      "notes": "scoring：计分",
+      "tags": [
+        "户外运动",
+        "球类活动"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0065",
+      "zh": "这次传球给得太靠后了。",
+      "en": "That pass was too far behind me.",
+      "answers": [
+        "That pass was too far behind me."
+      ],
+      "notes": "pass：传球",
+      "tags": [
+        "户外运动",
+        "球类活动"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0066",
+      "zh": "教练让我们拉开空间。",
+      "en": "The coach asked us to spread out.",
+      "answers": [
+        "The coach asked us to spread out."
+      ],
+      "notes": "spread out：拉开",
+      "tags": [
+        "户外运动",
+        "球类活动"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0067",
+      "zh": "球网的高度不对。",
+      "en": "The net is at the wrong height.",
+      "answers": [
+        "The net is at the wrong height."
+      ],
+      "notes": "at a height",
+      "tags": [
+        "户外运动",
+        "球类活动"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0068",
+      "zh": "我们缺一名守门员。",
+      "en": "We are short of a goalkeeper.",
+      "answers": [
+        "We are short of a goalkeeper."
+      ],
+      "notes": "short of：缺少",
+      "tags": [
+        "户外运动",
+        "球类活动"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0069",
+      "zh": "换人需要裁判同意吗？",
+      "en": "Does a substitution need the referee's approval?",
+      "answers": [
+        "Does a substitution need the referee's approval?"
+      ],
+      "notes": "substitution：换人",
+      "tags": [
+        "户外运动",
+        "球类活动"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0070",
+      "zh": "比分持平，还剩两分钟。",
+      "en": "The scores are level with two minutes left.",
+      "answers": [
+        "The scores are level with two minutes left."
+      ],
+      "notes": "level：持平",
+      "tags": [
+        "户外运动",
+        "球类活动"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0071",
+      "zh": "泳池的浅水区在另一端。",
+      "en": "The shallow section is at the opposite end of the pool.",
+      "answers": [
+        "The shallow section is at the opposite end of the pool."
+      ],
+      "notes": "at the opposite end：在另一端。",
+      "tags": [
+        "户外运动",
+        "游泳与水上活动"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0072",
+      "zh": "泳道按速度分开了吗？",
+      "en": "Are the lanes divided by swimming speed?",
+      "answers": [
+        "Are the lanes divided by swimming speed?"
+      ],
+      "notes": "lane：泳道",
+      "tags": [
+        "户外运动",
+        "游泳与水上活动"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0073",
+      "zh": "这个活动需要通过能力测试吗？",
+      "en": "Does this activity require an ability assessment?",
+      "answers": [
+        "Does this activity require an ability assessment?"
+      ],
+      "notes": "assessment：评估",
+      "tags": [
+        "户外运动",
+        "游泳与水上活动"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0074",
+      "zh": "救生衣的扣带需要调整。",
+      "en": "The life jacket straps need adjusting.",
+      "answers": [
+        "The life jacket straps need adjusting."
+      ],
+      "notes": "life jacket：救生衣",
+      "tags": [
+        "户外运动",
+        "游泳与水上活动"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0075",
+      "zh": "我们想先听完整的说明。",
+      "en": "We want to hear the full briefing first.",
+      "answers": [
+        "We want to hear the full briefing first."
+      ],
+      "notes": "briefing：活动说明",
+      "tags": [
+        "户外运动",
+        "游泳与水上活动"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0076",
+      "zh": "水流方向已经变了。",
+      "en": "The current has changed direction.",
+      "answers": [
+        "The current has changed direction."
+      ],
+      "notes": "current：水流",
+      "tags": [
+        "户外运动",
+        "游泳与水上活动"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0077",
+      "zh": "租用的设备在哪里归还？",
+      "en": "Where should the hired equipment be returned?",
+      "answers": [
+        "Where should the hired equipment be returned?"
+      ],
+      "notes": "hired：租用的",
+      "tags": [
+        "户外运动",
+        "游泳与水上活动"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0078",
+      "zh": "我不熟悉这片水域。",
+      "en": "I am unfamiliar with these waters.",
+      "answers": [
+        "I am unfamiliar with these waters."
+      ],
+      "notes": "waters：水域",
+      "tags": [
+        "户外运动",
+        "游泳与水上活动"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0079",
+      "zh": "这个区域没有工作人员值守。",
+      "en": "This area has no staff supervision.",
+      "answers": [
+        "This area has no staff supervision."
+      ],
+      "notes": "supervision：看护",
+      "tags": [
+        "户外运动",
+        "游泳与水上活动"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0080",
+      "zh": "我们决定参加由教练带领的活动。",
+      "en": "We decided to join a session led by an instructor.",
+      "answers": [
+        "We decided to join a session led by an instructor."
+      ],
+      "notes": "led by 过去分词短语表示由谁带领。",
+      "tags": [
+        "户外运动",
+        "游泳与水上活动"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "outdoor_sports_v3_0081",
+      "zh": "我想记录鸟鸣，而不是追着鸟跑。",
+      "en": "I want to record birdsong without chasing birds.",
+      "answers": [
+        "I want to record birdsong without chasing birds."
+      ],
+      "notes": "birdsong：鸟鸣",
+      "tags": [
+        "户外运动",
+        "自然观察"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0082",
+      "zh": "望远镜的焦距还没调好。",
+      "en": "The binoculars are not in focus yet.",
+      "answers": [
+        "The binoculars are not in focus yet.",
+        "The binoculars aren't in focus yet."
+      ],
+      "notes": "in focus：对焦清楚",
+      "tags": [
+        "户外运动",
+        "自然观察"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0083",
+      "zh": "脚印在湿泥里很清楚。",
+      "en": "The tracks are clear in the wet mud.",
+      "answers": [
+        "The tracks are clear in the wet mud."
+      ],
+      "notes": "track：足迹",
+      "tags": [
+        "户外运动",
+        "自然观察"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0084",
+      "zh": "这朵花长在背阴处。",
+      "en": "This flower grows in the shade.",
+      "answers": [
+        "This flower grows in the shade."
+      ],
+      "notes": "in the shade",
+      "tags": [
+        "户外运动",
+        "自然观察"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0085",
+      "zh": "请留在铺设的步道上。",
+      "en": "Please stay on the surfaced path.",
+      "answers": [
+        "Please stay on the surfaced path."
+      ],
+      "notes": "surfaced：铺设好的",
+      "tags": [
+        "户外运动",
+        "自然观察"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0086",
+      "zh": "我们用照片帮助辨认，不采摘。",
+      "en": "We use photographs for identification without picking anything.",
+      "answers": [
+        "We use photographs for identification without picking anything."
+      ],
+      "notes": "identification：辨认",
+      "tags": [
+        "户外运动",
+        "自然观察"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0087",
+      "zh": "我没能确定那是什么动物。",
+      "en": "I could not identify the animal.",
+      "answers": [
+        "I could not identify the animal.",
+        "I couldn't identify the animal."
+      ],
+      "notes": "identify：辨认",
+      "tags": [
+        "户外运动",
+        "自然观察"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0088",
+      "zh": "潮池里的水比外面的海水平静。",
+      "en": "The water in the rock pool is calmer than the sea beyond it.",
+      "answers": [
+        "The water in the rock pool is calmer than the sea beyond it."
+      ],
+      "notes": "than 明确比较对象；rock pool：潮池。",
+      "tags": [
+        "户外运动",
+        "自然观察"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0089",
+      "zh": "观察地点需要保持安静。",
+      "en": "The observation area needs to stay quiet.",
+      "answers": [
+        "The observation area needs to stay quiet."
+      ],
+      "notes": "observation：观察",
+      "tags": [
+        "户外运动",
+        "自然观察"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0090",
+      "zh": "我把看到的时间也记下了。",
+      "en": "I recorded the time of the sighting too.",
+      "answers": [
+        "I recorded the time of the sighting too."
+      ],
+      "notes": "sighting：目击",
+      "tags": [
+        "户外运动",
+        "自然观察"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0091",
+      "zh": "这条路线比宣传的更吃力。",
+      "en": "The route was more demanding than advertised.",
+      "answers": [
+        "The route was more demanding than advertised."
+      ],
+      "notes": "demanding：费力",
+      "tags": [
+        "户外运动",
+        "活动反馈"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0092",
+      "zh": "活动说明遗漏了长距离步行。",
+      "en": "The description left out the long walk.",
+      "answers": [
+        "The description left out the long walk."
+      ],
+      "notes": "leave out：遗漏",
+      "tags": [
+        "户外运动",
+        "活动反馈"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0093",
+      "zh": "新手需要更多练习时间。",
+      "en": "Beginners need more time to practise.",
+      "answers": [
+        "Beginners need more time to practise."
+      ],
+      "notes": "beginner：初学者",
+      "tags": [
+        "户外运动",
+        "活动反馈"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0094",
+      "zh": "我们完成了目标，但速度并不快。",
+      "en": "We reached our goal without being fast.",
+      "answers": [
+        "We reached our goal without being fast."
+      ],
+      "notes": "without doing",
+      "tags": [
+        "户外运动",
+        "活动反馈"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0095",
+      "zh": "我学会了根据情况改变安排。",
+      "en": "I learned to adapt the plan to conditions.",
+      "answers": [
+        "I learned to adapt the plan to conditions."
+      ],
+      "notes": "adapt to：适应",
+      "tags": [
+        "户外运动",
+        "活动反馈"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0096",
+      "zh": "这次团队配合比个人成绩重要。",
+      "en": "Teamwork mattered more than individual results this time.",
+      "answers": [
+        "Teamwork mattered more than individual results this time."
+      ],
+      "notes": "matter：重要",
+      "tags": [
+        "户外运动",
+        "活动反馈"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0097",
+      "zh": "设备归还时要检查完整性。",
+      "en": "Check that the equipment is complete when returning it.",
+      "answers": [
+        "Check that the equipment is complete when returning it."
+      ],
+      "notes": "complete：齐全",
+      "tags": [
+        "户外运动",
+        "活动反馈"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0098",
+      "zh": "我们给组织者留下了路线反馈。",
+      "en": "We left route feedback for the organiser.",
+      "answers": [
+        "We left route feedback for the organiser."
+      ],
+      "notes": "feedback：反馈",
+      "tags": [
+        "户外运动",
+        "活动反馈"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0099",
+      "zh": "我下次会选择更短的活动。",
+      "en": "I will choose a shorter session next time.",
+      "answers": [
+        "I will choose a shorter session next time."
+      ],
+      "notes": "session：一场活动",
+      "tags": [
+        "户外运动",
+        "活动反馈"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "outdoor_sports_v3_0100",
+      "zh": "休闲活动也需要合理安排。",
+      "en": "Leisure activities need sensible planning too.",
+      "answers": [
+        "Leisure activities need sensible planning too."
+      ],
+      "notes": "leisure：休闲",
+      "tags": [
+        "户外运动",
+        "活动反馈"
+      ],
+      "difficulty": 2
+    }
+  ]
+}

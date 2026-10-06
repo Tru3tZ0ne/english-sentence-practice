@@ -1,0 +1,982 @@
+{
+  "schema_version": 1,
+  "id": "level_primary_daily",
+  "title": "分级 · 小学｜生活与课堂 · 60 句",
+  "description": "从课堂参与、整理书包、家庭分工到餐桌表达与同伴交往。适合小学中高年级的基础句子练习。",
+  "language": "en-GB",
+  "tags": [
+    "分级训练",
+    "小学",
+    "小学基础",
+    "生活与课堂"
+  ],
+  "items": [
+    {
+      "id": "level_primary_daily_g1_0001",
+      "zh": "我能坐在这里吗？",
+      "en": "May I sit here?",
+      "answers": [
+        "May I sit here?"
+      ],
+      "notes": "May I ...?：礼貌询问许可。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "课堂参与"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0002",
+      "zh": "我还没有写完名字。",
+      "en": "I have not finished writing my name.",
+      "answers": [
+        "I have not finished writing my name.",
+        "I haven't finished writing my name."
+      ],
+      "notes": "finish doing：做完；name：名字。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "课堂参与"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_daily_g1_0003",
+      "zh": "请把书翻到第八页。",
+      "en": "Open your book to page eight, please.",
+      "answers": [
+        "Open your book to page eight, please."
+      ],
+      "notes": "open ... to page ...：翻到某一页。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "课堂参与"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0004",
+      "zh": "谁想第一个试试？",
+      "en": "Who wants to try first?",
+      "answers": [
+        "Who wants to try first?"
+      ],
+      "notes": "who 作主语，后接 wants。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "课堂参与"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0005",
+      "zh": "这道题有两个答案。",
+      "en": "This question has two answers.",
+      "answers": [
+        "This question has two answers."
+      ],
+      "notes": "has：有；two 后用复数 answers。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "课堂参与"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0006",
+      "zh": "黑板上的字太小了。",
+      "en": "The words on the board are too small.",
+      "answers": [
+        "The words on the board are too small."
+      ],
+      "notes": "on the board：在黑板上。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "课堂参与"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0007",
+      "zh": "我们可以两个人一起做。",
+      "en": "We can work in pairs.",
+      "answers": [
+        "We can work in pairs."
+      ],
+      "notes": "in pairs：两人一组。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "课堂参与"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0008",
+      "zh": "铃响了，收好你的东西。",
+      "en": "There goes the bell. Pack your things away.",
+      "answers": [
+        "There goes the bell. Pack your things away."
+      ],
+      "notes": "There goes the bell：铃响了；pack away：收好。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "课堂参与"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_daily_g1_0009",
+      "zh": "我知道怎么拼这个词。",
+      "en": "I know how to spell this word.",
+      "answers": [
+        "I know how to spell this word."
+      ],
+      "notes": "how to spell：怎么拼写。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "课堂参与"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_daily_g1_0010",
+      "zh": "请在正确的图片下面画线。",
+      "en": "Draw a line under the correct picture.",
+      "answers": [
+        "Draw a line under the correct picture."
+      ],
+      "notes": "under：在下面；draw a line：画线。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "课堂参与"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0011",
+      "zh": "我的橡皮掉到桌子下面了。",
+      "en": "My rubber fell under the desk.",
+      "answers": [
+        "My rubber fell under the desk."
+      ],
+      "notes": "fell 是 fall 的过去式；under：在下面。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "整理书包"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0012",
+      "zh": "这不是我的水杯。",
+      "en": "This cup is not mine.",
+      "answers": [
+        "This cup is not mine.",
+        "This cup isn't mine."
+      ],
+      "notes": "mine：我的东西，后面不再接名词。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "整理书包"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0013",
+      "zh": "你的名字在书的封面上。",
+      "en": "Your name is on the book cover.",
+      "answers": [
+        "Your name is on the book cover."
+      ],
+      "notes": "book cover：书的封面。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "整理书包"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0014",
+      "zh": "我把午餐盒放进书包了。",
+      "en": "I put my lunch box in my schoolbag.",
+      "answers": [
+        "I put my lunch box in my schoolbag."
+      ],
+      "notes": "put ... in ...：把……放进……。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "整理书包"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_daily_g1_0015",
+      "zh": "这个书包从侧面打开。",
+      "en": "This schoolbag opens from the side.",
+      "answers": [
+        "This schoolbag opens from the side."
+      ],
+      "notes": "from the side：从侧面；opens 表示打开方式。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "整理书包"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0016",
+      "zh": "只带明天要用的书。",
+      "en": "Bring only the books you need tomorrow.",
+      "answers": [
+        "Bring only the books you need tomorrow."
+      ],
+      "notes": "only：只；you need 限定需要的书。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "整理书包"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_daily_g1_0017",
+      "zh": "谁拿了我的蓝色文件夹？",
+      "en": "Who took my blue folder?",
+      "answers": [
+        "Who took my blue folder?"
+      ],
+      "notes": "took：拿了；folder：文件夹。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "整理书包"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0018",
+      "zh": "这支蜡笔断成两截了。",
+      "en": "This crayon broke in two.",
+      "answers": [
+        "This crayon broke in two."
+      ],
+      "notes": "break in two：断成两截。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "整理书包"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0019",
+      "zh": "我少了一只手套。",
+      "en": "One of my gloves is missing.",
+      "answers": [
+        "One of my gloves is missing."
+      ],
+      "notes": "one of 后接复数 gloves，主语仍是 one。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "整理书包"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_daily_g1_0020",
+      "zh": "把剪刀收进盒子里。",
+      "en": "Put the scissors away in the box.",
+      "answers": [
+        "Put the scissors away in the box."
+      ],
+      "notes": "scissors 通常用复数；put away：收好。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "整理书包"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0021",
+      "zh": "我来摆碗，你来摆勺子。",
+      "en": "I will put out the bowls; you do the spoons.",
+      "answers": [
+        "I will put out the bowls; you do the spoons."
+      ],
+      "notes": "put out：摆好；后半句 do 代替重复动作。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "家中分工"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0022",
+      "zh": "袜子已经干了，可以收进来了。",
+      "en": "The socks are dry. We can bring them in.",
+      "answers": [
+        "The socks are dry. We can bring them in."
+      ],
+      "notes": "dry：干的；them 指袜子。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "家中分工"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0023",
+      "zh": "猫把毛线球滚到了沙发后面。",
+      "en": "The cat rolled a ball of wool behind the sofa.",
+      "answers": [
+        "The cat rolled a ball of wool behind the sofa."
+      ],
+      "notes": "a ball of wool：毛线球；behind：在后面。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "家中分工"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_daily_g1_0024",
+      "zh": "门开着，冷风进来了。",
+      "en": "The door is open, and cold air is coming in.",
+      "answers": [
+        "The door is open, and cold air is coming in."
+      ],
+      "notes": "open：开着的；come in：进来。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "家中分工"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0025",
+      "zh": "这只抽屉只能拉开一半。",
+      "en": "This drawer only opens halfway.",
+      "answers": [
+        "This drawer only opens halfway."
+      ],
+      "notes": "halfway：到一半；drawer：抽屉。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "家中分工"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0026",
+      "zh": "我够不到最上面的架子。",
+      "en": "I cannot reach the top shelf.",
+      "answers": [
+        "I cannot reach the top shelf.",
+        "I can't reach the top shelf."
+      ],
+      "notes": "reach：够到；top shelf：最上层架子。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "家中分工"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0027",
+      "zh": "爸爸正在给自行车打气。",
+      "en": "Dad is pumping up the bicycle tyres.",
+      "answers": [
+        "Dad is pumping up the bicycle tyres."
+      ],
+      "notes": "is pumping：正在做；pump up：打气。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "家中分工"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_daily_g1_0028",
+      "zh": "别把湿毛巾放在床上。",
+      "en": "Keep the wet towel off the bed.",
+      "answers": [
+        "Keep the wet towel off the bed."
+      ],
+      "notes": "keep ... off ...：不让……放在……上。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "家中分工"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0029",
+      "zh": "我们今天不用浇花。",
+      "en": "The flowers do not need water today.",
+      "answers": [
+        "The flowers do not need water today.",
+        "The flowers don't need water today."
+      ],
+      "notes": "need water：需要水；flowers 为复数。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "家中分工"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0030",
+      "zh": "轮到我倒垃圾了。",
+      "en": "It is my turn to take out the rubbish.",
+      "answers": [
+        "It is my turn to take out the rubbish."
+      ],
+      "notes": "my turn to ...：轮到我做……。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "家中分工"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_daily_g1_0031",
+      "zh": "我还想要一点汤。",
+      "en": "I would like a little more soup.",
+      "answers": [
+        "I would like a little more soup."
+      ],
+      "notes": "a little more：再来一点，用于不可数名词。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "餐桌表达"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0032",
+      "zh": "这个苹果里面是红色的。",
+      "en": "This apple is red inside.",
+      "answers": [
+        "This apple is red inside."
+      ],
+      "notes": "inside：在里面。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "餐桌表达"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0033",
+      "zh": "别急着吃，粥还很烫。",
+      "en": "Wait before eating. The porridge is still hot.",
+      "answers": [
+        "Wait before eating. The porridge is still hot."
+      ],
+      "notes": "still：仍然；porridge：粥。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "餐桌表达"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0034",
+      "zh": "我们每人分到半个梨。",
+      "en": "We each get half a pear.",
+      "answers": [
+        "We each get half a pear."
+      ],
+      "notes": "each：每人；half a pear：半个梨。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "餐桌表达"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0035",
+      "zh": "桌上没有干净的叉子了。",
+      "en": "There are no clean forks on the table.",
+      "answers": [
+        "There are no clean forks on the table."
+      ],
+      "notes": "there are no ...：没有……。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "餐桌表达"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0036",
+      "zh": "请把空盘子叠起来。",
+      "en": "Stack the empty plates, please.",
+      "answers": [
+        "Stack the empty plates, please."
+      ],
+      "notes": "stack：叠放；empty：空的。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "餐桌表达"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0037",
+      "zh": "我把果汁洒在鞋上了。",
+      "en": "I spilled juice on my shoes.",
+      "answers": [
+        "I spilled juice on my shoes."
+      ],
+      "notes": "spill ... on ...：把……洒在……上。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "餐桌表达"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0038",
+      "zh": "这块面包硬得咬不动。",
+      "en": "This bread is too hard to bite.",
+      "answers": [
+        "This bread is too hard to bite."
+      ],
+      "notes": "too ... to ...：太……而不能……。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "餐桌表达"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_daily_g1_0039",
+      "zh": "你想把橘子留到以后吃吗？",
+      "en": "Do you want to save the orange for later?",
+      "answers": [
+        "Do you want to save the orange for later?"
+      ],
+      "notes": "save ... for later：留到以后。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "餐桌表达"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0040",
+      "zh": "饼干藏在罐子的最底下。",
+      "en": "The biscuits are at the bottom of the tin.",
+      "answers": [
+        "The biscuits are at the bottom of the tin."
+      ],
+      "notes": "at the bottom of：在……最底部。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "餐桌表达"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0041",
+      "zh": "你先选，我选剩下的。",
+      "en": "You choose first. I will take the other one.",
+      "answers": [
+        "You choose first. I will take the other one."
+      ],
+      "notes": "the other one：两个中剩下的一个。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "同伴交往"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0042",
+      "zh": "我们给新同学留点地方吧。",
+      "en": "Let's make room for the new pupil.",
+      "answers": [
+        "Let's make room for the new pupil."
+      ],
+      "notes": "make room for：给……腾出地方。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "同伴交往"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0043",
+      "zh": "那只是玩笑，但我不喜欢。",
+      "en": "It was a joke, but I did not like it.",
+      "answers": [
+        "It was a joke, but I did not like it.",
+        "It was a joke, but I didn't like it."
+      ],
+      "notes": "but 连接转折；joke：玩笑。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "同伴交往"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0044",
+      "zh": "我不是故意推你的。",
+      "en": "I did not push you on purpose.",
+      "answers": [
+        "I did not push you on purpose.",
+        "I didn't push you on purpose."
+      ],
+      "notes": "on purpose：故意地。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "同伴交往"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0045",
+      "zh": "你愿意加入我们的队吗？",
+      "en": "Would you like to join our team?",
+      "answers": [
+        "Would you like to join our team?"
+      ],
+      "notes": "would you like to：邀请；join：加入。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "同伴交往"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0046",
+      "zh": "不用人人都选一样的颜色。",
+      "en": "We do not all have to choose the same colour.",
+      "answers": [
+        "We do not all have to choose the same colour.",
+        "We don't all have to choose the same colour."
+      ],
+      "notes": "not all：不必每个人都……。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "同伴交往"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_daily_g1_0047",
+      "zh": "她把座位让给了我。",
+      "en": "She gave me her seat.",
+      "answers": [
+        "She gave me her seat."
+      ],
+      "notes": "give someone something：把某物给某人。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "同伴交往"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0048",
+      "zh": "我答应给他留一张贴纸。",
+      "en": "I promised to save him a sticker.",
+      "answers": [
+        "I promised to save him a sticker."
+      ],
+      "notes": "promise to：答应做；save someone something：给某人留某物。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "同伴交往"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_daily_g1_0049",
+      "zh": "这幅画是我们一起完成的。",
+      "en": "We made this picture together.",
+      "answers": [
+        "We made this picture together."
+      ],
+      "notes": "together：一起；made 是 make 的过去式。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "同伴交往"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0050",
+      "zh": "输了也可以再试一次。",
+      "en": "You can try again after losing.",
+      "answers": [
+        "You can try again after losing."
+      ],
+      "notes": "after doing：做过……之后；lose：输。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "同伴交往"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0051",
+      "zh": "吃完早饭再穿外套。",
+      "en": "Put your coat on after breakfast.",
+      "answers": [
+        "Put your coat on after breakfast."
+      ],
+      "notes": "put on：穿上；after：在……之后。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "一天的安排"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0052",
+      "zh": "今天比平时晚出门了。",
+      "en": "We left home later than usual today.",
+      "answers": [
+        "We left home later than usual today."
+      ],
+      "notes": "later than usual：比平时更晚。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "一天的安排"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0053",
+      "zh": "早读开始前还有十分钟。",
+      "en": "We have ten minutes before morning reading starts.",
+      "answers": [
+        "We have ten minutes before morning reading starts."
+      ],
+      "notes": "before 连接时间关系。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "一天的安排"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_daily_g1_0054",
+      "zh": "音乐课改到下午了。",
+      "en": "The music lesson is now in the afternoon.",
+      "answers": [
+        "The music lesson is now in the afternoon."
+      ],
+      "notes": "in the afternoon：在下午；now 表示当前安排。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "一天的安排"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0055",
+      "zh": "我每周三去看奶奶。",
+      "en": "I visit Grandma on Wednesdays.",
+      "answers": [
+        "I visit Grandma on Wednesdays."
+      ],
+      "notes": "on Wednesdays：每逢周三。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "一天的安排"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0056",
+      "zh": "作业做完以后，我才打开电视。",
+      "en": "I finish my homework before turning on the television.",
+      "answers": [
+        "I finish my homework before turning on the television."
+      ],
+      "notes": "before doing：做某事之前；turn on：打开。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "一天的安排"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_daily_g1_0057",
+      "zh": "今晚谁来接我？",
+      "en": "Who is picking me up tonight?",
+      "answers": [
+        "Who is picking me up tonight?"
+      ],
+      "notes": "pick someone up：接某人；进行时可表示已安排的事。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "一天的安排"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_daily_g1_0058",
+      "zh": "钟慢了，我们可能会迟到。",
+      "en": "The clock is slow. We may be late.",
+      "answers": [
+        "The clock is slow. We may be late."
+      ],
+      "notes": "may：可能；slow 用于钟表表示走得慢。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "一天的安排"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0059",
+      "zh": "睡觉前我喜欢听一个故事。",
+      "en": "I like a story before bed.",
+      "answers": [
+        "I like a story before bed."
+      ],
+      "notes": "before bed：睡觉前。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "一天的安排"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_daily_g1_0060",
+      "zh": "明天早上记得带雨鞋。",
+      "en": "Remember your rain boots tomorrow morning.",
+      "answers": [
+        "Remember your rain boots tomorrow morning."
+      ],
+      "notes": "remember 在此提醒不要忘记带某物。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学基础",
+        "一天的安排"
+      ],
+      "difficulty": 1
+    }
+  ]
+}

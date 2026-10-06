@@ -1,0 +1,994 @@
+{
+  "schema_version": 1,
+  "id": "level_cet6_precision",
+  "title": "分级 · 六级｜证据限定与精确表达 · 60 句",
+  "description": "量词范围、信息压缩、研究报告、责任归属、不确定性及条件提案；加强复杂结构与语义精度。",
+  "language": "en-GB",
+  "tags": [
+    "分级训练",
+    "六级",
+    "CET6",
+    "证据限定与精确表达"
+  ],
+  "items": [
+    {
+      "id": "level_cet6_precision_g1_0001",
+      "zh": "“部分项目没有改善”不能改写成“所有项目都没有改善”。",
+      "en": "A lack of improvement in some projects must not be restated as a lack of improvement in all projects.",
+      "answers": [
+        "A lack of improvement in some projects must not be restated as a lack of improvement in all projects.",
+        "A lack of improvement in some projects mustn't be restated as a lack of improvement in all projects."
+      ],
+      "notes": "some 与 all 的量词范围不同，不能扩大否定。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "限定范围与量词"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0002",
+      "zh": "这项结论适用于接受过培训的参与者，未必适用于初次使用者。",
+      "en": "The conclusion applies to trained participants and cannot necessarily be extended to first-time users.",
+      "answers": [
+        "The conclusion applies to trained participants and cannot necessarily be extended to first-time users.",
+        "The conclusion applies to trained participants and can't necessarily be extended to first-time users."
+      ],
+      "notes": "be extended to：推广到；necessarily 限定推论强度。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "限定范围与量词"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0003",
+      "zh": "现有记录最多只能说明申请曾被提交，不能说明它得到过批准。",
+      "en": "The available record establishes, at most, that an application was submitted, not that it was approved.",
+      "answers": [
+        "The available record establishes, at most, that an application was submitted, not that it was approved."
+      ],
+      "notes": "at most：最多；not that 区分两个从句的证明范围。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "限定范围与量词"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0004",
+      "zh": "我们没有发现足够的理由排除这种解释，但也没有证据确认它。",
+      "en": "We found insufficient grounds to rule out the explanation, yet no evidence to confirm it.",
+      "answers": [
+        "We found insufficient grounds to rule out the explanation, yet no evidence to confirm it."
+      ],
+      "notes": "insufficient grounds：不足的理由；排除与确认不是互为否定。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "限定范围与量词"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0005",
+      "zh": "“通常如此”允许存在例外，不能被解读为一项没有条件的保证。",
+      "en": "A statement of what usually happens allows exceptions and should not be read as an unconditional guarantee.",
+      "answers": [
+        "A statement of what usually happens allows exceptions and should not be read as an unconditional guarantee.",
+        "A statement of what usually happens allows exceptions and shouldn't be read as an unconditional guarantee."
+      ],
+      "notes": "allow exceptions：允许例外；unconditional：无条件的。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "限定范围与量词"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0006",
+      "zh": "除非另有说明，下文的费用仅包括日常运营支出。",
+      "en": "Unless otherwise stated, the costs discussed below cover routine operating expenditure only.",
+      "answers": [
+        "Unless otherwise stated, the costs discussed below cover routine operating expenditure only."
+      ],
+      "notes": "unless otherwise stated：除非另有说明；only 限定成本范围。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "限定范围与量词"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0007",
+      "zh": "并非每位参与者都完成了全部环节，但所有人至少参加过一次。",
+      "en": "Not every participant completed every stage, although all attended at least once.",
+      "answers": [
+        "Not every participant completed every stage, although all attended at least once."
+      ],
+      "notes": "not every、every、all、at least once 分别限定不同范围。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "限定范围与量词"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0008",
+      "zh": "平均效果接近零，并不意味着任何个体都没有受到影响。",
+      "en": "An average effect close to zero does not imply an absence of effects on every individual.",
+      "answers": [
+        "An average effect close to zero does not imply an absence of effects on every individual.",
+        "An average effect close to zero doesn't imply an absence of effects on every individual."
+      ],
+      "notes": "average effect 与 individual effect 区分总体与个体。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "限定范围与量词"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0009",
+      "zh": "作者只讨论了必要条件，没有声称这些条件本身就已充分。",
+      "en": "The author identifies necessary conditions without claiming that they are sufficient in themselves.",
+      "answers": [
+        "The author identifies necessary conditions without claiming that they are sufficient in themselves."
+      ],
+      "notes": "necessary 与 sufficient：必要与充分；in themselves：本身。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "限定范围与量词"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0010",
+      "zh": "两项估算可能都合理，但它们回答的并不是同一个问题。",
+      "en": "Both estimates may be defensible even though they address different questions.",
+      "answers": [
+        "Both estimates may be defensible even though they address different questions."
+      ],
+      "notes": "defensible：有合理依据的；even though 保留差异。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "限定范围与量词"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0011",
+      "zh": "所谓“使用门槛”，这里指开始操作之前所需的时间、费用和知识。",
+      "en": "By barriers to use, we mean the time, expense and knowledge required before operation can begin.",
+      "answers": [
+        "By barriers to use, we mean the time, expense and knowledge required before operation can begin."
+      ],
+      "notes": "by ... we mean：用……指的是……；将抽象名词展开。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "压缩与展开信息"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0012",
+      "zh": "这一变化可以概括为，决策从集中审批转向了明确边界内的自主判断。",
+      "en": "The change amounts to a shift from central approval to discretionary judgement within defined limits.",
+      "answers": [
+        "The change amounts to a shift from central approval to discretionary judgement within defined limits."
+      ],
+      "notes": "a shift from ... to ...：从……转向……；discretionary：自主裁量的。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "压缩与展开信息"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0013",
+      "zh": "简化后的说明删去了重复部分，但保留了例外条件。",
+      "en": "The condensed explanation removes repetition while preserving the conditions under which exceptions apply.",
+      "answers": [
+        "The condensed explanation removes repetition while preserving the conditions under which exceptions apply."
+      ],
+      "notes": "under which 引导例外适用条件；condensed：压缩后的。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "压缩与展开信息"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0014",
+      "zh": "文中的“他们”可能指申请者，也可能指审核者，因此需要重新写明主体。",
+      "en": "The pronoun could refer to applicants or reviewers, so the relevant actor needs to be named again.",
+      "answers": [
+        "The pronoun could refer to applicants or reviewers, so the relevant actor needs to be named again."
+      ],
+      "notes": "refer to：指代；actor：行为主体。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "压缩与展开信息"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0015",
+      "zh": "把两个概念放进同一个标签，可能掩盖它们之间重要的区别。",
+      "en": "Combining two concepts under one label may obscure distinctions essential to understanding them.",
+      "answers": [
+        "Combining two concepts under one label may obscure distinctions essential to understanding them."
+      ],
+      "notes": "essential to：对……必不可少；obscure：掩盖。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "压缩与展开信息"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0016",
+      "zh": "原文同时描述了时间顺序和原因，摘要不能只保留前者。",
+      "en": "The original describes both sequence and cause; a summary must not retain the former alone.",
+      "answers": [
+        "The original describes both sequence and cause; a summary must not retain the former alone.",
+        "The original describes both sequence and cause; a summary mustn't retain the former alone."
+      ],
+      "notes": "the former：前者；sequence：顺序；cause：原因。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "压缩与展开信息"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0017",
+      "zh": "这句话省略了比较对象，因而“更有效”究竟相对于什么并不清楚。",
+      "en": "The sentence omits the comparator, leaving it unclear what greater effectiveness is measured against.",
+      "answers": [
+        "The sentence omits the comparator, leaving it unclear what greater effectiveness is measured against."
+      ],
+      "notes": "comparator：比较对象；leaving it unclear 为结果结构。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "压缩与展开信息"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0018",
+      "zh": "定义一个术语时，例子可以辅助说明，却不能总是代替定义本身。",
+      "en": "Examples can support the definition of a term without invariably substituting for the definition itself.",
+      "answers": [
+        "Examples can support the definition of a term without invariably substituting for the definition itself."
+      ],
+      "notes": "invariably：总是；substitute for：替代。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "压缩与展开信息"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0019",
+      "zh": "为了保持逻辑清楚，修改后的段落把观察结果与解释分开陈述。",
+      "en": "The revised paragraph separates observation from interpretation in the interests of logical clarity.",
+      "answers": [
+        "The revised paragraph separates observation from interpretation in the interests of logical clarity."
+      ],
+      "notes": "in the interests of：为了；separate A from B。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "压缩与展开信息"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0020",
+      "zh": "名词化能压缩信息，但过多使用会让读者难以看清谁在做什么。",
+      "en": "Nominalisation compresses information, but excessive use can obscure who is acting and what they are doing.",
+      "answers": [
+        "Nominalisation compresses information, but excessive use can obscure who is acting and what they are doing."
+      ],
+      "notes": "nominalisation：名词化；两个名词性从句还原主体与行动。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "压缩与展开信息"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0021",
+      "zh": "在这一小样本中出现的模式，应被视为值得进一步调查的线索。",
+      "en": "The pattern in this small sample should be treated as a lead for further investigation.",
+      "answers": [
+        "The pattern in this small sample should be treated as a lead for further investigation."
+      ],
+      "notes": "be treated as：被视为；lead：线索，不直接当作定论。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "报告研究结果"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0022",
+      "zh": "观察到的改善与干预时间一致，但数据没有排除季节性影响。",
+      "en": "The observed improvement coincided with the intervention, but the data did not exclude seasonal effects.",
+      "answers": [
+        "The observed improvement coincided with the intervention, but the data did not exclude seasonal effects.",
+        "The observed improvement coincided with the intervention, but the data didn't exclude seasonal effects."
+      ],
+      "notes": "coincide with：同时发生；exclude：排除。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "报告研究结果"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0023",
+      "zh": "结果对分析方法的选择较为敏感，因此结论需要谨慎表述。",
+      "en": "The results are sensitive to the analytical method chosen, warranting cautious interpretation.",
+      "answers": [
+        "The results are sensitive to the analytical method chosen, warranting cautious interpretation."
+      ],
+      "notes": "be sensitive to：对……敏感；warrant：有必要采取。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "报告研究结果"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0024",
+      "zh": "两个组在开始时已经存在差异，这使后续比较更难解释。",
+      "en": "Pre-existing differences between the groups complicate the interpretation of subsequent comparisons.",
+      "answers": [
+        "Pre-existing differences between the groups complicate the interpretation of subsequent comparisons."
+      ],
+      "notes": "pre-existing：原已存在的；complicate：使复杂。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "报告研究结果"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0025",
+      "zh": "缺失的回答集中在一个群体，可能影响总体估计。",
+      "en": "Missing responses are concentrated in one group, potentially affecting the overall estimate.",
+      "answers": [
+        "Missing responses are concentrated in one group, potentially affecting the overall estimate."
+      ],
+      "notes": "potentially 保留可能性；concentrated in：集中在。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "报告研究结果"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0026",
+      "zh": "为比较不同量表的结果，研究者将得分标准化，但原始单位的信息也随之丢失。",
+      "en": "Researchers standardised scores to compare results across scales, at the cost of losing information about the original units.",
+      "answers": [
+        "Researchers standardised scores to compare results across scales, at the cost of losing information about the original units."
+      ],
+      "notes": "standardise：标准化；at the cost of：以……为代价。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "报告研究结果"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0027",
+      "zh": "在加入额外变量后，这种联系减弱了，但没有完全消失。",
+      "en": "The association weakened after additional variables were included, though it did not disappear entirely.",
+      "answers": [
+        "The association weakened after additional variables were included, though it did not disappear entirely.",
+        "The association weakened after additional variables were included, though it didn't disappear entirely."
+      ],
+      "notes": "weakened：减弱；not ... entirely：并未完全。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "报告研究结果"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0028",
+      "zh": "研究没有记录参与者退出的原因，因此难以判断退出是否具有选择性。",
+      "en": "Reasons for withdrawal were not recorded, making it difficult to assess whether attrition was selective.",
+      "answers": [
+        "Reasons for withdrawal were not recorded, making it difficult to assess whether attrition was selective.",
+        "Reasons for withdrawal weren't recorded, making it difficult to assess whether attrition was selective."
+      ],
+      "notes": "attrition：样本流失；selective：具有选择性的。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "报告研究结果"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0029",
+      "zh": "这项发现与先前报告并不矛盾，因为两者使用了不同的结果指标。",
+      "en": "The finding need not contradict earlier reports, since they used different outcome measures.",
+      "answers": [
+        "The finding need not contradict earlier reports, since they used different outcome measures.",
+        "The finding needn't contradict earlier reports, since they used different outcome measures."
+      ],
+      "notes": "need not：未必；outcome measure：结果指标。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "报告研究结果"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0030",
+      "zh": "复核支持原先的主要结论，但指出其适用范围比最初声称的更窄。",
+      "en": "The review supports the central conclusion while identifying a narrower scope than originally claimed.",
+      "answers": [
+        "The review supports the central conclusion while identifying a narrower scope than originally claimed."
+      ],
+      "notes": "scope：适用范围；than originally claimed 为省略结构。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "报告研究结果"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0031",
+      "zh": "报告把问题归因于沟通失误，但没有确定失误发生在哪个环节。",
+      "en": "The report attributes the problem to miscommunication without locating the stage at which it occurred.",
+      "answers": [
+        "The report attributes the problem to miscommunication without locating the stage at which it occurred."
+      ],
+      "notes": "attribute ... to：归因于；at which 定位环节。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "归属与责任表述"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0032",
+      "zh": "负责执行一项决定，不一定意味着拥有修改该决定的权力。",
+      "en": "Responsibility for implementing a decision does not necessarily confer authority to revise it.",
+      "answers": [
+        "Responsibility for implementing a decision does not necessarily confer authority to revise it.",
+        "Responsibility for implementing a decision doesn't necessarily confer authority to revise it."
+      ],
+      "notes": "confer authority：赋予权力；区分执行责任与修改权。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "归属与责任表述"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0033",
+      "zh": "文件由某机构保存，并不能单独证明该机构撰写了它。",
+      "en": "Custody of a document does not, on its own, establish authorship by the institution holding it.",
+      "answers": [
+        "Custody of a document does not, on its own, establish authorship by the institution holding it.",
+        "Custody of a document doesn't, on its own, establish authorship by the institution holding it."
+      ],
+      "notes": "custody：保管；authorship：撰写归属。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "归属与责任表述"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0034",
+      "zh": "该声明代表工作组的共同立场，而非每位成员个人观点的完整呈现。",
+      "en": "The statement represents the working group's shared position, not an exhaustive account of each member's views.",
+      "answers": [
+        "The statement represents the working group's shared position, not an exhaustive account of each member's views."
+      ],
+      "notes": "exhaustive account：完整说明；shared position：共同立场。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "归属与责任表述"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0035",
+      "zh": "委托外部人员审查，不会自动免除委托方回应问题的责任。",
+      "en": "Commissioning an external review does not automatically absolve the commissioning body of responsibility to respond.",
+      "answers": [
+        "Commissioning an external review does not automatically absolve the commissioning body of responsibility to respond.",
+        "Commissioning an external review doesn't automatically absolve the commissioning body of responsibility to respond."
+      ],
+      "notes": "absolve ... of ...：免除……责任；commission：委托。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "归属与责任表述"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0036",
+      "zh": "引用他人的批评并不等于赞同，但引文的安排可能让读者产生这种印象。",
+      "en": "Quoting criticism does not constitute endorsement, although its placement may create that impression.",
+      "answers": [
+        "Quoting criticism does not constitute endorsement, although its placement may create that impression.",
+        "Quoting criticism doesn't constitute endorsement, although its placement may create that impression."
+      ],
+      "notes": "constitute endorsement：构成赞同；although 补充语境效果。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "归属与责任表述"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0037",
+      "zh": "除非记录中有明确证据，否则不应推断某人参与了最终决定。",
+      "en": "Participation in the final decision should not be inferred unless the record provides explicit evidence.",
+      "answers": [
+        "Participation in the final decision should not be inferred unless the record provides explicit evidence.",
+        "Participation in the final decision shouldn't be inferred unless the record provides explicit evidence."
+      ],
+      "notes": "be inferred：被推断；unless 引出所需依据。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "归属与责任表述"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0038",
+      "zh": "签字确认查阅过文件，与确认其中每项陈述都正确，是不同的承诺。",
+      "en": "Acknowledging that a document has been read entails a different commitment from certifying every statement as correct.",
+      "answers": [
+        "Acknowledging that a document has been read entails a different commitment from certifying every statement as correct."
+      ],
+      "notes": "acknowledge 与 certify 区分确认性质；entail：意味着。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "归属与责任表述"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0039",
+      "zh": "责任在多方之间分配，并不意味着无人需要解释结果。",
+      "en": "Distributing responsibility among several parties does not eliminate the need for someone to account for the outcome.",
+      "answers": [
+        "Distributing responsibility among several parties does not eliminate the need for someone to account for the outcome.",
+        "Distributing responsibility among several parties doesn't eliminate the need for someone to account for the outcome."
+      ],
+      "notes": "account for：解释并说明责任；among：多方之间。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "归属与责任表述"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0040",
+      "zh": "更正应说明改变了哪项判断，而不只是替换旧文件。",
+      "en": "A correction should identify the judgement revised rather than merely substitute a new document.",
+      "answers": [
+        "A correction should identify the judgement revised rather than merely substitute a new document."
+      ],
+      "notes": "judgement revised：被修订的判断；merely：仅仅。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "归属与责任表述"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0041",
+      "zh": "根据现有资料，这一解释比其他解释更有可能，但仍非唯一可能。",
+      "en": "On the available evidence, this explanation is more plausible than its alternatives without being the only possibility.",
+      "answers": [
+        "On the available evidence, this explanation is more plausible than its alternatives without being the only possibility."
+      ],
+      "notes": "plausible：合理可信的；without 限定确定程度。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "不确定性与语气控制"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0042",
+      "zh": "我们预期效果会持续，不过这一预期尚未经过长期观察检验。",
+      "en": "We expect the effect to persist, though that expectation remains untested by long-term observation.",
+      "answers": [
+        "We expect the effect to persist, though that expectation remains untested by long-term observation."
+      ],
+      "notes": "expectation 回指预期；untested：未经检验的。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "不确定性与语气控制"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0043",
+      "zh": "不能排除风险与已经发现风险，并不是同一种证据状态。",
+      "en": "Being unable to exclude a risk is not equivalent to having identified one.",
+      "answers": [
+        "Being unable to exclude a risk is not equivalent to having identified one.",
+        "Being unable to exclude a risk isn't equivalent to having identified one."
+      ],
+      "notes": "be equivalent to：等同于；having done 表已完成识别。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "不确定性与语气控制"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0044",
+      "zh": "这项建议取决于目前的成本估算，估算若改变，建议也需要重审。",
+      "en": "The recommendation is contingent on current cost estimates and would need reconsideration if they changed.",
+      "answers": [
+        "The recommendation is contingent on current cost estimates and would need reconsideration if they changed."
+      ],
+      "notes": "be contingent on：取决于；would ... if 表假设变化。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "不确定性与语气控制"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0045",
+      "zh": "作者似乎倾向于支持方案，但措辞还不足以表明明确赞同。",
+      "en": "The author appears sympathetic to the proposal, yet the wording falls short of explicit approval.",
+      "answers": [
+        "The author appears sympathetic to the proposal, yet the wording falls short of explicit approval."
+      ],
+      "notes": "sympathetic to：倾向支持；fall short of：尚未达到。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "不确定性与语气控制"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0046",
+      "zh": "“可能导致”保留了其他结果的空间，不宜被替换为“必然导致”。",
+      "en": "The phrase 'may lead to' leaves room for other outcomes and should not be replaced by 'will inevitably cause'.",
+      "answers": [
+        "The phrase 'may lead to' leaves room for other outcomes and should not be replaced by 'will inevitably cause'.",
+        "The phrase 'may lead to' leaves room for other outcomes and shouldn't be replaced by 'will inevitably cause'."
+      ],
+      "notes": "may 与 will inevitably 的确定性不同；引号标出讨论的短语。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "不确定性与语气控制"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0047",
+      "zh": "目前更稳妥的结论是值得试验，而不是应该立即全面采用。",
+      "en": "The more defensible conclusion is that a trial is warranted, not that immediate universal adoption is justified.",
+      "answers": [
+        "The more defensible conclusion is that a trial is warranted, not that immediate universal adoption is justified."
+      ],
+      "notes": "defensible：更有依据的；warranted：值得采取的。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "不确定性与语气控制"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0048",
+      "zh": "即便估算存在误差，只要方案排序不变，决策也可能仍然稳健。",
+      "en": "A decision may remain robust despite estimation errors if the ranking of options is unchanged.",
+      "answers": [
+        "A decision may remain robust despite estimation errors if the ranking of options is unchanged."
+      ],
+      "notes": "robust：稳健的；despite 与 if 分别引出让步和条件。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "不确定性与语气控制"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0049",
+      "zh": "缺少反对意见可能意味着认可，也可能反映提出异议的困难。",
+      "en": "An absence of objections may indicate approval or reflect obstacles to expressing dissent.",
+      "answers": [
+        "An absence of objections may indicate approval or reflect obstacles to expressing dissent."
+      ],
+      "notes": "dissent：异议；or 提供替代解释。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "不确定性与语气控制"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0050",
+      "zh": "在资料进一步完善之前，建议应保留调整余地。",
+      "en": "Recommendations should remain open to revision pending a fuller body of evidence.",
+      "answers": [
+        "Recommendations should remain open to revision pending a fuller body of evidence."
+      ],
+      "notes": "pending：在等待……期间；a body of evidence：一组证据。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "不确定性与语气控制"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_precision_g1_0051",
+      "zh": "只有在监督资源同步增加时，扩大服务承诺才有可信的执行基础。",
+      "en": "Only if oversight resources expand alongside provision does the commitment acquire a credible basis for implementation.",
+      "answers": [
+        "Only if oversight resources expand alongside provision does the commitment acquire a credible basis for implementation."
+      ],
+      "notes": "only if 置首，主句部分倒装；oversight：监督。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "提案与条件论证"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "level_cet6_precision_g1_0052",
+      "zh": "假如费用最终由申请者承担，原先关于普遍可及的判断就需要重新考虑。",
+      "en": "Were applicants ultimately to bear the costs, the original claim of universal access would need reconsideration.",
+      "answers": [
+        "Were applicants ultimately to bear the costs, the original claim of universal access would need reconsideration."
+      ],
+      "notes": "Were ... to ... 为假设条件倒装；bear costs：承担费用。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "提案与条件论证"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "level_cet6_precision_g1_0053",
+      "zh": "方案越依赖未经检验的假设，就越需要保留中途退出的安排。",
+      "en": "The more a proposal relies on untested assumptions, the greater the need for an exit option.",
+      "answers": [
+        "The more a proposal relies on untested assumptions, the greater the need for an exit option."
+      ],
+      "notes": "the more ... the greater ...：越……越需要……。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "提案与条件论证"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "level_cet6_precision_g1_0054",
+      "zh": "若要试点结果支持推广，评估就必须说明哪些条件能在其他地点重现。",
+      "en": "For pilot results to justify expansion, the evaluation must identify which conditions can be reproduced elsewhere.",
+      "answers": [
+        "For pilot results to justify expansion, the evaluation must identify which conditions can be reproduced elsewhere."
+      ],
+      "notes": "for ... to ... 引出目标成立条件；which 从句限定条件。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "提案与条件论证"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "level_cet6_precision_g1_0055",
+      "zh": "一项看似中立的要求，只有放到具体使用者的生活条件中才可能显示出其负担。",
+      "en": "Not until an apparently neutral requirement is considered in users' circumstances may its burden become apparent.",
+      "answers": [
+        "Not until an apparently neutral requirement is considered in users' circumstances may its burden become apparent."
+      ],
+      "notes": "not until 置首主句倒装；apparently：表面上。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "提案与条件论证"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "level_cet6_precision_g1_0056",
+      "zh": "我们需要的并非更多无法追踪的承诺，而是能让责任与结果对应起来的记录。",
+      "en": "What is needed is a record linking responsibility to outcomes, rather than additional commitments that cannot be traced.",
+      "answers": [
+        "What is needed is a record linking responsibility to outcomes, rather than additional commitments that cannot be traced.",
+        "What is needed is a record linking responsibility to outcomes, rather than additional commitments that can't be traced."
+      ],
+      "notes": "what 主语从句；linking 修饰 record；定语从句限定承诺。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "提案与条件论证"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "level_cet6_precision_g1_0057",
+      "zh": "如果支持者承认成本而批评者承认收益，分歧就可能集中到真正需要权衡的部分。",
+      "en": "Should advocates acknowledge costs and critics acknowledge benefits, disagreement may narrow to the trade-offs that actually matter.",
+      "answers": [
+        "Should advocates acknowledge costs and critics acknowledge benefits, disagreement may narrow to the trade-offs that actually matter."
+      ],
+      "notes": "Should 条件倒装；narrow to：缩小到。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "提案与条件论证"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "level_cet6_precision_g1_0058",
+      "zh": "任何规定都不可能预见所有情况，因此制度必须说明未被覆盖的情形由谁判断。",
+      "en": "No rule can anticipate every circumstance; arrangements must therefore specify who judges cases falling outside its coverage.",
+      "answers": [
+        "No rule can anticipate every circumstance; arrangements must therefore specify who judges cases falling outside its coverage."
+      ],
+      "notes": "who 名词性从句；falling outside 限定未覆盖情形。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "提案与条件论证"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "level_cet6_precision_g1_0059",
+      "zh": "即使没有一家机构能够独自承担全部任务，也不意味着共同安排无法建立。",
+      "en": "That no single institution can undertake the whole task does not entail that a joint arrangement is impossible.",
+      "answers": [
+        "That no single institution can undertake the whole task does not entail that a joint arrangement is impossible.",
+        "That no single institution can undertake the whole task doesn't entail that a joint arrangement is impossible."
+      ],
+      "notes": "that 引导主语从句；entail that：意味着……。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "提案与条件论证"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "level_cet6_precision_g1_0060",
+      "zh": "只有把可接受的误差范围说清楚，我们才可能判断何时需要重新审查决定。",
+      "en": "Only by specifying a tolerable margin of error can we determine when a decision requires review.",
+      "answers": [
+        "Only by specifying a tolerable margin of error can we determine when a decision requires review."
+      ],
+      "notes": "only by 置首主句倒装；when 从句为判断对象。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "提案与条件论证"
+      ],
+      "difficulty": 5
+    }
+  ]
+}

@@ -1,0 +1,980 @@
+{
+  "schema_version": 1,
+  "id": "grammar_comparison_degree",
+  "title": "语法 · 比较与程度｜倍数和评价边界 · 60 句",
+  "description": "同级比较、比较级修饰、最高级范围、关联变化、倍数比例及 too/enough。",
+  "language": "en-GB",
+  "tags": [
+    "语法专项",
+    "比较与程度",
+    "初中至四级"
+  ],
+  "items": [
+    {
+      "id": "grammar_comparison_degree_s1_0001",
+      "zh": "这条小路没有看上去那么陡。",
+      "en": "The path is not as steep as it looks.",
+      "answers": [
+        "The path is not as steep as it looks.",
+        "The path isn't as steep as it looks."
+      ],
+      "notes": "not as + 原级 + as，不能用 not as steeper。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "同级比较",
+        "初中至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0002",
+      "zh": "我的背包和你的差不多重。",
+      "en": "My backpack is almost as heavy as yours.",
+      "answers": [
+        "My backpack is almost as heavy as yours."
+      ],
+      "notes": "almost 限定接近程度；yours 替代 your backpack。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "同级比较",
+        "初中至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0003",
+      "zh": "今晚观众人数是我们预想的两倍。",
+      "en": "Tonight's audience is twice as large as we expected.",
+      "answers": [
+        "Tonight's audience is twice as large as we expected."
+      ],
+      "notes": "twice as + 原级 + as，倍数放在比较结构前。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "同级比较",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0004",
+      "zh": "她讲得和写得一样清楚。",
+      "en": "She speaks as clearly as she writes.",
+      "answers": [
+        "She speaks as clearly as she writes."
+      ],
+      "notes": "动词 speak 用副词 clearly 比较。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "同级比较",
+        "初中至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0005",
+      "zh": "这份指南尽可能简单，但没有省略重要信息。",
+      "en": "The guide is as simple as possible without omitting essential information.",
+      "answers": [
+        "The guide is as simple as possible without omitting essential information."
+      ],
+      "notes": "as ... as possible：尽可能……。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "同级比较",
+        "初中至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0006",
+      "zh": "租来的琴没有家里的那架响亮。",
+      "en": "The rented piano is not as loud as the one at home.",
+      "answers": [
+        "The rented piano is not as loud as the one at home.",
+        "The rented piano isn't as loud as the one at home."
+      ],
+      "notes": "比较同类事物，the one 替代 piano。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "同级比较",
+        "初中至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0007",
+      "zh": "我们需要和上次一样多的面粉。",
+      "en": "We need as much flour as last time.",
+      "answers": [
+        "We need as much flour as last time."
+      ],
+      "notes": "不可数 flour 用 as much ... as。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "同级比较",
+        "初中至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0008",
+      "zh": "这条街有和主街一样多的咖啡馆。",
+      "en": "This street has as many cafes as the main street.",
+      "answers": [
+        "This street has as many cafes as the main street."
+      ],
+      "notes": "可数复数 cafes 用 as many ... as。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "同级比较",
+        "初中至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0009",
+      "zh": "步行去码头与等公交花的时间一样长。",
+      "en": "Walking to the pier takes as long as waiting for the bus.",
+      "answers": [
+        "Walking to the pier takes as long as waiting for the bus."
+      ],
+      "notes": "as long as 在此为时间长度比较，不是条件只要。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "同级比较",
+        "初中至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0010",
+      "zh": "这次排练至少和正式演出一样费精力。",
+      "en": "This rehearsal is at least as demanding as the performance itself.",
+      "answers": [
+        "This rehearsal is at least as demanding as the performance itself."
+      ],
+      "notes": "at least 限定比较下界。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "同级比较",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0011",
+      "zh": "这间教室比照片里显得宽敞得多。",
+      "en": "The classroom is much more spacious than it appears in photographs.",
+      "answers": [
+        "The classroom is much more spacious than it appears in photographs."
+      ],
+      "notes": "much 修饰比较级，不能写 very more spacious。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "比较级修饰",
+        "初中至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0012",
+      "zh": "这些脚注的字号只比正文略小。",
+      "en": "The footnotes use a font only slightly smaller than the one used for the main text.",
+      "answers": [
+        "The footnotes use a font only slightly smaller than the one used for the main text."
+      ],
+      "notes": "only slightly 限定比较差异；the one 替代 font，保持比较对象同类。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "比较级修饰",
+        "初中至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0013",
+      "zh": "与昨天相比，河里的水少得多。",
+      "en": "There is far less water in the river than yesterday.",
+      "answers": [
+        "There is far less water in the river than yesterday."
+      ],
+      "notes": "far 修饰 less；water 不可数。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "比较级修饰",
+        "初中至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0014",
+      "zh": "我们需要的椅子比最初预订的少两把。",
+      "en": "We need two fewer chairs than we originally reserved.",
+      "answers": [
+        "We need two fewer chairs than we originally reserved."
+      ],
+      "notes": "two fewer + 可数复数，明确数量差额。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "比较级修饰",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0015",
+      "zh": "现在再解释一遍会更容易。",
+      "en": "Explaining it again will be even easier now.",
+      "answers": [
+        "Explaining it again will be even easier now."
+      ],
+      "notes": "even 加强比较级，不与原级 easy 直接配用。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "比较级修饰",
+        "初中至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0016",
+      "zh": "这条路线比另一条长不了多少。",
+      "en": "This route is not much longer than the other.",
+      "answers": [
+        "This route is not much longer than the other.",
+        "This route isn't much longer than the other."
+      ],
+      "notes": "not much + 比较级表示差别不大。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "比较级修饰",
+        "初中至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0017",
+      "zh": "把音量调低一点，声音反而更清楚。",
+      "en": "The sound is clearer at a slightly lower volume.",
+      "answers": [
+        "The sound is clearer at a slightly lower volume."
+      ],
+      "notes": "slightly 修饰 lower；clearer 为主句比较。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "比较级修饰",
+        "初中至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0018",
+      "zh": "这个版本比旧版容易读一些。",
+      "en": "This version is somewhat easier to read than the old one.",
+      "answers": [
+        "This version is somewhat easier to read than the old one."
+      ],
+      "notes": "somewhat 修饰比较级，表示一定程度。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "比较级修饰",
+        "初中至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0019",
+      "zh": "比起速度快，我更在意发音清晰。",
+      "en": "Clear pronunciation matters more to me than speed.",
+      "answers": [
+        "Clear pronunciation matters more to me than speed."
+      ],
+      "notes": "more ... than 比较重要性，不是数量。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "比较级修饰",
+        "初中至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0020",
+      "zh": "她回来时比离开时更有信心。",
+      "en": "She returned more confident than when she left.",
+      "answers": [
+        "She returned more confident than when she left."
+      ],
+      "notes": "than 后可接省略的时间从句。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "比较级修饰",
+        "初中至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0021",
+      "zh": "这是我在这座城吃过的最柔软的面包。",
+      "en": "This is the softest bread I have tasted in this city.",
+      "answers": [
+        "This is the softest bread I have tasted in this city."
+      ],
+      "notes": "the + 最高级；定语从句限定经验范围。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "最高级与范围",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0022",
+      "zh": "四份菜单中，这一份最容易看懂。",
+      "en": "Of the four menus, this is the easiest to understand.",
+      "answers": [
+        "Of the four menus, this is the easiest to understand."
+      ],
+      "notes": "of the four 明确比较集合。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "最高级与范围",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0023",
+      "zh": "她是班里最不愿抢先发言的人之一。",
+      "en": "She is one of the least eager speakers in the class.",
+      "answers": [
+        "She is one of the least eager speakers in the class."
+      ],
+      "notes": "one of + the + 最高级 + 复数名词。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "最高级与范围",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0024",
+      "zh": "最便宜的票不一定是最适合我们的。",
+      "en": "The cheapest ticket is not necessarily the most suitable for us.",
+      "answers": [
+        "The cheapest ticket is not necessarily the most suitable for us.",
+        "The cheapest ticket isn't necessarily the most suitable for us."
+      ],
+      "notes": "两个最高级分别衡量价格与适用性。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "最高级与范围",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0025",
+      "zh": "登顶不是这次徒步最困难的部分。",
+      "en": "Reaching the summit was not the hardest part of the hike.",
+      "answers": [
+        "Reaching the summit was not the hardest part of the hike.",
+        "Reaching the summit wasn't the hardest part of the hike."
+      ],
+      "notes": "最高级须有明确范围，这里为 hike。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "最高级与范围",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0026",
+      "zh": "在所有参展作品里，那幅小画最引人注意。",
+      "en": "Among all the exhibits, the small painting attracted the most attention.",
+      "answers": [
+        "Among all the exhibits, the small painting attracted the most attention."
+      ],
+      "notes": "the most 修饰不可数 attention。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "最高级与范围",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0027",
+      "zh": "我希望选择对邻居干扰最小的时间。",
+      "en": "I want the time that causes the least disturbance to neighbours.",
+      "answers": [
+        "I want the time that causes the least disturbance to neighbours."
+      ],
+      "notes": "least 表不可数 disturbance 的最小程度。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "最高级与范围",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0028",
+      "zh": "这里的冬天通常是一年中最安静的季节。",
+      "en": "Winter is usually the quietest season here.",
+      "answers": [
+        "Winter is usually the quietest season here."
+      ],
+      "notes": "最高级修饰单数 season，前用 the。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "最高级与范围",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0029",
+      "zh": "这可能是解决分歧最不费力的办法。",
+      "en": "This may be the least demanding way to settle the disagreement.",
+      "answers": [
+        "This may be the least demanding way to settle the disagreement."
+      ],
+      "notes": "least + 多音节形容词，表达最低程度。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "最高级与范围",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0030",
+      "zh": "哪位选手在最后一轮犯的错误最少？",
+      "en": "Which player made the fewest mistakes in the final round?",
+      "answers": [
+        "Which player made the fewest mistakes in the final round?"
+      ],
+      "notes": "fewest 修饰可数复数 mistakes。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "最高级与范围",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0031",
+      "zh": "越接近海岸，空气越潮湿。",
+      "en": "The closer we got to the coast, the damper the air became.",
+      "answers": [
+        "The closer we got to the coast, the damper the air became."
+      ],
+      "notes": "the + 比较级 ... the + 比较级 表关联变化。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "递进变化与关联比较",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0032",
+      "zh": "她讲得越具体，观众的问题就越有针对性。",
+      "en": "The more specific she became, the more focused the questions were.",
+      "answers": [
+        "The more specific she became, the more focused the questions were."
+      ],
+      "notes": "两端比较结构并列，不使用越多越好的空泛模板。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "递进变化与关联比较",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0033",
+      "zh": "路上的行人越来越少了。",
+      "en": "There are fewer and fewer pedestrians on the road.",
+      "answers": [
+        "There are fewer and fewer pedestrians on the road."
+      ],
+      "notes": "fewer and fewer 用于可数数量持续减少。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "递进变化与关联比较",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0034",
+      "zh": "等待的队伍越来越长。",
+      "en": "The queue is getting longer and longer.",
+      "answers": [
+        "The queue is getting longer and longer."
+      ],
+      "notes": "比较级 + and + 比较级 表逐渐变化。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "递进变化与关联比较",
+        "初中至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0035",
+      "zh": "我读得越慢，越能注意到字句之间的联系。",
+      "en": "The more slowly I read, the more connections I notice.",
+      "answers": [
+        "The more slowly I read, the more connections I notice."
+      ],
+      "notes": "副词 slowly 的比较级是 more slowly。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "递进变化与关联比较",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0036",
+      "zh": "这首曲子越听越有意思。",
+      "en": "The piece becomes more interesting with each listening.",
+      "answers": [
+        "The piece becomes more interesting with each listening."
+      ],
+      "notes": "more interesting 配合 with each 表逐次变化。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "递进变化与关联比较",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0037",
+      "zh": "可用选项越来越少，我们需要重新考虑目标。",
+      "en": "With fewer options available, we need to reconsider the goal.",
+      "answers": [
+        "With fewer options available, we need to reconsider the goal."
+      ],
+      "notes": "fewer + 可数复数；with 结构交代变化背景。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "递进变化与关联比较",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0038",
+      "zh": "山谷里越来越冷，我们只好穿上外套。",
+      "en": "It grew colder in the valley, so we put on our coats.",
+      "answers": [
+        "It grew colder in the valley, so we put on our coats."
+      ],
+      "notes": "grow + 比较级表状态变化。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "递进变化与关联比较",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0039",
+      "zh": "说明越含糊，执行起来就越难一致。",
+      "en": "The vaguer the instructions, the harder consistent implementation becomes.",
+      "answers": [
+        "The vaguer the instructions, the harder consistent implementation becomes."
+      ],
+      "notes": "前半句省略 are；比较关系为清晰度与执行难度。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "递进变化与关联比较",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0040",
+      "zh": "离舞台越远，听清低声对话就越困难。",
+      "en": "The farther you sit from the stage, the harder quiet dialogue is to hear.",
+      "answers": [
+        "The farther you sit from the stage, the harder quiet dialogue is to hear."
+      ],
+      "notes": "farther 表物理距离；后半用 harder to hear。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "递进变化与关联比较",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0041",
+      "zh": "午餐的价格是早餐的三倍。",
+      "en": "Lunch costs three times as much as breakfast.",
+      "answers": [
+        "Lunch costs three times as much as breakfast."
+      ],
+      "notes": "three times as much 表总价为三倍，不是多三倍。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "倍数与比例表达",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0042",
+      "zh": "新盘子的直径约是旧盘子的两倍。",
+      "en": "The new plate is roughly twice the diameter of the old one.",
+      "answers": [
+        "The new plate is roughly twice the diameter of the old one."
+      ],
+      "notes": "twice the + 尺寸名词，直接表倍数。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "倍数与比例表达",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0043",
+      "zh": "这次可用的座位只有平时的一半。",
+      "en": "Only half the usual number of seats is available this time.",
+      "answers": [
+        "Only half the usual number of seats is available this time."
+      ],
+      "notes": "half the number 指数量的一半；中心 number 单数。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "倍数与比例表达",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0044",
+      "zh": "骑车所需时间不到步行的一半。",
+      "en": "Cycling takes less than half as long as walking.",
+      "answers": [
+        "Cycling takes less than half as long as walking."
+      ],
+      "notes": "less than half as long as 比较所需时长。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "倍数与比例表达",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0045",
+      "zh": "这条围巾比样品短四分之一。",
+      "en": "This scarf is a quarter shorter than the sample.",
+      "answers": [
+        "This scarf is a quarter shorter than the sample."
+      ],
+      "notes": "a quarter shorter 以样品为基数减少四分之一。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "倍数与比例表达",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0046",
+      "zh": "两人份套餐没有单人份的两倍贵。",
+      "en": "The meal for two costs less than twice as much as the single portion.",
+      "answers": [
+        "The meal for two costs less than twice as much as the single portion."
+      ],
+      "notes": "less than twice as much as 表总价不到两倍。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "倍数与比例表达",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0047",
+      "zh": "第三天收到的回复是第一天的两倍多。",
+      "en": "More than twice as many replies arrived on day three as on day one.",
+      "answers": [
+        "More than twice as many replies arrived on day three as on day one."
+      ],
+      "notes": "as many ... as 修饰可数 replies；more than 限定倍数。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "倍数与比例表达",
+        "初中至四级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0048",
+      "zh": "小包的重量只有大包的三分之一。",
+      "en": "The small bag weighs a third as much as the large one.",
+      "answers": [
+        "The small bag weighs a third as much as the large one."
+      ],
+      "notes": "a third as much 比较重量而非包的数量。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "倍数与比例表达",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0049",
+      "zh": "这个月的捐款金额比上个月高出约百分之十。",
+      "en": "Donations this month are about ten per cent higher than last month.",
+      "answers": [
+        "Donations this month are about ten per cent higher than last month."
+      ],
+      "notes": "ten per cent higher 表相对增幅，不是百分点。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "倍数与比例表达",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0050",
+      "zh": "这次步行距离与去年完全相同。",
+      "en": "The walking distance is exactly the same as last year's.",
+      "answers": [
+        "The walking distance is exactly the same as last year's."
+      ],
+      "notes": "the same as，不用 the same with；exactly 加强相等。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "倍数与比例表达",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0051",
+      "zh": "这碗汤太咸，无法直接喝。",
+      "en": "The soup is too salty to drink as it is.",
+      "answers": [
+        "The soup is too salty to drink as it is."
+      ],
+      "notes": "too ... to 表程度导致不能做。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "程度与评价边界",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0052",
+      "zh": "这个房间足够大，可以容纳整个合唱团。",
+      "en": "The room is large enough to hold the whole choir.",
+      "answers": [
+        "The room is large enough to hold the whole choir."
+      ],
+      "notes": "形容词后放 enough，再接不定式。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "程度与评价边界",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0053",
+      "zh": "我们没有足够的钱同时预订两处场地。",
+      "en": "We do not have enough money to reserve both venues.",
+      "answers": [
+        "We do not have enough money to reserve both venues.",
+        "We don't have enough money to reserve both venues."
+      ],
+      "notes": "enough 放名词前，与 large enough 的位置区分。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "程度与评价边界",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0054",
+      "zh": "他差一点就赶上最后一班船。",
+      "en": "He was almost in time for the last boat.",
+      "answers": [
+        "He was almost in time for the last boat."
+      ],
+      "notes": "almost 表接近达到，此句暗示未赶上；不能等同 just in time。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "程度与评价边界",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0055",
+      "zh": "这份文字有些正式，但还算容易理解。",
+      "en": "The wording is rather formal but still understandable.",
+      "answers": [
+        "The wording is rather formal but still understandable."
+      ],
+      "notes": "rather 修饰形容词，表示一定程度而非比较。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "程度与评价边界",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0056",
+      "zh": "我完全不同意把问题归咎于孩子。",
+      "en": "I entirely disagree with blaming the child.",
+      "answers": [
+        "I entirely disagree with blaming the child."
+      ],
+      "notes": "entirely 修饰 disagree，说明反对程度。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "程度与评价边界",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0057",
+      "zh": "这里几乎和我记忆中的一样安静。",
+      "en": "It is nearly as quiet here as I remember.",
+      "answers": [
+        "It is nearly as quiet here as I remember."
+      ],
+      "notes": "nearly as ... as 表接近同等程度。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "程度与评价边界",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0058",
+      "zh": "这段独奏比整首曲子的其余部分更难。",
+      "en": "The solo is harder than the rest of the piece.",
+      "answers": [
+        "The solo is harder than the rest of the piece."
+      ],
+      "notes": "the rest 明确排除被比较部分，避免与整体自比。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "程度与评价边界",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0059",
+      "zh": "没有什么比在终点看到家人更让她高兴。",
+      "en": "Nothing pleased her more than seeing her family at the finish.",
+      "answers": [
+        "Nothing pleased her more than seeing her family at the finish."
+      ],
+      "notes": "否定代词 + 比较级 表达最高程度。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "程度与评价边界",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_comparison_degree_s1_0060",
+      "zh": "这是一段相当长的步行，但算不上最难的一段。",
+      "en": "It is quite a long walk, though not the most difficult one.",
+      "answers": [
+        "It is quite a long walk, though not the most difficult one."
+      ],
+      "notes": "quite a + 形容词 + 名词；不是 a quite long 的此处默认顺序。",
+      "tags": [
+        "语法专项",
+        "比较与程度",
+        "程度与评价边界",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    }
+  ]
+}

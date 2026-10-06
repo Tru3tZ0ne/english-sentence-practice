@@ -1,0 +1,1981 @@
+{
+  "schema_version": 1,
+  "id": "daily_english_1000",
+  "title": "日常沟通精选 · 124 句",
+  "description": "从基础请求进阶到日常叙事、条件、比较和感受表达；前 30 题保留原题及 ID。",
+  "language": "en-US",
+  "tags": [
+    "日常",
+    "口语",
+    "高频",
+    "精选",
+    "逐题讲解"
+  ],
+  "items": [
+    {
+      "id": "daily_0001",
+      "zh": "我今天很忙。",
+      "en": "I'm busy today.",
+      "answers": [
+        "I'm busy today.",
+        "I am busy today."
+      ],
+      "notes": "be busy 表示忙碌；today 作时间状语。",
+      "tags": [
+        "日常",
+        "日常沟通",
+        "一般现在时",
+        "描述状态"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_0002",
+      "zh": "我现在有空。",
+      "en": "I'm free now.",
+      "answers": [
+        "I'm free now.",
+        "I am free now."
+      ],
+      "notes": "free 在此表示有空，不是免费；now 表示现在。",
+      "tags": [
+        "日常",
+        "日常沟通",
+        "一般现在时",
+        "说明空闲"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_0003",
+      "zh": "请说慢一点。",
+      "en": "Please speak more slowly.",
+      "answers": [
+        "Please speak more slowly."
+      ],
+      "notes": "speak slowly 表示慢慢说；more slowly 是副词比较级。",
+      "tags": [
+        "日常",
+        "日常沟通",
+        "祈使句",
+        "请求放慢语速"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_0004",
+      "zh": "我没听清。",
+      "en": "I didn't hear you clearly.",
+      "answers": [
+        "I didn't hear you clearly.",
+        "I did not hear you clearly."
+      ],
+      "notes": "did not 后接动词原形 hear；clearly 修饰听到的程度。",
+      "tags": [
+        "日常",
+        "日常沟通",
+        "一般过去时",
+        "说明未听清"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_0005",
+      "zh": "你能重复一遍吗？",
+      "en": "Could you repeat that?",
+      "answers": [
+        "Could you repeat that?"
+      ],
+      "notes": "could you 用于礼貌请求；repeat 表示重复，无需再加 again。",
+      "tags": [
+        "日常",
+        "日常沟通",
+        "礼貌疑问句",
+        "请求重复"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_0006",
+      "zh": "这是什么意思？",
+      "en": "What does this mean?",
+      "answers": [
+        "What does this mean?"
+      ],
+      "notes": "what does ... mean 用于询问含义；助动词后 mean 用原形。",
+      "tags": [
+        "日常",
+        "日常沟通",
+        "特殊疑问句",
+        "询问含义"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_0007",
+      "zh": "你需要什么？",
+      "en": "What do you need?",
+      "answers": [
+        "What do you need?"
+      ],
+      "notes": "what 作 need 的宾语；问句使用 do 提问。",
+      "tags": [
+        "日常",
+        "日常沟通",
+        "特殊疑问句",
+        "询问需求"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_0008",
+      "zh": "我需要帮助。",
+      "en": "I need help.",
+      "answers": [
+        "I need help."
+      ],
+      "notes": "need 直接接宾语 help；help 在此通常不可数。",
+      "tags": [
+        "日常",
+        "日常沟通",
+        "一般现在时",
+        "请求帮助"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_0009",
+      "zh": "我稍后给你回电话。",
+      "en": "I'll call you back later.",
+      "answers": [
+        "I'll call you back later.",
+        "I will call you back later."
+      ],
+      "notes": "call sb back 表示回电话；代词放在 call 与 back 之间。",
+      "tags": [
+        "日常",
+        "日常沟通",
+        "将来表达",
+        "安排回电"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_0010",
+      "zh": "我正在开会。",
+      "en": "I'm in a meeting.",
+      "answers": [
+        "I'm in a meeting.",
+        "I am in a meeting."
+      ],
+      "notes": "be in a meeting 表示正在开会。",
+      "tags": [
+        "日常",
+        "日常沟通",
+        "一般现在时",
+        "说明当前安排"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_0011",
+      "zh": "请发邮件给我。",
+      "en": "Please email me.",
+      "answers": [
+        "Please email me."
+      ],
+      "notes": "email 可以作及物动词，后面直接接收件人。",
+      "tags": [
+        "日常",
+        "日常沟通",
+        "祈使句",
+        "请求邮件联系"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_0012",
+      "zh": "我已经发给你了。",
+      "en": "I've sent it to you.",
+      "answers": [
+        "I've sent it to you.",
+        "I have sent it to you."
+      ],
+      "notes": "have sent 为现在完成时，强调发送已经完成。",
+      "tags": [
+        "日常",
+        "日常沟通",
+        "现在完成时",
+        "确认发送"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_0013",
+      "zh": "文件在附件里。",
+      "en": "The file is attached.",
+      "answers": [
+        "The file is attached."
+      ],
+      "notes": "be attached 表示已作为附件附上；正式邮件中常用。",
+      "tags": [
+        "日常",
+        "日常沟通",
+        "被动语态",
+        "说明附件"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_0014",
+      "zh": "我会检查一下。",
+      "en": "I'll check it.",
+      "answers": [
+        "I'll check it.",
+        "I will check it."
+      ],
+      "notes": "will check 表示承诺或临时决定检查。",
+      "tags": [
+        "日常",
+        "日常沟通",
+        "将来表达",
+        "承诺核查"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_0015",
+      "zh": "我们可以明天见吗？",
+      "en": "Can we meet tomorrow?",
+      "answers": [
+        "Can we meet tomorrow?"
+      ],
+      "notes": "can we ... 用于提出共同安排；tomorrow 前不加介词。",
+      "tags": [
+        "日常",
+        "日常沟通",
+        "一般疑问句",
+        "约定见面"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_0016",
+      "zh": "时间对我来说合适。",
+      "en": "The time works for me.",
+      "answers": [
+        "The time works for me."
+      ],
+      "notes": "work for sb 在此表示某安排对某人合适。",
+      "tags": [
+        "日常",
+        "日常沟通",
+        "一般现在时",
+        "接受时间安排"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_0017",
+      "zh": "抱歉，我迟到了。",
+      "en": "Sorry I'm late.",
+      "answers": [
+        "Sorry I'm late.",
+        "Sorry I am late."
+      ],
+      "notes": "sorry 后可省略 that；be late 表示迟到。",
+      "tags": [
+        "日常",
+        "日常沟通",
+        "道歉表达",
+        "为迟到道歉"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_0018",
+      "zh": "谢谢你的耐心。",
+      "en": "Thank you for your patience.",
+      "answers": [
+        "Thank you for your patience."
+      ],
+      "notes": "thank sb for + 名词或动名词；patience 为不可数名词。",
+      "tags": [
+        "日常",
+        "日常沟通",
+        "感谢表达",
+        "感谢等待"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_0019",
+      "zh": "这件事很重要。",
+      "en": "This is important.",
+      "answers": [
+        "This is important."
+      ],
+      "notes": "important 为形容词，放在系动词 is 后。",
+      "tags": [
+        "日常",
+        "日常沟通",
+        "一般现在时",
+        "强调重要性"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_0020",
+      "zh": "我们需要一个计划。",
+      "en": "We need a plan.",
+      "answers": [
+        "We need a plan."
+      ],
+      "notes": "plan 为可数名词，单数前加 a。",
+      "tags": [
+        "日常",
+        "日常沟通",
+        "一般现在时",
+        "提出需求"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_0021",
+      "zh": "先从简单的开始。",
+      "en": "Let's start with something simple.",
+      "answers": [
+        "Let's start with something simple."
+      ],
+      "notes": "let's + 动词原形提出建议；形容词 simple 放在 something 后。",
+      "tags": [
+        "日常",
+        "日常沟通",
+        "祈使句",
+        "提出起点"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_0022",
+      "zh": "请记住这一点。",
+      "en": "Please remember this.",
+      "answers": [
+        "Please remember this."
+      ],
+      "notes": "remember this 表示记住这一点；please 使提醒更礼貌。",
+      "tags": [
+        "日常",
+        "日常沟通",
+        "祈使句",
+        "提醒注意"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_0023",
+      "zh": "我同意你的看法。",
+      "en": "I agree with you.",
+      "answers": [
+        "I agree with you."
+      ],
+      "notes": "agree with sb 表示同意某人；agree 是动词，不要写成 am agree。",
+      "tags": [
+        "日常",
+        "日常沟通",
+        "一般现在时",
+        "表达赞同"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_0024",
+      "zh": "我不完全同意。",
+      "en": "I don't completely agree.",
+      "answers": [
+        "I don't completely agree.",
+        "I do not completely agree."
+      ],
+      "notes": "don't completely agree 表示不完全赞同，语气弱于完全反对。",
+      "tags": [
+        "日常",
+        "日常沟通",
+        "部分否定",
+        "表达保留"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_0025",
+      "zh": "让我们换个话题。",
+      "en": "Let's change the subject.",
+      "answers": [
+        "Let's change the subject."
+      ],
+      "notes": "change the subject 表示转换话题，不是更换主语。",
+      "tags": [
+        "日常",
+        "日常沟通",
+        "祈使句",
+        "转换话题"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_0026",
+      "zh": "你有什么建议？",
+      "en": "What do you suggest?",
+      "answers": [
+        "What do you suggest?"
+      ],
+      "notes": "suggest 为动词，表示建议；问句用 do 提问。",
+      "tags": [
+        "日常",
+        "日常沟通",
+        "特殊疑问句",
+        "征求建议"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_0027",
+      "zh": "这取决于情况。",
+      "en": "It depends on the situation.",
+      "answers": [
+        "It depends on the situation."
+      ],
+      "notes": "depend on 为固定搭配，表示取决于。",
+      "tags": [
+        "日常",
+        "日常沟通",
+        "一般现在时",
+        "说明条件性"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_0028",
+      "zh": "我会尽快处理。",
+      "en": "I'll handle it as soon as possible.",
+      "answers": [
+        "I'll handle it as soon as possible.",
+        "I will handle it as soon as possible."
+      ],
+      "notes": "as soon as possible 表示尽快；handle 表示处理。",
+      "tags": [
+        "日常",
+        "日常沟通",
+        "将来表达",
+        "承诺处理"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_0029",
+      "zh": "一切都准备好了。",
+      "en": "Everything is ready.",
+      "answers": [
+        "Everything is ready."
+      ],
+      "notes": "everything 作单数主语，谓语用 is；ready 是形容词。",
+      "tags": [
+        "日常",
+        "日常沟通",
+        "一般现在时",
+        "确认准备完成"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_0030",
+      "zh": "我们还缺什么？",
+      "en": "What are we still missing?",
+      "answers": [
+        "What are we still missing?"
+      ],
+      "notes": "be missing sth 表示仍缺少某物；still 表示仍然。",
+      "tags": [
+        "日常",
+        "日常沟通",
+        "现在进行时",
+        "检查遗漏"
+      ],
+      "difficulty": 1
+    },
+    {
+      "zh": "我差点忘了把钥匙带走。",
+      "en": "I almost forgot to take my keys.",
+      "answers": [
+        "I almost forgot to take my keys."
+      ],
+      "notes": "forget to do 表示忘记要做的事；almost 表示差一点。",
+      "tags": [
+        "日常",
+        "动词不定式",
+        "描述险些发生的事",
+        "出门"
+      ],
+      "difficulty": 2,
+      "id": "daily_0031"
+    },
+    {
+      "zh": "你到家后给我发个消息吧。",
+      "en": "Send me a message when you get home.",
+      "answers": [
+        "Send me a message when you get home."
+      ],
+      "notes": "when 引导将来的时间从句时用现在时；get home 不加 to。",
+      "tags": [
+        "日常",
+        "时间从句",
+        "请求联系",
+        "到家报平安"
+      ],
+      "difficulty": 1,
+      "id": "daily_0032"
+    },
+    {
+      "zh": "冰箱里剩下的牛奶够明天早餐用吗？",
+      "en": "Is there enough milk left in the fridge for breakfast tomorrow?",
+      "answers": [
+        "Is there enough milk left in the fridge for breakfast tomorrow?"
+      ],
+      "notes": "enough 放在名词 milk 前；left 作后置修饰，表示剩下的。",
+      "tags": [
+        "日常",
+        "存在疑问句",
+        "确认物品数量",
+        "早餐"
+      ],
+      "difficulty": 2,
+      "id": "daily_0033"
+    },
+    {
+      "zh": "如果外面下雨，我们就在里面等。",
+      "en": "If it's raining outside, we'll wait inside.",
+      "answers": [
+        "If it's raining outside, we'll wait inside.",
+        "If it's raining outside, we will wait inside."
+      ],
+      "notes": "if + 现在进行时描述条件，主句 will 表示决定。",
+      "tags": [
+        "日常",
+        "条件从句",
+        "调整安排",
+        "等人"
+      ],
+      "difficulty": 2,
+      "id": "daily_0034"
+    },
+    {
+      "zh": "这件外套比看起来暖和。",
+      "en": "This coat is warmer than it looks.",
+      "answers": [
+        "This coat is warmer than it looks."
+      ],
+      "notes": "warmer than 用于比较；looks 后省略重复的形容词。",
+      "tags": [
+        "日常",
+        "比较结构",
+        "描述物品",
+        "穿衣"
+      ],
+      "difficulty": 1,
+      "id": "daily_0035"
+    },
+    {
+      "zh": "我找了半天，才发现眼镜就在头上。",
+      "en": "After searching for ages, I realized my glasses were on my head.",
+      "answers": [
+        "After searching for ages, I realized my glasses were on my head."
+      ],
+      "notes": "for ages 在口语中表示很久；glasses 作复数，谓语用 were。",
+      "tags": [
+        "日常",
+        "时间状语",
+        "讲述小插曲",
+        "寻找物品"
+      ],
+      "difficulty": 2,
+      "id": "daily_0036"
+    },
+    {
+      "zh": "虽然路不远，但带着这些袋子走过去并不轻松。",
+      "en": "Although it isn't far, walking there with these bags isn't easy.",
+      "answers": [
+        "Although it isn't far, walking there with these bags isn't easy.",
+        "Although it is not far, walking there with these bags is not easy."
+      ],
+      "notes": "although 引出让步；walking ... 是动名词主语。",
+      "tags": [
+        "日常",
+        "让步从句",
+        "解释困难",
+        "搬运物品"
+      ],
+      "difficulty": 3,
+      "id": "daily_0037"
+    },
+    {
+      "zh": "你介意把音乐调小一点吗？",
+      "en": "Would you mind turning the music down a little?",
+      "answers": [
+        "Would you mind turning the music down a little?"
+      ],
+      "notes": "would you mind 后接 doing；turn down 表示调低音量。",
+      "tags": [
+        "日常",
+        "礼貌疑问句",
+        "提出请求",
+        "音量"
+      ],
+      "difficulty": 2,
+      "id": "daily_0038"
+    },
+    {
+      "zh": "我刚要出门，门铃就响了。",
+      "en": "I was about to leave when the doorbell rang.",
+      "answers": [
+        "I was about to leave when the doorbell rang."
+      ],
+      "notes": "be about to do ... when ... 表示正要做某事时发生了另一件事。",
+      "tags": [
+        "日常",
+        "时间结构",
+        "叙述经过",
+        "来访"
+      ],
+      "difficulty": 3,
+      "id": "daily_0039"
+    },
+    {
+      "zh": "把容易碎的东西放在最上面。",
+      "en": "Put the fragile items on top.",
+      "answers": [
+        "Put the fragile items on top."
+      ],
+      "notes": "fragile 表示易碎的；on top 表示在最上面。",
+      "tags": [
+        "日常",
+        "祈使句",
+        "给出操作说明",
+        "打包"
+      ],
+      "difficulty": 1,
+      "id": "daily_0040"
+    },
+    {
+      "zh": "这就是我昨天跟你提过的那家店。",
+      "en": "This is the shop I told you about yesterday.",
+      "answers": [
+        "This is the shop I told you about yesterday."
+      ],
+      "notes": "省略关系代词的定语从句修饰 shop；tell sb about sth 表示向某人介绍。",
+      "tags": [
+        "日常",
+        "定语从句",
+        "指认地点",
+        "逛街"
+      ],
+      "difficulty": 2,
+      "id": "daily_0041"
+    },
+    {
+      "zh": "我还没决定今晚做什么吃。",
+      "en": "I haven't decided what to cook tonight yet.",
+      "answers": [
+        "I haven't decided what to cook tonight yet.",
+        "I have not decided what to cook tonight yet."
+      ],
+      "notes": "what to cook 是疑问词加不定式；yet 表示截至现在仍未完成。",
+      "tags": [
+        "日常",
+        "现在完成时",
+        "表达未定安排",
+        "晚餐"
+      ],
+      "difficulty": 2,
+      "id": "daily_0042"
+    },
+    {
+      "zh": "与其等下一班车，我们不如走过去。",
+      "en": "Rather than wait for the next bus, let's walk.",
+      "answers": [
+        "Rather than wait for the next bus, let's walk."
+      ],
+      "notes": "rather than 后用动词原形；let's 提出共同建议。",
+      "tags": [
+        "日常",
+        "对比结构",
+        "提出替代方案",
+        "短途出行"
+      ],
+      "difficulty": 2,
+      "id": "daily_0043"
+    },
+    {
+      "zh": "让我惊讶的是，大家都记得我的生日。",
+      "en": "What surprised me was that everyone remembered my birthday.",
+      "answers": [
+        "What surprised me was that everyone remembered my birthday."
+      ],
+      "notes": "what 从句作主语；everyone 表示每个人，谓语按单数处理。",
+      "tags": [
+        "日常",
+        "主语从句",
+        "表达感受",
+        "生日"
+      ],
+      "difficulty": 3,
+      "id": "daily_0044"
+    },
+    {
+      "zh": "只要十点前回来，你可以借我的自行车。",
+      "en": "You can borrow my bike as long as you're back before ten.",
+      "answers": [
+        "You can borrow my bike as long as you're back before ten.",
+        "You can borrow my bike as long as you are back before ten."
+      ],
+      "notes": "borrow 表示借入；as long as 提出条件，be back 表示回来。",
+      "tags": [
+        "日常",
+        "条件从句",
+        "有条件同意",
+        "借车"
+      ],
+      "difficulty": 2,
+      "id": "daily_0045"
+    },
+    {
+      "zh": "我们到电影院时，电影已经开始了。",
+      "en": "By the time we got to the cinema, the film had already started.",
+      "answers": [
+        "By the time we got to the cinema, the film had already started."
+      ],
+      "notes": "过去完成时说明电影开始早于到达；by the time 表示到……的时候。",
+      "tags": [
+        "日常",
+        "过去完成时",
+        "描述先后顺序",
+        "看电影"
+      ],
+      "difficulty": 3,
+      "id": "daily_0046"
+    },
+    {
+      "zh": "这个盒子太重了，我一个人搬不动。",
+      "en": "This box is too heavy for me to carry on my own.",
+      "answers": [
+        "This box is too heavy for me to carry on my own."
+      ],
+      "notes": "too + 形容词 + for sb to do 表示超出能力；on my own 表示独自。",
+      "tags": [
+        "日常",
+        "程度结构",
+        "说明能力限制",
+        "搬家"
+      ],
+      "difficulty": 2,
+      "id": "daily_0047"
+    },
+    {
+      "zh": "你把伞忘在我这里了，下次见面我带给你。",
+      "en": "You left your umbrella at my place; I'll bring it next time we meet.",
+      "answers": [
+        "You left your umbrella at my place; I'll bring it next time we meet.",
+        "You left your umbrella at my place; I will bring it next time we meet."
+      ],
+      "notes": "leave sth somewhere 表示把东西落在某处；next time 引导时间从句。",
+      "tags": [
+        "日常",
+        "分号衔接",
+        "安排归还",
+        "遗忘物品"
+      ],
+      "difficulty": 2,
+      "id": "daily_0048"
+    },
+    {
+      "zh": "我已经习惯早起，但周末仍然喜欢多睡一会儿。",
+      "en": "I'm used to getting up early, but I still like sleeping in on weekends.",
+      "answers": [
+        "I'm used to getting up early, but I still like sleeping in on weekends.",
+        "I am used to getting up early, but I still like sleeping in on weekends."
+      ],
+      "notes": "be used to doing 表示习惯于；sleep in 表示比平时晚起。",
+      "tags": [
+        "日常",
+        "转折并列句",
+        "描述习惯",
+        "周末作息"
+      ],
+      "difficulty": 3,
+      "id": "daily_0049"
+    },
+    {
+      "zh": "我们能找一个不用大声说话也能听清的地方吗？",
+      "en": "Can we find somewhere we can hear each other without shouting?",
+      "answers": [
+        "Can we find somewhere we can hear each other without shouting?"
+      ],
+      "notes": "somewhere 后接省略 where 的定语从句；without 后用 doing。",
+      "tags": [
+        "日常",
+        "定语从句",
+        "提出环境需求",
+        "聊天"
+      ],
+      "difficulty": 3,
+      "id": "daily_0050"
+    },
+    {
+      "zh": "看起来有人在我不在的时候给植物浇过水。",
+      "en": "It looks as though someone watered the plants while I was away.",
+      "answers": [
+        "It looks as though someone watered the plants while I was away."
+      ],
+      "notes": "it looks as though 表示看起来似乎；while I was away 指离开的那段时间。",
+      "tags": [
+        "日常",
+        "表语从句",
+        "描述推测",
+        "居家"
+      ],
+      "difficulty": 3,
+      "id": "daily_0051"
+    },
+    {
+      "zh": "我宁愿早点出发，也不想一路赶时间。",
+      "en": "I'd rather leave early than rush the whole way.",
+      "answers": [
+        "I'd rather leave early than rush the whole way."
+      ],
+      "notes": "would rather do A than do B 比较偏好，两处都用动词原形。",
+      "tags": [
+        "日常",
+        "偏好结构",
+        "安排出行",
+        "时间管理"
+      ],
+      "difficulty": 2,
+      "id": "daily_0052"
+    },
+    {
+      "zh": "这块地方刚拖过地，小心别滑倒。",
+      "en": "This area has just been mopped, so be careful not to slip.",
+      "answers": [
+        "This area has just been mopped, so be careful not to slip."
+      ],
+      "notes": "现在完成时被动说明刚完成的动作；be careful not to do 表示小心别做。",
+      "tags": [
+        "日常",
+        "被动语态",
+        "提醒注意",
+        "清洁"
+      ],
+      "difficulty": 2,
+      "id": "daily_0053"
+    },
+    {
+      "zh": "除了门口那把椅子，其他座位都有人了。",
+      "en": "All the seats are taken except the chair by the door.",
+      "answers": [
+        "All the seats are taken except the chair by the door."
+      ],
+      "notes": "be taken 表示座位已被占用；except 表示排除例外。",
+      "tags": [
+        "日常",
+        "例外表达",
+        "说明座位情况",
+        "等候"
+      ],
+      "difficulty": 2,
+      "id": "daily_0054"
+    },
+    {
+      "zh": "没想到这么快就修好了。",
+      "en": "I didn't expect it to be fixed so quickly.",
+      "answers": [
+        "I didn't expect it to be fixed so quickly.",
+        "I did not expect it to be fixed so quickly."
+      ],
+      "notes": "expect + 宾语 + to do；to be fixed 是被动不定式。",
+      "tags": [
+        "日常",
+        "不定式被动",
+        "表达意外",
+        "维修"
+      ],
+      "difficulty": 2,
+      "id": "daily_0055"
+    },
+    {
+      "zh": "我们上次见面已经快一年了。",
+      "en": "It's been almost a year since we last met.",
+      "answers": [
+        "It's been almost a year since we last met."
+      ],
+      "notes": "it has been + 一段时间 + since ... 表示从某事到现在经过多久。",
+      "tags": [
+        "日常",
+        "现在完成时",
+        "谈论时间间隔",
+        "重逢"
+      ],
+      "difficulty": 2,
+      "id": "daily_0056"
+    },
+    {
+      "zh": "无论你选哪家餐厅，我都可以。",
+      "en": "Whichever restaurant you choose is fine with me.",
+      "answers": [
+        "Whichever restaurant you choose is fine with me."
+      ],
+      "notes": "whichever ... 作主语，表示你选择的任何一家；be fine with sb 表示某人可以接受。",
+      "tags": [
+        "日常",
+        "主语从句",
+        "表达接受",
+        "聚餐选择"
+      ],
+      "difficulty": 3,
+      "id": "daily_0057"
+    },
+    {
+      "zh": "如果我早知道你也要来，就会多做一点。",
+      "en": "If I'd known you were coming too, I would have made more.",
+      "answers": [
+        "If I'd known you were coming too, I would have made more."
+      ],
+      "notes": "过去虚拟条件句表示与过去事实相反的假设；made more 省略语境已知的食物。",
+      "tags": [
+        "日常",
+        "过去虚拟条件句",
+        "表达遗憾",
+        "招待客人"
+      ],
+      "difficulty": 4,
+      "id": "daily_0058"
+    },
+    {
+      "zh": "这件事比我预想的多花了些时间，不过现在已经完成了。",
+      "en": "This took a little longer than I expected, but it's finished now.",
+      "answers": [
+        "This took a little longer than I expected, but it's finished now."
+      ],
+      "notes": "a little 修饰比较级 longer；转折补充当前完成状态。",
+      "tags": [
+        "日常",
+        "比较与转折",
+        "汇报结果",
+        "日常任务"
+      ],
+      "difficulty": 2,
+      "id": "daily_0059"
+    },
+    {
+      "zh": "能不能把地址拼给我听？我想确认自己记对了。",
+      "en": "Could you spell out the address for me? I want to make sure I've got it right.",
+      "answers": [
+        "Could you spell out the address for me? I want to make sure I've got it right.",
+        "Could you spell out the address for me? I want to make sure I have got it right."
+      ],
+      "notes": "spell out 表示逐字母拼出；get it right 表示弄对。",
+      "tags": [
+        "日常",
+        "疑问与陈述",
+        "核对信息",
+        "地址"
+      ],
+      "difficulty": 2,
+      "id": "daily_0060"
+    },
+    {
+      "id": "daily_english_1000_ext_0001",
+      "zh": "我把门开着，让新鲜空气进来。",
+      "en": "I left the door open to let some fresh air in.",
+      "answers": [
+        "I left the door open to let some fresh air in."
+      ],
+      "notes": "leave + 宾语 + 形容词。",
+      "tags": [
+        "日常",
+        "目的结构",
+        "居家"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0002",
+      "zh": "水壶里的水还热吗？",
+      "en": "Is the water in the kettle still hot?",
+      "answers": [
+        "Is the water in the kettle still hot?"
+      ],
+      "notes": "still：仍然。",
+      "tags": [
+        "日常",
+        "一般疑问句",
+        "厨房"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_english_1000_ext_0003",
+      "zh": "这条毛巾还没干，先用另一条吧。",
+      "en": "This towel is still damp; use another one for now.",
+      "answers": [
+        "This towel is still damp; use another one for now."
+      ],
+      "notes": "for now：暂时。",
+      "tags": [
+        "日常",
+        "并列句",
+        "居家用品"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0004",
+      "zh": "我去楼下扔垃圾，马上就上来。",
+      "en": "I am taking the rubbish downstairs and will be back in a minute.",
+      "answers": [
+        "I am taking the rubbish downstairs and will be back in a minute.",
+        "I'm taking the rubbish downstairs and will be back in a minute."
+      ],
+      "notes": "in a minute：很快，稍后。",
+      "tags": [
+        "日常",
+        "并列句",
+        "家务"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0005",
+      "zh": "你能把那个够不到的盒子递给我吗？",
+      "en": "Could you pass me the box I cannot reach?",
+      "answers": [
+        "Could you pass me the box I cannot reach?",
+        "Could you pass me the box I can't reach?"
+      ],
+      "notes": "reach：伸手够到。",
+      "tags": [
+        "日常",
+        "定语从句",
+        "请求帮忙"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0006",
+      "zh": "门外好像有人在叫我的名字。",
+      "en": "Someone outside seems to be calling my name.",
+      "answers": [
+        "Someone outside seems to be calling my name."
+      ],
+      "notes": "seem to be doing：似乎正在。",
+      "tags": [
+        "日常",
+        "进行时推测",
+        "日常观察"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0007",
+      "zh": "别把热锅直接放在桌上。",
+      "en": "Do not put the hot pan directly on the table.",
+      "answers": [
+        "Do not put the hot pan directly on the table.",
+        "Don't put the hot pan directly on the table."
+      ],
+      "notes": "directly：直接地。",
+      "tags": [
+        "日常",
+        "否定祈使句",
+        "厨房"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_english_1000_ext_0008",
+      "zh": "我忘了关灯，但幸好你看到了。",
+      "en": "I forgot to turn off the light, but luckily you noticed.",
+      "answers": [
+        "I forgot to turn off the light, but luckily you noticed."
+      ],
+      "notes": "forget to do：忘记要做的事。",
+      "tags": [
+        "日常",
+        "转折并列句",
+        "遗漏"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0009",
+      "zh": "这把剪刀剪不动厚纸板。",
+      "en": "These scissors cannot cut through thick cardboard.",
+      "answers": [
+        "These scissors cannot cut through thick cardboard.",
+        "These scissors can't cut through thick cardboard."
+      ],
+      "notes": "scissors 通常用复数。",
+      "tags": [
+        "日常",
+        "能力表达",
+        "工具"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0010",
+      "zh": "把袋子系紧，里面的东西才不会掉出来。",
+      "en": "Tie the bag securely so that nothing falls out.",
+      "answers": [
+        "Tie the bag securely so that nothing falls out."
+      ],
+      "notes": "fall out：掉出来。",
+      "tags": [
+        "日常",
+        "目的从句",
+        "收纳"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0011",
+      "zh": "我会把易坏的食物先放进冰箱。",
+      "en": "I will put the perishable food in the fridge first.",
+      "answers": [
+        "I will put the perishable food in the fridge first.",
+        "I'll put the perishable food in the fridge first."
+      ],
+      "notes": "perishable：容易变质的。",
+      "tags": [
+        "日常",
+        "将来表达",
+        "食物储存"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0012",
+      "zh": "我们还有足够的盘子给所有人用吗？",
+      "en": "Do we have enough plates for everyone?",
+      "answers": [
+        "Do we have enough plates for everyone?"
+      ],
+      "notes": "enough + 名词。",
+      "tags": [
+        "日常",
+        "一般疑问句",
+        "餐具"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_english_1000_ext_0013",
+      "zh": "这块面包闻起来有点不对劲。",
+      "en": "This bread smells a little odd.",
+      "answers": [
+        "This bread smells a little odd."
+      ],
+      "notes": "smell 后接形容词。",
+      "tags": [
+        "日常",
+        "感官表达",
+        "食物"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0014",
+      "zh": "菜还有几分钟就好了。",
+      "en": "The food will be ready in a few minutes.",
+      "answers": [
+        "The food will be ready in a few minutes."
+      ],
+      "notes": "in a few minutes：几分钟后。",
+      "tags": [
+        "日常",
+        "将来表达",
+        "做饭"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_english_1000_ext_0015",
+      "zh": "我刚吃过，所以现在不太饿。",
+      "en": "I have just eaten, so I am not very hungry now.",
+      "answers": [
+        "I have just eaten, so I am not very hungry now.",
+        "I've just eaten, so I'm not very hungry now."
+      ],
+      "notes": "have just done：刚刚做过。",
+      "tags": [
+        "日常",
+        "现在完成时",
+        "用餐"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0016",
+      "zh": "汤洒在袖子上了，我得换件衣服。",
+      "en": "I spilled soup on my sleeve and need to get changed.",
+      "answers": [
+        "I spilled soup on my sleeve and need to get changed."
+      ],
+      "notes": "get changed：换衣服。",
+      "tags": [
+        "日常",
+        "并列句",
+        "小意外"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0017",
+      "zh": "你想现在吃，还是等其他人到？",
+      "en": "Would you like to eat now or wait for the others?",
+      "answers": [
+        "Would you like to eat now or wait for the others?"
+      ],
+      "notes": "wait for sb：等某人。",
+      "tags": [
+        "日常",
+        "选择疑问句",
+        "用餐安排"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0018",
+      "zh": "我把需要买的东西记在手机上了。",
+      "en": "I have listed what we need to buy on my phone.",
+      "answers": [
+        "I have listed what we need to buy on my phone.",
+        "I've listed what we need to buy on my phone."
+      ],
+      "notes": "list 作动词表示列出。",
+      "tags": [
+        "日常",
+        "宾语从句",
+        "购物准备"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0019",
+      "zh": "商店关门前，我们还有二十分钟。",
+      "en": "We have twenty minutes before the shop closes.",
+      "answers": [
+        "We have twenty minutes before the shop closes."
+      ],
+      "notes": "before 从句用现在时。",
+      "tags": [
+        "日常",
+        "时间从句",
+        "时间安排"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_english_1000_ext_0020",
+      "zh": "这件衬衫洗过后缩水了。",
+      "en": "This shirt shrank after it was washed.",
+      "answers": [
+        "This shirt shrank after it was washed."
+      ],
+      "notes": "shrank 是 shrink 的过去式。",
+      "tags": [
+        "日常",
+        "时间从句",
+        "衣物"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0021",
+      "zh": "颜色我喜欢，但尺寸不合适。",
+      "en": "I like the colour, but the size is wrong.",
+      "answers": [
+        "I like the colour, but the size is wrong."
+      ],
+      "notes": "wrong 在此表示不合适。",
+      "tags": [
+        "日常",
+        "转折并列句",
+        "购物选择"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_english_1000_ext_0022",
+      "zh": "这个拉链卡住了，别用力拉。",
+      "en": "The zip is stuck; do not force it.",
+      "answers": [
+        "The zip is stuck; do not force it.",
+        "The zip is stuck; don't force it."
+      ],
+      "notes": "force 在此表示硬拉或强行操作。",
+      "tags": [
+        "日常",
+        "祈使句",
+        "衣物问题"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0023",
+      "zh": "我把零钱放在外套口袋里了。",
+      "en": "I put the loose change in my coat pocket.",
+      "answers": [
+        "I put the loose change in my coat pocket."
+      ],
+      "notes": "loose change：零钱。",
+      "tags": [
+        "日常",
+        "一般过去时",
+        "个人物品"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0024",
+      "zh": "这张纸上有地址，别把它扔掉。",
+      "en": "The address is on this piece of paper, so do not throw it away.",
+      "answers": [
+        "The address is on this piece of paper, so do not throw it away.",
+        "The address is on this piece of paper, so don't throw it away."
+      ],
+      "notes": "throw away：扔掉。",
+      "tags": [
+        "日常",
+        "因果并列句",
+        "信息保存"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0025",
+      "zh": "我没听到闹钟响，因此起晚了。",
+      "en": "I did not hear the alarm go off, so I overslept.",
+      "answers": [
+        "I did not hear the alarm go off, so I overslept.",
+        "I didn't hear the alarm go off, so I overslept."
+      ],
+      "notes": "go off 指闹钟响起。",
+      "tags": [
+        "日常",
+        "因果并列句",
+        "早晨"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0026",
+      "zh": "今天我需要多留一点出门时间。",
+      "en": "I need to allow extra time to get ready today.",
+      "answers": [
+        "I need to allow extra time to get ready today."
+      ],
+      "notes": "allow time：留出时间。",
+      "tags": [
+        "日常",
+        "不定式结构",
+        "出门准备"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0027",
+      "zh": "外面比早上冷，最好带件外套。",
+      "en": "It is colder outside than this morning; taking a jacket would be sensible.",
+      "answers": [
+        "It is colder outside than this morning; taking a jacket would be sensible."
+      ],
+      "notes": "sensible：合适、明智的。",
+      "tags": [
+        "日常",
+        "比较结构",
+        "天气"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0028",
+      "zh": "我们在有顶棚的入口见面吧。",
+      "en": "Let's meet at the covered entrance.",
+      "answers": [
+        "Let's meet at the covered entrance."
+      ],
+      "notes": "covered：有遮挡顶棚的。",
+      "tags": [
+        "日常",
+        "建议表达",
+        "见面地点"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_english_1000_ext_0029",
+      "zh": "你到了附近再给我打电话。",
+      "en": "Call me when you are nearby.",
+      "answers": [
+        "Call me when you are nearby."
+      ],
+      "notes": "nearby 作表语，表示在附近。",
+      "tags": [
+        "日常",
+        "时间从句",
+        "联系安排"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_english_1000_ext_0030",
+      "zh": "我会在十字路口等，不会挡住门口。",
+      "en": "I will wait at the crossroads rather than block the doorway.",
+      "answers": [
+        "I will wait at the crossroads rather than block the doorway.",
+        "I'll wait at the crossroads rather than block the doorway."
+      ],
+      "notes": "rather than 对比位置选择。",
+      "tags": [
+        "日常",
+        "对比结构",
+        "等候"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0031",
+      "zh": "你走得有点快，我快跟不上了。",
+      "en": "You are walking a little fast; I can barely keep up.",
+      "answers": [
+        "You are walking a little fast; I can barely keep up."
+      ],
+      "notes": "keep up：跟上。",
+      "tags": [
+        "日常",
+        "进行时表达",
+        "同行"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0032",
+      "zh": "我想停一下，把鞋带系好。",
+      "en": "I want to stop and tie my shoelaces.",
+      "answers": [
+        "I want to stop and tie my shoelaces."
+      ],
+      "notes": "tie shoelaces：系鞋带。",
+      "tags": [
+        "日常",
+        "并列动词",
+        "步行"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_english_1000_ext_0033",
+      "zh": "我们刚才经过的店里好像有这个。",
+      "en": "The shop we just passed seemed to have this.",
+      "answers": [
+        "The shop we just passed seemed to have this."
+      ],
+      "notes": "省略关系代词的定语从句。",
+      "tags": [
+        "日常",
+        "定语从句",
+        "寻找物品"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0034",
+      "zh": "我记得这个路口，但不记得应该往哪边走。",
+      "en": "I remember this junction but not which way to go.",
+      "answers": [
+        "I remember this junction but not which way to go."
+      ],
+      "notes": "which way to go：走哪个方向。",
+      "tags": [
+        "日常",
+        "疑问词不定式",
+        "方向"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0035",
+      "zh": "雨下得更大了，我们先找个地方避雨。",
+      "en": "The rain is getting heavier; let's find shelter first.",
+      "answers": [
+        "The rain is getting heavier; let's find shelter first."
+      ],
+      "notes": "get heavier：变得更大。",
+      "tags": [
+        "日常",
+        "进行时表达",
+        "天气变化"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0036",
+      "zh": "这张椅子有点晃，换一张吧。",
+      "en": "This chair is wobbly; let's use another one.",
+      "answers": [
+        "This chair is wobbly; let's use another one."
+      ],
+      "notes": "wobbly：不稳、摇晃的。",
+      "tags": [
+        "日常",
+        "建议表达",
+        "日常设施"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0037",
+      "zh": "你愿意帮我按住这一头吗？",
+      "en": "Would you hold this end for me?",
+      "answers": [
+        "Would you hold this end for me?"
+      ],
+      "notes": "hold：按住、扶住。",
+      "tags": [
+        "日常",
+        "礼貌疑问句",
+        "协作"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "daily_english_1000_ext_0038",
+      "zh": "我已经试了两次，还没有成功。",
+      "en": "I have tried twice without success.",
+      "answers": [
+        "I have tried twice without success.",
+        "I've tried twice without success."
+      ],
+      "notes": "without success：没有成功。",
+      "tags": [
+        "日常",
+        "现在完成时",
+        "尝试"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0039",
+      "zh": "也许我们把顺序弄反了。",
+      "en": "Perhaps we have done it in the wrong order.",
+      "answers": [
+        "Perhaps we have done it in the wrong order.",
+        "Perhaps we've done it in the wrong order."
+      ],
+      "notes": "in the wrong order：顺序错误。",
+      "tags": [
+        "日常",
+        "现在完成时",
+        "排查"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0040",
+      "zh": "先别急着扔，我想再检查一下。",
+      "en": "Do not throw it out yet; I want to check it once more.",
+      "answers": [
+        "Do not throw it out yet; I want to check it once more.",
+        "Don't throw it out yet; I want to check it once more."
+      ],
+      "notes": "yet 用于尚未完成的否定要求。",
+      "tags": [
+        "日常",
+        "祈使句",
+        "核查"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0041",
+      "zh": "我以为你已经知道了，所以没有再提。",
+      "en": "I assumed you already knew, so I did not mention it again.",
+      "answers": [
+        "I assumed you already knew, so I did not mention it again.",
+        "I assumed you already knew, so I didn't mention it again."
+      ],
+      "notes": "assume：未经确认地以为。",
+      "tags": [
+        "日常",
+        "因果并列句",
+        "解释遗漏"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0042",
+      "zh": "我说的是另一个名字相似的人。",
+      "en": "I meant a different person with a similar name.",
+      "answers": [
+        "I meant a different person with a similar name."
+      ],
+      "notes": "meant 是 mean 的过去式。",
+      "tags": [
+        "日常",
+        "更正表达",
+        "澄清对象"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0043",
+      "zh": "能举个例子，让我更容易理解吗？",
+      "en": "Could you give an example to make it easier for me to understand?",
+      "answers": [
+        "Could you give an example to make it easier for me to understand?"
+      ],
+      "notes": "make it easier for sb to do。",
+      "tags": [
+        "日常",
+        "目的结构",
+        "请求解释"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0044",
+      "zh": "我只记得大概意思，不记得原话。",
+      "en": "I remember the general idea but not the exact words.",
+      "answers": [
+        "I remember the general idea but not the exact words."
+      ],
+      "notes": "exact words：原话。",
+      "tags": [
+        "日常",
+        "对比结构",
+        "回忆"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0045",
+      "zh": "这件事没有听起来那么复杂。",
+      "en": "It is not as complicated as it sounds.",
+      "answers": [
+        "It is not as complicated as it sounds.",
+        "It isn't as complicated as it sounds."
+      ],
+      "notes": "not as ... as：没有那么。",
+      "tags": [
+        "日常",
+        "比较结构",
+        "说明情况"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0046",
+      "zh": "我得想一想，不能马上给你答案。",
+      "en": "I need to think about it and cannot give you an answer immediately.",
+      "answers": [
+        "I need to think about it and cannot give you an answer immediately.",
+        "I need to think about it and can't give you an answer immediately."
+      ],
+      "notes": "think about：考虑。",
+      "tags": [
+        "日常",
+        "并列句",
+        "回应请求"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0047",
+      "zh": "如果时间有变，我会提前告诉你。",
+      "en": "I will let you know in advance if the time changes.",
+      "answers": [
+        "I will let you know in advance if the time changes.",
+        "I'll let you know in advance if the time changes."
+      ],
+      "notes": "let sb know：告知。",
+      "tags": [
+        "日常",
+        "条件从句",
+        "时间变更"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0048",
+      "zh": "我们先定个暂定时间，之后再确认。",
+      "en": "Let's choose a provisional time and confirm it later.",
+      "answers": [
+        "Let's choose a provisional time and confirm it later."
+      ],
+      "notes": "provisional：暂定的。",
+      "tags": [
+        "日常",
+        "建议表达",
+        "安排计划"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0049",
+      "zh": "我不想答应了以后又让你失望。",
+      "en": "I do not want to make a promise and then let you down.",
+      "answers": [
+        "I do not want to make a promise and then let you down.",
+        "I don't want to make a promise and then let you down."
+      ],
+      "notes": "let sb down：让某人失望。",
+      "tags": [
+        "日常",
+        "并列动词",
+        "承诺"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0050",
+      "zh": "你已经帮了很多，这部分让我来吧。",
+      "en": "You have already helped a lot; let me handle this part.",
+      "answers": [
+        "You have already helped a lot; let me handle this part."
+      ],
+      "notes": "handle：处理、负责。",
+      "tags": [
+        "日常",
+        "现在完成时",
+        "回应帮助"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0051",
+      "zh": "今天没有我预想的那么顺利。",
+      "en": "Today did not go as smoothly as I expected.",
+      "answers": [
+        "Today did not go as smoothly as I expected.",
+        "Today didn't go as smoothly as I expected."
+      ],
+      "notes": "go smoothly：进展顺利。",
+      "tags": [
+        "日常",
+        "比较结构",
+        "叙述一天"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0052",
+      "zh": "好在我们还有时间调整。",
+      "en": "Fortunately, we still have time to make changes.",
+      "answers": [
+        "Fortunately, we still have time to make changes."
+      ],
+      "notes": "fortunately：幸运的是。",
+      "tags": [
+        "日常",
+        "评价表达",
+        "调整安排"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0053",
+      "zh": "我需要把注意力集中在手头这件事上。",
+      "en": "I need to concentrate on the task at hand.",
+      "answers": [
+        "I need to concentrate on the task at hand."
+      ],
+      "notes": "at hand：当前的。",
+      "tags": [
+        "日常",
+        "不定式结构",
+        "专注"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0054",
+      "zh": "旁边太吵了，我们换到安静一点的地方吧。",
+      "en": "It is too noisy here; let's move somewhere quieter.",
+      "answers": [
+        "It is too noisy here; let's move somewhere quieter."
+      ],
+      "notes": "somewhere 后接形容词。",
+      "tags": [
+        "日常",
+        "建议表达",
+        "环境选择"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0055",
+      "zh": "我刚刚分心了，最后一句能再说一下吗？",
+      "en": "I lost concentration for a moment; could you repeat the last sentence?",
+      "answers": [
+        "I lost concentration for a moment; could you repeat the last sentence?"
+      ],
+      "notes": "lose concentration：走神。",
+      "tags": [
+        "日常",
+        "疑问与陈述",
+        "倾听"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0056",
+      "zh": "我想早点处理完，这样晚上就不用惦记了。",
+      "en": "I want to finish it early so that I do not have to think about it tonight.",
+      "answers": [
+        "I want to finish it early so that I do not have to think about it tonight.",
+        "I want to finish it early so that I don't have to think about it tonight."
+      ],
+      "notes": "so that 引出预期目的。",
+      "tags": [
+        "日常",
+        "目的从句",
+        "时间管理"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0057",
+      "zh": "我终于找到了，一直就在抽屉最里面。",
+      "en": "I finally found it; it had been at the back of the drawer all along.",
+      "answers": [
+        "I finally found it; it had been at the back of the drawer all along."
+      ],
+      "notes": "all along：一直。",
+      "tags": [
+        "日常",
+        "过去完成时",
+        "寻找结果"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "daily_english_1000_ext_0058",
+      "zh": "我们没有浪费这趟路，至少弄清了地点。",
+      "en": "The trip was not wasted; at least we found out where it was.",
+      "answers": [
+        "The trip was not wasted; at least we found out where it was.",
+        "The trip wasn't wasted; at least we found out where it was."
+      ],
+      "notes": "at least：至少。",
+      "tags": [
+        "日常",
+        "评价表达",
+        "出行结果"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0059",
+      "zh": "我没料到这个小改动会省下这么多时间。",
+      "en": "I did not expect this small change to save so much time.",
+      "answers": [
+        "I did not expect this small change to save so much time.",
+        "I didn't expect this small change to save so much time."
+      ],
+      "notes": "expect sth to do。",
+      "tags": [
+        "日常",
+        "不定式结构",
+        "表达意外"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0060",
+      "zh": "现在不方便说话，我到家后再联系你。",
+      "en": "I cannot talk now; I will contact you after I get home.",
+      "answers": [
+        "I cannot talk now; I will contact you after I get home.",
+        "I can't talk now; I'll contact you after I get home."
+      ],
+      "notes": "after 引导将来时间用现在时。",
+      "tags": [
+        "日常",
+        "时间从句",
+        "联系时机"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0061",
+      "zh": "我会把你的东西放到一边，免得和别人的混在一起。",
+      "en": "I will put your things aside so that they do not get mixed up with anyone else's.",
+      "answers": [
+        "I will put your things aside so that they do not get mixed up with anyone else's.",
+        "I'll put your things aside so that they don't get mixed up with anyone else's."
+      ],
+      "notes": "get mixed up with：混在一起。",
+      "tags": [
+        "日常",
+        "目的从句",
+        "物品整理"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "daily_english_1000_ext_0062",
+      "zh": "你不用等我，我还需要一会儿。",
+      "en": "You do not need to wait for me; I will be a while.",
+      "answers": [
+        "You do not need to wait for me; I will be a while.",
+        "You don't need to wait for me; I'll be a while."
+      ],
+      "notes": "be a while：还要一段时间。",
+      "tags": [
+        "日常",
+        "并列句",
+        "等候安排"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "daily_english_1000_ext_0063",
+      "zh": "即使计划没按原样进行，我们也可以灵活调整。",
+      "en": "Even if the plan does not work out as intended, we can adapt.",
+      "answers": [
+        "Even if the plan does not work out as intended, we can adapt.",
+        "Even if the plan doesn't work out as intended, we can adapt."
+      ],
+      "notes": "work out as intended：按原计划实现。",
+      "tags": [
+        "日常",
+        "让步条件句",
+        "应对变化"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "daily_english_1000_ext_0064",
+      "zh": "我现在明白你为什么建议这么做了。",
+      "en": "I now understand why you suggested doing it this way.",
+      "answers": [
+        "I now understand why you suggested doing it this way."
+      ],
+      "notes": "suggest 后接动名词。",
+      "tags": [
+        "日常",
+        "宾语从句",
+        "理解建议"
+      ],
+      "difficulty": 2
+    }
+  ]
+}

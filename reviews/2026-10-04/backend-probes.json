@@ -1,0 +1,18 @@
+{
+  "method": "Temporary files/database; actual user database not modified. Failures deliberately injected for transaction probe.",
+  "results": [
+    {
+      "issue": "invalid_utf8_not_isolated",
+      "error_type": "UnicodeDecodeError"
+    },
+    {
+      "issue": "boolean_schema_and_difficulty_accepted",
+      "difficulty": true
+    },
+    {
+      "issue": "non_atomic_attempt_record",
+      "attempts": 1,
+      "progress": 0
+    }
+  ]
+}

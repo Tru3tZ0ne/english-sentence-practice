@@ -1,0 +1,32 @@
+{
+  "method": "Node vm with minimal DOM/API stubs; functional probes, not native-window visual testing.",
+  "results": [
+    {
+      "issue": "auto_speak_not_used",
+      "auto_speak": true,
+      "speak_calls_on_render": 0
+    },
+    {
+      "issue": "favorite_discards_draft",
+      "before": "draft answer",
+      "after": ""
+    },
+    {
+      "issue": "duplicate_submit",
+      "same_item_submit_count": 2
+    },
+    {
+      "issue": "stale_auto_next_timer",
+      "library": "other",
+      "index_after_old_timer": 1
+    },
+    {
+      "issue": "move_on_empty_sequence",
+      "error": "Cannot read properties of undefined (reading 'id')"
+    },
+    {
+      "issue": "content_interpolated_as_html",
+      "unescaped_markup": true
+    }
+  ]
+}

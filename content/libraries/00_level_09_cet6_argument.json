@@ -1,0 +1,983 @@
+{
+  "schema_version": 1,
+  "id": "level_cet6_argument",
+  "title": "分级 · 六级｜社会议题与批判论证 · 60 句",
+  "description": "激励后果、比较偏差、制度门槛、长期影响、公平与反驳；按六级层次练习抽象论证。",
+  "language": "en-GB",
+  "tags": [
+    "分级训练",
+    "六级",
+    "CET6",
+    "社会议题与批判论证"
+  ],
+  "items": [
+    {
+      "id": "level_cet6_argument_g1_0001",
+      "zh": "如果机构只奖励结案速度，工作人员可能倾向于避开最复杂的个案。",
+      "en": "Rewarding an agency solely for closing cases quickly may encourage staff to avoid those requiring the most attention.",
+      "answers": [
+        "Rewarding an agency solely for closing cases quickly may encourage staff to avoid those requiring the most attention."
+      ],
+      "notes": "those requiring 回指复杂个案；solely 限定单一激励。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "激励与意外后果"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0002",
+      "zh": "为了证明系统可靠而减少故障上报，反而会使管理者更难发现风险。",
+      "en": "Suppressing fault reports to demonstrate reliability makes it harder for managers to detect the very risks they need to address.",
+      "answers": [
+        "Suppressing fault reports to demonstrate reliability makes it harder for managers to detect the very risks they need to address."
+      ],
+      "notes": "the very risks 强调本应发现的风险；动名词作主语。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "激励与意外后果"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0003",
+      "zh": "当补贴按设备购买数量发放时，维护已有设备可能变得不那么有吸引力。",
+      "en": "When subsidies are tied to equipment purchases, maintaining existing assets may become relatively unattractive.",
+      "answers": [
+        "When subsidies are tied to equipment purchases, maintaining existing assets may become relatively unattractive."
+      ],
+      "notes": "be tied to：与……挂钩；relatively 限定相对激励变化。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "激励与意外后果"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0004",
+      "zh": "考核越强调容易计数的活动，就越可能忽视难以量化的支持工作。",
+      "en": "The more assessment emphasises countable activities, the more likely it is to overlook support that resists quantification.",
+      "answers": [
+        "The more assessment emphasises countable activities, the more likely it is to overlook support that resists quantification."
+      ],
+      "notes": "the more ... the more ...；resist quantification：难以量化。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "激励与意外后果"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0005",
+      "zh": "允许随时取消预约可以增加便利，却也可能使服务提供者难以安排人员。",
+      "en": "Unrestricted cancellation improves convenience while making staffing less predictable for service providers.",
+      "answers": [
+        "Unrestricted cancellation improves convenience while making staffing less predictable for service providers."
+      ],
+      "notes": "while 表并存影响；predictable staffing：可预测的人员安排。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "激励与意外后果"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0006",
+      "zh": "如果差评都会招致处罚，员工就可能避免主动征求反馈。",
+      "en": "Where every negative review triggers a penalty, employees may become reluctant to solicit feedback.",
+      "answers": [
+        "Where every negative review triggers a penalty, employees may become reluctant to solicit feedback."
+      ],
+      "notes": "where 表情形；solicit feedback：主动征求反馈。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "激励与意外后果"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0007",
+      "zh": "按点击付费的推荐可能更偏向立即引起反应的内容，而不是需要仔细阅读的内容。",
+      "en": "Recommendations paid for by the click may favour immediate reactions over material requiring sustained attention.",
+      "answers": [
+        "Recommendations paid for by the click may favour immediate reactions over material requiring sustained attention."
+      ],
+      "notes": "favour A over B：偏重 A；requiring 限定内容特点。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "激励与意外后果"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0008",
+      "zh": "当晋升主要取决于个人产出时，经验丰富的员工可能缺少指导新人的动力。",
+      "en": "If promotion depends mainly on individual output, experienced staff may have little incentive to mentor newcomers.",
+      "answers": [
+        "If promotion depends mainly on individual output, experienced staff may have little incentive to mentor newcomers."
+      ],
+      "notes": "incentive to：做某事的动力；mentor：指导新人。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "激励与意外后果"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0009",
+      "zh": "设立截止日期可以促进决策，但过短的期限也可能排除需要更多准备的人。",
+      "en": "Deadlines can prompt decisions, yet excessively short ones may exclude people who need more time to prepare.",
+      "answers": [
+        "Deadlines can prompt decisions, yet excessively short ones may exclude people who need more time to prepare."
+      ],
+      "notes": "ones 替代 deadlines；excessively：过度地。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "激励与意外后果"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0010",
+      "zh": "减少申报步骤只有在责任仍然清楚时，才算真正简化了程序。",
+      "en": "Fewer reporting steps amount to genuine simplification only if responsibility remains clear.",
+      "answers": [
+        "Fewer reporting steps amount to genuine simplification only if responsibility remains clear."
+      ],
+      "notes": "amount to：构成；only if：必要条件。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "激励与意外后果"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0011",
+      "zh": "只统计仍在运营的企业，会使人高估某种创业策略的成功率。",
+      "en": "Counting only firms still in operation can inflate the apparent success rate of an entrepreneurial strategy.",
+      "answers": [
+        "Counting only firms still in operation can inflate the apparent success rate of an entrepreneurial strategy."
+      ],
+      "notes": "inflate：夸大；still in operation 限定幸存样本。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "衡量与比较偏差"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0012",
+      "zh": "等待时间下降可能源于提前筛除了复杂申请，而不一定是处理能力提升。",
+      "en": "Shorter waiting times may reflect the exclusion of complex applications rather than an improvement in processing capacity.",
+      "answers": [
+        "Shorter waiting times may reflect the exclusion of complex applications rather than an improvement in processing capacity."
+      ],
+      "notes": "rather than 引出指标改善的替代解释。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "衡量与比较偏差"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0013",
+      "zh": "当满意度调查只通过手机应用开展时，没有智能手机的人可能不会出现在结果里。",
+      "en": "Satisfaction surveys conducted exclusively through apps may leave people without smartphones out of the findings.",
+      "answers": [
+        "Satisfaction surveys conducted exclusively through apps may leave people without smartphones out of the findings."
+      ],
+      "notes": "conducted 作定语；leave ... out of：排除在外。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "衡量与比较偏差"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0014",
+      "zh": "同样的合格率可能对应完全不同的申请者构成。",
+      "en": "Identical pass rates can conceal substantial differences in the composition of the applicant pool.",
+      "answers": [
+        "Identical pass rates can conceal substantial differences in the composition of the applicant pool."
+      ],
+      "notes": "conceal：掩盖；applicant pool：申请者群体。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "衡量与比较偏差"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0015",
+      "zh": "跨地区比较服务成本时，还需考虑人口密度造成的配送差异。",
+      "en": "Regional comparisons of service costs should account for delivery differences arising from population density.",
+      "answers": [
+        "Regional comparisons of service costs should account for delivery differences arising from population density."
+      ],
+      "notes": "arising from：由……产生；account for：考虑到。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "衡量与比较偏差"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0016",
+      "zh": "满意的使用者更愿意留下评价，也可能使总体印象偏向积极。",
+      "en": "A greater willingness among satisfied users to leave reviews may tilt the overall impression towards the positive.",
+      "answers": [
+        "A greater willingness among satisfied users to leave reviews may tilt the overall impression towards the positive."
+      ],
+      "notes": "tilt ... towards：使偏向；主语中心是 willingness。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "衡量与比较偏差"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0017",
+      "zh": "如果资格规则收紧，即使服务水平没有提高，完成率也可能上升。",
+      "en": "Completion rates may rise after eligibility rules tighten even if service quality remains unchanged.",
+      "answers": [
+        "Completion rates may rise after eligibility rules tighten even if service quality remains unchanged."
+      ],
+      "notes": "even if 区分指标变化与服务变化；eligibility：资格。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "衡量与比较偏差"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0018",
+      "zh": "成本平均分摊后，一些群体承担的额外负担可能从统计中消失。",
+      "en": "Averaging costs across users may obscure the additional burdens borne by particular groups.",
+      "answers": [
+        "Averaging costs across users may obscure the additional burdens borne by particular groups."
+      ],
+      "notes": "borne by：由……承担；obscure：遮蔽。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "衡量与比较偏差"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0019",
+      "zh": "以登记住址划分服务人口，可能遗漏长期流动的居民。",
+      "en": "Defining service populations by registered address may omit residents whose living arrangements remain mobile.",
+      "answers": [
+        "Defining service populations by registered address may omit residents whose living arrangements remain mobile."
+      ],
+      "notes": "whose 引出居民的居住状况；registered：登记的。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "衡量与比较偏差"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0020",
+      "zh": "衡量项目覆盖面时，应区分第一次接触服务的人和反复参加的人。",
+      "en": "Measures of programme reach should distinguish first-time users from repeat participants.",
+      "answers": [
+        "Measures of programme reach should distinguish first-time users from repeat participants."
+      ],
+      "notes": "programme reach：项目覆盖面；distinguish ... from ...。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "衡量与比较偏差"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0021",
+      "zh": "要求申请者先承担费用再报销，可能把最需要支持的人挡在门外。",
+      "en": "Requiring applicants to pay upfront and claim reimbursement later can exclude those most in need of support.",
+      "answers": [
+        "Requiring applicants to pay upfront and claim reimbursement later can exclude those most in need of support."
+      ],
+      "notes": "pay upfront：预先支付；those most in need：最需要支持的人。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "制度门槛与参与"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0022",
+      "zh": "表面一致的身份核验规则，可能给证件不易补办的人带来更大负担。",
+      "en": "Uniform identity checks can impose heavier burdens on people whose documents are difficult to replace.",
+      "answers": [
+        "Uniform identity checks can impose heavier burdens on people whose documents are difficult to replace."
+      ],
+      "notes": "uniform：统一的；whose 从句解释负担差异。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "制度门槛与参与"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0023",
+      "zh": "协商会议开放，并不意味着没有照护替代安排的人能够出席。",
+      "en": "An open consultation does not ensure attendance by people who lack alternative care arrangements.",
+      "answers": [
+        "An open consultation does not ensure attendance by people who lack alternative care arrangements.",
+        "An open consultation doesn't ensure attendance by people who lack alternative care arrangements."
+      ],
+      "notes": "consultation：意见协商；alternative care arrangements：替代照护安排。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "制度门槛与参与"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0024",
+      "zh": "如果申诉必须使用原本就有问题的渠道，纠错机制便可能失去作用。",
+      "en": "An appeals mechanism may fail when complaints must pass through the very channel alleged to be defective.",
+      "answers": [
+        "An appeals mechanism may fail when complaints must pass through the very channel alleged to be defective."
+      ],
+      "notes": "the very channel 强调矛盾；alleged to be：被指称为。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "制度门槛与参与"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0025",
+      "zh": "资格证明过分依赖连续就业记录，可能低估无偿照护所培养的技能。",
+      "en": "Heavy reliance on uninterrupted employment records may undervalue skills developed through unpaid care.",
+      "answers": [
+        "Heavy reliance on uninterrupted employment records may undervalue skills developed through unpaid care."
+      ],
+      "notes": "uninterrupted：连续的；developed through 修饰技能。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "制度门槛与参与"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0026",
+      "zh": "提供多种申请方式，只有在这些方式受到同等认真处理时才有意义。",
+      "en": "Multiple application routes matter only when submissions through each receive equally serious consideration.",
+      "answers": [
+        "Multiple application routes matter only when submissions through each receive equally serious consideration."
+      ],
+      "notes": "only when：只有在……时；submission：提交的申请。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "制度门槛与参与"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0027",
+      "zh": "公众参与若发生在关键决定之后，就可能只剩下确认既定方案的作用。",
+      "en": "Participation introduced after key decisions have been made may serve merely to endorse an established plan.",
+      "answers": [
+        "Participation introduced after key decisions have been made may serve merely to endorse an established plan."
+      ],
+      "notes": "serve to：起到……作用；endorse：认可。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "制度门槛与参与"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0028",
+      "zh": "要求公开个人困境才能获得帮助，可能降低人们申请服务的意愿。",
+      "en": "Making assistance conditional on publicly disclosing hardship may discourage people from applying.",
+      "answers": [
+        "Making assistance conditional on publicly disclosing hardship may discourage people from applying."
+      ],
+      "notes": "make ... conditional on：以……为条件；hardship：困境。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "制度门槛与参与"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0029",
+      "zh": "对规则的例外处理应留有记录，以免灵活性变成难以解释的差别待遇。",
+      "en": "Exceptions to rules should be documented lest flexibility turn into unexplained differential treatment.",
+      "answers": [
+        "Exceptions to rules should be documented lest flexibility turn into unexplained differential treatment."
+      ],
+      "notes": "lest：以免；differential treatment：差别待遇。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "制度门槛与参与"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "level_cet6_argument_g1_0030",
+      "zh": "被邀请参与讨论的人，还需要拥有真正影响议程的机会。",
+      "en": "An invitation to participate needs to be accompanied by a genuine opportunity to influence the agenda.",
+      "answers": [
+        "An invitation to participate needs to be accompanied by a genuine opportunity to influence the agenda."
+      ],
+      "notes": "be accompanied by：伴随；influence the agenda：影响议程。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "制度门槛与参与"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0031",
+      "zh": "一项临时技术方案可能因为培训和数据迁移成本而长期保留下来。",
+      "en": "A temporary technical solution may persist because replacing it entails training and data-migration costs.",
+      "answers": [
+        "A temporary technical solution may persist because replacing it entails training and data-migration costs."
+      ],
+      "notes": "entail：必然涉及；persist：持续存在。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "时间尺度与路径依赖"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0032",
+      "zh": "早期选择形成的依赖，可能限制后来采用更合适工具的空间。",
+      "en": "Dependencies created by early choices can constrain the later adoption of more suitable tools.",
+      "answers": [
+        "Dependencies created by early choices can constrain the later adoption of more suitable tools."
+      ],
+      "notes": "created by 作定语；constrain：限制。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "时间尺度与路径依赖"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0033",
+      "zh": "短期租约给予使用者灵活性，也可能使他们不愿投入长期改造。",
+      "en": "Short leases offer flexibility while discouraging occupants from investing in improvements with distant returns.",
+      "answers": [
+        "Short leases offer flexibility while discouraging occupants from investing in improvements with distant returns."
+      ],
+      "notes": "distant returns：很久后才获得的回报；while 表权衡。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "时间尺度与路径依赖"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0034",
+      "zh": "今天推迟的维护费用，可能以更高的停运成本在未来出现。",
+      "en": "Maintenance costs deferred today may reappear as greater disruption costs in the future.",
+      "answers": [
+        "Maintenance costs deferred today may reappear as greater disruption costs in the future."
+      ],
+      "notes": "deferred：推迟的；reappear as：以另一形式再次出现。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "时间尺度与路径依赖"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0035",
+      "zh": "项目的早期参与者和后来加入者，未必面对相同的学习环境。",
+      "en": "Early adopters and later entrants may encounter different learning environments within the same programme.",
+      "answers": [
+        "Early adopters and later entrants may encounter different learning environments within the same programme."
+      ],
+      "notes": "early adopter：早期采用者；entrant：加入者。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "时间尺度与路径依赖"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0036",
+      "zh": "不断更换资助重点可能使组织缺少把已经启动的工作做完的时间。",
+      "en": "Continually shifting funding priorities can deprive organisations of the time needed to complete work already under way.",
+      "answers": [
+        "Continually shifting funding priorities can deprive organisations of the time needed to complete work already under way."
+      ],
+      "notes": "deprive ... of ...：使失去；under way：已经进行中。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "时间尺度与路径依赖"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0037",
+      "zh": "一种做法被沿用多年，并不足以证明其原先的理由仍然成立。",
+      "en": "A practice's longevity does not establish that its original justification remains valid.",
+      "answers": [
+        "A practice's longevity does not establish that its original justification remains valid.",
+        "A practice's longevity doesn't establish that its original justification remains valid."
+      ],
+      "notes": "longevity：长期延续；justification：理由依据。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "时间尺度与路径依赖"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0038",
+      "zh": "制度转型需要考虑过渡期，否则最终收益可能被眼前困难抵消。",
+      "en": "Institutional reform needs a transition plan, or immediate difficulties may undermine its eventual benefits.",
+      "answers": [
+        "Institutional reform needs a transition plan, or immediate difficulties may undermine its eventual benefits."
+      ],
+      "notes": "eventual：最终的；undermine：削弱。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "时间尺度与路径依赖"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0039",
+      "zh": "退出安排若从未被讨论，试点项目可能在缺少评估的情况下自动延续。",
+      "en": "Pilots may continue by default without evaluation when their exit arrangements have never been discussed.",
+      "answers": [
+        "Pilots may continue by default without evaluation when their exit arrangements have never been discussed."
+      ],
+      "notes": "by default：默认地；exit arrangement：退出安排。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "时间尺度与路径依赖"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0040",
+      "zh": "长期承诺可以带来稳定，但也需要允许在证据变化时作出修订。",
+      "en": "Long-term commitments provide stability but need scope for revision as the evidence changes.",
+      "answers": [
+        "Long-term commitments provide stability but need scope for revision as the evidence changes."
+      ],
+      "notes": "scope for：……的空间；as 表随之变化。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "时间尺度与路径依赖"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0041",
+      "zh": "按相同金额补贴每个人看似平等，却可能忽略实际需要的差别。",
+      "en": "Equal payments to everyone appear even-handed but may disregard differences in actual need.",
+      "answers": [
+        "Equal payments to everyone appear even-handed but may disregard differences in actual need."
+      ],
+      "notes": "even-handed：一视同仁的；disregard：忽略。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "分配与公平判断"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0042",
+      "zh": "谁承担试验失败的代价，应与谁享有成功收益一起讨论。",
+      "en": "Who bears the cost of experimental failure should be considered alongside who gains from success.",
+      "answers": [
+        "Who bears the cost of experimental failure should be considered alongside who gains from success."
+      ],
+      "notes": "两个 who 从句分别说明成本承担者和受益者。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "分配与公平判断"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "level_cet6_argument_g1_0043",
+      "zh": "把服务迁到更便宜的地点，可能只是把成本从提供者转移给使用者。",
+      "en": "Moving a service to a cheaper site may simply shift costs from the provider onto users.",
+      "answers": [
+        "Moving a service to a cheaper site may simply shift costs from the provider onto users."
+      ],
+      "notes": "shift costs from ... onto ...：将成本从一方转嫁给另一方。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "分配与公平判断"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0044",
+      "zh": "平均收费不一定公平，因为偏远使用者还要支付额外交通费用。",
+      "en": "A uniform fee is not necessarily equitable when remote users also incur extra travel costs.",
+      "answers": [
+        "A uniform fee is not necessarily equitable when remote users also incur extra travel costs.",
+        "A uniform fee isn't necessarily equitable when remote users also incur extra travel costs."
+      ],
+      "notes": "equitable：公平的；incur costs：承担费用。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "分配与公平判断"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0045",
+      "zh": "让所有人等同样长的时间，不代表等待带来的影响相同。",
+      "en": "Making everyone wait equally long does not mean that waiting has equal consequences.",
+      "answers": [
+        "Making everyone wait equally long does not mean that waiting has equal consequences.",
+        "Making everyone wait equally long doesn't mean that waiting has equal consequences."
+      ],
+      "notes": "动名词主语；区分程序一致与实际影响。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "分配与公平判断"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0046",
+      "zh": "评价效率时，如果不计算照护者的时间，就可能低估服务的真实成本。",
+      "en": "An efficiency assessment that excludes carers' time may understate the true cost of a service.",
+      "answers": [
+        "An efficiency assessment that excludes carers' time may understate the true cost of a service."
+      ],
+      "notes": "exclude：不计入；understate：低估。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "分配与公平判断"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0047",
+      "zh": "由自愿者提供必要服务可以扩大覆盖，却也可能让特定人群承担长期无偿劳动。",
+      "en": "Essential services delivered by volunteers can widen coverage while placing sustained unpaid demands on particular groups.",
+      "answers": [
+        "Essential services delivered by volunteers can widen coverage while placing sustained unpaid demands on particular groups."
+      ],
+      "notes": "delivered by 限定服务；sustained demands：持续的劳动要求。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "分配与公平判断"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0048",
+      "zh": "受益集中在少数群体，并不自动否定项目，但需要明确说明选择依据。",
+      "en": "Concentrated benefits do not automatically invalidate a programme, but they require an explicit justification for the selection.",
+      "answers": [
+        "Concentrated benefits do not automatically invalidate a programme, but they require an explicit justification for the selection.",
+        "Concentrated benefits don't automatically invalidate a programme, but they require an explicit justification for the selection."
+      ],
+      "notes": "invalidate：否定有效性；explicit justification：明确依据。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "分配与公平判断"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0049",
+      "zh": "公平可能要求不同支持，而不是仅仅提供相同资源。",
+      "en": "Fairness may require differentiated support rather than the identical provision of resources.",
+      "answers": [
+        "Fairness may require differentiated support rather than the identical provision of resources."
+      ],
+      "notes": "differentiated：有区别的；rather than 区分公平路径。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "分配与公平判断"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0050",
+      "zh": "如果新增服务只覆盖已经方便获得支持的人，名义扩张就可能扩大差距。",
+      "en": "A nominal expansion may widen disparities if new services reach only people who already enjoy convenient support.",
+      "answers": [
+        "A nominal expansion may widen disparities if new services reach only people who already enjoy convenient support."
+      ],
+      "notes": "nominal：名义上的；disparity：差距。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "分配与公平判断"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0051",
+      "zh": "有人担心弹性规则会造成混乱，但明确的例外标准可以减少任意判断。",
+      "en": "Concerns that flexible rules invite confusion can be addressed through explicit criteria for exceptions.",
+      "answers": [
+        "Concerns that flexible rules invite confusion can be addressed through explicit criteria for exceptions."
+      ],
+      "notes": "concerns that 为同位语结构；address a concern：回应担忧。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "回应反对意见"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0052",
+      "zh": "认为费用过高是合理的质疑，却还不足以证明什么都不做成本更低。",
+      "en": "A concern about high expenditure does not establish that inaction would cost less.",
+      "answers": [
+        "A concern about high expenditure does not establish that inaction would cost less.",
+        "A concern about high expenditure doesn't establish that inaction would cost less."
+      ],
+      "notes": "inaction：不采取行动；would 表假设后果。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "回应反对意见"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0053",
+      "zh": "支持改革不意味着忽视其代价，而意味着这些代价需要与现状比较。",
+      "en": "Supporting reform entails comparing its costs with those of the status quo, rather than ignoring them.",
+      "answers": [
+        "Supporting reform entails comparing its costs with those of the status quo, rather than ignoring them."
+      ],
+      "notes": "entail：意味着需要；status quo：现状；those 代替 costs。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "回应反对意见"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0054",
+      "zh": "批评者指出了真实风险，但他们提出的替代方案也应接受同样的审查。",
+      "en": "Critics identify a real risk, yet their alternative should be subject to equivalent scrutiny.",
+      "answers": [
+        "Critics identify a real risk, yet their alternative should be subject to equivalent scrutiny."
+      ],
+      "notes": "be subject to：接受；scrutiny：仔细审查。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "回应反对意见"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0055",
+      "zh": "即便某项措施能被滥用，也不能直接推出所有正当使用都应被禁止。",
+      "en": "The possibility of misuse does not, by itself, justify prohibiting every legitimate use.",
+      "answers": [
+        "The possibility of misuse does not, by itself, justify prohibiting every legitimate use.",
+        "The possibility of misuse doesn't, by itself, justify prohibiting every legitimate use."
+      ],
+      "notes": "by itself：仅凭这一点；legitimate：正当的。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "回应反对意见"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0056",
+      "zh": "缺少完美方案并不免除我们比较现有选择的责任。",
+      "en": "The absence of a perfect solution does not relieve us of the obligation to compare available options.",
+      "answers": [
+        "The absence of a perfect solution does not relieve us of the obligation to compare available options.",
+        "The absence of a perfect solution doesn't relieve us of the obligation to compare available options."
+      ],
+      "notes": "relieve ... of ...：免除……；obligation：责任。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "回应反对意见"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0057",
+      "zh": "以往一次执行失败，可能暴露的是设计问题，而非目标本身不可取。",
+      "en": "A previous implementation failure may expose a design defect rather than an undesirable objective.",
+      "answers": [
+        "A previous implementation failure may expose a design defect rather than an undesirable objective."
+      ],
+      "notes": "implementation：执行；区分手段缺陷与目标价值。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "回应反对意见"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0058",
+      "zh": "我们可以接受对效果的质疑，同时拒绝对参与者动机的无根据猜测。",
+      "en": "We can accept challenges to effectiveness while rejecting unsupported speculation about participants' motives.",
+      "answers": [
+        "We can accept challenges to effectiveness while rejecting unsupported speculation about participants' motives."
+      ],
+      "notes": "while 表同时区分两类批评；speculation：猜测。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "回应反对意见"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0059",
+      "zh": "在没有说明资源来源之前，扩大服务的承诺仍然不够完整。",
+      "en": "A commitment to expand provision remains incomplete until its resource base has been specified.",
+      "answers": [
+        "A commitment to expand provision remains incomplete until its resource base has been specified."
+      ],
+      "notes": "resource base：资源来源；until 限定承诺完整的条件。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "回应反对意见"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "level_cet6_argument_g1_0060",
+      "zh": "辩论最需要澄清的，可能是双方到底在用什么标准判断成功。",
+      "en": "What the debate most needs may be clarity about the criteria by which each side judges success.",
+      "answers": [
+        "What the debate most needs may be clarity about the criteria by which each side judges success."
+      ],
+      "notes": "what 主语从句；by which 引导判断标准的定语从句。",
+      "tags": [
+        "分级训练",
+        "六级",
+        "CET6",
+        "回应反对意见"
+      ],
+      "difficulty": 5
+    }
+  ]
+}

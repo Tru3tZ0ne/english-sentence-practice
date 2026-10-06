@@ -1,0 +1,1676 @@
+{
+  "schema_version": 1,
+  "id": "comprehensive_english_5000",
+  "title": "出行与服务精选 · 106 句",
+  "description": "机场、酒店、餐饮、公共交通、租车、购物、问路、户外活动与求助；按具体沟通任务编写，并附逐题用法。",
+  "language": "en-GB",
+  "tags": [
+    "综合",
+    "生活对话",
+    "旅游",
+    "机酒",
+    "精选",
+    "逐题讲解"
+  ],
+  "items": [
+    {
+      "zh": "我的行李还没到，但传送带已经停了。",
+      "en": "My suitcase hasn't arrived, but the baggage carousel has stopped.",
+      "answers": [
+        "My suitcase hasn't arrived, but the baggage carousel has stopped.",
+        "My suitcase has not arrived, but the baggage carousel has stopped."
+      ],
+      "notes": "两处现在完成时对照当前状况；baggage carousel 指行李转盘。",
+      "tags": [
+        "综合",
+        "转折并列句",
+        "报告行李问题",
+        "机场"
+      ],
+      "difficulty": 2,
+      "id": "comprehensive_0001"
+    },
+    {
+      "zh": "如果第一班航班晚点，航空公司会帮我安排后续转机吗？",
+      "en": "If my first flight is delayed, will the airline help me rebook the connection?",
+      "answers": [
+        "If my first flight is delayed, will the airline help me rebook the connection?"
+      ],
+      "notes": "条件从句使用被动语态；connection 在此指转机航班。",
+      "tags": [
+        "综合",
+        "条件疑问句",
+        "确认延误安排",
+        "转机"
+      ],
+      "difficulty": 3,
+      "id": "comprehensive_0002"
+    },
+    {
+      "zh": "这件随身行李需要托运，还是可以带进客舱？",
+      "en": "Does this carry-on bag need to be checked in, or can I take it into the cabin?",
+      "answers": [
+        "Does this carry-on bag need to be checked in, or can I take it into the cabin?"
+      ],
+      "notes": "need to be done 表示需要被处理；check in 在此指托运行李。",
+      "tags": [
+        "综合",
+        "选择疑问句",
+        "确认行李规则",
+        "值机"
+      ],
+      "difficulty": 3,
+      "id": "comprehensive_0003"
+    },
+    {
+      "zh": "我收到登机口变更通知后，又核对了一次出发屏幕。",
+      "en": "After receiving a gate-change notification, I checked the departure board again.",
+      "answers": [
+        "After receiving a gate-change notification, I checked the departure board again."
+      ],
+      "notes": "after doing 的逻辑主语为 I；departure board 指出发信息屏。",
+      "tags": [
+        "综合",
+        "时间状语",
+        "说明核对过程",
+        "登机"
+      ],
+      "difficulty": 2,
+      "id": "comprehensive_0004"
+    },
+    {
+      "zh": "虽然我的机票上没有座位号，但预订已经确认了。",
+      "en": "Although my ticket has no seat number, the booking has been confirmed.",
+      "answers": [
+        "Although my ticket has no seat number, the booking has been confirmed."
+      ],
+      "notes": "although 引出表面矛盾；has been confirmed 是现在完成时被动。",
+      "tags": [
+        "综合",
+        "让步从句",
+        "核对预订状态",
+        "机票"
+      ],
+      "difficulty": 3,
+      "id": "comprehensive_0005"
+    },
+    {
+      "zh": "您能帮我找一个靠近登机口的洗手间吗？",
+      "en": "Could you help me find a toilet near the boarding gate?",
+      "answers": [
+        "Could you help me find a toilet near the boarding gate?"
+      ],
+      "notes": "help sb do；near 引出位置，不需要额外加 to。",
+      "tags": [
+        "综合",
+        "礼貌疑问句",
+        "询问设施位置",
+        "候机"
+      ],
+      "difficulty": 2,
+      "id": "comprehensive_0006"
+    },
+    {
+      "zh": "我预订的房间应该可以看到海，但这间朝向停车场。",
+      "en": "The room I booked was supposed to have a sea view, but this one faces the car park.",
+      "answers": [
+        "The room I booked was supposed to have a sea view, but this one faces the car park."
+      ],
+      "notes": "be supposed to have 表示按原先约定应当有；faces 表示朝向。",
+      "tags": [
+        "综合",
+        "定语与转折",
+        "说明房型不符",
+        "酒店"
+      ],
+      "difficulty": 3,
+      "id": "comprehensive_0007"
+    },
+    {
+      "zh": "我们能把行李寄存在这里，下午再回来取吗？",
+      "en": "Can we leave our bags here and collect them this afternoon?",
+      "answers": [
+        "Can we leave our bags here and collect them this afternoon?"
+      ],
+      "notes": "leave ... here 表示留在这里；collect 在此指取回。",
+      "tags": [
+        "综合",
+        "一般疑问句",
+        "请求行李寄存",
+        "退房"
+      ],
+      "difficulty": 2,
+      "id": "comprehensive_0008"
+    },
+    {
+      "zh": "如果延迟退房需要收费，请先告诉我金额。",
+      "en": "If there is a charge for late checkout, please tell me the amount first.",
+      "answers": [
+        "If there is a charge for late checkout, please tell me the amount first."
+      ],
+      "notes": "there is 表示存在；charge for 指针对某项服务的收费。",
+      "tags": [
+        "综合",
+        "条件从句",
+        "确认额外费用",
+        "退房"
+      ],
+      "difficulty": 2,
+      "id": "comprehensive_0009"
+    },
+    {
+      "zh": "空调每隔几分钟就会发出很大的声音，让我难以入睡。",
+      "en": "The air conditioner makes a loud noise every few minutes, which makes it difficult for me to sleep.",
+      "answers": [
+        "The air conditioner makes a loud noise every few minutes, which makes it difficult for me to sleep."
+      ],
+      "notes": "every few minutes 表示每隔几分钟；which 引出整件事造成的影响。",
+      "tags": [
+        "综合",
+        "非限制性定语从句",
+        "描述设施故障",
+        "酒店维修"
+      ],
+      "difficulty": 3,
+      "id": "comprehensive_0010"
+    },
+    {
+      "zh": "与其换到另一层，我们更希望住在同一层相邻的两间房。",
+      "en": "Rather than move to another floor, we'd prefer two rooms next to each other on the same floor.",
+      "answers": [
+        "Rather than move to another floor, we'd prefer two rooms next to each other on the same floor."
+      ],
+      "notes": "would prefer + 名词表示更想要；next to each other 表示彼此相邻。",
+      "tags": [
+        "综合",
+        "对比结构",
+        "协商房间安排",
+        "家庭住宿"
+      ],
+      "difficulty": 3,
+      "id": "comprehensive_0011"
+    },
+    {
+      "zh": "您可以安排明早六点半的叫醒服务吗？",
+      "en": "Could you arrange a wake-up call for half past six tomorrow morning?",
+      "answers": [
+        "Could you arrange a wake-up call for half past six tomorrow morning?"
+      ],
+      "notes": "arrange ... for + 时间；half past six 表示六点半。",
+      "tags": [
+        "综合",
+        "礼貌疑问句",
+        "请求叫醒服务",
+        "酒店服务"
+      ],
+      "difficulty": 2,
+      "id": "comprehensive_0012"
+    },
+    {
+      "zh": "我对花生过敏，这道菜里含花生或花生油吗？",
+      "en": "I'm allergic to peanuts; does this dish contain peanuts or peanut oil?",
+      "answers": [
+        "I'm allergic to peanuts; does this dish contain peanuts or peanut oil?",
+        "I am allergic to peanuts; does this dish contain peanuts or peanut oil?"
+      ],
+      "notes": "be allergic to 表示对某物过敏；用具体成分确认，不能仅凭菜名判断。",
+      "tags": [
+        "综合",
+        "分号衔接",
+        "核对食材",
+        "餐厅"
+      ],
+      "difficulty": 2,
+      "id": "comprehensive_0013"
+    },
+    {
+      "zh": "我们能分开付款，还是必须一起结账？",
+      "en": "Can we pay separately, or do we have to settle the bill together?",
+      "answers": [
+        "Can we pay separately, or do we have to settle the bill together?"
+      ],
+      "notes": "settle the bill 表示结账；separately 与 together 构成选择。",
+      "tags": [
+        "综合",
+        "选择疑问句",
+        "确认结账方式",
+        "餐厅付款"
+      ],
+      "difficulty": 2,
+      "id": "comprehensive_0014"
+    },
+    {
+      "zh": "这不是我点的菜，我点的是烤鱼。",
+      "en": "This isn't what I ordered; I ordered the grilled fish.",
+      "answers": [
+        "This isn't what I ordered; I ordered the grilled fish.",
+        "This is not what I ordered; I ordered the grilled fish."
+      ],
+      "notes": "what I ordered 为名词性从句；grilled 表示烤制的。",
+      "tags": [
+        "综合",
+        "表语从句",
+        "核对订单",
+        "上菜"
+      ],
+      "difficulty": 2,
+      "id": "comprehensive_0015"
+    },
+    {
+      "zh": "如果厨房已经关了，附近还有哪里可以买到食物？",
+      "en": "If the kitchen has closed, where nearby can I get something to eat?",
+      "answers": [
+        "If the kitchen has closed, where nearby can I get something to eat?"
+      ],
+      "notes": "if + 现在完成时说明当前条件；something to eat 指可吃的东西。",
+      "tags": [
+        "综合",
+        "条件疑问句",
+        "寻找替代服务",
+        "晚间用餐"
+      ],
+      "difficulty": 3,
+      "id": "comprehensive_0016"
+    },
+    {
+      "zh": "虽然我们没有预订，但愿意等一张靠窗的桌子。",
+      "en": "Although we don't have a reservation, we're happy to wait for a table by the window.",
+      "answers": [
+        "Although we don't have a reservation, we're happy to wait for a table by the window.",
+        "Although we do not have a reservation, we are happy to wait for a table by the window."
+      ],
+      "notes": "be happy to do 在此表示愿意；by the window 表示在窗边。",
+      "tags": [
+        "综合",
+        "让步从句",
+        "表达等位意愿",
+        "餐厅等位"
+      ],
+      "difficulty": 2,
+      "id": "comprehensive_0017"
+    },
+    {
+      "zh": "能否把酱汁单独放，让我自己决定加多少？",
+      "en": "Could you serve the sauce on the side so that I can decide how much to add?",
+      "answers": [
+        "Could you serve the sauce on the side so that I can decide how much to add?"
+      ],
+      "notes": "on the side 表示酱汁另外放；so that 说明请求目的。",
+      "tags": [
+        "综合",
+        "目的从句",
+        "提出上菜要求",
+        "饮食偏好"
+      ],
+      "difficulty": 3,
+      "id": "comprehensive_0018"
+    },
+    {
+      "zh": "这张票允许我在一小时内换乘公交车吗？",
+      "en": "Does this ticket allow me to transfer to a bus within an hour?",
+      "answers": [
+        "Does this ticket allow me to transfer to a bus within an hour?"
+      ],
+      "notes": "allow sb to do；within an hour 表示在一小时以内。",
+      "tags": [
+        "综合",
+        "一般疑问句",
+        "确认换乘规则",
+        "城市交通"
+      ],
+      "difficulty": 2,
+      "id": "comprehensive_0019"
+    },
+    {
+      "zh": "下一站到了时，能提醒我一下吗？",
+      "en": "Could you let me know when we reach the next stop?",
+      "answers": [
+        "Could you let me know when we reach the next stop?"
+      ],
+      "notes": "let sb know 表示告知；when 引出到站的时间。",
+      "tags": [
+        "综合",
+        "时间从句",
+        "请求到站提醒",
+        "公交"
+      ],
+      "difficulty": 2,
+      "id": "comprehensive_0020"
+    },
+    {
+      "zh": "由于线路施工，列车今天不在这个站停靠。",
+      "en": "Because of engineering works, trains aren't stopping at this station today.",
+      "answers": [
+        "Because of engineering works, trains aren't stopping at this station today.",
+        "Because of engineering works, trains are not stopping at this station today."
+      ],
+      "notes": "because of 后接名词短语；engineering works 在交通语境中指施工。",
+      "tags": [
+        "综合",
+        "原因短语",
+        "说明临时变更",
+        "铁路"
+      ],
+      "difficulty": 3,
+      "id": "comprehensive_0021"
+    },
+    {
+      "zh": "我已经买了票，为什么还需要预约座位？",
+      "en": "I've already bought a ticket, so why do I still need a seat reservation?",
+      "answers": [
+        "I've already bought a ticket, so why do I still need a seat reservation?",
+        "I have already bought a ticket, so why do I still need a seat reservation?"
+      ],
+      "notes": "already 与 still 对照已做的事和仍需做的事；seat reservation 指订座。",
+      "tags": [
+        "综合",
+        "因果疑问句",
+        "澄清乘车要求",
+        "列车座位"
+      ],
+      "difficulty": 2,
+      "id": "comprehensive_0022"
+    },
+    {
+      "zh": "如果末班车赶不上了，我们就打车回去。",
+      "en": "If we miss the last bus, we'll take a taxi back.",
+      "answers": [
+        "If we miss the last bus, we'll take a taxi back.",
+        "If we miss the last bus, we will take a taxi back."
+      ],
+      "notes": "miss a bus 表示没赶上车；条件从句用现在时，主句用 will。",
+      "tags": [
+        "综合",
+        "条件从句",
+        "安排备用出行",
+        "夜间返回"
+      ],
+      "difficulty": 2,
+      "id": "comprehensive_0023"
+    },
+    {
+      "zh": "比起最快的路线，我更想选不用爬楼梯的那条。",
+      "en": "I'd prefer the route without stairs to the fastest one.",
+      "answers": [
+        "I'd prefer the route without stairs to the fastest one."
+      ],
+      "notes": "prefer A to B 比较偏好；one 代指 route。",
+      "tags": [
+        "综合",
+        "偏好结构",
+        "表达出行需求",
+        "无障碍路线"
+      ],
+      "difficulty": 2,
+      "id": "comprehensive_0024"
+    },
+    {
+      "zh": "过了桥后向左转，邮局就在面包店对面。",
+      "en": "Turn left after crossing the bridge; the post office is opposite the bakery.",
+      "answers": [
+        "Turn left after crossing the bridge; the post office is opposite the bakery."
+      ],
+      "notes": "after crossing 表示过桥之后；opposite 可直接接地点名词。",
+      "tags": [
+        "综合",
+        "祈使句",
+        "指路",
+        "城市步行"
+      ],
+      "difficulty": 2,
+      "id": "comprehensive_0025"
+    },
+    {
+      "zh": "我正在找这条街上有蓝色门的那栋房子。",
+      "en": "I'm looking for the house on this street that has a blue door.",
+      "answers": [
+        "I'm looking for the house on this street that has a blue door.",
+        "I am looking for the house on this street that has a blue door."
+      ],
+      "notes": "that 从句修饰 house；通过可见特征明确位置。",
+      "tags": [
+        "综合",
+        "定语从句",
+        "寻找地点",
+        "地址"
+      ],
+      "difficulty": 2,
+      "id": "comprehensive_0026"
+    },
+    {
+      "zh": "地图显示我们在河对岸，但我看不到附近有桥。",
+      "en": "The map shows us on the other side of the river, but I can't see a bridge nearby.",
+      "answers": [
+        "The map shows us on the other side of the river, but I can't see a bridge nearby.",
+        "The map shows us on the other side of the river, but I cannot see a bridge nearby."
+      ],
+      "notes": "on the other side of 表示在另一边；nearby 作副词。",
+      "tags": [
+        "综合",
+        "转折并列句",
+        "描述定位困难",
+        "地图导航"
+      ],
+      "difficulty": 2,
+      "id": "comprehensive_0027"
+    },
+    {
+      "zh": "到广场之后，应该走哪个出口去博物馆？",
+      "en": "Once we reach the square, which exit should we take for the museum?",
+      "answers": [
+        "Once we reach the square, which exit should we take for the museum?"
+      ],
+      "notes": "once 引导时间从句；take an exit 表示走某个出口。",
+      "tags": [
+        "综合",
+        "时间疑问句",
+        "确认方向",
+        "旅游导航"
+      ],
+      "difficulty": 2,
+      "id": "comprehensive_0028"
+    },
+    {
+      "zh": "即使导航说只要十分钟，带着孩子走也可能更久。",
+      "en": "Even if the navigation app says ten minutes, walking with children may take longer.",
+      "answers": [
+        "Even if the navigation app says ten minutes, walking with children may take longer."
+      ],
+      "notes": "even if 提出让步；walking ... 为动名词主语。",
+      "tags": [
+        "综合",
+        "让步条件句",
+        "估计行程时间",
+        "家庭旅行"
+      ],
+      "difficulty": 3,
+      "id": "comprehensive_0029"
+    },
+    {
+      "zh": "我们是不是已经走过那家药店了？",
+      "en": "Have we already walked past the pharmacy?",
+      "answers": [
+        "Have we already walked past the pharmacy?"
+      ],
+      "notes": "walk past 表示从旁边经过；already 询问是否比预期更早发生。",
+      "tags": [
+        "综合",
+        "现在完成时疑问句",
+        "核对位置",
+        "步行"
+      ],
+      "difficulty": 2,
+      "id": "comprehensive_0030"
+    },
+    {
+      "zh": "我的手机没电了，可以借用电话联系旅馆吗？",
+      "en": "My phone has run out of battery; could I use a phone to contact my hotel?",
+      "answers": [
+        "My phone has run out of battery; could I use a phone to contact my hotel?"
+      ],
+      "notes": "run out of 表示用尽；contact 为及物动词，后面不加 with。",
+      "tags": [
+        "综合",
+        "分号衔接",
+        "请求通信帮助",
+        "手机没电"
+      ],
+      "difficulty": 2,
+      "id": "comprehensive_0031"
+    },
+    {
+      "zh": "我把钱包落在出租车上了，里面有我的身份证件。",
+      "en": "I left my wallet in a taxi, and my identity documents are inside it.",
+      "answers": [
+        "I left my wallet in a taxi, and my identity documents are inside it."
+      ],
+      "notes": "leave sth somewhere 表示把物品落在某处；清楚说明遗失物及重要内容。",
+      "tags": [
+        "综合",
+        "并列句",
+        "报告遗失",
+        "失物"
+      ],
+      "difficulty": 2,
+      "id": "comprehensive_0032"
+    },
+    {
+      "zh": "有人能帮忙联系急救服务吗？这里有人需要紧急帮助。",
+      "en": "Can someone contact the emergency services? Someone here needs urgent help.",
+      "answers": [
+        "Can someone contact the emergency services? Someone here needs urgent help."
+      ],
+      "notes": "emergency services 指当地紧急救援服务；不预设某个国家的电话号码。",
+      "tags": [
+        "综合",
+        "疑问与陈述",
+        "请求紧急协助",
+        "紧急情况"
+      ],
+      "difficulty": 2,
+      "id": "comprehensive_0033"
+    },
+    {
+      "zh": "在找到住处之前，我们需要一个安全的地方等候。",
+      "en": "Until we find somewhere to stay, we need a safe place to wait.",
+      "answers": [
+        "Until we find somewhere to stay, we need a safe place to wait."
+      ],
+      "notes": "until 引出等待终点；somewhere to stay 中不定式修饰地点。",
+      "tags": [
+        "综合",
+        "时间从句",
+        "表达临时需求",
+        "行程中断"
+      ],
+      "difficulty": 3,
+      "id": "comprehensive_0034"
+    },
+    {
+      "zh": "您能写下报失编号，方便我后续查询吗？",
+      "en": "Could you write down the lost-property reference number so that I can follow up later?",
+      "answers": [
+        "Could you write down the lost-property reference number so that I can follow up later?"
+      ],
+      "notes": "so that 说明目的；follow up 表示后续跟进。",
+      "tags": [
+        "综合",
+        "目的从句",
+        "取得查询凭证",
+        "失物登记"
+      ],
+      "difficulty": 3,
+      "id": "comprehensive_0035"
+    },
+    {
+      "zh": "让我担心的是，我没有随身携带护照复印件。",
+      "en": "What worries me is that I don't have a copy of my passport with me.",
+      "answers": [
+        "What worries me is that I don't have a copy of my passport with me.",
+        "What worries me is that I do not have a copy of my passport with me."
+      ],
+      "notes": "what 从句作主语；have sth with me 表示随身带着。",
+      "tags": [
+        "综合",
+        "主语从句",
+        "说明困难",
+        "证件问题"
+      ],
+      "difficulty": 4,
+      "id": "comprehensive_0036"
+    },
+    {
+      "zh": "如果天气允许，我们打算明天坐船去岛上。",
+      "en": "Weather permitting, we plan to take a boat to the island tomorrow.",
+      "answers": [
+        "Weather permitting, we plan to take a boat to the island tomorrow."
+      ],
+      "notes": "weather permitting 是独立主格结构，相当于 if the weather permits。",
+      "tags": [
+        "综合",
+        "独立主格",
+        "说明行程条件",
+        "游船"
+      ],
+      "difficulty": 4,
+      "id": "comprehensive_0037"
+    },
+    {
+      "zh": "出发前，我想确认山间步道是否仍然开放。",
+      "en": "Before setting off, I'd like to check whether the mountain trail is still open.",
+      "answers": [
+        "Before setting off, I'd like to check whether the mountain trail is still open."
+      ],
+      "notes": "set off 表示出发；whether 引出需要确认的状态。",
+      "tags": [
+        "综合",
+        "时间从句",
+        "核对开放信息",
+        "徒步计划"
+      ],
+      "difficulty": 3,
+      "id": "comprehensive_0038"
+    },
+    {
+      "zh": "我们取消了最远的那一站，这样每天就不用赶路了。",
+      "en": "We dropped the most distant stop from our itinerary so that we wouldn't have to rush each day.",
+      "answers": [
+        "We dropped the most distant stop from our itinerary so that we wouldn't have to rush each day.",
+        "We dropped the most distant stop from our itinerary so that we would not have to rush each day."
+      ],
+      "notes": "drop ... from ... 表示从计划中删去；so that 引出调整目的。",
+      "tags": [
+        "综合",
+        "目的从句",
+        "解释行程调整",
+        "旅游规划"
+      ],
+      "difficulty": 3,
+      "id": "comprehensive_0039"
+    },
+    {
+      "zh": "与其一天跑遍所有景点，我们宁愿把时间留给两个最感兴趣的地方。",
+      "en": "Rather than visit every attraction in one day, we'd prefer to spend time at the two places that interest us most.",
+      "answers": [
+        "Rather than visit every attraction in one day, we'd prefer to spend time at the two places that interest us most."
+      ],
+      "notes": "rather than 引出被放弃的方案；that 从句修饰 places。",
+      "tags": [
+        "综合",
+        "对比结构",
+        "表达旅行偏好",
+        "景点选择"
+      ],
+      "difficulty": 3,
+      "id": "comprehensive_0040"
+    },
+    {
+      "zh": "到我们到达游客中心时，导览活动已经结束了。",
+      "en": "By the time we reached the visitor centre, the guided tour had ended.",
+      "answers": [
+        "By the time we reached the visitor centre, the guided tour had ended."
+      ],
+      "notes": "by the time 搭配过去完成时，明确两个过去事件的先后。",
+      "tags": [
+        "综合",
+        "过去完成时",
+        "叙述行程经过",
+        "导览"
+      ],
+      "difficulty": 3,
+      "id": "comprehensive_0041"
+    },
+    {
+      "zh": "无论最后选择哪条路线，都请把预计返回时间告诉前台。",
+      "en": "Whichever route you choose in the end, please tell reception when you expect to return.",
+      "answers": [
+        "Whichever route you choose in the end, please tell reception when you expect to return."
+      ],
+      "notes": "whichever 引导让步；when 从句使用陈述语序，作 tell 的内容。",
+      "tags": [
+        "综合",
+        "让步从句",
+        "安排行程联络",
+        "户外活动"
+      ],
+      "difficulty": 3,
+      "id": "comprehensive_0042"
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0001",
+      "zh": "我的姓在机票上少了一个字母，需要在哪里更正？",
+      "en": "One letter is missing from my surname on the ticket; where can I correct it?",
+      "answers": [
+        "One letter is missing from my surname on the ticket; where can I correct it?"
+      ],
+      "notes": "be missing from：缺少。",
+      "tags": [
+        "综合",
+        "疑问与陈述",
+        "机场姓名核对"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0002",
+      "zh": "在线值机已经完成，但我没有收到登机牌。",
+      "en": "I have checked in online, but I have not received a boarding pass.",
+      "answers": [
+        "I have checked in online, but I have not received a boarding pass.",
+        "I've checked in online, but I've not received a boarding pass."
+      ],
+      "notes": "check in：办理值机。",
+      "tags": [
+        "综合",
+        "现在完成时",
+        "值机"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0003",
+      "zh": "我们同行但座位分开，能否安排坐得近一些？",
+      "en": "We are travelling together but seated apart; could we be moved closer to each other?",
+      "answers": [
+        "We are travelling together but seated apart; could we be moved closer to each other?",
+        "We're travelling together but seated apart; could we be moved closer to each other?"
+      ],
+      "notes": "seated apart：座位分开。",
+      "tags": [
+        "综合",
+        "被动疑问句",
+        "座位安排"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0004",
+      "zh": "安检时需要把平板电脑单独拿出来吗？",
+      "en": "Do I need to remove my tablet separately at security?",
+      "answers": [
+        "Do I need to remove my tablet separately at security?"
+      ],
+      "notes": "at security：在安检处。",
+      "tags": [
+        "综合",
+        "一般疑问句",
+        "安检"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0005",
+      "zh": "这件行李超过限重多少？",
+      "en": "How much is this bag over the weight limit?",
+      "answers": [
+        "How much is this bag over the weight limit?"
+      ],
+      "notes": "over the limit：超过限制。",
+      "tags": [
+        "综合",
+        "特殊疑问句",
+        "行李重量"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0006",
+      "zh": "我需要步行很远才能转机吗，还是有接驳车？",
+      "en": "Is it a long walk to the connecting flight, or is there a shuttle?",
+      "answers": [
+        "Is it a long walk to the connecting flight, or is there a shuttle?"
+      ],
+      "notes": "shuttle：接驳车。",
+      "tags": [
+        "综合",
+        "选择疑问句",
+        "机场接驳"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0007",
+      "zh": "航班取消通知里有没有说明住宿安排？",
+      "en": "Does the cancellation notice mention accommodation arrangements?",
+      "answers": [
+        "Does the cancellation notice mention accommodation arrangements?"
+      ],
+      "notes": "accommodation：住宿。",
+      "tags": [
+        "综合",
+        "一般疑问句",
+        "航班取消"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0008",
+      "zh": "请确认行李标签上的目的地是否正确。",
+      "en": "Please check that the destination on the baggage tag is correct.",
+      "answers": [
+        "Please check that the destination on the baggage tag is correct."
+      ],
+      "notes": "baggage tag：行李标签。",
+      "tags": [
+        "综合",
+        "宾语从句",
+        "托运核对"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0009",
+      "zh": "我比预定入住时间早到了，有房间可以提前入住吗？",
+      "en": "I arrived before the scheduled check-in time; is a room available early?",
+      "answers": [
+        "I arrived before the scheduled check-in time; is a room available early?"
+      ],
+      "notes": "scheduled：预定的。",
+      "tags": [
+        "综合",
+        "疑问与陈述",
+        "提前入住"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0010",
+      "zh": "门卡失效了，我无法进入房间。",
+      "en": "The key card has stopped working, and I cannot get into the room.",
+      "answers": [
+        "The key card has stopped working, and I cannot get into the room.",
+        "The key card has stopped working, and I can't get into the room."
+      ],
+      "notes": "stop working：停止正常工作。",
+      "tags": [
+        "综合",
+        "现在完成时",
+        "门卡故障"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0011",
+      "zh": "这间房的窗户打不开，可以派人看看吗？",
+      "en": "The window in this room will not open; could someone take a look?",
+      "answers": [
+        "The window in this room will not open; could someone take a look?",
+        "The window in this room won't open; could someone take a look?"
+      ],
+      "notes": "will not 可描述物件无法正常工作。",
+      "tags": [
+        "综合",
+        "礼貌疑问句",
+        "房间设施"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0012",
+      "zh": "早餐在哪一层，几点结束？",
+      "en": "Which floor is breakfast served on, and when does it finish?",
+      "answers": [
+        "Which floor is breakfast served on, and when does it finish?"
+      ],
+      "notes": "be served：提供餐食。",
+      "tags": [
+        "综合",
+        "被动疑问句",
+        "酒店餐饮"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0013",
+      "zh": "预订里包含的早餐适用于所有住客吗？",
+      "en": "Does the breakfast included in the booking cover every guest?",
+      "answers": [
+        "Does the breakfast included in the booking cover every guest?"
+      ],
+      "notes": "included 作分词定语。",
+      "tags": [
+        "综合",
+        "一般疑问句",
+        "住宿权益"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0014",
+      "zh": "请在发票上分别列出住宿费和其他费用。",
+      "en": "Please itemise the room charge and other expenses on the invoice.",
+      "answers": [
+        "Please itemise the room charge and other expenses on the invoice."
+      ],
+      "notes": "itemise：逐项列明。",
+      "tags": [
+        "综合",
+        "祈使句",
+        "住宿结算"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0015",
+      "zh": "我需要安静的房间，最好远离电梯。",
+      "en": "I need a quiet room, preferably away from the lift.",
+      "answers": [
+        "I need a quiet room, preferably away from the lift."
+      ],
+      "notes": "preferably：最好。",
+      "tags": [
+        "综合",
+        "需求表达",
+        "房间偏好"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0016",
+      "zh": "如果明早没有热水，请提前告诉我们。",
+      "en": "If hot water will be unavailable tomorrow morning, please let us know in advance.",
+      "answers": [
+        "If hot water will be unavailable tomorrow morning, please let us know in advance."
+      ],
+      "notes": "will be unavailable 表示已知的未来安排。",
+      "tags": [
+        "综合",
+        "条件从句",
+        "酒店服务中断"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0017",
+      "zh": "我是在机器上取票，还是去人工窗口？",
+      "en": "Should I collect my ticket from the machine or the staffed counter?",
+      "answers": [
+        "Should I collect my ticket from the machine or the staffed counter?"
+      ],
+      "notes": "staffed counter：人工服务窗口。",
+      "tags": [
+        "综合",
+        "选择疑问句",
+        "取票"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0018",
+      "zh": "这趟列车的前半部分和后半部分会去不同的地方吗？",
+      "en": "Will the front and rear sections of this train go to different destinations?",
+      "answers": [
+        "Will the front and rear sections of this train go to different destinations?"
+      ],
+      "notes": "front and rear：前部和后部。",
+      "tags": [
+        "综合",
+        "一般疑问句",
+        "列车分离"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0019",
+      "zh": "电子车票打不开，我可以出示确认邮件吗？",
+      "en": "My electronic ticket will not open; may I show the confirmation email?",
+      "answers": [
+        "My electronic ticket will not open; may I show the confirmation email?",
+        "My electronic ticket won't open; may I show the confirmation email?"
+      ],
+      "notes": "show：出示。",
+      "tags": [
+        "综合",
+        "请求表达",
+        "车票故障"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0020",
+      "zh": "站台变更后，我们是否还有足够时间上车？",
+      "en": "After the platform change, do we still have enough time to board?",
+      "answers": [
+        "After the platform change, do we still have enough time to board?"
+      ],
+      "notes": "board 可作动词表示上车。",
+      "tags": [
+        "综合",
+        "时间疑问句",
+        "站台变更"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0021",
+      "zh": "这张票只能坐指定班次，还是当天都有效？",
+      "en": "Is this ticket valid only for a specific departure or for the whole day?",
+      "answers": [
+        "Is this ticket valid only for a specific departure or for the whole day?"
+      ],
+      "notes": "valid for：在某范围有效。",
+      "tags": [
+        "综合",
+        "选择疑问句",
+        "票务条件"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0022",
+      "zh": "我下错站了，回去需要重新买票吗？",
+      "en": "I got off at the wrong stop; do I need a new ticket to go back?",
+      "answers": [
+        "I got off at the wrong stop; do I need a new ticket to go back?"
+      ],
+      "notes": "get off：下车。",
+      "tags": [
+        "综合",
+        "疑问与陈述",
+        "下错站"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0023",
+      "zh": "公共汽车只停靠指定站点，不会在酒店门口停。",
+      "en": "The bus serves designated stops and will not stop outside the hotel.",
+      "answers": [
+        "The bus serves designated stops and will not stop outside the hotel.",
+        "The bus serves designated stops and won't stop outside the hotel."
+      ],
+      "notes": "designated stop：指定站点。",
+      "tags": [
+        "综合",
+        "并列句",
+        "路线说明"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0024",
+      "zh": "我们带着婴儿车，哪条路线不用上下楼梯？",
+      "en": "We have a pushchair; which route avoids stairs?",
+      "answers": [
+        "We have a pushchair; which route avoids stairs?"
+      ],
+      "notes": "pushchair：婴儿推车。",
+      "tags": [
+        "综合",
+        "特殊疑问句",
+        "无障碍出行"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0025",
+      "zh": "租车费用包含第二位驾驶员吗？",
+      "en": "Does the rental price include an additional driver?",
+      "answers": [
+        "Does the rental price include an additional driver?"
+      ],
+      "notes": "additional driver：额外登记的驾驶员。",
+      "tags": [
+        "综合",
+        "一般疑问句",
+        "租车费用"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0026",
+      "zh": "取车之前，我想记录车身已有的划痕。",
+      "en": "Before collecting the car, I would like to record the existing scratches.",
+      "answers": [
+        "Before collecting the car, I would like to record the existing scratches.",
+        "Before collecting the car, I'd like to record the existing scratches."
+      ],
+      "notes": "existing：原有的。",
+      "tags": [
+        "综合",
+        "时间状语",
+        "租车检查"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0027",
+      "zh": "还车时油箱需要加满吗？",
+      "en": "Does the fuel tank need to be full when I return the car?",
+      "answers": [
+        "Does the fuel tank need to be full when I return the car?"
+      ],
+      "notes": "fuel tank：油箱。",
+      "tags": [
+        "综合",
+        "时间疑问句",
+        "还车条件"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0028",
+      "zh": "如果车在路上出故障，应该联系哪个号码？",
+      "en": "Which number should I call if the car breaks down on the road?",
+      "answers": [
+        "Which number should I call if the car breaks down on the road?"
+      ],
+      "notes": "break down：车辆故障。",
+      "tags": [
+        "综合",
+        "条件疑问句",
+        "道路援助"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0029",
+      "zh": "这里的停车费是按小时计算，还是全天固定价格？",
+      "en": "Is parking charged by the hour or at a fixed daily rate?",
+      "answers": [
+        "Is parking charged by the hour or at a fixed daily rate?"
+      ],
+      "notes": "by the hour：按小时。",
+      "tags": [
+        "综合",
+        "选择疑问句",
+        "停车收费"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0030",
+      "zh": "停车机器不接受我的卡，有其他付款方式吗？",
+      "en": "The parking machine will not accept my card; is there another way to pay?",
+      "answers": [
+        "The parking machine will not accept my card; is there another way to pay?",
+        "The parking machine won't accept my card; is there another way to pay?"
+      ],
+      "notes": "another way to do：另一种方式。",
+      "tags": [
+        "综合",
+        "疑问与陈述",
+        "停车付款"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0031",
+      "zh": "这条路暂时封闭，我们需要按照标志绕行。",
+      "en": "This road is temporarily closed, so we need to follow the diversion signs.",
+      "answers": [
+        "This road is temporarily closed, so we need to follow the diversion signs."
+      ],
+      "notes": "diversion：绕行路线。",
+      "tags": [
+        "综合",
+        "因果并列句",
+        "道路变化"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0032",
+      "zh": "导航让我们驶入小路，但标志显示不允许通行。",
+      "en": "The navigation directs us onto a side road, but the sign says access is prohibited.",
+      "answers": [
+        "The navigation directs us onto a side road, but the sign says access is prohibited."
+      ],
+      "notes": "access is prohibited：禁止通行。",
+      "tags": [
+        "综合",
+        "转折并列句",
+        "导航核实"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0033",
+      "zh": "菜单上的价格是否已经包含服务费？",
+      "en": "Do the menu prices already include a service charge?",
+      "answers": [
+        "Do the menu prices already include a service charge?"
+      ],
+      "notes": "service charge：服务费。",
+      "tags": [
+        "综合",
+        "一般疑问句",
+        "餐厅费用"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0034",
+      "zh": "我点的饮料还没上，能帮我查看一下吗？",
+      "en": "The drink I ordered has not arrived; could you check on it?",
+      "answers": [
+        "The drink I ordered has not arrived; could you check on it?",
+        "The drink I ordered hasn't arrived; could you check on it?"
+      ],
+      "notes": "check on：查看进展或情况。",
+      "tags": [
+        "综合",
+        "定语从句",
+        "餐饮跟进"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0035",
+      "zh": "我们只有半个小时，哪些菜能比较快做好？",
+      "en": "We only have half an hour; which dishes can be prepared quickly?",
+      "answers": [
+        "We only have half an hour; which dishes can be prepared quickly?"
+      ],
+      "notes": "be prepared：被做好。",
+      "tags": [
+        "综合",
+        "被动疑问句",
+        "用餐时间"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0036",
+      "zh": "这道菜本来应该是热的，但送来时已经凉了。",
+      "en": "This dish was meant to be hot, but it arrived cold.",
+      "answers": [
+        "This dish was meant to be hot, but it arrived cold."
+      ],
+      "notes": "be meant to：按原意应当。",
+      "tags": [
+        "综合",
+        "转折并列句",
+        "餐品温度"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0037",
+      "zh": "我想把剩下的食物打包带走。",
+      "en": "I would like to have the remaining food packed to take away.",
+      "answers": [
+        "I would like to have the remaining food packed to take away.",
+        "I'd like to have the remaining food packed to take away."
+      ],
+      "notes": "have sth done：请人处理某物。",
+      "tags": [
+        "综合",
+        "使役结构",
+        "打包"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0038",
+      "zh": "能否推荐不含乳制品的选项，并确认配料？",
+      "en": "Could you suggest a dairy-free option and confirm the ingredients?",
+      "answers": [
+        "Could you suggest a dairy-free option and confirm the ingredients?"
+      ],
+      "notes": "dairy-free：不含乳制品的。",
+      "tags": [
+        "综合",
+        "礼貌疑问句",
+        "饮食需求"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0039",
+      "zh": "我们已经预付了定金，这笔钱会从账单里扣除吗？",
+      "en": "We have paid a deposit; will it be deducted from the bill?",
+      "answers": [
+        "We have paid a deposit; will it be deducted from the bill?",
+        "We've paid a deposit; will it be deducted from the bill?"
+      ],
+      "notes": "deduct from：从金额中扣除。",
+      "tags": [
+        "综合",
+        "被动疑问句",
+        "餐饮结算"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0040",
+      "zh": "我想先看看今天的特价菜，再决定点什么。",
+      "en": "I would like to see today's specials before deciding what to order.",
+      "answers": [
+        "I would like to see today's specials before deciding what to order.",
+        "I'd like to see today's specials before deciding what to order."
+      ],
+      "notes": "specials：当日特色或特价菜。",
+      "tags": [
+        "综合",
+        "时间结构",
+        "点餐"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0041",
+      "zh": "这件商品可以拆开检查，还是必须保持封装？",
+      "en": "May I open this item to inspect it, or must it remain sealed?",
+      "answers": [
+        "May I open this item to inspect it, or must it remain sealed?"
+      ],
+      "notes": "sealed：封装的。",
+      "tags": [
+        "综合",
+        "选择疑问句",
+        "商品检查"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0042",
+      "zh": "我买错了尺寸，但收据还在，能换吗？",
+      "en": "I bought the wrong size but still have the receipt; can I exchange it?",
+      "answers": [
+        "I bought the wrong size but still have the receipt; can I exchange it?"
+      ],
+      "notes": "exchange：换货。",
+      "tags": [
+        "综合",
+        "疑问与陈述",
+        "换货"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0043",
+      "zh": "价签上的折扣似乎没有体现在结账金额中。",
+      "en": "The discount on the price tag does not seem to appear in the total.",
+      "answers": [
+        "The discount on the price tag does not seem to appear in the total.",
+        "The discount on the price tag doesn't seem to appear in the total."
+      ],
+      "notes": "price tag：价签。",
+      "tags": [
+        "综合",
+        "推测表达",
+        "折扣核对"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0044",
+      "zh": "这个充电器适用于我所在国家的插座吗？",
+      "en": "Is this charger compatible with the sockets in my country?",
+      "answers": [
+        "Is this charger compatible with the sockets in my country?"
+      ],
+      "notes": "compatible with：兼容。",
+      "tags": [
+        "综合",
+        "一般疑问句",
+        "电器购买"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0045",
+      "zh": "能否把易碎品包装好，方便带上飞机？",
+      "en": "Could you pack the fragile items securely for air travel?",
+      "answers": [
+        "Could you pack the fragile items securely for air travel?"
+      ],
+      "notes": "fragile：易碎的。",
+      "tags": [
+        "综合",
+        "礼貌疑问句",
+        "商品包装"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0046",
+      "zh": "这张礼品卡必须一次用完吗？",
+      "en": "Does this gift card have to be used in one transaction?",
+      "answers": [
+        "Does this gift card have to be used in one transaction?"
+      ],
+      "notes": "in one transaction：一次交易中。",
+      "tags": [
+        "综合",
+        "被动疑问句",
+        "礼品卡"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0047",
+      "zh": "我不想订阅会员，只想购买这件商品。",
+      "en": "I only want to buy this item, not sign up for a membership.",
+      "answers": [
+        "I only want to buy this item, not sign up for a membership."
+      ],
+      "notes": "sign up for：注册加入。",
+      "tags": [
+        "综合",
+        "对比结构",
+        "购买选择"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0048",
+      "zh": "如果商品到货，请通过邮件通知我。",
+      "en": "Please notify me by email when the item is back in stock.",
+      "answers": [
+        "Please notify me by email when the item is back in stock."
+      ],
+      "notes": "back in stock：恢复有货。",
+      "tags": [
+        "综合",
+        "时间从句",
+        "到货通知"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0049",
+      "zh": "这条徒步路线适合第一次来的人吗？",
+      "en": "Is this walking route suitable for a first-time visitor?",
+      "answers": [
+        "Is this walking route suitable for a first-time visitor?"
+      ],
+      "notes": "suitable for：适合。",
+      "tags": [
+        "综合",
+        "一般疑问句",
+        "路线选择"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0050",
+      "zh": "我们需要提前预约露营地，还是到达后登记即可？",
+      "en": "Must we book the campsite ahead, or can we register on arrival?",
+      "answers": [
+        "Must we book the campsite ahead, or can we register on arrival?"
+      ],
+      "notes": "on arrival：抵达时。",
+      "tags": [
+        "综合",
+        "选择疑问句",
+        "露营预订"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0051",
+      "zh": "游客中心有最新的天气和步道信息吗？",
+      "en": "Does the visitor centre have current weather and trail information?",
+      "answers": [
+        "Does the visitor centre have current weather and trail information?"
+      ],
+      "notes": "current：最新的、当前的。",
+      "tags": [
+        "综合",
+        "一般疑问句",
+        "出行信息"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0052",
+      "zh": "船票上的登船地点和地图显示的不一样。",
+      "en": "The boarding point on the boat ticket differs from the one on the map.",
+      "answers": [
+        "The boarding point on the boat ticket differs from the one on the map."
+      ],
+      "notes": "one 代指 boarding point。",
+      "tags": [
+        "综合",
+        "比较结构",
+        "登船地点"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0053",
+      "zh": "我们想参加小团，而不是人数很多的团队。",
+      "en": "We would prefer a small group rather than a large tour party.",
+      "answers": [
+        "We would prefer a small group rather than a large tour party."
+      ],
+      "notes": "tour party：旅行团。",
+      "tags": [
+        "综合",
+        "偏好结构",
+        "导览选择"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0054",
+      "zh": "这次活动需要自带装备吗？",
+      "en": "Do we need to bring our own equipment for this activity?",
+      "answers": [
+        "Do we need to bring our own equipment for this activity?"
+      ],
+      "notes": "equipment 为不可数名词。",
+      "tags": [
+        "综合",
+        "一般疑问句",
+        "活动准备"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0055",
+      "zh": "导游讲解包含在门票里，但耳机需要另外租。",
+      "en": "The guide's commentary is included in admission, but headsets must be hired separately.",
+      "answers": [
+        "The guide's commentary is included in admission, but headsets must be hired separately."
+      ],
+      "notes": "separately：另外。",
+      "tags": [
+        "综合",
+        "转折并列句",
+        "导览费用"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0056",
+      "zh": "日落后这里还有公共交通返回市区吗？",
+      "en": "Is there public transport back to the city after sunset?",
+      "answers": [
+        "Is there public transport back to the city after sunset?"
+      ],
+      "notes": "after sunset：日落后。",
+      "tags": [
+        "综合",
+        "存在疑问句",
+        "返程安排"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0057",
+      "zh": "我的同伴和我们走散了，最后一次见到他是在售票处。",
+      "en": "My companion got separated from us; we last saw him at the ticket office.",
+      "answers": [
+        "My companion got separated from us; we last saw him at the ticket office."
+      ],
+      "notes": "get separated from：与某人走散。",
+      "tags": [
+        "综合",
+        "过去时叙述",
+        "寻找同伴"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0058",
+      "zh": "我需要找到一个工作人员可以提供帮助的地方。",
+      "en": "I need somewhere with staff who can help.",
+      "answers": [
+        "I need somewhere with staff who can help."
+      ],
+      "notes": "somewhere with：有某设施或人员的地方。",
+      "tags": [
+        "综合",
+        "定语从句",
+        "寻求帮助"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0059",
+      "zh": "我没有网络，能否告诉我最近的服务台在哪里？",
+      "en": "I have no internet connection; could you tell me where the nearest service desk is?",
+      "answers": [
+        "I have no internet connection; could you tell me where the nearest service desk is?"
+      ],
+      "notes": "间接疑问句使用陈述语序。",
+      "tags": [
+        "综合",
+        "宾语从句",
+        "线下求助"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0060",
+      "zh": "这个地址是我现在所在的位置，不是我的住宿地址。",
+      "en": "This address is my current location, not where I am staying.",
+      "answers": [
+        "This address is my current location, not where I am staying.",
+        "This address is my current location, not where I'm staying."
+      ],
+      "notes": "where 从句作表语。",
+      "tags": [
+        "综合",
+        "对比结构",
+        "说明位置"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0061",
+      "zh": "我能借纸和笔，把重要号码记下来吗？",
+      "en": "Could I borrow a pen and some paper to note down an important number?",
+      "answers": [
+        "Could I borrow a pen and some paper to note down an important number?"
+      ],
+      "notes": "note down：记下。",
+      "tags": [
+        "综合",
+        "目的结构",
+        "记录信息"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0062",
+      "zh": "失物描述中需要包括颜色、品牌和里面的物品吗？",
+      "en": "Should the lost-item description include its colour, brand and contents?",
+      "answers": [
+        "Should the lost-item description include its colour, brand and contents?"
+      ],
+      "notes": "contents：内部物品。",
+      "tags": [
+        "综合",
+        "一般疑问句",
+        "失物说明"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0063",
+      "zh": "我们已经联系了住宿方，他们知道我们会晚到。",
+      "en": "We have contacted our accommodation provider, and they know we will arrive late.",
+      "answers": [
+        "We have contacted our accommodation provider, and they know we will arrive late.",
+        "We've contacted our accommodation provider, and they know we'll arrive late."
+      ],
+      "notes": "provider：服务提供方。",
+      "tags": [
+        "综合",
+        "现在完成时",
+        "行程联络"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "comprehensive_english_5000_ext_0064",
+      "zh": "如果无法今晚离开，请告诉我们哪里可以得到进一步协助。",
+      "en": "If we cannot leave tonight, please tell us where further assistance is available.",
+      "answers": [
+        "If we cannot leave tonight, please tell us where further assistance is available.",
+        "If we can't leave tonight, please tell us where further assistance is available."
+      ],
+      "notes": "further assistance：进一步协助。",
+      "tags": [
+        "综合",
+        "条件从句",
+        "行程中断"
+      ],
+      "difficulty": 3
+    }
+  ]
+}

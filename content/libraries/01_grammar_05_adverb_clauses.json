@@ -1,0 +1,982 @@
+{
+  "schema_version": 1,
+  "id": "grammar_adverb_clauses",
+  "title": "语法 · 状语从句｜原因、条件与让步 · 60 句",
+  "description": "原因结果、目的防范、条件、让步对照、方式地点和必要的时间关系。",
+  "language": "en-GB",
+  "tags": [
+    "语法专项",
+    "状语从句",
+    "初中至四级"
+  ],
+  "items": [
+    {
+      "id": "grammar_adverb_clauses_s1_0001",
+      "zh": "由于拱门太低，货车无法驶入院子。",
+      "en": "Because the arch is too low, the van cannot enter the yard.",
+      "answers": [
+        "Because the arch is too low, the van cannot enter the yard.",
+        "Because the arch is too low, the van can't enter the yard."
+      ],
+      "notes": "because 后接完整原因从句；主句不再加 so。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "原因与结果",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0002",
+      "zh": "既然所有箱子都已编号，我们可以按号码查找。",
+      "en": "Since every crate is numbered, we can locate them by number.",
+      "answers": [
+        "Since every crate is numbered, we can locate them by number."
+      ],
+      "notes": "since 在此表示既然，不是从某时起。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "原因与结果",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0003",
+      "zh": "纸板太薄，装上把手后就弯了。",
+      "en": "The cardboard was so thin that it bent when the handle was attached.",
+      "answers": [
+        "The cardboard was so thin that it bent when the handle was attached."
+      ],
+      "notes": "so + 形容词 + that 表结果。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "原因与结果",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0004",
+      "zh": "这是一张如此复杂的路线图，以至于我们需要一个图例。",
+      "en": "It is such a complicated route map that we need a legend.",
+      "answers": [
+        "It is such a complicated route map that we need a legend."
+      ],
+      "notes": "such + a + 形容词 + 名词；与 so complicated 区分。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "原因与结果",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0005",
+      "zh": "她把收音机调得很轻，因此走廊上听不到。",
+      "en": "She kept the radio so quiet that it could not be heard from the corridor.",
+      "answers": [
+        "She kept the radio so quiet that it could not be heard from the corridor.",
+        "She kept the radio so quiet that it couldn't be heard from the corridor."
+      ],
+      "notes": "so quiet that 描述程度造成的结果。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "原因与结果",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0006",
+      "zh": "考虑到村里只有一条通路，封路必须提前告知。",
+      "en": "As the village has only one access road, closures require advance notice.",
+      "answers": [
+        "As the village has only one access road, closures require advance notice."
+      ],
+      "notes": "as 引出已知背景原因，后接完整从句。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "原因与结果",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0007",
+      "zh": "标签的位置让人看不见警告，因此我们移动了它。",
+      "en": "The label concealed the warning, so we moved it.",
+      "answers": [
+        "The label concealed the warning, so we moved it."
+      ],
+      "notes": "so 连接结果分句，前面无需 because。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "原因与结果",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0008",
+      "zh": "展柜非常沉，四个人才抬得动。",
+      "en": "The display case was so heavy that it took four people to lift it.",
+      "answers": [
+        "The display case was so heavy that it took four people to lift it."
+      ],
+      "notes": "so ... that 引出所需人力这一结果。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "原因与结果",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0009",
+      "zh": "这次测量有价值，是因为它让我们发现了偏差。",
+      "en": "The measurement was valuable because it revealed a discrepancy.",
+      "answers": [
+        "The measurement was valuable because it revealed a discrepancy."
+      ],
+      "notes": "because 明确回答为什么有价值。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "原因与结果",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0010",
+      "zh": "我提出问题并不是因为不信任你，而是因为记录不完整。",
+      "en": "I asked not because I distrust you but because the record is incomplete.",
+      "answers": [
+        "I asked not because I distrust you but because the record is incomplete."
+      ],
+      "notes": "not because ... but because ... 对照两个原因。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "原因与结果",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0011",
+      "zh": "把蓝图摊开，让所有人都能看清标注。",
+      "en": "Spread out the blueprint so that everyone can read the annotations.",
+      "answers": [
+        "Spread out the blueprint so that everyone can read the annotations."
+      ],
+      "notes": "so that 表目的，主句为指令。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "目的与防范",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0012",
+      "zh": "我们把数字放大，以便后排观众也能看见。",
+      "en": "We enlarged the figures in order that the back row could see them.",
+      "answers": [
+        "We enlarged the figures in order that the back row could see them."
+      ],
+      "notes": "in order that + 完整从句表示目的。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "目的与防范",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0013",
+      "zh": "不要挡住这个开关，以免有人紧急时找不到。",
+      "en": "Keep the switch clear so that it can be found in an emergency.",
+      "answers": [
+        "Keep the switch clear so that it can be found in an emergency."
+      ],
+      "notes": "目的从句中被动语态说明开关能被找到。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "目的与防范",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0014",
+      "zh": "带上纸质地址，以防手机没电。",
+      "en": "Take a paper copy of the address in case your phone runs out of power.",
+      "answers": [
+        "Take a paper copy of the address in case your phone runs out of power."
+      ],
+      "notes": "in case 表预防，不等于 if 条件成真才行动。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "目的与防范",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0015",
+      "zh": "老师留出了停顿，让译员有时间完成翻译。",
+      "en": "The teacher paused so that the interpreter had time to finish.",
+      "answers": [
+        "The teacher paused so that the interpreter had time to finish."
+      ],
+      "notes": "so that 说明停顿意图，关注不同主体。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "目的与防范",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0016",
+      "zh": "我们遮住了答案，免得它影响观察者的判断。",
+      "en": "We covered the answer so that it would not influence the observer.",
+      "answers": [
+        "We covered the answer so that it would not influence the observer.",
+        "We covered the answer so that it wouldn't influence the observer."
+      ],
+      "notes": "目的从句用 would not 表希望避免的结果。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "目的与防范",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0017",
+      "zh": "请保存原始包装，以防退货时需要。",
+      "en": "Retain the original packaging in case it is needed for a return.",
+      "answers": [
+        "Retain the original packaging in case it is needed for a return."
+      ],
+      "notes": "in case 接完整可能情形，主句为事先准备。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "目的与防范",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0018",
+      "zh": "我们把名字写得清楚些，以免信件再次送错。",
+      "en": "We wrote the names clearly lest the letters be misdelivered again.",
+      "answers": [
+        "We wrote the names clearly lest the letters be misdelivered again."
+      ],
+      "notes": "lest 后可用动词原形 be，表示以免。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "目的与防范",
+        "初中至四级"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0019",
+      "zh": "窗帘只拉开了一部分，为的是光线不会直接照到画上。",
+      "en": "The curtains were opened only partway so that light would not fall directly on the painting.",
+      "answers": [
+        "The curtains were opened only partway so that light would not fall directly on the painting.",
+        "The curtains were opened only partway so that light wouldn't fall directly on the painting."
+      ],
+      "notes": "only partway 限定动作程度；so that 解释目的。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "目的与防范",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0020",
+      "zh": "我把路线描述得很具体，让第一次来的人也能独自找到。",
+      "en": "I described the route in detail so even a first-time visitor could find it unaided.",
+      "answers": [
+        "I described the route in detail so even a first-time visitor could find it unaided."
+      ],
+      "notes": "so 引出目的；unaided：无需帮助地。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "目的与防范",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0021",
+      "zh": "如果密封圈变形，就需要更换，不能只拧紧。",
+      "en": "If the seal is distorted, it needs replacing rather than tightening.",
+      "answers": [
+        "If the seal is distorted, it needs replacing rather than tightening."
+      ],
+      "notes": "if 表条件；两个动名词对照处理方法。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "真实条件与必要条件",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0022",
+      "zh": "除非风速下降，否则今天不能升起横幅。",
+      "en": "Unless the wind drops, the banner cannot be raised today.",
+      "answers": [
+        "Unless the wind drops, the banner cannot be raised today.",
+        "Unless the wind drops, the banner can't be raised today."
+      ],
+      "notes": "unless 相当于 if ... not，但不要在从句重复否定。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "真实条件与必要条件",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0023",
+      "zh": "只要留出消防通道，这里可以摆放额外座椅。",
+      "en": "Extra seating is permitted here as long as the fire exit route stays clear.",
+      "answers": [
+        "Extra seating is permitted here as long as the fire exit route stays clear."
+      ],
+      "notes": "as long as 引出许可的条件。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "真实条件与必要条件",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0024",
+      "zh": "只有得到书面许可后，才可以移动档案。",
+      "en": "The archives may be moved only if written permission is obtained.",
+      "answers": [
+        "The archives may be moved only if written permission is obtained."
+      ],
+      "notes": "only if 表必要条件，不表示满足后一定移动。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "真实条件与必要条件",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0025",
+      "zh": "即使备用机器可用，我们也要先检查接口。",
+      "en": "Even if the spare machine is available, we must check the connections first.",
+      "answers": [
+        "Even if the spare machine is available, we must check the connections first."
+      ],
+      "notes": "even if 表让步条件，结果不因条件成立而改变。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "真实条件与必要条件",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0026",
+      "zh": "假如入口被锁，请使用墙上的对讲机。",
+      "en": "In the event that the entrance is locked, use the intercom on the wall.",
+      "answers": [
+        "In the event that the entrance is locked, use the intercom on the wall."
+      ],
+      "notes": "in the event that 是正式的如果。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "真实条件与必要条件",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0027",
+      "zh": "在双方都同意的条件下，可以交换展示时段。",
+      "en": "Display slots can be exchanged provided that both parties agree.",
+      "answers": [
+        "Display slots can be exchanged provided that both parties agree."
+      ],
+      "notes": "provided that：前提是；双方同意才允许。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "真实条件与必要条件",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0028",
+      "zh": "如果不是所有人都能看到屏幕，就把椅子向中间移。",
+      "en": "If not everyone can see the screen, move the chairs towards the centre.",
+      "answers": [
+        "If not everyone can see the screen, move the chairs towards the centre."
+      ],
+      "notes": "not everyone 是部分否定，不等于 nobody。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "真实条件与必要条件",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0029",
+      "zh": "遇到没有登记的访客时，应先联系接待人。",
+      "en": "When an unregistered visitor arrives, contact the host first.",
+      "answers": [
+        "When an unregistered visitor arrives, contact the host first."
+      ],
+      "notes": "when 在程序中表示每次发生该情形时。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "真实条件与必要条件",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0030",
+      "zh": "是否使用大门，要看送货车能否安全转弯。",
+      "en": "Whether we use the main gate depends on whether the van can turn safely.",
+      "answers": [
+        "Whether we use the main gate depends on whether the van can turn safely."
+      ],
+      "notes": "两个 whether 表待确定事项，不误写条件 if ... then。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "真实条件与必要条件",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0031",
+      "zh": "虽然封面已经磨损，里面的图纸仍很清楚。",
+      "en": "Although the cover is worn, the drawings inside remain clear.",
+      "answers": [
+        "Although the cover is worn, the drawings inside remain clear."
+      ],
+      "notes": "although 从句后不再加 but。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "让步与对照",
+        "初中至四级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0032",
+      "zh": "即便这块玻璃看起来完好，也要检查边缘。",
+      "en": "Even though the glass looks intact, its edges still need inspection.",
+      "answers": [
+        "Even though the glass looks intact, its edges still need inspection."
+      ],
+      "notes": "even though 承认实际情况后作让步。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "让步与对照",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0033",
+      "zh": "不管支架有多结实，都必须固定在地上。",
+      "en": "However sturdy the stand is, it must be secured to the ground.",
+      "answers": [
+        "However sturdy the stand is, it must be secured to the ground."
+      ],
+      "notes": "however + 形容词 + 主语 + 谓语，表示无论多么。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "让步与对照",
+        "初中至四级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0034",
+      "zh": "无论谁来安装，最后都需要独立检查。",
+      "en": "Whoever installs it, an independent check is required at the end.",
+      "answers": [
+        "Whoever installs it, an independent check is required at the end."
+      ],
+      "notes": "whoever 在此引导让步状语从句，不作主句主语。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "让步与对照",
+        "初中至四级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0035",
+      "zh": "无论把灯放在哪里，镜子里都能看到它。",
+      "en": "Wherever we put the lamp, it appears in the mirror.",
+      "answers": [
+        "Wherever we put the lamp, it appears in the mirror."
+      ],
+      "notes": "wherever：无论在哪里；主句结果不受地点变化影响。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "让步与对照",
+        "初中至四级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0036",
+      "zh": "金属框架能承重，而织物只起遮挡作用。",
+      "en": "The metal frame bears the load, whereas the fabric provides a screen.",
+      "answers": [
+        "The metal frame bears the load, whereas the fabric provides a screen."
+      ],
+      "notes": "whereas 对照功能，不是时间上的同时。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "让步与对照",
+        "初中至四级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0037",
+      "zh": "尽管我认可这个目标，但不认为现有工具足够。",
+      "en": "While I accept the objective, I doubt that the current tools are adequate.",
+      "answers": [
+        "While I accept the objective, I doubt that the current tools are adequate."
+      ],
+      "notes": "while 在此表虽然，不表动作同步。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "让步与对照",
+        "初中至四级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0038",
+      "zh": "尽管搬运很困难，他们仍保留了整块石碑。",
+      "en": "Difficult as it was to move, they kept the stone monument intact.",
+      "answers": [
+        "Difficult as it was to move, they kept the stone monument intact."
+      ],
+      "notes": "形容词前置 + as 表让步，主句无需 but。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "让步与对照",
+        "初中至四级"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0039",
+      "zh": "无论你选择哪种配色，都要保留文字对比度。",
+      "en": "Whichever colour scheme you choose, keep the text contrast high.",
+      "answers": [
+        "Whichever colour scheme you choose, keep the text contrast high."
+      ],
+      "notes": "whichever 引导有限选项内的让步条件。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "让步与对照",
+        "初中至四级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0040",
+      "zh": "即使反馈不尽相同，也不能因此跳过复核。",
+      "en": "Even if feedback varies, that is no reason to skip the review.",
+      "answers": [
+        "Even if feedback varies, that is no reason to skip the review."
+      ],
+      "notes": "even if 后承认可能差异；主句说明不变结论。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "让步与对照",
+        "初中至四级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0041",
+      "zh": "把标尺放在光线能照到的地方。",
+      "en": "Place the ruler where the light reaches it.",
+      "answers": [
+        "Place the ruler where the light reaches it."
+      ],
+      "notes": "where 从句作地点状语，前面没有地点先行词。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "方式与地点",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0042",
+      "zh": "按照图中所示的顺序连接管道。",
+      "en": "Connect the pipes as the diagram shows.",
+      "answers": [
+        "Connect the pipes as the diagram shows."
+      ],
+      "notes": "as 表按照，方式从句不同于 because 原因。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "方式与地点",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0043",
+      "zh": "他检查零件的方式就像知道它哪里坏了一样。",
+      "en": "He examined the part as if he knew where it was damaged.",
+      "answers": [
+        "He examined the part as if he knew where it was damaged."
+      ],
+      "notes": "as if 表仿佛；knew 表假设性方式而非主叙事时态训练。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "方式与地点",
+        "初中至四级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0044",
+      "zh": "有台阶的地方也需要提供另一条路线。",
+      "en": "An alternative route is needed wherever there are steps.",
+      "answers": [
+        "An alternative route is needed wherever there are steps."
+      ],
+      "notes": "wherever 表所有满足地点条件之处。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "方式与地点",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0045",
+      "zh": "按原样保留标签，直到来源核实完毕。",
+      "en": "Leave the label as it is until its source is verified.",
+      "answers": [
+        "Leave the label as it is until its source is verified."
+      ],
+      "notes": "as it is 表保持原状；until 表终点条件。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "方式与地点",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0046",
+      "zh": "把重物放在地板有额外支撑的地方。",
+      "en": "Put the heavy objects where the floor has extra support.",
+      "answers": [
+        "Put the heavy objects where the floor has extra support."
+      ],
+      "notes": "where 说明放置位置，不需要额外介词 in。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "方式与地点",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0047",
+      "zh": "他把模型捧得像里面装着水一样。",
+      "en": "He carried the model as though it contained water.",
+      "answers": [
+        "He carried the model as though it contained water."
+      ],
+      "notes": "as though 引出想象中的方式。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "方式与地点",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0048",
+      "zh": "新图例必须像旧图例那样解释缩写。",
+      "en": "The new legend must explain abbreviations as the old one did.",
+      "answers": [
+        "The new legend must explain abbreviations as the old one did."
+      ],
+      "notes": "as 从句表达方式一致；did 替代重复动作。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "方式与地点",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0049",
+      "zh": "请站在镜头拍不到你的地方。",
+      "en": "Stand where the camera cannot capture you.",
+      "answers": [
+        "Stand where the camera cannot capture you.",
+        "Stand where the camera can't capture you."
+      ],
+      "notes": "where 后接完整陈述句，作地点状语。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "方式与地点",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0050",
+      "zh": "连接处应按设计的方式活动，而不能被胶水固定死。",
+      "en": "The joint must move as intended rather than be held rigid by glue.",
+      "answers": [
+        "The joint must move as intended rather than be held rigid by glue."
+      ],
+      "notes": "as intended 为 as it was intended 的省略结构。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "方式与地点",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0051",
+      "zh": "门锁解开之后，再转动把手。",
+      "en": "Turn the handle once the lock is released.",
+      "answers": [
+        "Turn the handle once the lock is released."
+      ],
+      "notes": "once 表一旦，时间从句用一般现在时指将来步骤。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "必要的时间关系",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0052",
+      "zh": "胶水尚未固定时，不要移动框架。",
+      "en": "Do not move the frame while the glue is still setting.",
+      "answers": [
+        "Do not move the frame while the glue is still setting.",
+        "Don't move the frame while the glue is still setting."
+      ],
+      "notes": "while 表持续背景，重点是动作并行关系。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "必要的时间关系",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0053",
+      "zh": "每次更换滚轮，都检查轴是否弯曲。",
+      "en": "Whenever you replace a wheel, check whether the axle is bent.",
+      "answers": [
+        "Whenever you replace a wheel, check whether the axle is bent."
+      ],
+      "notes": "whenever 表每次；whether 是 check 的宾语从句。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "必要的时间关系",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0054",
+      "zh": "在第二个人握稳之前，别松手。",
+      "en": "Keep hold until the second person has a firm grip.",
+      "answers": [
+        "Keep hold until the second person has a firm grip."
+      ],
+      "notes": "until 表动作保持到终点。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "必要的时间关系",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0055",
+      "zh": "你刚打开盖子，就能闻到木材的气味。",
+      "en": "As soon as you lift the lid, you can smell the wood.",
+      "answers": [
+        "As soon as you lift the lid, you can smell the wood."
+      ],
+      "notes": "as soon as：一……就……，表达紧接关系。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "必要的时间关系",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0056",
+      "zh": "绳索越拉越紧时，注意支架是否移动。",
+      "en": "As the rope tightens, watch for movement in the support.",
+      "answers": [
+        "As the rope tightens, watch for movement in the support."
+      ],
+      "notes": "as 表两个过程同步变化。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "必要的时间关系",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0057",
+      "zh": "在你接线之前，确认标签没有被交换。",
+      "en": "Before you connect the wires, confirm that the labels have not been switched.",
+      "answers": [
+        "Before you connect the wires, confirm that the labels have not been switched.",
+        "Before you connect the wires, confirm that the labels haven't been switched."
+      ],
+      "notes": "before 给出先后顺序；that 说明核实内容。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "必要的时间关系",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0058",
+      "zh": "当所有出口清空后，工作人员才允许入场。",
+      "en": "Staff allow entry only when every exit is clear.",
+      "answers": [
+        "Staff allow entry only when every exit is clear."
+      ],
+      "notes": "only when 强调允许入场的时机条件。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "必要的时间关系",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0059",
+      "zh": "一旦塑料变硬，就很难再调整形状。",
+      "en": "Once the plastic hardens, reshaping it becomes difficult.",
+      "answers": [
+        "Once the plastic hardens, reshaping it becomes difficult."
+      ],
+      "notes": "once 强调跨过某阶段后的状态变化。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "必要的时间关系",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_adverb_clauses_s1_0060",
+      "zh": "只要机器还在运转，就保持盖子关闭。",
+      "en": "Keep the lid shut for as long as the machine is running.",
+      "answers": [
+        "Keep the lid shut for as long as the machine is running."
+      ],
+      "notes": "for as long as 表整个持续期间，不是条件习语 as long as 的许可义。",
+      "tags": [
+        "语法专项",
+        "状语从句",
+        "必要的时间关系",
+        "初中至四级"
+      ],
+      "difficulty": 3
+    }
+  ]
+}

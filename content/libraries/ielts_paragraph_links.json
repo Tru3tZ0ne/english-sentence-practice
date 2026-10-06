@@ -1,0 +1,1472 @@
+{
+  "schema_version": 1,
+  "id": "ielts_paragraph_links",
+  "title": "雅思·段落衔接与论证 · 96 句",
+  "description": "用两个相连句子练习指代、举例、转折、因果、前提与结论；把单句表达扩展为完整论证关系。",
+  "language": "en-GB",
+  "tags": [
+    "IELTS",
+    "段落衔接",
+    "论证关系",
+    "逐题讲解"
+  ],
+  "items": [
+    {
+      "id": "ielts_paragraph_links_ext_0001",
+      "zh": "免费早餐能让饥饿的学生更好地参与课堂。这种支持对很早出门、需要长途上学的孩子尤其有价值。",
+      "en": "Free breakfasts can help hungry pupils participate in lessons. Such support is particularly valuable to children who leave home very early for a long journey to school.",
+      "answers": [
+        "Free breakfasts can help hungry pupils participate in lessons. Such support is particularly valuable to children who leave home very early for a long journey to school."
+      ],
+      "notes": "such support 回指免费早餐，并进一步说明受益对象。",
+      "tags": [
+        "IELTS",
+        "指代衔接",
+        "具体化"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_paragraph_links_ext_0002",
+      "zh": "考试提供了可比较的成绩。不过，它们只能反映有限时间内的表现。",
+      "en": "Exams provide comparable scores. However, they capture performance within a limited period only.",
+      "answers": [
+        "Exams provide comparable scores. However, they capture performance within a limited period only."
+      ],
+      "notes": "however 引入评价范围的限制。",
+      "tags": [
+        "IELTS",
+        "转折衔接",
+        "考试评价"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_paragraph_links_ext_0003",
+      "zh": "公园为居民提供免费的活动空间。例如，散步团体不必租用私人场地。",
+      "en": "Parks provide residents with free space for activities. Walking groups, for example, need not hire private venues.",
+      "answers": [
+        "Parks provide residents with free space for activities. Walking groups, for example, need not hire private venues.",
+        "Parks provide residents with free space for activities. Walking groups, for example, needn't hire private venues."
+      ],
+      "notes": "for example 将一般观点落到具体活动。",
+      "tags": [
+        "IELTS",
+        "举例衔接",
+        "公共空间"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_paragraph_links_ext_0004",
+      "zh": "低票价有助于提高公交吸引力。然而，乘客也需要相信车辆会按时到达。",
+      "en": "Low fares can make buses more attractive. Passengers nevertheless need confidence that vehicles will arrive on time.",
+      "answers": [
+        "Low fares can make buses more attractive. Passengers nevertheless need confidence that vehicles will arrive on time."
+      ],
+      "notes": "nevertheless 承接优势后补充必要条件。",
+      "tags": [
+        "IELTS",
+        "让步衔接",
+        "交通服务"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_ext_0005",
+      "zh": "维修工具可以在社区共享。这样一来，偶尔使用的人就不必每人购买一套。",
+      "en": "Repair tools can be shared within a community. Occasional users would therefore not need to buy a set each.",
+      "answers": [
+        "Repair tools can be shared within a community. Occasional users would therefore not need to buy a set each."
+      ],
+      "notes": "therefore 说明共享所带来的结果。",
+      "tags": [
+        "IELTS",
+        "因果衔接",
+        "共享资源"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_paragraph_links_ext_0006",
+      "zh": "有些工人无法参加白天的培训。这并不一定说明他们缺乏学习意愿。",
+      "en": "Some workers cannot attend daytime training. This does not necessarily indicate a lack of willingness to learn.",
+      "answers": [
+        "Some workers cannot attend daytime training. This does not necessarily indicate a lack of willingness to learn.",
+        "Some workers can't attend daytime training. This doesn't necessarily indicate a lack of willingness to learn."
+      ],
+      "notes": "this 回指无法参加，而非能力不足。",
+      "tags": [
+        "IELTS",
+        "限定推论",
+        "培训参与"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_ext_0007",
+      "zh": "集中采购可能降低单位成本。相反，小批量采购可以让学校更灵活地调整材料。",
+      "en": "Central purchasing may lower unit costs. Small orders, by contrast, can let schools adjust materials more flexibly.",
+      "answers": [
+        "Central purchasing may lower unit costs. Small orders, by contrast, can let schools adjust materials more flexibly."
+      ],
+      "notes": "by contrast 比较两种采购方式。",
+      "tags": [
+        "IELTS",
+        "对比衔接",
+        "资源采购"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_ext_0008",
+      "zh": "远程工作减少了通勤。此外，它可能扩大残障求职者可以申请的岗位范围。",
+      "en": "Remote work reduces commuting. In addition, it may widen the range of jobs open to applicants with disabilities.",
+      "answers": [
+        "Remote work reduces commuting. In addition, it may widen the range of jobs open to applicants with disabilities."
+      ],
+      "notes": "in addition 补充另一个收益维度。",
+      "tags": [
+        "IELTS",
+        "递进衔接",
+        "就业机会"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_paragraph_links_ext_0009",
+      "zh": "城镇吸引了更多游客。因此，季节性用工需求随之增加。",
+      "en": "The town attracted more visitors. Demand for seasonal workers consequently increased.",
+      "answers": [
+        "The town attracted more visitors. Demand for seasonal workers consequently increased."
+      ],
+      "notes": "consequently 连接原因与后果。",
+      "tags": [
+        "IELTS",
+        "因果衔接",
+        "旅游就业"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_paragraph_links_ext_0010",
+      "zh": "家长可能把熟悉的教学方式当作更好的方式。换言之，偏好有时来自习惯，而不是对效果的比较。",
+      "en": "Parents may regard familiar teaching methods as better. In other words, a preference can reflect habit rather than a comparison of effectiveness.",
+      "answers": [
+        "Parents may regard familiar teaching methods as better. In other words, a preference can reflect habit rather than a comparison of effectiveness."
+      ],
+      "notes": "in other words 用另一种说法解释前一句，而非另起新理由。",
+      "tags": [
+        "IELTS",
+        "解释衔接",
+        "教育判断"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_ext_0011",
+      "zh": "这项建议承认企业需要灵活性。与此同时，它要求员工能提前知道排班。",
+      "en": "The proposal recognises businesses' need for flexibility. At the same time, it requires advance notice of staff schedules.",
+      "answers": [
+        "The proposal recognises businesses' need for flexibility. At the same time, it requires advance notice of staff schedules."
+      ],
+      "notes": "at the same time 表示并存的要求。",
+      "tags": [
+        "IELTS",
+        "兼顾衔接",
+        "排班制度"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_ext_0012",
+      "zh": "环保包装通常受到欢迎。即便如此，产品能否重复使用仍值得关注。",
+      "en": "Environmentally friendly packaging is often welcomed. Even so, the product's reusability still deserves attention.",
+      "answers": [
+        "Environmentally friendly packaging is often welcomed. Even so, the product's reusability still deserves attention."
+      ],
+      "notes": "even so 表示即使承认前一点。",
+      "tags": [
+        "IELTS",
+        "让步衔接",
+        "产品使用"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_ext_0013",
+      "zh": "政策可以规定服务标准。但在实践中，执行还依赖足够的人手。",
+      "en": "Policy can prescribe service standards. In practice, however, implementation also depends on adequate staffing.",
+      "answers": [
+        "Policy can prescribe service standards. In practice, however, implementation also depends on adequate staffing."
+      ],
+      "notes": "in practice 转向实际执行层面。",
+      "tags": [
+        "IELTS",
+        "层次转换",
+        "公共服务"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_ext_0014",
+      "zh": "规则写得清楚并不足够。具体来说，居民还需要知道遇到问题时向谁求助。",
+      "en": "Clear rules are not sufficient. More specifically, residents need to know whom to approach when problems arise.",
+      "answers": [
+        "Clear rules are not sufficient. More specifically, residents need to know whom to approach when problems arise.",
+        "Clear rules aren't sufficient. More specifically, residents need to know whom to approach when problems arise."
+      ],
+      "notes": "more specifically 细化所缺少的条件。",
+      "tags": [
+        "IELTS",
+        "细化衔接",
+        "制度使用"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_ext_0015",
+      "zh": "童年读书经历可能影响日后的阅读习惯。然而，成年人仍然可以培养新的兴趣。",
+      "en": "Childhood reading experiences may influence later habits. Adults can still develop new interests, however.",
+      "answers": [
+        "Childhood reading experiences may influence later habits. Adults can still develop new interests, however."
+      ],
+      "notes": "句末 however 同样表示转折。",
+      "tags": [
+        "IELTS",
+        "转折衔接",
+        "终身阅读"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_paragraph_links_ext_0016",
+      "zh": "单次捐赠可以解决紧急需要。长期服务则需要持续的资金来源。",
+      "en": "A one-off donation can meet an urgent need. Long-term services, on the other hand, require continuing sources of funding.",
+      "answers": [
+        "A one-off donation can meet an urgent need. Long-term services, on the other hand, require continuing sources of funding."
+      ],
+      "notes": "on the other hand 区分不同时间尺度。",
+      "tags": [
+        "IELTS",
+        "对比衔接",
+        "资金持续性"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_ext_0017",
+      "zh": "有人认为处罚越重越好。这种观点忽略了违法行为是否会被发现。",
+      "en": "It is sometimes argued that harsher penalties are always better. This view overlooks whether offences are likely to be detected.",
+      "answers": [
+        "It is sometimes argued that harsher penalties are always better. This view overlooks whether offences are likely to be detected."
+      ],
+      "notes": "this view 明确回指待评价的观点。",
+      "tags": [
+        "IELTS",
+        "观点回应",
+        "执法机制"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_ext_0018",
+      "zh": "保持老街特色很重要，但不必冻结所有变化。相反，适当改造可以使建筑继续有人使用。",
+      "en": "An old street's character matters, but not every change must be prevented. Appropriate adaptation can instead keep buildings in use.",
+      "answers": [
+        "An old street's character matters, but not every change must be prevented. Appropriate adaptation can instead keep buildings in use."
+      ],
+      "notes": "instead 提出替代性保护路径。",
+      "tags": [
+        "IELTS",
+        "反驳衔接",
+        "建筑保护"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_ext_0019",
+      "zh": "可访问的在线服务节省时间。前提是使用者有合适的设备和技能。",
+      "en": "Accessible online services save time. This assumes that users have suitable devices and skills.",
+      "answers": [
+        "Accessible online services save time. This assumes that users have suitable devices and skills."
+      ],
+      "notes": "this assumes that 揭示结论成立的前提。",
+      "tags": [
+        "IELTS",
+        "前提衔接",
+        "数字服务"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_ext_0020",
+      "zh": "提高工资可能吸引更多申请者。是否能留住员工，则还要看工作条件。",
+      "en": "Higher wages may attract more applicants. Retention, however, also depends on working conditions.",
+      "answers": [
+        "Higher wages may attract more applicants. Retention, however, also depends on working conditions."
+      ],
+      "notes": "retention 接续招聘话题并区分留任问题。",
+      "tags": [
+        "IELTS",
+        "概念区分",
+        "人力管理"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_ext_0021",
+      "zh": "一个城市可能拥有很多医院。不过，仅凭数量无法判断居民是否容易就医。",
+      "en": "A city may have many hospitals. Numbers alone, however, cannot show how easily residents obtain care.",
+      "answers": [
+        "A city may have many hospitals. Numbers alone, however, cannot show how easily residents obtain care.",
+        "A city may have many hospitals. Numbers alone, however, can't show how easily residents obtain care."
+      ],
+      "notes": "numbers alone 回指医院数量。",
+      "tags": [
+        "IELTS",
+        "限定衔接",
+        "医疗可及性"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_ext_0022",
+      "zh": "过多车辆使街道拥挤，拥挤又降低公交速度。其结果是，公交对通勤者的吸引力可能进一步减弱。",
+      "en": "Heavy traffic slows buses on crowded streets. As a result, public transport may become even less attractive to commuters.",
+      "answers": [
+        "Heavy traffic slows buses on crowded streets. As a result, public transport may become even less attractive to commuters."
+      ],
+      "notes": "as a result 延续同一作用链条。",
+      "tags": [
+        "IELTS",
+        "结果衔接",
+        "交通循环"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_paragraph_links_ext_0023",
+      "zh": "年轻人需要获得工作经验，但无薪实习并非人人都能负担。因此，实习机会还涉及经济公平。",
+      "en": "Young people need work experience, but unpaid placements are not affordable to everyone. Access to internships is therefore also an issue of economic fairness.",
+      "answers": [
+        "Young people need work experience, but unpaid placements are not affordable to everyone. Access to internships is therefore also an issue of economic fairness.",
+        "Young people need work experience, but unpaid placements aren't affordable to everyone. Access to internships is therefore also an issue of economic fairness."
+      ],
+      "notes": "therefore 从具体障碍推出公平维度。",
+      "tags": [
+        "IELTS",
+        "推论衔接",
+        "实习公平"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_ext_0024",
+      "zh": "收集更多数据可能提高服务效率。这同时提出了一个问题：这些信息究竟需要保留多久？",
+      "en": "Collecting more data may improve service efficiency. It also raises a question: how long should the information be retained?",
+      "answers": [
+        "Collecting more data may improve service efficiency. It also raises a question: how long should the information be retained?"
+      ],
+      "notes": "raises a question 引入需要继续讨论的问题。",
+      "tags": [
+        "IELTS",
+        "设问衔接",
+        "数据保留"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_ext_0025",
+      "zh": "图书馆可以提供安静的学习空间，社区中心则适合集体活动。两者服务于不同但互补的需要。",
+      "en": "Libraries offer quiet study space, while community centres suit group activities. The two serve different but complementary needs.",
+      "answers": [
+        "Libraries offer quiet study space, while community centres suit group activities. The two serve different but complementary needs."
+      ],
+      "notes": "the two 回指两种设施。",
+      "tags": [
+        "IELTS",
+        "归纳衔接",
+        "社区设施"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_ext_0026",
+      "zh": "有些患者需要面对面检查，另一些只需常规随访。由此可见，预约方式应根据需求选择。",
+      "en": "Some patients need physical examinations; others require routine follow-up. The form of appointment should therefore reflect need.",
+      "answers": [
+        "Some patients need physical examinations; others require routine follow-up. The form of appointment should therefore reflect need."
+      ],
+      "notes": "others 与 some 对照两类需求。",
+      "tags": [
+        "IELTS",
+        "分类衔接",
+        "就诊方式"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_ext_0027",
+      "zh": "禁止某种材料可能减少一种废弃物。但如果替代材料消耗更多资源，总体收益就不明确。",
+      "en": "Banning a material may reduce one type of waste. If its replacement uses more resources, however, the overall benefit is unclear.",
+      "answers": [
+        "Banning a material may reduce one type of waste. If its replacement uses more resources, however, the overall benefit is unclear."
+      ],
+      "notes": "however 将评价扩展到整体结果。",
+      "tags": [
+        "IELTS",
+        "条件限定",
+        "材料替代"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_ext_0028",
+      "zh": "解决住房短缺需要增加供应。这并不排除改善现有空置住房利用率的作用。",
+      "en": "Addressing a housing shortage requires more supply. This does not rule out making better use of existing vacant homes.",
+      "answers": [
+        "Addressing a housing shortage requires more supply. This does not rule out making better use of existing vacant homes.",
+        "Addressing a housing shortage requires more supply. This doesn't rule out making better use of existing vacant homes."
+      ],
+      "notes": "rule out：排除另一种可行路径。",
+      "tags": [
+        "IELTS",
+        "兼容衔接",
+        "住房政策"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_ext_0029",
+      "zh": "地方知识能帮助识别社区需求，专业知识则有助于评估技术方案。因此，两种知识都应参与规划。",
+      "en": "Local knowledge helps identify community needs, whereas expertise supports technical assessment. Both should therefore inform planning.",
+      "answers": [
+        "Local knowledge helps identify community needs, whereas expertise supports technical assessment. Both should therefore inform planning."
+      ],
+      "notes": "both 回指两种知识来源。",
+      "tags": [
+        "IELTS",
+        "综合衔接",
+        "参与规划"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_ext_0030",
+      "zh": "短期成果可以证明项目开始起效，但不能说明效果会持续。判断长期价值仍需要后续观察。",
+      "en": "Early results can show that a project is beginning to work, but not that its effects will last. Follow-up remains necessary to judge long-term value.",
+      "answers": [
+        "Early results can show that a project is beginning to work, but not that its effects will last. Follow-up remains necessary to judge long-term value."
+      ],
+      "notes": "but not that 并列两个不同结论。",
+      "tags": [
+        "IELTS",
+        "时间尺度区分",
+        "项目评估"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_ext_0031",
+      "zh": "讨论不应停留在是否使用新技术。更有用的问题是，它在哪些任务中能带来可验证的改进。",
+      "en": "The debate should go beyond whether to use new technology. A more useful question is which tasks show verifiable improvement.",
+      "answers": [
+        "The debate should go beyond whether to use new technology. A more useful question is which tasks show verifiable improvement."
+      ],
+      "notes": "go beyond：超越原有讨论范围。",
+      "tags": [
+        "IELTS",
+        "重新界定",
+        "技术决策"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_ext_0032",
+      "zh": "维修人员不足和零件延误都会中断公交服务。因此，改善可靠性需要同时解决用工和供应问题。",
+      "en": "Staff shortages and delayed spare parts can both disrupt bus services. Improving reliability therefore requires action on staffing and supplies together.",
+      "answers": [
+        "Staff shortages and delayed spare parts can both disrupt bus services. Improving reliability therefore requires action on staffing and supplies together."
+      ],
+      "notes": "therefore 将前句的两类原因汇总成配套建议。",
+      "tags": [
+        "IELTS",
+        "结论衔接",
+        "公交运维"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0001",
+      "zh": "路灯能够帮助行人看清路面障碍。因此，在容易绊倒的路段改善照明可能减少跌倒。",
+      "en": "Street lights help pedestrians spot obstacles on the pavement. Better lighting may therefore reduce falls on stretches where tripping is common.",
+      "answers": [
+        "Street lights help pedestrians spot obstacles on the pavement. Better lighting may therefore reduce falls on stretches where tripping is common."
+      ],
+      "notes": "therefore 的推论由看清障碍这一机制支撑。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "原因与作用机制"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0002",
+      "zh": "临时工往往不知道下个月能工作多少小时。这种不确定性使安排固定支出变得困难。",
+      "en": "Temporary workers often do not know how many hours they will work next month. This uncertainty makes regular expenses difficult to plan for.",
+      "answers": [
+        "Temporary workers often do not know how many hours they will work next month. This uncertainty makes regular expenses difficult to plan for.",
+        "Temporary workers often don't know how many hours they will work next month. This uncertainty makes regular expenses difficult to plan for."
+      ],
+      "notes": "this uncertainty 将上一句概括为名词并承接结果。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "原因与作用机制"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0003",
+      "zh": "维修手册说明零件如何拆卸。有了这些信息，独立维修店便能处理更多型号。",
+      "en": "Repair manuals explain how components can be removed. With this information, independent workshops can service a wider range of models.",
+      "answers": [
+        "Repair manuals explain how components can be removed. With this information, independent workshops can service a wider range of models."
+      ],
+      "notes": "with this information 明确后句依赖的资源。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "原因与作用机制"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0004",
+      "zh": "噪声可能打断居民的睡眠。睡眠反复中断又可能影响他们白天的注意力。",
+      "en": "Noise can interrupt residents' sleep. Repeated interruptions may in turn affect their concentration during the day.",
+      "answers": [
+        "Noise can interrupt residents' sleep. Repeated interruptions may in turn affect their concentration during the day."
+      ],
+      "notes": "in turn 延续两步作用链，不突然跳到无关结果。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "原因与作用机制"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0005",
+      "zh": "果蔬容易在长途运输中损坏。因此，缩短供应路线可能减少到店之前的损耗。",
+      "en": "Fruit and vegetables are vulnerable to damage during long journeys. Shorter supply routes may consequently reduce losses before produce reaches shops.",
+      "answers": [
+        "Fruit and vegetables are vulnerable to damage during long journeys. Shorter supply routes may consequently reduce losses before produce reaches shops."
+      ],
+      "notes": "consequently 引出运输距离与损耗之间的推论。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "原因与作用机制"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0006",
+      "zh": "网页要求填写过多不必要的信息。有些用户因此在提交之前就放弃了申请。",
+      "en": "The website asks for too much unnecessary information. Some users abandon their applications before submission as a result.",
+      "answers": [
+        "The website asks for too much unnecessary information. Some users abandon their applications before submission as a result."
+      ],
+      "notes": "as a result 放在句末，回指信息负担。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "原因与作用机制"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0007",
+      "zh": "老师逐个批改草稿需要时间。当班级规模扩大时，这种反馈便更难及时提供。",
+      "en": "Commenting on individual drafts takes teachers time. As classes grow, such feedback becomes harder to provide promptly.",
+      "answers": [
+        "Commenting on individual drafts takes teachers time. As classes grow, such feedback becomes harder to provide promptly."
+      ],
+      "notes": "such feedback 回指逐个批改，而非泛指全部教学。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "原因与作用机制"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0008",
+      "zh": "当地商店允许顾客少量购买。这有助于储存空间有限的家庭避免囤积食物。",
+      "en": "Local shops let customers buy small quantities. This helps households with limited storage avoid accumulating food.",
+      "answers": [
+        "Local shops let customers buy small quantities. This helps households with limited storage avoid accumulating food."
+      ],
+      "notes": "this 回指少量购买的便利，并具体说明受益条件。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "原因与作用机制"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0009",
+      "zh": "某些公共信息需要多种呈现方式。例如，疏散通知可以同时使用声音、文字和图示。",
+      "en": "Some public information requires several forms of presentation. Evacuation notices, for instance, can combine sound, text and diagrams.",
+      "answers": [
+        "Some public information requires several forms of presentation. Evacuation notices, for instance, can combine sound, text and diagrams."
+      ],
+      "notes": "for instance 引入同一类别中的具体案例。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "实例与具体化"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0010",
+      "zh": "实践课程能暴露书面计划没有体现的问题。制作模型时才发现零件无法连接，就是一个例子。",
+      "en": "Practical lessons can reveal problems absent from written plans. Discovering that parts do not fit while building a model is one example.",
+      "answers": [
+        "Practical lessons can reveal problems absent from written plans. Discovering that parts do not fit while building a model is one example.",
+        "Practical lessons can reveal problems absent from written plans. Discovering that parts don't fit while building a model is one example."
+      ],
+      "notes": "one example 的内容具体对应计划与实践的差异。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "实例与具体化"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0011",
+      "zh": "在线档案可以让远处的读者接触稀有材料。一名乡村学生便可能借此查阅原本需要长途旅行才能看到的手稿。",
+      "en": "Online archives can bring rare material to distant readers. A rural student might thus consult a manuscript that would otherwise require a long journey.",
+      "answers": [
+        "Online archives can bring rare material to distant readers. A rural student might thus consult a manuscript that would otherwise require a long journey."
+      ],
+      "notes": "otherwise 表示没有在线档案这一条件时的情况。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "实例与具体化"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0012",
+      "zh": "灵活排班可以满足不同人生阶段的需要。就新手父母而言，较晚开始上班可能更容易配合托儿安排。",
+      "en": "Flexible scheduling can accommodate different life stages. For new parents, a later start may fit childcare arrangements more easily.",
+      "answers": [
+        "Flexible scheduling can accommodate different life stages. For new parents, a later start may fit childcare arrangements more easily."
+      ],
+      "notes": "for new parents 将泛论缩小到特定人群。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "实例与具体化"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0013",
+      "zh": "并非所有节能措施都涉及购买新设备。封堵现有窗户周围的缝隙也能减少热量流失。",
+      "en": "Not every energy-saving measure involves buying new equipment. Sealing gaps around existing windows can also reduce heat loss.",
+      "answers": [
+        "Not every energy-saving measure involves buying new equipment. Sealing gaps around existing windows can also reduce heat loss."
+      ],
+      "notes": "第二句直接提供反例；not every 为部分否定。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "实例与具体化"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0014",
+      "zh": "有些职业技能很难通过笔试判断。厨师在繁忙时段协调多道菜的能力便是其中之一。",
+      "en": "Some professional skills are difficult to assess through written tests. A chef's ability to coordinate several dishes during a busy service is one such skill.",
+      "answers": [
+        "Some professional skills are difficult to assess through written tests. A chef's ability to coordinate several dishes during a busy service is one such skill."
+      ],
+      "notes": "one such skill 明确回指待评估的能力。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "实例与具体化"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0015",
+      "zh": "共享空间需要兼顾不同的使用方式。具体来说，安静阅读区不宜紧挨着排练室。",
+      "en": "Shared spaces need to accommodate different uses. In concrete terms, a quiet reading area should not sit immediately beside a rehearsal room.",
+      "answers": [
+        "Shared spaces need to accommodate different uses. In concrete terms, a quiet reading area should not sit immediately beside a rehearsal room.",
+        "Shared spaces need to accommodate different uses. In concrete terms, a quiet reading area shouldn't sit immediately beside a rehearsal room."
+      ],
+      "notes": "in concrete terms 将设计原则转化为布局实例。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "实例与具体化"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0016",
+      "zh": "交通障碍不仅包括距离。对于轮椅使用者，没有升降设施的台阶也可能阻断路线。",
+      "en": "Transport barriers involve more than distance. For a wheelchair user, steps without a lift may also make a route impassable.",
+      "answers": [
+        "Transport barriers involve more than distance. For a wheelchair user, steps without a lift may also make a route impassable."
+      ],
+      "notes": "also 补充另一类障碍，而非重复距离因素。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "实例与具体化"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0017",
+      "zh": "统一制服可能减轻穿着攀比。即便如此，学校仍需考虑低收入家庭的购买费用。",
+      "en": "A common uniform may reduce competition over clothing. Even so, schools need to consider the purchase cost for low-income families.",
+      "answers": [
+        "A common uniform may reduce competition over clothing. Even so, schools need to consider the purchase cost for low-income families."
+      ],
+      "notes": "even so 承认第一项收益后保留成本问题。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "让步与权衡"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0018",
+      "zh": "大型仓储设施能集中处理货物。不过，周边道路可能因此承受更多卡车流量。",
+      "en": "Large warehouses can consolidate goods handling. The surrounding roads may nevertheless face additional lorry traffic.",
+      "answers": [
+        "Large warehouses can consolidate goods handling. The surrounding roads may nevertheless face additional lorry traffic."
+      ],
+      "notes": "nevertheless 从物流收益转到当地交通代价。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "让步与权衡"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0019",
+      "zh": "公开会议让居民直接表达意见。然而，不能到场的人也需要其他参与途径。",
+      "en": "Open meetings let residents express their views directly. Those unable to attend, however, need other ways to participate.",
+      "answers": [
+        "Open meetings let residents express their views directly. Those unable to attend, however, need other ways to participate."
+      ],
+      "notes": "those unable to attend 限定未被第一种渠道覆盖的人。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "让步与权衡"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0020",
+      "zh": "快速招聘可以填补紧急空缺。速度本身却不能保证候选人适合长期工作。",
+      "en": "Rapid recruitment can fill urgent vacancies. Speed alone, though, does not guarantee a suitable long-term appointment.",
+      "answers": [
+        "Rapid recruitment can fill urgent vacancies. Speed alone, though, does not guarantee a suitable long-term appointment.",
+        "Rapid recruitment can fill urgent vacancies. Speed alone, though, doesn't guarantee a suitable long-term appointment."
+      ],
+      "notes": "though 插入句中表示让步后的限制。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "让步与权衡"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0021",
+      "zh": "数字地图提供便捷的导航。但当信号中断时，熟悉实体路标仍有价值。",
+      "en": "Digital maps provide convenient navigation. Familiarity with physical landmarks remains valuable when the signal fails, however.",
+      "answers": [
+        "Digital maps provide convenient navigation. Familiarity with physical landmarks remains valuable when the signal fails, however."
+      ],
+      "notes": "后句提供便利性无法覆盖的具体情形。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "让步与权衡"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0022",
+      "zh": "延长营业时间让顾客更方便。这种便利也必须与员工的休息需要相平衡。",
+      "en": "Longer opening hours make shopping more convenient. That convenience must also be balanced against employees' need for rest.",
+      "answers": [
+        "Longer opening hours make shopping more convenient. That convenience must also be balanced against employees' need for rest."
+      ],
+      "notes": "that convenience 接续前句收益；balance against 权衡。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "让步与权衡"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0023",
+      "zh": "比赛能激发部分学生的练习热情。其他学生却可能因为害怕排名而减少参与。",
+      "en": "Competitions can motivate some pupils to practise. Others may withdraw from participation for fear of being ranked.",
+      "answers": [
+        "Competitions can motivate some pupils to practise. Others may withdraw from participation for fear of being ranked."
+      ],
+      "notes": "some 与 others 对照两种不同反应。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "让步与权衡"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0024",
+      "zh": "新建筑通常更容易配备现代设施。不过，拆除旧楼所产生的废料也应纳入评估。",
+      "en": "New buildings are generally easier to equip with modern facilities. Waste from demolishing existing structures should nonetheless enter the assessment.",
+      "answers": [
+        "New buildings are generally easier to equip with modern facilities. Waste from demolishing existing structures should nonetheless enter the assessment."
+      ],
+      "notes": "nonetheless 将评价范围扩展到拆除阶段。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "让步与权衡"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0025",
+      "zh": "分散办公可以扩大招聘范围。这个优势成立的前提是团队能够跨地点有效协作。",
+      "en": "Distributed offices can widen recruitment. This advantage depends on teams collaborating effectively across locations.",
+      "answers": [
+        "Distributed offices can widen recruitment. This advantage depends on teams collaborating effectively across locations."
+      ],
+      "notes": "this advantage 回指招聘范围扩大，并说明必要条件。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "前提与边界"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0026",
+      "zh": "税收优惠可能鼓励企业投资。但如果企业本来就计划投资，额外效果可能很小。",
+      "en": "Tax relief may encourage business investment. Where firms already intended to invest, however, the additional effect may be small.",
+      "answers": [
+        "Tax relief may encourage business investment. Where firms already intended to invest, however, the additional effect may be small."
+      ],
+      "notes": "where 表示在某种情形下，限定政策的新增效果。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "前提与边界"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0027",
+      "zh": "博物馆的免费时段可能吸引新观众。这一判断不一定适用于交通费用仍然很高的人。",
+      "en": "Free museum sessions may attract new audiences. This claim may not hold for people who still face high travel costs.",
+      "answers": [
+        "Free museum sessions may attract new audiences. This claim may not hold for people who still face high travel costs."
+      ],
+      "notes": "hold for：适用于；限定观点适用的人群。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "前提与边界"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0028",
+      "zh": "集中供餐可以降低准备成本。只有食品能及时送达，这种节约才有实际意义。",
+      "en": "Centralised meal preparation can lower preparation costs. Such savings matter in practice only if food arrives on time.",
+      "answers": [
+        "Centralised meal preparation can lower preparation costs. Such savings matter in practice only if food arrives on time."
+      ],
+      "notes": "only if 引出必要条件，不能与 if only 混淆。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "前提与边界"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0029",
+      "zh": "重复练习有助于巩固技能。这并不意味着练习错误方法也有同样的好处。",
+      "en": "Repeated practice helps consolidate skills. It does not follow that rehearsing an incorrect method offers the same benefit.",
+      "answers": [
+        "Repeated practice helps consolidate skills. It does not follow that rehearsing an incorrect method offers the same benefit.",
+        "Repeated practice helps consolidate skills. It doesn't follow that rehearsing an incorrect method offers the same benefit."
+      ],
+      "notes": "it does not follow that 阻止从前句过度推论。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "前提与边界"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0030",
+      "zh": "小型试点能够揭示操作问题。但它未必能反映全国推广时所需的资源。",
+      "en": "A small pilot can reveal operational problems. It may not capture the resources required for a national rollout.",
+      "answers": [
+        "A small pilot can reveal operational problems. It may not capture the resources required for a national rollout."
+      ],
+      "notes": "may not capture 限定试点证据的覆盖范围。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "前提与边界"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0031",
+      "zh": "社区花园能提供接触自然的机会。对于土地受到污染的地块，则必须先评估种植是否安全。",
+      "en": "Community gardens offer contact with nature. On contaminated sites, the safety of growing plants must first be assessed.",
+      "answers": [
+        "Community gardens offer contact with nature. On contaminated sites, the safety of growing plants must first be assessed."
+      ],
+      "notes": "on contaminated sites 引入需要额外条件的特定情形。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "前提与边界"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0032",
+      "zh": "统一申请表可以简化流程。前提是问题本身适合不同类型的申请人。",
+      "en": "A common application form can simplify a procedure. That assumes its questions suit different types of applicant.",
+      "answers": [
+        "A common application form can simplify a procedure. That assumes its questions suit different types of applicant."
+      ],
+      "notes": "that assumes 揭示格式统一能奏效的前提。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "前提与边界"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0033",
+      "zh": "课堂讲解能迅速传递基本概念。独立项目则让学生检验自己能否应用这些概念。",
+      "en": "Classroom explanations can convey basic concepts quickly. Independent projects, by comparison, let students test whether they can apply them.",
+      "answers": [
+        "Classroom explanations can convey basic concepts quickly. Independent projects, by comparison, let students test whether they can apply them."
+      ],
+      "notes": "by comparison 对照两种教学活动的不同功能。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "对照与时间尺度"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0034",
+      "zh": "大型企业可能拥有专门的培训团队。较小的企业通常需要从外部购买这类支持。",
+      "en": "Large employers may have dedicated training teams. Smaller firms often need to purchase this support externally.",
+      "answers": [
+        "Large employers may have dedicated training teams. Smaller firms often need to purchase this support externally."
+      ],
+      "notes": "this support 回指培训服务，保持比较维度一致。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "对照与时间尺度"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0035",
+      "zh": "紧急救助关注眼前的缺口。预防措施则试图减少同类危机再次发生的可能性。",
+      "en": "Emergency assistance addresses immediate gaps. Prevention instead seeks to reduce the likelihood of similar crises recurring.",
+      "answers": [
+        "Emergency assistance addresses immediate gaps. Prevention instead seeks to reduce the likelihood of similar crises recurring."
+      ],
+      "notes": "instead 对比即时响应与降低复发风险的目标。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "对照与时间尺度"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0036",
+      "zh": "修缮屋顶会产生一次性支出。推迟修缮却可能带来反复漏水的费用。",
+      "en": "Repairing a roof involves a one-off expense. Deferral, by contrast, may lead to recurring costs from leaks.",
+      "answers": [
+        "Repairing a roof involves a one-off expense. Deferral, by contrast, may lead to recurring costs from leaks."
+      ],
+      "notes": "deferral 名词化承接推迟修缮；one-off 与 recurring 对照。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "对照与时间尺度"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0037",
+      "zh": "个人通勤费用可能因搬家而下降。从城市整体来看，交通负担却未必会相应减轻。",
+      "en": "Moving home may lower an individual's commuting costs. At city level, the overall transport burden may not fall accordingly.",
+      "answers": [
+        "Moving home may lower an individual's commuting costs. At city level, the overall transport burden may not fall accordingly."
+      ],
+      "notes": "at city level 将个人尺度与整体尺度区分。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "对照与时间尺度"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0038",
+      "zh": "预约制度能减少现场排队。另一方面，随到随办更适合无法提前确定日程的人。",
+      "en": "Appointment systems can reduce queues on site. Walk-in access, on the other hand, better suits people unable to plan their schedules in advance.",
+      "answers": [
+        "Appointment systems can reduce queues on site. Walk-in access, on the other hand, better suits people unable to plan their schedules in advance."
+      ],
+      "notes": "on the other hand 对照两种服务方式的适用对象。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "对照与时间尺度"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0039",
+      "zh": "一项补贴可能在推出后立即带动销量。它能否改变长期使用习惯，需要另行评估。",
+      "en": "A subsidy may boost sales immediately after introduction. Its capacity to change long-term usage habits requires a separate assessment.",
+      "answers": [
+        "A subsidy may boost sales immediately after introduction. Its capacity to change long-term usage habits requires a separate assessment."
+      ],
+      "notes": "sales 与 usage habits 是不同结果，不能相互替代。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "对照与时间尺度"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0040",
+      "zh": "自动化工具擅长重复一致的步骤。判断模糊的例外情况则可能仍需人工介入。",
+      "en": "Automated tools handle consistent, repetitive steps well. Ambiguous exceptions may still require human judgement.",
+      "answers": [
+        "Automated tools handle consistent, repetitive steps well. Ambiguous exceptions may still require human judgement."
+      ],
+      "notes": "exceptions 与 repetitive steps 对照任务性质。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "对照与时间尺度"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0041",
+      "zh": "负责任的消费不仅是购买带有环保标签的产品。它还涉及决定是否确实需要购买。",
+      "en": "Responsible consumption extends beyond choosing products with environmental labels. It also involves deciding whether a purchase is necessary at all.",
+      "answers": [
+        "Responsible consumption extends beyond choosing products with environmental labels. It also involves deciding whether a purchase is necessary at all."
+      ],
+      "notes": "extends beyond 后再用 also 扩展概念范围。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "解释与重新界定"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0042",
+      "zh": "一所学校的开放程度不能只看招生简章。实际问题是，不同背景的学生能否完成申请并获得支持。",
+      "en": "A school's openness cannot be judged solely from its prospectus. The practical issue is whether students from different backgrounds can apply and obtain support.",
+      "answers": [
+        "A school's openness cannot be judged solely from its prospectus. The practical issue is whether students from different backgrounds can apply and obtain support.",
+        "A school's openness can't be judged solely from its prospectus. The practical issue is whether students from different backgrounds can apply and obtain support."
+      ],
+      "notes": "the practical issue is 将抽象评价转化为可检查的问题。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "解释与重新界定"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0043",
+      "zh": "可信的道歉需要承认具体造成了什么伤害。换句话说，仅仅表达遗憾可能还不够。",
+      "en": "A credible apology needs to acknowledge the specific harm caused. In other words, expressing regret alone may be insufficient.",
+      "answers": [
+        "A credible apology needs to acknowledge the specific harm caused. In other words, expressing regret alone may be insufficient."
+      ],
+      "notes": "in other words 重述同一要求的另一面。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "解释与重新界定"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0044",
+      "zh": "提高生产率并不总意味着工作更久。它也可以意味着用相同时间完成更多有用的工作。",
+      "en": "Higher productivity does not always mean working longer. It can also mean completing more useful work in the same amount of time.",
+      "answers": [
+        "Higher productivity does not always mean working longer. It can also mean completing more useful work in the same amount of time.",
+        "Higher productivity doesn't always mean working longer. It can also mean completing more useful work in the same amount of time."
+      ],
+      "notes": "it 指提高生产率；用相同时间明确效率概念。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "解释与重新界定"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0045",
+      "zh": "信息透明要求公众能够理解披露的内容。因此，文件公开与信息真正可用之间仍有区别。",
+      "en": "Transparency requires people to understand what is disclosed. Publishing documents and making information usable are therefore still distinct.",
+      "answers": [
+        "Transparency requires people to understand what is disclosed. Publishing documents and making information usable are therefore still distinct."
+      ],
+      "notes": "therefore 从理解要求引出公开与可用的概念区分。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "解释与重新界定"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0046",
+      "zh": "安静的课堂未必是投入的课堂。沉默可能来自专注，也可能来自害怕提问。",
+      "en": "A quiet classroom is not necessarily an engaged one. Silence may reflect concentration, but it may also reflect fear of asking questions.",
+      "answers": [
+        "A quiet classroom is not necessarily an engaged one. Silence may reflect concentration, but it may also reflect fear of asking questions.",
+        "A quiet classroom isn't necessarily an engaged one. Silence may reflect concentration, but it may also reflect fear of asking questions."
+      ],
+      "notes": "第二句为同一观察提供两种可能解释。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "解释与重新界定"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0047",
+      "zh": "适应老龄化不应只被理解为增建养老院。它还包括让普通住宅更适合行动不便的人。",
+      "en": "Adapting to an ageing population should not be understood solely as building more care homes. It also includes making ordinary housing suitable for people with limited mobility.",
+      "answers": [
+        "Adapting to an ageing population should not be understood solely as building more care homes. It also includes making ordinary housing suitable for people with limited mobility.",
+        "Adapting to an ageing population shouldn't be understood solely as building more care homes. It also includes making ordinary housing suitable for people with limited mobility."
+      ],
+      "notes": "solely 限定过窄的定义，后句补充另一层面。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "解释与重新界定"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0048",
+      "zh": "服务的可负担性取决于使用者的收入。也就是说，同样的收费可能对不同家庭形成截然不同的负担。",
+      "en": "Service affordability depends on users' incomes. That is, the same fee may impose very different burdens on different households.",
+      "answers": [
+        "Service affordability depends on users' incomes. That is, the same fee may impose very different burdens on different households."
+      ],
+      "notes": "that is 解释前句含义，不引入无关论点。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "解释与重新界定"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0049",
+      "zh": "批评者把低参与率归因于冷漠。然而，活动安排在工作时间也可能解释这一现象。",
+      "en": "Critics attribute low participation to apathy. Scheduling activities during working hours offers another possible explanation, however.",
+      "answers": [
+        "Critics attribute low participation to apathy. Scheduling activities during working hours offers another possible explanation, however."
+      ],
+      "notes": "attribute ... to：归因于；possible explanation 保留不确定性。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "反驳与替代解释"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0050",
+      "zh": "有人把平台用户增长视为满意度提高的证据。但用户也可能只是缺乏可行的替代选择。",
+      "en": "Some see growth in platform users as evidence of greater satisfaction. Users may simply lack viable alternatives, though.",
+      "answers": [
+        "Some see growth in platform users as evidence of greater satisfaction. Users may simply lack viable alternatives, though."
+      ],
+      "notes": "though 提供与原推论竞争的解释。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "反驳与替代解释"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0051",
+      "zh": "高分学生可能更常参加课外班。这种联系本身不能证明课外班造成了高分。",
+      "en": "High-scoring pupils may attend extra classes more often. The association alone does not establish that the classes caused their high scores.",
+      "answers": [
+        "High-scoring pupils may attend extra classes more often. The association alone does not establish that the classes caused their high scores.",
+        "High-scoring pupils may attend extra classes more often. The association alone doesn't establish that the classes caused their high scores."
+      ],
+      "notes": "association 与 caused 区分相关和因果。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "反驳与替代解释"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0052",
+      "zh": "反对者认为限制停车会损害所有商家。但依赖步行客流的店铺未必受到同样影响。",
+      "en": "Opponents argue that parking restrictions harm all businesses. Shops dependent on pedestrian traffic may not be affected in the same way.",
+      "answers": [
+        "Opponents argue that parking restrictions harm all businesses. Shops dependent on pedestrian traffic may not be affected in the same way."
+      ],
+      "notes": "后句质疑 all 的概括范围，而非否认全部影响。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "反驳与替代解释"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0053",
+      "zh": "设备更新之后投诉减少了。不过，同一时期客服人数也增加了。",
+      "en": "Complaints fell after the equipment was upgraded. Customer service staffing also increased over the same period, however.",
+      "answers": [
+        "Complaints fell after the equipment was upgraded. Customer service staffing also increased over the same period, however."
+      ],
+      "notes": "over the same period 提出同时变化的另一因素。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "反驳与替代解释"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0054",
+      "zh": "小班学生表现更好，可能与教学有关。但学生原有水平也需要纳入比较。",
+      "en": "Better performance in small classes may reflect teaching. Pupils' prior attainment also needs to enter the comparison.",
+      "answers": [
+        "Better performance in small classes may reflect teaching. Pupils' prior attainment also needs to enter the comparison."
+      ],
+      "notes": "prior attainment 提醒比较需考虑基线差异。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "反驳与替代解释"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0055",
+      "zh": "某些建议把传统做法视为毫无价值。这种判断忽略了其中可能包含的当地适应经验。",
+      "en": "Some proposals treat traditional practices as worthless. Such a judgement overlooks the local adaptations they may embody.",
+      "answers": [
+        "Some proposals treat traditional practices as worthless. Such a judgement overlooks the local adaptations they may embody."
+      ],
+      "notes": "such a judgement 回指价值判断；may 避免反向绝对化。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "反驳与替代解释"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0056",
+      "zh": "一种方法在一次紧急事件中有效，并不能证明它应成为日常规则。常态使用还需要考虑累积成本。",
+      "en": "A method's success in one emergency does not establish that it should become routine. Regular use also requires consideration of cumulative costs.",
+      "answers": [
+        "A method's success in one emergency does not establish that it should become routine. Regular use also requires consideration of cumulative costs.",
+        "A method's success in one emergency doesn't establish that it should become routine. Regular use also requires consideration of cumulative costs."
+      ],
+      "notes": "routine 与 one emergency 区分非常情况和常态。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "反驳与替代解释"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0057",
+      "zh": "学生需要明确的标准，也需要试错空间。因此，评分细则应与低风险练习相结合。",
+      "en": "Students need clear standards as well as room to experiment. Assessment criteria should therefore be paired with low-stakes practice.",
+      "answers": [
+        "Students need clear standards as well as room to experiment. Assessment criteria should therefore be paired with low-stakes practice."
+      ],
+      "notes": "therefore 的建议同时回应前句两项需要。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "综合与行动结论"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0058",
+      "zh": "社区了解本地积水点，工程师能够分析排水能力。结合这两类信息可以改善防洪规划。",
+      "en": "Communities know where water collects locally, and engineers can assess drainage capacity. Combining these sources of information can improve flood planning.",
+      "answers": [
+        "Communities know where water collects locally, and engineers can assess drainage capacity. Combining these sources of information can improve flood planning."
+      ],
+      "notes": "these sources of information 共同回指两类知识。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "综合与行动结论"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0059",
+      "zh": "广告能提供产品信息，也可能淡化限制条件。消费者教育因而需要同时训练比较和质疑的能力。",
+      "en": "Advertising can inform people about products while downplaying limitations. Consumer education should consequently develop both comparison skills and critical questioning.",
+      "answers": [
+        "Advertising can inform people about products while downplaying limitations. Consumer education should consequently develop both comparison skills and critical questioning."
+      ],
+      "notes": "both ... and ... 对应信息获取和识别局限两项任务。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "综合与行动结论"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0060",
+      "zh": "有些空置店面位置便利，但租约缺乏灵活性。因此，临时社区使用可能需要新的租赁安排。",
+      "en": "Some vacant shops are well located but lack flexible leases. Temporary community use may therefore require new rental arrangements.",
+      "answers": [
+        "Some vacant shops are well located but lack flexible leases. Temporary community use may therefore require new rental arrangements."
+      ],
+      "notes": "后句针对租约障碍提出具体条件。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "综合与行动结论"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0061",
+      "zh": "家庭照护者提供重要支持，却经常缺少休息时间。喘息服务可以回应这一具体缺口。",
+      "en": "Family carers provide vital support but often lack time off. Respite services can address this specific gap.",
+      "answers": [
+        "Family carers provide vital support but often lack time off. Respite services can address this specific gap."
+      ],
+      "notes": "this specific gap 回指休息不足；respite services：喘息服务。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "综合与行动结论"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0062",
+      "zh": "评估既要考察平均结果，也要识别哪些人被落下。因此，按群体报告结果应成为常规。",
+      "en": "Evaluation needs to examine average outcomes and identify who is being left behind. Reporting results by group should accordingly become routine.",
+      "answers": [
+        "Evaluation needs to examine average outcomes and identify who is being left behind. Reporting results by group should accordingly become routine."
+      ],
+      "notes": "accordingly 引出与两项评估目标一致的做法。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "综合与行动结论"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0063",
+      "zh": "城市需要绿地，也需要可负担的住房。规划的任务是协调这两种需求，而不是假定其中一种可以忽略。",
+      "en": "Cities need green space as well as affordable housing. Planning must reconcile these needs rather than assume that either can be ignored.",
+      "answers": [
+        "Cities need green space as well as affordable housing. Planning must reconcile these needs rather than assume that either can be ignored."
+      ],
+      "notes": "these needs 回指两项需求；reconcile：协调。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "综合与行动结论"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_paragraph_links_v3_0064",
+      "zh": "每种政策选择都有实施成本和不确定性。因此，负责任的建议应说明取舍及其依据。",
+      "en": "Every policy option carries implementation costs and uncertainty. Responsible recommendations should therefore explain trade-offs and the reasoning behind them.",
+      "answers": [
+        "Every policy option carries implementation costs and uncertainty. Responsible recommendations should therefore explain trade-offs and the reasoning behind them."
+      ],
+      "notes": "the reasoning behind them 要求结论交代取舍依据。",
+      "tags": [
+        "IELTS",
+        "段落衔接",
+        "综合与行动结论"
+      ],
+      "difficulty": 4
+    }
+  ]
+}

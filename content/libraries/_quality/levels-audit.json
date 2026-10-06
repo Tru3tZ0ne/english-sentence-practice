@@ -1,0 +1,542 @@
+{
+  "libraries": 54,
+  "items": 3600,
+  "added": 600,
+  "preserved": 3000,
+  "duplicates": [],
+  "zh_duplicates": [],
+  "substitution_pairs": [],
+  "insertion_pairs": [],
+  "similarity_candidates": [],
+  "lexical_review": [
+    {
+      "a": "storytelling_memories/storytelling_memories_v3_0017",
+      "b": "level_primary_daily/level_primary_daily_g1_0058",
+      "en_a": "A slow clock hung on the wall.",
+      "en_b": "The clock is slow. We may be late.",
+      "source_a": "existing",
+      "source_b": "level_primary_daily.txt:64",
+      "score": 0.522
+    },
+    {
+      "a": "outdoor_sports/outdoor_sports_v3_0093",
+      "b": "level_cet4_culture/level_cet4_culture_g1_0019",
+      "en_a": "Beginners need more time to practise.",
+      "en_b": "Beginners practise with offcuts to avoid wasting material.",
+      "source_a": "existing",
+      "source_b": "level_cet4_culture.txt:21",
+      "score": 0.499
+    },
+    {
+      "a": "daily_english_1000/daily_english_1000_ext_0001",
+      "b": "level_primary_daily/level_primary_daily_g1_0024",
+      "en_a": "I left the door open to let some fresh air in.",
+      "en_b": "The door is open, and cold air is coming in.",
+      "source_a": "existing",
+      "source_b": "level_primary_daily.txt:27",
+      "score": 0.473
+    }
+  ],
+  "prefix": [
+    {
+      "id": "academic_discussion",
+      "items": 36,
+      "opening": "is this conclusion based",
+      "count": 1,
+      "share": 0.027777777777777776
+    },
+    {
+      "id": "arts_creativity",
+      "items": 100,
+      "opening": "start with the outline",
+      "count": 1,
+      "share": 0.01
+    },
+    {
+      "id": "banking_finance",
+      "items": 36,
+      "opening": "how long will this",
+      "count": 2,
+      "share": 0.05555555555555555
+    },
+    {
+      "id": "career_development",
+      "items": 100,
+      "opening": "i do not want",
+      "count": 2,
+      "share": 0.02
+    },
+    {
+      "id": "community_volunteering",
+      "items": 100,
+      "opening": "we need to understand",
+      "count": 2,
+      "share": 0.02
+    },
+    {
+      "id": "complaints_negotiation",
+      "items": 36,
+      "opening": "i booked a double",
+      "count": 1,
+      "share": 0.027777777777777776
+    },
+    {
+      "id": "comprehensive_english_5000",
+      "items": 106,
+      "opening": "i would like to",
+      "count": 2,
+      "share": 0.018867924528301886
+    },
+    {
+      "id": "culture_society",
+      "items": 36,
+      "opening": "this museum not only",
+      "count": 1,
+      "share": 0.027777777777777776
+    },
+    {
+      "id": "daily_english_1000",
+      "items": 124,
+      "opening": "i'm busy today",
+      "count": 1,
+      "share": 0.008064516129032258
+    },
+    {
+      "id": "demo_daily",
+      "items": 20,
+      "opening": "see you later",
+      "count": 1,
+      "share": 0.05
+    },
+    {
+      "id": "education_learning",
+      "items": 36,
+      "opening": "i recognise this word",
+      "count": 1,
+      "share": 0.027777777777777776
+    },
+    {
+      "id": "environment_climate",
+      "items": 36,
+      "opening": "this container can be",
+      "count": 1,
+      "share": 0.027777777777777776
+    },
+    {
+      "id": "everyday_social_tasks",
+      "items": 100,
+      "opening": "i do not want",
+      "count": 3,
+      "share": 0.03
+    },
+    {
+      "id": "family_social",
+      "items": 36,
+      "opening": "we'll tidy the kitchen",
+      "count": 1,
+      "share": 0.027777777777777776
+    },
+    {
+      "id": "food_cooking",
+      "items": 100,
+      "opening": "these peaches are not",
+      "count": 1,
+      "share": 0.01
+    },
+    {
+      "id": "formal_correspondence",
+      "items": 86,
+      "opening": "please refer to the",
+      "count": 1,
+      "share": 0.011627906976744186
+    },
+    {
+      "id": "health_lifestyle",
+      "items": 36,
+      "opening": "i don't run every",
+      "count": 1,
+      "share": 0.027777777777777776
+    },
+    {
+      "id": "housing_rental",
+      "items": 36,
+      "opening": "does the rent for",
+      "count": 1,
+      "share": 0.027777777777777776
+    },
+    {
+      "id": "ielts_arts_heritage",
+      "items": 64,
+      "opening": "box office revenue cannot",
+      "count": 1,
+      "share": 0.015625
+    },
+    {
+      "id": "ielts_cities",
+      "items": 64,
+      "opening": "reducing bus waiting times",
+      "count": 1,
+      "share": 0.015625
+    },
+    {
+      "id": "ielts_economy",
+      "items": 64,
+      "opening": "scarcity raises prices but",
+      "count": 1,
+      "share": 0.015625
+    },
+    {
+      "id": "ielts_education",
+      "items": 64,
+      "opening": "although tuition fees are",
+      "count": 1,
+      "share": 0.015625
+    },
+    {
+      "id": "ielts_environment",
+      "items": 64,
+      "opening": "even if every household",
+      "count": 1,
+      "share": 0.015625
+    },
+    {
+      "id": "ielts_food_agriculture",
+      "items": 64,
+      "opening": "adequate food supplies do",
+      "count": 1,
+      "share": 0.015625
+    },
+    {
+      "id": "ielts_global_connections",
+      "items": 64,
+      "opening": "trade expands choice while",
+      "count": 1,
+      "share": 0.015625
+    },
+    {
+      "id": "ielts_health_work",
+      "items": 64,
+      "opening": "flexible working hours can",
+      "count": 1,
+      "share": 0.015625
+    },
+    {
+      "id": "ielts_media_public_discourse",
+      "items": 64,
+      "opening": "pressure to publish first",
+      "count": 1,
+      "share": 0.015625
+    },
+    {
+      "id": "ielts_paragraph_links",
+      "items": 96,
+      "opening": "free breakfasts can help",
+      "count": 1,
+      "share": 0.010416666666666666
+    },
+    {
+      "id": "ielts_scientific_research",
+      "items": 64,
+      "opening": "the applications of basic",
+      "count": 1,
+      "share": 0.015625
+    },
+    {
+      "id": "ielts_society",
+      "items": 64,
+      "opening": "the effectiveness of public",
+      "count": 1,
+      "share": 0.015625
+    },
+    {
+      "id": "ielts_task1_data",
+      "items": 96,
+      "opening": "the chart shows that",
+      "count": 1,
+      "share": 0.010416666666666666
+    },
+    {
+      "id": "ielts_technology",
+      "items": 64,
+      "opening": "algorithms can screen applications",
+      "count": 1,
+      "share": 0.015625
+    },
+    {
+      "id": "media_information",
+      "items": 100,
+      "opening": "the report omits the",
+      "count": 1,
+      "share": 0.01
+    },
+    {
+      "id": "medical_english",
+      "items": 36,
+      "opening": "i would like to",
+      "count": 2,
+      "share": 0.05555555555555555
+    },
+    {
+      "id": "outdoor_sports",
+      "items": 100,
+      "opening": "i am unfamiliar with",
+      "count": 2,
+      "share": 0.02
+    },
+    {
+      "id": "personal_finance_planning",
+      "items": 100,
+      "opening": "i do not want",
+      "count": 3,
+      "share": 0.03
+    },
+    {
+      "id": "projects_problem_solving",
+      "items": 100,
+      "opening": "we have not defined",
+      "count": 1,
+      "share": 0.01
+    },
+    {
+      "id": "public_services_law",
+      "items": 36,
+      "opening": "i'd like to check",
+      "count": 1,
+      "share": 0.027777777777777776
+    },
+    {
+      "id": "relationships_emotions",
+      "items": 36,
+      "opening": "i need some time",
+      "count": 1,
+      "share": 0.027777777777777776
+    },
+    {
+      "id": "science_nature",
+      "items": 100,
+      "opening": "the scale begins at",
+      "count": 1,
+      "share": 0.01
+    },
+    {
+      "id": "shopping_consumption",
+      "items": 100,
+      "opening": "the waist fits but",
+      "count": 1,
+      "share": 0.01
+    },
+    {
+      "id": "storytelling_memories",
+      "items": 100,
+      "opening": "i still remember the",
+      "count": 2,
+      "share": 0.02
+    },
+    {
+      "id": "technology_internet",
+      "items": 36,
+      "opening": "why hasn't the file",
+      "count": 1,
+      "share": 0.027777777777777776
+    },
+    {
+      "id": "work_business",
+      "items": 36,
+      "opening": "this quotation includes after",
+      "count": 1,
+      "share": 0.027777777777777776
+    },
+    {
+      "id": "level_primary_daily",
+      "items": 60,
+      "opening": "may i sit here",
+      "count": 1,
+      "share": 0.016666666666666666
+    },
+    {
+      "id": "level_primary_discovery",
+      "items": 60,
+      "opening": "a leaf is floating",
+      "count": 1,
+      "share": 0.016666666666666666
+    },
+    {
+      "id": "level_junior_experience",
+      "items": 60,
+      "opening": "i joined the astronomy",
+      "count": 1,
+      "share": 0.016666666666666666
+    },
+    {
+      "id": "level_junior_messages",
+      "items": 60,
+      "opening": "please bring a small",
+      "count": 1,
+      "share": 0.016666666666666666
+    },
+    {
+      "id": "level_senior_writing",
+      "items": 60,
+      "opening": "she kept glancing towards",
+      "count": 1,
+      "share": 0.016666666666666666
+    },
+    {
+      "id": "level_senior_reasoning",
+      "items": 60,
+      "opening": "both interest and scheduling",
+      "count": 1,
+      "share": 0.016666666666666666
+    },
+    {
+      "id": "level_cet4_campus",
+      "items": 60,
+      "opening": "i would like to",
+      "count": 3,
+      "share": 0.05
+    },
+    {
+      "id": "level_cet4_culture",
+      "items": 60,
+      "opening": "the festival falls on",
+      "count": 1,
+      "share": 0.016666666666666666
+    },
+    {
+      "id": "level_cet6_argument",
+      "items": 60,
+      "opening": "rewarding an agency solely",
+      "count": 1,
+      "share": 0.016666666666666666
+    },
+    {
+      "id": "level_cet6_precision",
+      "items": 60,
+      "opening": "a lack of improvement",
+      "count": 1,
+      "share": 0.016666666666666666
+    }
+  ],
+  "added_difficulties": {
+    "1": 50,
+    "2": 115,
+    "3": 237,
+    "4": 181,
+    "5": 17
+  },
+  "answer_variants": 4146,
+  "level_distribution": {
+    "小学": 120,
+    "初中": 120,
+    "高中": 120,
+    "四级": 120,
+    "六级": 120
+  },
+  "original_file_sha256": {
+    "academic_discussion.json": "8fafcd3114de8bbcda19ed6c9a1583a3e7fd36786d5827b5ae585ffa61b802ee",
+    "arts_creativity.json": "6be608c5068e5712fbd350a1bdbe1a513221108c5ad04f6ec6e326fb56c17b5e",
+    "banking_finance.json": "414677235d5220f23d37ffce8a2e2bd63c75728af544fe8d904f49235f3925b4",
+    "career_development.json": "58c83bbc0b49fe2347fa9c3e33784d57984b3015f1c3c9b765f582da42be8e27",
+    "community_volunteering.json": "30a4df1bc361ffc48b7181ae747ea622474e9914d377d79f815af92aa744358d",
+    "complaints_negotiation.json": "402b8226f039e4df1d0f3cb8b57bafa95027d8c86aa10c52bb1c96e5fe1ffc29",
+    "comprehensive_english_5000.json": "179df599935c0f7cec273f29b29666b57a52996d5df2f8816199c0da165a933f",
+    "culture_society.json": "c1e1ecf0afe546806331c1ac691e45b329c5e2862f7ccebd9d14208b26a05ba6",
+    "daily_english_1000.json": "512ad1fb7ebf65d63252c1fff51c0d1cd1fb625d5d799227085d5c4f21cd5268",
+    "demo_daily.json": "c1394f0e8130b2bb63c00c6af055745d0a569dd9b53a8c9ddb84bc8a8dccd12d",
+    "education_learning.json": "41ae24f319284535169b356325593a13a2b2870de1cc3acfd78a9f84eb375f77",
+    "environment_climate.json": "cecd402ff1bf2d2f69333f5643a30b6f73397eb9e81b4e7604f26f9641a8a4ee",
+    "everyday_social_tasks.json": "5d32a21bd1ad51ee3650cbd29c689902a59221fbeabe57a8486b4639bff9021a",
+    "family_social.json": "9739b12e00ac251832ee6032421e07db3d79b473d45c7f2dd28fcbc81052c420",
+    "food_cooking.json": "3c538022e4e07186af628c9a79b2daca9d7cdfcec89f7ee8bbe45a1144a0454d",
+    "formal_correspondence.json": "96424f5fb488e88925ddf5485b9900fa6b9c0d6227153450351ed5da832ec21a",
+    "health_lifestyle.json": "60df40c86c091885b8245d4dbd321d785ea40a5a2e82ace107aae2f13bf1a315",
+    "housing_rental.json": "3dd5be96236bbeffbc52d1fbc6bf0f6936f15e9b77437dcbd10f270560fa2086",
+    "ielts_arts_heritage.json": "9d00352740832f4b411c96859ef668504d05e6d5a2a5405ccbcb44fc86df971b",
+    "ielts_cities.json": "248f1338c0ae1c77a0388150b54ebb8124014cd5648b9a4bfcc25fc19233fd46",
+    "ielts_economy.json": "41dc18f86bb1f55c5b1a408980e0d5f5289374747670031987ffea9f9c41b125",
+    "ielts_education.json": "417472742bb3bba655ba1fb61e2654fbbffbd10a974d464c72b8f949508460df",
+    "ielts_environment.json": "b6df1a37fb48711414b86256ac4143560c017571606ed1b18135d3eb1a8d4998",
+    "ielts_food_agriculture.json": "58741d3e76a2bbd1bc335b8c83e9273beb94af691374c6fbeb14a89e02bd8466",
+    "ielts_global_connections.json": "b7a13f3c126c228d06deea22a0c4adef41634810310625d9bc06646378033b7f",
+    "ielts_health_work.json": "a69725a31f8961d1f81146aee9299dee47deba2d2ddd1a23d6f60246ebf18832",
+    "ielts_media_public_discourse.json": "6f9c1d923a966455ff3d957ee423ea161d844b1da6938f657cf0f4d0eca2197e",
+    "ielts_paragraph_links.json": "19b41c66fa4a3cb02c72078770297f39718e6a47d89acf662fe15640470275a4",
+    "ielts_scientific_research.json": "6660867735fddb2e5d6b4fd152441b2e40ebdf8915e2abf37391c8ca4dc31c0e",
+    "ielts_society.json": "3e62723da42f7293ad3714862eef39b5abc89f9aa334432801acbf75f87dda7d",
+    "ielts_task1_data.json": "4f4bc6f207f11a8a9b8537296ab593e5bfb511dcb3f75154c30b21dabc3ce85a",
+    "ielts_technology.json": "9d583b57bc04480799667c2c5948ad08c4137c5c303a8fc8a9b6d6f9f4db1c42",
+    "media_information.json": "bbd9cf60767d949b0d49516fc9a8d53394ff1ca2c3bf6fd380651aed0d3a23aa",
+    "medical_english.json": "351b3c2663d178ff0aab0cfd4bb8ec2331fae8970b9ae73258be396a56f155ff",
+    "outdoor_sports.json": "dd96272f441ceea17cde39454e3c4afff5e8ba524bb507131e06166b6e60a3fa",
+    "personal_finance_planning.json": "5397535e665e179ccf5a55c3a5749e0c46df36a37836021d9e7880f50b94a780",
+    "projects_problem_solving.json": "66366d9d1a7cbc13503f095c2ed6a3ee6021c1e9a43685a97f89c956dafb2680",
+    "public_services_law.json": "68248b2f70af043f27a89396f9bbd84b28d544be83cb4256630f62093bae660c",
+    "relationships_emotions.json": "ab6d6bcdb0fd8eea22f51c5dd11e78eaba9a5293e97737b4ed5c8e753a2f96d4",
+    "science_nature.json": "38827d93c52a33d05d35d18446fa1d596a3f38dd47f60a6c3c98760370bce736",
+    "shopping_consumption.json": "dd6d07ce3eff3e068c008dedd73c941a5c34fd2981c765d102499936bc5fe59e",
+    "storytelling_memories.json": "72ba520a7cded5622d340bb4a37297b7e32627a2145da1d7ff70c7d0ba0ef967",
+    "technology_internet.json": "76736688fe8f30fd77f1083f53f28ed8fb9617a7e18025042fcbea8bc43265e1",
+    "work_business.json": "4c43c7f57d2d73ff6c0728f5ce01d37377e8f1dd838606b7fe3dbe5be772bd2d"
+  },
+  "added_file_sha256": {
+    "00_level_01_primary_daily.json": "75ecb0ed8d3d4d320a342883ce00a0c8f76ab96f8b53e1e9e4ff7eff63685fd3",
+    "00_level_02_primary_discovery.json": "6d2d28ccb04ee5416ff932cf06351e1782c7b360a04ac320620ee89be28438a0",
+    "00_level_03_junior_experience.json": "b206d59d57e5a12af4fc2e5f9bc316a59963ff87c0268bbf0ff3a160a8af480c",
+    "00_level_04_junior_messages.json": "06e10c8244fae34255848604ecb73b7e06abcbc39c7fcc6c688b689a766048cc",
+    "00_level_05_senior_writing.json": "670b2309b514f1495cf4a61c497e6a93de288571d3508ec86681af072cc8beed",
+    "00_level_06_senior_reasoning.json": "28686c071976ba6935bcd416bbe534c2ac475f0ad2ee128c450d6dd285a8a158",
+    "00_level_07_cet4_campus.json": "35974dbc796e20fb528425bf25c6def6f961336a3560bc29e7475a503e49a7d4",
+    "00_level_08_cet4_culture.json": "7cc2a8e4dadc31ddbb66fe71d0a68a1c64385c99e697cf9f431248d9c4f89ecb",
+    "00_level_09_cet6_argument.json": "199870b1a95e489c1452f1930cebb5cbf01f31302ca3ff4b02139c7b57f3e997",
+    "00_level_10_cet6_precision.json": "b5d0ef5b78a8b77e772284e7280cf14f9281d24f6ea54715b9de67bdda6f64ec"
+  },
+  "database_sha256_before": "65717dfb7f391e7f2679776cda1bf7c7082ae9d97645cd4099581aaf19bd1345",
+  "database_sha256_after": "65717dfb7f391e7f2679776cda1bf7c7082ae9d97645cd4099581aaf19bd1345",
+  "backup": "_backups/pre-levels-3000-2026-10-04.zip",
+  "screening_methods": {
+    "exact": "Full library: lowercase English word tokens, punctuation and whitespace ignored.",
+    "zh_exact": "Pairs involving additions: Chinese prompt with punctuation removed.",
+    "substitution": "Full library: same token count, at least 5 words, one changed token.",
+    "insertion": "Full library: one inserted/deleted token, shorter sentence at least 5 words.",
+    "similarity": "Pairs involving additions: shared consecutive 2-word sequence, at least 5 words, token SequenceMatcher >= 0.75.",
+    "lexical_review": "Pairs involving additions: order-independent binary word cosine with IDF weighting >= 0.45; very frequent words excluded from numerator.",
+    "chinese_review": "Pairs involving additions: order-independent Chinese character-bigram cosine with IDF weighting >= 0.40; very frequent bigrams excluded from numerator.",
+    "prefix": "Review most common first 4 tokens within each library against 15% threshold.",
+    "limit": "Lexical screening does not prove semantic uniqueness. Added content was also edited for bilingual alignment, naturalness, learning task and level."
+  },
+  "chinese_review_candidates": [],
+  "lexical_review_decisions": [
+    {
+      "id": "level_primary_daily_g1_0058",
+      "decision": "保留：旧题用慢钟描写故事背景；新题由钟慢推测可能迟到，练习 may 与简短因果衔接。"
+    },
+    {
+      "id": "level_cet4_culture_g1_0019",
+      "decision": "保留：旧题表达初学者需要更多练习时间；新题说明使用边角料的节材目的，增加 offcuts 搭配与目的关系。"
+    },
+    {
+      "id": "level_primary_daily_g1_0024",
+      "decision": "保留：旧题解释主动开门换气的目的；新题报告门开着、冷风正在进入，练习状态与正在发生的结果。"
+    }
+  ],
+  "verification": {
+    "pytest": {
+      "command": ".venv/Scripts/python.exe -m pytest -q",
+      "passed": 5,
+      "failed": 0
+    },
+    "library_validation": {
+      "command": ".venv/Scripts/python.exe tools/validate_libraries.py",
+      "passed": 54,
+      "failed": 0
+    },
+    "integration": {
+      "graded_order_verified": true,
+      "new_practice_sequences": 10,
+      "items_per_new_sequence": 60,
+      "answers_checked": 4146,
+      "original_files_unchanged": 44,
+      "database_unchanged": true
+    }
+  }
+}

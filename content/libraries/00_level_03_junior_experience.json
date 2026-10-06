@@ -1,0 +1,982 @@
+{
+  "schema_version": 1,
+  "id": "level_junior_experience",
+  "title": "分级 · 初中｜经历叙述与问题处理 · 60 句",
+  "description": "社团、出行、人物变化和团队活动；练习时态关系、原因、比较、条件与回顾。",
+  "language": "en-GB",
+  "tags": [
+    "分级训练",
+    "初中",
+    "初中叙事",
+    "经历叙述与问题处理"
+  ],
+  "items": [
+    {
+      "id": "level_junior_experience_g1_0001",
+      "zh": "我加入天文社不是因为成绩好，而是因为好奇。",
+      "en": "I joined the astronomy club out of curiosity, not because of my grades.",
+      "answers": [
+        "I joined the astronomy club out of curiosity, not because of my grades."
+      ],
+      "notes": "out of curiosity：出于好奇；交代参加活动的动机。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "社团与兴趣"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_experience_g1_0002",
+      "zh": "练鼓声太大，我们不得不换了教室。",
+      "en": "The drums were so loud that we had to change classrooms.",
+      "answers": [
+        "The drums were so loud that we had to change classrooms."
+      ],
+      "notes": "so ... that：如此……以至于……。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "社团与兴趣"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_experience_g1_0003",
+      "zh": "报名以后才知道每周都要排练。",
+      "en": "I found out about the weekly rehearsals only after signing up.",
+      "answers": [
+        "I found out about the weekly rehearsals only after signing up."
+      ],
+      "notes": "find out：获知；after signing up：报名后。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "社团与兴趣"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_experience_g1_0004",
+      "zh": "我以前只看漫画，现在也读人物传记。",
+      "en": "I used to read only comics, but now I read biographies too.",
+      "answers": [
+        "I used to read only comics, but now I read biographies too."
+      ],
+      "notes": "used to 与 now 对照习惯变化；biography：传记。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "社团与兴趣"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_experience_g1_0005",
+      "zh": "我们轮流向社员介绍自己的收藏。",
+      "en": "We take turns introducing our collections to the other members.",
+      "answers": [
+        "We take turns introducing our collections to the other members."
+      ],
+      "notes": "take turns doing：轮流做；introduce ... to：向……介绍。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "社团与兴趣"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_experience_g1_0006",
+      "zh": "姐姐教我弹的第一首曲子非常简单。",
+      "en": "The first tune my sister taught me was very simple.",
+      "answers": [
+        "The first tune my sister taught me was very simple."
+      ],
+      "notes": "my sister taught me 修饰 tune，省略关系代词。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "社团与兴趣"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_experience_g1_0007",
+      "zh": "为了参加机器人比赛，我学会了使用几种工具。",
+      "en": "I learned to use several tools so that I could enter the robotics competition.",
+      "answers": [
+        "I learned to use several tools so that I could enter the robotics competition."
+      ],
+      "notes": "so that 表目的；enter a competition：参赛。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "社团与兴趣"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_experience_g1_0008",
+      "zh": "练习一段时间后，我终于能跟上全队的节奏了。",
+      "en": "After some practice, I could finally keep pace with the rest of the team.",
+      "answers": [
+        "After some practice, I could finally keep pace with the rest of the team."
+      ],
+      "notes": "keep pace with：跟上……的节奏。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "社团与兴趣"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_experience_g1_0009",
+      "zh": "即使作品没有获奖，我也想把它展出来。",
+      "en": "Even if my work wins no prize, I still want to display it.",
+      "answers": [
+        "Even if my work wins no prize, I still want to display it."
+      ],
+      "notes": "even if：即使；display：展出。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "社团与兴趣"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_experience_g1_0010",
+      "zh": "社团结束了，但我们的讨论一直持续到回家路上。",
+      "en": "The club session ended, but our discussion continued on the way home.",
+      "answers": [
+        "The club session ended, but our discussion continued on the way home."
+      ],
+      "notes": "continue：继续；on the way home：回家路上。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "社团与兴趣"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_experience_g1_0011",
+      "zh": "我们抵达农场时，主人已经开始喂羊了。",
+      "en": "By the time we reached the farm, the owner had started feeding the sheep.",
+      "answers": [
+        "By the time we reached the farm, the owner had started feeding the sheep."
+      ],
+      "notes": "by the time 引导时间从句；had started 表示更早的动作。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "难忘的出行"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_experience_g1_0012",
+      "zh": "虽然船程很短，我却第一次看到了海豚。",
+      "en": "Although the boat trip was brief, it gave me my first sight of dolphins.",
+      "answers": [
+        "Although the boat trip was brief, it gave me my first sight of dolphins."
+      ],
+      "notes": "although 表让步；my first sight of：第一次看到。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "难忘的出行"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_experience_g1_0013",
+      "zh": "司机建议我们在小镇停下来吃午饭。",
+      "en": "The driver suggested stopping in the town for lunch.",
+      "answers": [
+        "The driver suggested stopping in the town for lunch."
+      ],
+      "notes": "suggest doing：建议做，不能写 suggest to do。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "难忘的出行"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_experience_g1_0014",
+      "zh": "导游给了我们一张画着集合地点的地图。",
+      "en": "The guide gave us a map showing where we should meet.",
+      "answers": [
+        "The guide gave us a map showing where we should meet."
+      ],
+      "notes": "showing 作定语；where we should meet 为间接问句。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "难忘的出行"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_experience_g1_0015",
+      "zh": "走到山脚时，我们才发现缆车没有运行。",
+      "en": "We did not discover that the cable car was closed until we reached the foot of the hill.",
+      "answers": [
+        "We did not discover that the cable car was closed until we reached the foot of the hill.",
+        "We didn't discover that the cable car was closed until we reached the foot of the hill."
+      ],
+      "notes": "not ... until：直到……才……；the foot of：山脚。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "难忘的出行"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_experience_g1_0016",
+      "zh": "比起购买纪念品，我更想跟当地人聊聊。",
+      "en": "I would rather talk to local people than buy souvenirs.",
+      "answers": [
+        "I would rather talk to local people than buy souvenirs."
+      ],
+      "notes": "would rather ... than ...：宁愿……而不……。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "难忘的出行"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_experience_g1_0017",
+      "zh": "这趟旅行让我明白，有些地方并不像照片里那么安静。",
+      "en": "The trip taught me that some places are not as peaceful as they look in photographs.",
+      "answers": [
+        "The trip taught me that some places are not as peaceful as they look in photographs.",
+        "The trip taught me that some places aren't as peaceful as they look in photographs."
+      ],
+      "notes": "not as ... as：不如……那么……。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "难忘的出行"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_experience_g1_0018",
+      "zh": "雨来得太突然，我们只好躲进一家小书店。",
+      "en": "The rain caught us by surprise, so we took shelter in a small bookshop.",
+      "answers": [
+        "The rain caught us by surprise, so we took shelter in a small bookshop."
+      ],
+      "notes": "catch someone by surprise：使人措手不及；take shelter：躲避风雨。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "难忘的出行"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_experience_g1_0019",
+      "zh": "我把门票贴进日记，以免忘记参观的日期。",
+      "en": "I stuck the ticket in my diary so I would not forget the date of our visit.",
+      "answers": [
+        "I stuck the ticket in my diary so I would not forget the date of our visit.",
+        "I stuck the ticket in my diary so I wouldn't forget the date of our visit."
+      ],
+      "notes": "stuck 为 stick 的过去式；so 表示目的。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "难忘的出行"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_experience_g1_0020",
+      "zh": "回程时，大家都睡着了，只有我还看着窗外。",
+      "en": "On the journey back, everyone fell asleep except me; I kept looking out of the window.",
+      "answers": [
+        "On the journey back, everyone fell asleep except me; I kept looking out of the window."
+      ],
+      "notes": "except：除……之外；keep doing：一直做。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "难忘的出行"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_experience_g1_0021",
+      "zh": "我的海报被雨淋坏后，同学帮我重新画了一张。",
+      "en": "After rain ruined my poster, a classmate helped me make another one.",
+      "answers": [
+        "After rain ruined my poster, a classmate helped me make another one."
+      ],
+      "notes": "ruin：毁坏；another one 替代另一张海报。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "学会解决困难"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_experience_g1_0022",
+      "zh": "我没听清比赛规则，所以请裁判再解释一次。",
+      "en": "I missed part of the rules, so I asked the referee to explain them again.",
+      "answers": [
+        "I missed part of the rules, so I asked the referee to explain them again."
+      ],
+      "notes": "ask someone to do：请某人做；them 回指 rules。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "学会解决困难"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_experience_g1_0023",
+      "zh": "修好模型之前，我试了三种不同的连接方法。",
+      "en": "I tried three different ways of joining the parts before I repaired the model.",
+      "answers": [
+        "I tried three different ways of joining the parts before I repaired the model."
+      ],
+      "notes": "ways of doing：做某事的方法；before 表示顺序。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "学会解决困难"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_experience_g1_0024",
+      "zh": "有一道题让我卡了很久，直到同桌画了个示意图。",
+      "en": "I was stuck on a question until my desk mate drew a diagram.",
+      "answers": [
+        "I was stuck on a question until my desk mate drew a diagram."
+      ],
+      "notes": "be stuck on：被……难住；diagram：示意图。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "学会解决困难"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_experience_g1_0025",
+      "zh": "忘带演讲稿反而让我开始直视观众。",
+      "en": "Forgetting my notes actually made me look directly at the audience.",
+      "answers": [
+        "Forgetting my notes actually made me look directly at the audience."
+      ],
+      "notes": "make someone do：让某人做；动名词短语作主语。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "学会解决困难"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_experience_g1_0026",
+      "zh": "当其他人都想放弃时，队长提出再检查一遍线路。",
+      "en": "When the others wanted to give up, the captain proposed checking the wiring once more.",
+      "answers": [
+        "When the others wanted to give up, the captain proposed checking the wiring once more."
+      ],
+      "notes": "propose doing：提议做；wiring：线路。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "学会解决困难"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_experience_g1_0027",
+      "zh": "我们把大任务分成小步骤，进度才变得清楚。",
+      "en": "Our progress became clear after we divided the large task into smaller steps.",
+      "answers": [
+        "Our progress became clear after we divided the large task into smaller steps."
+      ],
+      "notes": "divide ... into ...：把……分成……。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "学会解决困难"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_experience_g1_0028",
+      "zh": "不是所有困难都能当天解决，这次经历让我懂得了耐心。",
+      "en": "Not every difficulty can be solved in a day; this experience taught me patience.",
+      "answers": [
+        "Not every difficulty can be solved in a day; this experience taught me patience."
+      ],
+      "notes": "not every 是部分否定；teach someone something：让某人学会。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "学会解决困难"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_experience_g1_0029",
+      "zh": "问路以后，我们才意识到刚才走反了方向。",
+      "en": "After asking for directions, we realised we were going the wrong way.",
+      "answers": [
+        "After asking for directions, we realised we were going the wrong way."
+      ],
+      "notes": "after doing：做过某事后；were going：当时正在走。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "学会解决困难"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_experience_g1_0030",
+      "zh": "问题解决以后，我们把有用的步骤记在了班级留言板上。",
+      "en": "Once the problem was solved, we posted the useful steps on the class message board.",
+      "answers": [
+        "Once the problem was solved, we posted the useful steps on the class message board."
+      ],
+      "notes": "once：一旦；post：发布。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "学会解决困难"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_experience_g1_0031",
+      "zh": "搬到这里以后，他比以前更愿意参加集体活动了。",
+      "en": "Since moving here, he has become more willing to join group activities.",
+      "answers": [
+        "Since moving here, he has become more willing to join group activities."
+      ],
+      "notes": "since doing 配合现在完成时；more willing：更愿意。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "人与变化"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_experience_g1_0032",
+      "zh": "我的朋友不像看起来那么害羞。",
+      "en": "My friend is less shy than she appears.",
+      "answers": [
+        "My friend is less shy than she appears."
+      ],
+      "notes": "less ... than：不如……那样；appear：显得。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "人与变化"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_experience_g1_0033",
+      "zh": "妹妹以前总需要我提醒，现在却开始提醒我了。",
+      "en": "My younger sister used to need reminders from me; now she reminds me instead.",
+      "answers": [
+        "My younger sister used to need reminders from me; now she reminds me instead."
+      ],
+      "notes": "used to 与 now 对照角色变化；remind：提醒。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "人与变化"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_experience_g1_0034",
+      "zh": "我起初不喜欢新座位，后来却认识了新的朋友。",
+      "en": "I disliked my new seat at first but later made new friends.",
+      "answers": [
+        "I disliked my new seat at first but later made new friends."
+      ],
+      "notes": "at first 与 later 对照前后变化。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "人与变化"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_experience_g1_0035",
+      "zh": "他从来不把别人的口音当笑话。",
+      "en": "He never makes fun of anyone's accent.",
+      "answers": [
+        "He never makes fun of anyone's accent."
+      ],
+      "notes": "make fun of：嘲笑；accent：口音。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "人与变化"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_experience_g1_0036",
+      "zh": "祖母现在会给我们发语音消息了。",
+      "en": "Grandma can send us voice messages now.",
+      "answers": [
+        "Grandma can send us voice messages now."
+      ],
+      "notes": "send someone something：给某人发送某物。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "人与变化"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_experience_g1_0037",
+      "zh": "我宁愿听实话，即使有时不太好听。",
+      "en": "I prefer the truth, even when it is hard to hear.",
+      "answers": [
+        "I prefer the truth, even when it is hard to hear."
+      ],
+      "notes": "even when：即使在……时；说明偏好适用的情形。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "人与变化"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_experience_g1_0038",
+      "zh": "我们性格不同，却都喜欢安静地观察。",
+      "en": "Our personalities differ, but we both enjoy quiet observation.",
+      "answers": [
+        "Our personalities differ, but we both enjoy quiet observation."
+      ],
+      "notes": "differ：不同；both：两者都。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "人与变化"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_experience_g1_0039",
+      "zh": "认识他之前，我没有遇到过这么细心的倾听者。",
+      "en": "Before I met him, I had never known such a careful listener.",
+      "answers": [
+        "Before I met him, I had never known such a careful listener."
+      ],
+      "notes": "过去完成时表示在相识之前的经历。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "人与变化"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_experience_g1_0040",
+      "zh": "现在轮到我帮助曾经帮助我的人了。",
+      "en": "Now it is my turn to help someone who once helped me.",
+      "answers": [
+        "Now it is my turn to help someone who once helped me."
+      ],
+      "notes": "it is my turn to：轮到我；who 引导定语从句。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "人与变化"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_experience_g1_0041",
+      "zh": "队里有人擅长进攻，也有人更会防守。",
+      "en": "Some team members are good at attacking, while others defend better.",
+      "answers": [
+        "Some team members are good at attacking, while others defend better."
+      ],
+      "notes": "some ... others ...：一些人……另一些人……。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "运动与团队"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_experience_g1_0042",
+      "zh": "我没进球，却创造了一个传球机会。",
+      "en": "I did not score, but I created a chance to pass.",
+      "answers": [
+        "I did not score, but I created a chance to pass.",
+        "I didn't score, but I created a chance to pass."
+      ],
+      "notes": "score：得分；a chance to do：做某事的机会。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "运动与团队"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_experience_g1_0043",
+      "zh": "裁判吹哨之前，谁也不能开始。",
+      "en": "Nobody can start before the referee blows the whistle.",
+      "answers": [
+        "Nobody can start before the referee blows the whistle."
+      ],
+      "notes": "before 引导时间从句；blow the whistle：吹哨。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "运动与团队"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_experience_g1_0044",
+      "zh": "看台上的鼓励声让我们继续跑了下去。",
+      "en": "The encouragement from the stands kept us running.",
+      "answers": [
+        "The encouragement from the stands kept us running."
+      ],
+      "notes": "keep someone doing：让某人持续做；stands：看台。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "运动与团队"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_experience_g1_0045",
+      "zh": "这场比赛教会了我如何接受公平的失败。",
+      "en": "This match taught me how to accept a fair defeat.",
+      "answers": [
+        "This match taught me how to accept a fair defeat."
+      ],
+      "notes": "how to accept：如何接受；defeat：失败。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "运动与团队"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_experience_g1_0046",
+      "zh": "受伤以后，他改为帮助教练记录比赛数据。",
+      "en": "After his injury, he helped the coach record match data instead.",
+      "answers": [
+        "After his injury, he helped the coach record match data instead."
+      ],
+      "notes": "instead：转而；record data：记录数据。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "运动与团队"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_experience_g1_0047",
+      "zh": "我们不是速度最快的队，却是配合最好的队。",
+      "en": "We were not the fastest team, but we worked together best.",
+      "answers": [
+        "We were not the fastest team, but we worked together best.",
+        "We weren't the fastest team, but we worked together best."
+      ],
+      "notes": "fastest 与 best 分别比较速度和配合。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "运动与团队"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_experience_g1_0048",
+      "zh": "如果明天操场仍然积水，训练就改到室内。",
+      "en": "If the playground is still flooded tomorrow, we will train indoors.",
+      "answers": [
+        "If the playground is still flooded tomorrow, we will train indoors."
+      ],
+      "notes": "if 从句用现在时表达将来的条件。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "运动与团队"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_experience_g1_0049",
+      "zh": "队长听取了替补队员的意见，而不只听主力队员的。",
+      "en": "The captain listened to the substitutes as well as the regular players.",
+      "answers": [
+        "The captain listened to the substitutes as well as the regular players."
+      ],
+      "notes": "as well as：也；substitute：替补。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "运动与团队"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_experience_g1_0050",
+      "zh": "终场以后，双方队员互相握了手。",
+      "en": "After the final whistle, players from both sides shook hands.",
+      "answers": [
+        "After the final whistle, players from both sides shook hands."
+      ],
+      "notes": "shake hands：握手；shook 为过去式。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "运动与团队"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_junior_experience_g1_0051",
+      "zh": "我的日记不只写发生了什么，还写我当时的感受。",
+      "en": "My diary records not only what happened but also how I felt.",
+      "answers": [
+        "My diary records not only what happened but also how I felt."
+      ],
+      "notes": "not only ... but also ... 连接两个名词性从句。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "记录与回顾"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_experience_g1_0052",
+      "zh": "照片没有拍出山路实际有多陡。",
+      "en": "The photograph does not show how steep the mountain path really was.",
+      "answers": [
+        "The photograph does not show how steep the mountain path really was.",
+        "The photograph doesn't show how steep the mountain path really was."
+      ],
+      "notes": "how steep：多么陡；间接问句用陈述语序。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "记录与回顾"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_experience_g1_0053",
+      "zh": "回头看，我为一件小事担心了太久。",
+      "en": "Looking back, I spent too long worrying about something minor.",
+      "answers": [
+        "Looking back, I spent too long worrying about something minor."
+      ],
+      "notes": "spend time doing：花时间做；looking back：回顾时。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "记录与回顾"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_experience_g1_0054",
+      "zh": "我以前觉得长大意味着什么都能自己做。",
+      "en": "I used to think growing up meant doing everything on my own.",
+      "answers": [
+        "I used to think growing up meant doing everything on my own."
+      ],
+      "notes": "used to think：以前认为；on my own：独自。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "记录与回顾"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_experience_g1_0055",
+      "zh": "这段经历最让我难忘的是陌生人的善意。",
+      "en": "What I remember most about the experience is a stranger's kindness.",
+      "answers": [
+        "What I remember most about the experience is a stranger's kindness."
+      ],
+      "notes": "what 引导主语从句；kindness：善意。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "记录与回顾"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_experience_g1_0056",
+      "zh": "如果再参加一次，我会更早与搭档商量。",
+      "en": "If I took part again, I would discuss things with my partner earlier.",
+      "answers": [
+        "If I took part again, I would discuss things with my partner earlier."
+      ],
+      "notes": "if + 过去式，would + 动词原形，表达假设。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "记录与回顾"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_experience_g1_0057",
+      "zh": "有些细节是听别人讲了以后才想起来的。",
+      "en": "Some details came back to me only after I heard other people's accounts.",
+      "answers": [
+        "Some details came back to me only after I heard other people's accounts."
+      ],
+      "notes": "come back to someone：重新想起；account：叙述。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "记录与回顾"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_experience_g1_0058",
+      "zh": "我没有完成全部目标，但比出发时更了解自己。",
+      "en": "I did not achieve every goal, but I knew myself better than before I set out.",
+      "answers": [
+        "I did not achieve every goal, but I knew myself better than before I set out.",
+        "I didn't achieve every goal, but I knew myself better than before I set out."
+      ],
+      "notes": "not every：并非全部；set out：出发。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "记录与回顾"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_experience_g1_0059",
+      "zh": "那天我们留下的不只是照片，还有一段共同的回忆。",
+      "en": "We left that day with more than photographs; we shared a memory.",
+      "answers": [
+        "We left that day with more than photographs; we shared a memory."
+      ],
+      "notes": "more than：不止；shared memory：共同回忆。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "记录与回顾"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "level_junior_experience_g1_0060",
+      "zh": "我想把这件事讲清楚，而不是把自己写成英雄。",
+      "en": "I want to tell the story clearly rather than make myself its hero.",
+      "answers": [
+        "I want to tell the story clearly rather than make myself its hero."
+      ],
+      "notes": "rather than 对照叙述目的；make someone something：把某人写成某种角色。",
+      "tags": [
+        "分级训练",
+        "初中",
+        "初中叙事",
+        "记录与回顾"
+      ],
+      "difficulty": 3
+    }
+  ]
+}

@@ -1,0 +1,573 @@
+{
+  "schema_version": 1,
+  "id": "culture_society",
+  "title": "文化与社会精选 · 36 句",
+  "description": "围绕本主题的具体情境组织表达；覆盖请求、说明、比较与复合句，并附逐题用法。",
+  "language": "en-GB",
+  "tags": [
+    "文化与社会",
+    "culture",
+    "主题分类",
+    "精选",
+    "逐题讲解"
+  ],
+  "items": [
+    {
+      "zh": "这座博物馆不仅展出文物，也讲述普通居民的生活故事。",
+      "en": "This museum not only displays historical objects but also tells the stories of ordinary residents.",
+      "answers": [
+        "This museum not only displays historical objects but also tells the stories of ordinary residents."
+      ],
+      "notes": "not only displays ... but also tells ... 并列两个谓语；普通人的生活也可以成为文化展示的内容。",
+      "tags": [
+        "文化与社会",
+        "平行结构",
+        "介绍文化场所",
+        "博物馆"
+      ],
+      "difficulty": 2,
+      "id": "culture_society_001"
+    },
+    {
+      "zh": "虽然我听不懂歌词，仍然能感受到这首歌的情绪。",
+      "en": "Although I can't understand the lyrics, I can still sense the emotion in the song.",
+      "answers": [
+        "Although I can't understand the lyrics, I can still sense the emotion in the song.",
+        "Although I cannot understand the lyrics, I can still sense the emotion in the song."
+      ],
+      "notes": "although 表示让步；lyrics 指歌词，通常用复数。",
+      "tags": [
+        "文化与社会",
+        "让步从句",
+        "表达艺术体验",
+        "音乐"
+      ],
+      "difficulty": 2,
+      "id": "culture_society_002"
+    },
+    {
+      "zh": "不同地区对同一个节日可能有不同的庆祝方式。",
+      "en": "The same festival may be celebrated differently in different regions.",
+      "answers": [
+        "The same festival may be celebrated differently in different regions."
+      ],
+      "notes": "情态被动语态聚焦节日；may 避免把差异概括为必然。",
+      "tags": [
+        "文化与社会",
+        "被动语态",
+        "描述文化差异",
+        "节庆"
+      ],
+      "difficulty": 2,
+      "id": "culture_society_003"
+    },
+    {
+      "zh": "与其把习俗视为固定不变的规则，不如看看它如何随着生活改变。",
+      "en": "Rather than treat a custom as a fixed rule, consider how it changes with everyday life.",
+      "answers": [
+        "Rather than treat a custom as a fixed rule, consider how it changes with everyday life."
+      ],
+      "notes": "treat A as B 表示把 A 看作 B；how 从句引导观察角度。",
+      "tags": [
+        "文化与社会",
+        "对比结构",
+        "提出观察视角",
+        "习俗变化"
+      ],
+      "difficulty": 3,
+      "id": "culture_society_004"
+    },
+    {
+      "zh": "如果一门地方语言不再被孩子使用，它的未来就可能受到威胁。",
+      "en": "If children stop using a local language, its future may be at risk.",
+      "answers": [
+        "If children stop using a local language, its future may be at risk."
+      ],
+      "notes": "stop doing 表示停止做；be at risk 表示面临风险。",
+      "tags": [
+        "文化与社会",
+        "条件从句",
+        "说明传承问题",
+        "地方语言"
+      ],
+      "difficulty": 3,
+      "id": "culture_society_005"
+    },
+    {
+      "zh": "让我印象最深的，是演员如何通过动作而不是台词表达悲伤。",
+      "en": "What impressed me most was how the actor conveyed sadness through movement rather than dialogue.",
+      "answers": [
+        "What impressed me most was how the actor conveyed sadness through movement rather than dialogue."
+      ],
+      "notes": "what 从句作主语；convey emotion 表示传达情绪，rather than 比较表达手段。",
+      "tags": [
+        "文化与社会",
+        "主语从句",
+        "评价表演",
+        "戏剧"
+      ],
+      "difficulty": 4,
+      "id": "culture_society_006"
+    },
+    {
+      "zh": "这张老照片让祖母想起了她小时候住过的街道。",
+      "en": "This old photograph reminded my grandmother of the street where she lived as a child.",
+      "answers": [
+        "This old photograph reminded my grandmother of the street where she lived as a child."
+      ],
+      "notes": "remind sb of sth；where 引导地点定语从句，修饰 street。",
+      "tags": [
+        "文化与社会",
+        "定语从句",
+        "连接记忆与地点",
+        "家庭历史"
+      ],
+      "difficulty": 3,
+      "id": "culture_society_007"
+    },
+    {
+      "zh": "由于门票太贵，一些当地居民很少参观自己城市的文化场馆。",
+      "en": "Because admission is too expensive, some local residents rarely visit cultural venues in their own city.",
+      "answers": [
+        "Because admission is too expensive, some local residents rarely visit cultural venues in their own city."
+      ],
+      "notes": "admission 指入场费；rarely 表示很少，不能再与 don't 连用。",
+      "tags": [
+        "文化与社会",
+        "原因从句",
+        "讨论参与障碍",
+        "文化设施"
+      ],
+      "difficulty": 3,
+      "id": "culture_society_008"
+    },
+    {
+      "zh": "游客拍照之前，应该先确认这个仪式是否允许拍摄。",
+      "en": "Before taking photographs, visitors should check whether photography is permitted during the ceremony.",
+      "answers": [
+        "Before taking photographs, visitors should check whether photography is permitted during the ceremony."
+      ],
+      "notes": "before taking 的逻辑主语是 visitors；whether 引出需要确认的问题。",
+      "tags": [
+        "文化与社会",
+        "时间从句",
+        "提出参观礼仪",
+        "文化尊重"
+      ],
+      "difficulty": 3,
+      "id": "culture_society_009"
+    },
+    {
+      "zh": "即使翻译准确，笑话中的文化背景也可能难以传达。",
+      "en": "Even if a translation is accurate, the cultural context of a joke may be difficult to convey.",
+      "answers": [
+        "Even if a translation is accurate, the cultural context of a joke may be difficult to convey."
+      ],
+      "notes": "even if 引出让步；cultural context 指文化背景。",
+      "tags": [
+        "文化与社会",
+        "让步条件句",
+        "说明翻译局限",
+        "跨文化交流"
+      ],
+      "difficulty": 3,
+      "id": "culture_society_010"
+    },
+    {
+      "zh": "你认为这部改编电影保留了原著最重要的部分吗？",
+      "en": "Do you think this film adaptation preserves the most important parts of the original book?",
+      "answers": [
+        "Do you think this film adaptation preserves the most important parts of the original book?"
+      ],
+      "notes": "adaptation 表示改编作品；preserve 在此表示保留。",
+      "tags": [
+        "文化与社会",
+        "宾语从句",
+        "邀请评价",
+        "文学改编"
+      ],
+      "difficulty": 2,
+      "id": "culture_society_011"
+    },
+    {
+      "zh": "社区邀请老手艺人来教年轻人制作传统乐器。",
+      "en": "The community invited experienced craftspeople to teach young people how to make traditional instruments.",
+      "answers": [
+        "The community invited experienced craftspeople to teach young people how to make traditional instruments."
+      ],
+      "notes": "invite sb to do；teach sb how to do，具体描述文化传承活动。",
+      "tags": [
+        "文化与社会",
+        "不定式结构",
+        "介绍传承活动",
+        "传统工艺"
+      ],
+      "difficulty": 3,
+      "id": "culture_society_012"
+    },
+    {
+      "id": "culture_society_ext_0001",
+      "zh": "展览按照年代排列，让人能看到风格如何变化。",
+      "en": "The exhibition is arranged chronologically, showing how styles changed.",
+      "answers": [
+        "The exhibition is arranged chronologically, showing how styles changed."
+      ],
+      "notes": "chronologically：按时间顺序。",
+      "tags": [
+        "文化与社会",
+        "分词结果状语",
+        "展览组织"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "culture_society_ext_0002",
+      "zh": "这件作品的说明牌有两种语言。",
+      "en": "The label for this artwork is in two languages.",
+      "answers": [
+        "The label for this artwork is in two languages."
+      ],
+      "notes": "label 在展览中指说明牌。",
+      "tags": [
+        "文化与社会",
+        "陈述句",
+        "展览信息"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "culture_society_ext_0003",
+      "zh": "我想知道这座雕像原来放在哪里。",
+      "en": "I would like to know where this statue originally stood.",
+      "answers": [
+        "I would like to know where this statue originally stood.",
+        "I'd like to know where this statue originally stood."
+      ],
+      "notes": "stood 表示原本坐落于某处。",
+      "tags": [
+        "文化与社会",
+        "宾语从句",
+        "文物背景"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "culture_society_ext_0004",
+      "zh": "这段口述历史记录了工厂关闭后的社区变化。",
+      "en": "This oral history records changes in the community after the factory closed.",
+      "answers": [
+        "This oral history records changes in the community after the factory closed."
+      ],
+      "notes": "oral history：口述历史。",
+      "tags": [
+        "文化与社会",
+        "时间从句",
+        "地方记忆"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "culture_society_ext_0005",
+      "zh": "演出结束后，观众有机会向导演提问。",
+      "en": "After the performance, the audience had a chance to ask the director questions.",
+      "answers": [
+        "After the performance, the audience had a chance to ask the director questions."
+      ],
+      "notes": "ask sb questions：向某人提问。",
+      "tags": [
+        "文化与社会",
+        "时间状语",
+        "演出交流"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "culture_society_ext_0006",
+      "zh": "尽管舞台布景简单，灯光让场景显得很有层次。",
+      "en": "Although the set was simple, the lighting gave the scene a sense of depth.",
+      "answers": [
+        "Although the set was simple, the lighting gave the scene a sense of depth."
+      ],
+      "notes": "a sense of depth：层次感、纵深感。",
+      "tags": [
+        "文化与社会",
+        "让步从句",
+        "舞台设计"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "culture_society_ext_0007",
+      "zh": "这首歌的旋律让我想起家乡的节日。",
+      "en": "The melody reminds me of festivals in my hometown.",
+      "answers": [
+        "The melody reminds me of festivals in my hometown."
+      ],
+      "notes": "remind sb of：使人想起。",
+      "tags": [
+        "文化与社会",
+        "一般现在时",
+        "音乐记忆"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "culture_society_ext_0008",
+      "zh": "翻译保留了大意，却没有完全传达原文的幽默。",
+      "en": "The translation preserves the main meaning but does not fully convey the humour of the original.",
+      "answers": [
+        "The translation preserves the main meaning but does not fully convey the humour of the original.",
+        "The translation preserves the main meaning but doesn't fully convey the humour of the original."
+      ],
+      "notes": "convey humour：传达幽默。",
+      "tags": [
+        "文化与社会",
+        "转折并列句",
+        "翻译体验"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "culture_society_ext_0009",
+      "zh": "我更喜欢能让人物说话方式各不相同的小说。",
+      "en": "I prefer novels in which the characters have distinct ways of speaking.",
+      "answers": [
+        "I prefer novels in which the characters have distinct ways of speaking."
+      ],
+      "notes": "in which 引导定语从句。",
+      "tags": [
+        "文化与社会",
+        "定语从句",
+        "阅读偏好"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "culture_society_ext_0010",
+      "zh": "我们能先讨论作品本身，再谈作者的名气吗？",
+      "en": "Could we discuss the work itself before talking about the author's fame?",
+      "answers": [
+        "Could we discuss the work itself before talking about the author's fame?"
+      ],
+      "notes": "itself 强调作品本身。",
+      "tags": [
+        "文化与社会",
+        "时间从句",
+        "文学讨论"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "culture_society_ext_0011",
+      "zh": "这个纪录片包含了几个彼此不同的视角。",
+      "en": "The documentary includes several contrasting perspectives.",
+      "answers": [
+        "The documentary includes several contrasting perspectives."
+      ],
+      "notes": "contrasting：相互不同或形成对照的。",
+      "tags": [
+        "文化与社会",
+        "陈述句",
+        "纪录片"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "culture_society_ext_0012",
+      "zh": "我不确定字幕是否准确地表达了那句话的语气。",
+      "en": "I am not sure whether the subtitles capture the tone of that line accurately.",
+      "answers": [
+        "I am not sure whether the subtitles capture the tone of that line accurately.",
+        "I'm not sure whether the subtitles capture the tone of that line accurately."
+      ],
+      "notes": "capture the tone：传达语气。",
+      "tags": [
+        "文化与社会",
+        "宾语从句",
+        "影视理解"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "culture_society_ext_0013",
+      "zh": "参观者可以触摸复制品，但不能触摸原件。",
+      "en": "Visitors may touch the replicas but not the originals.",
+      "answers": [
+        "Visitors may touch the replicas but not the originals."
+      ],
+      "notes": "replica：复制品。",
+      "tags": [
+        "文化与社会",
+        "对比结构",
+        "参观规则"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "culture_society_ext_0014",
+      "zh": "这条老街修复后，仍然有一些原来的店主留在这里。",
+      "en": "Some original shopkeepers remain on this street following its restoration.",
+      "answers": [
+        "Some original shopkeepers remain on this street following its restoration."
+      ],
+      "notes": "following 在此表示在……之后。",
+      "tags": [
+        "文化与社会",
+        "时间短语",
+        "街区记忆"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "culture_society_ext_0015",
+      "zh": "社区正在征集老照片，为下个月的展览做准备。",
+      "en": "The community is collecting old photographs for next month's exhibition.",
+      "answers": [
+        "The community is collecting old photographs for next month's exhibition."
+      ],
+      "notes": "collect：征集、收集。",
+      "tags": [
+        "文化与社会",
+        "现在进行时",
+        "社区展览"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "culture_society_ext_0016",
+      "zh": "我想向长辈了解这个习俗小时候是什么样的。",
+      "en": "I want to ask older relatives what this custom was like in their childhood.",
+      "answers": [
+        "I want to ask older relatives what this custom was like in their childhood."
+      ],
+      "notes": "what ... was like：过去是什么样。",
+      "tags": [
+        "文化与社会",
+        "宾语从句",
+        "代际交流"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "culture_society_ext_0017",
+      "zh": "如果你不熟悉餐桌礼仪，可以先观察主人怎么做。",
+      "en": "If you are unfamiliar with table manners, you can first observe what the host does.",
+      "answers": [
+        "If you are unfamiliar with table manners, you can first observe what the host does."
+      ],
+      "notes": "be unfamiliar with：不熟悉。",
+      "tags": [
+        "文化与社会",
+        "条件从句",
+        "跨文化礼仪"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "culture_society_ext_0018",
+      "zh": "这里人们通常提前多久到达社交聚会？",
+      "en": "How early do people usually arrive for social gatherings here?",
+      "answers": [
+        "How early do people usually arrive for social gatherings here?"
+      ],
+      "notes": "how early：提前多久。",
+      "tags": [
+        "文化与社会",
+        "特殊疑问句",
+        "社交习惯"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "culture_society_ext_0019",
+      "zh": "我不想因为一个人的行为，就对整个群体下判断。",
+      "en": "I do not want to judge a whole group by one person's behaviour.",
+      "answers": [
+        "I do not want to judge a whole group by one person's behaviour.",
+        "I don't want to judge a whole group by one person's behaviour."
+      ],
+      "notes": "judge A by B：依据 B 判断 A。",
+      "tags": [
+        "文化与社会",
+        "不定式结构",
+        "文化判断"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "culture_society_ext_0020",
+      "zh": "这份报纸把评论与新闻报道放在不同的栏目里。",
+      "en": "This newspaper separates opinion pieces from news reports in different sections.",
+      "answers": [
+        "This newspaper separates opinion pieces from news reports in different sections."
+      ],
+      "notes": "opinion piece：评论文章。",
+      "tags": [
+        "文化与社会",
+        "一般现在时",
+        "媒体阅读"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "culture_society_ext_0021",
+      "zh": "标题听起来很确定，但正文用了许多表示可能性的词。",
+      "en": "The headline sounds certain, but the article uses many words expressing possibility.",
+      "answers": [
+        "The headline sounds certain, but the article uses many words expressing possibility."
+      ],
+      "notes": "expressing 为分词定语。",
+      "tags": [
+        "文化与社会",
+        "转折并列句",
+        "信息理解"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "culture_society_ext_0022",
+      "zh": "志愿者为第一次来的观众解释活动流程。",
+      "en": "Volunteers explain the programme to first-time visitors.",
+      "answers": [
+        "Volunteers explain the programme to first-time visitors."
+      ],
+      "notes": "explain sth to sb。",
+      "tags": [
+        "文化与社会",
+        "一般现在时",
+        "文化志愿服务"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "culture_society_ext_0023",
+      "zh": "票价包含导览，还是需要另买一张票？",
+      "en": "Does admission include a guided tour, or do I need a separate ticket?",
+      "answers": [
+        "Does admission include a guided tour, or do I need a separate ticket?"
+      ],
+      "notes": "admission：入场费用。",
+      "tags": [
+        "文化与社会",
+        "选择疑问句",
+        "文化活动购票"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "culture_society_ext_0024",
+      "zh": "让我喜欢这个社区的，是不同背景的人都能参与活动。",
+      "en": "What I like about this community is that people from different backgrounds can join its activities.",
+      "answers": [
+        "What I like about this community is that people from different backgrounds can join its activities."
+      ],
+      "notes": "what 从句作主语。",
+      "tags": [
+        "文化与社会",
+        "主语从句",
+        "社区参与"
+      ],
+      "difficulty": 3
+    }
+  ]
+}

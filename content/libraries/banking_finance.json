@@ -1,0 +1,577 @@
+{
+  "schema_version": 1,
+  "id": "banking_finance",
+  "title": "银行与金融精选 · 36 句",
+  "description": "围绕本主题的具体情境组织表达；覆盖请求、说明、比较与复合句，并附逐题用法。",
+  "language": "en-GB",
+  "tags": [
+    "银行与金融",
+    "主题分类",
+    "精选",
+    "逐题讲解"
+  ],
+  "items": [
+    {
+      "zh": "我的账单上有一笔我不认识的扣款。",
+      "en": "There's a charge on my statement that I don't recognise.",
+      "answers": [
+        "There's a charge on my statement that I don't recognise.",
+        "There is a charge on my statement that I do not recognise.",
+        "There's a charge on my statement that I do not recognise."
+      ],
+      "notes": "statement 指账户账单；charge 指一笔收费或扣款，that 从句修饰 charge。",
+      "tags": [
+        "银行与金融",
+        "存在句",
+        "报告异常",
+        "账户账单"
+      ],
+      "difficulty": 2,
+      "id": "banking_finance_001"
+    },
+    {
+      "zh": "这笔转账通常需要多久才能到账？",
+      "en": "How long does this transfer usually take to reach the recipient's account?",
+      "answers": [
+        "How long does this transfer usually take to reach the recipient's account?"
+      ],
+      "notes": "take + 时间 + to do；recipient 表示收款人。",
+      "tags": [
+        "银行与金融",
+        "特殊疑问句",
+        "询问时效",
+        "转账"
+      ],
+      "difficulty": 2,
+      "id": "banking_finance_002"
+    },
+    {
+      "zh": "在我确认付款之前，您能说明全部手续费吗？",
+      "en": "Could you explain all the fees before I confirm the payment?",
+      "answers": [
+        "Could you explain all the fees before I confirm the payment?"
+      ],
+      "notes": "before 引出确认付款的时点；fees 用复数表示各项费用。",
+      "tags": [
+        "银行与金融",
+        "时间从句",
+        "确认费用",
+        "付款"
+      ],
+      "difficulty": 2,
+      "id": "banking_finance_003"
+    },
+    {
+      "zh": "即使余额不足，这笔自动扣款也会继续执行吗？",
+      "en": "Will this direct debit still go through even if my balance is insufficient?",
+      "answers": [
+        "Will this direct debit still go through even if my balance is insufficient?"
+      ],
+      "notes": "go through 表示成功执行；even if 引出假设性让步。",
+      "tags": [
+        "银行与金融",
+        "让步条件疑问句",
+        "了解交易规则",
+        "自动扣款"
+      ],
+      "difficulty": 3,
+      "id": "banking_finance_004"
+    },
+    {
+      "zh": "我想冻结这张卡，因为我找不到它了。",
+      "en": "I'd like to freeze this card because I can't find it.",
+      "answers": [
+        "I'd like to freeze this card because I can't find it.",
+        "I would like to freeze this card because I cannot find it.",
+        "I'd like to freeze this card because I cannot find it."
+      ],
+      "notes": "freeze a card 表示暂停卡的使用；because 说明请求原因。",
+      "tags": [
+        "银行与金融",
+        "原因从句",
+        "请求账户操作",
+        "银行卡"
+      ],
+      "difficulty": 2,
+      "id": "banking_finance_005"
+    },
+    {
+      "zh": "自从设定了每月预算，我就更容易看清钱花在了哪里。",
+      "en": "Since setting a monthly budget, I've found it easier to see where my money goes.",
+      "answers": [
+        "Since setting a monthly budget, I've found it easier to see where my money goes.",
+        "Since setting a monthly budget, I have found it easier to see where my money goes."
+      ],
+      "notes": "find it + 形容词 + to do 中 it 为形式宾语；where 从句说明支出去向。",
+      "tags": [
+        "银行与金融",
+        "现在完成时",
+        "描述理财习惯",
+        "个人预算"
+      ],
+      "difficulty": 3,
+      "id": "banking_finance_006"
+    },
+    {
+      "zh": "我关心的是总还款额，而不只是每月要还多少。",
+      "en": "What matters to me is the total amount repayable, not just the monthly instalment.",
+      "answers": [
+        "What matters to me is the total amount repayable, not just the monthly instalment."
+      ],
+      "notes": "what 从句作主语；amount repayable 指应偿还总额。",
+      "tags": [
+        "银行与金融",
+        "主语从句",
+        "比较贷款成本",
+        "借款"
+      ],
+      "difficulty": 4,
+      "id": "banking_finance_007"
+    },
+    {
+      "zh": "如果我提前还清贷款，是否需要支付额外费用？",
+      "en": "Would I have to pay an extra fee if I repaid the loan early?",
+      "answers": [
+        "Would I have to pay an extra fee if I repaid the loan early?"
+      ],
+      "notes": "would 搭配 if + 过去式，礼貌询问假设情境；repay 表示偿还。",
+      "tags": [
+        "银行与金融",
+        "虚拟条件疑问句",
+        "确认合同费用",
+        "提前还款"
+      ],
+      "difficulty": 3,
+      "id": "banking_finance_008"
+    },
+    {
+      "zh": "这张收据显示付款成功，但商家说还没有收到钱。",
+      "en": "The receipt shows that the payment went through, but the merchant says the funds haven't arrived.",
+      "answers": [
+        "The receipt shows that the payment went through, but the merchant says the funds haven't arrived.",
+        "The receipt shows that the payment went through, but the merchant says the funds have not arrived."
+      ],
+      "notes": "went through 表示交易已完成；资金未到账用现在完成时。",
+      "tags": [
+        "银行与金融",
+        "转折并列句",
+        "说明支付争议",
+        "交易核查"
+      ],
+      "difficulty": 3,
+      "id": "banking_finance_009"
+    },
+    {
+      "zh": "请把新的通讯地址更新到我的账户里。",
+      "en": "Please update the mailing address on my account.",
+      "answers": [
+        "Please update the mailing address on my account."
+      ],
+      "notes": "update + 宾语表示更新；on my account 指账户记录上的信息。",
+      "tags": [
+        "银行与金融",
+        "祈使句",
+        "更新资料",
+        "账户维护"
+      ],
+      "difficulty": 1,
+      "id": "banking_finance_010"
+    },
+    {
+      "zh": "与其只看宣传的利率，我更想了解这项产品有哪些限制。",
+      "en": "Rather than focus only on the advertised interest rate, I'd like to understand the restrictions on this product.",
+      "answers": [
+        "Rather than focus only on the advertised interest rate, I'd like to understand the restrictions on this product."
+      ],
+      "notes": "advertised 是过去分词定语；restrictions on 表示针对某产品的限制。",
+      "tags": [
+        "银行与金融",
+        "对比结构",
+        "索取产品信息",
+        "金融产品"
+      ],
+      "difficulty": 3,
+      "id": "banking_finance_011"
+    },
+    {
+      "zh": "能否给我一份书面确认，说明这项定期付款已经取消？",
+      "en": "Could I have written confirmation that this recurring payment has been cancelled?",
+      "answers": [
+        "Could I have written confirmation that this recurring payment has been cancelled?"
+      ],
+      "notes": "that 从句说明 confirmation 的内容；has been cancelled 是现在完成时被动。",
+      "tags": [
+        "银行与金融",
+        "同位语从句",
+        "请求凭证",
+        "取消付款"
+      ],
+      "difficulty": 3,
+      "id": "banking_finance_012"
+    },
+    {
+      "id": "banking_finance_ext_0001",
+      "zh": "我需要开一个不用保持最低余额的账户。",
+      "en": "I need an account without a minimum balance requirement.",
+      "answers": [
+        "I need an account without a minimum balance requirement."
+      ],
+      "notes": "minimum balance：最低余额。",
+      "tags": [
+        "银行与金融",
+        "介词修饰",
+        "开户需求"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "banking_finance_ext_0002",
+      "zh": "这张卡在国外使用时会收取货币兑换费吗？",
+      "en": "Will this card incur a currency conversion fee when used abroad?",
+      "answers": [
+        "Will this card incur a currency conversion fee when used abroad?"
+      ],
+      "notes": "incur a fee：产生费用。",
+      "tags": [
+        "银行与金融",
+        "省略状语从句",
+        "境外支付"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "banking_finance_ext_0003",
+      "zh": "收款人的名字和账户上的名字必须完全一致吗？",
+      "en": "Does the recipient's name have to match the account name exactly?",
+      "answers": [
+        "Does the recipient's name have to match the account name exactly?"
+      ],
+      "notes": "match exactly：完全一致。",
+      "tags": [
+        "银行与金融",
+        "一般疑问句",
+        "收款人核对"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "banking_finance_ext_0004",
+      "zh": "我输错了转账金额，这笔交易还能撤回吗？",
+      "en": "I entered the wrong transfer amount; can the transaction still be reversed?",
+      "answers": [
+        "I entered the wrong transfer amount; can the transaction still be reversed?"
+      ],
+      "notes": "reverse a transaction：撤销交易。",
+      "tags": [
+        "银行与金融",
+        "被动疑问句",
+        "交易撤回"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "banking_finance_ext_0005",
+      "zh": "为什么这笔付款仍显示为待处理？",
+      "en": "Why is this payment still showing as pending?",
+      "answers": [
+        "Why is this payment still showing as pending?"
+      ],
+      "notes": "pending：待处理的。",
+      "tags": [
+        "银行与金融",
+        "进行时疑问句",
+        "交易状态"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "banking_finance_ext_0006",
+      "zh": "请将每日转账限额调低。",
+      "en": "Please lower my daily transfer limit.",
+      "answers": [
+        "Please lower my daily transfer limit."
+      ],
+      "notes": "lower 可作及物动词。",
+      "tags": [
+        "银行与金融",
+        "祈使句",
+        "账户限额"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "banking_finance_ext_0007",
+      "zh": "自动取款机没有吐出现金，却显示已经扣款。",
+      "en": "The cash machine did not dispense any money, but my account shows a debit.",
+      "answers": [
+        "The cash machine did not dispense any money, but my account shows a debit.",
+        "The cash machine didn't dispense any money, but my account shows a debit."
+      ],
+      "notes": "dispense cash：吐出现金。",
+      "tags": [
+        "银行与金融",
+        "转折并列句",
+        "取款故障"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "banking_finance_ext_0008",
+      "zh": "我能在手机上下载上个月的对账单吗？",
+      "en": "Can I download last month's statement on my phone?",
+      "answers": [
+        "Can I download last month's statement on my phone?"
+      ],
+      "notes": "statement：对账单。",
+      "tags": [
+        "银行与金融",
+        "一般疑问句",
+        "账单下载"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "banking_finance_ext_0009",
+      "zh": "这张支票需要多久才能完成清算？",
+      "en": "How long will this cheque take to clear?",
+      "answers": [
+        "How long will this cheque take to clear?"
+      ],
+      "notes": "clear：完成支票清算。",
+      "tags": [
+        "银行与金融",
+        "特殊疑问句",
+        "支票"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "banking_finance_ext_0010",
+      "zh": "通知说验证失败，但没有指出哪项信息有误。",
+      "en": "The notice says verification failed without identifying which information was incorrect.",
+      "answers": [
+        "The notice says verification failed without identifying which information was incorrect."
+      ],
+      "notes": "identify：指出、确认。",
+      "tags": [
+        "银行与金融",
+        "宾语从句",
+        "身份核验"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "banking_finance_ext_0011",
+      "zh": "我想为房租设置每月固定转账。",
+      "en": "I would like to set up a monthly standing order for the rent.",
+      "answers": [
+        "I would like to set up a monthly standing order for the rent.",
+        "I'd like to set up a monthly standing order for the rent."
+      ],
+      "notes": "standing order：定期定额转账指令。",
+      "tags": [
+        "银行与金融",
+        "请求表达",
+        "定期转账"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "banking_finance_ext_0012",
+      "zh": "更换银行卡之后，我需要重新设置哪些付款？",
+      "en": "Which payments do I need to update after replacing my card?",
+      "answers": [
+        "Which payments do I need to update after replacing my card?"
+      ],
+      "notes": "after doing：在做某事之后。",
+      "tags": [
+        "银行与金融",
+        "时间疑问句",
+        "换卡"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "banking_finance_ext_0013",
+      "zh": "您能解释账面余额和可用余额为什么不同吗？",
+      "en": "Could you explain why my ledger balance differs from my available balance?",
+      "answers": [
+        "Could you explain why my ledger balance differs from my available balance?"
+      ],
+      "notes": "differ from：与……不同。",
+      "tags": [
+        "银行与金融",
+        "间接疑问句",
+        "余额理解"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "banking_finance_ext_0014",
+      "zh": "这笔临时预授权预计什么时候解除？",
+      "en": "When is this temporary authorisation hold expected to be released?",
+      "answers": [
+        "When is this temporary authorisation hold expected to be released?"
+      ],
+      "notes": "authorisation hold：预授权冻结。",
+      "tags": [
+        "银行与金融",
+        "被动疑问句",
+        "预授权"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "banking_finance_ext_0015",
+      "zh": "我收到一条要求提供验证码的信息，想核实是不是银行发的。",
+      "en": "I received a request for a verification code and want to check whether it came from the bank.",
+      "answers": [
+        "I received a request for a verification code and want to check whether it came from the bank."
+      ],
+      "notes": "whether：是否，核对来源。",
+      "tags": [
+        "银行与金融",
+        "宾语从句",
+        "信息核实"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "banking_finance_ext_0016",
+      "zh": "在确认收款人之前，我不会再次付款。",
+      "en": "I will not make another payment until the recipient has been verified.",
+      "answers": [
+        "I will not make another payment until the recipient has been verified.",
+        "I'll not make another payment until the recipient has been verified."
+      ],
+      "notes": "not ... until：直到……才。",
+      "tags": [
+        "银行与金融",
+        "时间从句",
+        "付款核对"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "banking_finance_ext_0017",
+      "zh": "我们想开联名账户，但需要了解各自的操作权限。",
+      "en": "We want a joint account but need to understand each person's authority to use it.",
+      "answers": [
+        "We want a joint account but need to understand each person's authority to use it."
+      ],
+      "notes": "joint account：联名账户。",
+      "tags": [
+        "银行与金融",
+        "转折并列句",
+        "账户权限"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "banking_finance_ext_0018",
+      "zh": "这项优惠利率会持续多久？",
+      "en": "How long will this promotional interest rate last?",
+      "answers": [
+        "How long will this promotional interest rate last?"
+      ],
+      "notes": "promotional rate：优惠期利率。",
+      "tags": [
+        "银行与金融",
+        "特殊疑问句",
+        "利率期限"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "banking_finance_ext_0019",
+      "zh": "如果利率上调，我的月供会如何变化？",
+      "en": "How would my monthly repayments change if the interest rate increased?",
+      "answers": [
+        "How would my monthly repayments change if the interest rate increased?"
+      ],
+      "notes": "would 配合 if 过去式。",
+      "tags": [
+        "银行与金融",
+        "虚拟条件句",
+        "浮动利率"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "banking_finance_ext_0020",
+      "zh": "我希望把到期日调整到发薪日之后。",
+      "en": "I would like to move the due date to after payday.",
+      "answers": [
+        "I would like to move the due date to after payday.",
+        "I'd like to move the due date to after payday."
+      ],
+      "notes": "due date：应付款日期。",
+      "tags": [
+        "银行与金融",
+        "请求表达",
+        "还款安排"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "banking_finance_ext_0021",
+      "zh": "我可以把收据作为这笔支出的证明吗？",
+      "en": "Can I use the receipt as evidence of this expense?",
+      "answers": [
+        "Can I use the receipt as evidence of this expense?"
+      ],
+      "notes": "use A as B：用作证明。",
+      "tags": [
+        "银行与金融",
+        "一般疑问句",
+        "费用凭证"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "banking_finance_ext_0022",
+      "zh": "这项服务按每笔交易收费，还是收取固定月费？",
+      "en": "Does this service charge per transaction or apply a fixed monthly fee?",
+      "answers": [
+        "Does this service charge per transaction or apply a fixed monthly fee?"
+      ],
+      "notes": "per transaction：按每笔交易。",
+      "tags": [
+        "银行与金融",
+        "选择疑问句",
+        "计费方式"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "banking_finance_ext_0023",
+      "zh": "预算里要留出一部分钱，应付不定期发生的开销。",
+      "en": "Part of the budget needs to be set aside for irregular expenses.",
+      "answers": [
+        "Part of the budget needs to be set aside for irregular expenses."
+      ],
+      "notes": "set aside：预留。",
+      "tags": [
+        "银行与金融",
+        "被动语态",
+        "预算安排"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "banking_finance_ext_0024",
+      "zh": "关闭账户之前，请确认所有待处理交易都已完成。",
+      "en": "Before closing the account, please confirm that all pending transactions have been completed.",
+      "answers": [
+        "Before closing the account, please confirm that all pending transactions have been completed."
+      ],
+      "notes": "have been completed：已完成。",
+      "tags": [
+        "银行与金融",
+        "时间从句",
+        "销户"
+      ],
+      "difficulty": 3
+    }
+  ]
+}

@@ -1,0 +1,1005 @@
+{
+  "schema_version": 1,
+  "id": "ielts_environment",
+  "title": "雅思·环境与气候精选 · 64 句",
+  "description": "围绕本主题练习论点、理由、条件、让步与政策评价；中英对照及逐题讲解，难度 3–5。",
+  "language": "en-GB",
+  "tags": [
+    "环境与气候",
+    "IELTS",
+    "精选",
+    "逐题讲解"
+  ],
+  "items": [
+    {
+      "zh": "即使每个家庭都认真分类垃圾，没有合适的处理设施，回收也难以奏效。",
+      "en": "Even if every household sorts its waste carefully, recycling is unlikely to work without suitable processing facilities.",
+      "answers": [
+        "Even if every household sorts its waste carefully, recycling is unlikely to work without suitable processing facilities."
+      ],
+      "notes": "even if 提出假设性让步；without 补充制度条件，区分个人行为与系统能力。",
+      "tags": [
+        "环境与气候",
+        "让步条件句",
+        "限定措施效果",
+        "垃圾回收"
+      ],
+      "difficulty": 4,
+      "id": "ielts_0501"
+    },
+    {
+      "zh": "湿地被排干后，附近的社区可能更容易遭受洪水。",
+      "en": "Once wetlands have been drained, nearby communities may become more vulnerable to flooding.",
+      "answers": [
+        "Once wetlands have been drained, nearby communities may become more vulnerable to flooding."
+      ],
+      "notes": "once 引导时间从句；be vulnerable to 后接名词或动名词。",
+      "tags": [
+        "环境与气候",
+        "时间从句",
+        "说明生态后果",
+        "湿地保护"
+      ],
+      "difficulty": 4,
+      "id": "ielts_0502"
+    },
+    {
+      "zh": "对污染征税的目的，是让价格反映原本由公众承担的成本。",
+      "en": "The purpose of taxing pollution is to make prices reflect costs that would otherwise be borne by the public.",
+      "answers": [
+        "The purpose of taxing pollution is to make prices reflect costs that would otherwise be borne by the public."
+      ],
+      "notes": "make + 宾语 + 动词原形；otherwise 表示若不如此，borne 是 bear 的过去分词。",
+      "tags": [
+        "环境与气候",
+        "表语不定式",
+        "解释政策机制",
+        "污染税"
+      ],
+      "difficulty": 4,
+      "id": "ielts_0503"
+    },
+    {
+      "zh": "与禁止所有塑料制品相比，减少不必要的包装可能更容易实施。",
+      "en": "Reducing unnecessary packaging may be easier to implement than banning all plastic products.",
+      "answers": [
+        "Reducing unnecessary packaging may be easier to implement than banning all plastic products."
+      ],
+      "notes": "用两个动名词短语比较可实施性；比较的是措施，不是塑料与包装本身。",
+      "tags": [
+        "环境与气候",
+        "比较结构",
+        "比较解决方案",
+        "塑料污染"
+      ],
+      "difficulty": 3,
+      "id": "ielts_0504"
+    },
+    {
+      "zh": "森林的价值不仅在于储存碳，还在于为众多物种提供栖息地。",
+      "en": "Forests are valuable not only because they store carbon but also because they provide habitats for numerous species.",
+      "answers": [
+        "Forests are valuable not only because they store carbon but also because they provide habitats for numerous species."
+      ],
+      "notes": "not only because ... but also because ... 保持原因从句平行。",
+      "tags": [
+        "环境与气候",
+        "平行原因从句",
+        "补充论据",
+        "生物多样性"
+      ],
+      "difficulty": 4,
+      "id": "ielts_0505"
+    },
+    {
+      "zh": "除非替代交通方式足够可靠，否则提高停车费可能只会增加通勤者的负担。",
+      "en": "Unless alternative transport is reliable enough, higher parking charges may simply place an additional burden on commuters.",
+      "answers": [
+        "Unless alternative transport is reliable enough, higher parking charges may simply place an additional burden on commuters."
+      ],
+      "notes": "unless 表示如果不；place a burden on sb 指增加负担。",
+      "tags": [
+        "环境与气候",
+        "条件从句",
+        "指出政策前提",
+        "低碳出行"
+      ],
+      "difficulty": 4,
+      "id": "ielts_0506"
+    },
+    {
+      "zh": "曾经依赖煤矿的城镇需要新的就业机会，才能支持能源转型。",
+      "en": "Towns that once depended on coal mining need new employment opportunities to support the energy transition.",
+      "answers": [
+        "Towns that once depended on coal mining need new employment opportunities to support the energy transition."
+      ],
+      "notes": "that 从句界定特定城镇；to support 说明目的。",
+      "tags": [
+        "环境与气候",
+        "定语从句",
+        "提出配套措施",
+        "能源转型"
+      ],
+      "difficulty": 3,
+      "id": "ielts_0507"
+    },
+    {
+      "zh": "虽然电动汽车没有尾气排放，其环境影响仍取决于电力的来源。",
+      "en": "Although electric cars produce no exhaust emissions, their environmental impact still depends on how the electricity is generated.",
+      "answers": [
+        "Although electric cars produce no exhaust emissions, their environmental impact still depends on how the electricity is generated."
+      ],
+      "notes": "although 承认优势后限定结论；how 引导介词 on 的宾语从句。",
+      "tags": [
+        "环境与气候",
+        "让步从句",
+        "全面评估",
+        "电动汽车"
+      ],
+      "difficulty": 4,
+      "id": "ielts_0508"
+    },
+    {
+      "zh": "让产品更容易维修，可以在它们进入回收系统之前延长使用寿命。",
+      "en": "Making products easier to repair can extend their useful life before they enter the recycling system.",
+      "answers": [
+        "Making products easier to repair can extend their useful life before they enter the recycling system."
+      ],
+      "notes": "make + 宾语 + 形容词；before 说明维修与回收的先后次序。",
+      "tags": [
+        "环境与气候",
+        "动名词主语",
+        "解释作用路径",
+        "循环经济"
+      ],
+      "difficulty": 3,
+      "id": "ielts_0509"
+    },
+    {
+      "zh": "仅靠植树无法弥补对现有原始森林的持续破坏。",
+      "en": "Planting trees alone cannot compensate for the continued destruction of existing primary forests.",
+      "answers": [
+        "Planting trees alone cannot compensate for the continued destruction of existing primary forests."
+      ],
+      "notes": "alone 限定措施范围；compensate for 表示弥补。",
+      "tags": [
+        "环境与气候",
+        "范围限定",
+        "反驳过度推论",
+        "森林保护"
+      ],
+      "difficulty": 3,
+      "id": "ielts_0510"
+    },
+    {
+      "zh": "如果水价完全不反映供水成本，节水的动力就可能不足。",
+      "en": "If water prices failed to reflect supply costs at all, there might be little incentive to conserve water.",
+      "answers": [
+        "If water prices failed to reflect supply costs at all, there might be little incentive to conserve water."
+      ],
+      "notes": "过去式条件从句搭配 might，讨论假设；incentive to do 表示做某事的动力。",
+      "tags": [
+        "环境与气候",
+        "虚拟条件句",
+        "解释价格机制",
+        "水资源"
+      ],
+      "difficulty": 4,
+      "id": "ielts_0511"
+    },
+    {
+      "zh": "城市种植的树木越多，也不一定意味着每个街区都能得到同样的遮阴。",
+      "en": "A larger number of urban trees does not necessarily mean that every neighbourhood receives equal shade.",
+      "answers": [
+        "A larger number of urban trees does not necessarily mean that every neighbourhood receives equal shade."
+      ],
+      "notes": "not necessarily 避免绝对化；用数量与分配的区别推进论证。",
+      "tags": [
+        "环境与气候",
+        "宾语从句",
+        "区分总量与分配",
+        "城市绿化"
+      ],
+      "difficulty": 3,
+      "id": "ielts_0512"
+    },
+    {
+      "zh": "为了减少食物浪费，超市可以对接近保质期的商品打折。",
+      "en": "To reduce food waste, supermarkets could discount products that are approaching their use-by dates.",
+      "answers": [
+        "To reduce food waste, supermarkets could discount products that are approaching their use-by dates."
+      ],
+      "notes": "句首不定式说明目的；use-by date 指安全食用期限。",
+      "tags": [
+        "环境与气候",
+        "目的状语",
+        "提出具体措施",
+        "食物浪费"
+      ],
+      "difficulty": 3,
+      "id": "ielts_0513"
+    },
+    {
+      "zh": "只有在排放得到准确监测时，减排目标才有实际意义。",
+      "en": "Only if emissions are measured accurately do reduction targets have practical meaning.",
+      "answers": [
+        "Only if emissions are measured accurately do reduction targets have practical meaning."
+      ],
+      "notes": "only if 前置引起主句 do 倒装；准确计量是评价目标的必要条件。",
+      "tags": [
+        "环境与气候",
+        "倒装",
+        "提出必要条件",
+        "碳排放核算"
+      ],
+      "difficulty": 5,
+      "id": "ielts_0514"
+    },
+    {
+      "zh": "保护海洋需要国际合作，因为鱼群和污染物都会跨越国界。",
+      "en": "Marine conservation requires international cooperation, since both fish populations and pollutants cross national borders.",
+      "answers": [
+        "Marine conservation requires international cooperation, since both fish populations and pollutants cross national borders."
+      ],
+      "notes": "since 引导原因从句；both A and B 并列主语搭配复数谓语。",
+      "tags": [
+        "环境与气候",
+        "原因从句",
+        "解释合作必要性",
+        "海洋保护"
+      ],
+      "difficulty": 3,
+      "id": "ielts_0515"
+    },
+    {
+      "zh": "被过度抽取的地下水可能需要几十年才能恢复。",
+      "en": "Groundwater that has been overextracted may take decades to recover.",
+      "answers": [
+        "Groundwater that has been overextracted may take decades to recover."
+      ],
+      "notes": "定语从句使用现在完成时被动语态；take + 时间 + to do 表示恢复所需时长。",
+      "tags": [
+        "环境与气候",
+        "定语从句",
+        "说明长期代价",
+        "地下水"
+      ],
+      "difficulty": 4,
+      "id": "ielts_0516"
+    },
+    {
+      "zh": "企业不应因为包装看起来环保就声称产品可持续。",
+      "en": "Companies should not claim that a product is sustainable merely because its packaging looks environmentally friendly.",
+      "answers": [
+        "Companies should not claim that a product is sustainable merely because its packaging looks environmentally friendly."
+      ],
+      "notes": "not ... merely because ... 否定论据的充分性；claim 后接 that 从句。",
+      "tags": [
+        "环境与气候",
+        "原因限定",
+        "审视宣传依据",
+        "绿色营销"
+      ],
+      "difficulty": 4,
+      "id": "ielts_0517"
+    },
+    {
+      "zh": "风电和太阳能的出力会波动，因此电网也需要储能和灵活调度能力。",
+      "en": "Wind and solar output fluctuates, so electricity grids also need storage and flexible management.",
+      "answers": [
+        "Wind and solar output fluctuates, so electricity grids also need storage and flexible management."
+      ],
+      "notes": "so 连接因果分句；output 为不可数名词，谓语用 fluctuates。",
+      "tags": [
+        "环境与气候",
+        "因果并列句",
+        "连接问题与配套措施",
+        "可再生能源"
+      ],
+      "difficulty": 3,
+      "id": "ielts_0518"
+    },
+    {
+      "zh": "与其等洪水发生后再重建，不如提前保护河流的自然蓄洪空间。",
+      "en": "Rather than wait to rebuild after a flood, authorities should protect natural floodplains in advance.",
+      "answers": [
+        "Rather than wait to rebuild after a flood, authorities should protect natural floodplains in advance."
+      ],
+      "notes": "rather than wait 与 should protect 平行；in advance 表示事先。",
+      "tags": [
+        "环境与气候",
+        "对比结构",
+        "比较预防与补救",
+        "洪水治理"
+      ],
+      "difficulty": 4,
+      "id": "ielts_0519"
+    },
+    {
+      "zh": "当地居民是否支持保护区，往往取决于他们能否从中获得合理收益。",
+      "en": "Whether local residents support a protected area often depends on their receiving a fair share of its benefits.",
+      "answers": [
+        "Whether local residents support a protected area often depends on their receiving a fair share of its benefits."
+      ],
+      "notes": "whether 从句作主语；their receiving 为动名词结构，表示居民获得收益这件事。",
+      "tags": [
+        "环境与气候",
+        "主语从句",
+        "解释公众支持",
+        "自然保护区"
+      ],
+      "difficulty": 5,
+      "id": "ielts_0520"
+    },
+    {
+      "zh": "减少肉类消费是一种选择，但不同地区获得替代食品的条件并不相同。",
+      "en": "Eating less meat is one option, but access to alternative foods varies across regions.",
+      "answers": [
+        "Eating less meat is one option, but access to alternative foods varies across regions."
+      ],
+      "notes": "动名词短语作主语；access to 表示获取条件，varies 与不可数主语 access 一致。",
+      "tags": [
+        "环境与气候",
+        "转折并列句",
+        "考虑地区差异",
+        "可持续饮食"
+      ],
+      "difficulty": 3,
+      "id": "ielts_0521"
+    },
+    {
+      "zh": "既然已有防洪预警，就应向居民提供清晰、可执行的指示。",
+      "en": "Given that a flood warning has been issued, residents should receive clear instructions they can act on.",
+      "answers": [
+        "Given that a flood warning has been issued, residents should receive clear instructions they can act on."
+      ],
+      "notes": "given that 表示鉴于；act on instructions 表示按指示行动，定语从句省略关系代词。",
+      "tags": [
+        "环境与气候",
+        "前提从句",
+        "提出应对行动",
+        "灾害预警"
+      ],
+      "difficulty": 4,
+      "id": "ielts_0522"
+    },
+    {
+      "zh": "一项要求人们节能的政策，如果没有帮助他们改善住宅保温，就可能收效有限。",
+      "en": "A policy that asks people to save energy may achieve little if it offers no help with home insulation.",
+      "answers": [
+        "A policy that asks people to save energy may achieve little if it offers no help with home insulation."
+      ],
+      "notes": "that 从句描述政策；if 从句指出政策工具的缺口。",
+      "tags": [
+        "环境与气候",
+        "嵌套从句",
+        "评价实施条件",
+        "住宅节能"
+      ],
+      "difficulty": 4,
+      "id": "ielts_0523"
+    },
+    {
+      "zh": "如果当初保留了沿岸植被，风暴造成的部分损失或许可以避免。",
+      "en": "Some storm damage might have been avoided if coastal vegetation had been preserved.",
+      "answers": [
+        "Some storm damage might have been avoided if coastal vegetation had been preserved."
+      ],
+      "notes": "might have been avoided 为过去虚拟的被动形式；避免把推测写成确定事实。",
+      "tags": [
+        "环境与气候",
+        "过去虚拟条件句",
+        "反思防灾措施",
+        "沿岸生态"
+      ],
+      "difficulty": 5,
+      "id": "ielts_0524"
+    },
+    {
+      "id": "ielts_environment_ext_0001",
+      "zh": "农业用水效率提高后，还需要限制总取水量，才能避免种植面积扩大抵消节水收益。",
+      "en": "Improvements in irrigation efficiency need to be accompanied by limits on total extraction if expansion of farmland is not to cancel out water savings.",
+      "answers": [
+        "Improvements in irrigation efficiency need to be accompanied by limits on total extraction if expansion of farmland is not to cancel out water savings.",
+        "Improvements in irrigation efficiency need to be accompanied by limits on total extraction if expansion of farmland isn't to cancel out water savings."
+      ],
+      "notes": "be accompanied by：配套实施；cancel out：抵消。",
+      "tags": [
+        "环境与气候",
+        "条件从句",
+        "农业用水"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "ielts_environment_ext_0002",
+      "zh": "依赖单一作物的农场可能更容易受到病虫害的冲击。",
+      "en": "Farms dependent on a single crop may be more exposed to pests and disease.",
+      "answers": [
+        "Farms dependent on a single crop may be more exposed to pests and disease."
+      ],
+      "notes": "dependent on 作后置修饰。",
+      "tags": [
+        "环境与气候",
+        "形容词定语",
+        "农业多样性"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_environment_ext_0003",
+      "zh": "长期使用某些农药可能影响附近的授粉昆虫，进而影响其他作物。",
+      "en": "Prolonged use of certain pesticides may harm nearby pollinators and, in turn, affect other crops.",
+      "answers": [
+        "Prolonged use of certain pesticides may harm nearby pollinators and, in turn, affect other crops."
+      ],
+      "notes": "in turn：继而，连接后续影响。",
+      "tags": [
+        "环境与气候",
+        "因果链条",
+        "授粉昆虫"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_environment_ext_0004",
+      "zh": "保护土壤不仅是保持土地肥沃，也关系到未来能否稳定生产粮食。",
+      "en": "Soil protection concerns future food security as well as the maintenance of fertile land.",
+      "answers": [
+        "Soil protection concerns future food security as well as the maintenance of fertile land."
+      ],
+      "notes": "as well as 连接两个名词短语。",
+      "tags": [
+        "环境与气候",
+        "平行结构",
+        "土壤保护"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_environment_ext_0005",
+      "zh": "当牧场扩张以砍伐森林为代价时，肉类价格可能没有体现完整的环境成本。",
+      "en": "Meat prices may omit significant environmental costs when pasture expands at the expense of forests.",
+      "answers": [
+        "Meat prices may omit significant environmental costs when pasture expands at the expense of forests."
+      ],
+      "notes": "at the expense of：以牺牲某事为代价。",
+      "tags": [
+        "环境与气候",
+        "时间条件从句",
+        "土地利用"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_environment_ext_0006",
+      "zh": "缩短食品运输距离并不一定减少总排放，因为生产方式同样重要。",
+      "en": "Shorter food supply chains do not always mean lower total emissions, because production methods also matter.",
+      "answers": [
+        "Shorter food supply chains do not always mean lower total emissions, because production methods also matter.",
+        "Shorter food supply chains don't always mean lower total emissions, because production methods also matter."
+      ],
+      "notes": "not always：不总是，避免绝对推论。",
+      "tags": [
+        "环境与气候",
+        "原因从句",
+        "食品足迹"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_environment_ext_0007",
+      "zh": "耐旱作物能够帮助农民适应缺水，但不能解决所有灌溉管理问题。",
+      "en": "Drought-resistant crops can help farmers adapt to water scarcity without resolving every irrigation management problem.",
+      "answers": [
+        "Drought-resistant crops can help farmers adapt to water scarcity without resolving every irrigation management problem."
+      ],
+      "notes": "adapt to 后接名词或动名词。",
+      "tags": [
+        "环境与气候",
+        "让步表达",
+        "气候适应"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_environment_ext_0008",
+      "zh": "只有农民能承担转型期间的成本，环保耕作方式才更可能被广泛采用。",
+      "en": "Environmentally sound farming is more likely to spread when farmers can afford the costs of transition.",
+      "answers": [
+        "Environmentally sound farming is more likely to spread when farmers can afford the costs of transition."
+      ],
+      "notes": "afford the costs：负担费用。",
+      "tags": [
+        "环境与气候",
+        "条件表达",
+        "农业转型"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_environment_ext_0009",
+      "zh": "保护野生动物迁徙路线，可能需要多个行政区域共同规划。",
+      "en": "Protecting wildlife migration routes may require coordinated planning across administrative boundaries.",
+      "answers": [
+        "Protecting wildlife migration routes may require coordinated planning across administrative boundaries."
+      ],
+      "notes": "across boundaries：跨越边界。",
+      "tags": [
+        "环境与气候",
+        "动名词主语",
+        "生态廊道"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_environment_ext_0010",
+      "zh": "野生动物数量回升，并不意味着它们的栖息地已经恢复健康。",
+      "en": "A recovery in wildlife numbers does not necessarily indicate that their habitats are healthy again.",
+      "answers": [
+        "A recovery in wildlife numbers does not necessarily indicate that their habitats are healthy again.",
+        "A recovery in wildlife numbers doesn't necessarily indicate that their habitats are healthy again."
+      ],
+      "notes": "does not necessarily indicate：并不必然表明。",
+      "tags": [
+        "环境与气候",
+        "宾语从句",
+        "生态指标"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_environment_ext_0011",
+      "zh": "外来物种一旦在当地扎根，清除它们可能既昂贵又困难。",
+      "en": "Once an invasive species becomes established, removing it can be both costly and difficult.",
+      "answers": [
+        "Once an invasive species becomes established, removing it can be both costly and difficult."
+      ],
+      "notes": "become established：稳定繁衍；species 单复数同形。",
+      "tags": [
+        "环境与气候",
+        "时间从句",
+        "入侵物种"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_environment_ext_0012",
+      "zh": "靠近自然保护区的旅游开发，应考虑游客数量而不只是酒店收入。",
+      "en": "Tourism development near nature reserves should consider visitor numbers rather than hotel revenue alone.",
+      "answers": [
+        "Tourism development near nature reserves should consider visitor numbers rather than hotel revenue alone."
+      ],
+      "notes": "rather than 对比评价依据。",
+      "tags": [
+        "环境与气候",
+        "对比结构",
+        "生态旅游"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_environment_ext_0013",
+      "zh": "游客愿意为看野生动物付费，可以为保护工作创造收入，但也需要管理干扰。",
+      "en": "Visitors' willingness to pay for wildlife viewing can fund conservation, though disturbance still needs to be managed.",
+      "answers": [
+        "Visitors' willingness to pay for wildlife viewing can fund conservation, though disturbance still needs to be managed."
+      ],
+      "notes": "willingness to do：做某事的意愿。",
+      "tags": [
+        "环境与气候",
+        "让步从句",
+        "野生动物旅游"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_environment_ext_0014",
+      "zh": "将动物放归野外之前，必须评估当地是否仍有适合它们生存的条件。",
+      "en": "Before animals are released into the wild, local conditions must be assessed for their suitability.",
+      "answers": [
+        "Before animals are released into the wild, local conditions must be assessed for their suitability."
+      ],
+      "notes": "be assessed for：就某方面接受评估。",
+      "tags": [
+        "环境与气候",
+        "被动语态",
+        "物种恢复"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_environment_ext_0015",
+      "zh": "捕捞限制若只针对一片海域，渔船可能转向缺乏监管的水域。",
+      "en": "Fishing restrictions in one area may simply shift activity to waters with weaker oversight.",
+      "answers": [
+        "Fishing restrictions in one area may simply shift activity to waters with weaker oversight."
+      ],
+      "notes": "shift A to B：把活动转移到另一处。",
+      "tags": [
+        "环境与气候",
+        "情态表达",
+        "渔业监管"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_environment_ext_0016",
+      "zh": "废弃渔网可能在被遗弃很久之后，仍不断困住海洋动物。",
+      "en": "Discarded fishing nets can continue trapping marine animals long after they have been abandoned.",
+      "answers": [
+        "Discarded fishing nets can continue trapping marine animals long after they have been abandoned."
+      ],
+      "notes": "continue doing；long after：很久之后。",
+      "tags": [
+        "环境与气候",
+        "时间从句",
+        "海洋垃圾"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_environment_ext_0017",
+      "zh": "冰川退缩既改变景观，也可能影响依赖融水的社区。",
+      "en": "Glacier retreat changes landscapes and may also affect communities that rely on meltwater.",
+      "answers": [
+        "Glacier retreat changes landscapes and may also affect communities that rely on meltwater."
+      ],
+      "notes": "rely on：依赖；meltwater 指融化产生的水。",
+      "tags": [
+        "环境与气候",
+        "定语从句",
+        "冰川变化"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_environment_ext_0018",
+      "zh": "沿海地区的建筑标准，应考虑未来的海平面而不是只参考过去的风暴记录。",
+      "en": "Coastal building standards should account for future sea levels instead of relying solely on historical storm records.",
+      "answers": [
+        "Coastal building standards should account for future sea levels instead of relying solely on historical storm records."
+      ],
+      "notes": "account for：把某因素考虑在内。",
+      "tags": [
+        "环境与气候",
+        "对比结构",
+        "沿海适应"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_environment_ext_0019",
+      "zh": "当保险越来越难以负担时，一些家庭可能无法继续住在高风险地区。",
+      "en": "As insurance becomes less affordable, some households may be unable to remain in high-risk areas.",
+      "answers": [
+        "As insurance becomes less affordable, some households may be unable to remain in high-risk areas."
+      ],
+      "notes": "as 表示伴随变化的过程。",
+      "tags": [
+        "环境与气候",
+        "伴随从句",
+        "气候保险"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_environment_ext_0020",
+      "zh": "受气候变化影响最大的社区，未必是历史排放最多的社区。",
+      "en": "Communities facing the greatest climate impacts are not necessarily those responsible for the highest historical emissions.",
+      "answers": [
+        "Communities facing the greatest climate impacts are not necessarily those responsible for the highest historical emissions.",
+        "Communities facing the greatest climate impacts aren't necessarily those responsible for the highest historical emissions."
+      ],
+      "notes": "those 代指 communities，避免重复。",
+      "tags": [
+        "环境与气候",
+        "比较对照",
+        "气候公平"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_environment_ext_0021",
+      "zh": "富裕国家提供气候资金时，应让当地居民参与决定资金如何使用。",
+      "en": "When wealthy nations provide climate finance, local residents should help decide how the money is spent.",
+      "answers": [
+        "When wealthy nations provide climate finance, local residents should help decide how the money is spent."
+      ],
+      "notes": "how 从句作 decide 的宾语。",
+      "tags": [
+        "环境与气候",
+        "时间从句",
+        "气候资金"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_environment_ext_0022",
+      "zh": "把排放密集型工厂转移到海外，并不会自动减少全球排放。",
+      "en": "Moving emissions-intensive factories abroad does not automatically reduce global emissions.",
+      "answers": [
+        "Moving emissions-intensive factories abroad does not automatically reduce global emissions.",
+        "Moving emissions-intensive factories abroad doesn't automatically reduce global emissions."
+      ],
+      "notes": "abroad 是副词，前面不加 to。",
+      "tags": [
+        "环境与气候",
+        "否定推论",
+        "排放转移"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_environment_ext_0023",
+      "zh": "产品的环境评估需要覆盖原料开采、制造、使用和最终处置。",
+      "en": "Environmental assessments of products need to cover extraction, manufacture, use and final disposal.",
+      "answers": [
+        "Environmental assessments of products need to cover extraction, manufacture, use and final disposal."
+      ],
+      "notes": "并列名词保持同一语法层级。",
+      "tags": [
+        "环境与气候",
+        "列举结构",
+        "生命周期"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_environment_ext_0024",
+      "zh": "电池回收若能回收关键矿物，可能降低对新矿山的需求。",
+      "en": "Recovering critical minerals through battery recycling could reduce demand for new mines.",
+      "answers": [
+        "Recovering critical minerals through battery recycling could reduce demand for new mines."
+      ],
+      "notes": "demand for：对某物的需求。",
+      "tags": [
+        "环境与气候",
+        "动名词主语",
+        "关键矿物"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_environment_ext_0025",
+      "zh": "风电设施的选址需要兼顾清洁能源供应与鸟类迁徙。",
+      "en": "The siting of wind farms requires a balance between clean energy provision and bird migration.",
+      "answers": [
+        "The siting of wind farms requires a balance between clean energy provision and bird migration."
+      ],
+      "notes": "a balance between A and B：两方面的平衡。",
+      "tags": [
+        "环境与气候",
+        "权衡结构",
+        "风电选址"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_environment_ext_0026",
+      "zh": "屋顶太阳能可以减少土地需求，但租房者不一定有权决定安装。",
+      "en": "Rooftop solar can limit land demand, yet tenants may have no authority to approve installation.",
+      "answers": [
+        "Rooftop solar can limit land demand, yet tenants may have no authority to approve installation."
+      ],
+      "notes": "authority to do：决定某事的权限。",
+      "tags": [
+        "环境与气候",
+        "转折并列句",
+        "分布式能源"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_environment_ext_0027",
+      "zh": "燃油价格下降可能刺激更多驾驶，从而削弱节能车辆带来的部分收益。",
+      "en": "Lower fuel prices may encourage more driving, weakening some of the gains from fuel-efficient vehicles.",
+      "answers": [
+        "Lower fuel prices may encourage more driving, weakening some of the gains from fuel-efficient vehicles."
+      ],
+      "notes": "weakening 作结果状语。",
+      "tags": [
+        "环境与气候",
+        "分词结果状语",
+        "反弹效应"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_environment_ext_0028",
+      "zh": "碳抵消项目的价值，取决于所声称的减排是否真实且持久。",
+      "en": "The value of carbon offset projects depends on whether the claimed reductions are real and lasting.",
+      "answers": [
+        "The value of carbon offset projects depends on whether the claimed reductions are real and lasting."
+      ],
+      "notes": "claimed 是过去分词定语，表示所声称的。",
+      "tags": [
+        "环境与气候",
+        "名词性从句",
+        "碳抵消"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_environment_ext_0029",
+      "zh": "城市夜间照明有助于安全，但过强的灯光也会影响夜行动物。",
+      "en": "Urban lighting can support safety, but excessive brightness may disrupt nocturnal wildlife.",
+      "answers": [
+        "Urban lighting can support safety, but excessive brightness may disrupt nocturnal wildlife."
+      ],
+      "notes": "nocturnal：夜间活动的。",
+      "tags": [
+        "环境与气候",
+        "转折并列句",
+        "光污染"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_environment_ext_0030",
+      "zh": "工业噪声即使看不见，也可能降低附近居民的生活质量。",
+      "en": "Industrial noise can reduce nearby residents' quality of life despite being invisible.",
+      "answers": [
+        "Industrial noise can reduce nearby residents' quality of life despite being invisible."
+      ],
+      "notes": "despite 后接名词或动名词。",
+      "tags": [
+        "环境与气候",
+        "让步短语",
+        "噪声污染"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_environment_ext_0031",
+      "zh": "空气污染预警只有传达到高风险人群，才能帮助他们调整活动。",
+      "en": "Air pollution alerts can help vulnerable people adjust their activities only if the messages reach them.",
+      "answers": [
+        "Air pollution alerts can help vulnerable people adjust their activities only if the messages reach them."
+      ],
+      "notes": "only if 表达必要条件。",
+      "tags": [
+        "环境与气候",
+        "条件从句",
+        "污染预警"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_environment_ext_0032",
+      "zh": "仅禁止露天焚烧，未必能解决农民缺乏处理秸秆的其他办法这一问题。",
+      "en": "Banning open burning alone may leave farmers without practical alternatives for disposing of crop residues.",
+      "answers": [
+        "Banning open burning alone may leave farmers without practical alternatives for disposing of crop residues."
+      ],
+      "notes": "leave sb without：使某人仍缺乏。",
+      "tags": [
+        "环境与气候",
+        "动名词主语",
+        "秸秆处理"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_environment_ext_0033",
+      "zh": "河流上游的污染控制，会影响下游城镇的饮用水安全。",
+      "en": "Pollution control upstream influences the safety of drinking water in towns further downstream.",
+      "answers": [
+        "Pollution control upstream influences the safety of drinking water in towns further downstream."
+      ],
+      "notes": "upstream 与 downstream 对应上游、下游。",
+      "tags": [
+        "环境与气候",
+        "地点修饰",
+        "流域治理"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_environment_ext_0034",
+      "zh": "雨水收集系统应设计溢流出口，以防暴雨时储水空间不足。",
+      "en": "Rainwater harvesting systems should include overflow outlets in case storage capacity is exceeded during heavy rain.",
+      "answers": [
+        "Rainwater harvesting systems should include overflow outlets in case storage capacity is exceeded during heavy rain."
+      ],
+      "notes": "in case 引出需要预防的情况。",
+      "tags": [
+        "环境与气候",
+        "目的条件从句",
+        "雨水利用"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_environment_ext_0035",
+      "zh": "如果垃圾处理费与垃圾量无关，家庭减少垃圾的经济动力就可能较弱。",
+      "en": "Households may have little financial incentive to reduce waste where disposal fees are unrelated to volume.",
+      "answers": [
+        "Households may have little financial incentive to reduce waste where disposal fees are unrelated to volume."
+      ],
+      "notes": "where 在此指具有某条件的情境。",
+      "tags": [
+        "环境与气候",
+        "条件表达",
+        "垃圾收费"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_environment_ext_0036",
+      "zh": "可降解材料不一定会在普通自然环境中迅速分解。",
+      "en": "Biodegradable materials do not necessarily break down quickly under ordinary environmental conditions.",
+      "answers": [
+        "Biodegradable materials do not necessarily break down quickly under ordinary environmental conditions.",
+        "Biodegradable materials don't necessarily break down quickly under ordinary environmental conditions."
+      ],
+      "notes": "break down：分解；not necessarily 限定推论。",
+      "tags": [
+        "环境与气候",
+        "范围限定",
+        "材料宣传"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_environment_ext_0037",
+      "zh": "从纺织品中脱落的微小纤维，可能通过废水进入河流。",
+      "en": "Tiny fibres shed from textiles may enter rivers through wastewater.",
+      "answers": [
+        "Tiny fibres shed from textiles may enter rivers through wastewater."
+      ],
+      "notes": "shed 的过去分词仍为 shed。",
+      "tags": [
+        "环境与气候",
+        "分词定语",
+        "微纤维污染"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_environment_ext_0038",
+      "zh": "延长电子产品的保修期，可以鼓励制造商更重视耐用性。",
+      "en": "Longer warranties for electronic products could encourage manufacturers to pay greater attention to durability.",
+      "answers": [
+        "Longer warranties for electronic products could encourage manufacturers to pay greater attention to durability."
+      ],
+      "notes": "pay attention to：关注。",
+      "tags": [
+        "环境与气候",
+        "因果表达",
+        "耐用设计"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_environment_ext_0039",
+      "zh": "社区参与环境监测有助于发现局部问题，但数据仍需要可靠的方法支持。",
+      "en": "Community monitoring can reveal local environmental problems, although reliable methods are still essential.",
+      "answers": [
+        "Community monitoring can reveal local environmental problems, although reliable methods are still essential."
+      ],
+      "notes": "although 承认价值并限定条件。",
+      "tags": [
+        "环境与气候",
+        "让步从句",
+        "公民监测"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_environment_ext_0040",
+      "zh": "环境修复的成功，应根据生态功能的恢复来判断，而不仅是外观变绿。",
+      "en": "Restoration should be judged by the recovery of ecological functions, not simply by a greener appearance.",
+      "answers": [
+        "Restoration should be judged by the recovery of ecological functions, not simply by a greener appearance."
+      ],
+      "notes": "judge by：根据某标准判断。",
+      "tags": [
+        "环境与气候",
+        "被动语态",
+        "生态修复"
+      ],
+      "difficulty": 4
+    }
+  ]
+}

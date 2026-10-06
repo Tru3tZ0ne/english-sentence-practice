@@ -1,0 +1,981 @@
+{
+  "schema_version": 1,
+  "id": "ielts_food_agriculture",
+  "title": "雅思·食物与农业 · 64 句",
+  "description": "食品可及性、农业生计、生产方式、损耗、饮食选择、土地和供应治理。",
+  "language": "en-GB",
+  "tags": [
+    "IELTS",
+    "食物农业",
+    "逐题讲解"
+  ],
+  "items": [
+    {
+      "id": "ielts_food_agriculture_v3_0001",
+      "zh": "食物充足并不保证所有家庭都买得起。",
+      "en": "Adequate food supplies do not ensure affordability for every household.",
+      "answers": [
+        "Adequate food supplies do not ensure affordability for every household.",
+        "Adequate food supplies don't ensure affordability for every household."
+      ],
+      "notes": "affordability：可负担性",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "食品可及性"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0002",
+      "zh": "粮食保障既需要稳定供应，也需要可靠的分配体系。",
+      "en": "Food security requires dependable distribution as well as supply.",
+      "answers": [
+        "Food security requires dependable distribution as well as supply."
+      ],
+      "notes": "food security 指粮食保障；food safety 指食品卫生安全。",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "食品可及性"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0003",
+      "zh": "城市贫困者也可能难以获取新鲜食品。",
+      "en": "Urban poverty can restrict access to fresh food.",
+      "answers": [
+        "Urban poverty can restrict access to fresh food."
+      ],
+      "notes": "restrict：限制",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "食品可及性"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0004",
+      "zh": "运输中断可能使偏远地区更易缺货。",
+      "en": "Transport disruptions can leave remote communities short of supplies.",
+      "answers": [
+        "Transport disruptions can leave remote communities short of supplies."
+      ],
+      "notes": "short of：短缺",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "食品可及性"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0005",
+      "zh": "营养需求不能只用热量总数衡量。",
+      "en": "Nutritional needs cannot be measured in calories alone.",
+      "answers": [
+        "Nutritional needs cannot be measured in calories alone.",
+        "Nutritional needs can't be measured in calories alone."
+      ],
+      "notes": "calorie：热量单位",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "食品可及性"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0006",
+      "zh": "应急储备需要轮换，以避免库存变质。",
+      "en": "Emergency reserves need rotation to prevent deterioration.",
+      "answers": [
+        "Emergency reserves need rotation to prevent deterioration."
+      ],
+      "notes": "rotation：轮换",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "食品可及性"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0007",
+      "zh": "市场价格可能在收获季节出现明显变化。",
+      "en": "Market prices can vary substantially around harvest time.",
+      "answers": [
+        "Market prices can vary substantially around harvest time."
+      ],
+      "notes": "harvest：收获",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "食品可及性"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0008",
+      "zh": "改善冷链可能减少运输中的损耗。",
+      "en": "Better cold chains can reduce losses in transit.",
+      "answers": [
+        "Better cold chains can reduce losses in transit."
+      ],
+      "notes": "in transit：运输中",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "食品可及性"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0009",
+      "zh": "农民往往在尚不清楚最终收入时就必须投入资金。",
+      "en": "Farmers often have to invest before knowing their eventual income.",
+      "answers": [
+        "Farmers often have to invest before knowing their eventual income."
+      ],
+      "notes": "have to：必须；eventual：最终的。",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "农民生计"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0010",
+      "zh": "租地期限会影响长期土壤改良的意愿。",
+      "en": "Tenancy length can affect incentives for long-term soil improvement.",
+      "answers": [
+        "Tenancy length can affect incentives for long-term soil improvement."
+      ],
+      "notes": "tenancy：租地关系",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "农民生计"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0011",
+      "zh": "小农户可能缺乏与大买家的议价能力。",
+      "en": "Smallholders may lack bargaining power with large buyers.",
+      "answers": [
+        "Smallholders may lack bargaining power with large buyers."
+      ],
+      "notes": "bargaining power",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "农民生计"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0012",
+      "zh": "合作社可以共用昂贵设备，但收获时间重叠时仍需公平安排使用顺序。",
+      "en": "Cooperatives can share expensive machinery, but overlapping harvests still require fair scheduling.",
+      "answers": [
+        "Cooperatives can share expensive machinery, but overlapping harvests still require fair scheduling."
+      ],
+      "notes": "overlapping：时间重叠的；fair scheduling：公平排期。",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "农民生计"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0013",
+      "zh": "农业保险的条款需要适应当地实际风险。",
+      "en": "Agricultural insurance terms should reflect local risks.",
+      "answers": [
+        "Agricultural insurance terms should reflect local risks."
+      ],
+      "notes": "reflect：反映",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "农民生计"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0014",
+      "zh": "过度依赖单一收购方会增加脆弱性。",
+      "en": "Reliance on one purchaser increases farmers' vulnerability.",
+      "answers": [
+        "Reliance on one purchaser increases farmers' vulnerability."
+      ],
+      "notes": "purchaser：收购方",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "农民生计"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0015",
+      "zh": "技术推广应让农民理解收益和成本。",
+      "en": "Extension services should clarify both benefits and costs for farmers.",
+      "answers": [
+        "Extension services should clarify both benefits and costs for farmers."
+      ],
+      "notes": "extension service：农技推广",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "农民生计"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0016",
+      "zh": "农村金融需要考虑季节性现金流。",
+      "en": "Rural finance must account for seasonal cash flow.",
+      "answers": [
+        "Rural finance must account for seasonal cash flow."
+      ],
+      "notes": "cash flow：现金流",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "农民生计"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0017",
+      "zh": "机械化可以减轻劳动，但需要维护能力。",
+      "en": "Mechanisation can reduce labour demands but requires maintenance capacity.",
+      "answers": [
+        "Mechanisation can reduce labour demands but requires maintenance capacity."
+      ],
+      "notes": "mechanisation：机械化",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "生产方式"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0018",
+      "zh": "高产量不应以持续破坏土壤为代价。",
+      "en": "High yields should not depend on continued soil degradation.",
+      "answers": [
+        "High yields should not depend on continued soil degradation.",
+        "High yields shouldn't depend on continued soil degradation."
+      ],
+      "notes": "yield：产量",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "生产方式"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0019",
+      "zh": "轮作可以改变病虫害管理方式。",
+      "en": "Crop rotation can alter pest management needs.",
+      "answers": [
+        "Crop rotation can alter pest management needs."
+      ],
+      "notes": "crop rotation：轮作",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "生产方式"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0020",
+      "zh": "有机认证不自动说明所有环境影响都更小。",
+      "en": "Organic certification does not guarantee lower impacts in every dimension.",
+      "answers": [
+        "Organic certification does not guarantee lower impacts in every dimension.",
+        "Organic certification doesn't guarantee lower impacts in every dimension."
+      ],
+      "notes": "dimension：方面",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "生产方式"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0021",
+      "zh": "室内农业需要权衡节水与能耗。",
+      "en": "Indoor farming must balance water savings against energy consumption.",
+      "answers": [
+        "Indoor farming must balance water savings against energy consumption."
+      ],
+      "notes": "balance A against B",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "生产方式"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0022",
+      "zh": "节省劳动力的技术可能改变农村就业。",
+      "en": "Labour-saving technology can reshape rural employment.",
+      "answers": [
+        "Labour-saving technology can reshape rural employment."
+      ],
+      "notes": "reshape：重塑",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "生产方式"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0023",
+      "zh": "统一品种可能降低管理难度，却减少多样性。",
+      "en": "Uniform varieties can simplify management while reducing diversity.",
+      "answers": [
+        "Uniform varieties can simplify management while reducing diversity."
+      ],
+      "notes": "variety：品种",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "生产方式"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0024",
+      "zh": "在灌溉农场表现良好的种子，未必适合依赖降雨的小农户。",
+      "en": "Seeds that perform well on irrigated farms may not suit smallholders who rely on rainfall.",
+      "answers": [
+        "Seeds that perform well on irrigated farms may not suit smallholders who rely on rainfall."
+      ],
+      "notes": "两处定语从句区分试验环境与实际使用环境。",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "生产方式"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0025",
+      "zh": "外观标准可能使可食用农产品无法上市。",
+      "en": "Appearance standards can exclude edible produce from sale.",
+      "answers": [
+        "Appearance standards can exclude edible produce from sale."
+      ],
+      "notes": "edible：可食用",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "食品损耗"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0026",
+      "zh": "大份量促销可能让家庭购买超过需要。",
+      "en": "Bulk promotions may encourage households to buy beyond their needs.",
+      "answers": [
+        "Bulk promotions may encourage households to buy beyond their needs."
+      ],
+      "notes": "bulk：大份量",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "食品损耗"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0027",
+      "zh": "餐厅备料需要平衡供应充足和浪费风险。",
+      "en": "Restaurants must balance adequate preparation against waste.",
+      "answers": [
+        "Restaurants must balance adequate preparation against waste."
+      ],
+      "notes": "balance：权衡",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "食品损耗"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0028",
+      "zh": "清楚的日期标签有助于减少不必要丢弃。",
+      "en": "Clear date labels can reduce unnecessary disposal.",
+      "answers": [
+        "Clear date labels can reduce unnecessary disposal."
+      ],
+      "notes": "disposal：丢弃",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "食品损耗"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0029",
+      "zh": "捐赠剩余食品需要可靠的处理流程。",
+      "en": "Surplus food donation requires dependable handling procedures.",
+      "answers": [
+        "Surplus food donation requires dependable handling procedures."
+      ],
+      "notes": "surplus：剩余",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "食品损耗"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0030",
+      "zh": "田间减少损耗的措施若增加储存腐损，就未必降低全链条的损失。",
+      "en": "Measures that reduce field losses may not cut losses across the whole chain if they increase spoilage in storage.",
+      "answers": [
+        "Measures that reduce field losses may not cut losses across the whole chain if they increase spoilage in storage."
+      ],
+      "notes": "if 限定局部改善是否能转化为整体收益。",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "食品损耗"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0031",
+      "zh": "只关注家庭浪费会遗漏其他来源。",
+      "en": "Focusing solely on household waste overlooks other sources.",
+      "answers": [
+        "Focusing solely on household waste overlooks other sources."
+      ],
+      "notes": "solely：仅仅",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "食品损耗"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0032",
+      "zh": "更好的需求预测可以改善采购安排。",
+      "en": "Better demand forecasting can improve purchasing decisions.",
+      "answers": [
+        "Better demand forecasting can improve purchasing decisions."
+      ],
+      "notes": "forecasting：预测",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "食品损耗"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0033",
+      "zh": "饮食习惯受到时间、价格和文化共同影响。",
+      "en": "Dietary habits reflect time, price and culture together.",
+      "answers": [
+        "Dietary habits reflect time, price and culture together."
+      ],
+      "notes": "dietary：饮食的",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "饮食选择"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0034",
+      "zh": "健康选项需要在实际生活中方便获取。",
+      "en": "Healthy options need to be convenient in everyday life.",
+      "answers": [
+        "Healthy options need to be convenient in everyday life."
+      ],
+      "notes": "convenient：方便",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "饮食选择"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0035",
+      "zh": "具备烹饪技能仍不保证能自己做饭，因为临时住处可能没有厨房。",
+      "en": "Cooking skills do not ensure that people can prepare meals when temporary accommodation lacks a kitchen.",
+      "answers": [
+        "Cooking skills do not ensure that people can prepare meals when temporary accommodation lacks a kitchen.",
+        "Cooking skills don't ensure that people can prepare meals when temporary accommodation lacks a kitchen."
+      ],
+      "notes": "when 指存在住宿设施限制的情形。",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "饮食选择"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0036",
+      "zh": "食物标签应帮助比较，而不制造虚假安心。",
+      "en": "Food labels should enable comparison rather than false reassurance.",
+      "answers": [
+        "Food labels should enable comparison rather than false reassurance."
+      ],
+      "notes": "reassurance：安心感",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "饮食选择"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0037",
+      "zh": "不同年龄群体的饮食需求可能不同。",
+      "en": "Dietary requirements may differ across age groups.",
+      "answers": [
+        "Dietary requirements may differ across age groups."
+      ],
+      "notes": "requirement：需求",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "饮食选择"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0038",
+      "zh": "把饮食问题完全归咎于个人会忽略环境。",
+      "en": "Blaming individuals alone for diets overlooks their environment.",
+      "answers": [
+        "Blaming individuals alone for diets overlooks their environment."
+      ],
+      "notes": "blame：归咎",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "饮食选择"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0039",
+      "zh": "替代食品的接受度受口味和价格影响。",
+      "en": "Acceptance of alternative foods depends on taste and price.",
+      "answers": [
+        "Acceptance of alternative foods depends on taste and price."
+      ],
+      "notes": "acceptance：接受度",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "饮食选择"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0040",
+      "zh": "改变菜单可以逐步进行，而非一次完成。",
+      "en": "Menu changes can be introduced gradually rather than all at once.",
+      "answers": [
+        "Menu changes can be introduced gradually rather than all at once."
+      ],
+      "notes": "gradually：逐步",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "饮食选择"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0041",
+      "zh": "动物福利标准如果只规定书面记录，却没有现场检查，可能难以反映实际饲养条件。",
+      "en": "Animal welfare standards may miss actual rearing conditions if they rely on paperwork without on-site inspections.",
+      "answers": [
+        "Animal welfare standards may miss actual rearing conditions if they rely on paperwork without on-site inspections."
+      ],
+      "notes": "rely on：依赖；on-site inspection：现场检查。",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "动物与消费"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0042",
+      "zh": "消费者未必能从包装判断饲养条件。",
+      "en": "Consumers may not infer rearing conditions from packaging.",
+      "answers": [
+        "Consumers may not infer rearing conditions from packaging."
+      ],
+      "notes": "rear：饲养",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "动物与消费"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0043",
+      "zh": "更高福利要求可能增加部分生产成本。",
+      "en": "Higher welfare requirements may increase some production costs.",
+      "answers": [
+        "Higher welfare requirements may increase some production costs."
+      ],
+      "notes": "requirement：要求",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "动物与消费"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0044",
+      "zh": "福利标签应说明涵盖的是整个饲养过程，还是仅仅运输阶段。",
+      "en": "Welfare labels should explain whether they cover the entire rearing process or merely transportation.",
+      "answers": [
+        "Welfare labels should explain whether they cover the entire rearing process or merely transportation."
+      ],
+      "notes": "whether ... or ... 区分认证覆盖范围。",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "动物与消费"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0045",
+      "zh": "减少需求与改善饲养并非完全相同的目标。",
+      "en": "Reducing demand and improving husbandry are distinct objectives.",
+      "answers": [
+        "Reducing demand and improving husbandry are distinct objectives."
+      ],
+      "notes": "husbandry：饲养管理",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "动物与消费"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0046",
+      "zh": "运输距离也影响动物福利。",
+      "en": "Transport distances also affect animal welfare.",
+      "answers": [
+        "Transport distances also affect animal welfare."
+      ],
+      "notes": "welfare：福利",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "动物与消费"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0047",
+      "zh": "法规需要覆盖供应链中的不同环节。",
+      "en": "Regulations need to cover different supply-chain stages.",
+      "answers": [
+        "Regulations need to cover different supply-chain stages."
+      ],
+      "notes": "regulation：法规",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "动物与消费"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0048",
+      "zh": "公众讨论应区分事实判断与价值选择。",
+      "en": "Public debate should separate factual judgements from value choices.",
+      "answers": [
+        "Public debate should separate factual judgements from value choices."
+      ],
+      "notes": "value choice：价值选择",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "动物与消费"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0049",
+      "zh": "土地规划需要在新增住房的收益与永久失去优质农田的代价之间作出权衡。",
+      "en": "Land-use planning must weigh the benefits of new housing against the permanent loss of productive farmland.",
+      "answers": [
+        "Land-use planning must weigh the benefits of new housing against the permanent loss of productive farmland."
+      ],
+      "notes": "weigh A against B：权衡两种后果。",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "土地与城乡"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0050",
+      "zh": "农地被分割后，机械使用可能更困难。",
+      "en": "Fragmented farmland can make machinery use more difficult.",
+      "answers": [
+        "Fragmented farmland can make machinery use more difficult."
+      ],
+      "notes": "fragmented：碎片化",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "土地与城乡"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0051",
+      "zh": "近郊农业可以缩短部分配送路线。",
+      "en": "Peri-urban farming can shorten some delivery routes.",
+      "answers": [
+        "Peri-urban farming can shorten some delivery routes."
+      ],
+      "notes": "peri-urban：近郊的",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "土地与城乡"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0052",
+      "zh": "土地所有权清晰有助于长期投入。",
+      "en": "Clear land rights can support long-term investment.",
+      "answers": [
+        "Clear land rights can support long-term investment."
+      ],
+      "notes": "land rights：土地权利",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "土地与城乡"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0053",
+      "zh": "农村青年离开会影响技能传承。",
+      "en": "Young people's departure can disrupt the transfer of farming skills.",
+      "answers": [
+        "Young people's departure can disrupt the transfer of farming skills."
+      ],
+      "notes": "disrupt：打断",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "土地与城乡"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0054",
+      "zh": "发展乡村旅游不能完全替代农业收入。",
+      "en": "Rural tourism cannot wholly replace agricultural earnings.",
+      "answers": [
+        "Rural tourism cannot wholly replace agricultural earnings.",
+        "Rural tourism can't wholly replace agricultural earnings."
+      ],
+      "notes": "wholly：完全",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "土地与城乡"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0055",
+      "zh": "社区菜园提供学习机会，但规模通常有限。",
+      "en": "Community gardens offer learning opportunities but usually have limited scale.",
+      "answers": [
+        "Community gardens offer learning opportunities but usually have limited scale."
+      ],
+      "notes": "scale：规模",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "土地与城乡"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0056",
+      "zh": "土地决策应听取实际耕作者的意见。",
+      "en": "Land decisions should include the views of those cultivating it.",
+      "answers": [
+        "Land decisions should include the views of those cultivating it."
+      ],
+      "notes": "cultivate：耕作",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "土地与城乡"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0057",
+      "zh": "供应链透明能帮助追查食品问题。",
+      "en": "Supply-chain transparency can help trace food problems.",
+      "answers": [
+        "Supply-chain transparency can help trace food problems."
+      ],
+      "notes": "trace：追查",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "供应治理"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0058",
+      "zh": "本地生产不一定意味着全年都能供应。",
+      "en": "Local production does not guarantee year-round availability.",
+      "answers": [
+        "Local production does not guarantee year-round availability.",
+        "Local production doesn't guarantee year-round availability."
+      ],
+      "notes": "year-round：全年",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "供应治理"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0059",
+      "zh": "贸易限制可能影响依赖进口的地区。",
+      "en": "Trade restrictions can affect regions dependent on imports.",
+      "answers": [
+        "Trade restrictions can affect regions dependent on imports."
+      ],
+      "notes": "dependent on",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "供应治理"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0060",
+      "zh": "分散采购有时有助于降低单点风险。",
+      "en": "Diversified purchasing can sometimes reduce single-source risks.",
+      "answers": [
+        "Diversified purchasing can sometimes reduce single-source risks."
+      ],
+      "notes": "diversified：分散的",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "供应治理"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0061",
+      "zh": "检测制度需要兼顾准确与及时。",
+      "en": "Testing systems need both accuracy and timeliness.",
+      "answers": [
+        "Testing systems need both accuracy and timeliness."
+      ],
+      "notes": "timeliness：及时性",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "供应治理"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0062",
+      "zh": "食品召回信息应让消费者容易识别批次。",
+      "en": "Recall notices should make affected batches easy to identify.",
+      "answers": [
+        "Recall notices should make affected batches easy to identify."
+      ],
+      "notes": "recall：召回",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "供应治理"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0063",
+      "zh": "新的追溯规定若要求高价设备，小型生产者可能需要过渡期来达标。",
+      "en": "Small producers may need a transition period when new traceability rules require expensive equipment.",
+      "answers": [
+        "Small producers may need a transition period when new traceability rules require expensive equipment."
+      ],
+      "notes": "traceability：可追溯性；when 引出过渡期的理由。",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "供应治理"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_food_agriculture_v3_0064",
+      "zh": "稳定供给需要整个系统协调，而非单个环节最优。",
+      "en": "Reliable supply requires coordination rather than isolated optimisation.",
+      "answers": [
+        "Reliable supply requires coordination rather than isolated optimisation."
+      ],
+      "notes": "optimisation：优化",
+      "tags": [
+        "IELTS",
+        "食物农业",
+        "供应治理"
+      ],
+      "difficulty": 3
+    }
+  ]
+}

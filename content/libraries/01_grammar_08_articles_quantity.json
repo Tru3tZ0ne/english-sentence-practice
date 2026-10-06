@@ -1,0 +1,977 @@
+{
+  "schema_version": 1,
+  "id": "grammar_articles_quantity",
+  "title": "语法 · 冠词与数量｜可数性和范围 · 60 句",
+  "description": "a/an/the/零冠词、可数与不可数、计量单位、few/little、整体与部分。",
+  "language": "en-GB",
+  "tags": [
+    "语法专项",
+    "冠词与数量",
+    "小学进阶至四级"
+  ],
+  "items": [
+    {
+      "id": "grammar_articles_quantity_s1_0001",
+      "zh": "我需要一个能读懂这张处方的药剂师。",
+      "en": "I need a pharmacist who can read this prescription.",
+      "answers": [
+        "I need a pharmacist who can read this prescription."
+      ],
+      "notes": "a 表某一位尚未特指的人；pharmacist 是可数单数。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "不定冠词与首次提及",
+        "小学进阶至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0002",
+      "zh": "她给了我一个关于午餐的新建议。",
+      "en": "She gave me a new suggestion for lunch.",
+      "answers": [
+        "She gave me a new suggestion for lunch."
+      ],
+      "notes": "suggestion 可数；advice 不可数，不能写 an advice。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "不定冠词与首次提及",
+        "小学进阶至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0003",
+      "zh": "这是一所规模很小的大学，却有出色的植物园。",
+      "en": "It is a small university with an excellent botanical garden.",
+      "answers": [
+        "It is a small university with an excellent botanical garden."
+      ],
+      "notes": "university 首音为辅音 /j/，用 a；excellent 首音元音，用 an。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "不定冠词与首次提及",
+        "小学进阶至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0004",
+      "zh": "我等了整整一个小时才找到空桌。",
+      "en": "I waited a whole hour before finding a free table.",
+      "answers": [
+        "I waited a whole hour before finding a free table."
+      ],
+      "notes": "whole 首音辅音用 a；hour 单独前用 an hour。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "不定冠词与首次提及",
+        "小学进阶至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0005",
+      "zh": "她想成为一名口译员，而不是笔译员。",
+      "en": "She wants to be an interpreter rather than a translator.",
+      "answers": [
+        "She wants to be an interpreter rather than a translator."
+      ],
+      "notes": "职业可数单数前用冠词，按发音选 an 或 a。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "不定冠词与首次提及",
+        "小学进阶至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0006",
+      "zh": "我在书页间发现了一张一英镑的纸币。",
+      "en": "I found a one-pound note between the pages.",
+      "answers": [
+        "I found a one-pound note between the pages."
+      ],
+      "notes": "one 首音 /w/，因此用 a，不是 an。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "不定冠词与首次提及",
+        "小学进阶至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0007",
+      "zh": "这条路上有一家通宵营业的咖啡馆。",
+      "en": "There is an all-night cafe on this road.",
+      "answers": [
+        "There is an all-night cafe on this road."
+      ],
+      "notes": "all-night 首音元音，冠词用 an。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "不定冠词与首次提及",
+        "小学进阶至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0008",
+      "zh": "他把一次失误当成了学习的机会。",
+      "en": "He treated a mistake as an opportunity to learn.",
+      "answers": [
+        "He treated a mistake as an opportunity to learn."
+      ],
+      "notes": "首次提及的 mistake 和 opportunity 均用不定冠词。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "不定冠词与首次提及",
+        "小学进阶至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0009",
+      "zh": "我们想找个安静的地方谈一谈。",
+      "en": "We want a quiet place for a conversation.",
+      "answers": [
+        "We want a quiet place for a conversation."
+      ],
+      "notes": "a quiet place 不指特定地点；conversation 此处可数。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "不定冠词与首次提及",
+        "小学进阶至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0010",
+      "zh": "那件事对我来说是一次意外的考验。",
+      "en": "The incident was an unexpected test for me.",
+      "answers": [
+        "The incident was an unexpected test for me."
+      ],
+      "notes": "unexpected 元音开头；test 为一次具体考验。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "不定冠词与首次提及",
+        "小学进阶至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0011",
+      "zh": "我买了一顶帽子，帽檐有点太宽。",
+      "en": "I bought a hat; the brim is a little too wide.",
+      "answers": [
+        "I bought a hat; the brim is a little too wide."
+      ],
+      "notes": "首次 a hat，所属且唯一可识别部分用 the brim。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "定冠词与指认",
+        "小学进阶至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0012",
+      "zh": "请把你刚才用过的杯子放进水槽。",
+      "en": "Put the cup you just used in the sink.",
+      "answers": [
+        "Put the cup you just used in the sink."
+      ],
+      "notes": "定语明确是哪只杯子，因此用 the。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "定冠词与指认",
+        "小学进阶至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0013",
+      "zh": "弹钢琴的人坐在窗口旁。",
+      "en": "The person playing the piano is seated by the window.",
+      "answers": [
+        "The person playing the piano is seated by the window."
+      ],
+      "notes": "the person 被修饰语限定；play the piano 为常见乐器用法。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "定冠词与指认",
+        "小学进阶至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0014",
+      "zh": "我们沿着河岸走到最近的桥。",
+      "en": "We followed the river to the nearest bridge.",
+      "answers": [
+        "We followed the river to the nearest bridge."
+      ],
+      "notes": "最高级 nearest 前通常用 the。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "定冠词与指认",
+        "小学进阶至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0015",
+      "zh": "这道菜最难的部分是掌握火候。",
+      "en": "The hardest part of the dish is controlling the heat.",
+      "answers": [
+        "The hardest part of the dish is controlling the heat."
+      ],
+      "notes": "最高级 hardest 与可识别部分用 the。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "定冠词与指认",
+        "小学进阶至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0016",
+      "zh": "月亮今晚从云后露了出来。",
+      "en": "The moon appeared from behind the clouds tonight.",
+      "answers": [
+        "The moon appeared from behind the clouds tonight."
+      ],
+      "notes": "moon 为语境中唯一的天体，用 the。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "定冠词与指认",
+        "小学进阶至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0017",
+      "zh": "我更喜欢两种酱料中较温和的那种。",
+      "en": "I prefer the milder of the two sauces.",
+      "answers": [
+        "I prefer the milder of the two sauces."
+      ],
+      "notes": "the + 比较级 + of the two 指两者中特定一个。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "定冠词与指认",
+        "小学进阶至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0018",
+      "zh": "这就是我们昨晚讨论的那个问题。",
+      "en": "This is the issue we discussed last night.",
+      "answers": [
+        "This is the issue we discussed last night."
+      ],
+      "notes": "后置从句使 issue 明确，用 the。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "定冠词与指认",
+        "小学进阶至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0019",
+      "zh": "这家店的门直到九点才打开。",
+      "en": "The door of the shop stays closed until nine.",
+      "answers": [
+        "The door of the shop stays closed until nine."
+      ],
+      "notes": "of 短语明确所属门，用 the。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "定冠词与指认",
+        "小学进阶至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0020",
+      "zh": "请从列表的末尾开始核对。",
+      "en": "Please start checking from the end of the list.",
+      "answers": [
+        "Please start checking from the end of the list."
+      ],
+      "notes": "the end of 表特定列表的末端。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "定冠词与指认",
+        "小学进阶至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0021",
+      "zh": "耐心并不意味着什么都不做。",
+      "en": "Patience does not mean doing nothing.",
+      "answers": [
+        "Patience does not mean doing nothing.",
+        "Patience doesn't mean doing nothing."
+      ],
+      "notes": "抽象名词 patience 泛指时不用 a 或 the。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "零冠词与泛指",
+        "小学进阶至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0022",
+      "zh": "孩子需要机会自己作决定。",
+      "en": "Children need opportunities to make decisions themselves.",
+      "answers": [
+        "Children need opportunities to make decisions themselves."
+      ],
+      "notes": "复数 children 泛指儿童，不加定冠词。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "零冠词与泛指",
+        "小学进阶至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0023",
+      "zh": "我们晚饭后常谈论音乐。",
+      "en": "We often discuss music after dinner.",
+      "answers": [
+        "We often discuss music after dinner."
+      ],
+      "notes": "music 不可数泛指；惯常餐名 dinner 前不加冠词。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "零冠词与泛指",
+        "小学进阶至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0024",
+      "zh": "她在大学里学习化学。",
+      "en": "She studies chemistry at university.",
+      "answers": [
+        "She studies chemistry at university."
+      ],
+      "notes": "学科名 chemistry 零冠词；at university 表学生身份活动。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "零冠词与泛指",
+        "小学进阶至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0025",
+      "zh": "足球需要配合，不只是速度。",
+      "en": "Football requires coordination, not just speed.",
+      "answers": [
+        "Football requires coordination, not just speed."
+      ],
+      "notes": "运动名 football 泛指不加 the。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "零冠词与泛指",
+        "小学进阶至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0026",
+      "zh": "周日我们通常步行去购物。",
+      "en": "We usually go shopping on Sundays.",
+      "answers": [
+        "We usually go shopping on Sundays."
+      ],
+      "notes": "go shopping 不加冠词；复数 Sundays 表惯常星期日。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "零冠词与泛指",
+        "小学进阶至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0027",
+      "zh": "牛奶对这份配方不是必需的。",
+      "en": "Milk is not essential to this recipe.",
+      "answers": [
+        "Milk is not essential to this recipe.",
+        "Milk isn't essential to this recipe."
+      ],
+      "notes": "milk 作为物质泛指不用冠词；this 已限定 recipe。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "零冠词与泛指",
+        "小学进阶至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0028",
+      "zh": "山里的生活与城市生活不同。",
+      "en": "Life in the mountains differs from city life.",
+      "answers": [
+        "Life in the mountains differs from city life."
+      ],
+      "notes": "life 泛指生活；the mountains 为通常地域表达。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "零冠词与泛指",
+        "小学进阶至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0029",
+      "zh": "我们坐火车旅行，却乘出租车回家。",
+      "en": "We travelled by train but came home by taxi.",
+      "answers": [
+        "We travelled by train but came home by taxi."
+      ],
+      "notes": "by + 交通方式前不加冠词。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "零冠词与泛指",
+        "小学进阶至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0030",
+      "zh": "早餐可以改善注意力，但并非每个人早上都有胃口。",
+      "en": "Breakfast can improve concentration, though not everyone feels hungry in the morning.",
+      "answers": [
+        "Breakfast can improve concentration, though not everyone feels hungry in the morning."
+      ],
+      "notes": "breakfast 泛指餐食；in the morning 为固定表达。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "零冠词与泛指",
+        "小学进阶至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0031",
+      "zh": "我只需要两条简短的建议。",
+      "en": "I need only two brief pieces of advice.",
+      "answers": [
+        "I need only two brief pieces of advice."
+      ],
+      "notes": "advice 不可数，用 pieces of 计数。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "可数性与单位",
+        "小学进阶至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0032",
+      "zh": "这个瓶子里还剩一点蜂蜜。",
+      "en": "There is a little honey left in the jar.",
+      "answers": [
+        "There is a little honey left in the jar."
+      ],
+      "notes": "honey 不可数，用 a little，而非 a few。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "可数性与单位",
+        "小学进阶至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0033",
+      "zh": "这些家具中有几件需要修理。",
+      "en": "Several pieces of this furniture need repair.",
+      "answers": [
+        "Several pieces of this furniture need repair."
+      ],
+      "notes": "furniture 不可数；pieces 为可数主语中心。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "可数性与单位",
+        "小学进阶至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0034",
+      "zh": "每人可以领取三份面包。",
+      "en": "Each person may take three portions of bread.",
+      "answers": [
+        "Each person may take three portions of bread."
+      ],
+      "notes": "bread 不直接加复数，用 portions of 表份数。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "可数性与单位",
+        "小学进阶至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0035",
+      "zh": "我们缺少有关路况的信息。",
+      "en": "We lack information about road conditions.",
+      "answers": [
+        "We lack information about road conditions."
+      ],
+      "notes": "information 不可数；不能用 informations。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "可数性与单位",
+        "小学进阶至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0036",
+      "zh": "我能喝一杯水而不是一瓶水吗？",
+      "en": "Could I have a glass of water rather than a bottle?",
+      "answers": [
+        "Could I have a glass of water rather than a bottle?"
+      ],
+      "notes": "glass 与 bottle 为容器量词；water 保持不可数。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "可数性与单位",
+        "小学进阶至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0037",
+      "zh": "这趟旅程给了她宝贵的经验。",
+      "en": "The journey gave her valuable experience.",
+      "answers": [
+        "The journey gave her valuable experience."
+      ],
+      "notes": "experience 泛指经验不可数；一次经历则可用 an experience。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "可数性与单位",
+        "小学进阶至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0038",
+      "zh": "晚餐包括两种奶酪。",
+      "en": "Dinner includes two kinds of cheese.",
+      "answers": [
+        "Dinner includes two kinds of cheese."
+      ],
+      "notes": "cheese 作物质，kinds 提供种类计数。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "可数性与单位",
+        "小学进阶至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0039",
+      "zh": "表演者需要更多设备，却不需要更多房间。",
+      "en": "The performers need more equipment but no extra rooms.",
+      "answers": [
+        "The performers need more equipment but no extra rooms."
+      ],
+      "notes": "equipment 不可数；room 表房间可数。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "可数性与单位",
+        "小学进阶至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0040",
+      "zh": "请在汤里加一小撮盐。",
+      "en": "Add a pinch of salt to the soup.",
+      "answers": [
+        "Add a pinch of salt to the soup."
+      ],
+      "notes": "a pinch of：一小撮；salt 不可数。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "可数性与单位",
+        "小学进阶至四级"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0041",
+      "zh": "几乎没有游客注意到墙上的旧照片。",
+      "en": "Few visitors noticed the old photographs on the wall.",
+      "answers": [
+        "Few visitors noticed the old photographs on the wall."
+      ],
+      "notes": "few + 可数复数表示几乎没有，带否定意味。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "数量限定与多少",
+        "小学进阶至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0042",
+      "zh": "我们还有几分钟，可以再听一首。",
+      "en": "We have a few minutes left for another song.",
+      "answers": [
+        "We have a few minutes left for another song."
+      ],
+      "notes": "a few 表还有一些，与 few 的不足意味不同。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "数量限定与多少",
+        "小学进阶至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0043",
+      "zh": "剩下的时间很少，不能再走错路。",
+      "en": "Little time remains for another wrong turn.",
+      "answers": [
+        "Little time remains for another wrong turn."
+      ],
+      "notes": "little + 不可数名词表几乎没有。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "数量限定与多少",
+        "小学进阶至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0044",
+      "zh": "这道汤有一点甜味，但并不腻。",
+      "en": "The soup has a little sweetness without being cloying.",
+      "answers": [
+        "The soup has a little sweetness without being cloying."
+      ],
+      "notes": "a little + 不可数名词表示少量存在。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "数量限定与多少",
+        "小学进阶至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0045",
+      "zh": "我们带的食物太多，饮用水却不够。",
+      "en": "We brought too much food but not enough drinking water.",
+      "answers": [
+        "We brought too much food but not enough drinking water."
+      ],
+      "notes": "food 与 water 均不可数，用 much 与 enough。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "数量限定与多少",
+        "小学进阶至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0046",
+      "zh": "愿意当导游的人很多，但熟悉这条路线的人很少。",
+      "en": "Many people want to guide, but few know this route.",
+      "answers": [
+        "Many people want to guide, but few know this route."
+      ],
+      "notes": "many、few 指可数的人，不用 much、little。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "数量限定与多少",
+        "小学进阶至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0047",
+      "zh": "我没有多余的现金，但可以借给你一张通行证。",
+      "en": "I have no spare cash, but I can lend you a pass.",
+      "answers": [
+        "I have no spare cash, but I can lend you a pass."
+      ],
+      "notes": "cash 不可数；pass 可数单数用 a。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "数量限定与多少",
+        "小学进阶至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0048",
+      "zh": "两人都没提出可行的替代办法。",
+      "en": "Neither person offered a workable alternative.",
+      "answers": [
+        "Neither person offered a workable alternative."
+      ],
+      "notes": "neither + 单数名词；限定恰好两者。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "数量限定与多少",
+        "小学进阶至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0049",
+      "zh": "任何一条小路都能通往车站。",
+      "en": "Either path leads to the station.",
+      "answers": [
+        "Either path leads to the station."
+      ],
+      "notes": "either 指两者中任一，后用单数 path 和 leads。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "数量限定与多少",
+        "小学进阶至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0050",
+      "zh": "我们并不需要每位客人都带礼物。",
+      "en": "We do not need every guest to bring a gift.",
+      "answers": [
+        "We do not need every guest to bring a gift.",
+        "We don't need every guest to bring a gift."
+      ],
+      "notes": "every + 单数；not ... every 为部分否定。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "数量限定与多少",
+        "小学进阶至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0051",
+      "zh": "所有蛋糕都已分好，其中一部分留给了晚到的人。",
+      "en": "All the cakes are sliced, and some are reserved for late arrivals.",
+      "answers": [
+        "All the cakes are sliced, and some are reserved for late arrivals."
+      ],
+      "notes": "all the 指特定一批；some 替代其中一部分。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "整体部分与边界",
+        "小学进阶至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0052",
+      "zh": "大多数当地家庭都认识这位面包师。",
+      "en": "Most local families know the baker.",
+      "answers": [
+        "Most local families know the baker."
+      ],
+      "notes": "most 直接接泛指复数；不用 most of families。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "整体部分与边界",
+        "小学进阶至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0053",
+      "zh": "大多数到场者都愿意再来一次。",
+      "en": "Most of those present would return.",
+      "answers": [
+        "Most of those present would return."
+      ],
+      "notes": "most of 后接已限定群体 those present。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "整体部分与边界",
+        "小学进阶至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0054",
+      "zh": "我喝了半杯果汁，把剩下的留给了你。",
+      "en": "I drank half a glass of juice and left the rest for you.",
+      "answers": [
+        "I drank half a glass of juice and left the rest for you."
+      ],
+      "notes": "half a + 单数单位；the rest 指余下部分。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "整体部分与边界",
+        "小学进阶至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0055",
+      "zh": "每桌都放了同样数量的茶杯。",
+      "en": "The same number of cups was placed on each table.",
+      "answers": [
+        "The same number of cups was placed on each table."
+      ],
+      "notes": "number 作单数主语；each table 单数。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "整体部分与边界",
+        "小学进阶至四级"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0056",
+      "zh": "除了两份菜单，其余的都印有价格。",
+      "en": "All but two menus include prices.",
+      "answers": [
+        "All but two menus include prices."
+      ],
+      "notes": "all but two 表除两份之外全都。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "整体部分与边界",
+        "小学进阶至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0057",
+      "zh": "两家餐馆都没有室外座位。",
+      "en": "Neither of the restaurants has outdoor seating.",
+      "answers": [
+        "Neither of the restaurants has outdoor seating."
+      ],
+      "notes": "neither of + 复数限定群体，规范书面语谓语常用单数。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "整体部分与边界",
+        "小学进阶至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0058",
+      "zh": "整座村庄都参加了庆典。",
+      "en": "The whole village took part in the celebration.",
+      "answers": [
+        "The whole village took part in the celebration."
+      ],
+      "notes": "the whole + 单数整体；与 all the villagers 区分。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "整体部分与边界",
+        "小学进阶至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0059",
+      "zh": "我们需要再加一张椅子，而不是再加一整张桌子。",
+      "en": "We need one more chair, not another whole table.",
+      "answers": [
+        "We need one more chair, not another whole table."
+      ],
+      "notes": "one more + 单数；another 表另一个。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "整体部分与边界",
+        "小学进阶至四级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "grammar_articles_quantity_s1_0060",
+      "zh": "每位客人都得到了一杯茶，但不是每杯都有牛奶。",
+      "en": "Each guest received tea, but not every cup contained milk.",
+      "answers": [
+        "Each guest received tea, but not every cup contained milk."
+      ],
+      "notes": "each 强调逐个分配；not every 限定第二分句范围。",
+      "tags": [
+        "语法专项",
+        "冠词与数量",
+        "整体部分与边界",
+        "小学进阶至四级"
+      ],
+      "difficulty": 3
+    }
+  ]
+}

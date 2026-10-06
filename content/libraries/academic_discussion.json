@@ -1,0 +1,569 @@
+{
+  "schema_version": 1,
+  "id": "academic_discussion",
+  "title": "学术讨论精选 · 36 句",
+  "description": "围绕本主题的具体情境组织表达；覆盖请求、说明、比较与复合句，并附逐题用法。",
+  "language": "en-GB",
+  "tags": [
+    "学术讨论",
+    "主题分类",
+    "精选",
+    "逐题讲解"
+  ],
+  "items": [
+    {
+      "zh": "这个结论是基于访谈，还是基于实验数据？",
+      "en": "Is this conclusion based on interviews or experimental data?",
+      "answers": [
+        "Is this conclusion based on interviews or experimental data?"
+      ],
+      "notes": "be based on 表示基于；选择疑问句用于确认结论的证据来源。",
+      "tags": [
+        "学术讨论",
+        "选择疑问句",
+        "核对证据",
+        "研究方法"
+      ],
+      "difficulty": 2,
+      "id": "academic_discussion_001"
+    },
+    {
+      "zh": "样本主要来自城市，因此结果未必适用于农村地区。",
+      "en": "The sample comes mainly from cities, so the findings may not apply to rural areas.",
+      "answers": [
+        "The sample comes mainly from cities, so the findings may not apply to rural areas."
+      ],
+      "notes": "apply to 表示适用于；may not 限定外推范围。",
+      "tags": [
+        "学术讨论",
+        "因果并列句",
+        "限定推广范围",
+        "样本代表性"
+      ],
+      "difficulty": 3,
+      "id": "academic_discussion_002"
+    },
+    {
+      "zh": "虽然两者存在相关性，但这并不能证明其中一个导致了另一个。",
+      "en": "Although the two are correlated, this does not prove that one causes the other.",
+      "answers": [
+        "Although the two are correlated, this does not prove that one causes the other."
+      ],
+      "notes": "be correlated 表示相关；cause 表示导致，相关关系不能直接等同因果。",
+      "tags": [
+        "学术讨论",
+        "让步从句",
+        "区分相关与因果",
+        "因果推断"
+      ],
+      "difficulty": 3,
+      "id": "academic_discussion_003"
+    },
+    {
+      "zh": "如果控制了年龄，这个差异还会存在吗？",
+      "en": "Would this difference remain if we controlled for age?",
+      "answers": [
+        "Would this difference remain if we controlled for age?"
+      ],
+      "notes": "control for 表示在分析中控制某个变量；would 配合过去式条件从句。",
+      "tags": [
+        "学术讨论",
+        "虚拟条件疑问句",
+        "检查混杂因素",
+        "变量控制"
+      ],
+      "difficulty": 4,
+      "id": "academic_discussion_004"
+    },
+    {
+      "zh": "作者所说的“成功”具体是如何衡量的？",
+      "en": "How exactly does the author measure what they call success?",
+      "answers": [
+        "How exactly does the author measure what they call success?"
+      ],
+      "notes": "what 从句作 measure 的宾语；单数 they 可用于性别未知的作者。",
+      "tags": [
+        "学术讨论",
+        "宾语从句",
+        "核对概念定义",
+        "测量指标"
+      ],
+      "difficulty": 3,
+      "id": "academic_discussion_005"
+    },
+    {
+      "zh": "与其增加更多案例，不如先解释这些案例是如何选出来的。",
+      "en": "Rather than add more cases, we should first explain how they were selected.",
+      "answers": [
+        "Rather than add more cases, we should first explain how they were selected."
+      ],
+      "notes": "rather than add 与 should explain 平行；how 从句用被动语态聚焦选样过程。",
+      "tags": [
+        "学术讨论",
+        "对比结构",
+        "改进论证",
+        "案例选择"
+      ],
+      "difficulty": 3,
+      "id": "academic_discussion_006"
+    },
+    {
+      "zh": "我最想了解的是，这种效应在六个月后是否仍然存在。",
+      "en": "What I'd most like to know is whether this effect persists after six months.",
+      "answers": [
+        "What I'd most like to know is whether this effect persists after six months."
+      ],
+      "notes": "what 从句作主语；persist 表示持续存在。",
+      "tags": [
+        "学术讨论",
+        "主语从句",
+        "追问长期效果",
+        "随访"
+      ],
+      "difficulty": 4,
+      "id": "academic_discussion_007"
+    },
+    {
+      "zh": "由于缺少对照组，我们很难排除其他解释。",
+      "en": "Without a control group, it is difficult to rule out alternative explanations.",
+      "answers": [
+        "Without a control group, it is difficult to rule out alternative explanations."
+      ],
+      "notes": "without 表示条件缺失；rule out 表示排除，it 为形式主语。",
+      "tags": [
+        "学术讨论",
+        "形式主语",
+        "指出研究限制",
+        "对照设计"
+      ],
+      "difficulty": 3,
+      "id": "academic_discussion_008"
+    },
+    {
+      "zh": "报告提到了平均值，却没有说明数据的分布。",
+      "en": "The report gives the mean but does not describe the distribution of the data.",
+      "answers": [
+        "The report gives the mean but does not describe the distribution of the data."
+      ],
+      "notes": "mean 指算术平均值；distribution 指数据如何分散，两个概念不能互相替代。",
+      "tags": [
+        "学术讨论",
+        "转折并列句",
+        "检查统计报告",
+        "数据分布"
+      ],
+      "difficulty": 3,
+      "id": "academic_discussion_009"
+    },
+    {
+      "zh": "在得出结论之前，我们需要知道有多少参与者中途退出。",
+      "en": "Before drawing a conclusion, we need to know how many participants dropped out.",
+      "answers": [
+        "Before drawing a conclusion, we need to know how many participants dropped out."
+      ],
+      "notes": "draw a conclusion 表示得出结论；drop out 表示中途退出。",
+      "tags": [
+        "学术讨论",
+        "时间从句",
+        "检查研究完整性",
+        "样本流失"
+      ],
+      "difficulty": 3,
+      "id": "academic_discussion_010"
+    },
+    {
+      "zh": "即使结果具有统计显著性，实际影响也可能很小。",
+      "en": "Even if the result is statistically significant, its practical impact may be small.",
+      "answers": [
+        "Even if the result is statistically significant, its practical impact may be small."
+      ],
+      "notes": "even if 引出让步；区分 statistical significance 与 practical impact。",
+      "tags": [
+        "学术讨论",
+        "让步条件句",
+        "解释结果",
+        "效应大小"
+      ],
+      "difficulty": 4,
+      "id": "academic_discussion_011"
+    },
+    {
+      "zh": "这项研究提出了一个值得检验的假设，而不是已经确立的事实。",
+      "en": "This study offers a hypothesis worth testing rather than an established fact.",
+      "answers": [
+        "This study offers a hypothesis worth testing rather than an established fact."
+      ],
+      "notes": "worth 后接 doing；established fact 指已确立的事实。",
+      "tags": [
+        "学术讨论",
+        "对比结构",
+        "限定论断强度",
+        "研究结论"
+      ],
+      "difficulty": 3,
+      "id": "academic_discussion_012"
+    },
+    {
+      "id": "academic_discussion_ext_0001",
+      "zh": "这篇论文研究的问题，比标题给人的印象更窄。",
+      "en": "The paper addresses a narrower question than its title suggests.",
+      "answers": [
+        "The paper addresses a narrower question than its title suggests."
+      ],
+      "notes": "narrower than：范围更窄。",
+      "tags": [
+        "学术讨论",
+        "比较结构",
+        "研究范围"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "academic_discussion_ext_0002",
+      "zh": "您能指出哪一段数据支持这个说法吗？",
+      "en": "Could you identify the data that support this claim?",
+      "answers": [
+        "Could you identify the data that support this claim?"
+      ],
+      "notes": "support a claim：支持论断。",
+      "tags": [
+        "学术讨论",
+        "定语从句",
+        "证据定位"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "academic_discussion_ext_0003",
+      "zh": "我们是否考虑过相反的解释？",
+      "en": "Have we considered the opposite explanation?",
+      "answers": [
+        "Have we considered the opposite explanation?"
+      ],
+      "notes": "现在完成时询问截至目前的考虑。",
+      "tags": [
+        "学术讨论",
+        "现在完成时",
+        "替代解释"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "academic_discussion_ext_0004",
+      "zh": "这里的百分比是以所有申请者为基数计算的吗？",
+      "en": "Is this percentage calculated using all applicants as the denominator?",
+      "answers": [
+        "Is this percentage calculated using all applicants as the denominator?"
+      ],
+      "notes": "denominator：分母。",
+      "tags": [
+        "学术讨论",
+        "被动疑问句",
+        "分母核对"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "academic_discussion_ext_0005",
+      "zh": "少数极端值可能把平均数拉高。",
+      "en": "A few extreme values may be pulling the mean upwards.",
+      "answers": [
+        "A few extreme values may be pulling the mean upwards."
+      ],
+      "notes": "pull upwards：向上拉高。",
+      "tags": [
+        "学术讨论",
+        "进行时表达",
+        "异常值"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "academic_discussion_ext_0006",
+      "zh": "中位数或许能更好地反映典型家庭的情况。",
+      "en": "The median might better represent a typical household.",
+      "answers": [
+        "The median might better represent a typical household."
+      ],
+      "notes": "median：中位数。",
+      "tags": [
+        "学术讨论",
+        "情态表达",
+        "统计指标"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "academic_discussion_ext_0007",
+      "zh": "在合并两个数据集之前，需要统一分类标准。",
+      "en": "The categories need to be standardised before the two datasets are combined.",
+      "answers": [
+        "The categories need to be standardised before the two datasets are combined."
+      ],
+      "notes": "need to be done：需要被处理。",
+      "tags": [
+        "学术讨论",
+        "被动语态",
+        "数据整合"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "academic_discussion_ext_0008",
+      "zh": "问卷的措辞是否可能暗示了研究者期待的答案？",
+      "en": "Could the wording of the questionnaire have suggested the answer the researchers expected?",
+      "answers": [
+        "Could the wording of the questionnaire have suggested the answer the researchers expected?"
+      ],
+      "notes": "could have done 表示过去的可能。",
+      "tags": [
+        "学术讨论",
+        "情态完成式",
+        "问卷设计"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "academic_discussion_ext_0009",
+      "zh": "参与者知道自己属于实验组吗？",
+      "en": "Did participants know they were in the experimental group?",
+      "answers": [
+        "Did participants know they were in the experimental group?"
+      ],
+      "notes": "宾语从句保留陈述语序。",
+      "tags": [
+        "学术讨论",
+        "宾语从句",
+        "实验设计"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "academic_discussion_ext_0010",
+      "zh": "记录观察过程，可以让其他研究者理解我们如何得出判断。",
+      "en": "Documenting our observations allows other researchers to understand how we reached our judgement.",
+      "answers": [
+        "Documenting our observations allows other researchers to understand how we reached our judgement."
+      ],
+      "notes": "document 可作动词，表示记录。",
+      "tags": [
+        "学术讨论",
+        "动名词主语",
+        "研究透明度"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "academic_discussion_ext_0011",
+      "zh": "我同意主要结论，但对它的适用范围有所保留。",
+      "en": "I agree with the main conclusion but have reservations about its scope.",
+      "answers": [
+        "I agree with the main conclusion but have reservations about its scope."
+      ],
+      "notes": "have reservations about：有所保留。",
+      "tags": [
+        "学术讨论",
+        "转折并列句",
+        "讨论立场"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "academic_discussion_ext_0012",
+      "zh": "这个例子说明了可能性，却不能告诉我们发生频率。",
+      "en": "This example demonstrates a possibility without telling us how often it occurs.",
+      "answers": [
+        "This example demonstrates a possibility without telling us how often it occurs."
+      ],
+      "notes": "how often：发生频率。",
+      "tags": [
+        "学术讨论",
+        "让步表达",
+        "案例局限"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "academic_discussion_ext_0013",
+      "zh": "我们应把探索性分析和事先计划好的分析区分开来。",
+      "en": "We should separate exploratory analysis from analysis planned in advance.",
+      "answers": [
+        "We should separate exploratory analysis from analysis planned in advance."
+      ],
+      "notes": "separate A from B：区分两者。",
+      "tags": [
+        "学术讨论",
+        "分词定语",
+        "分析计划"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "academic_discussion_ext_0014",
+      "zh": "如果测量工具在两组中的表现不同，比较结果就可能有偏差。",
+      "en": "The comparison may be biased if the measurement tool performs differently across the two groups.",
+      "answers": [
+        "The comparison may be biased if the measurement tool performs differently across the two groups."
+      ],
+      "notes": "biased：有偏差的。",
+      "tags": [
+        "学术讨论",
+        "条件从句",
+        "测量一致性"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "academic_discussion_ext_0015",
+      "zh": "相关文献中的定义并不一致，这可能解释了部分分歧。",
+      "en": "Definitions vary across the literature, which may explain some of the disagreement.",
+      "answers": [
+        "Definitions vary across the literature, which may explain some of the disagreement."
+      ],
+      "notes": "which 概括前一分句。",
+      "tags": [
+        "学术讨论",
+        "非限制性定语从句",
+        "文献综述"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "academic_discussion_ext_0016",
+      "zh": "请把直接引语与您自己的概括清楚地区分开。",
+      "en": "Please distinguish direct quotations clearly from your own summaries.",
+      "answers": [
+        "Please distinguish direct quotations clearly from your own summaries."
+      ],
+      "notes": "distinguish A from B：明确区分。",
+      "tags": [
+        "学术讨论",
+        "祈使句",
+        "引用规范"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "academic_discussion_ext_0017",
+      "zh": "未经受访者同意，我们不能公开这段录音。",
+      "en": "We cannot release this recording without the interviewee's consent.",
+      "answers": [
+        "We cannot release this recording without the interviewee's consent.",
+        "We can't release this recording without the interviewee's consent."
+      ],
+      "notes": "without consent：未经同意。",
+      "tags": [
+        "学术讨论",
+        "条件短语",
+        "研究伦理"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "academic_discussion_ext_0018",
+      "zh": "我找不到附录里提到的计算方法。",
+      "en": "I cannot locate the calculation method mentioned in the appendix.",
+      "answers": [
+        "I cannot locate the calculation method mentioned in the appendix.",
+        "I can't locate the calculation method mentioned in the appendix."
+      ],
+      "notes": "mentioned 为修饰 method 的分词。",
+      "tags": [
+        "学术讨论",
+        "分词定语",
+        "材料核对"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "academic_discussion_ext_0019",
+      "zh": "重复实验时，哪些步骤必须保持不变？",
+      "en": "Which steps must remain unchanged when the experiment is repeated?",
+      "answers": [
+        "Which steps must remain unchanged when the experiment is repeated?"
+      ],
+      "notes": "remain unchanged：保持不变。",
+      "tags": [
+        "学术讨论",
+        "时间疑问句",
+        "研究复现"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "academic_discussion_ext_0020",
+      "zh": "我们需要知道缺失值是随机出现的，还是集中在某一群体中。",
+      "en": "We need to know whether missing values occur randomly or cluster in a particular group.",
+      "answers": [
+        "We need to know whether missing values occur randomly or cluster in a particular group."
+      ],
+      "notes": "whether ... or ... 表示两种可能。",
+      "tags": [
+        "学术讨论",
+        "名词性从句",
+        "缺失数据"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "academic_discussion_ext_0021",
+      "zh": "置信区间较宽，说明估计结果仍有较大的不确定性。",
+      "en": "The wide confidence interval indicates substantial uncertainty in the estimate.",
+      "answers": [
+        "The wide confidence interval indicates substantial uncertainty in the estimate."
+      ],
+      "notes": "confidence interval：置信区间。",
+      "tags": [
+        "学术讨论",
+        "陈述句",
+        "统计解释"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "academic_discussion_ext_0022",
+      "zh": "与其删除不符合预期的数据，不如先检查它们的来源。",
+      "en": "Instead of discarding unexpected observations, we should first investigate their source.",
+      "answers": [
+        "Instead of discarding unexpected observations, we should first investigate their source."
+      ],
+      "notes": "instead of 后接动名词。",
+      "tags": [
+        "学术讨论",
+        "对比结构",
+        "数据核查"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "academic_discussion_ext_0023",
+      "zh": "这一段需要一个过渡句，说明它如何接续前面的论点。",
+      "en": "This paragraph needs a transition explaining how it follows from the previous argument.",
+      "answers": [
+        "This paragraph needs a transition explaining how it follows from the previous argument."
+      ],
+      "notes": "follow from：由前文推导或承接。",
+      "tags": [
+        "学术讨论",
+        "分词定语",
+        "论文结构"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "academic_discussion_ext_0024",
+      "zh": "我们的结论应与现有证据的强度相匹配。",
+      "en": "Our conclusions should match the strength of the available evidence.",
+      "answers": [
+        "Our conclusions should match the strength of the available evidence."
+      ],
+      "notes": "match 在此表示与之相称。",
+      "tags": [
+        "学术讨论",
+        "情态表达",
+        "结论边界"
+      ],
+      "difficulty": 3
+    }
+  ]
+}

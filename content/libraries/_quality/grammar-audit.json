@@ -1,0 +1,818 @@
+{
+  "libraries": 66,
+  "items": 4320,
+  "added": 720,
+  "preserved": 3600,
+  "duplicates": [],
+  "zh_duplicates": [],
+  "substitution_pairs": [],
+  "insertion_pairs": [],
+  "similarity_candidates": [],
+  "lexical_review": [
+    {
+      "a": "grammar_focus_order/grammar_focus_order_s1_0004",
+      "b": "grammar_focus_order/grammar_focus_order_s1_0005",
+      "en_a": "Only my sister knows where the gathering is.",
+      "en_b": "My sister knows only the location, not the time.",
+      "zh_a": "只有我妹妹知道聚会的地点。",
+      "zh_b": "我妹妹只知道聚会地点，不知道时间。",
+      "source_a": "grammar_focus_order.txt:5",
+      "source_b": "grammar_focus_order.txt:6",
+      "score": 0.653
+    },
+    {
+      "a": "everyday_social_tasks/everyday_social_tasks_v3_0078",
+      "b": "grammar_reference_agreement/grammar_reference_agreement_s1_0021",
+      "en_a": "You do not need to apologise for asking.",
+      "en_b": "I am not asking you to apologise for me; I will do it myself.",
+      "zh_a": "你不必为求助道歉。",
+      "zh_b": "我不是让你替我道歉，我会自己道歉。",
+      "source_a": "existing",
+      "source_b": "grammar_reference_agreement.txt:24",
+      "score": 0.649
+    },
+    {
+      "a": "daily_english_1000/daily_0039",
+      "b": "grammar_prepositions_space/grammar_prepositions_space_s1_0033",
+      "en_a": "I was about to leave when the doorbell rang.",
+      "en_b": "The doorbell rang in the middle of our conversation.",
+      "zh_a": "我刚要出门，门铃就响了。",
+      "zh_b": "交谈中途，门铃响了。",
+      "source_a": "existing",
+      "source_b": "grammar_prepositions_space.txt:37",
+      "score": 0.532
+    },
+    {
+      "a": "science_nature/science_nature_v3_0007",
+      "b": "grammar_adverb_clauses/grammar_adverb_clauses_s1_0016",
+      "en_a": "The observer may influence the measurement.",
+      "en_b": "We covered the answer so that it would not influence the observer.",
+      "zh_a": "观察者可能影响测量结果。",
+      "zh_b": "我们遮住了答案，免得它影响观察者的判断。",
+      "source_a": "existing",
+      "source_b": "grammar_adverb_clauses.txt:18",
+      "score": 0.521
+    },
+    {
+      "a": "food_cooking/food_cooking_v3_0012",
+      "b": "grammar_participles_complements/grammar_participles_complements_s1_0038",
+      "en_a": "Cut the potatoes into even pieces.",
+      "en_b": "Even cut into small pieces, this meat still needs slow cooking.",
+      "zh_a": "把土豆切成大小相近的块。",
+      "zh_b": "即使切成小块，这种肉仍需要慢炖。",
+      "source_a": "existing",
+      "source_b": "grammar_participles_complements.txt:42",
+      "score": 0.508
+    },
+    {
+      "a": "community_volunteering/community_volunteering_v3_0041",
+      "b": "grammar_noun_clauses/grammar_noun_clauses_s1_0015",
+      "en_a": "Is a large-print version available?",
+      "en_b": "Whether a large-print version is provided should not depend on whether anyone requests one.",
+      "zh_a": "这份材料有大字版吗？",
+      "zh_b": "是否提供大字版，不应取决于有没有人提出要求。",
+      "source_a": "existing",
+      "source_b": "grammar_noun_clauses.txt:17",
+      "score": 0.494
+    },
+    {
+      "a": "grammar_articles_quantity/grammar_articles_quantity_s1_0059",
+      "b": "grammar_reference_agreement/grammar_reference_agreement_s1_0054",
+      "en_a": "We need one more chair, not another whole table.",
+      "en_b": "Every chair and every table needs a label.",
+      "zh_a": "我们需要再加一张椅子，而不是再加一整张桌子。",
+      "zh_b": "每张椅子和每张桌子都需要贴标签。",
+      "source_a": "grammar_articles_quantity.txt:65",
+      "source_b": "grammar_reference_agreement.txt:60",
+      "score": 0.459
+    },
+    {
+      "a": "outdoor_sports/outdoor_sports_v3_0040",
+      "b": "grammar_focus_order/grammar_focus_order_s1_0040",
+      "en_a": "Count everyone before setting out.",
+      "en_b": "What else do we need to know before setting out?",
+      "zh_a": "先清点人数再出发。",
+      "zh_b": "还有什么是我们出发前需要知道的？",
+      "source_a": "existing",
+      "source_b": "grammar_focus_order.txt:44",
+      "score": 0.458
+    },
+    {
+      "a": "level_primary_daily/level_primary_daily_g1_0047",
+      "b": "grammar_articles_quantity/grammar_articles_quantity_s1_0002",
+      "en_a": "She gave me her seat.",
+      "en_b": "She gave me a new suggestion for lunch.",
+      "zh_a": "她把座位让给了我。",
+      "zh_b": "她给了我一个关于午餐的新建议。",
+      "source_a": "existing",
+      "source_b": "grammar_articles_quantity.txt:3",
+      "score": 0.454
+    }
+  ],
+  "chinese_review": [
+    {
+      "a": "grammar_focus_order/grammar_focus_order_s1_0004",
+      "b": "grammar_focus_order/grammar_focus_order_s1_0005",
+      "en_a": "Only my sister knows where the gathering is.",
+      "en_b": "My sister knows only the location, not the time.",
+      "zh_a": "只有我妹妹知道聚会的地点。",
+      "zh_b": "我妹妹只知道聚会地点，不知道时间。",
+      "source_a": "grammar_focus_order.txt:5",
+      "source_b": "grammar_focus_order.txt:6",
+      "score": 0.484
+    },
+    {
+      "a": "demo_daily/daily_0017",
+      "b": "grammar_prepositions_patterns/grammar_prepositions_patterns_s1_0032",
+      "en_a": "I'm looking forward to it.",
+      "en_b": "I look forward to examining the manuscripts with you.",
+      "zh_a": "我很期待。",
+      "zh_b": "我很期待与你一起查看这些手稿。",
+      "source_a": "existing",
+      "source_b": "grammar_prepositions_patterns.txt:36",
+      "score": 0.469
+    },
+    {
+      "a": "grammar_reference_agreement/grammar_reference_agreement_s1_0049",
+      "b": "grammar_reference_agreement/grammar_reference_agreement_s1_0050",
+      "en_a": "Most of the bread is sliced.",
+      "en_b": "Most of the rolls are sold.",
+      "zh_a": "大多数面包已经切好了。",
+      "zh_b": "大多数面包卷已经售出。",
+      "source_a": "grammar_reference_agreement.txt:54",
+      "source_b": "grammar_reference_agreement.txt:55",
+      "score": 0.449
+    }
+  ],
+  "prefix": [
+    {
+      "id": "level_primary_daily",
+      "items": 60,
+      "opening": "may i sit here",
+      "count": 1,
+      "share": 0.016666666666666666
+    },
+    {
+      "id": "level_primary_discovery",
+      "items": 60,
+      "opening": "a leaf is floating",
+      "count": 1,
+      "share": 0.016666666666666666
+    },
+    {
+      "id": "level_junior_experience",
+      "items": 60,
+      "opening": "i joined the astronomy",
+      "count": 1,
+      "share": 0.016666666666666666
+    },
+    {
+      "id": "level_junior_messages",
+      "items": 60,
+      "opening": "please bring a small",
+      "count": 1,
+      "share": 0.016666666666666666
+    },
+    {
+      "id": "level_senior_writing",
+      "items": 60,
+      "opening": "she kept glancing towards",
+      "count": 1,
+      "share": 0.016666666666666666
+    },
+    {
+      "id": "level_senior_reasoning",
+      "items": 60,
+      "opening": "both interest and scheduling",
+      "count": 1,
+      "share": 0.016666666666666666
+    },
+    {
+      "id": "level_cet4_campus",
+      "items": 60,
+      "opening": "i would like to",
+      "count": 3,
+      "share": 0.05
+    },
+    {
+      "id": "level_cet4_culture",
+      "items": 60,
+      "opening": "the festival falls on",
+      "count": 1,
+      "share": 0.016666666666666666
+    },
+    {
+      "id": "level_cet6_argument",
+      "items": 60,
+      "opening": "rewarding an agency solely",
+      "count": 1,
+      "share": 0.016666666666666666
+    },
+    {
+      "id": "level_cet6_precision",
+      "items": 60,
+      "opening": "a lack of improvement",
+      "count": 1,
+      "share": 0.016666666666666666
+    },
+    {
+      "id": "academic_discussion",
+      "items": 36,
+      "opening": "is this conclusion based",
+      "count": 1,
+      "share": 0.027777777777777776
+    },
+    {
+      "id": "arts_creativity",
+      "items": 100,
+      "opening": "start with the outline",
+      "count": 1,
+      "share": 0.01
+    },
+    {
+      "id": "banking_finance",
+      "items": 36,
+      "opening": "how long will this",
+      "count": 2,
+      "share": 0.05555555555555555
+    },
+    {
+      "id": "career_development",
+      "items": 100,
+      "opening": "i do not want",
+      "count": 2,
+      "share": 0.02
+    },
+    {
+      "id": "community_volunteering",
+      "items": 100,
+      "opening": "we need to understand",
+      "count": 2,
+      "share": 0.02
+    },
+    {
+      "id": "complaints_negotiation",
+      "items": 36,
+      "opening": "i booked a double",
+      "count": 1,
+      "share": 0.027777777777777776
+    },
+    {
+      "id": "comprehensive_english_5000",
+      "items": 106,
+      "opening": "i would like to",
+      "count": 2,
+      "share": 0.018867924528301886
+    },
+    {
+      "id": "culture_society",
+      "items": 36,
+      "opening": "this museum not only",
+      "count": 1,
+      "share": 0.027777777777777776
+    },
+    {
+      "id": "daily_english_1000",
+      "items": 124,
+      "opening": "i'm busy today",
+      "count": 1,
+      "share": 0.008064516129032258
+    },
+    {
+      "id": "demo_daily",
+      "items": 20,
+      "opening": "see you later",
+      "count": 1,
+      "share": 0.05
+    },
+    {
+      "id": "education_learning",
+      "items": 36,
+      "opening": "i recognise this word",
+      "count": 1,
+      "share": 0.027777777777777776
+    },
+    {
+      "id": "environment_climate",
+      "items": 36,
+      "opening": "this container can be",
+      "count": 1,
+      "share": 0.027777777777777776
+    },
+    {
+      "id": "everyday_social_tasks",
+      "items": 100,
+      "opening": "i do not want",
+      "count": 3,
+      "share": 0.03
+    },
+    {
+      "id": "family_social",
+      "items": 36,
+      "opening": "we'll tidy the kitchen",
+      "count": 1,
+      "share": 0.027777777777777776
+    },
+    {
+      "id": "food_cooking",
+      "items": 100,
+      "opening": "these peaches are not",
+      "count": 1,
+      "share": 0.01
+    },
+    {
+      "id": "formal_correspondence",
+      "items": 86,
+      "opening": "please refer to the",
+      "count": 1,
+      "share": 0.011627906976744186
+    },
+    {
+      "id": "health_lifestyle",
+      "items": 36,
+      "opening": "i don't run every",
+      "count": 1,
+      "share": 0.027777777777777776
+    },
+    {
+      "id": "housing_rental",
+      "items": 36,
+      "opening": "does the rent for",
+      "count": 1,
+      "share": 0.027777777777777776
+    },
+    {
+      "id": "ielts_arts_heritage",
+      "items": 64,
+      "opening": "box office revenue cannot",
+      "count": 1,
+      "share": 0.015625
+    },
+    {
+      "id": "ielts_cities",
+      "items": 64,
+      "opening": "reducing bus waiting times",
+      "count": 1,
+      "share": 0.015625
+    },
+    {
+      "id": "ielts_economy",
+      "items": 64,
+      "opening": "scarcity raises prices but",
+      "count": 1,
+      "share": 0.015625
+    },
+    {
+      "id": "ielts_education",
+      "items": 64,
+      "opening": "although tuition fees are",
+      "count": 1,
+      "share": 0.015625
+    },
+    {
+      "id": "ielts_environment",
+      "items": 64,
+      "opening": "even if every household",
+      "count": 1,
+      "share": 0.015625
+    },
+    {
+      "id": "ielts_food_agriculture",
+      "items": 64,
+      "opening": "adequate food supplies do",
+      "count": 1,
+      "share": 0.015625
+    },
+    {
+      "id": "ielts_global_connections",
+      "items": 64,
+      "opening": "trade expands choice while",
+      "count": 1,
+      "share": 0.015625
+    },
+    {
+      "id": "ielts_health_work",
+      "items": 64,
+      "opening": "flexible working hours can",
+      "count": 1,
+      "share": 0.015625
+    },
+    {
+      "id": "ielts_media_public_discourse",
+      "items": 64,
+      "opening": "pressure to publish first",
+      "count": 1,
+      "share": 0.015625
+    },
+    {
+      "id": "ielts_paragraph_links",
+      "items": 96,
+      "opening": "free breakfasts can help",
+      "count": 1,
+      "share": 0.010416666666666666
+    },
+    {
+      "id": "ielts_scientific_research",
+      "items": 64,
+      "opening": "the applications of basic",
+      "count": 1,
+      "share": 0.015625
+    },
+    {
+      "id": "ielts_society",
+      "items": 64,
+      "opening": "the effectiveness of public",
+      "count": 1,
+      "share": 0.015625
+    },
+    {
+      "id": "ielts_task1_data",
+      "items": 96,
+      "opening": "the chart shows that",
+      "count": 1,
+      "share": 0.010416666666666666
+    },
+    {
+      "id": "ielts_technology",
+      "items": 64,
+      "opening": "algorithms can screen applications",
+      "count": 1,
+      "share": 0.015625
+    },
+    {
+      "id": "media_information",
+      "items": 100,
+      "opening": "the report omits the",
+      "count": 1,
+      "share": 0.01
+    },
+    {
+      "id": "medical_english",
+      "items": 36,
+      "opening": "i would like to",
+      "count": 2,
+      "share": 0.05555555555555555
+    },
+    {
+      "id": "outdoor_sports",
+      "items": 100,
+      "opening": "i am unfamiliar with",
+      "count": 2,
+      "share": 0.02
+    },
+    {
+      "id": "personal_finance_planning",
+      "items": 100,
+      "opening": "i do not want",
+      "count": 3,
+      "share": 0.03
+    },
+    {
+      "id": "projects_problem_solving",
+      "items": 100,
+      "opening": "we have not defined",
+      "count": 1,
+      "share": 0.01
+    },
+    {
+      "id": "public_services_law",
+      "items": 36,
+      "opening": "i'd like to check",
+      "count": 1,
+      "share": 0.027777777777777776
+    },
+    {
+      "id": "relationships_emotions",
+      "items": 36,
+      "opening": "i need some time",
+      "count": 1,
+      "share": 0.027777777777777776
+    },
+    {
+      "id": "science_nature",
+      "items": 100,
+      "opening": "the scale begins at",
+      "count": 1,
+      "share": 0.01
+    },
+    {
+      "id": "shopping_consumption",
+      "items": 100,
+      "opening": "the waist fits but",
+      "count": 1,
+      "share": 0.01
+    },
+    {
+      "id": "storytelling_memories",
+      "items": 100,
+      "opening": "i still remember the",
+      "count": 2,
+      "share": 0.02
+    },
+    {
+      "id": "technology_internet",
+      "items": 36,
+      "opening": "why hasn't the file",
+      "count": 1,
+      "share": 0.027777777777777776
+    },
+    {
+      "id": "work_business",
+      "items": 36,
+      "opening": "this quotation includes after",
+      "count": 1,
+      "share": 0.027777777777777776
+    },
+    {
+      "id": "grammar_prepositions_space",
+      "items": 60,
+      "opening": "the instructions are stuck",
+      "count": 1,
+      "share": 0.016666666666666666
+    },
+    {
+      "id": "grammar_prepositions_patterns",
+      "items": 60,
+      "opening": "consult the registrar about",
+      "count": 1,
+      "share": 0.016666666666666666
+    },
+    {
+      "id": "grammar_relative_clauses",
+      "items": 60,
+      "opening": "the person who can",
+      "count": 1,
+      "share": 0.016666666666666666
+    },
+    {
+      "id": "grammar_noun_clauses",
+      "items": 60,
+      "opening": "i am unsure where",
+      "count": 1,
+      "share": 0.016666666666666666
+    },
+    {
+      "id": "grammar_adverb_clauses",
+      "items": 60,
+      "opening": "because the arch is",
+      "count": 1,
+      "share": 0.016666666666666666
+    },
+    {
+      "id": "grammar_infinitives_gerunds",
+      "items": 60,
+      "opening": "they decided to move",
+      "count": 1,
+      "share": 0.016666666666666666
+    },
+    {
+      "id": "grammar_participles_complements",
+      "items": 60,
+      "opening": "the person singing beside",
+      "count": 1,
+      "share": 0.016666666666666666
+    },
+    {
+      "id": "grammar_articles_quantity",
+      "items": 60,
+      "opening": "i need a pharmacist",
+      "count": 1,
+      "share": 0.016666666666666666
+    },
+    {
+      "id": "grammar_reference_agreement",
+      "items": 60,
+      "opening": "the invitation is for",
+      "count": 1,
+      "share": 0.016666666666666666
+    },
+    {
+      "id": "grammar_comparison_degree",
+      "items": 60,
+      "opening": "the path is not",
+      "count": 1,
+      "share": 0.016666666666666666
+    },
+    {
+      "id": "grammar_negation_modality",
+      "items": 60,
+      "opening": "not all seats offer",
+      "count": 1,
+      "share": 0.016666666666666666
+    },
+    {
+      "id": "grammar_focus_order",
+      "items": 60,
+      "opening": "she usually practises singing",
+      "count": 1,
+      "share": 0.016666666666666666
+    }
+  ],
+  "added_difficulties": {
+    "2": 122,
+    "3": 419,
+    "4": 161,
+    "5": 18
+  },
+  "answers": 4959,
+  "added_answers": 813,
+  "original_file_sha256": {
+    "00_level_01_primary_daily.json": "75ecb0ed8d3d4d320a342883ce00a0c8f76ab96f8b53e1e9e4ff7eff63685fd3",
+    "00_level_02_primary_discovery.json": "6d2d28ccb04ee5416ff932cf06351e1782c7b360a04ac320620ee89be28438a0",
+    "00_level_03_junior_experience.json": "b206d59d57e5a12af4fc2e5f9bc316a59963ff87c0268bbf0ff3a160a8af480c",
+    "00_level_04_junior_messages.json": "06e10c8244fae34255848604ecb73b7e06abcbc39c7fcc6c688b689a766048cc",
+    "00_level_05_senior_writing.json": "670b2309b514f1495cf4a61c497e6a93de288571d3508ec86681af072cc8beed",
+    "00_level_06_senior_reasoning.json": "28686c071976ba6935bcd416bbe534c2ac475f0ad2ee128c450d6dd285a8a158",
+    "00_level_07_cet4_campus.json": "35974dbc796e20fb528425bf25c6def6f961336a3560bc29e7475a503e49a7d4",
+    "00_level_08_cet4_culture.json": "7cc2a8e4dadc31ddbb66fe71d0a68a1c64385c99e697cf9f431248d9c4f89ecb",
+    "00_level_09_cet6_argument.json": "199870b1a95e489c1452f1930cebb5cbf01f31302ca3ff4b02139c7b57f3e997",
+    "00_level_10_cet6_precision.json": "b5d0ef5b78a8b77e772284e7280cf14f9281d24f6ea54715b9de67bdda6f64ec",
+    "academic_discussion.json": "8fafcd3114de8bbcda19ed6c9a1583a3e7fd36786d5827b5ae585ffa61b802ee",
+    "arts_creativity.json": "6be608c5068e5712fbd350a1bdbe1a513221108c5ad04f6ec6e326fb56c17b5e",
+    "banking_finance.json": "414677235d5220f23d37ffce8a2e2bd63c75728af544fe8d904f49235f3925b4",
+    "career_development.json": "58c83bbc0b49fe2347fa9c3e33784d57984b3015f1c3c9b765f582da42be8e27",
+    "community_volunteering.json": "30a4df1bc361ffc48b7181ae747ea622474e9914d377d79f815af92aa744358d",
+    "complaints_negotiation.json": "402b8226f039e4df1d0f3cb8b57bafa95027d8c86aa10c52bb1c96e5fe1ffc29",
+    "comprehensive_english_5000.json": "179df599935c0f7cec273f29b29666b57a52996d5df2f8816199c0da165a933f",
+    "culture_society.json": "c1e1ecf0afe546806331c1ac691e45b329c5e2862f7ccebd9d14208b26a05ba6",
+    "daily_english_1000.json": "512ad1fb7ebf65d63252c1fff51c0d1cd1fb625d5d799227085d5c4f21cd5268",
+    "demo_daily.json": "c1394f0e8130b2bb63c00c6af055745d0a569dd9b53a8c9ddb84bc8a8dccd12d",
+    "education_learning.json": "41ae24f319284535169b356325593a13a2b2870de1cc3acfd78a9f84eb375f77",
+    "environment_climate.json": "cecd402ff1bf2d2f69333f5643a30b6f73397eb9e81b4e7604f26f9641a8a4ee",
+    "everyday_social_tasks.json": "5d32a21bd1ad51ee3650cbd29c689902a59221fbeabe57a8486b4639bff9021a",
+    "family_social.json": "9739b12e00ac251832ee6032421e07db3d79b473d45c7f2dd28fcbc81052c420",
+    "food_cooking.json": "3c538022e4e07186af628c9a79b2daca9d7cdfcec89f7ee8bbe45a1144a0454d",
+    "formal_correspondence.json": "96424f5fb488e88925ddf5485b9900fa6b9c0d6227153450351ed5da832ec21a",
+    "health_lifestyle.json": "60df40c86c091885b8245d4dbd321d785ea40a5a2e82ace107aae2f13bf1a315",
+    "housing_rental.json": "3dd5be96236bbeffbc52d1fbc6bf0f6936f15e9b77437dcbd10f270560fa2086",
+    "ielts_arts_heritage.json": "9d00352740832f4b411c96859ef668504d05e6d5a2a5405ccbcb44fc86df971b",
+    "ielts_cities.json": "248f1338c0ae1c77a0388150b54ebb8124014cd5648b9a4bfcc25fc19233fd46",
+    "ielts_economy.json": "41dc18f86bb1f55c5b1a408980e0d5f5289374747670031987ffea9f9c41b125",
+    "ielts_education.json": "417472742bb3bba655ba1fb61e2654fbbffbd10a974d464c72b8f949508460df",
+    "ielts_environment.json": "b6df1a37fb48711414b86256ac4143560c017571606ed1b18135d3eb1a8d4998",
+    "ielts_food_agriculture.json": "58741d3e76a2bbd1bc335b8c83e9273beb94af691374c6fbeb14a89e02bd8466",
+    "ielts_global_connections.json": "b7a13f3c126c228d06deea22a0c4adef41634810310625d9bc06646378033b7f",
+    "ielts_health_work.json": "a69725a31f8961d1f81146aee9299dee47deba2d2ddd1a23d6f60246ebf18832",
+    "ielts_media_public_discourse.json": "6f9c1d923a966455ff3d957ee423ea161d844b1da6938f657cf0f4d0eca2197e",
+    "ielts_paragraph_links.json": "19b41c66fa4a3cb02c72078770297f39718e6a47d89acf662fe15640470275a4",
+    "ielts_scientific_research.json": "6660867735fddb2e5d6b4fd152441b2e40ebdf8915e2abf37391c8ca4dc31c0e",
+    "ielts_society.json": "3e62723da42f7293ad3714862eef39b5abc89f9aa334432801acbf75f87dda7d",
+    "ielts_task1_data.json": "4f4bc6f207f11a8a9b8537296ab593e5bfb511dcb3f75154c30b21dabc3ce85a",
+    "ielts_technology.json": "9d583b57bc04480799667c2c5948ad08c4137c5c303a8fc8a9b6d6f9f4db1c42",
+    "media_information.json": "bbd9cf60767d949b0d49516fc9a8d53394ff1ca2c3bf6fd380651aed0d3a23aa",
+    "medical_english.json": "351b3c2663d178ff0aab0cfd4bb8ec2331fae8970b9ae73258be396a56f155ff",
+    "outdoor_sports.json": "dd96272f441ceea17cde39454e3c4afff5e8ba524bb507131e06166b6e60a3fa",
+    "personal_finance_planning.json": "5397535e665e179ccf5a55c3a5749e0c46df36a37836021d9e7880f50b94a780",
+    "projects_problem_solving.json": "66366d9d1a7cbc13503f095c2ed6a3ee6021c1e9a43685a97f89c956dafb2680",
+    "public_services_law.json": "68248b2f70af043f27a89396f9bbd84b28d544be83cb4256630f62093bae660c",
+    "relationships_emotions.json": "ab6d6bcdb0fd8eea22f51c5dd11e78eaba9a5293e97737b4ed5c8e753a2f96d4",
+    "science_nature.json": "38827d93c52a33d05d35d18446fa1d596a3f38dd47f60a6c3c98760370bce736",
+    "shopping_consumption.json": "dd6d07ce3eff3e068c008dedd73c941a5c34fd2981c765d102499936bc5fe59e",
+    "storytelling_memories.json": "72ba520a7cded5622d340bb4a37297b7e32627a2145da1d7ff70c7d0ba0ef967",
+    "technology_internet.json": "76736688fe8f30fd77f1083f53f28ed8fb9617a7e18025042fcbea8bc43265e1",
+    "work_business.json": "4c43c7f57d2d73ff6c0728f5ce01d37377e8f1dd838606b7fe3dbe5be772bd2d"
+  },
+  "added_file_sha256": {
+    "01_grammar_01_prepositions_space.json": "d6bf9fa787a8e94dc7280bb1421f1aec5da05e59224d17421213f8fb5928bf49",
+    "01_grammar_02_prepositions_patterns.json": "778305dbcf899446a4b5449e57ab9e9966c3760443c5260e7cc094c96abafb0e",
+    "01_grammar_03_relative_clauses.json": "f7e6af7bc35babfa2569a126ae62dafd91d355ba3909151fd4b65848c3253b4d",
+    "01_grammar_04_noun_clauses.json": "10e32651587a69fd9e373bd9ff32c47e94b7f2288685c064811c225d4bcef0b9",
+    "01_grammar_05_adverb_clauses.json": "d0baaaf27b6cb343579aede9e2dcabf2f1792b7bb23c27a6d921714213555871",
+    "01_grammar_06_infinitives_gerunds.json": "fd084c556876213371a9e6becfc39d54462ba1ef140d16cbebc613622aec1c16",
+    "01_grammar_07_participles_complements.json": "c6ea5c9b61902c1059bc554e40e02f4769cb29c50d86de115ebb1bf766bfddb7",
+    "01_grammar_08_articles_quantity.json": "0d93aa82b4d65cd95e5ed94c83a03725e2319ac1e57f93bfbd7b008a863dd65e",
+    "01_grammar_09_reference_agreement.json": "85503f61d0607227af0a4fd0cedbe7a8c2c9444f8358474c203555fc2261add4",
+    "01_grammar_10_comparison_degree.json": "963ad4e1e7cd685b074d7af98db1bda090c21ce862adf6976826995d3aa7c8c5",
+    "01_grammar_11_negation_modality.json": "b9d400d6646dc1cc63dcab91968a95eb0b1f756ccf39c8961cd2081a4df041f3",
+    "01_grammar_12_focus_order.json": "61945614c349ab94dbe189c50b25b4d9aaf06a47a5aa498d24e31d8021daa270"
+  },
+  "database_sha256_before": "65717dfb7f391e7f2679776cda1bf7c7082ae9d97645cd4099581aaf19bd1345",
+  "database_sha256_after": "65717dfb7f391e7f2679776cda1bf7c7082ae9d97645cd4099581aaf19bd1345",
+  "backup": "_backups/pre-grammar-3600-2026-10-04.zip",
+  "review_decisions": [
+    {
+      "a": "grammar_focus_order/grammar_focus_order_s1_0004",
+      "b": "grammar_focus_order/grammar_focus_order_s1_0005",
+      "decision": "保留 only 焦点对照：Only my sister 限定知道的人，knows only the location 限定所知信息，语义范围实质不同。"
+    },
+    {
+      "a": "everyday_social_tasks/everyday_social_tasks_v3_0078",
+      "b": "grammar_reference_agreement/grammar_reference_agreement_s1_0021",
+      "decision": "旧题免除因求助而道歉的必要；新题拒绝他人代为道歉并强调 myself，本人与代理人的关系不同。"
+    },
+    {
+      "a": "daily_english_1000/daily_0039",
+      "b": "grammar_prepositions_space/grammar_prepositions_space_s1_0033",
+      "decision": "旧题 be about to ... when 描写动作被打断；新题 in the middle of 定位事件所在时段，关系结构不同。"
+    },
+    {
+      "a": "science_nature/science_nature_v3_0007",
+      "b": "grammar_adverb_clauses/grammar_adverb_clauses_s1_0016",
+      "decision": "旧题讨论观察者影响测量；新题用否定目的从句说明避免答案影响观察者，因果方向与任务均不同。"
+    },
+    {
+      "a": "food_cooking/food_cooking_v3_0012",
+      "b": "grammar_participles_complements/grammar_participles_complements_s1_0038",
+      "decision": "旧题要求土豆切块均匀；新题即使切小仍需慢炖，练习被动分词让步，非同义改写。"
+    },
+    {
+      "a": "community_volunteering/community_volunteering_v3_0041",
+      "b": "grammar_noun_clauses/grammar_noun_clauses_s1_0015",
+      "decision": "旧题询问是否有大字版；新题讨论是否提供不应取决于请求，两个 whether 分别作主语与介词宾语。"
+    },
+    {
+      "a": "grammar_articles_quantity/grammar_articles_quantity_s1_0059",
+      "b": "grammar_reference_agreement/grammar_reference_agreement_s1_0054",
+      "decision": "与额外增加椅子而不加桌子的数量题任务不同；新题 every ... and every ... 判断单数谓语。"
+    },
+    {
+      "a": "outdoor_sports/outdoor_sports_v3_0040",
+      "b": "grammar_focus_order/grammar_focus_order_s1_0040",
+      "decision": "旧题指令清点人数；新题 what else 询问未知信息。共同出现 before setting out 不等于相同任务。"
+    },
+    {
+      "a": "level_primary_daily/level_primary_daily_g1_0047",
+      "b": "grammar_articles_quantity/grammar_articles_quantity_s1_0002",
+      "decision": "旧题表达让座；新题练习可数 suggestion 的冠词，与不可数 advice 区分。仅 give 双宾语骨架复现。"
+    },
+    {
+      "a": "demo_daily/daily_0017",
+      "b": "grammar_prepositions_patterns/grammar_prepositions_patterns_s1_0032",
+      "decision": "旧题是 look forward to it 的简短回应；新题 to 后接 examining，明确 to 为介词，可作为独立补足形式练习。"
+    },
+    {
+      "a": "grammar_reference_agreement/grammar_reference_agreement_s1_0049",
+      "b": "grammar_reference_agreement/grammar_reference_agreement_s1_0050",
+      "decision": "保留可数性对照：most of the bread 与 most of the rolls 的主语数不同，谓语 is/are 由名词性质决定，不是换名称扩题。"
+    }
+  ],
+  "screening_methods": {
+    "exact": "Whole corpus: lowercase English word tokens, punctuation and extra whitespace ignored.",
+    "zh_exact": "Pairs involving additions: Chinese prompts with punctuation removed.",
+    "substitution": "Whole corpus: equal length, at least 5 tokens, exactly one different token.",
+    "insertion": "Whole corpus: one inserted/deleted token, shorter sentence at least 5 tokens.",
+    "similarity": "Pairs involving additions: shared consecutive 2-token sequence, at least 5 tokens, SequenceMatcher >= 0.75.",
+    "english_lexical": "Pairs involving additions: binary word cosine with IDF weighting >= 0.45, words occurring in over 350 sentences excluded from numerator.",
+    "chinese_lexical": "Pairs involving additions: Chinese character-bigram cosine with IDF weighting >= 0.40, bigrams occurring in over 200 sentences excluded from numerator; both English answers at least 5 tokens.",
+    "prefix": "Most common first four tokens per library, review threshold 15%.",
+    "limitation": "Lexical screens do not establish semantic uniqueness or grammatical correctness. Added sentences, translations and grammar notes were separately edited."
+  },
+  "verification": {
+    "date": "2026-10-04",
+    "pytest": {
+      "command": ".venv/Scripts/python.exe -m pytest -q",
+      "exit_code": 0,
+      "passed": 5
+    },
+    "library_validation": {
+      "command": ".venv/Scripts/python.exe -X utf8 tools/validate_libraries.py",
+      "exit_code": 0,
+      "passed_libraries": 66
+    },
+    "integration": {
+      "loaded_libraries": 66,
+      "loaded_items": 4320,
+      "load_errors": [],
+      "level_cards_first": 10,
+      "grammar_cards_following": [
+        "grammar_prepositions_space",
+        "grammar_prepositions_patterns",
+        "grammar_relative_clauses",
+        "grammar_noun_clauses",
+        "grammar_adverb_clauses",
+        "grammar_infinitives_gerunds",
+        "grammar_participles_complements",
+        "grammar_articles_quantity",
+        "grammar_reference_agreement",
+        "grammar_comparison_degree",
+        "grammar_negation_modality",
+        "grammar_focus_order"
+      ],
+      "grammar_sequence_items_each": 60,
+      "accepted_answer_entries": 4959,
+      "added_answer_entries": 813,
+      "answer_variant_collisions_involving_additions": 0,
+      "titles_match_counts": true,
+      "added_ids_notes_tags_verified": true,
+      "original_files_byte_identical": 54,
+      "original_items_unchanged": 3600,
+      "added_file_hashes_verified": 12,
+      "backup_integrity_verified": true,
+      "backup_files_byte_identical": 54,
+      "database_unchanged": true,
+      "database_sha256": "65717dfb7f391e7f2679776cda1bf7c7082ae9d97645cd4099581aaf19bd1345",
+      "pending_files": 0,
+      "method": "LibraryLoader and LibraryService using a read-only progress stub; no application database writes."
+    },
+    "documentation": {
+      "files": [
+        "GRAMMAR_PRACTICE.md",
+        "LEARNING_LEVELS.md",
+        "EXPANSION_3000.md",
+        "EXPANSION.md"
+      ],
+      "local_links_checked": 43,
+      "broken_links": 0
+    }
+  }
+}

@@ -1,0 +1,979 @@
+{
+  "schema_version": 1,
+  "id": "level_primary_discovery",
+  "title": "分级 · 小学｜观察与小故事 · 60 句",
+  "description": "公园观察、简单实验、手工游戏、故事读图与校外见闻；衔接基础过去时和简短原因表达。",
+  "language": "en-GB",
+  "tags": [
+    "分级训练",
+    "小学",
+    "小学进阶",
+    "观察与小故事"
+  ],
+  "items": [
+    {
+      "id": "level_primary_discovery_g1_0001",
+      "zh": "树叶浮在水面上。",
+      "en": "A leaf is floating on the water.",
+      "answers": [
+        "A leaf is floating on the water."
+      ],
+      "notes": "is floating：正在漂浮；leaf 的复数为 leaves。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "公园里的观察"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_discovery_g1_0002",
+      "zh": "两只松鼠绕着树追逐。",
+      "en": "Two squirrels are chasing each other around a tree.",
+      "answers": [
+        "Two squirrels are chasing each other around a tree."
+      ],
+      "notes": "each other：彼此；around：围绕。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "公园里的观察"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0003",
+      "zh": "脚下的草还湿着。",
+      "en": "The grass under our feet is still wet.",
+      "answers": [
+        "The grass under our feet is still wet."
+      ],
+      "notes": "under our feet：在脚下。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "公园里的观察"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_discovery_g1_0004",
+      "zh": "那根树枝上没有叶子。",
+      "en": "There are no leaves on that branch.",
+      "answers": [
+        "There are no leaves on that branch."
+      ],
+      "notes": "branch：树枝；there are 表示某处有。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "公园里的观察"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_discovery_g1_0005",
+      "zh": "一阵风吹走了我的帽子。",
+      "en": "A gust of wind blew my hat away.",
+      "answers": [
+        "A gust of wind blew my hat away."
+      ],
+      "notes": "blow away：吹走；blew 为过去式。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "公园里的观察"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0006",
+      "zh": "蜗牛把头缩进了壳里。",
+      "en": "The snail pulled its head into its shell.",
+      "answers": [
+        "The snail pulled its head into its shell."
+      ],
+      "notes": "pull ... into ...：缩进；its 表示它的。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "公园里的观察"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0007",
+      "zh": "湖边的鸟比操场上的多。",
+      "en": "There are more birds by the lake than on the playground.",
+      "answers": [
+        "There are more birds by the lake than on the playground."
+      ],
+      "notes": "more ... than ...：比……更多。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "公园里的观察"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0008",
+      "zh": "小路尽头有一张长椅。",
+      "en": "A bench stands at the end of the path.",
+      "answers": [
+        "A bench stands at the end of the path."
+      ],
+      "notes": "at the end of：在……尽头。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "公园里的观察"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_discovery_g1_0009",
+      "zh": "我们在倒下的树干上休息。",
+      "en": "We are resting on a fallen tree.",
+      "answers": [
+        "We are resting on a fallen tree."
+      ],
+      "notes": "fallen tree：倒下的树；rest：休息。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "公园里的观察"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0010",
+      "zh": "影子跟着我们一起移动。",
+      "en": "Our shadows move with us.",
+      "answers": [
+        "Our shadows move with us."
+      ],
+      "notes": "shadow：影子；with us：随着我们。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "公园里的观察"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "level_primary_discovery_g1_0011",
+      "zh": "这块石头沉下去了，木片没有。",
+      "en": "The stone sank, but the wood did not.",
+      "answers": [
+        "The stone sank, but the wood did not.",
+        "The stone sank, but the wood didn't."
+      ],
+      "notes": "sank 是 sink 的过去式；did not 省略相同动作。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "简单实验"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0012",
+      "zh": "往杯里加水，直到这条线。",
+      "en": "Fill the cup with water up to this line.",
+      "answers": [
+        "Fill the cup with water up to this line."
+      ],
+      "notes": "fill ... with ...：装满；up to：直到。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "简单实验"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0013",
+      "zh": "冰块正在慢慢变小。",
+      "en": "The ice cube is getting smaller.",
+      "answers": [
+        "The ice cube is getting smaller."
+      ],
+      "notes": "get + 比较级：变得更……。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "简单实验"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0014",
+      "zh": "这块磁铁吸不住木头。",
+      "en": "This magnet does not attract wood.",
+      "answers": [
+        "This magnet does not attract wood.",
+        "This magnet doesn't attract wood."
+      ],
+      "notes": "magnet：磁铁；attract：吸引。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "简单实验"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0015",
+      "zh": "你能让纸船一直浮着吗？",
+      "en": "Can you keep the paper boat afloat?",
+      "answers": [
+        "Can you keep the paper boat afloat?"
+      ],
+      "notes": "keep ... afloat：让……浮着。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "简单实验"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0016",
+      "zh": "我用绳子比较两张桌子的长度。",
+      "en": "I use string to compare the lengths of two tables.",
+      "answers": [
+        "I use string to compare the lengths of two tables."
+      ],
+      "notes": "use ... to ...：用……做……。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "简单实验"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0017",
+      "zh": "两个空杯子一样重。",
+      "en": "The two empty cups weigh the same.",
+      "answers": [
+        "The two empty cups weigh the same."
+      ],
+      "notes": "weigh：重；the same：一样。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "简单实验"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0018",
+      "zh": "水变色了，但闻起来没变。",
+      "en": "The water changed colour but smelled the same.",
+      "answers": [
+        "The water changed colour but smelled the same."
+      ],
+      "notes": "change colour：变色；smell 后可接状态描述。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "简单实验"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0019",
+      "zh": "先猜一猜，再试一试。",
+      "en": "Make a guess before you test it.",
+      "answers": [
+        "Make a guess before you test it."
+      ],
+      "notes": "make a guess：猜一猜；before 表示顺序。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "简单实验"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0020",
+      "zh": "我在纸上画出了看到的变化。",
+      "en": "I drew the changes I saw on paper.",
+      "answers": [
+        "I drew the changes I saw on paper."
+      ],
+      "notes": "drew 是 draw 的过去式；I saw 修饰 changes。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "简单实验"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0021",
+      "zh": "沿着虚线把纸折起来。",
+      "en": "Fold the paper along the dotted line.",
+      "answers": [
+        "Fold the paper along the dotted line."
+      ],
+      "notes": "along：沿着；dotted line：虚线。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "做手工与玩游戏"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0022",
+      "zh": "两个圆圈只要部分重叠。",
+      "en": "The two circles should overlap a little.",
+      "answers": [
+        "The two circles should overlap a little."
+      ],
+      "notes": "overlap：重叠；a little：一点。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "做手工与玩游戏"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0023",
+      "zh": "胶水还没干，先别碰。",
+      "en": "Do not touch it yet; the glue is still wet.",
+      "answers": [
+        "Do not touch it yet; the glue is still wet.",
+        "Don't touch it yet; the glue is still wet."
+      ],
+      "notes": "not ... yet：还没有；glue：胶水。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "做手工与玩游戏"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0024",
+      "zh": "我们用纸盒做了一座城堡。",
+      "en": "We built a castle out of cardboard boxes.",
+      "answers": [
+        "We built a castle out of cardboard boxes."
+      ],
+      "notes": "build ... out of ...：用……搭建……。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "做手工与玩游戏"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0025",
+      "zh": "这个纸风车要迎着风。",
+      "en": "The paper windmill needs to face the wind.",
+      "answers": [
+        "The paper windmill needs to face the wind."
+      ],
+      "notes": "face：面向；windmill：风车。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "做手工与玩游戏"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0026",
+      "zh": "骰子落到椅子下面了。",
+      "en": "The dice landed under the chair.",
+      "answers": [
+        "The dice landed under the chair."
+      ],
+      "notes": "land：落下；dice：骰子。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "做手工与玩游戏"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0027",
+      "zh": "你要向后退两格。",
+      "en": "You need to move back two spaces.",
+      "answers": [
+        "You need to move back two spaces."
+      ],
+      "notes": "move back：往后移动；space：棋盘格。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "做手工与玩游戏"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0028",
+      "zh": "我们还没决定谁先开始。",
+      "en": "We have not decided who goes first.",
+      "answers": [
+        "We have not decided who goes first.",
+        "We haven't decided who goes first."
+      ],
+      "notes": "who goes first：谁先开始。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "做手工与玩游戏"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0029",
+      "zh": "拼图少了最角上的一块。",
+      "en": "The jigsaw is missing a corner piece.",
+      "answers": [
+        "The jigsaw is missing a corner piece."
+      ],
+      "notes": "corner piece：角上的一块；jigsaw：拼图。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "做手工与玩游戏"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0030",
+      "zh": "这个游戏没有赢家或输家。",
+      "en": "This game has no winners or losers.",
+      "answers": [
+        "This game has no winners or losers."
+      ],
+      "notes": "winner 与 loser：赢家与输家。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "做手工与玩游戏"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0031",
+      "zh": "封面上的女孩在找什么？",
+      "en": "What is the girl on the cover looking for?",
+      "answers": [
+        "What is the girl on the cover looking for?"
+      ],
+      "notes": "look for：寻找；on the cover：封面上的。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "读图与讲故事"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0032",
+      "zh": "故事一开始，村里所有人都睡着了。",
+      "en": "At the start of the story, everyone in the village was asleep.",
+      "answers": [
+        "At the start of the story, everyone in the village was asleep."
+      ],
+      "notes": "at the start：起初；asleep：睡着的。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "读图与讲故事"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0033",
+      "zh": "小熊听见门外有人哭。",
+      "en": "The little bear heard someone crying outside the door.",
+      "answers": [
+        "The little bear heard someone crying outside the door."
+      ],
+      "notes": "hear someone doing：听见某人正在做。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "读图与讲故事"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0034",
+      "zh": "狐狸假装没看见篮子。",
+      "en": "The fox pretended not to see the basket.",
+      "answers": [
+        "The fox pretended not to see the basket."
+      ],
+      "notes": "pretend not to：假装没有。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "读图与讲故事"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0035",
+      "zh": "我觉得下一页会出现一条龙。",
+      "en": "I think a dragon will appear on the next page.",
+      "answers": [
+        "I think a dragon will appear on the next page."
+      ],
+      "notes": "I think 后接猜测；will appear：将出现。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "读图与讲故事"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0036",
+      "zh": "最后，小船把他们带回了家。",
+      "en": "In the end, the little boat took them home.",
+      "answers": [
+        "In the end, the little boat took them home."
+      ],
+      "notes": "in the end：最后；take someone home：送某人回家。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "读图与讲故事"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0037",
+      "zh": "哪一幅图发生在最前面？",
+      "en": "Which picture shows what happened first?",
+      "answers": [
+        "Which picture shows what happened first?"
+      ],
+      "notes": "which 询问选择；what happened first：最先发生的事。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "读图与讲故事"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0038",
+      "zh": "这一页没有文字，你能讲讲图中的故事吗？",
+      "en": "There are no words on this page. Can you tell the story in the picture?",
+      "answers": [
+        "There are no words on this page. Can you tell the story in the picture?"
+      ],
+      "notes": "there are no：没有；tell a story：讲故事。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "读图与讲故事"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0039",
+      "zh": "我喜欢结尾，因为他们成了朋友。",
+      "en": "I like the ending because they become friends.",
+      "answers": [
+        "I like the ending because they become friends."
+      ],
+      "notes": "because 引出喜欢的理由。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "读图与讲故事"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0040",
+      "zh": "换成你，你会打开那扇门吗？",
+      "en": "Would you open that door?",
+      "answers": [
+        "Would you open that door?"
+      ],
+      "notes": "would 用于想象情境中的选择。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "读图与讲故事"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0041",
+      "zh": "车窗上有一层雾。",
+      "en": "The bus window is covered in mist.",
+      "answers": [
+        "The bus window is covered in mist."
+      ],
+      "notes": "be covered in：被……覆盖；mist：薄雾。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "校外见闻"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0042",
+      "zh": "我们坐过了要下车的那一站。",
+      "en": "We missed our stop.",
+      "answers": [
+        "We missed our stop."
+      ],
+      "notes": "miss a stop：错过该下车的站。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "校外见闻"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0043",
+      "zh": "售票处前面排着长队。",
+      "en": "There is a long queue at the ticket office.",
+      "answers": [
+        "There is a long queue at the ticket office."
+      ],
+      "notes": "queue：队伍；ticket office：售票处。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "校外见闻"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0044",
+      "zh": "博物馆里的这副骨架比我还高。",
+      "en": "This skeleton in the museum is taller than me.",
+      "answers": [
+        "This skeleton in the museum is taller than me."
+      ],
+      "notes": "taller than：比……高；skeleton：骨架。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "校外见闻"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0045",
+      "zh": "请站在黄线后面等。",
+      "en": "Please wait behind the yellow line.",
+      "answers": [
+        "Please wait behind the yellow line."
+      ],
+      "notes": "behind：在后面，区别于 on（在线上）。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "校外见闻"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0046",
+      "zh": "我认出了照片里的那座桥。",
+      "en": "I recognised the bridge in the photograph.",
+      "answers": [
+        "I recognised the bridge in the photograph."
+      ],
+      "notes": "recognise：认出；in the photograph：照片里的。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "校外见闻"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0047",
+      "zh": "面包店飘出了好闻的气味。",
+      "en": "A lovely smell came from the bakery.",
+      "answers": [
+        "A lovely smell came from the bakery."
+      ],
+      "notes": "come from：来自；bakery：面包店。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "校外见闻"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0048",
+      "zh": "这里的路牌指向两个方向。",
+      "en": "The signs here point in two directions.",
+      "answers": [
+        "The signs here point in two directions."
+      ],
+      "notes": "point：指向；direction：方向。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "校外见闻"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0049",
+      "zh": "我可以摸这块岩石吗？",
+      "en": "Am I allowed to touch this rock?",
+      "answers": [
+        "Am I allowed to touch this rock?"
+      ],
+      "notes": "be allowed to：被允许做某事。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "校外见闻"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0050",
+      "zh": "我们买了一张明信片寄给老师。",
+      "en": "We bought a postcard to send to our teacher.",
+      "answers": [
+        "We bought a postcard to send to our teacher."
+      ],
+      "notes": "to send 表示购买目的；postcard：明信片。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "校外见闻"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0051",
+      "zh": "豆苗今天长出了第二片叶子。",
+      "en": "The bean plant grew its second leaf today.",
+      "answers": [
+        "The bean plant grew its second leaf today."
+      ],
+      "notes": "second：第二；grew 是 grow 的过去式。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "小发现与小记录"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0052",
+      "zh": "我数到六只蚂蚁进了洞。",
+      "en": "I counted six ants going into the hole.",
+      "answers": [
+        "I counted six ants going into the hole."
+      ],
+      "notes": "count someone doing：数出正在做某事的对象。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "小发现与小记录"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0053",
+      "zh": "雨停后，地上留下许多水坑。",
+      "en": "The rain left many puddles on the ground.",
+      "answers": [
+        "The rain left many puddles on the ground."
+      ],
+      "notes": "leave：留下；puddle：水坑。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "小发现与小记录"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0054",
+      "zh": "这张照片拍的是同一棵树的冬天。",
+      "en": "This photograph shows the same tree in winter.",
+      "answers": [
+        "This photograph shows the same tree in winter."
+      ],
+      "notes": "the same：同一个；in winter：冬天。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "小发现与小记录"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0055",
+      "zh": "我按大小把贝壳排好了。",
+      "en": "I arranged the shells by size.",
+      "answers": [
+        "I arranged the shells by size."
+      ],
+      "notes": "arrange：排列；by size：按大小。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "小发现与小记录"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0056",
+      "zh": "没有人碰它，气球却破了。",
+      "en": "Nobody touched it, but the balloon burst.",
+      "answers": [
+        "Nobody touched it, but the balloon burst."
+      ],
+      "notes": "burst：破裂，过去式形式不变。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "小发现与小记录"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0057",
+      "zh": "我把今天的日期写在画旁边。",
+      "en": "I wrote today's date beside the drawing.",
+      "answers": [
+        "I wrote today's date beside the drawing."
+      ],
+      "notes": "beside：在旁边；wrote 是 write 的过去式。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "小发现与小记录"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0058",
+      "zh": "我们听见了青蛙，却没看见它。",
+      "en": "We heard a frog without seeing it.",
+      "answers": [
+        "We heard a frog without seeing it."
+      ],
+      "notes": "without doing：没有做某事。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "小发现与小记录"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0059",
+      "zh": "同一条路，下雨时看起来很不一样。",
+      "en": "The same path looks very different in the rain.",
+      "answers": [
+        "The same path looks very different in the rain."
+      ],
+      "notes": "look different：看起来不同。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "小发现与小记录"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "level_primary_discovery_g1_0060",
+      "zh": "明天我想看看它有没有变化。",
+      "en": "Tomorrow I want to see whether it has changed.",
+      "answers": [
+        "Tomorrow I want to see whether it has changed."
+      ],
+      "notes": "whether：是否；has changed 表示已发生的变化。",
+      "tags": [
+        "分级训练",
+        "小学",
+        "小学进阶",
+        "小发现与小记录"
+      ],
+      "difficulty": 2
+    }
+  ]
+}

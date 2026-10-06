@@ -1,0 +1,117 @@
+{
+  "academic_discussion.json": {
+    "sha256": "0d8c8a9d9c176fdf886be1483a70d414d792f699a038ff9920edf397d3003821",
+    "library_id": "academic_discussion",
+    "items": 120
+  },
+  "banking_finance.json": {
+    "sha256": "d5d3d386033cd943b6e687c035c9c6c2cb3fdfd81953eab510ad61a4a20499de",
+    "library_id": "banking_finance",
+    "items": 120
+  },
+  "complaints_negotiation.json": {
+    "sha256": "5bacac705766decd67e3bbfdaec3c79dee839d9cfcdf6e69fb3977eb8cff6513",
+    "library_id": "complaints_negotiation",
+    "items": 120
+  },
+  "comprehensive_english_5000.json": {
+    "sha256": "0e737beb66774984c349bac4b51eb622ec2c6649e0f6aa1dcc4e55095c0803be",
+    "library_id": "comprehensive_english_5000",
+    "items": 5000
+  },
+  "culture_society.json": {
+    "sha256": "220ba8158da16b0387584f43b661e00be880b9003c25093161842cdac25f32ca",
+    "library_id": "culture_society",
+    "items": 120
+  },
+  "daily_english_1000.json": {
+    "sha256": "a016dde849ea89180322f348d79bf0f3aed4cf92cc93b69cea8675d7486ef32e",
+    "library_id": "daily_english_1000",
+    "items": 1000
+  },
+  "demo_daily.json": {
+    "sha256": "728408ef95bc3fdeb9483ed8b17d07d8f6b3ebe67abaa02d6edfdd922b84d8c2",
+    "library_id": "demo_daily",
+    "items": 20
+  },
+  "education_learning.json": {
+    "sha256": "22da2e807f11ab0a0be08004485ad92ad267381ed0bcc86ad8fceab41b8b952f",
+    "library_id": "education_learning",
+    "items": 120
+  },
+  "environment_climate.json": {
+    "sha256": "cfae7a600b71b0749489fc82b4093978164096ab324d8ca8fb0084cf25b9ad55",
+    "library_id": "environment_climate",
+    "items": 120
+  },
+  "family_social.json": {
+    "sha256": "72a972a3693424d0f23db5ee65655b03c98f21dabd1dbd5874a2e28739ec6e6c",
+    "library_id": "family_social",
+    "items": 120
+  },
+  "health_lifestyle.json": {
+    "sha256": "2050dbdd17a5251d8aa073e20615257c5010bc4f7faf62e9c537817e8f6c40d2",
+    "library_id": "health_lifestyle",
+    "items": 120
+  },
+  "housing_rental.json": {
+    "sha256": "3a7a513fc442f986914c11817e31255dfa5c60dd2b7479366e738d7fe76b6fd3",
+    "library_id": "housing_rental",
+    "items": 120
+  },
+  "ielts_cities.json": {
+    "sha256": "b6fd001cd053b4fd0cde4b181afcc242c52ba807684e285dce98c63833367714",
+    "library_id": "ielts_cities",
+    "items": 500
+  },
+  "ielts_education.json": {
+    "sha256": "3dee1979681c138133fcff2e7c6194b940aac6387f1c5d29cd6248ced8c7a555",
+    "library_id": "ielts_education",
+    "items": 500
+  },
+  "ielts_environment.json": {
+    "sha256": "3d787cc0b5ded4e107a7cae1c6a7a6f8732eac37253f0f7d792af66b1a0273a2",
+    "library_id": "ielts_environment",
+    "items": 500
+  },
+  "ielts_health_work.json": {
+    "sha256": "22a2393840fa9ec5d85e37cd6243ce77b0a77c4fe61bc461c06c7b368d40c7a6",
+    "library_id": "ielts_health_work",
+    "items": 500
+  },
+  "ielts_society.json": {
+    "sha256": "4efd1d16b3128e7c5694d16bfd93bf0482ae3713ae968e13c888f47d15a6aef5",
+    "library_id": "ielts_society",
+    "items": 500
+  },
+  "ielts_technology.json": {
+    "sha256": "98ec43d5296f81386848860f7faf31e898d9c9df4191a8a0e7be1dddbff31239",
+    "library_id": "ielts_technology",
+    "items": 500
+  },
+  "medical_english.json": {
+    "sha256": "912f94859be8e6ece2962aa8adff096e5e0fc8ec4bd0b9e557b00de326f60bfb",
+    "library_id": "medical_english",
+    "items": 120
+  },
+  "public_services_law.json": {
+    "sha256": "a825a618b5ebfa507e668a5731299ac8c0de51e81daba843108496ce9cdd7aa5",
+    "library_id": "public_services_law",
+    "items": 120
+  },
+  "relationships_emotions.json": {
+    "sha256": "0ea64c045bd1e70b7dabfb224625e68132cd37bfa7d5a2c1183e7fc46e2b87cf",
+    "library_id": "relationships_emotions",
+    "items": 120
+  },
+  "technology_internet.json": {
+    "sha256": "0887e6fbb5ccbf85c7b8b55f62ef98e5aeb02a78b980611440c0b92a575a362c",
+    "library_id": "technology_internet",
+    "items": 120
+  },
+  "work_business.json": {
+    "sha256": "39584f0ba0b8ff70a20a040e38cfdc3903de71794f6047c3c533b9585a9b4d21",
+    "library_id": "work_business",
+    "items": 120
+  }
+}

@@ -1,0 +1,577 @@
+{
+  "schema_version": 1,
+  "id": "complaints_negotiation",
+  "title": "投诉与协商精选 · 36 句",
+  "description": "围绕本主题的具体情境组织表达；覆盖请求、说明、比较与复合句，并附逐题用法。",
+  "language": "en-GB",
+  "tags": [
+    "投诉与协商",
+    "主题分类",
+    "精选",
+    "逐题讲解"
+  ],
+  "items": [
+    {
+      "zh": "我订的是双人间，但安排给我的是单人间。",
+      "en": "I booked a double room, but I was given a single room.",
+      "answers": [
+        "I booked a double room, but I was given a single room."
+      ],
+      "notes": "过去时主动与被动并列，先说明约定，再说明实际收到的服务。",
+      "tags": [
+        "投诉与协商",
+        "转折并列句",
+        "陈述不符",
+        "住宿投诉"
+      ],
+      "difficulty": 2,
+      "id": "complaints_negotiation_001"
+    },
+    {
+      "zh": "您能在周五之前更换损坏的部件吗？",
+      "en": "Could you replace the damaged part by Friday?",
+      "answers": [
+        "Could you replace the damaged part by Friday?"
+      ],
+      "notes": "by Friday 表示不晚于周五；replace 指更换，不是 repair 修理。",
+      "tags": [
+        "投诉与协商",
+        "礼貌疑问句",
+        "提出补救要求",
+        "产品维修"
+      ],
+      "difficulty": 2,
+      "id": "complaints_negotiation_002"
+    },
+    {
+      "zh": "如果无法按时送达，我希望取消订单并获得退款。",
+      "en": "If delivery by the agreed date is not possible, I'd like to cancel the order and receive a refund.",
+      "answers": [
+        "If delivery by the agreed date is not possible, I'd like to cancel the order and receive a refund."
+      ],
+      "notes": "条件从句明确退款请求的触发条件；cancel 与 receive 并列。",
+      "tags": [
+        "投诉与协商",
+        "条件从句",
+        "提出替代方案",
+        "延迟配送"
+      ],
+      "difficulty": 3,
+      "id": "complaints_negotiation_003"
+    },
+    {
+      "zh": "虽然我理解你们很忙，但我已经为同一个问题联系了三次。",
+      "en": "Although I understand you're busy, I've contacted you three times about the same issue.",
+      "answers": [
+        "Although I understand you're busy, I've contacted you three times about the same issue.",
+        "Although I understand you are busy, I have contacted you three times about the same issue."
+      ],
+      "notes": "although 承认对方情况；现在完成时说明截至目前的联系次数。",
+      "tags": [
+        "投诉与协商",
+        "让步从句",
+        "说明处理历史",
+        "重复报障"
+      ],
+      "difficulty": 3,
+      "id": "complaints_negotiation_004"
+    },
+    {
+      "zh": "让我不满的不是等待本身，而是没有人告诉我发生了什么。",
+      "en": "What frustrates me is not the wait itself but the fact that no one has explained what happened.",
+      "answers": [
+        "What frustrates me is not the wait itself but the fact that no one has explained what happened."
+      ],
+      "notes": "what 从句作主语；not ... but ... 聚焦具体不满。",
+      "tags": [
+        "投诉与协商",
+        "主语从句",
+        "澄清诉求",
+        "服务沟通"
+      ],
+      "difficulty": 4,
+      "id": "complaints_negotiation_005"
+    },
+    {
+      "zh": "与其再约一次上门，我们能否先通过视频确认故障？",
+      "en": "Rather than arrange another visit, could we identify the fault over a video call first?",
+      "answers": [
+        "Rather than arrange another visit, could we identify the fault over a video call first?"
+      ],
+      "notes": "rather than + 动词原形；over a video call 表示通过视频通话。",
+      "tags": [
+        "投诉与协商",
+        "对比结构",
+        "协商处理方式",
+        "售后诊断"
+      ],
+      "difficulty": 3,
+      "id": "complaints_negotiation_006"
+    },
+    {
+      "zh": "我愿意接受换货，只要新商品没有同样的问题。",
+      "en": "I'm willing to accept a replacement provided that it doesn't have the same fault.",
+      "answers": [
+        "I'm willing to accept a replacement provided that it doesn't have the same fault.",
+        "I am willing to accept a replacement provided that it does not have the same fault."
+      ],
+      "notes": "be willing to 表示愿意；provided that 提出接受方案的条件。",
+      "tags": [
+        "投诉与协商",
+        "条件从句",
+        "有条件让步",
+        "商品换货"
+      ],
+      "difficulty": 3,
+      "id": "complaints_negotiation_007"
+    },
+    {
+      "zh": "这笔费用在购买时没有说明，能否请您解释收费依据？",
+      "en": "This fee wasn't disclosed when I made the purchase; could you explain the basis for it?",
+      "answers": [
+        "This fee wasn't disclosed when I made the purchase; could you explain the basis for it?",
+        "This fee was not disclosed when I made the purchase; could you explain the basis for it?"
+      ],
+      "notes": "被动语态描述未披露事实；basis for 表示依据，分号连接完整分句。",
+      "tags": [
+        "投诉与协商",
+        "被动语态",
+        "询问费用依据",
+        "收费争议"
+      ],
+      "difficulty": 3,
+      "id": "complaints_negotiation_008"
+    },
+    {
+      "zh": "您能把我们刚才商定的退款日期发邮件确认一下吗？",
+      "en": "Could you email me confirmation of the refund date we just agreed on?",
+      "answers": [
+        "Could you email me confirmation of the refund date we just agreed on?"
+      ],
+      "notes": "we just agreed on 是省略关系代词的定语从句；email 可作及物动词。",
+      "tags": [
+        "投诉与协商",
+        "定语从句",
+        "取得书面确认",
+        "退款协商"
+      ],
+      "difficulty": 3,
+      "id": "complaints_negotiation_009"
+    },
+    {
+      "zh": "如果价格不能再降，是否可以把安装服务包含在内？",
+      "en": "If the price can't be reduced further, could installation be included?",
+      "answers": [
+        "If the price can't be reduced further, could installation be included?",
+        "If the price cannot be reduced further, could installation be included?"
+      ],
+      "notes": "两处被动语态分别聚焦价格与安装；提出另一种协商空间。",
+      "tags": [
+        "投诉与协商",
+        "条件疑问句",
+        "提出替代让步",
+        "价格协商"
+      ],
+      "difficulty": 3,
+      "id": "complaints_negotiation_010"
+    },
+    {
+      "zh": "我保留了包装和照片，便于你们核实运输过程中造成的损坏。",
+      "en": "I've kept the packaging and photographs so that you can assess the damage caused during shipping.",
+      "answers": [
+        "I've kept the packaging and photographs so that you can assess the damage caused during shipping.",
+        "I have kept the packaging and photographs so that you can assess the damage caused during shipping."
+      ],
+      "notes": "so that 表示目的；caused ... 是过去分词定语，修饰 damage。",
+      "tags": [
+        "投诉与协商",
+        "目的从句",
+        "提供证据",
+        "运输损坏"
+      ],
+      "difficulty": 3,
+      "id": "complaints_negotiation_011"
+    },
+    {
+      "zh": "在接受这个方案之前，我想确认它是否解决了所有未处理的问题。",
+      "en": "Before accepting this proposal, I'd like to check whether it resolves all the outstanding issues.",
+      "answers": [
+        "Before accepting this proposal, I'd like to check whether it resolves all the outstanding issues."
+      ],
+      "notes": "before accepting 的逻辑主语为 I；outstanding 在这里表示尚未解决的。",
+      "tags": [
+        "投诉与协商",
+        "时间与宾语从句",
+        "核对解决范围",
+        "协议确认"
+      ],
+      "difficulty": 3,
+      "id": "complaints_negotiation_012"
+    },
+    {
+      "id": "complaints_negotiation_ext_0001",
+      "zh": "商品描述说有两条电线，但包裹里只有一条。",
+      "en": "The description lists two cables, but the parcel contains only one.",
+      "answers": [
+        "The description lists two cables, but the parcel contains only one."
+      ],
+      "notes": "lists：列明。",
+      "tags": [
+        "投诉与协商",
+        "转折并列句",
+        "缺少配件"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "complaints_negotiation_ext_0002",
+      "zh": "请核对一下这张账单是否重复收取了配送费。",
+      "en": "Please check whether the delivery fee appears twice on this bill.",
+      "answers": [
+        "Please check whether the delivery fee appears twice on this bill."
+      ],
+      "notes": "whether：是否。",
+      "tags": [
+        "投诉与协商",
+        "宾语从句",
+        "重复收费"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "complaints_negotiation_ext_0003",
+      "zh": "维修之后，同样的故障在不到一天内又出现了。",
+      "en": "The same fault returned less than a day after the repair.",
+      "answers": [
+        "The same fault returned less than a day after the repair."
+      ],
+      "notes": "less than a day：不到一天。",
+      "tags": [
+        "投诉与协商",
+        "时间表达",
+        "维修复发"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "complaints_negotiation_ext_0004",
+      "zh": "我不方便再次寄回商品，你们能安排取件吗？",
+      "en": "Sending the item back again is difficult for me; could you arrange collection?",
+      "answers": [
+        "Sending the item back again is difficult for me; could you arrange collection?"
+      ],
+      "notes": "arrange collection：安排上门取件。",
+      "tags": [
+        "投诉与协商",
+        "疑问与陈述",
+        "退货取件"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "complaints_negotiation_ext_0005",
+      "zh": "如果退款只能退回原卡，请说明那张卡过期后怎么办。",
+      "en": "If the refund must go to the original card, please explain what happens if that card has expired.",
+      "answers": [
+        "If the refund must go to the original card, please explain what happens if that card has expired."
+      ],
+      "notes": "嵌套 if 从句区分两个条件。",
+      "tags": [
+        "投诉与协商",
+        "条件从句",
+        "退款渠道"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "complaints_negotiation_ext_0006",
+      "zh": "我接受新的日期，但需要您确认不会再收取改期费。",
+      "en": "I accept the new date but need confirmation that no further rescheduling fee will be charged.",
+      "answers": [
+        "I accept the new date but need confirmation that no further rescheduling fee will be charged."
+      ],
+      "notes": "confirmation that：对某事的确认。",
+      "tags": [
+        "投诉与协商",
+        "同位语从句",
+        "改期协商"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "complaints_negotiation_ext_0007",
+      "zh": "你们广告里承诺的功能在这个版本里似乎不可用。",
+      "en": "The feature promised in your advertisement appears to be unavailable in this version.",
+      "answers": [
+        "The feature promised in your advertisement appears to be unavailable in this version."
+      ],
+      "notes": "appear to be：似乎是。",
+      "tags": [
+        "投诉与协商",
+        "分词定语",
+        "功能不符"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "complaints_negotiation_ext_0008",
+      "zh": "我想先听听你们如何解释这次延误。",
+      "en": "I would first like to hear your explanation for the delay.",
+      "answers": [
+        "I would first like to hear your explanation for the delay.",
+        "I'd first like to hear your explanation for the delay."
+      ],
+      "notes": "explanation for：对某事的解释。",
+      "tags": [
+        "投诉与协商",
+        "请求表达",
+        "询问原因"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "complaints_negotiation_ext_0009",
+      "zh": "这项补偿可以抵扣下次购买，还是能够直接退还现金？",
+      "en": "Can this compensation be used towards a future purchase, or is a cash refund available?",
+      "answers": [
+        "Can this compensation be used towards a future purchase, or is a cash refund available?"
+      ],
+      "notes": "towards a purchase：用于抵扣购买。",
+      "tags": [
+        "投诉与协商",
+        "选择疑问句",
+        "补偿方式"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "complaints_negotiation_ext_0010",
+      "zh": "让我们先确认已经达成一致的部分，再讨论剩下的问题。",
+      "en": "Let's confirm what we have agreed on before discussing the remaining issues.",
+      "answers": [
+        "Let's confirm what we have agreed on before discussing the remaining issues."
+      ],
+      "notes": "agree on：就某事达成一致。",
+      "tags": [
+        "投诉与协商",
+        "时间从句",
+        "组织协商"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "complaints_negotiation_ext_0011",
+      "zh": "我愿意调整数量，但单价需要保持不变。",
+      "en": "I am willing to adjust the quantity, provided the unit price stays the same.",
+      "answers": [
+        "I am willing to adjust the quantity, provided the unit price stays the same.",
+        "I'm willing to adjust the quantity, provided the unit price stays the same."
+      ],
+      "notes": "provided 引导接受条件。",
+      "tags": [
+        "投诉与协商",
+        "条件从句",
+        "数量议价"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "complaints_negotiation_ext_0012",
+      "zh": "如果我们今天付款，您能免除配送费吗？",
+      "en": "Could you waive the delivery charge if we pay today?",
+      "answers": [
+        "Could you waive the delivery charge if we pay today?"
+      ],
+      "notes": "waive a charge：免除费用。",
+      "tags": [
+        "投诉与协商",
+        "条件疑问句",
+        "费用协商"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "complaints_negotiation_ext_0013",
+      "zh": "这次问题已经影响了活动准备，因此只道歉恐怕不够。",
+      "en": "This issue has affected preparations for the event, so an apology alone may not be enough.",
+      "answers": [
+        "This issue has affected preparations for the event, so an apology alone may not be enough."
+      ],
+      "notes": "alone：仅仅，限定回应方式。",
+      "tags": [
+        "投诉与协商",
+        "因果并列句",
+        "说明影响"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "complaints_negotiation_ext_0014",
+      "zh": "请不要在我们确认新方案之前关闭这个工单。",
+      "en": "Please keep this ticket open until we confirm the revised solution.",
+      "answers": [
+        "Please keep this ticket open until we confirm the revised solution."
+      ],
+      "notes": "keep ... open：保持未关闭状态。",
+      "tags": [
+        "投诉与协商",
+        "时间从句",
+        "服务跟进"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "complaints_negotiation_ext_0015",
+      "zh": "谁有权限批准超过这个金额的退款？",
+      "en": "Who has authority to approve a refund above this amount?",
+      "answers": [
+        "Who has authority to approve a refund above this amount?"
+      ],
+      "notes": "authority to do：批准权限。",
+      "tags": [
+        "投诉与协商",
+        "特殊疑问句",
+        "升级处理"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "complaints_negotiation_ext_0016",
+      "zh": "我之前已经提交过这些照片，能否直接使用现有附件？",
+      "en": "I have already submitted these photographs; could you use the existing attachments?",
+      "answers": [
+        "I have already submitted these photographs; could you use the existing attachments?",
+        "I've already submitted these photographs; could you use the existing attachments?"
+      ],
+      "notes": "existing：已有的。",
+      "tags": [
+        "投诉与协商",
+        "现在完成时",
+        "避免重复提交"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "complaints_negotiation_ext_0017",
+      "zh": "我们需要把口头承诺写进修改后的协议。",
+      "en": "We need to include the verbal commitment in the revised agreement.",
+      "answers": [
+        "We need to include the verbal commitment in the revised agreement."
+      ],
+      "notes": "include A in B：写入。",
+      "tags": [
+        "投诉与协商",
+        "不定式结构",
+        "协议内容"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "complaints_negotiation_ext_0018",
+      "zh": "与其把责任归给对方，我更希望先找到问题发生的环节。",
+      "en": "Rather than assign blame, I would prefer to identify where the process went wrong.",
+      "answers": [
+        "Rather than assign blame, I would prefer to identify where the process went wrong.",
+        "Rather than assign blame, I'd prefer to identify where the process went wrong."
+      ],
+      "notes": "go wrong：出现问题。",
+      "tags": [
+        "投诉与协商",
+        "对比结构",
+        "定位原因"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "complaints_negotiation_ext_0019",
+      "zh": "如果这不是你负责的业务，请把我转给合适的部门。",
+      "en": "If this falls outside your role, please transfer me to the appropriate department.",
+      "answers": [
+        "If this falls outside your role, please transfer me to the appropriate department."
+      ],
+      "notes": "fall outside：不属于范围。",
+      "tags": [
+        "投诉与协商",
+        "条件从句",
+        "转接"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "complaints_negotiation_ext_0020",
+      "zh": "我没有同意更换为价格更高的型号。",
+      "en": "I did not authorise a switch to the more expensive model.",
+      "answers": [
+        "I did not authorise a switch to the more expensive model.",
+        "I didn't authorise a switch to the more expensive model."
+      ],
+      "notes": "authorise：授权、同意。",
+      "tags": [
+        "投诉与协商",
+        "一般过去时",
+        "未经同意的变更"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "complaints_negotiation_ext_0021",
+      "zh": "这项方案解决了费用问题，但没有解决无法使用服务的问题。",
+      "en": "This proposal addresses the cost but not my inability to use the service.",
+      "answers": [
+        "This proposal addresses the cost but not my inability to use the service."
+      ],
+      "notes": "inability to do：无法做某事。",
+      "tags": [
+        "投诉与协商",
+        "对比结构",
+        "核对方案"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "complaints_negotiation_ext_0022",
+      "zh": "请告诉我下一次进度更新的具体时间。",
+      "en": "Please tell me exactly when I can expect the next progress update.",
+      "answers": [
+        "Please tell me exactly when I can expect the next progress update."
+      ],
+      "notes": "expect：可以预期收到。",
+      "tags": [
+        "投诉与协商",
+        "宾语从句",
+        "约定跟进"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "complaints_negotiation_ext_0023",
+      "zh": "如果部分交付可行，我们可以先接收已经准备好的货物。",
+      "en": "If partial delivery is possible, we can accept the goods that are ready.",
+      "answers": [
+        "If partial delivery is possible, we can accept the goods that are ready."
+      ],
+      "notes": "partial delivery：分批或部分交付。",
+      "tags": [
+        "投诉与协商",
+        "条件从句",
+        "交付协商"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "complaints_negotiation_ext_0024",
+      "zh": "问题解决后，请提供一份包含处理结果的书面记录。",
+      "en": "Once the issue is resolved, please provide a written record of the outcome.",
+      "answers": [
+        "Once the issue is resolved, please provide a written record of the outcome."
+      ],
+      "notes": "once：一旦，在完成之后。",
+      "tags": [
+        "投诉与协商",
+        "时间从句",
+        "结案记录"
+      ],
+      "difficulty": 2
+    }
+  ]
+}

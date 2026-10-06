@@ -1,0 +1,1421 @@
+{
+  "schema_version": 1,
+  "id": "food_cooking",
+  "title": "烹饪与厨房协作 · 100 句",
+  "description": "食材、备料、火候、口感、器具、配方调整、保存、分工与上菜；围绕真实厨房任务练习。",
+  "language": "en-GB",
+  "tags": [
+    "烹饪",
+    "逐题讲解"
+  ],
+  "items": [
+    {
+      "id": "food_cooking_v3_0001",
+      "zh": "这些桃子还没熟。",
+      "en": "These peaches are not ripe yet.",
+      "answers": [
+        "These peaches are not ripe yet.",
+        "These peaches aren't ripe yet."
+      ],
+      "notes": "ripe：成熟",
+      "tags": [
+        "烹饪",
+        "食材挑选"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0002",
+      "zh": "葱可以用韭葱代替吗？",
+      "en": "Can I substitute leeks for spring onions?",
+      "answers": [
+        "Can I substitute leeks for spring onions?"
+      ],
+      "notes": "substitute A for B",
+      "tags": [
+        "烹饪",
+        "食材挑选"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0003",
+      "zh": "面粉里有小硬块。",
+      "en": "There are lumps in the flour.",
+      "answers": [
+        "There are lumps in the flour."
+      ],
+      "notes": "lump：结块",
+      "tags": [
+        "烹饪",
+        "食材挑选"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0004",
+      "zh": "这袋米受潮了。",
+      "en": "This bag of rice has absorbed moisture.",
+      "answers": [
+        "This bag of rice has absorbed moisture."
+      ],
+      "notes": "moisture：水分",
+      "tags": [
+        "烹饪",
+        "食材挑选"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0005",
+      "zh": "这道菜需要用无盐黄油。",
+      "en": "We need unsalted butter for this dish.",
+      "answers": [
+        "We need unsalted butter for this dish."
+      ],
+      "notes": "unsalted：无盐；for this dish 明确所用菜品。",
+      "tags": [
+        "烹饪",
+        "食材挑选"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0006",
+      "zh": "买之前先看净重。",
+      "en": "Check the net weight before buying.",
+      "answers": [
+        "Check the net weight before buying."
+      ],
+      "notes": "net weight：净重",
+      "tags": [
+        "烹饪",
+        "食材挑选"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0007",
+      "zh": "这些蘑菇闻起来很新鲜。",
+      "en": "These mushrooms smell fresh.",
+      "answers": [
+        "These mushrooms smell fresh."
+      ],
+      "notes": "smell 接形容词",
+      "tags": [
+        "烹饪",
+        "食材挑选"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0008",
+      "zh": "食谱要求用去皮的杏仁。",
+      "en": "The recipe calls for peeled almonds.",
+      "answers": [
+        "The recipe calls for peeled almonds."
+      ],
+      "notes": "call for：需要",
+      "tags": [
+        "烹饪",
+        "食材挑选"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0009",
+      "zh": "我想买带骨的肉。",
+      "en": "I would like meat on the bone.",
+      "answers": [
+        "I would like meat on the bone."
+      ],
+      "notes": "on the bone：带骨",
+      "tags": [
+        "烹饪",
+        "食材挑选"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0010",
+      "zh": "这罐番茄已经去籽了吗？",
+      "en": "Have the tomatoes in this tin been deseeded?",
+      "answers": [
+        "Have the tomatoes in this tin been deseeded?"
+      ],
+      "notes": "deseed：去籽",
+      "tags": [
+        "烹饪",
+        "食材挑选"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0011",
+      "zh": "先把面团放回碗里。",
+      "en": "Put the dough back in the bowl first.",
+      "answers": [
+        "Put the dough back in the bowl first."
+      ],
+      "notes": "dough：面团",
+      "tags": [
+        "烹饪",
+        "备料"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0012",
+      "zh": "把土豆切成大小相近的块。",
+      "en": "Cut the potatoes into even pieces.",
+      "answers": [
+        "Cut the potatoes into even pieces."
+      ],
+      "notes": "even：均匀",
+      "tags": [
+        "烹饪",
+        "备料"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0013",
+      "zh": "蔬菜洗完后要沥干。",
+      "en": "Drain the vegetables after washing them.",
+      "answers": [
+        "Drain the vegetables after washing them."
+      ],
+      "notes": "drain：沥干",
+      "tags": [
+        "烹饪",
+        "备料"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0014",
+      "zh": "我把蒜拍碎了。",
+      "en": "I crushed the garlic.",
+      "answers": [
+        "I crushed the garlic."
+      ],
+      "notes": "crush：拍碎",
+      "tags": [
+        "烹饪",
+        "备料"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0015",
+      "zh": "皮可以留下做高汤。",
+      "en": "Keep the peelings for stock.",
+      "answers": [
+        "Keep the peelings for stock."
+      ],
+      "notes": "stock：高汤",
+      "tags": [
+        "烹饪",
+        "备料"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0016",
+      "zh": "蛋白需要和蛋黄分开。",
+      "en": "The whites need separating from the yolks.",
+      "answers": [
+        "The whites need separating from the yolks."
+      ],
+      "notes": "yolk：蛋黄",
+      "tags": [
+        "烹饪",
+        "备料"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0017",
+      "zh": "别把面粉一下全倒进去。",
+      "en": "Do not add all the flour at once.",
+      "answers": [
+        "Do not add all the flour at once.",
+        "Don't add all the flour at once."
+      ],
+      "notes": "at once：一次性",
+      "tags": [
+        "烹饪",
+        "备料"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0018",
+      "zh": "这块面团有点黏手。",
+      "en": "The dough feels a little sticky.",
+      "answers": [
+        "The dough feels a little sticky."
+      ],
+      "notes": "sticky：黏的",
+      "tags": [
+        "烹饪",
+        "备料"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0019",
+      "zh": "称完后把秤归零。",
+      "en": "Reset the scales after weighing it.",
+      "answers": [
+        "Reset the scales after weighing it."
+      ],
+      "notes": "reset：重置",
+      "tags": [
+        "烹饪",
+        "备料"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0020",
+      "zh": "让肉在烹调前腌一会儿。",
+      "en": "Let the meat marinate before cooking.",
+      "answers": [
+        "Let the meat marinate before cooking."
+      ],
+      "notes": "marinate：腌制",
+      "tags": [
+        "烹饪",
+        "备料"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0021",
+      "zh": "锅里的水快烧开了。",
+      "en": "The water is almost boiling.",
+      "answers": [
+        "The water is almost boiling."
+      ],
+      "notes": "almost：差一点",
+      "tags": [
+        "烹饪",
+        "烹调过程"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0022",
+      "zh": "等油热了再下洋葱。",
+      "en": "Wait until the oil heats up before adding onions.",
+      "answers": [
+        "Wait until the oil heats up before adding onions."
+      ],
+      "notes": "heat up：加热",
+      "tags": [
+        "烹饪",
+        "烹调过程"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0023",
+      "zh": "把火调小，慢慢炖。",
+      "en": "Lower the heat and let it simmer.",
+      "answers": [
+        "Lower the heat and let it simmer."
+      ],
+      "notes": "simmer：小火炖",
+      "tags": [
+        "烹饪",
+        "烹调过程"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0024",
+      "zh": "不要把锅挤得太满。",
+      "en": "Avoid overcrowding the pan.",
+      "answers": [
+        "Avoid overcrowding the pan."
+      ],
+      "notes": "overcrowd：放得过满",
+      "tags": [
+        "烹饪",
+        "烹调过程"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0025",
+      "zh": "翻面前让底部凝固。",
+      "en": "Let the underside set before turning it.",
+      "answers": [
+        "Let the underside set before turning it."
+      ],
+      "notes": "set：凝固",
+      "tags": [
+        "烹饪",
+        "烹调过程"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0026",
+      "zh": "这锅汤需要不停搅拌。",
+      "en": "This soup needs constant stirring.",
+      "answers": [
+        "This soup needs constant stirring."
+      ],
+      "notes": "stirring：搅拌",
+      "tags": [
+        "烹饪",
+        "烹调过程"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0027",
+      "zh": "盖上盖子，留一道缝。",
+      "en": "Cover it, leaving a small gap.",
+      "answers": [
+        "Cover it, leaving a small gap."
+      ],
+      "notes": "leaving 表伴随",
+      "tags": [
+        "烹饪",
+        "烹调过程"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "food_cooking_v3_0028",
+      "zh": "烤盘要放在中层。",
+      "en": "Place the tray on the middle shelf.",
+      "answers": [
+        "Place the tray on the middle shelf."
+      ],
+      "notes": "shelf：烤箱层架",
+      "tags": [
+        "烹饪",
+        "烹调过程"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0029",
+      "zh": "先预热烤箱。",
+      "en": "Preheat the oven first.",
+      "answers": [
+        "Preheat the oven first."
+      ],
+      "notes": "preheat：预热",
+      "tags": [
+        "烹饪",
+        "烹调过程"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0030",
+      "zh": "烤好后让它稍微凉一下。",
+      "en": "Leave it to cool slightly after baking.",
+      "answers": [
+        "Leave it to cool slightly after baking."
+      ],
+      "notes": "leave to cool",
+      "tags": [
+        "烹饪",
+        "烹调过程"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0031",
+      "zh": "酱汁比预想的稀。",
+      "en": "The sauce is thinner than expected.",
+      "answers": [
+        "The sauce is thinner than expected."
+      ],
+      "notes": "thin：稀的",
+      "tags": [
+        "烹饪",
+        "口感调味"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0032",
+      "zh": "这道菜少了一点酸味。",
+      "en": "This dish needs a little acidity.",
+      "answers": [
+        "This dish needs a little acidity."
+      ],
+      "notes": "acidity：酸味",
+      "tags": [
+        "烹饪",
+        "口感调味"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0033",
+      "zh": "我想保留蔬菜的脆感。",
+      "en": "I want the vegetables to stay crisp.",
+      "answers": [
+        "I want the vegetables to stay crisp."
+      ],
+      "notes": "crisp：脆的",
+      "tags": [
+        "烹饪",
+        "口感调味"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0034",
+      "zh": "蒜味盖住了其他味道。",
+      "en": "The garlic overwhelms the other flavours.",
+      "answers": [
+        "The garlic overwhelms the other flavours."
+      ],
+      "notes": "overwhelm：盖过",
+      "tags": [
+        "烹饪",
+        "口感调味"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0035",
+      "zh": "加一点柠檬汁提味。",
+      "en": "Add some lemon juice for brightness.",
+      "answers": [
+        "Add some lemon juice for brightness."
+      ],
+      "notes": "brightness：清新味感",
+      "tags": [
+        "烹饪",
+        "口感调味"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0036",
+      "zh": "尝过以后再决定加不加盐。",
+      "en": "Taste it before deciding whether to add salt.",
+      "answers": [
+        "Taste it before deciding whether to add salt."
+      ],
+      "notes": "whether：是否",
+      "tags": [
+        "烹饪",
+        "口感调味"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "food_cooking_v3_0037",
+      "zh": "这个馅太干，捏不成团。",
+      "en": "The filling is too dry to hold together.",
+      "answers": [
+        "The filling is too dry to hold together."
+      ],
+      "notes": "hold together：成团",
+      "tags": [
+        "烹饪",
+        "口感调味"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0038",
+      "zh": "外皮很酥，里面仍然柔软。",
+      "en": "The crust is crisp but the inside stays soft.",
+      "answers": [
+        "The crust is crisp but the inside stays soft."
+      ],
+      "notes": "crust：外皮",
+      "tags": [
+        "烹饪",
+        "口感调味"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0039",
+      "zh": "余味有一点苦。",
+      "en": "The aftertaste is slightly bitter.",
+      "answers": [
+        "The aftertaste is slightly bitter."
+      ],
+      "notes": "aftertaste：余味",
+      "tags": [
+        "烹饪",
+        "口感调味"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0040",
+      "zh": "辣味是慢慢上来的。",
+      "en": "The heat builds gradually.",
+      "answers": [
+        "The heat builds gradually."
+      ],
+      "notes": "heat：辣味",
+      "tags": [
+        "烹饪",
+        "口感调味"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0041",
+      "zh": "这把刀需要磨了。",
+      "en": "This knife needs sharpening.",
+      "answers": [
+        "This knife needs sharpening."
+      ],
+      "notes": "need doing 表被动",
+      "tags": [
+        "烹饪",
+        "器具"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0042",
+      "zh": "锅柄松了。",
+      "en": "The pan handle has come loose.",
+      "answers": [
+        "The pan handle has come loose."
+      ],
+      "notes": "come loose：松动",
+      "tags": [
+        "烹饪",
+        "器具"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0043",
+      "zh": "砧板下面垫一块湿布。",
+      "en": "Put a damp cloth under the chopping board.",
+      "answers": [
+        "Put a damp cloth under the chopping board."
+      ],
+      "notes": "damp：微湿",
+      "tags": [
+        "烹饪",
+        "器具"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0044",
+      "zh": "筛子能去掉较大的颗粒。",
+      "en": "The sieve removes the larger particles.",
+      "answers": [
+        "The sieve removes the larger particles."
+      ],
+      "notes": "sieve：筛子",
+      "tags": [
+        "烹饪",
+        "器具"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0045",
+      "zh": "这个勺子适合刮锅边。",
+      "en": "This spoon is useful for scraping the sides.",
+      "answers": [
+        "This spoon is useful for scraping the sides."
+      ],
+      "notes": "scrape：刮",
+      "tags": [
+        "烹饪",
+        "器具"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0046",
+      "zh": "碗太浅，搅拌时容易溅出来。",
+      "en": "The bowl is so shallow that the contents splash out when stirred.",
+      "answers": [
+        "The bowl is so shallow that the contents splash out when stirred."
+      ],
+      "notes": "so ... that 表示浅碗导致的具体结果。",
+      "tags": [
+        "烹饪",
+        "器具"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "food_cooking_v3_0047",
+      "zh": "我需要能进烤箱的容器。",
+      "en": "I need an ovenproof dish.",
+      "answers": [
+        "I need an ovenproof dish."
+      ],
+      "notes": "ovenproof：耐烤箱高温",
+      "tags": [
+        "烹饪",
+        "器具"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0048",
+      "zh": "别让电线碰到热盘。",
+      "en": "Keep the cable away from the hot plate.",
+      "answers": [
+        "Keep the cable away from the hot plate."
+      ],
+      "notes": "keep away from",
+      "tags": [
+        "烹饪",
+        "器具"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0049",
+      "zh": "量杯上的刻度磨掉了。",
+      "en": "The markings on the measuring jug have faded.",
+      "answers": [
+        "The markings on the measuring jug have faded."
+      ],
+      "notes": "fade：逐渐消失",
+      "tags": [
+        "烹饪",
+        "器具"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0050",
+      "zh": "这个盖子与锅不配套。",
+      "en": "This lid does not fit the saucepan.",
+      "answers": [
+        "This lid does not fit the saucepan.",
+        "This lid doesn't fit the saucepan."
+      ],
+      "notes": "fit：尺寸匹配",
+      "tags": [
+        "烹饪",
+        "器具"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0051",
+      "zh": "客人多了，我们得把配方翻倍。",
+      "en": "With more guests coming, we need to double the recipe.",
+      "answers": [
+        "With more guests coming, we need to double the recipe."
+      ],
+      "notes": "double：加倍",
+      "tags": [
+        "烹饪",
+        "食谱调整"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "food_cooking_v3_0052",
+      "zh": "我把蜂蜜换成了糖浆。",
+      "en": "I used syrup in place of honey.",
+      "answers": [
+        "I used syrup in place of honey."
+      ],
+      "notes": "in place of：替代",
+      "tags": [
+        "烹饪",
+        "食谱调整"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "food_cooking_v3_0053",
+      "zh": "小模具可能烤得更快。",
+      "en": "Smaller moulds may reduce the baking time.",
+      "answers": [
+        "Smaller moulds may reduce the baking time."
+      ],
+      "notes": "reduce：缩短",
+      "tags": [
+        "烹饪",
+        "食谱调整"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "food_cooking_v3_0054",
+      "zh": "少放糖会影响质地吗？",
+      "en": "Would less sugar affect the texture?",
+      "answers": [
+        "Would less sugar affect the texture?"
+      ],
+      "notes": "texture：质地",
+      "tags": [
+        "烹饪",
+        "食谱调整"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "food_cooking_v3_0055",
+      "zh": "我手头只有干香草。",
+      "en": "I only have dried herbs to hand.",
+      "answers": [
+        "I only have dried herbs to hand."
+      ],
+      "notes": "to hand：手头有",
+      "tags": [
+        "烹饪",
+        "食谱调整"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "food_cooking_v3_0056",
+      "zh": "配方没有说明面粉种类。",
+      "en": "The recipe does not specify the type of flour.",
+      "answers": [
+        "The recipe does not specify the type of flour.",
+        "The recipe doesn't specify the type of flour."
+      ],
+      "notes": "specify：指明",
+      "tags": [
+        "烹饪",
+        "食谱调整"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "food_cooking_v3_0057",
+      "zh": "先做一小份试试。",
+      "en": "Try a small batch first.",
+      "answers": [
+        "Try a small batch first."
+      ],
+      "notes": "batch：一批",
+      "tags": [
+        "烹饪",
+        "食谱调整"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "food_cooking_v3_0058",
+      "zh": "按照人数调整分量。",
+      "en": "Adjust the quantities to match the number of diners.",
+      "answers": [
+        "Adjust the quantities to match the number of diners."
+      ],
+      "notes": "quantity：用量",
+      "tags": [
+        "烹饪",
+        "食谱调整"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "food_cooking_v3_0059",
+      "zh": "这份配方没有计入静置时间。",
+      "en": "The recipe leaves out the resting time.",
+      "answers": [
+        "The recipe leaves out the resting time."
+      ],
+      "notes": "leave out：遗漏",
+      "tags": [
+        "烹饪",
+        "食谱调整"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "food_cooking_v3_0060",
+      "zh": "我保留了调整后的用量记录。",
+      "en": "I kept a record of the adjusted quantities.",
+      "answers": [
+        "I kept a record of the adjusted quantities."
+      ],
+      "notes": "keep a record",
+      "tags": [
+        "烹饪",
+        "食谱调整"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "food_cooking_v3_0061",
+      "zh": "让蒸汽散去再盖上。",
+      "en": "Let the steam escape before covering it.",
+      "answers": [
+        "Let the steam escape before covering it."
+      ],
+      "notes": "steam：蒸汽",
+      "tags": [
+        "烹饪",
+        "分装保存"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0062",
+      "zh": "把日期写在盒子上。",
+      "en": "Write the date on the container.",
+      "answers": [
+        "Write the date on the container."
+      ],
+      "notes": "date：日期",
+      "tags": [
+        "烹饪",
+        "分装保存"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0063",
+      "zh": "分成小份更容易取用。",
+      "en": "Smaller portions are easier to use.",
+      "answers": [
+        "Smaller portions are easier to use."
+      ],
+      "notes": "portion：一份",
+      "tags": [
+        "烹饪",
+        "分装保存"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0064",
+      "zh": "冷冻之前留一点膨胀空间。",
+      "en": "Leave room for expansion before freezing.",
+      "answers": [
+        "Leave room for expansion before freezing."
+      ],
+      "notes": "expansion：膨胀",
+      "tags": [
+        "烹饪",
+        "分装保存"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0065",
+      "zh": "这个袋子的封口漏了。",
+      "en": "The seal on this bag is leaking.",
+      "answers": [
+        "The seal on this bag is leaking."
+      ],
+      "notes": "seal：封口",
+      "tags": [
+        "烹饪",
+        "分装保存"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0066",
+      "zh": "香料要避光存放。",
+      "en": "Store the spices away from light.",
+      "answers": [
+        "Store the spices away from light."
+      ],
+      "notes": "store：储存",
+      "tags": [
+        "烹饪",
+        "分装保存"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0067",
+      "zh": "面包切片后再冷冻。",
+      "en": "Slice the bread before freezing it.",
+      "answers": [
+        "Slice the bread before freezing it."
+      ],
+      "notes": "slice：切片",
+      "tags": [
+        "烹饪",
+        "分装保存"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0068",
+      "zh": "别把新旧两批混在一起。",
+      "en": "Keep the old and new batches separate.",
+      "answers": [
+        "Keep the old and new batches separate."
+      ],
+      "notes": "keep separate",
+      "tags": [
+        "烹饪",
+        "分装保存"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0069",
+      "zh": "我找不到这盒食品的日期标签。",
+      "en": "I cannot find the date label on this food.",
+      "answers": [
+        "I cannot find the date label on this food.",
+        "I can't find the date label on this food."
+      ],
+      "notes": "label：标签",
+      "tags": [
+        "烹饪",
+        "分装保存"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0070",
+      "zh": "包装破了，我不准备使用。",
+      "en": "The packaging is damaged, so I will not use it.",
+      "answers": [
+        "The packaging is damaged, so I will not use it.",
+        "The packaging is damaged, so I won't use it."
+      ],
+      "notes": "damaged：破损",
+      "tags": [
+        "烹饪",
+        "分装保存"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0071",
+      "zh": "你切菜，我来准备调料。",
+      "en": "You chop the vegetables while I prepare the seasoning.",
+      "answers": [
+        "You chop the vegetables while I prepare the seasoning."
+      ],
+      "notes": "while：同时",
+      "tags": [
+        "烹饪",
+        "一起做饭"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0072",
+      "zh": "请把这个步骤示范一遍。",
+      "en": "Please demonstrate this step once.",
+      "answers": [
+        "Please demonstrate this step once."
+      ],
+      "notes": "demonstrate：示范",
+      "tags": [
+        "烹饪",
+        "一起做饭"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0073",
+      "zh": "我还没用完那只碗。",
+      "en": "I have not finished with that bowl.",
+      "answers": [
+        "I have not finished with that bowl.",
+        "I haven't finished with that bowl."
+      ],
+      "notes": "finish with：用完",
+      "tags": [
+        "烹饪",
+        "一起做饭"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0074",
+      "zh": "先腾出一块工作台。",
+      "en": "Clear some worktop space first.",
+      "answers": [
+        "Clear some worktop space first."
+      ],
+      "notes": "clear：腾出",
+      "tags": [
+        "烹饪",
+        "一起做饭"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0075",
+      "zh": "我们各做一道菜。",
+      "en": "Let's each prepare one dish.",
+      "answers": [
+        "Let's each prepare one dish."
+      ],
+      "notes": "each：各自",
+      "tags": [
+        "烹饪",
+        "一起做饭"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0076",
+      "zh": "这个步骤两个人更好操作。",
+      "en": "This step is easier with two people.",
+      "answers": [
+        "This step is easier with two people."
+      ],
+      "notes": "with：在……参与下",
+      "tags": [
+        "烹饪",
+        "一起做饭"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0077",
+      "zh": "我来盯着计时器。",
+      "en": "I will keep an eye on the timer.",
+      "answers": [
+        "I will keep an eye on the timer."
+      ],
+      "notes": "keep an eye on",
+      "tags": [
+        "烹饪",
+        "一起做饭"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0078",
+      "zh": "把已称好的材料放在左边。",
+      "en": "Place the measured ingredients on the left.",
+      "answers": [
+        "Place the measured ingredients on the left."
+      ],
+      "notes": "measured：已称量",
+      "tags": [
+        "烹饪",
+        "一起做饭"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0079",
+      "zh": "我以为你已经放过油了。",
+      "en": "I thought you had already added the oil.",
+      "answers": [
+        "I thought you had already added the oil."
+      ],
+      "notes": "过去完成时",
+      "tags": [
+        "烹饪",
+        "一起做饭"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "food_cooking_v3_0080",
+      "zh": "我们先把湿材料拌匀。",
+      "en": "Let's combine the wet ingredients first.",
+      "answers": [
+        "Let's combine the wet ingredients first."
+      ],
+      "notes": "combine：混合",
+      "tags": [
+        "烹饪",
+        "一起做饭"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0081",
+      "zh": "冷菜可以提前准备。",
+      "en": "The cold dishes can be prepared ahead.",
+      "answers": [
+        "The cold dishes can be prepared ahead."
+      ],
+      "notes": "ahead：提前",
+      "tags": [
+        "烹饪",
+        "计划上菜"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0082",
+      "zh": "这道菜最好最后做。",
+      "en": "This dish is best made last.",
+      "answers": [
+        "This dish is best made last."
+      ],
+      "notes": "last：最后",
+      "tags": [
+        "烹饪",
+        "计划上菜"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0083",
+      "zh": "先端上不用等的那道。",
+      "en": "Serve the dish that is ready first.",
+      "answers": [
+        "Serve the dish that is ready first."
+      ],
+      "notes": "定语从句",
+      "tags": [
+        "烹饪",
+        "计划上菜"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0084",
+      "zh": "我们还缺一份素食主菜。",
+      "en": "We still need a vegetarian main course.",
+      "answers": [
+        "We still need a vegetarian main course."
+      ],
+      "notes": "main course：主菜",
+      "tags": [
+        "烹饪",
+        "计划上菜"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0085",
+      "zh": "把酱汁放在客人够得到的地方。",
+      "en": "Put the sauce within the guests' reach.",
+      "answers": [
+        "Put the sauce within the guests' reach."
+      ],
+      "notes": "within reach：够得着",
+      "tags": [
+        "烹饪",
+        "计划上菜"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0086",
+      "zh": "这道菜适合大家分着吃。",
+      "en": "This dish is suitable for sharing.",
+      "answers": [
+        "This dish is suitable for sharing."
+      ],
+      "notes": "suitable for",
+      "tags": [
+        "烹饪",
+        "计划上菜"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0087",
+      "zh": "用浅盘会散热更快。",
+      "en": "A shallow plate lets heat escape faster.",
+      "answers": [
+        "A shallow plate lets heat escape faster."
+      ],
+      "notes": "let sth do",
+      "tags": [
+        "烹饪",
+        "计划上菜"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0088",
+      "zh": "我把装饰用的香草忘了。",
+      "en": "I forgot the herbs for the garnish.",
+      "answers": [
+        "I forgot the herbs for the garnish."
+      ],
+      "notes": "garnish：点缀配料",
+      "tags": [
+        "烹饪",
+        "计划上菜"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0089",
+      "zh": "装盘时别堆得太高。",
+      "en": "Avoid piling the food too high when plating.",
+      "answers": [
+        "Avoid piling the food too high when plating."
+      ],
+      "notes": "plate：装盘",
+      "tags": [
+        "烹饪",
+        "计划上菜"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0090",
+      "zh": "热菜上桌前再叫大家。",
+      "en": "Call everyone just before serving the hot food.",
+      "answers": [
+        "Call everyone just before serving the hot food."
+      ],
+      "notes": "just before",
+      "tags": [
+        "烹饪",
+        "计划上菜"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0091",
+      "zh": "锅底糊了一层。",
+      "en": "A layer has burned onto the pan base.",
+      "answers": [
+        "A layer has burned onto the pan base."
+      ],
+      "notes": "burn onto：糊在上面",
+      "tags": [
+        "烹饪",
+        "复盘与清洁"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0092",
+      "zh": "先泡一会儿再洗。",
+      "en": "Leave it to soak before washing.",
+      "answers": [
+        "Leave it to soak before washing."
+      ],
+      "notes": "soak：浸泡",
+      "tags": [
+        "烹饪",
+        "复盘与清洁"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0093",
+      "zh": "面糊从模具里溢到了烤盘上。",
+      "en": "The batter overflowed from the tin onto the baking tray.",
+      "answers": [
+        "The batter overflowed from the tin onto the baking tray."
+      ],
+      "notes": "overflow from ... onto ...：从容器溢到另一表面。",
+      "tags": [
+        "烹饪",
+        "复盘与清洁"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0094",
+      "zh": "我把盐和糖看反了。",
+      "en": "I mixed up the salt and sugar.",
+      "answers": [
+        "I mixed up the salt and sugar."
+      ],
+      "notes": "mix up：弄混",
+      "tags": [
+        "烹饪",
+        "复盘与清洁"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0095",
+      "zh": "下次我会早点开始备料。",
+      "en": "Next time I will start the preparation earlier.",
+      "answers": [
+        "Next time I will start the preparation earlier."
+      ],
+      "notes": "next time",
+      "tags": [
+        "烹饪",
+        "复盘与清洁"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0096",
+      "zh": "烘烤时间不是唯一的判断依据。",
+      "en": "Baking time is not the only guide.",
+      "answers": [
+        "Baking time is not the only guide.",
+        "Baking time isn't the only guide."
+      ],
+      "notes": "guide：判断依据",
+      "tags": [
+        "烹饪",
+        "复盘与清洁"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0097",
+      "zh": "我忘了把计时器启动。",
+      "en": "I forgot to start the timer.",
+      "answers": [
+        "I forgot to start the timer."
+      ],
+      "notes": "forget to do",
+      "tags": [
+        "烹饪",
+        "复盘与清洁"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0098",
+      "zh": "油渍需要单独处理。",
+      "en": "The grease stain needs separate treatment.",
+      "answers": [
+        "The grease stain needs separate treatment."
+      ],
+      "notes": "grease：油污",
+      "tags": [
+        "烹饪",
+        "复盘与清洁"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0099",
+      "zh": "做完后把工具放回原位。",
+      "en": "Return the utensils to their places afterwards.",
+      "answers": [
+        "Return the utensils to their places afterwards."
+      ],
+      "notes": "utensil：厨具",
+      "tags": [
+        "烹饪",
+        "复盘与清洁"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "food_cooking_v3_0100",
+      "zh": "这次成功的比例值得记下来。",
+      "en": "The proportions that worked are worth recording.",
+      "answers": [
+        "The proportions that worked are worth recording."
+      ],
+      "notes": "worth doing",
+      "tags": [
+        "烹饪",
+        "复盘与清洁"
+      ],
+      "difficulty": 3
+    }
+  ]
+}

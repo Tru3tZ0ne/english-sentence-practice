@@ -1,0 +1,1460 @@
+{
+  "schema_version": 1,
+  "id": "ielts_task1_data",
+  "title": "雅思·图表与流程描述 · 96 句",
+  "description": "虚拟图表情境的句子翻译练习；中文已给出所需信息，无需配图。覆盖变化、比例、比较、预测、流程与地图；数值为练习设定。",
+  "language": "en-GB",
+  "tags": [
+    "IELTS",
+    "图表描述",
+    "流程与地图",
+    "逐题讲解"
+  ],
+  "items": [
+    {
+      "id": "ielts_task1_data_ext_0001",
+      "zh": "图中显示，公交日均乘客数从两万人上升到三万人。",
+      "en": "The chart shows that average daily bus passenger numbers rose from twenty thousand to thirty thousand.",
+      "answers": [
+        "The chart shows that average daily bus passenger numbers rose from twenty thousand to thirty thousand."
+      ],
+      "notes": "rose from A to B：从起点升至终点。",
+      "tags": [
+        "IELTS",
+        "趋势描述",
+        "人数变化"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_ext_0002",
+      "zh": "煤炭消费在最初三年下降，随后保持稳定。",
+      "en": "Coal consumption declined during the first three years and then remained stable.",
+      "answers": [
+        "Coal consumption declined during the first three years and then remained stable."
+      ],
+      "notes": "then 表示变化阶段的先后。",
+      "tags": [
+        "IELTS",
+        "并列结构",
+        "阶段变化"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_ext_0003",
+      "zh": "周末的用电量围绕四百兆瓦时上下波动。",
+      "en": "Weekend electricity use fluctuated around four hundred megawatt-hours.",
+      "answers": [
+        "Weekend electricity use fluctuated around four hundred megawatt-hours."
+      ],
+      "notes": "fluctuate around：围绕某数值波动。",
+      "tags": [
+        "IELTS",
+        "趋势描述",
+        "波动"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_ext_0004",
+      "zh": "酒店入住率在八月达到全年最高点。",
+      "en": "Hotel occupancy reached its annual peak in August.",
+      "answers": [
+        "Hotel occupancy reached its annual peak in August."
+      ],
+      "notes": "reach a peak：达到最高点。",
+      "tags": [
+        "IELTS",
+        "最高值表达",
+        "季节变化"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_ext_0005",
+      "zh": "申请数量在四月降至最低，之后逐月回升。",
+      "en": "Applications reached their lowest point in April before recovering month by month.",
+      "answers": [
+        "Applications reached their lowest point in April before recovering month by month."
+      ],
+      "notes": "before doing 连接相继变化。",
+      "tags": [
+        "IELTS",
+        "时间结构",
+        "触底回升"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_ext_0006",
+      "zh": "与前年相比，去年的自行车销量翻了一番。",
+      "en": "Bicycle sales last year were double those of the year before.",
+      "answers": [
+        "Bicycle sales last year were double those of the year before."
+      ],
+      "notes": "those 代指 sales，double 表示两倍。",
+      "tags": [
+        "IELTS",
+        "倍数比较",
+        "销量"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_ext_0007",
+      "zh": "人口增加了一千人，达到六千人。",
+      "en": "The population increased by one thousand to reach six thousand.",
+      "answers": [
+        "The population increased by one thousand to reach six thousand."
+      ],
+      "notes": "by 表示增量，to 表示终值。",
+      "tags": [
+        "IELTS",
+        "增量表达",
+        "人口"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_ext_0008",
+      "zh": "失业率从百分之八降至百分之六，下降了两个百分点。",
+      "en": "Unemployment fell from eight to six per cent, a decrease of two percentage points.",
+      "answers": [
+        "Unemployment fell from eight to six per cent, a decrease of two percentage points."
+      ],
+      "notes": "percentage points 不等于百分比降幅。",
+      "tags": [
+        "IELTS",
+        "同位语结构",
+        "百分点"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_task1_data_ext_0009",
+      "zh": "住房支出占家庭总预算的三分之一。",
+      "en": "Housing accounted for one third of the total household budget.",
+      "answers": [
+        "Housing accounted for one third of the total household budget."
+      ],
+      "notes": "account for：占某比例。",
+      "tags": [
+        "IELTS",
+        "占比表达",
+        "预算构成"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_ext_0010",
+      "zh": "食品和交通的支出合计超过了娱乐支出。",
+      "en": "Combined spending on food and transport exceeded expenditure on entertainment.",
+      "answers": [
+        "Combined spending on food and transport exceeded expenditure on entertainment."
+      ],
+      "notes": "combined spending：合计支出。",
+      "tags": [
+        "IELTS",
+        "比较结构",
+        "类别合计"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_ext_0011",
+      "zh": "城镇家庭的互联网接入率比农村家庭高二十个百分点。",
+      "en": "Internet access among urban households was twenty percentage points higher than among rural households.",
+      "answers": [
+        "Internet access among urban households was twenty percentage points higher than among rural households."
+      ],
+      "notes": "higher by a difference：明确差值单位。",
+      "tags": [
+        "IELTS",
+        "比较结构",
+        "城乡差异"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_task1_data_ext_0012",
+      "zh": "两组之间的差距到期末已缩小到不足五百人。",
+      "en": "By the end of the period, the gap between the two groups had narrowed to fewer than five hundred people.",
+      "answers": [
+        "By the end of the period, the gap between the two groups had narrowed to fewer than five hundred people."
+      ],
+      "notes": "had narrowed 表示截至过去时点已发生。",
+      "tags": [
+        "IELTS",
+        "过去完成时",
+        "差距变化"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_task1_data_ext_0013",
+      "zh": "线上销售在二〇二〇年超过实体店销售，并在此后保持领先。",
+      "en": "Online sales overtook shop sales in 2020 and remained ahead thereafter.",
+      "answers": [
+        "Online sales overtook shop sales in 2020 and remained ahead thereafter."
+      ],
+      "notes": "overtake：超过；thereafter：此后。",
+      "tags": [
+        "IELTS",
+        "并列结构",
+        "交叉变化"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_ext_0014",
+      "zh": "铁路是最受欢迎的选项，而轮渡使用人数最少。",
+      "en": "Rail was the most popular option, whereas ferries had the fewest users.",
+      "answers": [
+        "Rail was the most popular option, whereas ferries had the fewest users."
+      ],
+      "notes": "whereas 对比两种排名。",
+      "tags": [
+        "IELTS",
+        "对比从句",
+        "类别排名"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_ext_0015",
+      "zh": "除了三月，图书馆每个月的到访量都高于前一年同期。",
+      "en": "Except in March, library visits were higher each month than in the corresponding month of the previous year.",
+      "answers": [
+        "Except in March, library visits were higher each month than in the corresponding month of the previous year."
+      ],
+      "notes": "corresponding month：对应月份。",
+      "tags": [
+        "IELTS",
+        "例外表达",
+        "同期比较"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_task1_data_ext_0016",
+      "zh": "较年轻人群偏好短视频，而年龄最大的一组更多选择电视。",
+      "en": "Younger respondents favoured short videos, while the oldest group was more likely to choose television.",
+      "answers": [
+        "Younger respondents favoured short videos, while the oldest group was more likely to choose television."
+      ],
+      "notes": "while 表对比，不表示时间。",
+      "tags": [
+        "IELTS",
+        "对比从句",
+        "群体偏好"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_ext_0017",
+      "zh": "两家公司的销售额起点相同，但期末相差明显。",
+      "en": "The two companies began with equal sales figures but finished with a substantial difference.",
+      "answers": [
+        "The two companies began with equal sales figures but finished with a substantial difference."
+      ],
+      "notes": "equal ... but ...：概括起终点差异。",
+      "tags": [
+        "IELTS",
+        "转折并列句",
+        "比较走势"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_ext_0018",
+      "zh": "尽管月度数据有波动，总体趋势仍然向上。",
+      "en": "Despite monthly fluctuations, the overall trend was upward.",
+      "answers": [
+        "Despite monthly fluctuations, the overall trend was upward."
+      ],
+      "notes": "despite 后接名词，不接完整从句。",
+      "tags": [
+        "IELTS",
+        "让步短语",
+        "总体趋势"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_ext_0019",
+      "zh": "工厂产量在整个观察期内都没有超过五千件。",
+      "en": "Factory output never exceeded five thousand units throughout the observation period.",
+      "answers": [
+        "Factory output never exceeded five thousand units throughout the observation period."
+      ],
+      "notes": "throughout：在整个期间。",
+      "tags": [
+        "IELTS",
+        "范围限定",
+        "数值上限"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_ext_0020",
+      "zh": "预计到二〇三〇年，太阳能将成为最大的电力来源。",
+      "en": "Solar power is projected to become the largest source of electricity by 2030.",
+      "answers": [
+        "Solar power is projected to become the largest source of electricity by 2030."
+      ],
+      "notes": "is projected to：预计，区别实际观测值。",
+      "tags": [
+        "IELTS",
+        "被动语态",
+        "预测数据"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_task1_data_ext_0021",
+      "zh": "总体来看，服务业就业增加，而农业就业减少。",
+      "en": "Overall, employment in services increased, whereas agricultural employment declined.",
+      "answers": [
+        "Overall, employment in services increased, whereas agricultural employment declined."
+      ],
+      "notes": "overall 引出概述，避免加入未给出的原因。",
+      "tags": [
+        "IELTS",
+        "概述结构",
+        "就业分布"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_ext_0022",
+      "zh": "该表只给出了总量，无法看出每个家庭的使用情况。",
+      "en": "The table provides totals only, so usage by individual households cannot be determined.",
+      "answers": [
+        "The table provides totals only, so usage by individual households cannot be determined.",
+        "The table provides totals only, so usage by individual households can't be determined."
+      ],
+      "notes": "cannot be determined：资料无法支持判断。",
+      "tags": [
+        "IELTS",
+        "因果并列句",
+        "数据边界"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_task1_data_ext_0023",
+      "zh": "生产过程首先将收集到的玻璃按颜色分类。",
+      "en": "The production process begins by sorting the collected glass by colour.",
+      "answers": [
+        "The production process begins by sorting the collected glass by colour."
+      ],
+      "notes": "begin by doing：从某步骤开始。",
+      "tags": [
+        "IELTS",
+        "流程表达",
+        "材料分类"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_ext_0024",
+      "zh": "瓶子清洗后被打碎，然后送入熔炉。",
+      "en": "After being washed, the bottles are crushed and sent to a furnace.",
+      "answers": [
+        "After being washed, the bottles are crushed and sent to a furnace."
+      ],
+      "notes": "after being done：被处理之后。",
+      "tags": [
+        "IELTS",
+        "被动语态",
+        "制造流程"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_task1_data_ext_0025",
+      "zh": "熔化的材料被倒入模具，冷却后形成新的容器。",
+      "en": "The molten material is poured into moulds, where it cools to form new containers.",
+      "answers": [
+        "The molten material is poured into moulds, where it cools to form new containers."
+      ],
+      "notes": "where 指代模具中的位置。",
+      "tags": [
+        "IELTS",
+        "定语从句",
+        "成型过程"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_task1_data_ext_0026",
+      "zh": "水蒸发后形成云，最终以降水的形式返回地面。",
+      "en": "Water evaporates to form clouds and eventually returns to the ground as precipitation.",
+      "answers": [
+        "Water evaporates to form clouds and eventually returns to the ground as precipitation."
+      ],
+      "notes": "eventually 表示循环中的后续结果。",
+      "tags": [
+        "IELTS",
+        "流程表达",
+        "自然循环"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_ext_0027",
+      "zh": "在分拣阶段，可回收物与其他垃圾被送往不同的处理路线。",
+      "en": "At the sorting stage, recyclables and other waste are directed along separate processing routes.",
+      "answers": [
+        "At the sorting stage, recyclables and other waste are directed along separate processing routes."
+      ],
+      "notes": "separate routes：分开的处理路径。",
+      "tags": [
+        "IELTS",
+        "被动语态",
+        "分支流程"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_task1_data_ext_0028",
+      "zh": "第二次过滤完成之前，水不会进入储存罐。",
+      "en": "Water does not enter the storage tank until the second filtration is complete.",
+      "answers": [
+        "Water does not enter the storage tank until the second filtration is complete.",
+        "Water doesn't enter the storage tank until the second filtration is complete."
+      ],
+      "notes": "not ... until：完成某步骤后才进入。",
+      "tags": [
+        "IELTS",
+        "时间从句",
+        "处理顺序"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_ext_0029",
+      "zh": "旧仓库被一个带停车场的购物中心取代。",
+      "en": "The old warehouse was replaced by a shopping centre with a car park.",
+      "answers": [
+        "The old warehouse was replaced by a shopping centre with a car park."
+      ],
+      "notes": "be replaced by：被某物取代。",
+      "tags": [
+        "IELTS",
+        "被动语态",
+        "地图变化"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_ext_0030",
+      "zh": "图书馆向东扩建，而原有入口仍在南侧。",
+      "en": "The library was extended eastwards, while the original entrance remained on the southern side.",
+      "answers": [
+        "The library was extended eastwards, while the original entrance remained on the southern side."
+      ],
+      "notes": "eastwards 表示向东的方向。",
+      "tags": [
+        "IELTS",
+        "对比从句",
+        "建筑扩建"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_ext_0031",
+      "zh": "一条新的步行道把住宅区与河边公园连接起来。",
+      "en": "A new footpath linked the residential area to the riverside park.",
+      "answers": [
+        "A new footpath linked the residential area to the riverside park."
+      ],
+      "notes": "link A to B：连接两个位置。",
+      "tags": [
+        "IELTS",
+        "空间描述",
+        "道路新增"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_ext_0032",
+      "zh": "尽管周围新增了住宅，村中心的教堂位置没有变化。",
+      "en": "Although housing was added nearby, the church in the village centre remained in the same location.",
+      "answers": [
+        "Although housing was added nearby, the church in the village centre remained in the same location."
+      ],
+      "notes": "remained 强调地图中的保留部分。",
+      "tags": [
+        "IELTS",
+        "让步从句",
+        "保留设施"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_v3_0001",
+      "zh": "步行占全部出行的四分之一，骑车占八分之一。",
+      "en": "Walking accounted for a quarter of all journeys, compared with an eighth for cycling.",
+      "answers": [
+        "Walking accounted for a quarter of all journeys, compared with an eighth for cycling."
+      ],
+      "notes": "compared with 可对比两个份额；分母均为全部出行。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "占比与基数"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_task1_data_v3_0002",
+      "zh": "租房家庭的比例从百分之四十升至百分之五十，即增加了十个百分点。",
+      "en": "The proportion of households renting their homes increased from 40% to 50%, a rise of ten percentage points.",
+      "answers": [
+        "The proportion of households renting their homes increased from 40% to 50%, a rise of ten percentage points."
+      ],
+      "notes": "percentage points 表示百分比之差，不是增长百分之十。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "占比与基数"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_task1_data_v3_0003",
+      "zh": "虽然会员人数翻了一番，会员占当地人口的比例却没有变化。",
+      "en": "Although membership doubled, members made up the same proportion of the local population.",
+      "answers": [
+        "Although membership doubled, members made up the same proportion of the local population."
+      ],
+      "notes": "数量翻倍不等于占比翻倍；made up：构成。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "占比与基数"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_task1_data_v3_0004",
+      "zh": "住宅用水和商业用水合计占总用水量的七成。",
+      "en": "Residential and commercial use together represented 70% of total water consumption.",
+      "answers": [
+        "Residential and commercial use together represented 70% of total water consumption."
+      ],
+      "notes": "together 明确合并两类；consumption 不可数。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "占比与基数"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_task1_data_v3_0005",
+      "zh": "每百名居民拥有的汽车数量从三十辆降到了二十四辆。",
+      "en": "Car ownership fell from thirty to twenty-four vehicles per hundred residents.",
+      "answers": [
+        "Car ownership fell from thirty to twenty-four vehicles per hundred residents."
+      ],
+      "notes": "per hundred residents 明确标准化分母。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "占比与基数"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_task1_data_v3_0006",
+      "zh": "全职学生人数更多，但兼职学生中的毕业生比例更高。",
+      "en": "There were more full-time students, but a greater proportion of part-time students graduated.",
+      "answers": [
+        "There were more full-time students, but a greater proportion of part-time students graduated."
+      ],
+      "notes": "区分人数比较和组内比例比较。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "占比与基数"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_task1_data_v3_0007",
+      "zh": "娱乐支出所占份额缩小了，尽管花在娱乐上的金额有所增加。",
+      "en": "Entertainment took a smaller share of spending despite an increase in the amount spent on it.",
+      "answers": [
+        "Entertainment took a smaller share of spending despite an increase in the amount spent on it."
+      ],
+      "notes": "share 与 amount 分别指相对份额与绝对金额。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "占比与基数"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_task1_data_v3_0008",
+      "zh": "剩余的百分之十五分布在图中未单独列出的几个类别中。",
+      "en": "The remaining 15% was distributed across several categories not listed separately in the chart.",
+      "answers": [
+        "The remaining 15% was distributed across several categories not listed separately in the chart."
+      ],
+      "notes": "remaining：剩余的；过去分词限定 categories。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "占比与基数"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_task1_data_v3_0009",
+      "zh": "报名人数的大部分增长发生在第二季度。",
+      "en": "Most of the increase in enrolment occurred in the second quarter.",
+      "answers": [
+        "Most of the increase in enrolment occurred in the second quarter."
+      ],
+      "notes": "most of the increase 描述增长发生的阶段。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "形态与阶段"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_v3_0010",
+      "zh": "短暂回升之后，出口量再次下降，并在期末触底。",
+      "en": "Following a brief recovery, export volumes declined again and bottomed out at the end of the period.",
+      "answers": [
+        "Following a brief recovery, export volumes declined again and bottomed out at the end of the period."
+      ],
+      "notes": "bottom out：降至最低点。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "形态与阶段"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_v3_0011",
+      "zh": "从七月开始，用电量一直维持在每月约六百兆瓦时的水平。",
+      "en": "From July onwards, electricity consumption stayed at around six hundred megawatt-hours per month.",
+      "answers": [
+        "From July onwards, electricity consumption stayed at around six hundred megawatt-hours per month."
+      ],
+      "notes": "from ... onwards 表示从某时点起；兆瓦时是能量单位。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "形态与阶段"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_v3_0012",
+      "zh": "四个季度的降雨量交替上升和下降，没有持续朝一个方向变化。",
+      "en": "Rainfall alternated between rises and falls across the four quarters, with no sustained movement in either direction.",
+      "answers": [
+        "Rainfall alternated between rises and falls across the four quarters, with no sustained movement in either direction."
+      ],
+      "notes": "alternate between：在两种状态间交替。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "形态与阶段"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_v3_0013",
+      "zh": "入场人数先迅速增加，随后增速逐渐放缓。",
+      "en": "Attendance initially grew rapidly before the pace of growth gradually slowed.",
+      "answers": [
+        "Attendance initially grew rapidly before the pace of growth gradually slowed."
+      ],
+      "notes": "增长放缓不代表总人数减少。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "形态与阶段"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_v3_0014",
+      "zh": "库存量在连续三个月下降之后才趋于稳定。",
+      "en": "Stocks stabilised only after three consecutive months of decline.",
+      "answers": [
+        "Stocks stabilised only after three consecutive months of decline."
+      ],
+      "notes": "only after 强调稳定之前的连续下降。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "形态与阶段"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_v3_0015",
+      "zh": "前半段的降幅比后半段的回升幅度更大。",
+      "en": "The fall in the first half of the period exceeded the subsequent recovery.",
+      "answers": [
+        "The fall in the first half of the period exceeded the subsequent recovery."
+      ],
+      "notes": "exceeded 对比变化幅度；subsequent：随后的。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "形态与阶段"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_v3_0016",
+      "zh": "夏季高峰过后，旅游收入到十一月已回落至一月的水平。",
+      "en": "After the summer high, tourism revenue had fallen back to its January level by November.",
+      "answers": [
+        "After the summer high, tourism revenue had fallen back to its January level by November."
+      ],
+      "notes": "had fallen back 表示截至过去时点已回落；January level 为比较基准。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "形态与阶段"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_task1_data_v3_0017",
+      "zh": "甲地区从第三位升至第一位，而乙地区跌至末位。",
+      "en": "Region A moved from third to first place, while Region B slipped to the bottom of the ranking.",
+      "answers": [
+        "Region A moved from third to first place, while Region B slipped to the bottom of the ranking."
+      ],
+      "notes": "move from ... to ... 用于名次变化。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "排序与差距"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_v3_0018",
+      "zh": "公交和地铁的平均通勤时间相同，均为四十分钟。",
+      "en": "Buses and the underground recorded identical average commuting times of forty minutes.",
+      "answers": [
+        "Buses and the underground recorded identical average commuting times of forty minutes."
+      ],
+      "notes": "identical：完全相同的；average 限定所比较指标。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "排序与差距"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_v3_0019",
+      "zh": "肉类支出略高于鱼类支出，两者都远低于住房支出。",
+      "en": "Spending on meat slightly exceeded that on fish, with both well below housing costs.",
+      "answers": [
+        "Spending on meat slightly exceeded that on fish, with both well below housing costs."
+      ],
+      "notes": "that 替代 spending；both 指肉类与鱼类支出。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "排序与差距"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_v3_0020",
+      "zh": "最大的两个年龄组加起来比其余所有年龄组的人数还多。",
+      "en": "The two largest age groups together outnumbered all the remaining groups combined.",
+      "answers": [
+        "The two largest age groups together outnumbered all the remaining groups combined."
+      ],
+      "notes": "outnumber：人数超过；combined 强调合计。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "排序与差距"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_v3_0021",
+      "zh": "四家工厂中，只有丙厂的产量下降了。",
+      "en": "Of the four factories, only Factory C experienced a reduction in output.",
+      "answers": [
+        "Of the four factories, only Factory C experienced a reduction in output."
+      ],
+      "notes": "of the four 确定比较范围。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "排序与差距"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_v3_0022",
+      "zh": "收入最低的组出现了最大的比例增幅，但其最终收入仍然最低。",
+      "en": "The lowest-income group saw the largest proportional gain but still had the lowest final income.",
+      "answers": [
+        "The lowest-income group saw the largest proportional gain but still had the lowest final income."
+      ],
+      "notes": "proportional gain 与绝对增量不同。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "排序与差距"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_v3_0023",
+      "zh": "三种燃料的价格在期初相近，到期末则明显分化。",
+      "en": "Prices for the three fuels were similar initially but diverged markedly by the end.",
+      "answers": [
+        "Prices for the three fuels were similar initially but diverged markedly by the end."
+      ],
+      "notes": "diverge：逐渐拉开差异。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "排序与差距"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_v3_0024",
+      "zh": "两条线路的客流量相差约两万人，红线较高。",
+      "en": "Passenger numbers differed by roughly twenty thousand between the two lines, with the red line carrying more.",
+      "answers": [
+        "Passenger numbers differed by roughly twenty thousand between the two lines, with the red line carrying more."
+      ],
+      "notes": "differ by 接差额；with 结构补充较高的一方。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "排序与差距"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_v3_0025",
+      "zh": "大多数包裹的重量在两至五公斤之间，超过十公斤的只有很少一部分。",
+      "en": "Most parcels weighed between two and five kilograms, with very few exceeding ten kilograms.",
+      "answers": [
+        "Most parcels weighed between two and five kilograms, with very few exceeding ten kilograms."
+      ],
+      "notes": "very few 指可数的 parcels。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "分布与指标"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_task1_data_v3_0026",
+      "zh": "周末的日均到访量是工作日的三倍。",
+      "en": "Average daily visits at weekends were three times those on weekdays.",
+      "answers": [
+        "Average daily visits at weekends were three times those on weekdays."
+      ],
+      "notes": "those 代替 visits；日均指标避免天数干扰。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "分布与指标"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_task1_data_v3_0027",
+      "zh": "中位工资基本未变，而平均工资明显上升。",
+      "en": "The median wage remained largely unchanged, whereas the mean increased considerably.",
+      "answers": [
+        "The median wage remained largely unchanged, whereas the mean increased considerably."
+      ],
+      "notes": "median 是中位数；mean 是算术平均数。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "分布与指标"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_task1_data_v3_0028",
+      "zh": "婴儿用品的销售额占比较小，但单位售价最高。",
+      "en": "Baby products generated a small share of sales revenue but had the highest price per unit.",
+      "answers": [
+        "Baby products generated a small share of sales revenue but had the highest price per unit."
+      ],
+      "notes": "区分销售收入份额与单位售价。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "分布与指标"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_task1_data_v3_0029",
+      "zh": "图中的失业人数以千人为单位，而失业率以百分比表示。",
+      "en": "Unemployment counts are given in thousands, while unemployment rates are expressed as percentages.",
+      "answers": [
+        "Unemployment counts are given in thousands, while unemployment rates are expressed as percentages."
+      ],
+      "notes": "counts 与 rates 使用不同单位。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "分布与指标"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_task1_data_v3_0030",
+      "zh": "调查对象中，独居者不足五分之一。",
+      "en": "Fewer than one in five respondents lived alone.",
+      "answers": [
+        "Fewer than one in five respondents lived alone."
+      ],
+      "notes": "one in five：每五人中一人；fewer than 表示不足。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "分布与指标"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_task1_data_v3_0031",
+      "zh": "几乎所有的新增床位都集中在城区医院。",
+      "en": "Almost all additional beds were concentrated in urban hospitals.",
+      "answers": [
+        "Almost all additional beds were concentrated in urban hospitals."
+      ],
+      "notes": "additional beds 指新增数量，而非全部床位。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "分布与指标"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_task1_data_v3_0032",
+      "zh": "第三组的数值范围最广，从十二到八十九不等。",
+      "en": "The third group had the widest range of values, extending from twelve to eighty-nine.",
+      "answers": [
+        "The third group had the widest range of values, extending from twelve to eighty-nine."
+      ],
+      "notes": "range 描述最大值与最小值所界定的范围。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "分布与指标"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_task1_data_v3_0033",
+      "zh": "虚线表示二〇二五年之后的预计需求，而实线表示已记录的需求。",
+      "en": "The dashed line shows anticipated demand after 2025, while the solid line represents recorded demand.",
+      "answers": [
+        "The dashed line shows anticipated demand after 2025, while the solid line represents recorded demand."
+      ],
+      "notes": "anticipated 与 recorded 区分预测和观测。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "预测与覆盖边界"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_task1_data_v3_0034",
+      "zh": "按照图中的预测，风能产量到二〇四〇年将接近水电产量，但不会超过后者。",
+      "en": "Under the forecast shown, wind output will approach that of hydropower by 2040 without overtaking it.",
+      "answers": [
+        "Under the forecast shown, wind output will approach that of hydropower by 2040 without overtaking it."
+      ],
+      "notes": "that 替代 output；without overtaking 限定接近程度。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "预测与覆盖边界"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_task1_data_v3_0035",
+      "zh": "最乐观情景下的乘客人数比最保守情景下高出约三分之一。",
+      "en": "Passenger numbers in the most optimistic scenario are approximately a third higher than in the most conservative one.",
+      "answers": [
+        "Passenger numbers in the most optimistic scenario are approximately a third higher than in the most conservative one."
+      ],
+      "notes": "a third higher 表示以较低情景为基数多三分之一。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "预测与覆盖边界"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_task1_data_v3_0036",
+      "zh": "该系列从二〇一二年才开始，因此更早年份无法直接比较。",
+      "en": "The series begins only in 2012, preventing direct comparison with earlier years.",
+      "answers": [
+        "The series begins only in 2012, preventing direct comparison with earlier years."
+      ],
+      "notes": "preventing 说明数据覆盖范围带来的限制。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "预测与覆盖边界"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_task1_data_v3_0037",
+      "zh": "最后两个季度没有提供数据，因此不能描述完整的全年走势。",
+      "en": "Figures for the final two quarters are unavailable, so a complete annual trend cannot be described.",
+      "answers": [
+        "Figures for the final two quarters are unavailable, so a complete annual trend cannot be described.",
+        "Figures for the final two quarters are unavailable, so a complete annual trend can't be described."
+      ],
+      "notes": "unavailable 表示数据缺失，不等于数值为零。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "预测与覆盖边界"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_task1_data_v3_0038",
+      "zh": "图表比较的是三年的快照，而不是连续的年度记录。",
+      "en": "The charts compare snapshots from three years rather than a continuous annual record.",
+      "answers": [
+        "The charts compare snapshots from three years rather than a continuous annual record."
+      ],
+      "notes": "snapshot：某时点的概况；不据离散时点假定连续走势。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "预测与覆盖边界"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_task1_data_v3_0039",
+      "zh": "地图展示了拟议中的布局，并未表明施工已经完成。",
+      "en": "The map presents a proposed layout and does not indicate that construction has been completed.",
+      "answers": [
+        "The map presents a proposed layout and does not indicate that construction has been completed.",
+        "The map presents a proposed layout and doesn't indicate that construction has been completed."
+      ],
+      "notes": "proposed 限定地图为规划图。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "预测与覆盖边界"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_task1_data_v3_0040",
+      "zh": "两组调查采用了不同的年龄分界，因而无法精确匹配。",
+      "en": "The two surveys use different age boundaries and therefore cannot be matched precisely.",
+      "answers": [
+        "The two surveys use different age boundaries and therefore cannot be matched precisely.",
+        "The two surveys use different age boundaries and therefore can't be matched precisely."
+      ],
+      "notes": "age boundaries：年龄分组界限。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "预测与覆盖边界"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_task1_data_v3_0041",
+      "zh": "检验合格的零件进入组装环节，其余零件返回加工站。",
+      "en": "Parts that pass inspection proceed to assembly; the rest return to the processing station.",
+      "answers": [
+        "Parts that pass inspection proceed to assembly; the rest return to the processing station."
+      ],
+      "notes": "the rest 回指未通过检验的零件。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "流程中的分支与循环"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_v3_0042",
+      "zh": "混合物冷却期间，空容器在另一条生产线上接受消毒。",
+      "en": "While the mixture cools, empty containers are sterilised on a separate production line.",
+      "answers": [
+        "While the mixture cools, empty containers are sterilised on a separate production line."
+      ],
+      "notes": "while 表示两个步骤同时进行。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "流程中的分支与循环"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_v3_0043",
+      "zh": "蒸汽推动涡轮机之后凝结成水，并被泵送回锅炉。",
+      "en": "After driving the turbine, the steam condenses into water and is pumped back to the boiler.",
+      "answers": [
+        "After driving the turbine, the steam condenses into water and is pumped back to the boiler."
+      ],
+      "notes": "condense：凝结；back 表明循环返回。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "流程中的分支与循环"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_v3_0044",
+      "zh": "两种原料分别储存，直到称重阶段才混合。",
+      "en": "The two raw materials are stored separately and combined only at the weighing stage.",
+      "answers": [
+        "The two raw materials are stored separately and combined only at the weighing stage."
+      ],
+      "notes": "only at 限定合流发生的位置。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "流程中的分支与循环"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_v3_0045",
+      "zh": "包装环节结束后，每箱产品都会被贴上标明生产日期的标签。",
+      "en": "Once packing is complete, each box is labelled with its production date.",
+      "answers": [
+        "Once packing is complete, each box is labelled with its production date."
+      ],
+      "notes": "once 引出完成前一步的条件。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "流程中的分支与循环"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_v3_0046",
+      "zh": "与直线型流程不同，图示流程将材料从最后一步送回起点。",
+      "en": "Unlike a linear process, the one shown returns material from the final stage to the starting point.",
+      "answers": [
+        "Unlike a linear process, the one shown returns material from the final stage to the starting point."
+      ],
+      "notes": "unlike 比较两种流程；the one shown 指图示流程。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "流程中的分支与循环"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_v3_0047",
+      "zh": "水通过细筛时，较大的颗粒会被截留。",
+      "en": "As water passes through a fine screen, larger particles are retained.",
+      "answers": [
+        "As water passes through a fine screen, larger particles are retained."
+      ],
+      "notes": "as 表示同步过程；retain：截留。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "流程中的分支与循环"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_v3_0048",
+      "zh": "这套系统有两个输入端，但只有一个成品输出端。",
+      "en": "The system has two inputs but a single output for the finished product.",
+      "answers": [
+        "The system has two inputs but a single output for the finished product."
+      ],
+      "notes": "input 和 output 描述流程边界。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "流程中的分支与循环"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_v3_0049",
+      "zh": "种子吸水后膨胀，随后外壳裂开。",
+      "en": "The seed swells as it absorbs water, after which its outer coat splits.",
+      "answers": [
+        "The seed swells as it absorbs water, after which its outer coat splits."
+      ],
+      "notes": "after which 承接前面的过程。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "自然过程与机械装置"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_v3_0050",
+      "zh": "幼虫附着在叶片下侧，并在那里形成蛹。",
+      "en": "The larva attaches itself to the underside of a leaf, where it forms a pupa.",
+      "answers": [
+        "The larva attaches itself to the underside of a leaf, where it forms a pupa."
+      ],
+      "notes": "larva 和 pupa 分别为幼虫与蛹。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "自然过程与机械装置"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_v3_0051",
+      "zh": "沉积物逐层堆积，逐渐将有机物埋在下面。",
+      "en": "Layers of sediment accumulate, gradually burying organic matter beneath them.",
+      "answers": [
+        "Layers of sediment accumulate, gradually burying organic matter beneath them."
+      ],
+      "notes": "现在分词 burying 描述伴随结果。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "自然过程与机械装置"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_v3_0052",
+      "zh": "浮标随波浪上下移动，带动与其相连的活塞。",
+      "en": "The buoy rises and falls with the waves, moving the piston attached to it.",
+      "answers": [
+        "The buoy rises and falls with the waves, moving the piston attached to it."
+      ],
+      "notes": "attached to it 限定与浮标连接的活塞。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "自然过程与机械装置"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_v3_0053",
+      "zh": "阀门打开后，压缩空气从储气室流向涡轮。",
+      "en": "Opening the valve allows compressed air to flow from the chamber towards the turbine.",
+      "answers": [
+        "Opening the valve allows compressed air to flow from the chamber towards the turbine."
+      ],
+      "notes": "allow ... to do 描述装置功能。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "自然过程与机械装置"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_v3_0054",
+      "zh": "阳光穿过透明盖板，并加热下方的黑色表面。",
+      "en": "Sunlight passes through the transparent cover and heats the black surface underneath.",
+      "answers": [
+        "Sunlight passes through the transparent cover and heats the black surface underneath."
+      ],
+      "notes": "underneath 作副词表示盖板下方。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "自然过程与机械装置"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_v3_0055",
+      "zh": "根部吸收的水沿着茎向上输送，最终到达叶片。",
+      "en": "Water absorbed by the roots is transported up the stem to the leaves.",
+      "answers": [
+        "Water absorbed by the roots is transported up the stem to the leaves."
+      ],
+      "notes": "过去分词短语 absorbed by 修饰 water。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "自然过程与机械装置"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_v3_0056",
+      "zh": "容器装满时，浮子升起并切断进水。",
+      "en": "When the container is full, a float rises and shuts off the water supply.",
+      "answers": [
+        "When the container is full, a float rises and shuts off the water supply."
+      ],
+      "notes": "shut off：切断；float 指浮子装置。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "自然过程与机械装置"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_v3_0057",
+      "zh": "入口旁的售票处被迁到主楼内，腾出的空间改为自行车停车区。",
+      "en": "The ticket office beside the entrance was relocated inside the main building, freeing space for bicycle parking.",
+      "answers": [
+        "The ticket office beside the entrance was relocated inside the main building, freeing space for bicycle parking."
+      ],
+      "notes": "freeing space 说明迁移后的空间用途。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "地图布局与功能变化"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_v3_0058",
+      "zh": "原先相互分开的两间教室被合并成一间实验室。",
+      "en": "Two previously separate classrooms were combined into a single laboratory.",
+      "answers": [
+        "Two previously separate classrooms were combined into a single laboratory."
+      ],
+      "notes": "combine ... into：将多个空间合并。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "地图布局与功能变化"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_v3_0059",
+      "zh": "新桥建成后，行人可以直接从车站到达河对岸的住宅区。",
+      "en": "The new bridge gives pedestrians direct access from the station to housing across the river.",
+      "answers": [
+        "The new bridge gives pedestrians direct access from the station to housing across the river."
+      ],
+      "notes": "give access to 描述新增连接带来的通达性。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "地图布局与功能变化"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_v3_0060",
+      "zh": "树林的北半部保留了下来，南半部则被清理用于修建运动场。",
+      "en": "The northern half of the woodland was retained, while the southern half was cleared for sports pitches.",
+      "answers": [
+        "The northern half of the woodland was retained, while the southern half was cleared for sports pitches."
+      ],
+      "notes": "retain 与 clear 对比保留和清理。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "地图布局与功能变化"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_v3_0061",
+      "zh": "通往工厂的道路被改道，绕过了村庄中心。",
+      "en": "The access road to the factory was rerouted to bypass the village centre.",
+      "answers": [
+        "The access road to the factory was rerouted to bypass the village centre."
+      ],
+      "notes": "reroute：改道；bypass：绕过。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "地图布局与功能变化"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_v3_0062",
+      "zh": "所有面向顾客的服务现在集中在底层，办公室则位于楼上。",
+      "en": "All customer-facing services are now on the ground floor, with offices upstairs.",
+      "answers": [
+        "All customer-facing services are now on the ground floor, with offices upstairs."
+      ],
+      "notes": "with 补充上下楼层的功能分区。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "地图布局与功能变化"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_v3_0063",
+      "zh": "露天庭院加上了屋顶，成为连接两座建筑的大厅。",
+      "en": "The open courtyard was roofed over to create a hall linking the two buildings.",
+      "answers": [
+        "The open courtyard was roofed over to create a hall linking the two buildings."
+      ],
+      "notes": "roof over：加盖屋顶；linking 限定新大厅的连接功能。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "地图布局与功能变化"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_task1_data_v3_0064",
+      "zh": "除了东北角新增的出口外，外围围墙没有改动。",
+      "en": "The perimeter wall was left unaltered apart from a new exit in the north-east corner.",
+      "answers": [
+        "The perimeter wall was left unaltered apart from a new exit in the north-east corner."
+      ],
+      "notes": "apart from 引出保留部分中的唯一变化。",
+      "tags": [
+        "IELTS",
+        "图表流程",
+        "地图布局与功能变化"
+      ],
+      "difficulty": 3
+    }
+  ]
+}

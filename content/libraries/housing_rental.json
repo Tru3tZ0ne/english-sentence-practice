@@ -1,0 +1,576 @@
+{
+  "schema_version": 1,
+  "id": "housing_rental",
+  "title": "租房与居住精选 · 36 句",
+  "description": "围绕本主题的具体情境组织表达；覆盖请求、说明、比较与复合句，并附逐题用法。",
+  "language": "en-GB",
+  "tags": [
+    "租房与居住",
+    "主题分类",
+    "精选",
+    "逐题讲解"
+  ],
+  "items": [
+    {
+      "zh": "这套房的租金包含水费和暖气费吗？",
+      "en": "Does the rent for this flat include water and heating?",
+      "answers": [
+        "Does the rent for this flat include water and heating?",
+        "Does the rent for this apartment include water and heating?"
+      ],
+      "notes": "include 为及物动词；flat 常见于英式英语，apartment 常见于美式英语。",
+      "tags": [
+        "租房与居住",
+        "一般疑问句",
+        "确认费用",
+        "看房"
+      ],
+      "difficulty": 2,
+      "id": "housing_rental_001"
+    },
+    {
+      "zh": "从昨晚开始，厨房的水龙头就一直在漏水。",
+      "en": "The kitchen tap has been leaking since last night.",
+      "answers": [
+        "The kitchen tap has been leaking since last night.",
+        "The kitchen faucet has been leaking since last night."
+      ],
+      "notes": "现在完成进行时表示动作从过去持续到现在；tap 也可用 faucet。",
+      "tags": [
+        "租房与居住",
+        "现在完成进行时",
+        "报修",
+        "漏水"
+      ],
+      "difficulty": 3,
+      "id": "housing_rental_002"
+    },
+    {
+      "zh": "如果我提前退租，需要提前多久通知您？",
+      "en": "How much notice do I need to give if I end the tenancy early?",
+      "answers": [
+        "How much notice do I need to give if I end the tenancy early?"
+      ],
+      "notes": "give notice 表示提前通知；how much notice 询问通知期限。",
+      "tags": [
+        "租房与居住",
+        "条件疑问句",
+        "确认合同条款",
+        "提前退租"
+      ],
+      "difficulty": 3,
+      "id": "housing_rental_003"
+    },
+    {
+      "zh": "请在我搬入之前，把现有损坏记录在交接清单上。",
+      "en": "Please record the existing damage in the inventory before I move in.",
+      "answers": [
+        "Please record the existing damage in the inventory before I move in."
+      ],
+      "notes": "damage 在此不可数；inventory 指记录物品及状态的交接清单。",
+      "tags": [
+        "租房与居住",
+        "时间从句",
+        "确认房屋状态",
+        "入住交接"
+      ],
+      "difficulty": 3,
+      "id": "housing_rental_004"
+    },
+    {
+      "zh": "卧室朝向主路，所以我想晚上再来看一次房。",
+      "en": "The bedroom faces the main road, so I'd like to view the flat again in the evening.",
+      "answers": [
+        "The bedroom faces the main road, so I'd like to view the flat again in the evening."
+      ],
+      "notes": "face 可直接接朝向对象；so 引出再次看房的理由。",
+      "tags": [
+        "租房与居住",
+        "因果并列句",
+        "提出看房需求",
+        "噪声"
+      ],
+      "difficulty": 2,
+      "id": "housing_rental_005"
+    },
+    {
+      "zh": "我还没有收到押金退款，也没有收到扣款明细。",
+      "en": "I haven't received my deposit back or an itemised list of deductions.",
+      "answers": [
+        "I haven't received my deposit back or an itemised list of deductions.",
+        "I have not received my deposit back or an itemised list of deductions."
+      ],
+      "notes": "否定句中用 or 连接两个都未收到的项目；itemised 表示逐项列出的。",
+      "tags": [
+        "租房与居住",
+        "现在完成时",
+        "追问退款",
+        "押金"
+      ],
+      "difficulty": 3,
+      "id": "housing_rental_006"
+    },
+    {
+      "zh": "虽然暖气已经修好，但客厅的墙仍然很潮湿。",
+      "en": "Although the heating has been repaired, the living-room wall is still damp.",
+      "answers": [
+        "Although the heating has been repaired, the living-room wall is still damp."
+      ],
+      "notes": "现在完成时被动表示维修已完成；damp 描述潮湿状态。",
+      "tags": [
+        "租房与居住",
+        "让步从句",
+        "说明剩余问题",
+        "维修跟进"
+      ],
+      "difficulty": 3,
+      "id": "housing_rental_007"
+    },
+    {
+      "zh": "您能在进入房屋检查之前和我约定一个时间吗？",
+      "en": "Could you arrange a time with me before entering the property for an inspection?",
+      "answers": [
+        "Could you arrange a time with me before entering the property for an inspection?"
+      ],
+      "notes": "arrange a time with sb 表示约定时间；before 后接动名词。",
+      "tags": [
+        "租房与居住",
+        "礼貌疑问句",
+        "协商上门时间",
+        "房屋检查"
+      ],
+      "difficulty": 2,
+      "id": "housing_rental_008"
+    },
+    {
+      "zh": "让我犹豫的是合同没有说明谁负责维修电器。",
+      "en": "What makes me hesitate is that the agreement doesn't say who is responsible for appliance repairs.",
+      "answers": [
+        "What makes me hesitate is that the agreement doesn't say who is responsible for appliance repairs.",
+        "What makes me hesitate is that the agreement does not say who is responsible for appliance repairs."
+      ],
+      "notes": "what 从句作主语；be responsible for 表示负责。",
+      "tags": [
+        "租房与居住",
+        "主语从句",
+        "指出合同疑问",
+        "维修责任"
+      ],
+      "difficulty": 4,
+      "id": "housing_rental_009"
+    },
+    {
+      "zh": "除非有书面确认，否则我不想仅凭口头承诺续租。",
+      "en": "Unless I receive written confirmation, I don't want to renew the tenancy on the basis of a verbal promise alone.",
+      "answers": [
+        "Unless I receive written confirmation, I don't want to renew the tenancy on the basis of a verbal promise alone.",
+        "Unless I receive written confirmation, I do not want to renew the tenancy on the basis of a verbal promise alone."
+      ],
+      "notes": "unless 表示如果不；on the basis of 表示依据，alone 强调仅凭这一点。",
+      "tags": [
+        "租房与居住",
+        "条件从句",
+        "提出确认要求",
+        "续租"
+      ],
+      "difficulty": 3,
+      "id": "housing_rental_010"
+    },
+    {
+      "zh": "楼上的脚步声通常持续到午夜以后，影响了我的睡眠。",
+      "en": "Footsteps from upstairs often continue past midnight, which disrupts my sleep.",
+      "answers": [
+        "Footsteps from upstairs often continue past midnight, which disrupts my sleep."
+      ],
+      "notes": "which 指代前一整件事；past midnight 表示午夜之后。",
+      "tags": [
+        "租房与居住",
+        "非限制性定语从句",
+        "说明噪声影响",
+        "邻里沟通"
+      ],
+      "difficulty": 3,
+      "id": "housing_rental_011"
+    },
+    {
+      "zh": "与其直接扣除整个押金，我们能否先核对一下维修报价？",
+      "en": "Rather than deduct the whole deposit immediately, could we review the repair estimate first?",
+      "answers": [
+        "Rather than deduct the whole deposit immediately, could we review the repair estimate first?"
+      ],
+      "notes": "rather than 引出替代方案；estimate 在此指预估维修费用。",
+      "tags": [
+        "租房与居住",
+        "对比结构",
+        "协商扣款",
+        "退租结算"
+      ],
+      "difficulty": 3,
+      "id": "housing_rental_012"
+    },
+    {
+      "id": "housing_rental_ext_0001",
+      "zh": "租约从哪一天开始，到哪一天结束？",
+      "en": "On what dates does the tenancy begin and end?",
+      "answers": [
+        "On what dates does the tenancy begin and end?"
+      ],
+      "notes": "on what dates：具体哪些日期。",
+      "tags": [
+        "租房与居住",
+        "特殊疑问句",
+        "租期"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "housing_rental_ext_0002",
+      "zh": "我能在签字前拿一份合同回去阅读吗？",
+      "en": "May I take a copy of the agreement to read before signing?",
+      "answers": [
+        "May I take a copy of the agreement to read before signing?"
+      ],
+      "notes": "may I：请求允许。",
+      "tags": [
+        "租房与居住",
+        "时间状语",
+        "合同阅读"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "housing_rental_ext_0003",
+      "zh": "房间里的家具会全部留下吗？",
+      "en": "Will all the furniture in the room remain?",
+      "answers": [
+        "Will all the furniture in the room remain?"
+      ],
+      "notes": "furniture 为不可数名词。",
+      "tags": [
+        "租房与居住",
+        "一般疑问句",
+        "家具配置"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "housing_rental_ext_0004",
+      "zh": "我需要知道这栋楼是否允许养宠物。",
+      "en": "I need to know whether pets are allowed in this building.",
+      "answers": [
+        "I need to know whether pets are allowed in this building."
+      ],
+      "notes": "be allowed：被允许。",
+      "tags": [
+        "租房与居住",
+        "宾语从句",
+        "居住规定"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "housing_rental_ext_0005",
+      "zh": "公用洗衣房通常开放到几点？",
+      "en": "Until what time is the shared laundry room usually open?",
+      "answers": [
+        "Until what time is the shared laundry room usually open?"
+      ],
+      "notes": "until：直到某时间。",
+      "tags": [
+        "租房与居住",
+        "特殊疑问句",
+        "共用设施"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "housing_rental_ext_0006",
+      "zh": "这扇窗关不紧，晚上有冷风进来。",
+      "en": "This window does not close properly, and cold air comes in at night.",
+      "answers": [
+        "This window does not close properly, and cold air comes in at night.",
+        "This window doesn't close properly, and cold air comes in at night."
+      ],
+      "notes": "properly：正常、妥当地。",
+      "tags": [
+        "租房与居住",
+        "并列句",
+        "门窗维修"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "housing_rental_ext_0007",
+      "zh": "浴室天花板上的水渍比上周更大了。",
+      "en": "The water stain on the bathroom ceiling is larger than last week.",
+      "answers": [
+        "The water stain on the bathroom ceiling is larger than last week."
+      ],
+      "notes": "water stain：水渍。",
+      "tags": [
+        "租房与居住",
+        "比较结构",
+        "房屋状况"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "housing_rental_ext_0008",
+      "zh": "停水会持续多久？我们需要提前储水吗？",
+      "en": "How long will the water interruption last? Do we need to store water beforehand?",
+      "answers": [
+        "How long will the water interruption last? Do we need to store water beforehand?"
+      ],
+      "notes": "beforehand：事先。",
+      "tags": [
+        "租房与居住",
+        "特殊疑问句",
+        "服务中断"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "housing_rental_ext_0009",
+      "zh": "您安排的维修人员没有在约定时间出现。",
+      "en": "The repairer you arranged did not arrive at the agreed time.",
+      "answers": [
+        "The repairer you arranged did not arrive at the agreed time.",
+        "The repairer you arranged didn't arrive at the agreed time."
+      ],
+      "notes": "agreed time：约定时间。",
+      "tags": [
+        "租房与居住",
+        "定语从句",
+        "维修跟进"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "housing_rental_ext_0010",
+      "zh": "如果维修要持续几天，我需要了解期间的居住安排。",
+      "en": "If the repairs take several days, I need to understand the living arrangements during that time.",
+      "answers": [
+        "If the repairs take several days, I need to understand the living arrangements during that time."
+      ],
+      "notes": "take + 时间：需要多久。",
+      "tags": [
+        "租房与居住",
+        "条件从句",
+        "维修期间"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "housing_rental_ext_0011",
+      "zh": "厨房排风设备是否属于房东负责维护的部分？",
+      "en": "Is the kitchen extractor part of what the landlord maintains?",
+      "answers": [
+        "Is the kitchen extractor part of what the landlord maintains?"
+      ],
+      "notes": "extractor：排风设备。",
+      "tags": [
+        "租房与居住",
+        "名词性从句",
+        "维护责任"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "housing_rental_ext_0012",
+      "zh": "门锁有时打不开，我已经记录了发生的次数。",
+      "en": "The lock sometimes fails to open, and I have recorded how often it happens.",
+      "answers": [
+        "The lock sometimes fails to open, and I have recorded how often it happens.",
+        "The lock sometimes fails to open, and I've recorded how often it happens."
+      ],
+      "notes": "fail to do：未能正常完成。",
+      "tags": [
+        "租房与居住",
+        "宾语从句",
+        "门锁故障"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "housing_rental_ext_0013",
+      "zh": "请确认电表读数是否从入住当天开始计算。",
+      "en": "Please confirm whether the meter reading starts from the move-in date.",
+      "answers": [
+        "Please confirm whether the meter reading starts from the move-in date."
+      ],
+      "notes": "meter reading：表计读数。",
+      "tags": [
+        "租房与居住",
+        "宾语从句",
+        "费用交接"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "housing_rental_ext_0014",
+      "zh": "我们想在墙上挂画，需要先获得书面同意吗？",
+      "en": "Do we need written permission before hanging pictures on the wall?",
+      "answers": [
+        "Do we need written permission before hanging pictures on the wall?"
+      ],
+      "notes": "written permission：书面许可。",
+      "tags": [
+        "租房与居住",
+        "时间疑问句",
+        "房屋使用"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "housing_rental_ext_0015",
+      "zh": "这份清单把旧划痕写成了新的损坏。",
+      "en": "This list describes existing scratches as new damage.",
+      "answers": [
+        "This list describes existing scratches as new damage."
+      ],
+      "notes": "describe A as B：把 A 描述为 B。",
+      "tags": [
+        "租房与居住",
+        "一般现在时",
+        "退租争议"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "housing_rental_ext_0016",
+      "zh": "我有入住时拍的照片，可以用来核对。",
+      "en": "I have photographs taken when I moved in that we can use for comparison.",
+      "answers": [
+        "I have photographs taken when I moved in that we can use for comparison."
+      ],
+      "notes": "taken 是分词定语。",
+      "tags": [
+        "租房与居住",
+        "定语结构",
+        "状态证据"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "housing_rental_ext_0017",
+      "zh": "能否把共用区域的清洁安排发给所有住户？",
+      "en": "Could you send the shared-area cleaning schedule to all residents?",
+      "answers": [
+        "Could you send the shared-area cleaning schedule to all residents?"
+      ],
+      "notes": "send sth to sb。",
+      "tags": [
+        "租房与居住",
+        "礼貌疑问句",
+        "共同居住"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "housing_rental_ext_0018",
+      "zh": "楼道里的箱子挡住了通道，需要移开。",
+      "en": "The boxes in the corridor are blocking the passage and need to be moved.",
+      "answers": [
+        "The boxes in the corridor are blocking the passage and need to be moved."
+      ],
+      "notes": "need to be moved：需要移开。",
+      "tags": [
+        "租房与居住",
+        "被动语态",
+        "公共空间"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "housing_rental_ext_0019",
+      "zh": "如果租金调整，您会提前多久通知？",
+      "en": "How much notice will you give if the rent changes?",
+      "answers": [
+        "How much notice will you give if the rent changes?"
+      ],
+      "notes": "give notice：提前通知。",
+      "tags": [
+        "租房与居住",
+        "条件疑问句",
+        "租金变更"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "housing_rental_ext_0020",
+      "zh": "我想了解续约后的条款是否和现在相同。",
+      "en": "I would like to know whether the terms will stay the same after renewal.",
+      "answers": [
+        "I would like to know whether the terms will stay the same after renewal.",
+        "I'd like to know whether the terms will stay the same after renewal."
+      ],
+      "notes": "renewal：续约。",
+      "tags": [
+        "租房与居住",
+        "宾语从句",
+        "续约条件"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "housing_rental_ext_0021",
+      "zh": "我们搬走后，最后一张账单会寄到哪里？",
+      "en": "Where will the final bill be sent after we move out?",
+      "answers": [
+        "Where will the final bill be sent after we move out?"
+      ],
+      "notes": "move out：搬离。",
+      "tags": [
+        "租房与居住",
+        "被动疑问句",
+        "退租结算"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "housing_rental_ext_0022",
+      "zh": "钥匙需要本人交还，还是可以放到指定位置？",
+      "en": "Must the keys be returned in person, or can they be left in a designated place?",
+      "answers": [
+        "Must the keys be returned in person, or can they be left in a designated place?"
+      ],
+      "notes": "in person：本人到场。",
+      "tags": [
+        "租房与居住",
+        "选择疑问句",
+        "钥匙交接"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "housing_rental_ext_0023",
+      "zh": "这个车位是专用的，还是住户先到先用？",
+      "en": "Is this parking space reserved, or is it available to residents on a first-come basis?",
+      "answers": [
+        "Is this parking space reserved, or is it available to residents on a first-come basis?"
+      ],
+      "notes": "first-come basis：先到先用。",
+      "tags": [
+        "租房与居住",
+        "选择疑问句",
+        "停车安排"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "housing_rental_ext_0024",
+      "zh": "虽然房间采光不错，但储物空间不够放我们的东西。",
+      "en": "Although the room gets good daylight, it lacks enough storage for our belongings.",
+      "answers": [
+        "Although the room gets good daylight, it lacks enough storage for our belongings."
+      ],
+      "notes": "belongings：个人物品。",
+      "tags": [
+        "租房与居住",
+        "让步从句",
+        "房屋比较"
+      ],
+      "difficulty": 3
+    }
+  ]
+}

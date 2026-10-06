@@ -1,0 +1,579 @@
+{
+  "schema_version": 1,
+  "id": "family_social",
+  "title": "家庭与社交精选 · 36 句",
+  "description": "围绕本主题的具体情境组织表达；覆盖请求、说明、比较与复合句，并附逐题用法。",
+  "language": "en-GB",
+  "tags": [
+    "家庭与社交",
+    "主题分类",
+    "精选",
+    "逐题讲解"
+  ],
+  "items": [
+    {
+      "zh": "等孩子睡着后，我们再收拾厨房。",
+      "en": "We'll tidy the kitchen once the children are asleep.",
+      "answers": [
+        "We'll tidy the kitchen once the children are asleep.",
+        "We will tidy the kitchen once the children are asleep."
+      ],
+      "notes": "once 引导将来的时间从句时使用现在时；asleep 是形容词。",
+      "tags": [
+        "家庭与社交",
+        "时间从句",
+        "安排家务",
+        "家庭生活"
+      ],
+      "difficulty": 2,
+      "id": "family_social_001"
+    },
+    {
+      "zh": "你能在回家的路上接一下奶奶吗？",
+      "en": "Could you pick Grandma up on your way home?",
+      "answers": [
+        "Could you pick Grandma up on your way home?"
+      ],
+      "notes": "pick sb up 表示接人；on your way home 中 home 前不加 to。",
+      "tags": [
+        "家庭与社交",
+        "礼貌疑问句",
+        "请求帮忙",
+        "接送"
+      ],
+      "difficulty": 2,
+      "id": "family_social_002"
+    },
+    {
+      "zh": "与其让一个人做所有家务，我们不如轮流做饭。",
+      "en": "Instead of leaving all the housework to one person, we could take turns cooking.",
+      "answers": [
+        "Instead of leaving all the housework to one person, we could take turns cooking."
+      ],
+      "notes": "instead of 后接 doing；take turns doing 表示轮流做。",
+      "tags": [
+        "家庭与社交",
+        "介词对比",
+        "协商分工",
+        "家务分配"
+      ],
+      "difficulty": 3,
+      "id": "family_social_003"
+    },
+    {
+      "zh": "我原以为聚会是周六，结果是周五。",
+      "en": "I thought the gathering was on Saturday, but it turned out to be on Friday.",
+      "answers": [
+        "I thought the gathering was on Saturday, but it turned out to be on Friday."
+      ],
+      "notes": "turn out to be 表示结果是；星期前用 on。",
+      "tags": [
+        "家庭与社交",
+        "转折并列句",
+        "更正信息",
+        "聚会日期"
+      ],
+      "difficulty": 2,
+      "id": "family_social_004"
+    },
+    {
+      "zh": "如果有人对坚果过敏，请提前告诉我。",
+      "en": "Please let me know in advance if anyone is allergic to nuts.",
+      "answers": [
+        "Please let me know in advance if anyone is allergic to nuts."
+      ],
+      "notes": "be allergic to 表示对某物过敏；anyone 作主语时用 is。",
+      "tags": [
+        "家庭与社交",
+        "条件从句",
+        "确认饮食需求",
+        "聚餐"
+      ],
+      "difficulty": 2,
+      "id": "family_social_005"
+    },
+    {
+      "zh": "我们已经有几个月没一起吃饭了。",
+      "en": "We haven't had a meal together for several months.",
+      "answers": [
+        "We haven't had a meal together for several months.",
+        "We have not had a meal together for several months."
+      ],
+      "notes": "现在完成时加 for + 一段时间，说明持续至今的情况。",
+      "tags": [
+        "家庭与社交",
+        "现在完成时",
+        "描述联系频率",
+        "亲友往来"
+      ],
+      "difficulty": 2,
+      "id": "family_social_006"
+    },
+    {
+      "zh": "门口那位戴红帽子的人是我表姐。",
+      "en": "The person wearing a red hat by the door is my cousin.",
+      "answers": [
+        "The person wearing a red hat by the door is my cousin."
+      ],
+      "notes": "wearing ... 是现在分词定语；cousin 不区分堂表或性别。",
+      "tags": [
+        "家庭与社交",
+        "分词定语",
+        "介绍人物",
+        "家庭聚会"
+      ],
+      "difficulty": 3,
+      "id": "family_social_007"
+    },
+    {
+      "zh": "既然你明天要早起，我们今晚就别待太晚了。",
+      "en": "Since you need to get up early tomorrow, let's not stay too late tonight.",
+      "answers": [
+        "Since you need to get up early tomorrow, let's not stay too late tonight."
+      ],
+      "notes": "since 表示既然；let's not + 动词原形提出否定建议。",
+      "tags": [
+        "家庭与社交",
+        "原因从句",
+        "体谅对方",
+        "拜访"
+      ],
+      "difficulty": 2,
+      "id": "family_social_008"
+    },
+    {
+      "zh": "你想带朋友来参加晚餐也可以。",
+      "en": "You're welcome to bring a friend to dinner.",
+      "answers": [
+        "You're welcome to bring a friend to dinner.",
+        "You are welcome to bring a friend to dinner."
+      ],
+      "notes": "be welcome to do 表示欢迎对方做某事；bring 强调带到说话者所在处。",
+      "tags": [
+        "家庭与社交",
+        "邀请表达",
+        "扩大邀请",
+        "聚餐"
+      ],
+      "difficulty": 2,
+      "id": "family_social_009"
+    },
+    {
+      "zh": "生日礼物不必昂贵，重要的是让对方感到你很用心。",
+      "en": "A birthday gift needn't be expensive; what matters is that it shows you've put thought into it.",
+      "answers": [
+        "A birthday gift needn't be expensive; what matters is that it shows you've put thought into it.",
+        "A birthday gift need not be expensive; what matters is that it shows you have put thought into it."
+      ],
+      "notes": "needn't + 动词原形表示不必；put thought into 表示认真考虑。",
+      "tags": [
+        "家庭与社交",
+        "主语从句",
+        "表达看法",
+        "送礼"
+      ],
+      "difficulty": 4,
+      "id": "family_social_010"
+    },
+    {
+      "zh": "我会负责订餐厅，只要你能确认人数。",
+      "en": "I'll book the restaurant as long as you can confirm how many people are coming.",
+      "answers": [
+        "I'll book the restaurant as long as you can confirm how many people are coming.",
+        "I will book the restaurant as long as you can confirm how many people are coming."
+      ],
+      "notes": "as long as 引导条件；how many 从句作 confirm 的宾语。",
+      "tags": [
+        "家庭与社交",
+        "条件从句",
+        "分配任务",
+        "活动筹备"
+      ],
+      "difficulty": 3,
+      "id": "family_social_011"
+    },
+    {
+      "zh": "你帮忙照看孩子，让我们能够出去庆祝周年纪念日。",
+      "en": "By looking after the children, you made it possible for us to go out and celebrate our anniversary.",
+      "answers": [
+        "By looking after the children, you made it possible for us to go out and celebrate our anniversary."
+      ],
+      "notes": "by doing 说明帮助的方式；make it possible for sb to do 中 it 为形式宾语。",
+      "tags": [
+        "家庭与社交",
+        "方式状语",
+        "表达感谢",
+        "照看孩子"
+      ],
+      "difficulty": 3,
+      "id": "family_social_012"
+    },
+    {
+      "id": "family_social_ext_0001",
+      "zh": "我们能把家庭日程放在大家都看得到的地方吗？",
+      "en": "Could we put the family schedule somewhere everyone can see it?",
+      "answers": [
+        "Could we put the family schedule somewhere everyone can see it?"
+      ],
+      "notes": "somewhere 后接地点定语从句。",
+      "tags": [
+        "家庭与社交",
+        "礼貌疑问句",
+        "家庭安排"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "family_social_ext_0002",
+      "zh": "我来洗碗，你负责把剩菜收好。",
+      "en": "I will wash the dishes, and you can put the leftovers away.",
+      "answers": [
+        "I will wash the dishes, and you can put the leftovers away.",
+        "I'll wash the dishes, and you can put the leftovers away."
+      ],
+      "notes": "put away：收拾存放。",
+      "tags": [
+        "家庭与社交",
+        "并列句",
+        "家务分工"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "family_social_ext_0003",
+      "zh": "孩子明天要带午饭，我们今晚得先准备好。",
+      "en": "The children need packed lunches tomorrow, so we should prepare them tonight.",
+      "answers": [
+        "The children need packed lunches tomorrow, so we should prepare them tonight."
+      ],
+      "notes": "packed lunch：自带午餐。",
+      "tags": [
+        "家庭与社交",
+        "因果并列句",
+        "家庭准备"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "family_social_ext_0004",
+      "zh": "请别把小零件放在幼儿够得到的地方。",
+      "en": "Please keep small parts out of toddlers' reach.",
+      "answers": [
+        "Please keep small parts out of toddlers' reach."
+      ],
+      "notes": "out of reach：够不到。",
+      "tags": [
+        "家庭与社交",
+        "祈使句",
+        "家庭安全"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "family_social_ext_0005",
+      "zh": "如果你下班晚了，我可以先去接孩子。",
+      "en": "If you finish work late, I can collect the children first.",
+      "answers": [
+        "If you finish work late, I can collect the children first."
+      ],
+      "notes": "collect 在此表示接人。",
+      "tags": [
+        "家庭与社交",
+        "条件从句",
+        "接送协调"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "family_social_ext_0006",
+      "zh": "我们说好了，谁最后出门谁就检查门窗。",
+      "en": "We agreed that whoever leaves last checks the doors and windows.",
+      "answers": [
+        "We agreed that whoever leaves last checks the doors and windows."
+      ],
+      "notes": "whoever 从句作嵌套主语。",
+      "tags": [
+        "家庭与社交",
+        "主语从句",
+        "家庭约定"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "family_social_ext_0007",
+      "zh": "我想邀请新邻居喝杯茶，认识一下他们。",
+      "en": "I would like to invite our new neighbours for tea and get to know them.",
+      "answers": [
+        "I would like to invite our new neighbours for tea and get to know them.",
+        "I'd like to invite our new neighbours for tea and get to know them."
+      ],
+      "notes": "get to know：逐渐认识。",
+      "tags": [
+        "家庭与社交",
+        "邀请表达",
+        "邻里交往"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "family_social_ext_0008",
+      "zh": "来之前发条消息就好，不需要带礼物。",
+      "en": "Just send a message before coming; there is no need to bring a gift.",
+      "answers": [
+        "Just send a message before coming; there is no need to bring a gift."
+      ],
+      "notes": "there is no need to do：不必。",
+      "tags": [
+        "家庭与社交",
+        "时间结构",
+        "拜访安排"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "family_social_ext_0009",
+      "zh": "我忘记回复邀请了，现在还来得及确认吗？",
+      "en": "I forgot to reply to the invitation; is it still possible to confirm now?",
+      "answers": [
+        "I forgot to reply to the invitation; is it still possible to confirm now?"
+      ],
+      "notes": "reply to：回复。",
+      "tags": [
+        "家庭与社交",
+        "疑问与陈述",
+        "邀请回复"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "family_social_ext_0010",
+      "zh": "这次聚会规模小一些，大家才有时间好好聊天。",
+      "en": "Keeping this gathering small will give everyone time for a proper conversation.",
+      "answers": [
+        "Keeping this gathering small will give everyone time for a proper conversation."
+      ],
+      "notes": "keeping ... small 为动名词主语。",
+      "tags": [
+        "家庭与社交",
+        "动名词主语",
+        "聚会规模"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "family_social_ext_0011",
+      "zh": "你愿意坐在里面，还是外面的院子里？",
+      "en": "Would you prefer to sit indoors or outside in the courtyard?",
+      "answers": [
+        "Would you prefer to sit indoors or outside in the courtyard?"
+      ],
+      "notes": "prefer to do：更愿意。",
+      "tags": [
+        "家庭与社交",
+        "选择疑问句",
+        "招待客人"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "family_social_ext_0012",
+      "zh": "我们家吃饭时间比较早，你可能需要调整一下行程。",
+      "en": "We eat fairly early, so you may need to adjust your plans.",
+      "answers": [
+        "We eat fairly early, so you may need to adjust your plans."
+      ],
+      "notes": "fairly：相当、比较。",
+      "tags": [
+        "家庭与社交",
+        "因果并列句",
+        "作息差异"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "family_social_ext_0013",
+      "zh": "我叔叔说话声音很大，但他并没有生气。",
+      "en": "My uncle speaks loudly, but he is not angry.",
+      "answers": [
+        "My uncle speaks loudly, but he is not angry.",
+        "My uncle speaks loudly, but he isn't angry."
+      ],
+      "notes": "loudly 描述音量，不表示情绪。",
+      "tags": [
+        "家庭与社交",
+        "转折并列句",
+        "解释行为"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "family_social_ext_0014",
+      "zh": "我想先问问当事人，再把这个消息告诉其他人。",
+      "en": "I want to ask the person concerned before sharing the news with anyone else.",
+      "answers": [
+        "I want to ask the person concerned before sharing the news with anyone else."
+      ],
+      "notes": "the person concerned：当事人。",
+      "tags": [
+        "家庭与社交",
+        "时间从句",
+        "信息边界"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "family_social_ext_0015",
+      "zh": "虽然我们住得远，但每周都会约一次视频通话。",
+      "en": "Although we live far apart, we arrange a video call every week.",
+      "answers": [
+        "Although we live far apart, we arrange a video call every week."
+      ],
+      "notes": "far apart：彼此相距很远。",
+      "tags": [
+        "家庭与社交",
+        "让步从句",
+        "异地家人"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "family_social_ext_0016",
+      "zh": "照看父亲的安排，需要让每个参与的人都清楚。",
+      "en": "The arrangements for looking after Dad need to be clear to everyone involved.",
+      "answers": [
+        "The arrangements for looking after Dad need to be clear to everyone involved."
+      ],
+      "notes": "everyone involved：所有参与者。",
+      "tags": [
+        "家庭与社交",
+        "分词定语",
+        "家庭照护"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "family_social_ext_0017",
+      "zh": "如果某项家务让你负担太重，我们可以重新分配。",
+      "en": "If a household task is too much for you, we can redistribute the work.",
+      "answers": [
+        "If a household task is too much for you, we can redistribute the work."
+      ],
+      "notes": "too much for sb：超出负担。",
+      "tags": [
+        "家庭与社交",
+        "条件从句",
+        "家务协商"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "family_social_ext_0018",
+      "zh": "我希望孩子参与决定，而不是替他们安排每件事。",
+      "en": "I would like the children to take part in decisions rather than have everything arranged for them.",
+      "answers": [
+        "I would like the children to take part in decisions rather than have everything arranged for them.",
+        "I'd like the children to take part in decisions rather than have everything arranged for them."
+      ],
+      "notes": "have sth done：让事情被安排。",
+      "tags": [
+        "家庭与社交",
+        "对比结构",
+        "家庭决定"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "family_social_ext_0019",
+      "zh": "请在客人到之前留出一条能走动的通道。",
+      "en": "Please leave a clear path before the guests arrive.",
+      "answers": [
+        "Please leave a clear path before the guests arrive."
+      ],
+      "notes": "a clear path：畅通的通道。",
+      "tags": [
+        "家庭与社交",
+        "时间从句",
+        "聚会准备"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "family_social_ext_0020",
+      "zh": "我们把合照发到群里之前，应该先征求大家同意。",
+      "en": "We should ask everyone's permission before posting the group photograph.",
+      "answers": [
+        "We should ask everyone's permission before posting the group photograph."
+      ],
+      "notes": "ask permission：征求同意。",
+      "tags": [
+        "家庭与社交",
+        "时间状语",
+        "照片分享"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "family_social_ext_0021",
+      "zh": "我不太记得他的名字，但记得在哪里见过他。",
+      "en": "I cannot quite remember his name, but I remember where we met.",
+      "answers": [
+        "I cannot quite remember his name, but I remember where we met.",
+        "I can't quite remember his name, but I remember where we met."
+      ],
+      "notes": "cannot quite：不太能。",
+      "tags": [
+        "家庭与社交",
+        "宾语从句",
+        "社交记忆"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "family_social_ext_0022",
+      "zh": "你们上次帮了我们，这次让我们来安排吧。",
+      "en": "You helped us last time; let us make the arrangements this time.",
+      "answers": [
+        "You helped us last time; let us make the arrangements this time."
+      ],
+      "notes": "make arrangements：作出安排。",
+      "tags": [
+        "家庭与社交",
+        "对比结构",
+        "互相照应"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "family_social_ext_0023",
+      "zh": "这次庆祝不需要很正式，大家舒服就好。",
+      "en": "This celebration need not be formal; everyone's comfort matters more.",
+      "answers": [
+        "This celebration need not be formal; everyone's comfort matters more.",
+        "This celebration needn't be formal; everyone's comfort matters more."
+      ],
+      "notes": "need not：不必。",
+      "tags": [
+        "家庭与社交",
+        "并列句",
+        "庆祝风格"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "family_social_ext_0024",
+      "zh": "离开前，我会确认老人已经有人陪着。",
+      "en": "Before leaving, I will make sure our elderly relative has someone with them.",
+      "answers": [
+        "Before leaving, I will make sure our elderly relative has someone with them.",
+        "Before leaving, I'll make sure our elderly relative has someone with them."
+      ],
+      "notes": "单数 them 可指性别未说明的人。",
+      "tags": [
+        "家庭与社交",
+        "时间状语",
+        "陪伴安排"
+      ],
+      "difficulty": 3
+    }
+  ]
+}

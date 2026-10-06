@@ -1,0 +1,1002 @@
+{
+  "schema_version": 1,
+  "id": "ielts_technology",
+  "title": "雅思·科技与互联网精选 · 64 句",
+  "description": "围绕本主题练习论点、理由、条件、让步与政策评价；中英对照及逐题讲解，难度 3–5。",
+  "language": "en-GB",
+  "tags": [
+    "科技与互联网",
+    "IELTS",
+    "精选",
+    "逐题讲解"
+  ],
+  "items": [
+    {
+      "zh": "算法可以快速筛选申请，但速度本身并不能证明筛选结果公平。",
+      "en": "Algorithms can screen applications quickly, but speed alone does not demonstrate that the results are fair.",
+      "answers": [
+        "Algorithms can screen applications quickly, but speed alone does not demonstrate that the results are fair."
+      ],
+      "notes": "screen 作动词表示筛选；alone 限定 speed，区分效率与公平。",
+      "tags": [
+        "科技与互联网",
+        "转折并列句",
+        "区分评价维度",
+        "算法招聘"
+      ],
+      "difficulty": 3,
+      "id": "ielts_1001"
+    },
+    {
+      "zh": "只要用户无法理解自己同意了什么，隐私条款再详细也未必有用。",
+      "en": "However detailed a privacy policy is, it may be of little use if users cannot understand what they are agreeing to.",
+      "answers": [
+        "However detailed a privacy policy is, it may be of little use if users cannot understand what they are agreeing to."
+      ],
+      "notes": "however + 形容词引导让步从句；be of little use 表示用处不大。",
+      "tags": [
+        "科技与互联网",
+        "让步从句",
+        "评价制度效果",
+        "数据隐私"
+      ],
+      "difficulty": 5,
+      "id": "ielts_1002"
+    },
+    {
+      "zh": "为老年人保留线下服务，可以防止数字化变成新的障碍。",
+      "en": "Keeping offline services available to older people can prevent digitalisation from becoming a new barrier.",
+      "answers": [
+        "Keeping offline services available to older people can prevent digitalisation from becoming a new barrier."
+      ],
+      "notes": "keep + 宾语 + 形容词；prevent ... from doing 指防止出现某种结果。",
+      "tags": [
+        "科技与互联网",
+        "动名词主语",
+        "提出包容性措施",
+        "数字服务"
+      ],
+      "difficulty": 3,
+      "id": "ielts_1003"
+    },
+    {
+      "zh": "人工智能生成的答案越流畅，人们就可能越容易忽略其中缺乏证据的部分。",
+      "en": "The more fluent an AI-generated answer is, the easier it may be for people to overlook its lack of evidence.",
+      "answers": [
+        "The more fluent an AI-generated answer is, the easier it may be for people to overlook its lack of evidence."
+      ],
+      "notes": "the more ... the easier ... 表示相关变化；may 保留推断的不确定性。",
+      "tags": [
+        "科技与互联网",
+        "递进比较",
+        "解释潜在风险",
+        "生成式人工智能"
+      ],
+      "difficulty": 5,
+      "id": "ielts_1004"
+    },
+    {
+      "zh": "如果工人能够接受再培训，自动化就有可能创造新的工作路径。",
+      "en": "Automation could open up new career paths if workers had access to retraining.",
+      "answers": [
+        "Automation could open up new career paths if workers had access to retraining."
+      ],
+      "notes": "could + 动词与 if + 过去式构成假设；have access to 表示有机会获得。",
+      "tags": [
+        "科技与互联网",
+        "虚拟条件句",
+        "限定技术收益",
+        "自动化"
+      ],
+      "difficulty": 4,
+      "id": "ielts_1005"
+    },
+    {
+      "zh": "与单纯增加屏幕使用时间相比，教会孩子判断信息来源更有教育价值。",
+      "en": "Teaching children to assess information sources has greater educational value than simply increasing their screen time.",
+      "answers": [
+        "Teaching children to assess information sources has greater educational value than simply increasing their screen time."
+      ],
+      "notes": "用平行动名词比较两种活动；assess sources 指评估信息来源的可靠性。",
+      "tags": [
+        "科技与互联网",
+        "比较结构",
+        "比较教育策略",
+        "媒介素养"
+      ],
+      "difficulty": 4,
+      "id": "ielts_1006"
+    },
+    {
+      "zh": "被收集用于导航的位置数据，不应在用户不知情的情况下被用于广告。",
+      "en": "Location data collected for navigation should not be used for advertising without the user's knowledge.",
+      "answers": [
+        "Location data collected for navigation should not be used for advertising without the user's knowledge."
+      ],
+      "notes": "collected 是过去分词定语；主句被动语态突出数据用途限制。",
+      "tags": [
+        "科技与互联网",
+        "被动语态",
+        "限定数据用途",
+        "位置追踪"
+      ],
+      "difficulty": 4,
+      "id": "ielts_1007"
+    },
+    {
+      "zh": "技术故障一旦影响支付系统，小商户就可能立刻失去收入。",
+      "en": "Once a technical failure disrupts a payment system, small retailers may immediately lose revenue.",
+      "answers": [
+        "Once a technical failure disrupts a payment system, small retailers may immediately lose revenue."
+      ],
+      "notes": "once 说明触发条件；disrupt a system 表示扰乱系统运行。",
+      "tags": [
+        "科技与互联网",
+        "时间条件从句",
+        "解释依赖风险",
+        "电子支付"
+      ],
+      "difficulty": 3,
+      "id": "ielts_1008"
+    },
+    {
+      "zh": "问题在于谁应对自动化决策负责，而不只是算法是否准确。",
+      "en": "The issue is who should be accountable for automated decisions, not merely whether the algorithm is accurate.",
+      "answers": [
+        "The issue is who should be accountable for automated decisions, not merely whether the algorithm is accurate."
+      ],
+      "notes": "who 与 whether 从句作表语；be accountable for 表示应对某事负责。",
+      "tags": [
+        "科技与互联网",
+        "名词性从句",
+        "界定责任问题",
+        "算法治理"
+      ],
+      "difficulty": 4,
+      "id": "ielts_1009"
+    },
+    {
+      "zh": "虽然远程办公软件让协作更方便，它也可能模糊工作与休息的边界。",
+      "en": "While remote-working software makes collaboration easier, it may also blur the boundary between work and rest.",
+      "answers": [
+        "While remote-working software makes collaboration easier, it may also blur the boundary between work and rest."
+      ],
+      "notes": "while 在此表示让步；blur the boundary between A and B 是常用搭配。",
+      "tags": [
+        "科技与互联网",
+        "让步从句",
+        "权衡利弊",
+        "远程协作"
+      ],
+      "difficulty": 4,
+      "id": "ielts_1010"
+    },
+    {
+      "zh": "只有当用户能够撤回授权时，数据共享的同意才真正有意义。",
+      "en": "Only when users can withdraw permission does consent to data sharing become meaningful.",
+      "answers": [
+        "Only when users can withdraw permission does consent to data sharing become meaningful."
+      ],
+      "notes": "only when 前置，主句用 does 倒装；consent to 后接名词或动名词。",
+      "tags": [
+        "科技与互联网",
+        "倒装",
+        "提出必要条件",
+        "知情同意"
+      ],
+      "difficulty": 5,
+      "id": "ielts_1011"
+    },
+    {
+      "zh": "平台可以通过解释推荐某条内容的原因，帮助用户识别推荐机制。",
+      "en": "Platforms could help users understand recommendation systems by explaining why a particular item is shown.",
+      "answers": [
+        "Platforms could help users understand recommendation systems by explaining why a particular item is shown."
+      ],
+      "notes": "by doing 说明手段；why 从句嵌入 explaining 后。",
+      "tags": [
+        "科技与互联网",
+        "方式状语",
+        "提出透明化措施",
+        "内容推荐"
+      ],
+      "difficulty": 4,
+      "id": "ielts_1012"
+    },
+    {
+      "zh": "并非每项能被自动化的任务都值得被自动化。",
+      "en": "Not every task that can be automated is worth automating.",
+      "answers": [
+        "Not every task that can be automated is worth automating."
+      ],
+      "notes": "not every 是部分否定；be worth doing 用主动形式表达被动含义。",
+      "tags": [
+        "科技与互联网",
+        "部分否定",
+        "限制绝对观点",
+        "技术应用"
+      ],
+      "difficulty": 3,
+      "id": "ielts_1013"
+    },
+    {
+      "zh": "由于旧设备不再获得安全更新，延长其使用寿命可能带来额外风险。",
+      "en": "Because older devices no longer receive security updates, extending their lifespan may carry additional risks.",
+      "answers": [
+        "Because older devices no longer receive security updates, extending their lifespan may carry additional risks."
+      ],
+      "notes": "because 说明原因；carry risks 表示带来风险，动名词短语作主句主语。",
+      "tags": [
+        "科技与互联网",
+        "原因从句",
+        "说明取舍",
+        "设备更新"
+      ],
+      "difficulty": 4,
+      "id": "ielts_1014"
+    },
+    {
+      "zh": "当学校采用监考软件时，必须考虑误报会如何影响学生。",
+      "en": "When schools adopt remote proctoring software, they must consider how false alarms will affect students.",
+      "answers": [
+        "When schools adopt remote proctoring software, they must consider how false alarms will affect students."
+      ],
+      "notes": "when 引出政策情境；false alarm 指误报，不是已确认违规。",
+      "tags": [
+        "科技与互联网",
+        "时间从句",
+        "评估副作用",
+        "在线考试"
+      ],
+      "difficulty": 4,
+      "id": "ielts_1015"
+    },
+    {
+      "zh": "网络接入虽然重要，但没有无障碍设计，部分残障用户仍无法使用服务。",
+      "en": "Internet access matters, yet some users with disabilities remain excluded when services lack accessible design.",
+      "answers": [
+        "Internet access matters, yet some users with disabilities remain excluded when services lack accessible design."
+      ],
+      "notes": "yet 引出限制；accessible design 指方便残障用户使用的设计。",
+      "tags": [
+        "科技与互联网",
+        "转折并列句",
+        "补充必要条件",
+        "无障碍服务"
+      ],
+      "difficulty": 3,
+      "id": "ielts_1016"
+    },
+    {
+      "zh": "为了降低对单一供应商的依赖，机构可以要求数据能够以通用格式导出。",
+      "en": "To reduce dependence on a single supplier, organisations could require data to be exportable in a common format.",
+      "answers": [
+        "To reduce dependence on a single supplier, organisations could require data to be exportable in a common format."
+      ],
+      "notes": "句首 to do 表示目的；require + 宾语 + to be ... 提出技术要求。",
+      "tags": [
+        "科技与互联网",
+        "目的状语",
+        "提出采购标准",
+        "供应商依赖"
+      ],
+      "difficulty": 4,
+      "id": "ielts_1017"
+    },
+    {
+      "zh": "手机通知频繁打断注意力，这可能使需要持续思考的工作更难完成。",
+      "en": "Frequent phone notifications interrupt attention, which may make work requiring sustained thought harder to complete.",
+      "answers": [
+        "Frequent phone notifications interrupt attention, which may make work requiring sustained thought harder to complete."
+      ],
+      "notes": "which 指代前面整件事；requiring 是现在分词定语，修饰 work。",
+      "tags": [
+        "科技与互联网",
+        "非限制性定语从句",
+        "解释作用链条",
+        "注意力"
+      ],
+      "difficulty": 4,
+      "id": "ielts_1018"
+    },
+    {
+      "zh": "如果公司事先测试过备用系统，这次服务中断本来可能更短。",
+      "en": "The service outage might have been shorter if the company had tested its backup system beforehand.",
+      "answers": [
+        "The service outage might have been shorter if the company had tested its backup system beforehand."
+      ],
+      "notes": "过去虚拟条件句讨论已发生事件；might 表示可能性而非确定结论。",
+      "tags": [
+        "科技与互联网",
+        "过去虚拟条件句",
+        "反思故障",
+        "系统韧性"
+      ],
+      "difficulty": 4,
+      "id": "ielts_1019"
+    },
+    {
+      "zh": "把更多数据输入模型，并不必然能纠正训练样本中的偏差。",
+      "en": "Feeding more data into a model does not necessarily correct bias in its training sample.",
+      "answers": [
+        "Feeding more data into a model does not necessarily correct bias in its training sample."
+      ],
+      "notes": "feed A into B 表示输入；not necessarily 否定必然关系。",
+      "tags": [
+        "科技与互联网",
+        "动名词主语",
+        "审视技术假设",
+        "训练数据"
+      ],
+      "difficulty": 3,
+      "id": "ielts_1020"
+    },
+    {
+      "zh": "真正需要评估的是这项工具改善了哪些决策，以及代价是什么。",
+      "en": "What needs to be assessed is which decisions the tool improves and at what cost.",
+      "answers": [
+        "What needs to be assessed is which decisions the tool improves and at what cost."
+      ],
+      "notes": "what 从句作主语，内含被动不定式；at what cost 补充评价维度。",
+      "tags": [
+        "科技与互联网",
+        "主语从句",
+        "确定评估标准",
+        "技术评估"
+      ],
+      "difficulty": 5,
+      "id": "ielts_1021"
+    },
+    {
+      "zh": "不论一项应用多么受欢迎，用户都应能够删除自己的账户。",
+      "en": "No matter how popular an app becomes, users should be able to delete their accounts.",
+      "answers": [
+        "No matter how popular an app becomes, users should be able to delete their accounts."
+      ],
+      "notes": "no matter how 引导让步从句；be able to 表示具备实际能力。",
+      "tags": [
+        "科技与互联网",
+        "让步从句",
+        "提出用户权利",
+        "账户管理"
+      ],
+      "difficulty": 4,
+      "id": "ielts_1022"
+    },
+    {
+      "zh": "人脸识别可以简化身份核验；不过，识别错误必须有便捷的申诉渠道。",
+      "en": "Facial recognition can simplify identity checks; however, there must be an accessible way to challenge identification errors.",
+      "answers": [
+        "Facial recognition can simplify identity checks; however, there must be an accessible way to challenge identification errors."
+      ],
+      "notes": "however 连接独立分句时使用分号；challenge an error 指对错误结果提出异议。",
+      "tags": [
+        "科技与互联网",
+        "分号衔接",
+        "提出保障机制",
+        "人脸识别"
+      ],
+      "difficulty": 4,
+      "id": "ielts_1023"
+    },
+    {
+      "zh": "与其禁止所有新工具，大学不如明确说明哪些用途是可接受的。",
+      "en": "Rather than ban every new tool, universities should specify which uses are acceptable.",
+      "answers": [
+        "Rather than ban every new tool, universities should specify which uses are acceptable."
+      ],
+      "notes": "rather than 后接动词原形；which 从句作 specify 的宾语。",
+      "tags": [
+        "科技与互联网",
+        "对比结构",
+        "提出治理方案",
+        "学术规范"
+      ],
+      "difficulty": 4,
+      "id": "ielts_1024"
+    },
+    {
+      "id": "ielts_technology_ext_0001",
+      "zh": "机器翻译能降低沟通门槛，但法律文件仍可能需要专业人员核对。",
+      "en": "Machine translation can lower communication barriers, though legal documents may still require professional review.",
+      "answers": [
+        "Machine translation can lower communication barriers, though legal documents may still require professional review."
+      ],
+      "notes": "though 引出适用范围的限制。",
+      "tags": [
+        "科技与互联网",
+        "让步从句",
+        "机器翻译"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_technology_ext_0002",
+      "zh": "语音助手若无法识别某些口音，就可能让部分用户更难获得服务。",
+      "en": "Voice assistants that fail to recognise certain accents may make services harder for some users to access.",
+      "answers": [
+        "Voice assistants that fail to recognise certain accents may make services harder for some users to access."
+      ],
+      "notes": "make sth harder to do：使某事更难完成。",
+      "tags": [
+        "科技与互联网",
+        "定语从句",
+        "语音识别"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_technology_ext_0003",
+      "zh": "人工智能在一种医院环境中表现良好，并不保证它在另一种环境中同样可靠。",
+      "en": "Strong AI performance in one hospital setting does not guarantee equal reliability in another.",
+      "answers": [
+        "Strong AI performance in one hospital setting does not guarantee equal reliability in another.",
+        "Strong AI performance in one hospital setting doesn't guarantee equal reliability in another."
+      ],
+      "notes": "guarantee 后可直接接名词。",
+      "tags": [
+        "科技与互联网",
+        "否定推论",
+        "医疗算法"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_technology_ext_0004",
+      "zh": "诊断工具应帮助医生检查可能性，而不应掩盖判断中的不确定性。",
+      "en": "Diagnostic tools should help clinicians examine possibilities rather than conceal uncertainty in their judgement.",
+      "answers": [
+        "Diagnostic tools should help clinicians examine possibilities rather than conceal uncertainty in their judgement."
+      ],
+      "notes": "rather than 连接 examine 与 conceal。",
+      "tags": [
+        "科技与互联网",
+        "对比结构",
+        "辅助诊断"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_technology_ext_0005",
+      "zh": "能够追溯训练数据的来源，会让算法结果更容易接受审查。",
+      "en": "Traceable sources of training data can make algorithmic results easier to scrutinise.",
+      "answers": [
+        "Traceable sources of training data can make algorithmic results easier to scrutinise."
+      ],
+      "notes": "scrutinise：仔细审查。",
+      "tags": [
+        "科技与互联网",
+        "因果表达",
+        "数据溯源"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_technology_ext_0006",
+      "zh": "如果模型只能解释成功的案例，其能力可能被高估。",
+      "en": "A model's capabilities may be overstated if only successful cases are explained.",
+      "answers": [
+        "A model's capabilities may be overstated if only successful cases are explained."
+      ],
+      "notes": "overstate：夸大；被动强调被高估的能力。",
+      "tags": [
+        "科技与互联网",
+        "条件从句",
+        "模型评估"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_technology_ext_0007",
+      "zh": "自动评分系统需要容纳合理的新颖表达，否则学生可能被迫迎合固定格式。",
+      "en": "Automated marking needs to accommodate valid original expression, or students may be pushed towards fixed formats.",
+      "answers": [
+        "Automated marking needs to accommodate valid original expression, or students may be pushed towards fixed formats."
+      ],
+      "notes": "or 在此表示否则的后果。",
+      "tags": [
+        "科技与互联网",
+        "并列结果句",
+        "自动评分"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_technology_ext_0008",
+      "zh": "当聊天机器人模仿人的情感时，用户可能忘记自己正在与软件交互。",
+      "en": "Users may forget they are interacting with software when a chatbot imitates human emotions.",
+      "answers": [
+        "Users may forget they are interacting with software when a chatbot imitates human emotions."
+      ],
+      "notes": "interact with：与某对象交互。",
+      "tags": [
+        "科技与互联网",
+        "时间从句",
+        "人机关系"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_technology_ext_0009",
+      "zh": "版权规则需要明确训练材料的使用条件，同时为研究保留合理空间。",
+      "en": "Copyright rules need to clarify conditions for using training material while preserving reasonable scope for research.",
+      "answers": [
+        "Copyright rules need to clarify conditions for using training material while preserving reasonable scope for research."
+      ],
+      "notes": "while doing 表达同时兼顾。",
+      "tags": [
+        "科技与互联网",
+        "分词状语",
+        "数字版权"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_technology_ext_0010",
+      "zh": "开源软件使更多人能够检查代码，但并不意味着漏洞会自动被修复。",
+      "en": "Open-source software allows wider inspection of code without ensuring that vulnerabilities are automatically fixed.",
+      "answers": [
+        "Open-source software allows wider inspection of code without ensuring that vulnerabilities are automatically fixed."
+      ],
+      "notes": "without ensuring：并不保证。",
+      "tags": [
+        "科技与互联网",
+        "让步表达",
+        "开源维护"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_technology_ext_0011",
+      "zh": "关键系统依赖少数无偿维护者，会使整个服务面临持续性风险。",
+      "en": "Reliance on a few unpaid maintainers can threaten the continuity of critical systems.",
+      "answers": [
+        "Reliance on a few unpaid maintainers can threaten the continuity of critical systems."
+      ],
+      "notes": "reliance on：对某人的依赖。",
+      "tags": [
+        "科技与互联网",
+        "因果表达",
+        "软件维护"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_technology_ext_0012",
+      "zh": "安全更新的责任不应在设备售出后立即终止。",
+      "en": "Responsibility for security updates should not end as soon as a device is sold.",
+      "answers": [
+        "Responsibility for security updates should not end as soon as a device is sold."
+      ],
+      "notes": "as soon as 表达紧接发生的时间。",
+      "tags": [
+        "科技与互联网",
+        "时间从句",
+        "产品责任"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_technology_ext_0013",
+      "zh": "联网家电收集的数据，可能透露用户何时离家。",
+      "en": "Data gathered by connected appliances may reveal when users are away from home.",
+      "answers": [
+        "Data gathered by connected appliances may reveal when users are away from home."
+      ],
+      "notes": "gathered 为分词定语；when 引出信息内容。",
+      "tags": [
+        "科技与互联网",
+        "宾语从句",
+        "智能家居"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_technology_ext_0014",
+      "zh": "默认开启的数据共享设置，可能让不熟悉菜单的用户失去隐私控制权。",
+      "en": "Data sharing enabled by default may weaken privacy control for users unfamiliar with settings menus.",
+      "answers": [
+        "Data sharing enabled by default may weaken privacy control for users unfamiliar with settings menus."
+      ],
+      "notes": "by default：默认情况下。",
+      "tags": [
+        "科技与互联网",
+        "分词定语",
+        "默认设置"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_technology_ext_0015",
+      "zh": "双重验证能增加账户保护，但恢复流程也必须方便合法用户使用。",
+      "en": "Two-factor authentication can strengthen account protection, but recovery must remain accessible to legitimate users.",
+      "answers": [
+        "Two-factor authentication can strengthen account protection, but recovery must remain accessible to legitimate users."
+      ],
+      "notes": "remain + 形容词：保持某种状态。",
+      "tags": [
+        "科技与互联网",
+        "转折并列句",
+        "账户安全"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_technology_ext_0016",
+      "zh": "诈骗信息往往利用紧迫感，让收件人在核实身份之前采取行动。",
+      "en": "Fraudulent messages often exploit urgency to make recipients act before verifying the sender's identity.",
+      "answers": [
+        "Fraudulent messages often exploit urgency to make recipients act before verifying the sender's identity."
+      ],
+      "notes": "make sb do；exploit urgency：利用紧迫感。",
+      "tags": [
+        "科技与互联网",
+        "目的结构",
+        "网络诈骗"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_technology_ext_0017",
+      "zh": "儿童很难判断广告与普通内容的区别，尤其是两者外观相似时。",
+      "en": "Children may struggle to distinguish advertising from ordinary content, especially when both look similar.",
+      "answers": [
+        "Children may struggle to distinguish advertising from ordinary content, especially when both look similar."
+      ],
+      "notes": "distinguish A from B：区分两者。",
+      "tags": [
+        "科技与互联网",
+        "时间条件从句",
+        "儿童广告"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_technology_ext_0018",
+      "zh": "限制未成年人的消费额度，可能比只延长服务条款更有实际帮助。",
+      "en": "Spending limits for minors may offer more practical protection than longer terms of service.",
+      "answers": [
+        "Spending limits for minors may offer more practical protection than longer terms of service."
+      ],
+      "notes": "more ... than 比较保护措施。",
+      "tags": [
+        "科技与互联网",
+        "比较结构",
+        "游戏消费"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_technology_ext_0019",
+      "zh": "父母持续追踪孩子的位置，可能影响孩子逐步建立独立判断的机会。",
+      "en": "Constant parental location tracking may limit children's opportunities to develop independent judgement.",
+      "answers": [
+        "Constant parental location tracking may limit children's opportunities to develop independent judgement."
+      ],
+      "notes": "opportunities to do：做某事的机会。",
+      "tags": [
+        "科技与互联网",
+        "情态表达",
+        "家庭追踪"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_technology_ext_0020",
+      "zh": "平台若只奖励互动量，具有煽动性的内容就可能更容易得到传播。",
+      "en": "Inflammatory content may spread more readily when platforms reward engagement alone.",
+      "answers": [
+        "Inflammatory content may spread more readily when platforms reward engagement alone."
+      ],
+      "notes": "engagement 在平台语境中指互动。",
+      "tags": [
+        "科技与互联网",
+        "条件表达",
+        "平台激励"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_technology_ext_0021",
+      "zh": "删除虚假帖子可以减少传播，却无法让已经看过它的人自动忘记其中的信息。",
+      "en": "Removing a false post can limit its circulation without making previous readers forget its contents.",
+      "answers": [
+        "Removing a false post can limit its circulation without making previous readers forget its contents."
+      ],
+      "notes": "without doing 限定措施的作用。",
+      "tags": [
+        "科技与互联网",
+        "动名词主语",
+        "错误信息"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_technology_ext_0022",
+      "zh": "更正信息应尽可能触达原先接触过错误内容的受众。",
+      "en": "Corrections should, where possible, reach the audience exposed to the original misinformation.",
+      "answers": [
+        "Corrections should, where possible, reach the audience exposed to the original misinformation."
+      ],
+      "notes": "exposed to 为修饰 audience 的分词短语。",
+      "tags": [
+        "科技与互联网",
+        "分词定语",
+        "事实更正"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_technology_ext_0023",
+      "zh": "网络匿名既能保护敏感话题的讨论，也可能增加追责的难度。",
+      "en": "Online anonymity can protect discussion of sensitive issues while making accountability more difficult.",
+      "answers": [
+        "Online anonymity can protect discussion of sensitive issues while making accountability more difficult."
+      ],
+      "notes": "while making 对照并存的影响。",
+      "tags": [
+        "科技与互联网",
+        "分词对比",
+        "网络匿名"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_technology_ext_0024",
+      "zh": "小企业迁移到云服务后，仍需理解数据备份由谁负责。",
+      "en": "After moving to cloud services, small firms still need to understand who is responsible for backups.",
+      "answers": [
+        "After moving to cloud services, small firms still need to understand who is responsible for backups."
+      ],
+      "notes": "who 从句使用陈述语序。",
+      "tags": [
+        "科技与互联网",
+        "时间状语",
+        "云服务"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_technology_ext_0025",
+      "zh": "不同系统之间无法交换数据，可能使数字化投资的收益大打折扣。",
+      "en": "An inability to exchange data between systems may substantially reduce the benefits of digital investment.",
+      "answers": [
+        "An inability to exchange data between systems may substantially reduce the benefits of digital investment."
+      ],
+      "notes": "an inability to do：无法做某事。",
+      "tags": [
+        "科技与互联网",
+        "名词化主语",
+        "系统互通"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_technology_ext_0026",
+      "zh": "电子记录便于检索，前提是文件命名和访问权限得到了妥善管理。",
+      "en": "Electronic records are easier to retrieve provided that naming conventions and access permissions are managed properly.",
+      "answers": [
+        "Electronic records are easier to retrieve provided that naming conventions and access permissions are managed properly."
+      ],
+      "notes": "provided that 表示必要的支持条件。",
+      "tags": [
+        "科技与互联网",
+        "条件从句",
+        "信息管理"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_technology_ext_0027",
+      "zh": "在偏远地区，网络连接不稳定可能比缺少新设备更妨碍数字服务。",
+      "en": "Unreliable connectivity may obstruct digital services in remote areas more than a shortage of new devices.",
+      "answers": [
+        "Unreliable connectivity may obstruct digital services in remote areas more than a shortage of new devices."
+      ],
+      "notes": "more than 比较两种障碍。",
+      "tags": [
+        "科技与互联网",
+        "比较结构",
+        "偏远连接"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_technology_ext_0028",
+      "zh": "卫星互联网能扩大覆盖，但其价格仍可能让最需要连接的人望而却步。",
+      "en": "Satellite internet can extend coverage, yet its price may exclude those who need connectivity most.",
+      "answers": [
+        "Satellite internet can extend coverage, yet its price may exclude those who need connectivity most."
+      ],
+      "notes": "those who 指特定群体。",
+      "tags": [
+        "科技与互联网",
+        "转折并列句",
+        "卫星通信"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_technology_ext_0029",
+      "zh": "自动驾驶车辆需要应对罕见情况，而不只是熟悉的道路条件。",
+      "en": "Autonomous vehicles must handle unusual situations as well as familiar road conditions.",
+      "answers": [
+        "Autonomous vehicles must handle unusual situations as well as familiar road conditions."
+      ],
+      "notes": "as well as 补充另一类要求。",
+      "tags": [
+        "科技与互联网",
+        "平行结构",
+        "自动驾驶"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_technology_ext_0030",
+      "zh": "配送机器人上路之前，应考虑它们会如何影响行动不便的行人。",
+      "en": "Before delivery robots enter public spaces, their effects on pedestrians with limited mobility should be considered.",
+      "answers": [
+        "Before delivery robots enter public spaces, their effects on pedestrians with limited mobility should be considered."
+      ],
+      "notes": "limited mobility：行动能力受限。",
+      "tags": [
+        "科技与互联网",
+        "被动语态",
+        "服务机器人"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_technology_ext_0031",
+      "zh": "无人机能够快速检查受灾地区，却也需要遵守合理的隐私限制。",
+      "en": "Drones can inspect disaster areas quickly while remaining subject to reasonable privacy restrictions.",
+      "answers": [
+        "Drones can inspect disaster areas quickly while remaining subject to reasonable privacy restrictions."
+      ],
+      "notes": "be subject to：受到约束。",
+      "tags": [
+        "科技与互联网",
+        "分词状语",
+        "无人机"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_technology_ext_0032",
+      "zh": "可穿戴设备记录的数字，不能脱离个人情况被简单解释为健康结论。",
+      "en": "Figures recorded by wearable devices should not be treated as health conclusions without personal context.",
+      "answers": [
+        "Figures recorded by wearable devices should not be treated as health conclusions without personal context."
+      ],
+      "notes": "treat A as B：将两者等同看待。",
+      "tags": [
+        "科技与互联网",
+        "被动语态",
+        "可穿戴设备"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_technology_ext_0033",
+      "zh": "虚拟现实可以模拟危险任务，让培训者在实际操作前熟悉步骤。",
+      "en": "Virtual reality can simulate hazardous tasks, allowing trainees to become familiar with procedures before working in the field.",
+      "answers": [
+        "Virtual reality can simulate hazardous tasks, allowing trainees to become familiar with procedures before working in the field."
+      ],
+      "notes": "allowing 引出模拟带来的作用。",
+      "tags": [
+        "科技与互联网",
+        "分词结果状语",
+        "沉浸式培训"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_technology_ext_0034",
+      "zh": "数字藏品的价格上涨，并不证明它们具有稳定的长期价值。",
+      "en": "Rising prices for digital collectibles do not establish that they have stable long-term value.",
+      "answers": [
+        "Rising prices for digital collectibles do not establish that they have stable long-term value.",
+        "Rising prices for digital collectibles don't establish that they have stable long-term value."
+      ],
+      "notes": "establish that：证实某结论。",
+      "tags": [
+        "科技与互联网",
+        "宾语从句",
+        "数字资产"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_technology_ext_0035",
+      "zh": "电子商务扩大了市场，也让小商家更依赖少数大型平台。",
+      "en": "E-commerce expands markets but can also make small sellers more dependent on a few large platforms.",
+      "answers": [
+        "E-commerce expands markets but can also make small sellers more dependent on a few large platforms."
+      ],
+      "notes": "dependent on：依赖于。",
+      "tags": [
+        "科技与互联网",
+        "转折并列句",
+        "平台经济"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "ielts_technology_ext_0036",
+      "zh": "商品评价若可以被付费操纵，消费者就难以用它们判断质量。",
+      "en": "Consumers can hardly judge quality from reviews that can be manipulated for payment.",
+      "answers": [
+        "Consumers can hardly judge quality from reviews that can be manipulated for payment."
+      ],
+      "notes": "hardly 表示几乎不能。",
+      "tags": [
+        "科技与互联网",
+        "定语从句",
+        "在线评价"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_technology_ext_0037",
+      "zh": "远程投票系统的便利性必须与可核验性一同考虑。",
+      "en": "The convenience of remote voting systems must be considered alongside their verifiability.",
+      "answers": [
+        "The convenience of remote voting systems must be considered alongside their verifiability."
+      ],
+      "notes": "alongside：与……一并考虑。",
+      "tags": [
+        "科技与互联网",
+        "被动语态",
+        "数字投票"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_technology_ext_0038",
+      "zh": "数字遗产规则需要处理账户持有人去世后谁能访问其文件的问题。",
+      "en": "Digital inheritance rules need to address who can access files after the account holder dies.",
+      "answers": [
+        "Digital inheritance rules need to address who can access files after the account holder dies."
+      ],
+      "notes": "address 在此表示处理问题。",
+      "tags": [
+        "科技与互联网",
+        "宾语从句",
+        "数字遗产"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_technology_ext_0039",
+      "zh": "长时间保存数据并非总有益处，因为过时的信息也可能造成错误判断。",
+      "en": "Keeping data indefinitely is not always beneficial, since outdated information can also lead to mistaken decisions.",
+      "answers": [
+        "Keeping data indefinitely is not always beneficial, since outdated information can also lead to mistaken decisions.",
+        "Keeping data indefinitely isn't always beneficial, since outdated information can also lead to mistaken decisions."
+      ],
+      "notes": "indefinitely：无限期地。",
+      "tags": [
+        "科技与互联网",
+        "原因从句",
+        "数据保留"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ielts_technology_ext_0040",
+      "zh": "技术采购的成功应看实际使用效果，而不是发布时吸引了多少关注。",
+      "en": "Successful technology procurement should be judged by actual use, not the attention attracted at launch.",
+      "answers": [
+        "Successful technology procurement should be judged by actual use, not the attention attracted at launch."
+      ],
+      "notes": "attracted 是修饰 attention 的分词。",
+      "tags": [
+        "科技与互联网",
+        "被动语态",
+        "技术采购"
+      ],
+      "difficulty": 4
+    }
+  ]
+}

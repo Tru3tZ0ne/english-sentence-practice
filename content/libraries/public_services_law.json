@@ -1,0 +1,574 @@
+{
+  "schema_version": 1,
+  "id": "public_services_law",
+  "title": "公共服务与法律精选 · 36 句",
+  "description": "围绕本主题的具体情境组织表达；覆盖请求、说明、比较与复合句，并附逐题用法。",
+  "language": "en-GB",
+  "tags": [
+    "公共服务与法律",
+    "主题分类",
+    "精选",
+    "逐题讲解"
+  ],
+  "items": [
+    {
+      "zh": "我想确认这份表格是否需要本人签名。",
+      "en": "I'd like to check whether this form needs my signature.",
+      "answers": [
+        "I'd like to check whether this form needs my signature.",
+        "I would like to check whether this form needs my signature."
+      ],
+      "notes": "whether 引导宾语从句；signature 为签名的名词形式。",
+      "tags": [
+        "公共服务与法律",
+        "宾语从句",
+        "核对材料",
+        "行政申请"
+      ],
+      "difficulty": 2,
+      "id": "public_services_law_001"
+    },
+    {
+      "zh": "除了身份证明，我还需要带哪些文件？",
+      "en": "What documents should I bring apart from proof of identity?",
+      "answers": [
+        "What documents should I bring apart from proof of identity?"
+      ],
+      "notes": "apart from 表示除……之外；proof of identity 指身份证明。",
+      "tags": [
+        "公共服务与法律",
+        "特殊疑问句",
+        "准备材料",
+        "证件办理"
+      ],
+      "difficulty": 2,
+      "id": "public_services_law_002"
+    },
+    {
+      "zh": "如果申请被拒绝，通知中会说明原因吗？",
+      "en": "If the application is refused, will the notice explain the reasons?",
+      "answers": [
+        "If the application is refused, will the notice explain the reasons?"
+      ],
+      "notes": "条件从句用一般现在时被动，主句用 will；refuse an application 指拒绝申请。",
+      "tags": [
+        "公共服务与法律",
+        "条件疑问句",
+        "了解处理流程",
+        "审批通知"
+      ],
+      "difficulty": 3,
+      "id": "public_services_law_003"
+    },
+    {
+      "zh": "我提交申请已经三周了，还没有收到回复。",
+      "en": "It's been three weeks since I submitted the application, and I haven't received a reply yet.",
+      "answers": [
+        "It's been three weeks since I submitted the application, and I haven't received a reply yet.",
+        "It's been three weeks since I submitted the application, and I have not received a reply yet."
+      ],
+      "notes": "it has been + 时间 + since ... 说明经过的时长；yet 常用于否定句。",
+      "tags": [
+        "公共服务与法律",
+        "现在完成时",
+        "查询进度",
+        "申请跟进"
+      ],
+      "difficulty": 3,
+      "id": "public_services_law_004"
+    },
+    {
+      "zh": "请告诉我在哪里可以查看这项规定的完整文本。",
+      "en": "Please tell me where I can read the full text of this rule.",
+      "answers": [
+        "Please tell me where I can read the full text of this rule."
+      ],
+      "notes": "间接疑问句 where I can 使用陈述语序；full text 指完整文本。",
+      "tags": [
+        "公共服务与法律",
+        "宾语从句",
+        "查阅规定",
+        "规则核实"
+      ],
+      "difficulty": 2,
+      "id": "public_services_law_005"
+    },
+    {
+      "zh": "虽然网站说可以在线办理，但这个页面一直无法打开。",
+      "en": "Although the website says the service is available online, this page won't load.",
+      "answers": [
+        "Although the website says the service is available online, this page won't load.",
+        "Although the website says the service is available online, this page will not load."
+      ],
+      "notes": "although 对比承诺与实际情况；won't load 表示页面无法加载。",
+      "tags": [
+        "公共服务与法律",
+        "让步从句",
+        "报告服务故障",
+        "在线办理"
+      ],
+      "difficulty": 3,
+      "id": "public_services_law_006"
+    },
+    {
+      "zh": "我需要一位口译员，帮助我理解面谈中的问题。",
+      "en": "I need an interpreter to help me understand the questions during the interview.",
+      "answers": [
+        "I need an interpreter to help me understand the questions during the interview."
+      ],
+      "notes": "interpreter 指口译员；translator 通常指笔译人员。",
+      "tags": [
+        "公共服务与法律",
+        "目的不定式",
+        "请求语言支持",
+        "行政面谈"
+      ],
+      "difficulty": 2,
+      "id": "public_services_law_007"
+    },
+    {
+      "zh": "在截止日期之前，我可以补交缺少的材料吗？",
+      "en": "Can I submit the missing documents before the deadline?",
+      "answers": [
+        "Can I submit the missing documents before the deadline?"
+      ],
+      "notes": "submit documents 表示提交材料；deadline 为截止日期。",
+      "tags": [
+        "公共服务与法律",
+        "一般疑问句",
+        "确认补件安排",
+        "材料补交"
+      ],
+      "difficulty": 2,
+      "id": "public_services_law_008"
+    },
+    {
+      "zh": "让我困惑的是，通知上的金额和网上显示的不一样。",
+      "en": "What confuses me is that the amount on the notice differs from the one shown online.",
+      "answers": [
+        "What confuses me is that the amount on the notice differs from the one shown online."
+      ],
+      "notes": "what 从句作主语；one 代指 amount，shown online 是分词定语。",
+      "tags": [
+        "公共服务与法律",
+        "主语从句",
+        "核对差异",
+        "收费通知"
+      ],
+      "difficulty": 4,
+      "id": "public_services_law_009"
+    },
+    {
+      "zh": "您能说明申请复核有哪些步骤，以及相关期限吗？",
+      "en": "Could you explain the steps for requesting a review and the relevant time limits?",
+      "answers": [
+        "Could you explain the steps for requesting a review and the relevant time limits?"
+      ],
+      "notes": "request a review 表示申请复核；此句询问当地程序，不预设具体法律期限。",
+      "tags": [
+        "公共服务与法律",
+        "礼貌疑问句",
+        "了解复核渠道",
+        "程序咨询"
+      ],
+      "difficulty": 3,
+      "id": "public_services_law_010"
+    },
+    {
+      "zh": "如果需要原件，请提前通知我，以便我安排递交。",
+      "en": "If the originals are required, please let me know in advance so that I can arrange to submit them.",
+      "answers": [
+        "If the originals are required, please let me know in advance so that I can arrange to submit them."
+      ],
+      "notes": "if 提出条件，so that 说明提前通知的目的；originals 指文件原件。",
+      "tags": [
+        "公共服务与法律",
+        "条件与目的从句",
+        "协调材料递交",
+        "文件原件"
+      ],
+      "difficulty": 3,
+      "id": "public_services_law_011"
+    },
+    {
+      "zh": "与其猜测表格的意思，我宁愿请工作人员逐项解释。",
+      "en": "Rather than guess what the form means, I'd prefer to ask a member of staff to explain each section.",
+      "answers": [
+        "Rather than guess what the form means, I'd prefer to ask a member of staff to explain each section."
+      ],
+      "notes": "prefer to do 表示更愿意；each section 强调逐项解释。",
+      "tags": [
+        "公共服务与法律",
+        "对比结构",
+        "请求澄清",
+        "填写表格"
+      ],
+      "difficulty": 3,
+      "id": "public_services_law_012"
+    },
+    {
+      "id": "public_services_law_ext_0001",
+      "zh": "预约确认上没有写办理地点。",
+      "en": "The appointment confirmation does not specify the location.",
+      "answers": [
+        "The appointment confirmation does not specify the location.",
+        "The appointment confirmation doesn't specify the location."
+      ],
+      "notes": "specify：明确写明。",
+      "tags": [
+        "公共服务与法律",
+        "陈述句",
+        "预约核对"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "public_services_law_ext_0002",
+      "zh": "我可以带复印件，还是必须出示原件？",
+      "en": "Can I bring copies, or must I present the originals?",
+      "answers": [
+        "Can I bring copies, or must I present the originals?"
+      ],
+      "notes": "present：出示。",
+      "tags": [
+        "公共服务与法律",
+        "选择疑问句",
+        "材料要求"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "public_services_law_ext_0003",
+      "zh": "姓名变更后，需要更新哪些证件？",
+      "en": "Which documents need to be updated after a name change?",
+      "answers": [
+        "Which documents need to be updated after a name change?"
+      ],
+      "notes": "need to be updated：需要更新。",
+      "tags": [
+        "公共服务与法律",
+        "被动疑问句",
+        "证件更新"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "public_services_law_ext_0004",
+      "zh": "这项申请能由授权代表递交吗？",
+      "en": "Can an authorised representative submit this application?",
+      "answers": [
+        "Can an authorised representative submit this application?"
+      ],
+      "notes": "authorised representative：授权代表。",
+      "tags": [
+        "公共服务与法律",
+        "一般疑问句",
+        "代办申请"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "public_services_law_ext_0005",
+      "zh": "我想查询申请编号，而不是重新提交一份。",
+      "en": "I want to look up the application reference rather than submit a new application.",
+      "answers": [
+        "I want to look up the application reference rather than submit a new application."
+      ],
+      "notes": "look up：查询。",
+      "tags": [
+        "公共服务与法律",
+        "对比结构",
+        "申请查询"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "public_services_law_ext_0006",
+      "zh": "表格上的地址栏容不下我的完整地址。",
+      "en": "The address field on the form is too short for my full address.",
+      "answers": [
+        "The address field on the form is too short for my full address."
+      ],
+      "notes": "field 指表格字段。",
+      "tags": [
+        "公共服务与法律",
+        "程度结构",
+        "表格填写"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "public_services_law_ext_0007",
+      "zh": "如果没有固定住址，可以使用什么联系地址？",
+      "en": "What contact address can be used if someone has no fixed home address?",
+      "answers": [
+        "What contact address can be used if someone has no fixed home address?"
+      ],
+      "notes": "fixed address：固定地址。",
+      "tags": [
+        "公共服务与法律",
+        "条件疑问句",
+        "联系资料"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "public_services_law_ext_0008",
+      "zh": "我收到的通知似乎是寄给前一位住户的。",
+      "en": "The notice I received appears to be intended for the previous resident.",
+      "answers": [
+        "The notice I received appears to be intended for the previous resident."
+      ],
+      "notes": "be intended for：原本是给某人的。",
+      "tags": [
+        "公共服务与法律",
+        "定语从句",
+        "误送通知"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "public_services_law_ext_0009",
+      "zh": "能否给我一个受理凭证，证明材料已经交齐？",
+      "en": "Could I have an acknowledgement confirming that all required documents have been received?",
+      "answers": [
+        "Could I have an acknowledgement confirming that all required documents have been received?"
+      ],
+      "notes": "acknowledgement：收件确认。",
+      "tags": [
+        "公共服务与法律",
+        "分词定语",
+        "提交凭证"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "public_services_law_ext_0010",
+      "zh": "办理费用可以刷卡支付吗？",
+      "en": "Can the processing fee be paid by card?",
+      "answers": [
+        "Can the processing fee be paid by card?"
+      ],
+      "notes": "processing fee：办理费用。",
+      "tags": [
+        "公共服务与法律",
+        "被动疑问句",
+        "缴费方式"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "public_services_law_ext_0011",
+      "zh": "如果预约当天无法到场，应该怎样改期？",
+      "en": "How should I reschedule if I cannot attend on the appointment date?",
+      "answers": [
+        "How should I reschedule if I cannot attend on the appointment date?",
+        "How should I reschedule if I can't attend on the appointment date?"
+      ],
+      "notes": "reschedule：重新安排时间。",
+      "tags": [
+        "公共服务与法律",
+        "条件疑问句",
+        "预约改期"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "public_services_law_ext_0012",
+      "zh": "排号机没有打印出号码，我应该在哪里等？",
+      "en": "The ticket machine did not print a number; where should I wait?",
+      "answers": [
+        "The ticket machine did not print a number; where should I wait?",
+        "The ticket machine didn't print a number; where should I wait?"
+      ],
+      "notes": "ticket machine 在此指取号机。",
+      "tags": [
+        "公共服务与法律",
+        "疑问与陈述",
+        "现场办理"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "public_services_law_ext_0013",
+      "zh": "我需要无障碍入口的位置说明。",
+      "en": "I need directions to the accessible entrance.",
+      "answers": [
+        "I need directions to the accessible entrance."
+      ],
+      "notes": "directions：路线指引。",
+      "tags": [
+        "公共服务与法律",
+        "请求表达",
+        "无障碍服务"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "public_services_law_ext_0014",
+      "zh": "这份证明的有效期从签发日开始计算吗？",
+      "en": "Does this certificate's validity period start on the issue date?",
+      "answers": [
+        "Does this certificate's validity period start on the issue date?"
+      ],
+      "notes": "issue date：签发日期。",
+      "tags": [
+        "公共服务与法律",
+        "一般疑问句",
+        "文件有效期"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "public_services_law_ext_0015",
+      "zh": "网上的要求和柜台提供的信息似乎不一致。",
+      "en": "The online requirements seem inconsistent with the information provided at the counter.",
+      "answers": [
+        "The online requirements seem inconsistent with the information provided at the counter."
+      ],
+      "notes": "inconsistent with：与……不一致。",
+      "tags": [
+        "公共服务与法律",
+        "分词定语",
+        "要求核对"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "public_services_law_ext_0016",
+      "zh": "请说明这次决定依据的是哪条规定。",
+      "en": "Please identify the rule on which this decision is based.",
+      "answers": [
+        "Please identify the rule on which this decision is based."
+      ],
+      "notes": "on which 引导定语从句。",
+      "tags": [
+        "公共服务与法律",
+        "定语从句",
+        "决定依据"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "public_services_law_ext_0017",
+      "zh": "我想了解投诉渠道，但暂时不提交正式投诉。",
+      "en": "I would like information about the complaints process without filing a formal complaint yet.",
+      "answers": [
+        "I would like information about the complaints process without filing a formal complaint yet.",
+        "I'd like information about the complaints process without filing a formal complaint yet."
+      ],
+      "notes": "file a complaint：提交投诉。",
+      "tags": [
+        "公共服务与法律",
+        "范围表达",
+        "程序咨询"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "public_services_law_ext_0018",
+      "zh": "是否有可以协助填写表格的工作人员？",
+      "en": "Is there a staff member who can help me complete the form?",
+      "answers": [
+        "Is there a staff member who can help me complete the form?"
+      ],
+      "notes": "who 限定可提供帮助的人。",
+      "tags": [
+        "公共服务与法律",
+        "存在疑问句",
+        "填写协助"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "public_services_law_ext_0019",
+      "zh": "请把联系偏好设置为邮件，而不是电话。",
+      "en": "Please set my contact preference to email rather than telephone.",
+      "answers": [
+        "Please set my contact preference to email rather than telephone."
+      ],
+      "notes": "contact preference：首选联系方式。",
+      "tags": [
+        "公共服务与法律",
+        "祈使句",
+        "沟通偏好"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "public_services_law_ext_0020",
+      "zh": "我需要更正档案中拼错的姓氏。",
+      "en": "I need to correct the misspelling of my surname in the record.",
+      "answers": [
+        "I need to correct the misspelling of my surname in the record."
+      ],
+      "notes": "misspelling：拼写错误。",
+      "tags": [
+        "公共服务与法律",
+        "不定式结构",
+        "资料更正"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "public_services_law_ext_0021",
+      "zh": "这份译文需要经过认证吗？",
+      "en": "Does this translation need to be certified?",
+      "answers": [
+        "Does this translation need to be certified?"
+      ],
+      "notes": "certified：经认证的。",
+      "tags": [
+        "公共服务与法律",
+        "被动疑问句",
+        "翻译要求"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "public_services_law_ext_0022",
+      "zh": "新规定什么时候开始适用于已提交的申请？",
+      "en": "When will the new rule apply to applications already submitted?",
+      "answers": [
+        "When will the new rule apply to applications already submitted?"
+      ],
+      "notes": "apply to：适用于。",
+      "tags": [
+        "公共服务与法律",
+        "特殊疑问句",
+        "政策过渡"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "public_services_law_ext_0023",
+      "zh": "如果没有收到确认邮件，是否意味着提交失败了？",
+      "en": "If no confirmation email arrives, does that mean the submission failed?",
+      "answers": [
+        "If no confirmation email arrives, does that mean the submission failed?"
+      ],
+      "notes": "that 指代未收到邮件的情况。",
+      "tags": [
+        "公共服务与法律",
+        "条件疑问句",
+        "线上提交"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "public_services_law_ext_0024",
+      "zh": "请告诉我怎样获取自己所提交材料的副本。",
+      "en": "Please tell me how to obtain copies of the documents I submitted.",
+      "answers": [
+        "Please tell me how to obtain copies of the documents I submitted."
+      ],
+      "notes": "how to do：如何做某事。",
+      "tags": [
+        "公共服务与法律",
+        "定语从句",
+        "记录获取"
+      ],
+      "difficulty": 2
+    }
+  ]
+}

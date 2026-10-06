@@ -1,0 +1,1429 @@
+{
+  "schema_version": 1,
+  "id": "everyday_social_tasks",
+  "title": "日常交往与沟通分寸 · 100 句",
+  "description": "协调时间、求助回绝、澄清、借还物品、偏好、分歧、感受、关怀和关系修复。",
+  "language": "en-GB",
+  "tags": [
+    "日常交往",
+    "逐题讲解"
+  ],
+  "items": [
+    {
+      "id": "everyday_social_tasks_v3_0001",
+      "zh": "我中午前有一段空档。",
+      "en": "I have a gap before noon.",
+      "answers": [
+        "I have a gap before noon."
+      ],
+      "notes": "gap：空档",
+      "tags": [
+        "日常交往",
+        "协调时间"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0002",
+      "zh": "我们把这件事留到下次吧。",
+      "en": "Let's leave this until next time.",
+      "answers": [
+        "Let's leave this until next time."
+      ],
+      "notes": "leave until",
+      "tags": [
+        "日常交往",
+        "协调时间"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0003",
+      "zh": "我现在只能聊五分钟。",
+      "en": "I can only spare five minutes now.",
+      "answers": [
+        "I can only spare five minutes now."
+      ],
+      "notes": "spare：抽出",
+      "tags": [
+        "日常交往",
+        "协调时间"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0004",
+      "zh": "这个时间与我的预约冲突。",
+      "en": "That time clashes with my appointment.",
+      "answers": [
+        "That time clashes with my appointment."
+      ],
+      "notes": "clash with：冲突",
+      "tags": [
+        "日常交往",
+        "协调时间"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0005",
+      "zh": "你提前到了，不用在外面等。",
+      "en": "You are early; there is no need to wait outside.",
+      "answers": [
+        "You are early; there is no need to wait outside."
+      ],
+      "notes": "no need to",
+      "tags": [
+        "日常交往",
+        "协调时间"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0006",
+      "zh": "我会尽量把前一件事早点结束。",
+      "en": "I will try to finish the earlier task sooner.",
+      "answers": [
+        "I will try to finish the earlier task sooner."
+      ],
+      "notes": "sooner：更早",
+      "tags": [
+        "日常交往",
+        "协调时间"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0007",
+      "zh": "安排得太满会让我疲惫。",
+      "en": "An overloaded schedule wears me out.",
+      "answers": [
+        "An overloaded schedule wears me out."
+      ],
+      "notes": "wear out：使疲惫",
+      "tags": [
+        "日常交往",
+        "协调时间"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0008",
+      "zh": "我需要一点转换的时间。",
+      "en": "I need a little transition time.",
+      "answers": [
+        "I need a little transition time."
+      ],
+      "notes": "transition：转换",
+      "tags": [
+        "日常交往",
+        "协调时间"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0009",
+      "zh": "这个约定先不要当成最终安排。",
+      "en": "Please treat this arrangement as provisional.",
+      "answers": [
+        "Please treat this arrangement as provisional."
+      ],
+      "notes": "provisional：暂定",
+      "tags": [
+        "日常交往",
+        "协调时间"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "everyday_social_tasks_v3_0010",
+      "zh": "我可能要比说好的晚一点。",
+      "en": "I may be later than agreed.",
+      "answers": [
+        "I may be later than agreed."
+      ],
+      "notes": "than agreed",
+      "tags": [
+        "日常交往",
+        "协调时间"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0011",
+      "zh": "能帮我留个位置吗？",
+      "en": "Could you save me a place?",
+      "answers": [
+        "Could you save me a place?"
+      ],
+      "notes": "save a place",
+      "tags": [
+        "日常交往",
+        "求助与回绝"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0012",
+      "zh": "我能请你顺路带过去吗？",
+      "en": "Could you take it on your way?",
+      "answers": [
+        "Could you take it on your way?"
+      ],
+      "notes": "on your way",
+      "tags": [
+        "日常交往",
+        "求助与回绝"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0013",
+      "zh": "这次恐怕帮不上忙。",
+      "en": "I am afraid I cannot help this time.",
+      "answers": [
+        "I am afraid I cannot help this time.",
+        "I am afraid I can't help this time."
+      ],
+      "notes": "I am afraid",
+      "tags": [
+        "日常交往",
+        "求助与回绝"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0014",
+      "zh": "我能做前半部分，后半部分不行。",
+      "en": "I can do the first half but not the rest.",
+      "answers": [
+        "I can do the first half but not the rest."
+      ],
+      "notes": "the rest：其余",
+      "tags": [
+        "日常交往",
+        "求助与回绝"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0015",
+      "zh": "请给我一点考虑的余地。",
+      "en": "Please give me room to think.",
+      "answers": [
+        "Please give me room to think."
+      ],
+      "notes": "room：余地",
+      "tags": [
+        "日常交往",
+        "求助与回绝"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0016",
+      "zh": "我现在不适合接这个任务。",
+      "en": "I cannot take this on right now.",
+      "answers": [
+        "I cannot take this on right now.",
+        "I can't take this on right now."
+      ],
+      "notes": "take on：承担",
+      "tags": [
+        "日常交往",
+        "求助与回绝"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0017",
+      "zh": "你的帮助已经足够了。",
+      "en": "You have already done enough to help.",
+      "answers": [
+        "You have already done enough to help."
+      ],
+      "notes": "enough：足够",
+      "tags": [
+        "日常交往",
+        "求助与回绝"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0018",
+      "zh": "我想自己先试一次。",
+      "en": "I would like to try it myself first.",
+      "answers": [
+        "I would like to try it myself first."
+      ],
+      "notes": "myself：自己",
+      "tags": [
+        "日常交往",
+        "求助与回绝"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0019",
+      "zh": "我没有答应这件事。",
+      "en": "I did not agree to this.",
+      "answers": [
+        "I did not agree to this.",
+        "I didn't agree to this."
+      ],
+      "notes": "agree to：同意",
+      "tags": [
+        "日常交往",
+        "求助与回绝"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0020",
+      "zh": "能不能换一种我做得到的方式？",
+      "en": "Could we find a way I can manage?",
+      "answers": [
+        "Could we find a way I can manage?"
+      ],
+      "notes": "manage：做到",
+      "tags": [
+        "日常交往",
+        "求助与回绝"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0021",
+      "zh": "我听懂了，但还没被说服。",
+      "en": "I understand, but I am not convinced.",
+      "answers": [
+        "I understand, but I am not convinced."
+      ],
+      "notes": "convinced：信服",
+      "tags": [
+        "日常交往",
+        "理解与确认"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0022",
+      "zh": "我们说的是同一件事吗？",
+      "en": "Are we talking about the same thing?",
+      "answers": [
+        "Are we talking about the same thing?"
+      ],
+      "notes": "the same thing",
+      "tags": [
+        "日常交往",
+        "理解与确认"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0023",
+      "zh": "这只是你的猜测吗？",
+      "en": "Is that only your assumption?",
+      "answers": [
+        "Is that only your assumption?"
+      ],
+      "notes": "assumption：猜测",
+      "tags": [
+        "日常交往",
+        "理解与确认"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0024",
+      "zh": "我不想误读你的意思。",
+      "en": "I do not want to misinterpret you.",
+      "answers": [
+        "I do not want to misinterpret you.",
+        "I don't want to misinterpret you."
+      ],
+      "notes": "misinterpret：误解",
+      "tags": [
+        "日常交往",
+        "理解与确认"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0025",
+      "zh": "你能指出最重要的部分吗？",
+      "en": "Could you highlight the main point?",
+      "answers": [
+        "Could you highlight the main point?"
+      ],
+      "notes": "highlight：指出",
+      "tags": [
+        "日常交往",
+        "理解与确认"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0026",
+      "zh": "那句话似乎可以有两种解读。",
+      "en": "That sentence seems open to two interpretations.",
+      "answers": [
+        "That sentence seems open to two interpretations."
+      ],
+      "notes": "be open to：可能有；interpretation：解读。",
+      "tags": [
+        "日常交往",
+        "理解与确认"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "everyday_social_tasks_v3_0027",
+      "zh": "我知道规则，但不知道理由。",
+      "en": "I know the rule but not the reason.",
+      "answers": [
+        "I know the rule but not the reason."
+      ],
+      "notes": "but not：对比",
+      "tags": [
+        "日常交往",
+        "理解与确认"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0028",
+      "zh": "请先让我确认一件小事。",
+      "en": "Let me verify one small detail first.",
+      "answers": [
+        "Let me verify one small detail first."
+      ],
+      "notes": "verify：核实",
+      "tags": [
+        "日常交往",
+        "理解与确认"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0029",
+      "zh": "我记下的是另一个数字。",
+      "en": "I wrote down a different number.",
+      "answers": [
+        "I wrote down a different number."
+      ],
+      "notes": "write down",
+      "tags": [
+        "日常交往",
+        "理解与确认"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0030",
+      "zh": "我需要的是准确时间，不是大概范围。",
+      "en": "I need an exact time, not a rough window.",
+      "answers": [
+        "I need an exact time, not a rough window."
+      ],
+      "notes": "window：时间范围",
+      "tags": [
+        "日常交往",
+        "理解与确认"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0031",
+      "zh": "这个我还在用，稍后给你。",
+      "en": "I am still using this; you can have it later.",
+      "answers": [
+        "I am still using this; you can have it later."
+      ],
+      "notes": "still：仍然",
+      "tags": [
+        "日常交往",
+        "借还物品"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0032",
+      "zh": "请保持原来的设置。",
+      "en": "Please leave the settings as they are.",
+      "answers": [
+        "Please leave the settings as they are."
+      ],
+      "notes": "as they are：原样",
+      "tags": [
+        "日常交往",
+        "借还物品"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0033",
+      "zh": "还回来之前不用清洗。",
+      "en": "There is no need to wash it before returning it.",
+      "answers": [
+        "There is no need to wash it before returning it."
+      ],
+      "notes": "no need to",
+      "tags": [
+        "日常交往",
+        "借还物品"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0034",
+      "zh": "我想记下你借走了什么。",
+      "en": "I want a record of what you borrowed.",
+      "answers": [
+        "I want a record of what you borrowed."
+      ],
+      "notes": "record：记录",
+      "tags": [
+        "日常交往",
+        "借还物品"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "everyday_social_tasks_v3_0035",
+      "zh": "这件东西需要小心拿。",
+      "en": "This needs careful handling.",
+      "answers": [
+        "This needs careful handling."
+      ],
+      "notes": "handling：搬拿",
+      "tags": [
+        "日常交往",
+        "借还物品"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0036",
+      "zh": "我把借来的书放错地方了。",
+      "en": "I have misplaced the borrowed book.",
+      "answers": [
+        "I have misplaced the borrowed book."
+      ],
+      "notes": "misplace：放错地方",
+      "tags": [
+        "日常交往",
+        "借还物品"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0037",
+      "zh": "它原来就有这道划痕。",
+      "en": "It already had that scratch.",
+      "answers": [
+        "It already had that scratch."
+      ],
+      "notes": "already：原先就",
+      "tags": [
+        "日常交往",
+        "借还物品"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0038",
+      "zh": "如果找不到，我会及时告诉你。",
+      "en": "If I cannot find it, I will tell you promptly.",
+      "answers": [
+        "If I cannot find it, I will tell you promptly.",
+        "If I can't find it, I will tell you promptly."
+      ],
+      "notes": "promptly：及时",
+      "tags": [
+        "日常交往",
+        "借还物品"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "everyday_social_tasks_v3_0039",
+      "zh": "这不是我自己的，不能转借。",
+      "en": "It is not mine to lend.",
+      "answers": [
+        "It is not mine to lend.",
+        "It isn't mine to lend."
+      ],
+      "notes": "mine to lend",
+      "tags": [
+        "日常交往",
+        "借还物品"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0040",
+      "zh": "我答应今天归还。",
+      "en": "I promised to return it today.",
+      "answers": [
+        "I promised to return it today."
+      ],
+      "notes": "promise to do",
+      "tags": [
+        "日常交往",
+        "借还物品"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0041",
+      "zh": "我宁愿选择安静的活动。",
+      "en": "I would rather choose something quiet.",
+      "answers": [
+        "I would rather choose something quiet."
+      ],
+      "notes": "would rather",
+      "tags": [
+        "日常交往",
+        "表达偏好"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0042",
+      "zh": "这个对我来说有点过头。",
+      "en": "This is a bit much for me.",
+      "answers": [
+        "This is a bit much for me."
+      ],
+      "notes": "a bit much：过头",
+      "tags": [
+        "日常交往",
+        "表达偏好"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0043",
+      "zh": "我不在意颜色，更在意舒适。",
+      "en": "Comfort matters more to me than colour.",
+      "answers": [
+        "Comfort matters more to me than colour."
+      ],
+      "notes": "matter：重要",
+      "tags": [
+        "日常交往",
+        "表达偏好"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0044",
+      "zh": "我喜欢有一点自由安排。",
+      "en": "I like having some flexibility.",
+      "answers": [
+        "I like having some flexibility."
+      ],
+      "notes": "flexibility：自由度",
+      "tags": [
+        "日常交往",
+        "表达偏好"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0045",
+      "zh": "我不喜欢被临时催促。",
+      "en": "I dislike being rushed unexpectedly.",
+      "answers": [
+        "I dislike being rushed unexpectedly."
+      ],
+      "notes": "being rushed：被催",
+      "tags": [
+        "日常交往",
+        "表达偏好"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "everyday_social_tasks_v3_0046",
+      "zh": "不用为了我改变全部计划。",
+      "en": "You need not change everything for me.",
+      "answers": [
+        "You need not change everything for me.",
+        "You needn't change everything for me."
+      ],
+      "notes": "need not",
+      "tags": [
+        "日常交往",
+        "表达偏好"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0047",
+      "zh": "我接受折中，但需要知道条件。",
+      "en": "I can compromise, but I need the terms.",
+      "answers": [
+        "I can compromise, but I need the terms."
+      ],
+      "notes": "compromise：折中",
+      "tags": [
+        "日常交往",
+        "表达偏好"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0048",
+      "zh": "我更愿意提前知道。",
+      "en": "I would prefer to know in advance.",
+      "answers": [
+        "I would prefer to know in advance."
+      ],
+      "notes": "in advance",
+      "tags": [
+        "日常交往",
+        "表达偏好"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0049",
+      "zh": "这不完全是我的风格。",
+      "en": "It is not quite my style.",
+      "answers": [
+        "It is not quite my style.",
+        "It isn't quite my style."
+      ],
+      "notes": "not quite：不完全",
+      "tags": [
+        "日常交往",
+        "表达偏好"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0050",
+      "zh": "我愿意尝试，只是不熟悉。",
+      "en": "I am willing to try; it is simply unfamiliar.",
+      "answers": [
+        "I am willing to try; it is simply unfamiliar."
+      ],
+      "notes": "unfamiliar：陌生",
+      "tags": [
+        "日常交往",
+        "表达偏好"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0051",
+      "zh": "我们可能对什么最重要有不同看法。",
+      "en": "We may disagree about what matters most.",
+      "answers": [
+        "We may disagree about what matters most."
+      ],
+      "notes": "what matters most：最重要的事。",
+      "tags": [
+        "日常交往",
+        "小范围分歧"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "everyday_social_tasks_v3_0052",
+      "zh": "我同意结果，但不同意方法。",
+      "en": "I agree with the outcome, not the method.",
+      "answers": [
+        "I agree with the outcome, not the method."
+      ],
+      "notes": "outcome：结果",
+      "tags": [
+        "日常交往",
+        "小范围分歧"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "everyday_social_tasks_v3_0053",
+      "zh": "先别把我的话理解为拒绝。",
+      "en": "Please do not take that as a refusal yet.",
+      "answers": [
+        "Please do not take that as a refusal yet.",
+        "Please don't take that as a refusal yet."
+      ],
+      "notes": "take as",
+      "tags": [
+        "日常交往",
+        "小范围分歧"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "everyday_social_tasks_v3_0054",
+      "zh": "我想提出一个担心。",
+      "en": "I would like to raise a concern.",
+      "answers": [
+        "I would like to raise a concern."
+      ],
+      "notes": "raise a concern",
+      "tags": [
+        "日常交往",
+        "小范围分歧"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "everyday_social_tasks_v3_0055",
+      "zh": "这件事对我影响比你想的大。",
+      "en": "This affects me more than you realise.",
+      "answers": [
+        "This affects me more than you realise."
+      ],
+      "notes": "realise：意识到",
+      "tags": [
+        "日常交往",
+        "小范围分歧"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "everyday_social_tasks_v3_0056",
+      "zh": "我们能否轮流选择活动，免得总按一个人的喜好决定？",
+      "en": "Could we take turns choosing the activity so neither person's preference always wins?",
+      "answers": [
+        "Could we take turns choosing the activity so neither person's preference always wins?"
+      ],
+      "notes": "take turns doing：轮流做；so 引出公平安排的目的。",
+      "tags": [
+        "日常交往",
+        "小范围分歧"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "everyday_social_tasks_v3_0057",
+      "zh": "我不想争输赢。",
+      "en": "I do not want to turn this into a contest.",
+      "answers": [
+        "I do not want to turn this into a contest.",
+        "I don't want to turn this into a contest."
+      ],
+      "notes": "turn into",
+      "tags": [
+        "日常交往",
+        "小范围分歧"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "everyday_social_tasks_v3_0058",
+      "zh": "你说得有道理，但还有一个问题。",
+      "en": "Your point makes sense, but one issue remains.",
+      "answers": [
+        "Your point makes sense, but one issue remains."
+      ],
+      "notes": "make sense",
+      "tags": [
+        "日常交往",
+        "小范围分歧"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "everyday_social_tasks_v3_0059",
+      "zh": "我们暂时保留不同看法。",
+      "en": "Let's accept that we disagree for now.",
+      "answers": [
+        "Let's accept that we disagree for now."
+      ],
+      "notes": "for now：暂时",
+      "tags": [
+        "日常交往",
+        "小范围分歧"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "everyday_social_tasks_v3_0060",
+      "zh": "我会考虑你提出的理由。",
+      "en": "I will consider the reasons you gave.",
+      "answers": [
+        "I will consider the reasons you gave."
+      ],
+      "notes": "定语从句",
+      "tags": [
+        "日常交往",
+        "小范围分歧"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "everyday_social_tasks_v3_0061",
+      "zh": "我只是累了，不是在不高兴。",
+      "en": "I am tired rather than upset.",
+      "answers": [
+        "I am tired rather than upset."
+      ],
+      "notes": "rather than",
+      "tags": [
+        "日常交往",
+        "感受"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0062",
+      "zh": "等消息让我有些坐立不安。",
+      "en": "Waiting for news makes me restless.",
+      "answers": [
+        "Waiting for news makes me restless."
+      ],
+      "notes": "restless：不安",
+      "tags": [
+        "日常交往",
+        "感受"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0063",
+      "zh": "这比我想象的更令人安心。",
+      "en": "This is more reassuring than I expected.",
+      "answers": [
+        "This is more reassuring than I expected."
+      ],
+      "notes": "reassuring：安心",
+      "tags": [
+        "日常交往",
+        "感受"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0064",
+      "zh": "我需要把思绪整理一下。",
+      "en": "I need to collect my thoughts.",
+      "answers": [
+        "I need to collect my thoughts."
+      ],
+      "notes": "collect thoughts：整理思绪",
+      "tags": [
+        "日常交往",
+        "感受"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0065",
+      "zh": "事情终于平静下来了。",
+      "en": "Things have finally settled down.",
+      "answers": [
+        "Things have finally settled down."
+      ],
+      "notes": "settle down：平静下来，不一定表示事情结束。",
+      "tags": [
+        "日常交往",
+        "感受"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0066",
+      "zh": "我很庆幸有人注意到了。",
+      "en": "I am relieved someone noticed.",
+      "answers": [
+        "I am relieved someone noticed."
+      ],
+      "notes": "relieved：庆幸",
+      "tags": [
+        "日常交往",
+        "感受"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0067",
+      "zh": "我对这个变化还不习惯。",
+      "en": "I am not used to this change yet.",
+      "answers": [
+        "I am not used to this change yet."
+      ],
+      "notes": "be used to",
+      "tags": [
+        "日常交往",
+        "感受"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0068",
+      "zh": "我既期待，也有点紧张。",
+      "en": "I feel both excited and nervous.",
+      "answers": [
+        "I feel both excited and nervous."
+      ],
+      "notes": "both ... and",
+      "tags": [
+        "日常交往",
+        "感受"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0069",
+      "zh": "我并没有失去兴趣，只是需要休息。",
+      "en": "I have not lost interest; I need a break.",
+      "answers": [
+        "I have not lost interest; I need a break.",
+        "I haven't lost interest; I need a break."
+      ],
+      "notes": "lose interest",
+      "tags": [
+        "日常交往",
+        "感受"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0070",
+      "zh": "这件事一直压在我心上。",
+      "en": "This has been weighing on my mind.",
+      "answers": [
+        "This has been weighing on my mind."
+      ],
+      "notes": "weigh on：压在心上",
+      "tags": [
+        "日常交往",
+        "感受"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "everyday_social_tasks_v3_0071",
+      "zh": "你希望我怎么帮你？",
+      "en": "How would you like me to help?",
+      "answers": [
+        "How would you like me to help?"
+      ],
+      "notes": "would like sb to",
+      "tags": [
+        "日常交往",
+        "关心他人"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0072",
+      "zh": "不方便说也没关系。",
+      "en": "It is fine if you would rather not say.",
+      "answers": [
+        "It is fine if you would rather not say."
+      ],
+      "notes": "would rather not",
+      "tags": [
+        "日常交往",
+        "关心他人"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0073",
+      "zh": "我可以陪你等一会儿。",
+      "en": "I can wait with you for a while.",
+      "answers": [
+        "I can wait with you for a while."
+      ],
+      "notes": "for a while",
+      "tags": [
+        "日常交往",
+        "关心他人"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0074",
+      "zh": "你不用现在就表现得很乐观。",
+      "en": "You do not have to sound optimistic now.",
+      "answers": [
+        "You do not have to sound optimistic now.",
+        "You don't have to sound optimistic now."
+      ],
+      "notes": "do not have to",
+      "tags": [
+        "日常交往",
+        "关心他人"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0075",
+      "zh": "我可能无法完全理解，但愿意听。",
+      "en": "I may not fully understand, but I can listen.",
+      "answers": [
+        "I may not fully understand, but I can listen."
+      ],
+      "notes": "may not：可能不",
+      "tags": [
+        "日常交往",
+        "关心他人"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0076",
+      "zh": "我记得这对你很重要。",
+      "en": "I remember that this matters to you.",
+      "answers": [
+        "I remember that this matters to you."
+      ],
+      "notes": "matter to",
+      "tags": [
+        "日常交往",
+        "关心他人"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0077",
+      "zh": "如果我帮你把事情拆成小步骤，会有帮助吗？",
+      "en": "Would it help if I broke it into smaller steps for you?",
+      "answers": [
+        "Would it help if I broke it into smaller steps for you?"
+      ],
+      "notes": "would ... if ...：试探性提议；明确提供帮助的人。",
+      "tags": [
+        "日常交往",
+        "关心他人"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "everyday_social_tasks_v3_0078",
+      "zh": "你不必为求助道歉。",
+      "en": "You do not need to apologise for asking.",
+      "answers": [
+        "You do not need to apologise for asking.",
+        "You don't need to apologise for asking."
+      ],
+      "notes": "apologise for",
+      "tags": [
+        "日常交往",
+        "关心他人"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0079",
+      "zh": "我们可以先处理眼前的一步。",
+      "en": "We can focus on the next step first.",
+      "answers": [
+        "We can focus on the next step first."
+      ],
+      "notes": "focus on",
+      "tags": [
+        "日常交往",
+        "关心他人"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0080",
+      "zh": "我不会把这件事告诉别人。",
+      "en": "I will keep this between us.",
+      "answers": [
+        "I will keep this between us."
+      ],
+      "notes": "between us：彼此保密",
+      "tags": [
+        "日常交往",
+        "关心他人"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0081",
+      "zh": "我刚才的措辞不够妥当。",
+      "en": "My wording was poorly chosen.",
+      "answers": [
+        "My wording was poorly chosen."
+      ],
+      "notes": "wording：措辞",
+      "tags": [
+        "日常交往",
+        "道歉与修复"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "everyday_social_tasks_v3_0082",
+      "zh": "我没有意识到会打扰你。",
+      "en": "I did not realise it would disturb you.",
+      "answers": [
+        "I did not realise it would disturb you.",
+        "I didn't realise it would disturb you."
+      ],
+      "notes": "disturb：打扰",
+      "tags": [
+        "日常交往",
+        "道歉与修复"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "everyday_social_tasks_v3_0083",
+      "zh": "是我弄错了日期。",
+      "en": "I was the one who got the date wrong.",
+      "answers": [
+        "I was the one who got the date wrong."
+      ],
+      "notes": "who 定语从句",
+      "tags": [
+        "日常交往",
+        "道歉与修复"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "everyday_social_tasks_v3_0084",
+      "zh": "我应该先确认再转告。",
+      "en": "I should have checked before passing it on.",
+      "answers": [
+        "I should have checked before passing it on."
+      ],
+      "notes": "should have done",
+      "tags": [
+        "日常交往",
+        "道歉与修复"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "everyday_social_tasks_v3_0085",
+      "zh": "我不想用忙碌作为借口。",
+      "en": "I do not want to use busyness as an excuse.",
+      "answers": [
+        "I do not want to use busyness as an excuse.",
+        "I don't want to use busyness as an excuse."
+      ],
+      "notes": "excuse：借口",
+      "tags": [
+        "日常交往",
+        "道歉与修复"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "everyday_social_tasks_v3_0086",
+      "zh": "我能做什么来补救？",
+      "en": "What can I do to put this right?",
+      "answers": [
+        "What can I do to put this right?"
+      ],
+      "notes": "put right：补救",
+      "tags": [
+        "日常交往",
+        "道歉与修复"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "everyday_social_tasks_v3_0087",
+      "zh": "这次我会按约定跟进。",
+      "en": "This time I will follow through as agreed.",
+      "answers": [
+        "This time I will follow through as agreed."
+      ],
+      "notes": "follow through",
+      "tags": [
+        "日常交往",
+        "道歉与修复"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "everyday_social_tasks_v3_0088",
+      "zh": "谢谢你指出问题，而不是默默忍受。",
+      "en": "Thank you for speaking up rather than putting up with it.",
+      "answers": [
+        "Thank you for speaking up rather than putting up with it."
+      ],
+      "notes": "put up with：忍受",
+      "tags": [
+        "日常交往",
+        "道歉与修复"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "everyday_social_tasks_v3_0089",
+      "zh": "我们需要避免同样的事再发生。",
+      "en": "We need to prevent a recurrence.",
+      "answers": [
+        "We need to prevent a recurrence."
+      ],
+      "notes": "recurrence：再次发生",
+      "tags": [
+        "日常交往",
+        "道歉与修复"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "everyday_social_tasks_v3_0090",
+      "zh": "重新建立信任可能需要时间。",
+      "en": "Rebuilding trust may take time.",
+      "answers": [
+        "Rebuilding trust may take time."
+      ],
+      "notes": "rebuild：重新建立",
+      "tags": [
+        "日常交往",
+        "道歉与修复"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "everyday_social_tasks_v3_0091",
+      "zh": "我先不占用你的时间了。",
+      "en": "I will let you get back to things.",
+      "answers": [
+        "I will let you get back to things."
+      ],
+      "notes": "get back to",
+      "tags": [
+        "日常交往",
+        "结束交流"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0092",
+      "zh": "剩下的我们改天再谈。",
+      "en": "We can discuss the rest another day.",
+      "answers": [
+        "We can discuss the rest another day."
+      ],
+      "notes": "the rest：剩下的",
+      "tags": [
+        "日常交往",
+        "结束交流"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0093",
+      "zh": "我会把谈好的内容记下来。",
+      "en": "I will note what we agreed.",
+      "answers": [
+        "I will note what we agreed."
+      ],
+      "notes": "note：记下",
+      "tags": [
+        "日常交往",
+        "结束交流"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0094",
+      "zh": "离开之前还有什么需要确认？",
+      "en": "Is there anything to confirm before leaving?",
+      "answers": [
+        "Is there anything to confirm before leaving?"
+      ],
+      "notes": "anything to do",
+      "tags": [
+        "日常交往",
+        "结束交流"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0095",
+      "zh": "这次谈话帮我理清了思路。",
+      "en": "This conversation helped clarify my thinking.",
+      "answers": [
+        "This conversation helped clarify my thinking."
+      ],
+      "notes": "clarify：理清",
+      "tags": [
+        "日常交往",
+        "结束交流"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0096",
+      "zh": "我需要一点时间消化这些信息。",
+      "en": "I need time to take this in.",
+      "answers": [
+        "I need time to take this in."
+      ],
+      "notes": "take in：理解消化",
+      "tags": [
+        "日常交往",
+        "结束交流"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0097",
+      "zh": "我们不用今天决定所有事情。",
+      "en": "We need not decide everything today.",
+      "answers": [
+        "We need not decide everything today.",
+        "We needn't decide everything today."
+      ],
+      "notes": "need not",
+      "tags": [
+        "日常交往",
+        "结束交流"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0098",
+      "zh": "我会在有新消息时联系你。",
+      "en": "I will contact you when there is news.",
+      "answers": [
+        "I will contact you when there is news."
+      ],
+      "notes": "when 从句",
+      "tags": [
+        "日常交往",
+        "结束交流"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0099",
+      "zh": "请让我知道后续有什么变化。",
+      "en": "Please keep me informed of developments.",
+      "answers": [
+        "Please keep me informed of developments."
+      ],
+      "notes": "keep informed",
+      "tags": [
+        "日常交往",
+        "结束交流"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "everyday_social_tasks_v3_0100",
+      "zh": "谢谢你愿意坦诚地说。",
+      "en": "Thank you for being frank with me.",
+      "answers": [
+        "Thank you for being frank with me."
+      ],
+      "notes": "frank：坦诚",
+      "tags": [
+        "日常交往",
+        "结束交流"
+      ],
+      "difficulty": 2
+    }
+  ]
+}
