@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 12,
+  "articles": [
+    {
+      "id": "cet4-reading-d012-1",
+      "title": "The Promise at the Halt",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "A bus carrying a film crew came to a sudden halt on a narrow mountain road. Rising smoke caused anxiety until a veteran driver discovered a loose electrical cable. He made the passengers promise to remain outside while he disconnected the battery. Their planned adventure became a quiet evening beside the road, sharing food with nearby farmers. The delay ruined one scene but gave the documentary an honest ending about patience and help.",
+      "translation": "一辆载着摄制组的巴士在狭窄山路上突然停下。冒出的烟引发焦虑，直到一位经验丰富的司机发现松动的电缆。他让乘客保证留在车外，自己则断开电池。原计划的冒险变成了路边安静的一晚，大家与附近农民分享食物。延误毁掉了一个镜头，却给纪录片带来了关于耐心与互助的真实结尾。",
+      "sentences": [
+        {
+          "en": "A bus carrying a film crew came to a sudden halt on a narrow mountain road.",
+          "zh": "一辆载着摄制组的巴士在狭窄山路上突然停下。"
+        },
+        {
+          "en": "Rising smoke caused anxiety until a veteran driver discovered a loose electrical cable.",
+          "zh": "冒出的烟引发焦虑，直到一位经验丰富的司机发现松动的电缆。"
+        },
+        {
+          "en": "He made the passengers promise to remain outside while he disconnected the battery.",
+          "zh": "他让乘客保证留在车外，自己则断开电池。"
+        },
+        {
+          "en": "Their planned adventure became a quiet evening beside the road, sharing food with nearby farmers.",
+          "zh": "原计划的冒险变成了路边安静的一晚，大家与附近农民分享食物。"
+        },
+        {
+          "en": "The delay ruined one scene but gave the documentary an honest ending about patience and help.",
+          "zh": "延误毁掉了一个镜头，却给纪录片带来了关于耐心与互助的真实结尾。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "anxiety",
+          "meaning": "n. 忧虑,渴望"
+        },
+        {
+          "word": "veteran",
+          "meaning": "n. 老手,老兵"
+        },
+        {
+          "word": "halt",
+          "meaning": "n./v. (途中)暂停,终止;vi. 犹豫,踌躇"
+        },
+        {
+          "word": "promise",
+          "meaning": "n./v. 诺言;指望;前途"
+        },
+        {
+          "word": "crew",
+          "meaning": "n. 全体船员,全体乘务员"
+        },
+        {
+          "word": "adventure",
+          "meaning": "n. 冒险,冒险活动,奇遇vt. 大胆进行"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What caused the smoke?",
+          "answer": "A loose electrical cable.",
+          "explanation": "松动电缆导致冒烟。"
+        },
+        {
+          "prompt": "How did the delay improve the film?",
+          "answer": "It provided an honest ending.",
+          "explanation": "延误为影片带来了真实结尾。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d012-2",
+      "title": "What a Microscope Reveals",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "A microscope enlarges detail, but seeing a shape does not automatically explain its existence or purpose. A scientist first measures its diameter, color, movement, and response to the surrounding liquid. An electrical current or chemical stain may expose structures hidden below the superficial surface. The damaged word interpretatio in an old label reminds researchers to verify inherited notes. Reliable conclusions come from repeated observation, not one attractive image.",
+      "translation": "显微镜放大细节，但看到形状并不会自动解释它为何存在或有何作用。科学家先测量其直径、颜色、运动以及对周围液体的反应。电流或化学染色可能揭示隐藏在表层之下的结构。旧标签中残缺的 interpretatio 一词提醒研究者核实沿用下来的笔记。可靠结论来自反复观察，而不是一张漂亮图片。",
+      "sentences": [
+        {
+          "en": "A microscope enlarges detail, but seeing a shape does not automatically explain its existence or purpose.",
+          "zh": "显微镜放大细节，但看到形状并不会自动解释它为何存在或有何作用。"
+        },
+        {
+          "en": "A scientist first measures its diameter, color, movement, and response to the surrounding liquid.",
+          "zh": "科学家先测量其直径、颜色、运动以及对周围液体的反应。"
+        },
+        {
+          "en": "An electrical current or chemical stain may expose structures hidden below the superficial surface.",
+          "zh": "电流或化学染色可能揭示隐藏在表层之下的结构。"
+        },
+        {
+          "en": "The damaged word interpretatio in an old label reminds researchers to verify inherited notes.",
+          "zh": "旧标签中残缺的 interpretatio 一词提醒研究者核实沿用下来的笔记。"
+        },
+        {
+          "en": "Reliable conclusions come from repeated observation, not one attractive image.",
+          "zh": "可靠结论来自反复观察，而不是一张漂亮图片。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "microscope",
+          "meaning": "n. 显微镜"
+        },
+        {
+          "word": "superficial",
+          "meaning": "a.表面的,表皮的;肤浅的, 一知半解的"
+        },
+        {
+          "word": "current",
+          "meaning": "n. 电流,水流;潮流,趋势a. 当前的;流通的"
+        },
+        {
+          "word": "diameter",
+          "meaning": "n. 直径"
+        },
+        {
+          "word": "interpretatio",
+          "meaning": "intə:pri’teiʃən/ n.解释;口译"
+        },
+        {
+          "word": "existence",
+          "meaning": "n. 存在,实在;生存,生活(方式)"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What may reveal hidden structures?",
+          "answer": "An electrical current or chemical stain.",
+          "explanation": "电流或化学染色可以显现隐藏结构。"
+        },
+        {
+          "prompt": "Why should old notes be verified?",
+          "answer": "Labels may be damaged or mistaken.",
+          "explanation": "旧标签可能损坏或有误。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d012-3",
+      "title": "Settlements Need More Than Houses",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "A new settlement can provide affordable homes yet still leave residents isolated from one another. Good planning follows a simple principle: daily communication should be easy, safe, and natural. Friendly courtyards, shared gardens, and small shops create places where unfamiliar people can meet. Design cannot remove every conflict, but it can prevent minor disagreements from becoming permanent divisions. An honourable housing policy treats social connection as a necessity rather than decoration.",
+      "translation": "新社区可以提供可负担住房，却仍可能让居民彼此隔离。良好规划遵循一个简单原则：日常交流应当方便、安全且自然。友好的庭院、共享花园和小商店为陌生人创造相遇空间。设计无法消除所有冲突，却能防止小分歧变成永久隔阂。负责任的住房政策会把社会联系视为必需品而非装饰。",
+      "sentences": [
+        {
+          "en": "A new settlement can provide affordable homes yet still leave residents isolated from one another.",
+          "zh": "新社区可以提供可负担住房，却仍可能让居民彼此隔离。"
+        },
+        {
+          "en": "Good planning follows a simple principle: daily communication should be easy, safe, and natural.",
+          "zh": "良好规划遵循一个简单原则：日常交流应当方便、安全且自然。"
+        },
+        {
+          "en": "Friendly courtyards, shared gardens, and small shops create places where unfamiliar people can meet.",
+          "zh": "友好的庭院、共享花园和小商店为陌生人创造相遇空间。"
+        },
+        {
+          "en": "Design cannot remove every conflict, but it can prevent minor disagreements from becoming permanent divisions.",
+          "zh": "设计无法消除所有冲突，却能防止小分歧变成永久隔阂。"
+        },
+        {
+          "en": "An honourable housing policy treats social connection as a necessity rather than decoration.",
+          "zh": "负责任的住房政策会把社会联系视为必需品而非装饰。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "settlement",
+          "meaning": "n. 解决,决定,调停;居留区,住宅区"
+        },
+        {
+          "word": "principle",
+          "meaning": "n. 原理,原则;主义,信念"
+        },
+        {
+          "word": "friendly",
+          "meaning": "a. 友好的,友谊的"
+        },
+        {
+          "word": "conflict",
+          "meaning": "n. 战斗,斗争;(意见)分歧;vi. 抵触,冲突"
+        },
+        {
+          "word": "communication",
+          "meaning": "n. 通讯,交往,交流,传达的消息,交通"
+        },
+        {
+          "word": "honourable",
+          "meaning": "a.诚实的;光荣的"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What spaces encourage communication?",
+          "answer": "Courtyards, gardens, and small shops.",
+          "explanation": "庭院、花园和小商店促进交流。"
+        },
+        {
+          "prompt": "What cannot design remove completely?",
+          "answer": "Conflict between residents.",
+          "explanation": "设计无法完全消除居民冲突。"
+        }
+      ]
+    }
+  ]
+}

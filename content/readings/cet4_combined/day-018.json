@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 18,
+  "articles": [
+    {
+      "id": "cet4-reading-d018-1",
+      "title": "The Draft in the Drawer",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "A gardener clearing an abandoned office found a folded draft in a locked drawer. It described a plan to launch a public garden on the roof of the building. The mystery deepened when a cable bill showed that someone still powered a pump upstairs. Following the sound of water, she met a former cleaner quietly caring for hundreds of seedlings. Together they revived the forgotten proposal and opened the garden that summer.",
+      "translation": "一名园丁清理废弃办公室时，在锁住的抽屉里发现一份折叠草稿。草稿描述了在楼顶建立公共花园的计划。一张电缆账单显示仍有人给楼上的水泵供电，谜团更深了。她循着水声发现，一名前清洁工正默默照料数百株幼苗。他们一起重启了被遗忘的方案，并在那个夏天开放花园。",
+      "sentences": [
+        {
+          "en": "A gardener clearing an abandoned office found a folded draft in a locked drawer.",
+          "zh": "一名园丁清理废弃办公室时，在锁住的抽屉里发现一份折叠草稿。"
+        },
+        {
+          "en": "It described a plan to launch a public garden on the roof of the building.",
+          "zh": "草稿描述了在楼顶建立公共花园的计划。"
+        },
+        {
+          "en": "The mystery deepened when a cable bill showed that someone still powered a pump upstairs.",
+          "zh": "一张电缆账单显示仍有人给楼上的水泵供电，谜团更深了。"
+        },
+        {
+          "en": "Following the sound of water, she met a former cleaner quietly caring for hundreds of seedlings.",
+          "zh": "她循着水声发现，一名前清洁工正默默照料数百株幼苗。"
+        },
+        {
+          "en": "Together they revived the forgotten proposal and opened the garden that summer.",
+          "zh": "他们一起重启了被遗忘的方案，并在那个夏天开放花园。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "gardener",
+          "meaning": "n.园丁,花匠"
+        },
+        {
+          "word": "drawer",
+          "meaning": "n. 抽屉"
+        },
+        {
+          "word": "draft",
+          "meaning": "n. 草稿;汇票;征兵;vt. 起草;征兵"
+        },
+        {
+          "word": "mystery",
+          "meaning": "n. 神秘,神秘的事物;神秘小说,侦探小说"
+        },
+        {
+          "word": "cable",
+          "meaning": "n. 缆,索,电缆 v. 拍电报"
+        },
+        {
+          "word": "launch",
+          "meaning": "v. 使(船)下水,发射(火箭);开始,开办;n. (船)下水,汽艇"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the draft propose?",
+          "answer": "A public roof garden.",
+          "explanation": "草稿计划建立公共屋顶花园。"
+        },
+        {
+          "prompt": "Who had maintained the seedlings?",
+          "answer": "A former cleaner.",
+          "explanation": "一名前清洁工一直照料幼苗。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d018-2",
+      "title": "How Steam Moves a Turbine",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "A power station heats water until expanding steam rushes across curved turbine blades. The force drives sophisticated machinery that a generator uses to produce electricity. Operators monitor temperature and pressure because a small shift can reduce efficiency or damage metal. Engineers also recover heat from outgoing vapor whenever the design makes that feasible. Reusing heat makes the plant more economical and lowers the amount of fuel required.",
+      "translation": "发电站把水加热，直到膨胀的蒸汽冲过弯曲的涡轮叶片。这股力量驱动复杂机械，发电机借此产生电力。操作人员监控温度和压力，因为微小变化会降低效率或损坏金属。只要设计可行，工程师还会回收排出蒸汽中的热量。重复利用热量能提高经济性，并减少所需燃料。",
+      "sentences": [
+        {
+          "en": "A power station heats water until expanding steam rushes across curved turbine blades.",
+          "zh": "发电站把水加热，直到膨胀的蒸汽冲过弯曲的涡轮叶片。"
+        },
+        {
+          "en": "The force drives sophisticated machinery that a generator uses to produce electricity.",
+          "zh": "这股力量驱动复杂机械，发电机借此产生电力。"
+        },
+        {
+          "en": "Operators monitor temperature and pressure because a small shift can reduce efficiency or damage metal.",
+          "zh": "操作人员监控温度和压力，因为微小变化会降低效率或损坏金属。"
+        },
+        {
+          "en": "Engineers also recover heat from outgoing vapor whenever the design makes that feasible.",
+          "zh": "只要设计可行，工程师还会回收排出蒸汽中的热量。"
+        },
+        {
+          "en": "Reusing heat makes the plant more economical and lowers the amount of fuel required.",
+          "zh": "重复利用热量能提高经济性，并减少所需燃料。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "feasible",
+          "meaning": "a. 可行的,可信的"
+        },
+        {
+          "word": "steam",
+          "meaning": "n. 水汽,蒸汽,水蒸气v. 蒸发;蒸;用蒸汽开动"
+        },
+        {
+          "word": "shift",
+          "meaning": "n. 位置转移,性格转变;轮班;vt. 转变,移动"
+        },
+        {
+          "word": "sophisticated",
+          "meaning": "adj. [人"
+        },
+        {
+          "word": "economical",
+          "meaning": "a. 节约的,经济的"
+        },
+        {
+          "word": "monitor",
+          "meaning": "n. 班长,监视器 v. 监听,监视"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What rotates the turbine blades?",
+          "answer": "Expanding steam.",
+          "explanation": "膨胀蒸汽推动涡轮叶片。"
+        },
+        {
+          "prompt": "Why is recovered heat useful?",
+          "answer": "It saves fuel and money.",
+          "explanation": "回收热量可以节省燃料和成本。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d018-3",
+      "title": "Busy Lives Still Need Leisure",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "Many people have lately used sophisticated apps to fill every free minute with work or self-improvement. A busy schedule can provide purpose, but constant measurement changes living into a list of targets. Unplanned leisure supports mental recovery because attention is allowed to wander without judgment. Nobody should feel guilty for walking, talking, or resting without recording a result. Technology serves us best when it protects free time instead of occupying all of it.",
+      "translation": "最近，许多人用复杂应用把每一分钟空闲都填满工作或自我提升。忙碌日程可以带来目标感，但持续量化会把生活变成目标清单。无计划的闲暇让注意力不受评判地游走，有助于心理恢复。任何人都不该因为散步、聊天或休息没有记录成果而内疚。科技在保护自由时间而非占满它时，才最能为人服务。",
+      "sentences": [
+        {
+          "en": "Many people have lately used sophisticated apps to fill every free minute with work or self-improvement.",
+          "zh": "最近，许多人用复杂应用把每一分钟空闲都填满工作或自我提升。"
+        },
+        {
+          "en": "A busy schedule can provide purpose, but constant measurement changes living into a list of targets.",
+          "zh": "忙碌日程可以带来目标感，但持续量化会把生活变成目标清单。"
+        },
+        {
+          "en": "Unplanned leisure supports mental recovery because attention is allowed to wander without judgment.",
+          "zh": "无计划的闲暇让注意力不受评判地游走，有助于心理恢复。"
+        },
+        {
+          "en": "Nobody should feel guilty for walking, talking, or resting without recording a result.",
+          "zh": "任何人都不该因为散步、聊天或休息没有记录成果而内疚。"
+        },
+        {
+          "en": "Technology serves us best when it protects free time instead of occupying all of it.",
+          "zh": "科技在保护自由时间而非占满它时，才最能为人服务。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "busy",
+          "meaning": "a. 忙,忙碌的;热闹的,繁忙的;(电话)占线"
+        },
+        {
+          "word": "mental",
+          "meaning": "a. 精神的,思想的,心理的,智力的,脑力的"
+        },
+        {
+          "word": "living",
+          "meaning": "a. 活的,有生命的,天然的,逼真的n. 生活,生计"
+        },
+        {
+          "word": "sophisticated",
+          "meaning": "adj. [人"
+        },
+        {
+          "word": "nobody",
+          "meaning": "pron. 谁也不,无人n. 小人物"
+        },
+        {
+          "word": "lately",
+          "meaning": "ad. 最近,不久前"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What risk comes from measuring every minute?",
+          "answer": "Life becomes only a list of targets.",
+          "explanation": "过度量化会让生活只剩目标清单。"
+        },
+        {
+          "prompt": "Why is unplanned leisure helpful?",
+          "answer": "It supports mental recovery.",
+          "explanation": "无计划闲暇有助于心理恢复。"
+        }
+      ]
+    }
+  ]
+}

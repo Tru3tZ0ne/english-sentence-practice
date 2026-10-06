@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 1,
+  "articles": [
+    {
+      "id": "cet4-reading-d001-1",
+      "title": "The Notice on the Lawn",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "At noon, Mei found a wet election notice lying on the lawn outside her apartment block. As a new citizen of the district, she wanted the committee to clarify where residents should vote. An elderly observer explained that the hall had changed because the original room was too small. Mei copied the correct address by hand and shared it with every family in the building. Her faithful attention to one small notice helped many neighbors elect their representative without confusion.",
+      "translation": "中午，梅在公寓楼外的草坪上发现了一张被雨水打湿的选举通知。作为这个地区的新居民，她希望委员会说明居民应该去哪里投票。一位年长的观察员解释说，投票大厅已经更换，因为原来的房间太小。梅手写了正确地址，并把它分享给楼里的每个家庭。她认真对待一张小通知，帮助许多邻居顺利选出了自己的代表。",
+      "sentences": [
+        {
+          "en": "At noon, Mei found a wet election notice lying on the lawn outside her apartment block.",
+          "zh": "中午，梅在公寓楼外的草坪上发现了一张被雨水打湿的选举通知。"
+        },
+        {
+          "en": "As a new citizen of the district, she wanted the committee to clarify where residents should vote.",
+          "zh": "作为这个地区的新居民，她希望委员会说明居民应该去哪里投票。"
+        },
+        {
+          "en": "An elderly observer explained that the hall had changed because the original room was too small.",
+          "zh": "一位年长的观察员解释说，投票大厅已经更换，因为原来的房间太小。"
+        },
+        {
+          "en": "Mei copied the correct address by hand and shared it with every family in the building.",
+          "zh": "梅手写了正确地址，并把它分享给楼里的每个家庭。"
+        },
+        {
+          "en": "Her faithful attention to one small notice helped many neighbors elect their representative without confusion.",
+          "zh": "她认真对待一张小通知，帮助许多邻居顺利选出了自己的代表。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "clarify",
+          "meaning": "v. 澄清,使液体清洁"
+        },
+        {
+          "word": "elect",
+          "meaning": "v. 选举,推选;选择,作出选择"
+        },
+        {
+          "word": "citizen",
+          "meaning": "n. 公民;市民,居民"
+        },
+        {
+          "word": "observer",
+          "meaning": "n.观察员,观测者"
+        },
+        {
+          "word": "lawn",
+          "meaning": "n. 草地,草坪"
+        },
+        {
+          "word": "faithful",
+          "meaning": "a. 守信的,忠实的,如实的,可靠的"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why had the voting place changed?",
+          "answer": "The original room was too small.",
+          "explanation": "原投票室空间不足，所以更换了地点。"
+        },
+        {
+          "prompt": "How did Mei help her neighbors?",
+          "answer": "She shared the correct address with them.",
+          "explanation": "她抄下并分享了正确地址。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d001-2",
+      "title": "Why Cities Need Visible Water",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "Rain seems harmless until heavy traffic and hard surfaces prevent water from entering the soil. The resulting flow can carry rubbish into drains and flood streets within minutes. Modern development therefore uses gardens and shallow channels to hold moisture near its source. Designers keep these features visible so that workers can notice blockages and adjust them quickly. When rainwater has space to slow down, both roads and rivers become safer.",
+      "translation": "雨水看似无害，但拥挤交通和硬质地面会阻止水渗入土壤。由此形成的水流会把垃圾带进排水沟，并在几分钟内淹没街道。因此，现代城市建设会利用花园和浅沟在源头附近留住水分。设计者让这些设施保持可见，以便工作人员发现堵塞并及时调整。当雨水有空间减速时，道路和河流都会更安全。",
+      "sentences": [
+        {
+          "en": "Rain seems harmless until heavy traffic and hard surfaces prevent water from entering the soil.",
+          "zh": "雨水看似无害，但拥挤交通和硬质地面会阻止水渗入土壤。"
+        },
+        {
+          "en": "The resulting flow can carry rubbish into drains and flood streets within minutes.",
+          "zh": "由此形成的水流会把垃圾带进排水沟，并在几分钟内淹没街道。"
+        },
+        {
+          "en": "Modern development therefore uses gardens and shallow channels to hold moisture near its source.",
+          "zh": "因此，现代城市建设会利用花园和浅沟在源头附近留住水分。"
+        },
+        {
+          "en": "Designers keep these features visible so that workers can notice blockages and adjust them quickly.",
+          "zh": "设计者让这些设施保持可见，以便工作人员发现堵塞并及时调整。"
+        },
+        {
+          "en": "When rainwater has space to slow down, both roads and rivers become safer.",
+          "zh": "当雨水有空间减速时，道路和河流都会更安全。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "traffic",
+          "meaning": "n. 交通,交通量"
+        },
+        {
+          "word": "moisture",
+          "meaning": "n. 潮湿,湿气,湿度"
+        },
+        {
+          "word": "flow",
+          "meaning": "v. 流,流动n. 流量,流速"
+        },
+        {
+          "word": "visible",
+          "meaning": "a. 可见的"
+        },
+        {
+          "word": "adjust",
+          "meaning": "vt. 校准,调整;改变...以适应"
+        },
+        {
+          "word": "development",
+          "meaning": "n.发展;开发;生长"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What causes rainwater to flood streets quickly?",
+          "answer": "Traffic and hard surfaces stop it entering the soil.",
+          "explanation": "硬质地面减少渗水，使雨水快速汇集。"
+        },
+        {
+          "prompt": "Why are the channels kept visible?",
+          "answer": "So workers can inspect and adjust them.",
+          "explanation": "可见设计方便检查和调整。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d001-3",
+      "title": "Should Lunch Menus Show the True Cost?",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "A café menu usually shows only the price of a meal, not the waste created by its packaging. Some owners want a small symbol beside dishes that use no plastic and produce less rubbish. The symbol could promote better choices, but customers may ignore it when time and money are limited. Information alone is not sufficient; affordable reusable containers must also be available. Cafés should reveal environmental cost clearly while keeping ordinary meals within everyone's reach.",
+      "translation": "咖啡馆的菜单通常只显示餐费，而不显示包装造成的浪费。一些店主希望在不使用塑料且垃圾较少的菜品旁加一个小标志。这个标志可以促进更好的选择，但当时间和金钱有限时，顾客可能会忽略它。只有信息并不足够，还必须提供价格合理的可重复使用容器。咖啡馆应该清楚说明环境成本，同时让普通餐食人人都能负担。",
+      "sentences": [
+        {
+          "en": "A café menu usually shows only the price of a meal, not the waste created by its packaging.",
+          "zh": "咖啡馆的菜单通常只显示餐费，而不显示包装造成的浪费。"
+        },
+        {
+          "en": "Some owners want a small symbol beside dishes that use no plastic and produce less rubbish.",
+          "zh": "一些店主希望在不使用塑料且垃圾较少的菜品旁加一个小标志。"
+        },
+        {
+          "en": "The symbol could promote better choices, but customers may ignore it when time and money are limited.",
+          "zh": "这个标志可以促进更好的选择，但当时间和金钱有限时，顾客可能会忽略它。"
+        },
+        {
+          "en": "Information alone is not sufficient; affordable reusable containers must also be available.",
+          "zh": "只有信息并不足够，还必须提供价格合理的可重复使用容器。"
+        },
+        {
+          "en": "Cafés should reveal environmental cost clearly while keeping ordinary meals within everyone's reach.",
+          "zh": "咖啡馆应该清楚说明环境成本，同时让普通餐食人人都能负担。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "plastic",
+          "meaning": "n. (常pl. )塑料,塑料制品a. 可塑的,塑性的"
+        },
+        {
+          "word": "cost",
+          "meaning": "n.成本,费用v.花费"
+        },
+        {
+          "word": "menu",
+          "meaning": "n. 菜单"
+        },
+        {
+          "word": "price",
+          "meaning": "n. 价格,价钱;代价v. 标价"
+        },
+        {
+          "word": "promote",
+          "meaning": "vt. 开放;促进,宣传"
+        },
+        {
+          "word": "sufficient",
+          "meaning": "a. 足够的,充分的"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What would the proposed symbol identify?",
+          "answer": "Dishes with little plastic waste.",
+          "explanation": "它标出塑料垃圾较少的菜品。"
+        },
+        {
+          "prompt": "What else is needed besides information?",
+          "answer": "Affordable reusable containers.",
+          "explanation": "还需要价格合理的可重复使用容器。"
+        }
+      ]
+    }
+  ]
+}

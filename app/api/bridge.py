@@ -7,6 +7,7 @@ from typing import TYPE_CHECKING
 from app import APP_VERSION
 from app.services.answer_checker import AnswerChecker
 from app.content.wordlist_loader import WordlistValidationError
+from app.content.reading_loader import ReadingValidationError
 
 if TYPE_CHECKING:
     from app.application import Application
@@ -21,12 +22,19 @@ class ApiBridge:
     def bootstrap(self):
         return {"ok":True,"version":APP_VERSION,"libraries":self._app.library_service.summaries(),
                 "library_errors":self._app.loader.errors,"settings":self._app.settings.get_all(),
-                "wordlists":self._app.wordlist_service.summaries(),"wordlist_errors":self._app.wordlist_loader.errors}
+                "wordlists":self._app.wordlist_service.summaries(),"wordlist_errors":self._app.wordlist_loader.errors,
+                "readings":self._app.reading_service.summaries(),"reading_errors":self._app.reading_loader.errors}
 
     def get_word_day(self, wordlist_id: str, day_number: int):
         try:
             return {"ok":True,**self._app.wordlist_service.day(wordlist_id,day_number)}
         except (ValueError, WordlistValidationError) as exc:
+            return {"ok":False,"error":str(exc)}
+
+    def get_reading_day(self, collection_id: str, day_number: int):
+        try:
+            return {"ok":True,**self._app.reading_service.day(collection_id,day_number)}
+        except (ValueError, ReadingValidationError) as exc:
             return {"ok":False,"error":str(exc)}
 
     def get_sequence(self, library_id: str = "", kind: str = "all"):

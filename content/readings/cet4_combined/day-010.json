@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 10,
+  "articles": [
+    {
+      "id": "cet4-reading-d010-1",
+      "title": "The Physician's Disguise",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "An exhausted physician boarded an overnight train after attending a distant funeral. Across the aisle, a man in a poor disguise kept watching a report about a wanted criminal. When the train stopped suddenly, the man's injured ankle caused him to cry out. The physician treated him but quietly asked a guard to check his name. Faced with the evidence, the passenger chose to confess before they reached the next station.",
+      "translation": "一位疲惫的医生参加远方葬礼后登上了夜班列车。过道对面，一个伪装拙劣的男人一直盯着一则通缉犯报道。火车突然停下时，男人受伤的脚踝让他叫出声来。医生为他处理伤势，同时悄悄请乘警核查他的姓名。面对证据，这名乘客在抵达下一站前选择认罪。",
+      "sentences": [
+        {
+          "en": "An exhausted physician boarded an overnight train after attending a distant funeral.",
+          "zh": "一位疲惫的医生参加远方葬礼后登上了夜班列车。"
+        },
+        {
+          "en": "Across the aisle, a man in a poor disguise kept watching a report about a wanted criminal.",
+          "zh": "过道对面，一个伪装拙劣的男人一直盯着一则通缉犯报道。"
+        },
+        {
+          "en": "When the train stopped suddenly, the man's injured ankle caused him to cry out.",
+          "zh": "火车突然停下时，男人受伤的脚踝让他叫出声来。"
+        },
+        {
+          "en": "The physician treated him but quietly asked a guard to check his name.",
+          "zh": "医生为他处理伤势，同时悄悄请乘警核查他的姓名。"
+        },
+        {
+          "en": "Faced with the evidence, the passenger chose to confess before they reached the next station.",
+          "zh": "面对证据，这名乘客在抵达下一站前选择认罪。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "overnight",
+          "meaning": "a. 通宵的,晚上的ad. 在昨夜,一夜工夫,突然"
+        },
+        {
+          "word": "physician",
+          "meaning": "n. 医生"
+        },
+        {
+          "word": "criminal",
+          "meaning": "a. 犯罪的,刑事上的 n. 罪犯"
+        },
+        {
+          "word": "funeral",
+          "meaning": "n. 丧葬,葬礼"
+        },
+        {
+          "word": "disguise",
+          "meaning": "vt./n. 假扮;隐蔽;掩饰"
+        },
+        {
+          "word": "confess",
+          "meaning": "v. 供认,承认,坦白,忏悔"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What drew attention to the passenger?",
+          "answer": "His disguise and reaction to the report.",
+          "explanation": "他的伪装以及对报道的反应引起注意。"
+        },
+        {
+          "prompt": "When did he confess?",
+          "answer": "Before the next station.",
+          "explanation": "他在到达下一站前认罪。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d010-2",
+      "title": "Why Food Turns Rotten",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "Fresh produce continues to breathe and change after farmers pick it. As fruit becomes mature, natural enzymes soften its structure and release sweeter smells. Microbes use the same food, and each new generation increases quickly in warm conditions. Cool, dry storage slows both processes but cannot stop them forever. Regular inspection removes rotten items before mold and bacteria spread to nearby food.",
+      "translation": "新鲜农产品在采摘后仍会呼吸并发生变化。水果成熟时，天然酶会软化其结构并释放更甜的气味。微生物也利用这些食物，并在温暖环境中一代代迅速增加。阴凉干燥的储存会减慢这两个过程，却无法永远阻止。定期检查可以在霉菌和细菌扩散到附近食物前清除腐烂物品。",
+      "sentences": [
+        {
+          "en": "Fresh produce continues to breathe and change after farmers pick it.",
+          "zh": "新鲜农产品在采摘后仍会呼吸并发生变化。"
+        },
+        {
+          "en": "As fruit becomes mature, natural enzymes soften its structure and release sweeter smells.",
+          "zh": "水果成熟时，天然酶会软化其结构并释放更甜的气味。"
+        },
+        {
+          "en": "Microbes use the same food, and each new generation increases quickly in warm conditions.",
+          "zh": "微生物也利用这些食物，并在温暖环境中一代代迅速增加。"
+        },
+        {
+          "en": "Cool, dry storage slows both processes but cannot stop them forever.",
+          "zh": "阴凉干燥的储存会减慢这两个过程，却无法永远阻止。"
+        },
+        {
+          "en": "Regular inspection removes rotten items before mold and bacteria spread to nearby food.",
+          "zh": "定期检查可以在霉菌和细菌扩散到附近食物前清除腐烂物品。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "mature",
+          "meaning": "vt. 使成熟,使成长;a. 成熟的,充分发展的"
+        },
+        {
+          "word": "rotten",
+          "meaning": "a. 腐烂的,腐朽的"
+        },
+        {
+          "word": "produce",
+          "meaning": "v. 生产,制造,显示,演出,导致n. 产品"
+        },
+        {
+          "word": "storage",
+          "meaning": "n. 贮藏(量),保管;库房"
+        },
+        {
+          "word": "generation",
+          "meaning": "n. 产生,发生;一代(人)"
+        },
+        {
+          "word": "regular",
+          "meaning": "a. 有规律的;整齐的,匀称的,正规的,正式的"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What softens fruit as it matures?",
+          "answer": "Natural enzymes.",
+          "explanation": "天然酶会使成熟水果变软。"
+        },
+        {
+          "prompt": "Why is regular inspection useful?",
+          "answer": "It removes rotten food before microbes spread.",
+          "explanation": "检查能及时清除腐烂食物，防止微生物扩散。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d010-3",
+      "title": "Outdoor Displays Need Restraint",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "Large screens outdoors can display public art, travel information, and emergency messages. They can also flash advertisements so brightly that drivers lose focus and nearby residents cannot sleep. Cities should enforce limits on brightness and movement after dark. Owners may argue that such rules bother business, but visual disorder imposes a cost on everyone. Clear standards can preserve useful displays while protecting streets from becoming constant advertisements.",
+      "translation": "户外大屏可以展示公共艺术、出行信息和紧急消息。它们也可能播放过亮广告，使司机分心并打扰附近居民睡眠。城市应执行夜间亮度和画面运动限制。业主可能认为这些规定妨碍经营，但视觉混乱会让所有人付出代价。清晰标准既能保留有用的显示屏，也能防止街道变成持续不断的广告。",
+      "sentences": [
+        {
+          "en": "Large screens outdoors can display public art, travel information, and emergency messages.",
+          "zh": "户外大屏可以展示公共艺术、出行信息和紧急消息。"
+        },
+        {
+          "en": "They can also flash advertisements so brightly that drivers lose focus and nearby residents cannot sleep.",
+          "zh": "它们也可能播放过亮广告，使司机分心并打扰附近居民睡眠。"
+        },
+        {
+          "en": "Cities should enforce limits on brightness and movement after dark.",
+          "zh": "城市应执行夜间亮度和画面运动限制。"
+        },
+        {
+          "en": "Owners may argue that such rules bother business, but visual disorder imposes a cost on everyone.",
+          "zh": "业主可能认为这些规定妨碍经营，但视觉混乱会让所有人付出代价。"
+        },
+        {
+          "en": "Clear standards can preserve useful displays while protecting streets from becoming constant advertisements.",
+          "zh": "清晰标准既能保留有用的显示屏，也能防止街道变成持续不断的广告。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "outdoors",
+          "meaning": "ad.在户外,在野外"
+        },
+        {
+          "word": "display",
+          "meaning": "vt./n. 展览,陈列"
+        },
+        {
+          "word": "focus",
+          "meaning": "n./v. 焦点,集中;(兴趣活动等的)中心;聚集"
+        },
+        {
+          "word": "bother",
+          "meaning": "v./n. 麻烦,打扰"
+        },
+        {
+          "word": "enforce",
+          "meaning": "vt. 强迫服从;实施;加强"
+        },
+        {
+          "word": "disorder",
+          "meaning": "n./vt. 混乱,骚动,(身心)失调"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "How can bright screens affect drivers?",
+          "answer": "They can make drivers lose focus.",
+          "explanation": "过亮屏幕会让司机分心。"
+        },
+        {
+          "prompt": "What limits does the writer support?",
+          "answer": "Limits on brightness and movement after dark.",
+          "explanation": "作者支持限制夜间亮度和动态效果。"
+        }
+      ]
+    }
+  ]
+}

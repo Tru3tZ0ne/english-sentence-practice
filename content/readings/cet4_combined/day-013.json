@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 13,
+  "articles": [
+    {
+      "id": "cet4-reading-d013-1",
+      "title": "The Balloon over the Old Wall",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "Two twin brothers found a red balloon trapped above a historical wall near their school. One imagined a secret signal, while the other used his practical vision to search for a string. They followed the string into tall grass and discovered an unusual insect caught beneath it. Their imagination gave way to careful work as they freed the creature without touching its wings. A museum later identified it as a local species once thought to have disappeared.",
+      "translation": "一对双胞胎兄弟在学校附近的古墙上方发现了一个被卡住的红气球。一个把它想象成秘密信号，另一个则实际寻找气球线。他们沿着线走进高草，发现一只罕见昆虫被压在下面。他们收起想象，小心操作，在不碰翅膀的情况下放走了昆虫。一家博物馆后来确认它是曾被认为已经消失的本地物种。",
+      "sentences": [
+        {
+          "en": "Two twin brothers found a red balloon trapped above a historical wall near their school.",
+          "zh": "一对双胞胎兄弟在学校附近的古墙上方发现了一个被卡住的红气球。"
+        },
+        {
+          "en": "One imagined a secret signal, while the other used his practical vision to search for a string.",
+          "zh": "一个把它想象成秘密信号，另一个则实际寻找气球线。"
+        },
+        {
+          "en": "They followed the string into tall grass and discovered an unusual insect caught beneath it.",
+          "zh": "他们沿着线走进高草，发现一只罕见昆虫被压在下面。"
+        },
+        {
+          "en": "Their imagination gave way to careful work as they freed the creature without touching its wings.",
+          "zh": "他们收起想象，小心操作，在不碰翅膀的情况下放走了昆虫。"
+        },
+        {
+          "en": "A museum later identified it as a local species once thought to have disappeared.",
+          "zh": "一家博物馆后来确认它是曾被认为已经消失的本地物种。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "twin",
+          "meaning": "a. 双的,成对的,孪生的n. 孪生子,双生子"
+        },
+        {
+          "word": "balloon",
+          "meaning": "n. 气球,飞船a. 气球状的v. 乘坐气球;膨胀"
+        },
+        {
+          "word": "imagination",
+          "meaning": "n. 想象(力);空想,幻觉;想象出来的事物"
+        },
+        {
+          "word": "historical",
+          "meaning": "a. 历史的;有关历史的"
+        },
+        {
+          "word": "vision",
+          "meaning": "n. 视力,视觉;远见;洞察力;幻想,幻影;想象力"
+        },
+        {
+          "word": "insect",
+          "meaning": "n. 昆虫"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the string lead the brothers to?",
+          "answer": "An unusual trapped insect.",
+          "explanation": "气球线把他们带到一只被困昆虫旁。"
+        },
+        {
+          "prompt": "Why was the discovery important?",
+          "answer": "The species was thought to have disappeared.",
+          "explanation": "这种本地物种一度被认为已经消失。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d013-2",
+      "title": "Why Flavour Changes with Temperature",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "Flavour depends on each chemical compound that reaches receptors in the nose and mouth. Warm food releases more aromatic molecules, so smell can perform a larger function in the experience. Cold can hide sweetness and make texture seem firm, sometimes almost like leather. Chefs therefore use only an approximate seasoning level until a dish reaches serving temperature. Even morning dew on herbs may dilute their oils slightly and alter the final balance.",
+      "translation": "味道取决于到达鼻腔和口腔感受器的各种化合物。温热食物会释放更多芳香分子，因此嗅觉在体验中发挥更大作用。低温会掩盖甜味并使口感显得坚韧，有时几乎像皮革。因此，厨师在菜品达到食用温度前只做大致调味。即使香草上的晨露也可能轻微稀释精油，改变最终平衡。",
+      "sentences": [
+        {
+          "en": "Flavour depends on each chemical compound that reaches receptors in the nose and mouth.",
+          "zh": "味道取决于到达鼻腔和口腔感受器的各种化合物。"
+        },
+        {
+          "en": "Warm food releases more aromatic molecules, so smell can perform a larger function in the experience.",
+          "zh": "温热食物会释放更多芳香分子，因此嗅觉在体验中发挥更大作用。"
+        },
+        {
+          "en": "Cold can hide sweetness and make texture seem firm, sometimes almost like leather.",
+          "zh": "低温会掩盖甜味并使口感显得坚韧，有时几乎像皮革。"
+        },
+        {
+          "en": "Chefs therefore use only an approximate seasoning level until a dish reaches serving temperature.",
+          "zh": "因此，厨师在菜品达到食用温度前只做大致调味。"
+        },
+        {
+          "en": "Even morning dew on herbs may dilute their oils slightly and alter the final balance.",
+          "zh": "即使香草上的晨露也可能轻微稀释精油，改变最终平衡。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "flavour",
+          "meaning": "n.滋味, 香味。"
+        },
+        {
+          "word": "compound",
+          "meaning": "n./a. 混合物(的),复合词(的) v. 使混合,使复杂"
+        },
+        {
+          "word": "function",
+          "meaning": "n. 职责,作用,正式社会集会 vi. 起作用,运行"
+        },
+        {
+          "word": "approximate",
+          "meaning": "a. 近似的,约略的 v. 接近,近似"
+        },
+        {
+          "word": "leather",
+          "meaning": "n. 皮革,皮革制品"
+        },
+        {
+          "word": "dew",
+          "meaning": "n. 露水"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why does warm food often smell stronger?",
+          "answer": "It releases more aromatic molecules.",
+          "explanation": "温热食物释放更多芳香分子。"
+        },
+        {
+          "prompt": "Why is early seasoning approximate?",
+          "answer": "Flavour changes at serving temperature.",
+          "explanation": "味道会随食用温度变化。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d013-3",
+      "title": "Local History Belongs to Everyone",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "Local history is sometimes controlled by a small intellectual circle that decides which stories matter. That approach can reduce an entire civilization to leaders, wars, and official buildings. A democratic archive should also collect workers' letters, family photographs, songs, and oral memories. Museums can form a league with schools and neighborhood groups to share equipment and training. Professional standards should limit false claims without silencing people whose experience was rarely recorded.",
+      "translation": "地方历史有时由少数学术圈掌控，由他们决定哪些故事重要。这种做法可能把整个文明缩减为领袖、战争和官方建筑。民主的档案也应收集工人书信、家庭照片、歌曲和口述记忆。博物馆可以与学校和社区团体结成联盟，共享设备和培训。专业标准应限制虚假说法，同时不让那些经历少有记录的人失声。",
+      "sentences": [
+        {
+          "en": "Local history is sometimes controlled by a small intellectual circle that decides which stories matter.",
+          "zh": "地方历史有时由少数学术圈掌控，由他们决定哪些故事重要。"
+        },
+        {
+          "en": "That approach can reduce an entire civilization to leaders, wars, and official buildings.",
+          "zh": "这种做法可能把整个文明缩减为领袖、战争和官方建筑。"
+        },
+        {
+          "en": "A democratic archive should also collect workers' letters, family photographs, songs, and oral memories.",
+          "zh": "民主的档案也应收集工人书信、家庭照片、歌曲和口述记忆。"
+        },
+        {
+          "en": "Museums can form a league with schools and neighborhood groups to share equipment and training.",
+          "zh": "博物馆可以与学校和社区团体结成联盟，共享设备和培训。"
+        },
+        {
+          "en": "Professional standards should limit false claims without silencing people whose experience was rarely recorded.",
+          "zh": "专业标准应限制虚假说法，同时不让那些经历少有记录的人失声。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "local",
+          "meaning": "a. 地方的,当地的;局部的"
+        },
+        {
+          "word": "civilization",
+          "meaning": "n. 文明,文化"
+        },
+        {
+          "word": "intellectual",
+          "meaning": "a. 智力的,理智的,有理解力的; n. 知识分子"
+        },
+        {
+          "word": "league",
+          "meaning": "n. 同盟,联盟;联合会,社团"
+        },
+        {
+          "word": "democratic",
+          "meaning": "a. 民主的"
+        },
+        {
+          "word": "limit",
+          "meaning": "n. 界限,限度,范围v. (to)限制,限定"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What materials should a democratic archive collect?",
+          "answer": "Everyday letters, photos, songs, and memories.",
+          "explanation": "档案应收集普通人的多种生活材料。"
+        },
+        {
+          "prompt": "What should professional standards limit?",
+          "answer": "False historical claims.",
+          "explanation": "专业标准应限制虚假历史说法。"
+        }
+      ]
+    }
+  ]
+}

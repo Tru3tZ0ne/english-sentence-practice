@@ -35,6 +35,9 @@ def build(output: Path) -> tuple[int, int]:
     wordlists_source = ROOT / "content" / "wordlists"
     if wordlists_source.is_dir():
         shutil.copytree(wordlists_source, output / "wordlists")
+    readings_source = ROOT / "content" / "readings"
+    if readings_source.is_dir():
+        shutil.copytree(readings_source, output / "readings")
     (output / ".nojekyll").touch()
     return len(filenames), item_count
 

@@ -4,6 +4,7 @@ from app.database import Database
 from app.services.answer_checker import AnswerChecker, normalize_answer
 from app.services.progress_service import ProgressService
 from app.content.wordlist_loader import WordlistLoader, WordlistValidationError
+from app.content.reading_loader import ReadingLoader
 def test_normalize(): assert normalize_answer("  I’m   HERE!!! ")=="i'm here"
 def test_answers(): assert AnswerChecker().check("I am completely over you",["I'm completely over you.","I am completely over you."]).correct
 def test_duplicate_item():
@@ -39,3 +40,15 @@ def test_wordlist_rejects_duplicate_options(tmp_path):
     loader=WordlistLoader(root); index=loader.load_all()['sample']
     try: loader.load_day(index,1); assert False
     except WordlistValidationError: pass
+
+
+def test_reading_loader_with_sentence_pairs(tmp_path):
+    import json
+    root=tmp_path/'readings'; folder=root/'sample'; folder.mkdir(parents=True)
+    sentences=[{"en":f"English sentence number {number}.","zh":f"中文句子{number}。"} for number in range(1,5)]
+    article={"id":"reading-1","title":"示例阅读","type":"story","text":" ".join(x["en"] for x in sentences),"translation":"".join(x["zh"] for x in sentences),"sentences":sentences,"target_words":[{"word":"English","meaning":"英语"}],"questions":[{"prompt":"Question one?","answer":"Answer one."},{"prompt":"Question two?","answer":"Answer two."}]}
+    (root/'manifest.json').write_text(json.dumps({"schema_version":1,"collections":[{"index":"sample/index.json"}]}),encoding='utf8')
+    (folder/'index.json').write_text(json.dumps({"schema_version":1,"id":"sample","title":"示例","wordlist_id":"words","article_count":1,"day_count":1,"days":[{"day":1,"file":"day.json","count":1}]}),encoding='utf8')
+    (folder/'day.json').write_text(json.dumps({"schema_version":1,"collection_id":"sample","day":1,"articles":[article]}),encoding='utf8')
+    loader=ReadingLoader(root); indexes=loader.load_all(); assert not loader.errors
+    assert loader.load_day(indexes['sample'],1)['articles'][0]['sentences'][2]['zh']=='中文句子3。'

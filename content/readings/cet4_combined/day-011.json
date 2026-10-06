@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 11,
+  "articles": [
+    {
+      "id": "cet4-reading-d011-1",
+      "title": "The Evidence in the Cottage",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "Mara drove to an empty cottage after a neighbor reported a light moving behind its curtains. She found no broken window, but muddy marks led from the kitchen into a narrow corridor. Rather than pursue the visitor alone, she photographed each mark as evidence and called the owner. A precise description of a missing key helped the police identify the owner's former partner. He admitted entering the house but claimed that an unpaid debt, not theft, was at fault.",
+      "translation": "邻居报告空屋窗帘后有灯光移动后，玛拉开车赶到那座小屋。她没有发现破窗，却看到泥印从厨房延伸到狭窄走廊。她没有独自追赶来客，而是把每个痕迹拍作证据并联系屋主。对一把遗失钥匙的准确描述帮助警方认出了屋主的前合伙人。他承认进入屋内，却声称起因是未偿债务而非盗窃。",
+      "sentences": [
+        {
+          "en": "Mara drove to an empty cottage after a neighbor reported a light moving behind its curtains.",
+          "zh": "邻居报告空屋窗帘后有灯光移动后，玛拉开车赶到那座小屋。"
+        },
+        {
+          "en": "She found no broken window, but muddy marks led from the kitchen into a narrow corridor.",
+          "zh": "她没有发现破窗，却看到泥印从厨房延伸到狭窄走廊。"
+        },
+        {
+          "en": "Rather than pursue the visitor alone, she photographed each mark as evidence and called the owner.",
+          "zh": "她没有独自追赶来客，而是把每个痕迹拍作证据并联系屋主。"
+        },
+        {
+          "en": "A precise description of a missing key helped the police identify the owner's former partner.",
+          "zh": "对一把遗失钥匙的准确描述帮助警方认出了屋主的前合伙人。"
+        },
+        {
+          "en": "He admitted entering the house but claimed that an unpaid debt, not theft, was at fault.",
+          "zh": "他承认进入屋内，却声称起因是未偿债务而非盗窃。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "cottage",
+          "meaning": "n. 村舍,小屋,别墅"
+        },
+        {
+          "word": "fault",
+          "meaning": "n. 缺点,毛病,过错,(地质)断层"
+        },
+        {
+          "word": "pursue",
+          "meaning": "v. 追赶,追踪;继续,从事"
+        },
+        {
+          "word": "evidence",
+          "meaning": "n. 明显;显著;根据;证据;迹象"
+        },
+        {
+          "word": "corridor",
+          "meaning": "n. 走廊,通路"
+        },
+        {
+          "word": "precise",
+          "meaning": "a. 精确的"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why did Mara photograph the marks?",
+          "answer": "To preserve them as evidence.",
+          "explanation": "她拍照是为了保存证据。"
+        },
+        {
+          "prompt": "What helped identify the visitor?",
+          "answer": "A precise description of a missing key.",
+          "explanation": "对遗失钥匙的准确描述帮助确认了身份。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d011-2",
+      "title": "How a Submarine Changes Depth",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "A submarine controls depth by changing the amount of water and air in special ballast tanks. To descend, valves near the tower open and water enters until the vessel's total weight increases. To rise, compressed air pushes that water back out through openings along the edge of the hull. Cool surfaces may also cause moisture to condense, so ventilation protects machines and crew. Like an organ in a body, each system must cooperate with many others to keep the vessel balanced.",
+      "translation": "潜艇通过改变专用压载舱中的水和空气量来控制深度。下潜时，指挥塔附近的阀门打开，海水进入，使潜艇总重量增加。上浮时，压缩空气把海水从船体边缘的开口推出。低温表面还可能使水汽凝结，因此通风系统会保护机器和船员。就像身体中的器官一样，每套系统都必须与其他系统协作以保持潜艇平衡。",
+      "sentences": [
+        {
+          "en": "A submarine controls depth by changing the amount of water and air in special ballast tanks.",
+          "zh": "潜艇通过改变专用压载舱中的水和空气量来控制深度。"
+        },
+        {
+          "en": "To descend, valves near the tower open and water enters until the vessel's total weight increases.",
+          "zh": "下潜时，指挥塔附近的阀门打开，海水进入，使潜艇总重量增加。"
+        },
+        {
+          "en": "To rise, compressed air pushes that water back out through openings along the edge of the hull.",
+          "zh": "上浮时，压缩空气把海水从船体边缘的开口推出。"
+        },
+        {
+          "en": "Cool surfaces may also cause moisture to condense, so ventilation protects machines and crew.",
+          "zh": "低温表面还可能使水汽凝结，因此通风系统会保护机器和船员。"
+        },
+        {
+          "en": "Like an organ in a body, each system must cooperate with many others to keep the vessel balanced.",
+          "zh": "就像身体中的器官一样，每套系统都必须与其他系统协作以保持潜艇平衡。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "submarine",
+          "meaning": "n. 潜水艇a. 水底的,海底的"
+        },
+        {
+          "word": "tower",
+          "meaning": "n. 塔v. 高耸"
+        },
+        {
+          "word": "total",
+          "meaning": "n. 总数,合计a. 总的,全部的v. 合计,总数达"
+        },
+        {
+          "word": "condense",
+          "meaning": "v. 冷凝,凝结;精简,浓缩"
+        },
+        {
+          "word": "organ",
+          "meaning": "n. 器官,报刊,风琴"
+        },
+        {
+          "word": "edge",
+          "meaning": "n. 边,棱;刀口,刃v. 侧身移动,挤进"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What makes the submarine descend?",
+          "answer": "Water entering its ballast tanks.",
+          "explanation": "海水进入压载舱会使潜艇下沉。"
+        },
+        {
+          "prompt": "Why is ventilation necessary?",
+          "answer": "It controls condensed moisture.",
+          "explanation": "通风能控制凝结水汽。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d011-3",
+      "title": "Evidence Should Lead the News",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "A dramatic description often becomes the leading line of an online report before all facts are known. Editors should check original records and identify who provided each important claim. A typical breaking story will change as witnesses, documents, and context become available. Newsrooms must revise visible errors instead of quietly replacing old wording. Speed matters, but a fast report without a clear trail of evidence weakens public trust.",
+      "translation": "事实尚未查清时，夸张描述常成为网络报道的头条句。编辑应核查原始记录，并说明每项重要说法由谁提供。典型突发新闻会随着证人、文件和背景信息出现而变化。新闻编辑部必须公开更正明显错误，而不是悄悄替换旧表述。速度很重要，但缺少清晰证据链的快速报道会削弱公众信任。",
+      "sentences": [
+        {
+          "en": "A dramatic description often becomes the leading line of an online report before all facts are known.",
+          "zh": "事实尚未查清时，夸张描述常成为网络报道的头条句。"
+        },
+        {
+          "en": "Editors should check original records and identify who provided each important claim.",
+          "zh": "编辑应核查原始记录，并说明每项重要说法由谁提供。"
+        },
+        {
+          "en": "A typical breaking story will change as witnesses, documents, and context become available.",
+          "zh": "典型突发新闻会随着证人、文件和背景信息出现而变化。"
+        },
+        {
+          "en": "Newsrooms must revise visible errors instead of quietly replacing old wording.",
+          "zh": "新闻编辑部必须公开更正明显错误，而不是悄悄替换旧表述。"
+        },
+        {
+          "en": "Speed matters, but a fast report without a clear trail of evidence weakens public trust.",
+          "zh": "速度很重要，但缺少清晰证据链的快速报道会削弱公众信任。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "description",
+          "meaning": "n. 描写,描绘,叙述"
+        },
+        {
+          "word": "leading",
+          "meaning": "a. 领导的,指导的;第一位的;最主要的"
+        },
+        {
+          "word": "check",
+          "meaning": "n. 支票,空白支票;总收入vt. 检查;核对;制止"
+        },
+        {
+          "word": "typical",
+          "meaning": "a. 典型的"
+        },
+        {
+          "word": "provided",
+          "meaning": "conj. 假如,如果"
+        },
+        {
+          "word": "revise",
+          "meaning": "v. 修订;改正"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should editors check?",
+          "answer": "Original records and the source of claims.",
+          "explanation": "编辑应核查原始记录和消息来源。"
+        },
+        {
+          "prompt": "Why should corrections be visible?",
+          "answer": "To preserve public trust.",
+          "explanation": "公开更正有助于维护信任。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 17,
+  "articles": [
+    {
+      "id": "cet4-reading-d017-1",
+      "title": "The Pear beside the Graph",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "Niko placed a pear beside his graph during a school presentation about lunch waste. His classmate had recorded how much fruit, bread, and dairy food pupils discarded each day. Together they used the weekly figures to calculate how many meals the waste could equal. Afterward, children carried uneaten whole fruit to a shared basket near the playground. The lonely pear disappeared first, taken by a hungry student after football practice.",
+      "translation": "尼科在介绍午餐浪费的学校演讲中，把一只梨放在图表旁。他的同学记录了学生每天丢弃多少水果、面包和乳制品。他们用每周数据计算这些浪费相当于多少顿饭。之后，孩子们把未吃的完整水果放到操场旁的共享篮子。那只孤零零的梨最先消失，被足球训练后一名饥饿的学生拿走了。",
+      "sentences": [
+        {
+          "en": "Niko placed a pear beside his graph during a school presentation about lunch waste.",
+          "zh": "尼科在介绍午餐浪费的学校演讲中，把一只梨放在图表旁。"
+        },
+        {
+          "en": "His classmate had recorded how much fruit, bread, and dairy food pupils discarded each day.",
+          "zh": "他的同学记录了学生每天丢弃多少水果、面包和乳制品。"
+        },
+        {
+          "en": "Together they used the weekly figures to calculate how many meals the waste could equal.",
+          "zh": "他们用每周数据计算这些浪费相当于多少顿饭。"
+        },
+        {
+          "en": "Afterward, children carried uneaten whole fruit to a shared basket near the playground.",
+          "zh": "之后，孩子们把未吃的完整水果放到操场旁的共享篮子。"
+        },
+        {
+          "en": "The lonely pear disappeared first, taken by a hungry student after football practice.",
+          "zh": "那只孤零零的梨最先消失，被足球训练后一名饥饿的学生拿走了。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "graph",
+          "meaning": "n. 图表,曲线图"
+        },
+        {
+          "word": "dairy",
+          "meaning": "n.奶牛场,乳品商店"
+        },
+        {
+          "word": "playground",
+          "meaning": "n. 运动场,游戏场"
+        },
+        {
+          "word": "calculate",
+          "meaning": "v. 计算,推算;计划,打算"
+        },
+        {
+          "word": "classmate",
+          "meaning": "n. 同班同学"
+        },
+        {
+          "word": "pear",
+          "meaning": "n. 梨子,梨树"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the graph measure?",
+          "answer": "Food discarded at lunch.",
+          "explanation": "图表统计午餐时丢弃的食物。"
+        },
+        {
+          "prompt": "Where was uneaten fruit placed?",
+          "answer": "In a basket near the playground.",
+          "explanation": "未吃的水果被放在操场旁的篮子里。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d017-2",
+      "title": "Why Copper Carries Current",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "Copper contains electrons that can move easily when voltage creates an electrical push. Their route through a wire is not perfectly smooth because atoms vibrate and resist the flow. That resistance produces heat, a form of radiation that must be controlled in powerful equipment. Some cables include insulation and cooling around the copper core. Engineers may send a brief pulse through a damaged line and measure its return to locate a mechanical break.",
+      "translation": "铜含有在电压推动下能够轻易移动的电子。电子穿过导线的路径并非完全顺畅，因为原子振动会阻碍流动。这种电阻会产生热量，即一种在大功率设备中必须控制的辐射。一些电缆在铜芯周围加入绝缘层和冷却结构。工程师可以向损坏线路发送短脉冲并测量其返回，以定位机械断点。",
+      "sentences": [
+        {
+          "en": "Copper contains electrons that can move easily when voltage creates an electrical push.",
+          "zh": "铜含有在电压推动下能够轻易移动的电子。"
+        },
+        {
+          "en": "Their route through a wire is not perfectly smooth because atoms vibrate and resist the flow.",
+          "zh": "电子穿过导线的路径并非完全顺畅，因为原子振动会阻碍流动。"
+        },
+        {
+          "en": "That resistance produces heat, a form of radiation that must be controlled in powerful equipment.",
+          "zh": "这种电阻会产生热量，即一种在大功率设备中必须控制的辐射。"
+        },
+        {
+          "en": "Some cables include insulation and cooling around the copper core.",
+          "zh": "一些电缆在铜芯周围加入绝缘层和冷却结构。"
+        },
+        {
+          "en": "Engineers may send a brief pulse through a damaged line and measure its return to locate a mechanical break.",
+          "zh": "工程师可以向损坏线路发送短脉冲并测量其返回，以定位机械断点。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "copper",
+          "meaning": "n. 铜;铜币,铜制器"
+        },
+        {
+          "word": "include",
+          "meaning": "v. 包括,包含,计入"
+        },
+        {
+          "word": "radiation",
+          "meaning": "n.放射,发射;辐射能"
+        },
+        {
+          "word": "pulse",
+          "meaning": "n. 脉搏,脉冲"
+        },
+        {
+          "word": "mechanical",
+          "meaning": "a. 机械的,由机构制成的;机械似的,呆板的"
+        },
+        {
+          "word": "route",
+          "meaning": "n. 路线,路程"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What creates heat in a copper wire?",
+          "answer": "Resistance to moving electrons.",
+          "explanation": "电子运动受到的电阻会产生热。"
+        },
+        {
+          "prompt": "How can engineers locate a break?",
+          "answer": "By sending and measuring a pulse.",
+          "explanation": "通过发送并测量脉冲定位断点。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d017-3",
+      "title": "Sponsors Should Not Control School Sport",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "A business sponsor can pay equipment costs or rent a field that a school could not otherwise afford. Problems begin when the funding scheme turns pupils into permanent advertisements. Every class deserves access, including children whose families never buy the sponsor's products. Schools should remain humble about commercial gifts and publish all conditions attached to them. Like a marriage, a long partnership works only when both sides respect clear boundaries.",
+      "translation": "企业赞助者可以支付器材费用或租用学校无力承担的场地。当资助方案把学生变成永久广告时，问题就出现了。每个班级都应获得参与机会，包括从不购买赞助商产品的家庭。学校应谨慎看待商业赠款，并公开所有附加条件。就像婚姻一样，长期合作只有在双方尊重清晰边界时才能维持。",
+      "sentences": [
+        {
+          "en": "A business sponsor can pay equipment costs or rent a field that a school could not otherwise afford.",
+          "zh": "企业赞助者可以支付器材费用或租用学校无力承担的场地。"
+        },
+        {
+          "en": "Problems begin when the funding scheme turns pupils into permanent advertisements.",
+          "zh": "当资助方案把学生变成永久广告时，问题就出现了。"
+        },
+        {
+          "en": "Every class deserves access, including children whose families never buy the sponsor's products.",
+          "zh": "每个班级都应获得参与机会，包括从不购买赞助商产品的家庭。"
+        },
+        {
+          "en": "Schools should remain humble about commercial gifts and publish all conditions attached to them.",
+          "zh": "学校应谨慎看待商业赠款，并公开所有附加条件。"
+        },
+        {
+          "en": "Like a marriage, a long partnership works only when both sides respect clear boundaries.",
+          "zh": "就像婚姻一样，长期合作只有在双方尊重清晰边界时才能维持。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "sponsor",
+          "meaning": "n./v. 发起(人),主办(人)"
+        },
+        {
+          "word": "scheme",
+          "meaning": "n./v. 安排;计划;阴谋"
+        },
+        {
+          "word": "rent",
+          "meaning": "v. 租,租赁n. 租金"
+        },
+        {
+          "word": "class",
+          "meaning": "n. 班级,年级;种类,等级,阶级;(一节)课"
+        },
+        {
+          "word": "humble",
+          "meaning": "a. 谦卑的,恭顺的;地位低下的;简陋的;vt. 使卑下,贬抑"
+        },
+        {
+          "word": "marriage",
+          "meaning": "n. 结婚,婚姻;结婚仪式"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What benefit can a sponsor provide?",
+          "answer": "Equipment or field rental.",
+          "explanation": "赞助者可提供器材或场地租金。"
+        },
+        {
+          "prompt": "What should schools publish?",
+          "answer": "All conditions attached to sponsorship.",
+          "explanation": "学校应公开赞助的全部条件。"
+        }
+      ]
+    }
+  ]
+}

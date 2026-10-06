@@ -4,12 +4,14 @@ import logging
 import threading
 
 from app.api.bridge import ApiBridge
-from app.config import DB_PATH, LIBRARIES_DIR, WEB_DIR, WORDLISTS_DIR
+from app.config import DB_PATH, LIBRARIES_DIR, READINGS_DIR, WEB_DIR, WORDLISTS_DIR
 from app.content.library_loader import LibraryLoader
+from app.content.reading_loader import ReadingLoader
 from app.content.wordlist_loader import WordlistLoader
 from app.database import Database
 from app.services.library_service import LibraryService
 from app.services.progress_service import ProgressService
+from app.services.reading_service import ReadingService
 from app.services.settings_service import SettingsService
 from app.services.wordlist_service import WordlistService
 
@@ -21,6 +23,7 @@ class Application:
         self.progress=ProgressService(self.db); self.settings=SettingsService(self.db)
         self.loader=LibraryLoader(LIBRARIES_DIR); self.library_service=LibraryService(self.loader,self.progress)
         self.wordlist_loader=WordlistLoader(WORDLISTS_DIR); self.wordlist_service=WordlistService(self.wordlist_loader)
+        self.reading_loader=ReadingLoader(READINGS_DIR); self.reading_service=ReadingService(self.reading_loader)
         self.api=ApiBridge(self)
 
     def run(self):

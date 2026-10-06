@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 19,
+  "articles": [
+    {
+      "id": "cet4-reading-d019-1",
+      "title": "Lightning over the Glasshouse",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "A small aircraft ended its coastal voyage early when lightning spread across the northern sky. It landed beside farmland where broken glass from a damaged greenhouse covered the road. A policeman stopped traffic while the pilot helped the farmer protect a young tomato crop. They stretched old sheets across the plants before heavy rain arrived. By morning, the storm had passed, and the unexpected visitors stayed to clear the remaining glass.",
+      "translation": "一道闪电划过北方天空，一架小飞机提前结束了沿海航程。飞机降落在农田旁，受损温室的碎玻璃散落在道路上。一名警察拦停交通，飞行员则帮助农民保护幼小的番茄作物。他们在大雨到来前把旧布铺在植物上方。清晨风暴过去，意外来客们留下清理剩余玻璃。",
+      "sentences": [
+        {
+          "en": "A small aircraft ended its coastal voyage early when lightning spread across the northern sky.",
+          "zh": "一道闪电划过北方天空，一架小飞机提前结束了沿海航程。"
+        },
+        {
+          "en": "It landed beside farmland where broken glass from a damaged greenhouse covered the road.",
+          "zh": "飞机降落在农田旁，受损温室的碎玻璃散落在道路上。"
+        },
+        {
+          "en": "A policeman stopped traffic while the pilot helped the farmer protect a young tomato crop.",
+          "zh": "一名警察拦停交通，飞行员则帮助农民保护幼小的番茄作物。"
+        },
+        {
+          "en": "They stretched old sheets across the plants before heavy rain arrived.",
+          "zh": "他们在大雨到来前把旧布铺在植物上方。"
+        },
+        {
+          "en": "By morning, the storm had passed, and the unexpected visitors stayed to clear the remaining glass.",
+          "zh": "清晨风暴过去，意外来客们留下清理剩余玻璃。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "aircraft",
+          "meaning": "n. 飞机,飞船,飞行器"
+        },
+        {
+          "word": "policeman",
+          "meaning": "n. 警察"
+        },
+        {
+          "word": "voyage",
+          "meaning": "n. 航海;航行;旅行"
+        },
+        {
+          "word": "glass",
+          "meaning": "n. 玻璃;玻璃杯;镜子;(pl.)眼镜"
+        },
+        {
+          "word": "crop",
+          "meaning": "n. 作物,庄稼;(谷类等的)一熟收成;一批,大量"
+        },
+        {
+          "word": "lightning",
+          "meaning": "n. 闪电a. 闪电般的,快速的"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why did the aircraft land early?",
+          "answer": "Because of lightning and a storm.",
+          "explanation": "飞机因雷暴提前降落。"
+        },
+        {
+          "prompt": "What did the pilot help protect?",
+          "answer": "A young tomato crop.",
+          "explanation": "飞行员帮助保护番茄幼苗。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d019-2",
+      "title": "Why Oil and Water Separate",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "Water molecules have uneven electrical charges, while most oil molecules do not. Water therefore prefers interaction with other water molecules instead of forming bonds with oil. Even vigorous shaking cannot combine the two liquids permanently. Small drops may remain mixed for a while, but gradual movement brings each liquid back to its own layer. Soap changes the boundary by giving each particle an oil-friendly inner end and a water-friendly external end.",
+      "translation": "水分子带有不均匀电荷，而大多数油分子没有。因此，水更倾向于与其他水分子相互作用，而不是与油结合。即使猛烈摇晃也无法让两种液体永久混合。小液滴可能暂时混合，但缓慢运动会让两种液体各自恢复分层。肥皂改变边界：每个粒子都有亲油的内端和亲水的外端。",
+      "sentences": [
+        {
+          "en": "Water molecules have uneven electrical charges, while most oil molecules do not.",
+          "zh": "水分子带有不均匀电荷，而大多数油分子没有。"
+        },
+        {
+          "en": "Water therefore prefers interaction with other water molecules instead of forming bonds with oil.",
+          "zh": "因此，水更倾向于与其他水分子相互作用，而不是与油结合。"
+        },
+        {
+          "en": "Even vigorous shaking cannot combine the two liquids permanently.",
+          "zh": "即使猛烈摇晃也无法让两种液体永久混合。"
+        },
+        {
+          "en": "Small drops may remain mixed for a while, but gradual movement brings each liquid back to its own layer.",
+          "zh": "小液滴可能暂时混合，但缓慢运动会让两种液体各自恢复分层。"
+        },
+        {
+          "en": "Soap changes the boundary by giving each particle an oil-friendly inner end and a water-friendly external end.",
+          "zh": "肥皂改变边界：每个粒子都有亲油的内端和亲水的外端。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "oil",
+          "meaning": "n. 油,石油v. 给...加润滑油;涂油,上油"
+        },
+        {
+          "word": "combine",
+          "meaning": "v. 联合;连结;n. 集团,联合企业"
+        },
+        {
+          "word": "inner",
+          "meaning": "a. 内部的,里面的;内心的"
+        },
+        {
+          "word": "interaction",
+          "meaning": "n.相互作用;干扰"
+        },
+        {
+          "word": "gradual",
+          "meaning": "a. 逐渐的,不陡的"
+        },
+        {
+          "word": "external",
+          "meaning": "a. 外面的,外部的"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why does water avoid oil?",
+          "answer": "Its molecules prefer bonds with other water molecules.",
+          "explanation": "水分子更愿意彼此结合。"
+        },
+        {
+          "prompt": "How does soap help?",
+          "answer": "It connects to both oil and water.",
+          "explanation": "肥皂分子两端分别亲油和亲水。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d019-3",
+      "title": "Farmers Need Honest Weather Risk",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "A weather service may hesitate to announce a storm when the forecast remains uncertain. Yet farmers need time to prepare workers, equipment, and each vulnerable crop. A false alarm has a considerable cost, including wasted labor and unnecessary refrigerator use. Silence can cost far more, and people become suspicious when uncertainty is hidden. Forecasters should publish probability and possible impact, allowing farmers to make their own informed choice.",
+      "translation": "天气服务机构可能因预报仍不确定而犹豫是否发布风暴消息。但农民需要时间为工人、设备和易受损作物做好准备。误报会带来可观成本，包括浪费劳力和不必要使用冷藏设备。沉默可能造成更大损失，而隐瞒不确定性会让人产生怀疑。预报员应公布概率和可能影响，让农民自行作出知情选择。",
+      "sentences": [
+        {
+          "en": "A weather service may hesitate to announce a storm when the forecast remains uncertain.",
+          "zh": "天气服务机构可能因预报仍不确定而犹豫是否发布风暴消息。"
+        },
+        {
+          "en": "Yet farmers need time to prepare workers, equipment, and each vulnerable crop.",
+          "zh": "但农民需要时间为工人、设备和易受损作物做好准备。"
+        },
+        {
+          "en": "A false alarm has a considerable cost, including wasted labor and unnecessary refrigerator use.",
+          "zh": "误报会带来可观成本，包括浪费劳力和不必要使用冷藏设备。"
+        },
+        {
+          "en": "Silence can cost far more, and people become suspicious when uncertainty is hidden.",
+          "zh": "沉默可能造成更大损失，而隐瞒不确定性会让人产生怀疑。"
+        },
+        {
+          "en": "Forecasters should publish probability and possible impact, allowing farmers to make their own informed choice.",
+          "zh": "预报员应公布概率和可能影响，让农民自行作出知情选择。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "announce",
+          "meaning": "v. 正式宣布;发表;通告;广播(电台节目)"
+        },
+        {
+          "word": "considerable",
+          "meaning": "a. 相当大的;重要的"
+        },
+        {
+          "word": "crop",
+          "meaning": "n. 作物,庄稼;(谷类等的)一熟收成;一批,大量"
+        },
+        {
+          "word": "prepare",
+          "meaning": "v. 准备,预备"
+        },
+        {
+          "word": "suspicious",
+          "meaning": "a. 可疑的;怀疑的"
+        },
+        {
+          "word": "refrigerator",
+          "meaning": "n. 冰箱"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What costs can a false alarm create?",
+          "answer": "Wasted labor and unnecessary cooling.",
+          "explanation": "误报可能浪费劳力和冷藏成本。"
+        },
+        {
+          "prompt": "What should forecasts publish?",
+          "answer": "Probability and possible impact.",
+          "explanation": "预报应公布概率和潜在影响。"
+        }
+      ]
+    }
+  ]
+}

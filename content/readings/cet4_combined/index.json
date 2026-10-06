@@ -1,0 +1,116 @@
+{
+  "schema_version": 1,
+  "id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "title": "四级词汇语境阅读",
+  "description": "与单词库 Day 对应；每个 Day 包含故事、说明文和观点文各一篇，并支持逐句显示中文。",
+  "tags": [
+    "四级",
+    "语境阅读",
+    "逐句翻译"
+  ],
+  "article_count": 60,
+  "day_count": 20,
+  "days": [
+    {
+      "day": 1,
+      "file": "day-001.json",
+      "count": 3
+    },
+    {
+      "day": 2,
+      "file": "day-002.json",
+      "count": 3
+    },
+    {
+      "day": 3,
+      "file": "day-003.json",
+      "count": 3
+    },
+    {
+      "day": 4,
+      "file": "day-004.json",
+      "count": 3
+    },
+    {
+      "day": 5,
+      "file": "day-005.json",
+      "count": 3
+    },
+    {
+      "day": 6,
+      "file": "day-006.json",
+      "count": 3
+    },
+    {
+      "day": 7,
+      "file": "day-007.json",
+      "count": 3
+    },
+    {
+      "day": 8,
+      "file": "day-008.json",
+      "count": 3
+    },
+    {
+      "day": 9,
+      "file": "day-009.json",
+      "count": 3
+    },
+    {
+      "day": 10,
+      "file": "day-010.json",
+      "count": 3
+    },
+    {
+      "day": 11,
+      "file": "day-011.json",
+      "count": 3
+    },
+    {
+      "day": 12,
+      "file": "day-012.json",
+      "count": 3
+    },
+    {
+      "day": 13,
+      "file": "day-013.json",
+      "count": 3
+    },
+    {
+      "day": 14,
+      "file": "day-014.json",
+      "count": 3
+    },
+    {
+      "day": 15,
+      "file": "day-015.json",
+      "count": 3
+    },
+    {
+      "day": 16,
+      "file": "day-016.json",
+      "count": 3
+    },
+    {
+      "day": 17,
+      "file": "day-017.json",
+      "count": 3
+    },
+    {
+      "day": 18,
+      "file": "day-018.json",
+      "count": 3
+    },
+    {
+      "day": 19,
+      "file": "day-019.json",
+      "count": 3
+    },
+    {
+      "day": 20,
+      "file": "day-020.json",
+      "count": 3
+    }
+  ]
+}

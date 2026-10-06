@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 20,
+  "articles": [
+    {
+      "id": "cet4-reading-d020-1",
+      "title": "The Torch behind the Door",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "While staff inspect the factory, an employee noticed a weak light moving behind a sealed storage door. She put on a protective mask and used a torch to read the warning label through a window. Because spilled powder might be dangerous, the manager chose to isolate the entire corridor. Firefighters entered and found a cleaner who had been locked inside by a faulty handle. The careful response saved him without spreading the unknown material through the building.",
+      "translation": "员工检查工厂时，一名员工发现封闭储藏门后有微弱灯光移动。她戴上防护面罩，用手电筒透过窗户读取警示标签。由于泄漏粉末可能有危险，经理决定隔离整条走廊。消防员进入后发现一名清洁工因门把手故障被锁在里面。谨慎的应对救出了他，也没有让未知物质扩散到整栋建筑。",
+      "sentences": [
+        {
+          "en": "While staff inspect the factory, an employee noticed a weak light moving behind a sealed storage door.",
+          "zh": "员工检查工厂时，一名员工发现封闭储藏门后有微弱灯光移动。"
+        },
+        {
+          "en": "She put on a protective mask and used a torch to read the warning label through a window.",
+          "zh": "她戴上防护面罩，用手电筒透过窗户读取警示标签。"
+        },
+        {
+          "en": "Because spilled powder might be dangerous, the manager chose to isolate the entire corridor.",
+          "zh": "由于泄漏粉末可能有危险，经理决定隔离整条走廊。"
+        },
+        {
+          "en": "Firefighters entered and found a cleaner who had been locked inside by a faulty handle.",
+          "zh": "消防员进入后发现一名清洁工因门把手故障被锁在里面。"
+        },
+        {
+          "en": "The careful response saved him without spreading the unknown material through the building.",
+          "zh": "谨慎的应对救出了他，也没有让未知物质扩散到整栋建筑。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "inspect",
+          "meaning": "vt. 检查,调查,视察"
+        },
+        {
+          "word": "door",
+          "meaning": "n. 门;门口,出入口;门状物;家;通道"
+        },
+        {
+          "word": "isolate",
+          "meaning": "vt. 隔离,孤立"
+        },
+        {
+          "word": "torch",
+          "meaning": "n. 手电筒,火把"
+        },
+        {
+          "word": "employee",
+          "meaning": "n. 雇工,雇员"
+        },
+        {
+          "word": "mask",
+          "meaning": "n. 面具,口罩;vt. 遮蔽,伪装"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why was the corridor isolated?",
+          "answer": "There might be a dangerous powder spill.",
+          "explanation": "可能存在危险粉末泄漏。"
+        },
+        {
+          "prompt": "Who was behind the door?",
+          "answer": "A cleaner locked inside.",
+          "explanation": "门后是一名被困的清洁工。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d020-2",
+      "title": "How a Tyre Holds Weight",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "The source list writes tyre/ with a final slash, a reminder that raw vocabulary data can contain noise. A tyre supports a vehicle because compressed air pushes against the inner surface in every direction. Rubber and fabric stretch slightly, spreading the load across the area touching the road. Some designs contain no separate tube, which makes sealing the rim more complicated. Pressure, heat, tread condition, and even fine road powder affect grip and safety.",
+      "translation": "原始词表把 tyre/ 写成末尾带斜线的形式，提醒我们原始词汇数据可能含有杂质。轮胎能支撑车辆，是因为压缩空气向各个方向推压内表面。橡胶和织物略微伸展，把载荷分散到接触路面的区域。有些设计没有独立内胎，因此轮圈密封更加复杂。气压、温度、胎纹状况甚至细小路面粉尘都会影响抓地力与安全。",
+      "sentences": [
+        {
+          "en": "The source list writes tyre/ with a final slash, a reminder that raw vocabulary data can contain noise.",
+          "zh": "原始词表把 tyre/ 写成末尾带斜线的形式，提醒我们原始词汇数据可能含有杂质。"
+        },
+        {
+          "en": "A tyre supports a vehicle because compressed air pushes against the inner surface in every direction.",
+          "zh": "轮胎能支撑车辆，是因为压缩空气向各个方向推压内表面。"
+        },
+        {
+          "en": "Rubber and fabric stretch slightly, spreading the load across the area touching the road.",
+          "zh": "橡胶和织物略微伸展，把载荷分散到接触路面的区域。"
+        },
+        {
+          "en": "Some designs contain no separate tube, which makes sealing the rim more complicated.",
+          "zh": "有些设计没有独立内胎，因此轮圈密封更加复杂。"
+        },
+        {
+          "en": "Pressure, heat, tread condition, and even fine road powder affect grip and safety.",
+          "zh": "气压、温度、胎纹状况甚至细小路面粉尘都会影响抓地力与安全。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "tyre/",
+          "meaning": "n.轮胎,车胎"
+        },
+        {
+          "word": "tube",
+          "meaning": "n. 管,软管;电子管,显像管;地铁"
+        },
+        {
+          "word": "stretch",
+          "meaning": "vt./vi. 伸长,扩大,拉长;滥用,曲解;n. 伸展;一段持续时间"
+        },
+        {
+          "word": "condition",
+          "meaning": "n. 条件,状况,环境vt. 决定;支配;训练"
+        },
+        {
+          "word": "complicated",
+          "meaning": "a. 结构复杂的;困难的"
+        },
+        {
+          "word": "powder",
+          "meaning": "n. 粉末,药粉;火药,炸药"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What spreads a vehicle's load?",
+          "answer": "Air pressure and the flexible tyre structure.",
+          "explanation": "气压和可变形轮胎结构分散载荷。"
+        },
+        {
+          "prompt": "What makes a tubeless design harder?",
+          "answer": "The rim must be sealed carefully.",
+          "explanation": "无内胎设计要求轮圈严密密封。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d020-3",
+      "title": "Cheap Products Can Be Expensive",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "A cheap product can look brilliant in a shop yet fail after a few months of ordinary use. Synthetic materials are not automatically bad; many are durable, light, and easy to clean. The real problem is a complicated supply chain that hides repairability and working conditions. Consumers with diverse incomes still deserve clear information about expected life and replacement parts. The belief that low price always saves money disappears when the same item must be bought repeatedly.",
+      "translation": "便宜商品在店里可能光鲜亮丽，却会在正常使用几个月后损坏。合成材料并非天然不好，许多材料耐用、轻便且易清洁。真正的问题是复杂供应链掩盖了可维修性和劳动条件。收入不同的消费者都应获得关于预期寿命和替换零件的清晰信息。当同一物品必须反复购买时，低价总能省钱的观念就站不住脚了。",
+      "sentences": [
+        {
+          "en": "A cheap product can look brilliant in a shop yet fail after a few months of ordinary use.",
+          "zh": "便宜商品在店里可能光鲜亮丽，却会在正常使用几个月后损坏。"
+        },
+        {
+          "en": "Synthetic materials are not automatically bad; many are durable, light, and easy to clean.",
+          "zh": "合成材料并非天然不好，许多材料耐用、轻便且易清洁。"
+        },
+        {
+          "en": "The real problem is a complicated supply chain that hides repairability and working conditions.",
+          "zh": "真正的问题是复杂供应链掩盖了可维修性和劳动条件。"
+        },
+        {
+          "en": "Consumers with diverse incomes still deserve clear information about expected life and replacement parts.",
+          "zh": "收入不同的消费者都应获得关于预期寿命和替换零件的清晰信息。"
+        },
+        {
+          "en": "The belief that low price always saves money disappears when the same item must be bought repeatedly.",
+          "zh": "当同一物品必须反复购买时，低价总能省钱的观念就站不住脚了。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "cheap",
+          "meaning": "a. 便宜的;低劣的,不值钱的"
+        },
+        {
+          "word": "brilliant",
+          "meaning": "a. 光辉的,英明的"
+        },
+        {
+          "word": "synthetic",
+          "meaning": "a. 人工合成的"
+        },
+        {
+          "word": "diverse",
+          "meaning": "a. 多种多样的,各不相同的"
+        },
+        {
+          "word": "complicated",
+          "meaning": "a. 结构复杂的;困难的"
+        },
+        {
+          "word": "belief",
+          "meaning": "n. 信任,相信,信念;信仰,信条"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Are synthetic materials always poor quality?",
+          "answer": "No; many are durable and useful.",
+          "explanation": "合成材料并不必然质量差。"
+        },
+        {
+          "prompt": "What information should buyers receive?",
+          "answer": "Expected life and available replacement parts.",
+          "explanation": "买家应知道预期寿命和配件供应情况。"
+        }
+      ]
+    }
+  ]
+}
