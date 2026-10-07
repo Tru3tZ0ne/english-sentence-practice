@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 42,
+  "articles": [
+    {
+      "id": "cet4-reading-d042-1",
+      "title": "The Orient File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "A student at a medieval meadow exhibition photographed midst—the location of something surrounded by other things—and sketched millionaire—a person whose material wealth is valued at more than. Inside a medieval meadow exhibition, the curator corrected labels for miniature (painting or drawing included in a book) and minibus (a light bus). When a shelf shifted at a medieval meadow exhibition, staff protected files on mistress (an adulterous woman) and monster (an imaginary creature). A quiet corner of a medieval meadow exhibition presented motel (a motor hotel); a recording nearby introduced napkin (a small piece of table linen). During a tour of a medieval meadow exhibition, the class found offspring (the immediate descendants of a person) before locating orient (the countries of Asia).",
+      "translation": "学生在中世纪草地展览记录中间,当中（midst）后，又到另一处展区了解百万富翁（millionaire），两项内容分别得到清楚说明。中世纪草地展览的策展人先纠正缩小的模型,缩图a. 微型的,缩小的（miniature）的标签错误，随后发现关于中客车,小型公共汽车(我国俗称面包车,乘员10人左右)（minibus）的材料也放错了位置。中世纪草地展览的架子倒下时，员工保护了有关女主人（mistress）的材料，也找回了旁边关于畸形的动植物,怪物（monster）的档案。中世纪草地展览安静的一角介绍汽车旅馆（motel），旁边的录音访谈则讲述餐巾,餐巾纸,<英>尿布（napkin）背后的人物故事。中世纪草地展览的参观先让学生认识子孙后代,动物的幼仔（offspring）；一块丢失的标牌又把他们带到东方,亚洲v. 使朝东,为...定位,使适应（orient）。",
+      "sentences": [
+        {
+          "en": "A student at a medieval meadow exhibition photographed midst—the location of something surrounded by other things—and sketched millionaire—a person whose material wealth is valued at more than.",
+          "zh": "学生在中世纪草地展览记录中间,当中（midst）后，又到另一处展区了解百万富翁（millionaire），两项内容分别得到清楚说明。"
+        },
+        {
+          "en": "Inside a medieval meadow exhibition, the curator corrected labels for miniature (painting or drawing included in a book) and minibus (a light bus).",
+          "zh": "中世纪草地展览的策展人先纠正缩小的模型,缩图a. 微型的,缩小的（miniature）的标签错误，随后发现关于中客车,小型公共汽车(我国俗称面包车,乘员10人左右)（minibus）的材料也放错了位置。"
+        },
+        {
+          "en": "When a shelf shifted at a medieval meadow exhibition, staff protected files on mistress (an adulterous woman) and monster (an imaginary creature).",
+          "zh": "中世纪草地展览的架子倒下时，员工保护了有关女主人（mistress）的材料，也找回了旁边关于畸形的动植物,怪物（monster）的档案。"
+        },
+        {
+          "en": "A quiet corner of a medieval meadow exhibition presented motel (a motor hotel); a recording nearby introduced napkin (a small piece of table linen).",
+          "zh": "中世纪草地展览安静的一角介绍汽车旅馆（motel），旁边的录音访谈则讲述餐巾,餐巾纸,<英>尿布（napkin）背后的人物故事。"
+        },
+        {
+          "en": "During a tour of a medieval meadow exhibition, the class found offspring (the immediate descendants of a person) before locating orient (the countries of Asia).",
+          "zh": "中世纪草地展览的参观先让学生认识子孙后代,动物的幼仔（offspring）；一块丢失的标牌又把他们带到东方,亚洲v. 使朝东,为...定位,使适应（orient）。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "midst",
+          "meaning": "n. 中间,当中"
+        },
+        {
+          "word": "millionaire",
+          "meaning": "n. 百万富翁"
+        },
+        {
+          "word": "miniature",
+          "meaning": "n. 缩小的模型,缩图a. 微型的,缩小的"
+        },
+        {
+          "word": "minibus",
+          "meaning": "n.中客车,小型公共汽车(我国俗称面包车,乘员10人左右)"
+        },
+        {
+          "word": "mistress",
+          "meaning": "n. 女主人;主妇;情妇,情人"
+        },
+        {
+          "word": "monster",
+          "meaning": "n. 畸形的动植物,怪物;恶人"
+        },
+        {
+          "word": "motel",
+          "meaning": "n. 汽车旅馆"
+        },
+        {
+          "word": "napkin",
+          "meaning": "n. 餐巾,餐巾纸,<英>尿布"
+        },
+        {
+          "word": "offspring",
+          "meaning": "n. 子孙后代,动物的幼仔"
+        },
+        {
+          "word": "orient",
+          "meaning": "n. 东方,亚洲v. 使朝东,为...定位,使适应"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "orient",
+          "explanation": "最后一个目标词是东方,亚洲v. 使朝东,为...定位,使适应（orient）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d042-2",
+      "title": "Understanding Nickel Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "To avoid ambiguity, a medieval meadow exhibition explains nickel as a hard malleable ductile silvery metallic element and nutrition as physiology the organic process of nourishing or being nourished. A chart in a medieval meadow exhibition defines oak as the hard durable wood of any oak and olive as small ovoid fruit of the European olive tree on different branches. Researchers at a medieval meadow exhibition use massacre for the savage and excessive killing of many people, but reserve masterpiece for the most outstanding work of a creative artist or craftsman. The glossary at a medieval meadow exhibition defines meadow as a field and cross-references melody, meaning a succession of notes forming a distinctive sequence. One panel in a medieval meadow exhibition illustrates menace (something); the next describes messenger (a person).",
+      "translation": "为避免歧义，中世纪草地展览的教师分别说明镍,美国五分镍币（nickel）和营养, 营养学。（nutrition），再用实例展示各自用法。中世纪草地展览的图表把橡树,橡木a. 橡木的（oak）和橄榄,橄榄树（olive）放在不同分支，让读者清楚看见两者区别。中世纪草地展览的研究记录分别使用大屠杀,残杀（massacre）和杰作,名著（masterpiece）；由于含义不同，二者需要不同证据。中世纪草地展览的词汇表定义草地（meadow），并以交叉索引引导读者查看旋律,曲调（melody），但不把二者视为相同。中世纪草地展览第一块展板说明威胁,威吓（menace），下一块介绍送信者,使者,传令兵（messenger），访客因而能比较两个准确概念。",
+      "sentences": [
+        {
+          "en": "To avoid ambiguity, a medieval meadow exhibition explains nickel as a hard malleable ductile silvery metallic element and nutrition as physiology the organic process of nourishing or being nourished.",
+          "zh": "为避免歧义，中世纪草地展览的教师分别说明镍,美国五分镍币（nickel）和营养, 营养学。（nutrition），再用实例展示各自用法。"
+        },
+        {
+          "en": "A chart in a medieval meadow exhibition defines oak as the hard durable wood of any oak and olive as small ovoid fruit of the European olive tree on different branches.",
+          "zh": "中世纪草地展览的图表把橡树,橡木a. 橡木的（oak）和橄榄,橄榄树（olive）放在不同分支，让读者清楚看见两者区别。"
+        },
+        {
+          "en": "Researchers at a medieval meadow exhibition use massacre for the savage and excessive killing of many people, but reserve masterpiece for the most outstanding work of a creative artist or craftsman.",
+          "zh": "中世纪草地展览的研究记录分别使用大屠杀,残杀（massacre）和杰作,名著（masterpiece）；由于含义不同，二者需要不同证据。"
+        },
+        {
+          "en": "The glossary at a medieval meadow exhibition defines meadow as a field and cross-references melody, meaning a succession of notes forming a distinctive sequence.",
+          "zh": "中世纪草地展览的词汇表定义草地（meadow），并以交叉索引引导读者查看旋律,曲调（melody），但不把二者视为相同。"
+        },
+        {
+          "en": "One panel in a medieval meadow exhibition illustrates menace (something); the next describes messenger (a person).",
+          "zh": "中世纪草地展览第一块展板说明威胁,威吓（menace），下一块介绍送信者,使者,传令兵（messenger），访客因而能比较两个准确概念。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "nickel",
+          "meaning": "n. 镍,美国五分镍币"
+        },
+        {
+          "word": "nutrition",
+          "meaning": "n.营养, 营养学。"
+        },
+        {
+          "word": "oak",
+          "meaning": "n. 橡树,橡木a. 橡木的"
+        },
+        {
+          "word": "olive",
+          "meaning": "n.橄榄,橄榄树"
+        },
+        {
+          "word": "massacre",
+          "meaning": "n./vt. 大屠杀,残杀"
+        },
+        {
+          "word": "masterpiece",
+          "meaning": "n. 杰作,名著"
+        },
+        {
+          "word": "meadow",
+          "meaning": "n. 草地"
+        },
+        {
+          "word": "melody",
+          "meaning": "n. 旋律,曲调;悦耳的音乐"
+        },
+        {
+          "word": "menace",
+          "meaning": "n. 威胁,威吓;具有危险性的人(或物);vt. 威胁,威吓"
+        },
+        {
+          "word": "messenger",
+          "meaning": "n. 送信者,使者,传令兵"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d042-3",
+      "title": "Why Nickname Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "Decision makers at a medieval meadow exhibition cannot evaluate misery (a state of ill-being due to affliction or misfortune) while excluding moan (an utterance expressing pain or disapproval). Residents near a medieval meadow exhibition debated mob (a disorderly crowd of people) and module (one of the inherent cognitive or perceptual powers), then requested written evidence. Policy at a medieval meadow exhibition should address momentum—an impelling force or strength—without ignoring monopoly—economics a market in which there are many buyers but. Before approving change at a medieval meadow exhibition, leaders must explain morality (concern with the distinction between good and evil or right) and risks involving mortgage (a conditional conveyance of property as security for the repayment). Funding choices at a medieval meadow exhibition require clear definitions of myth (a traditional story accepted as history) and nickname (a familiar name for a person).",
+      "translation": "中世纪草地展览的决策者不能只评估痛苦,悲惨,不幸（misery），却把呻吟声,悲叹声v. 呻吟,抱怨,悲叹（moan）排除在公开证据之外。中世纪草地展览附近居民讨论乌合之众(尤指暴力者)vi. 围攻,聚众闹事（mob）和组件,模块,模件（module）后，要求书面说明成本与责任。中世纪草地展览的政策应处理动力, 要素。（momentum），也不能忽视垄断,专卖权（monopoly）；两者都需要证据而非口号。批准中世纪草地展览的改变前，领导者应解释道德,美德（morality）为何重要，以及谁承担抵押。v.抵押。（mortgage）带来的风险。中世纪草地展览的官员清楚定义神话,传说,虚构的人或物（myth）并解释方案如何回应绰号,浑名vt. 给...起绰号（nickname），资金选择才会更明白。",
+      "sentences": [
+        {
+          "en": "Decision makers at a medieval meadow exhibition cannot evaluate misery (a state of ill-being due to affliction or misfortune) while excluding moan (an utterance expressing pain or disapproval).",
+          "zh": "中世纪草地展览的决策者不能只评估痛苦,悲惨,不幸（misery），却把呻吟声,悲叹声v. 呻吟,抱怨,悲叹（moan）排除在公开证据之外。"
+        },
+        {
+          "en": "Residents near a medieval meadow exhibition debated mob (a disorderly crowd of people) and module (one of the inherent cognitive or perceptual powers), then requested written evidence.",
+          "zh": "中世纪草地展览附近居民讨论乌合之众(尤指暴力者)vi. 围攻,聚众闹事（mob）和组件,模块,模件（module）后，要求书面说明成本与责任。"
+        },
+        {
+          "en": "Policy at a medieval meadow exhibition should address momentum—an impelling force or strength—without ignoring monopoly—economics a market in which there are many buyers but.",
+          "zh": "中世纪草地展览的政策应处理动力, 要素。（momentum），也不能忽视垄断,专卖权（monopoly）；两者都需要证据而非口号。"
+        },
+        {
+          "en": "Before approving change at a medieval meadow exhibition, leaders must explain morality (concern with the distinction between good and evil or right) and risks involving mortgage (a conditional conveyance of property as security for the repayment).",
+          "zh": "批准中世纪草地展览的改变前，领导者应解释道德,美德（morality）为何重要，以及谁承担抵押。v.抵押。（mortgage）带来的风险。"
+        },
+        {
+          "en": "Funding choices at a medieval meadow exhibition require clear definitions of myth (a traditional story accepted as history) and nickname (a familiar name for a person).",
+          "zh": "中世纪草地展览的官员清楚定义神话,传说,虚构的人或物（myth）并解释方案如何回应绰号,浑名vt. 给...起绰号（nickname），资金选择才会更明白。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "misery",
+          "meaning": "n. 痛苦,悲惨,不幸"
+        },
+        {
+          "word": "moan",
+          "meaning": "n. 呻吟声,悲叹声v. 呻吟,抱怨,悲叹"
+        },
+        {
+          "word": "mob",
+          "meaning": "n. 乌合之众(尤指暴力者)vi. 围攻,聚众闹事"
+        },
+        {
+          "word": "module",
+          "meaning": "n. 组件,模块,模件;(航天器的)舱"
+        },
+        {
+          "word": "momentum",
+          "meaning": "n.动力, 要素。"
+        },
+        {
+          "word": "monopoly",
+          "meaning": "n. 垄断,专卖权"
+        },
+        {
+          "word": "morality",
+          "meaning": "n. 道德,美德;伦理体系"
+        },
+        {
+          "word": "mortgage",
+          "meaning": "n.抵押。v.抵押。"
+        },
+        {
+          "word": "myth",
+          "meaning": "n. 神话,传说,虚构的人或物"
+        },
+        {
+          "word": "nickname",
+          "meaning": "n. 绰号,浑名vt. 给...起绰号"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

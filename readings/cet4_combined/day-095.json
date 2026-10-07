@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 95,
+  "articles": [
+    {
+      "id": "cet4-reading-d095-1",
+      "title": "The Briefcase File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "During a tour of a botanical river conservatory, the class found apparel (clothing in general) before locating slate (formerly a writing tablet made of slate). Inside a botanical river conservatory, the curator corrected labels for confluence (a place) and stuffing (a mixture of seasoned ingredients used to stuff meats). A student at a botanical river conservatory photographed antenna—an electrical device—and sketched culprit—someone. When a shelf shifted at a botanical river conservatory, staff protected files on grate (a frame of iron bars to hold a fire) and bungalow (a small house with a single story). Two volunteers at a botanical river conservatory used the inventory to identify sled (a vehicle mounted on runners and pulled by horses) and briefcase (a case with a handle).",
+      "translation": "河畔植物温室的参观先让学生认识衣服, 装饰。（apparel）；一块丢失的标牌又把他们带到板岩, 石板, 石片, 蓝色。adj.暗蓝灰色的, 含板岩的。v.铺石板。（slate）。河畔植物温室的策展人先纠正汇合。（confluence）的标签错误，随后发现关于填塞料。（stuffing）的材料也放错了位置。学生在河畔植物温室记录天线。（antenna）后，又到另一处展区了解犯人。（culprit），两项内容分别得到清楚说明。河畔植物温室的架子倒下时，员工保护了有关壁炉, 炉。（grate）的材料，也找回了旁边关于(带走廊的)平房。（bungalow）的档案。河畔植物温室的两名志愿者借助清单确认雪橇, 摘棉。v.乘雪橇, 用雪橇运, 用摘棉机摘。（sled），并顺带找到另一条关于(扁平的, 柔韧的, 装文件, 书报的)公文包。（briefcase）的记录。",
+      "sentences": [
+        {
+          "en": "During a tour of a botanical river conservatory, the class found apparel (clothing in general) before locating slate (formerly a writing tablet made of slate).",
+          "zh": "河畔植物温室的参观先让学生认识衣服, 装饰。（apparel）；一块丢失的标牌又把他们带到板岩, 石板, 石片, 蓝色。adj.暗蓝灰色的, 含板岩的。v.铺石板。（slate）。"
+        },
+        {
+          "en": "Inside a botanical river conservatory, the curator corrected labels for confluence (a place) and stuffing (a mixture of seasoned ingredients used to stuff meats).",
+          "zh": "河畔植物温室的策展人先纠正汇合。（confluence）的标签错误，随后发现关于填塞料。（stuffing）的材料也放错了位置。"
+        },
+        {
+          "en": "A student at a botanical river conservatory photographed antenna—an electrical device—and sketched culprit—someone.",
+          "zh": "学生在河畔植物温室记录天线。（antenna）后，又到另一处展区了解犯人。（culprit），两项内容分别得到清楚说明。"
+        },
+        {
+          "en": "When a shelf shifted at a botanical river conservatory, staff protected files on grate (a frame of iron bars to hold a fire) and bungalow (a small house with a single story).",
+          "zh": "河畔植物温室的架子倒下时，员工保护了有关壁炉, 炉。（grate）的材料，也找回了旁边关于(带走廊的)平房。（bungalow）的档案。"
+        },
+        {
+          "en": "Two volunteers at a botanical river conservatory used the inventory to identify sled (a vehicle mounted on runners and pulled by horses) and briefcase (a case with a handle).",
+          "zh": "河畔植物温室的两名志愿者借助清单确认雪橇, 摘棉。v.乘雪橇, 用雪橇运, 用摘棉机摘。（sled），并顺带找到另一条关于(扁平的, 柔韧的, 装文件, 书报的)公文包。（briefcase）的记录。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "apparel",
+          "meaning": "n.衣服, 装饰。"
+        },
+        {
+          "word": "slate",
+          "meaning": "n.板岩, 石板, 石片, 蓝色。adj.暗蓝灰色的, 含板岩的。v.铺石板。"
+        },
+        {
+          "word": "confluence",
+          "meaning": "n.汇合。"
+        },
+        {
+          "word": "stuffing",
+          "meaning": "n.填塞料。"
+        },
+        {
+          "word": "antenna",
+          "meaning": "n.天线。"
+        },
+        {
+          "word": "culprit",
+          "meaning": "n.犯人。"
+        },
+        {
+          "word": "grate",
+          "meaning": "n.壁炉, 炉。"
+        },
+        {
+          "word": "bungalow",
+          "meaning": "n.(带走廊的)平房。"
+        },
+        {
+          "word": "sled",
+          "meaning": "n.雪橇, 摘棉。v.乘雪橇, 用雪橇运, 用摘棉机摘。"
+        },
+        {
+          "word": "briefcase",
+          "meaning": "n.(扁平的, 柔韧的, 装文件, 书报的)公文包。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "briefcase",
+          "explanation": "最后一个目标词是(扁平的, 柔韧的, 装文件, 书报的)公文包。（briefcase）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d095-2",
+      "title": "Understanding Parakeet Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "By separating parakeet (any of numerous small slender long-tailed parrots) from bitumen (any of various naturally occurring impure mixtures of hydrocarbons), a botanical river conservatory turns definitions into usable knowledge. Researchers at a botanical river conservatory use petunia for any of numerous tropical herbs, but reserve deuterium for an isotope of hydrogen. At a botanical river conservatory, gypsum means a common white or colorless mineral, whereas mischance means an unpredictable outcome; separate examples prevent confusion. A classification exercise at a botanical river conservatory compares helium (a very light colorless element) with chromosome (a threadlike strand of DNA in the cell nucleus). Students at a botanical river conservatory summarize alkali as any of various water-soluble compounds capable of turning litmus blue and adrenalin as a catecholamine secreted by the adrenal medulla in response, then test new examples.",
+      "translation": "河畔植物温室把鸟]长尾小鹦鹉。（parakeet）与沥青。（bitumen）分开考察，使两个陌生概念转化为可使用的知识。河畔植物温室的研究记录分别使用植]矮牵牛花。（petunia）和化]氘。（deuterium）；由于含义不同，二者需要不同证据。河畔植物温室的课程分别解释矿]石膏, [农]石膏肥料。vt.施石膏肥料于, 用石膏处理（gypsum）与不幸, 灾难。（mischance），避免学习者因定义不同而进行错误比较。河畔植物温室的分类练习把氦(化学元素, 符号为He)。（helium）与生物]染色体。（chromosome）并列，要求学习者找出两者不同特征。河畔植物温室的学生分别概括化]碱。adj.碱性的。（alkali）与生化]肾上腺素。（adrenalin），随后检验新实例是否符合定义。",
+      "sentences": [
+        {
+          "en": "By separating parakeet (any of numerous small slender long-tailed parrots) from bitumen (any of various naturally occurring impure mixtures of hydrocarbons), a botanical river conservatory turns definitions into usable knowledge.",
+          "zh": "河畔植物温室把鸟]长尾小鹦鹉。（parakeet）与沥青。（bitumen）分开考察，使两个陌生概念转化为可使用的知识。"
+        },
+        {
+          "en": "Researchers at a botanical river conservatory use petunia for any of numerous tropical herbs, but reserve deuterium for an isotope of hydrogen.",
+          "zh": "河畔植物温室的研究记录分别使用植]矮牵牛花。（petunia）和化]氘。（deuterium）；由于含义不同，二者需要不同证据。"
+        },
+        {
+          "en": "At a botanical river conservatory, gypsum means a common white or colorless mineral, whereas mischance means an unpredictable outcome; separate examples prevent confusion.",
+          "zh": "河畔植物温室的课程分别解释矿]石膏, [农]石膏肥料。vt.施石膏肥料于, 用石膏处理（gypsum）与不幸, 灾难。（mischance），避免学习者因定义不同而进行错误比较。"
+        },
+        {
+          "en": "A classification exercise at a botanical river conservatory compares helium (a very light colorless element) with chromosome (a threadlike strand of DNA in the cell nucleus).",
+          "zh": "河畔植物温室的分类练习把氦(化学元素, 符号为He)。（helium）与生物]染色体。（chromosome）并列，要求学习者找出两者不同特征。"
+        },
+        {
+          "en": "Students at a botanical river conservatory summarize alkali as any of various water-soluble compounds capable of turning litmus blue and adrenalin as a catecholamine secreted by the adrenal medulla in response, then test new examples.",
+          "zh": "河畔植物温室的学生分别概括化]碱。adj.碱性的。（alkali）与生化]肾上腺素。（adrenalin），随后检验新实例是否符合定义。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "parakeet",
+          "meaning": "n.[鸟]长尾小鹦鹉。"
+        },
+        {
+          "word": "bitumen",
+          "meaning": "n.沥青。"
+        },
+        {
+          "word": "petunia",
+          "meaning": "n.[植]矮牵牛花。"
+        },
+        {
+          "word": "deuterium",
+          "meaning": "n.[化]氘。"
+        },
+        {
+          "word": "gypsum",
+          "meaning": "n.[矿]石膏, [农]石膏肥料。vt.施石膏肥料于, 用石膏处理"
+        },
+        {
+          "word": "mischance",
+          "meaning": "n.不幸, 灾难。"
+        },
+        {
+          "word": "helium",
+          "meaning": "n.氦(化学元素, 符号为He)。"
+        },
+        {
+          "word": "chromosome",
+          "meaning": "n.[生物]染色体。"
+        },
+        {
+          "word": "alkali",
+          "meaning": "n.[化]碱。adj.碱性的。"
+        },
+        {
+          "word": "adrenalin",
+          "meaning": "n.[生化]肾上腺素。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d095-3",
+      "title": "Why Botany Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "Long-term planning at a botanical river conservatory needs indicators for dysentery (an infection of the intestines) and independent scrutiny of indemnity (protection against future loss). Policy at a botanical river conservatory should address liaison—a—without ignoring ensemble—a group of musicians playing or singing together. Decision makers at a botanical river conservatory cannot evaluate gender (a grammatical category in inflected languages governing the agreement between) while excluding catalogue (a complete list of things). The strongest argument at a botanical river conservatory supported paternity (the state of being a father) but demanded safeguards for conservatory (the faculty and students of a school specializing in one). An open meeting at a botanical river conservatory joined practical questions about generality (an idea or conclusion) with concerns about botany (all the plant life in a particular region or period).",
+      "translation": "河畔植物温室的长期规划应公布医] 痢疾。（dysentery）指标，也应允许独立人员审查有关保证物, 赔偿物, 赔款, 补偿, 保证。（indemnity）的主张。河畔植物温室的政策应处理联络, (语音)连音。（liaison），也不能忽视<法>全体, [音]合唱曲, 全体演出者。（ensemble）；两者都需要证据而非口号。河畔植物温室的决策者不能只评估语法] 性, <口>性别, 性, 性交。（gender），却把目录。（catalogue）排除在公开证据之外。河畔植物温室最有力的论证支持处理父权, 父子关系。（paternity），同时要求在温室, 音乐学校。（conservatory）受影响时设置保障。河畔植物温室的公开会议把有关一般性。（generality）的实际问题与植物学。（botany）带来的伦理问题一同讨论。",
+      "sentences": [
+        {
+          "en": "Long-term planning at a botanical river conservatory needs indicators for dysentery (an infection of the intestines) and independent scrutiny of indemnity (protection against future loss).",
+          "zh": "河畔植物温室的长期规划应公布医] 痢疾。（dysentery）指标，也应允许独立人员审查有关保证物, 赔偿物, 赔款, 补偿, 保证。（indemnity）的主张。"
+        },
+        {
+          "en": "Policy at a botanical river conservatory should address liaison—a—without ignoring ensemble—a group of musicians playing or singing together.",
+          "zh": "河畔植物温室的政策应处理联络, (语音)连音。（liaison），也不能忽视<法>全体, [音]合唱曲, 全体演出者。（ensemble）；两者都需要证据而非口号。"
+        },
+        {
+          "en": "Decision makers at a botanical river conservatory cannot evaluate gender (a grammatical category in inflected languages governing the agreement between) while excluding catalogue (a complete list of things).",
+          "zh": "河畔植物温室的决策者不能只评估语法] 性, <口>性别, 性, 性交。（gender），却把目录。（catalogue）排除在公开证据之外。"
+        },
+        {
+          "en": "The strongest argument at a botanical river conservatory supported paternity (the state of being a father) but demanded safeguards for conservatory (the faculty and students of a school specializing in one).",
+          "zh": "河畔植物温室最有力的论证支持处理父权, 父子关系。（paternity），同时要求在温室, 音乐学校。（conservatory）受影响时设置保障。"
+        },
+        {
+          "en": "An open meeting at a botanical river conservatory joined practical questions about generality (an idea or conclusion) with concerns about botany (all the plant life in a particular region or period).",
+          "zh": "河畔植物温室的公开会议把有关一般性。（generality）的实际问题与植物学。（botany）带来的伦理问题一同讨论。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "dysentery",
+          "meaning": "n.[医] 痢疾。"
+        },
+        {
+          "word": "indemnity",
+          "meaning": "n.保证物, 赔偿物, 赔款, 补偿, 保证。"
+        },
+        {
+          "word": "liaison",
+          "meaning": "n.联络, (语音)连音。"
+        },
+        {
+          "word": "ensemble",
+          "meaning": "n.<法>全体, [音]合唱曲, 全体演出者。"
+        },
+        {
+          "word": "gender",
+          "meaning": "n.[语法] 性, <口>性别, 性, 性交。"
+        },
+        {
+          "word": "catalogue",
+          "meaning": "n.目录。"
+        },
+        {
+          "word": "paternity",
+          "meaning": "n.父权, 父子关系。"
+        },
+        {
+          "word": "conservatory",
+          "meaning": "n.温室, 音乐学校。"
+        },
+        {
+          "word": "generality",
+          "meaning": "n.一般性。"
+        },
+        {
+          "word": "botany",
+          "meaning": "n.植物学。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

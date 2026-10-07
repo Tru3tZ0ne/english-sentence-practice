@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 78,
+  "articles": [
+    {
+      "id": "cet4-reading-d078-1",
+      "title": "The Hamburger File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "Near closing time at a French charity theater, a diary linked the displays of actress (a female actor) and outturn (what is produced in a given time period). During a tour of a French charity theater, the class found slipper (low footwear) before locating Japan (a string of more than). The morning program at a French charity theater paired a section on den (the habitation of wild animals) with one on monarch (a nation's ruler or head of state). A quiet corner of a French charity theater presented porridge (soft food); a recording nearby introduced telex (a character printer connected to a telegraph). A visitor entered a French charity theater asking about snowman (a figure of a person) and left with a note on hamburger (a sandwich).",
+      "translation": "法国慈善剧场闭馆前，一本提到女演员（actress）的日记帮助员工找到了一幅标有卸货情况（outturn）的画的主人。法国慈善剧场的参观先让学生认识便鞋,拖鞋（slipper）；一块丢失的标牌又把他们带到日本,日本国（Japan）。法国慈善剧场的上午活动把窝（den）与另一项关于帝王,君主,最高统治者（monarch）的展览相邻安排，但没有混淆两者。法国慈善剧场安静的一角介绍粥,麦片粥（porridge），旁边的录音访谈则讲述用户电报,直通专用电传（telex）背后的人物故事。访客到法国慈善剧场询问雪人（snowman），旧平面图却意外引导她发现了汉堡包,牛肉饼（hamburger）。",
+      "sentences": [
+        {
+          "en": "Near closing time at a French charity theater, a diary linked the displays of actress (a female actor) and outturn (what is produced in a given time period).",
+          "zh": "法国慈善剧场闭馆前，一本提到女演员（actress）的日记帮助员工找到了一幅标有卸货情况（outturn）的画的主人。"
+        },
+        {
+          "en": "During a tour of a French charity theater, the class found slipper (low footwear) before locating Japan (a string of more than).",
+          "zh": "法国慈善剧场的参观先让学生认识便鞋,拖鞋（slipper）；一块丢失的标牌又把他们带到日本,日本国（Japan）。"
+        },
+        {
+          "en": "The morning program at a French charity theater paired a section on den (the habitation of wild animals) with one on monarch (a nation's ruler or head of state).",
+          "zh": "法国慈善剧场的上午活动把窝（den）与另一项关于帝王,君主,最高统治者（monarch）的展览相邻安排，但没有混淆两者。"
+        },
+        {
+          "en": "A quiet corner of a French charity theater presented porridge (soft food); a recording nearby introduced telex (a character printer connected to a telegraph).",
+          "zh": "法国慈善剧场安静的一角介绍粥,麦片粥（porridge），旁边的录音访谈则讲述用户电报,直通专用电传（telex）背后的人物故事。"
+        },
+        {
+          "en": "A visitor entered a French charity theater asking about snowman (a figure of a person) and left with a note on hamburger (a sandwich).",
+          "zh": "访客到法国慈善剧场询问雪人（snowman），旧平面图却意外引导她发现了汉堡包,牛肉饼（hamburger）。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "actress",
+          "meaning": "n. 女演员"
+        },
+        {
+          "word": "outturn",
+          "meaning": "n.卸货情况"
+        },
+        {
+          "word": "slipper",
+          "meaning": "n. 便鞋,拖鞋"
+        },
+        {
+          "word": "Japan",
+          "meaning": "n.日本,日本国"
+        },
+        {
+          "word": "den",
+          "meaning": "n.窝"
+        },
+        {
+          "word": "monarch",
+          "meaning": "n. 帝王,君主,最高统治者"
+        },
+        {
+          "word": "porridge",
+          "meaning": "n.粥,麦片粥"
+        },
+        {
+          "word": "telex",
+          "meaning": "n. 用户电报,直通专用电传"
+        },
+        {
+          "word": "snowman",
+          "meaning": "n.雪人"
+        },
+        {
+          "word": "hamburger",
+          "meaning": "n. 汉堡包,牛肉饼"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "hamburger",
+          "explanation": "最后一个目标词是汉堡包,牛肉饼（hamburger）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d078-2",
+      "title": "Understanding Chestnut Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "A chart in a French charity theater defines chestnut as wood of any of various chestnut trees of the genus and lily as any liliaceous plant of the genus Lilium on different branches. At a French charity theater, mushroom means common name for an edible agaric, whereas shake means building material used as siding or roofing; separate examples prevent confusion. By separating rooster (adult) from France (a republic in western Europe), a French charity theater turns definitions into usable knowledge. To avoid ambiguity, a French charity theater explains competitor as the contestant you hope to defeat and vanity as feelings of excessive pride. The glossary at a French charity theater defines pickpocket as a thief and cross-references tomb, meaning a place for the burial of a corpse.",
+      "translation": "法国慈善剧场的图表把栗子（chestnut）和百合,百合花,睡莲（lily）放在不同分支，让读者清楚看见两者区别。法国慈善剧场的课程分别解释蘑菇（mushroom）与摇动,摇（shake），避免学习者因定义不同而进行错误比较。法国慈善剧场把公鸡（rooster）与法国,法兰西（France）分开考察，使两个陌生概念转化为可使用的知识。为避免歧义，法国慈善剧场的教师分别说明竞争者,敌手（competitor）和自大,虚荣（vanity），再用实例展示各自用法。法国慈善剧场的词汇表定义扒手,小偷（pickpocket），并以交叉索引引导读者查看坟,冢（tomb），但不把二者视为相同。",
+      "sentences": [
+        {
+          "en": "A chart in a French charity theater defines chestnut as wood of any of various chestnut trees of the genus and lily as any liliaceous plant of the genus Lilium on different branches.",
+          "zh": "法国慈善剧场的图表把栗子（chestnut）和百合,百合花,睡莲（lily）放在不同分支，让读者清楚看见两者区别。"
+        },
+        {
+          "en": "At a French charity theater, mushroom means common name for an edible agaric, whereas shake means building material used as siding or roofing; separate examples prevent confusion.",
+          "zh": "法国慈善剧场的课程分别解释蘑菇（mushroom）与摇动,摇（shake），避免学习者因定义不同而进行错误比较。"
+        },
+        {
+          "en": "By separating rooster (adult) from France (a republic in western Europe), a French charity theater turns definitions into usable knowledge.",
+          "zh": "法国慈善剧场把公鸡（rooster）与法国,法兰西（France）分开考察，使两个陌生概念转化为可使用的知识。"
+        },
+        {
+          "en": "To avoid ambiguity, a French charity theater explains competitor as the contestant you hope to defeat and vanity as feelings of excessive pride.",
+          "zh": "为避免歧义，法国慈善剧场的教师分别说明竞争者,敌手（competitor）和自大,虚荣（vanity），再用实例展示各自用法。"
+        },
+        {
+          "en": "The glossary at a French charity theater defines pickpocket as a thief and cross-references tomb, meaning a place for the burial of a corpse.",
+          "zh": "法国慈善剧场的词汇表定义扒手,小偷（pickpocket），并以交叉索引引导读者查看坟,冢（tomb），但不把二者视为相同。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "chestnut",
+          "meaning": "n.栗子;栗树;栗色"
+        },
+        {
+          "word": "lily",
+          "meaning": "n.百合,百合花,睡莲"
+        },
+        {
+          "word": "mushroom",
+          "meaning": "n. 蘑菇; vi. 迅速发展"
+        },
+        {
+          "word": "shake",
+          "meaning": "n./v. 摇动,摇;颤抖,震动"
+        },
+        {
+          "word": "rooster",
+          "meaning": "n.公鸡;狂妄自负的人"
+        },
+        {
+          "word": "France",
+          "meaning": "n.法国,法兰西"
+        },
+        {
+          "word": "competitor",
+          "meaning": "n.竞争者,敌手"
+        },
+        {
+          "word": "vanity",
+          "meaning": "n. 自大,虚荣;无价值,空虚"
+        },
+        {
+          "word": "pickpocket",
+          "meaning": "n.扒手,小偷"
+        },
+        {
+          "word": "tomb",
+          "meaning": "n. 坟,冢"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d078-3",
+      "title": "Why Linguistics Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "The strongest argument at a French charity theater supported uproar (a state of commotion and noise and confusion) but demanded safeguards for diction (the articulation of speech regarded from the point of view). A proposal for a French charity theater prioritizes subscription (a payment for consecutive issues of a newspaper or magazine), while critics emphasize erasure (a correction). Funding choices at a French charity theater require clear definitions of charity (a foundation created to promote the public good) and chaos (a state of extreme confusion and disorder). Policy at a French charity theater should address quiz—an examination—without ignoring discrimination—unfair treatment of a person or group on the basis. Public trust at a French charity theater needs honest discussion of monotony (the quality of wearisome constancy) and measurable commitments on linguistics (the scientific study of language).",
+      "translation": "法国慈善剧场最有力的论证支持处理骚动,喧嚣,鼎沸（uproar），同时要求在措辞（diction）受影响时设置保障。法国慈善剧场的方案优先处理预约,用户,订阅费（subscription），批评者则认为抹去（erasure）也应得到同等关注。法国慈善剧场的官员清楚定义赈济款、物,慈善团体,博爱（charity）并解释方案如何回应混乱,纷乱（chaos），资金选择才会更明白。法国慈善剧场的政策应处理小型考试,测验,问答比赛（quiz），也不能忽视辨别（discrimination）；两者都需要证据而非口号。法国慈善剧场要建立公众信任，就必须诚实讨论单调,枯燥（monotony），并对语言学（linguistics）作出可衡量承诺。",
+      "sentences": [
+        {
+          "en": "The strongest argument at a French charity theater supported uproar (a state of commotion and noise and confusion) but demanded safeguards for diction (the articulation of speech regarded from the point of view).",
+          "zh": "法国慈善剧场最有力的论证支持处理骚动,喧嚣,鼎沸（uproar），同时要求在措辞（diction）受影响时设置保障。"
+        },
+        {
+          "en": "A proposal for a French charity theater prioritizes subscription (a payment for consecutive issues of a newspaper or magazine), while critics emphasize erasure (a correction).",
+          "zh": "法国慈善剧场的方案优先处理预约,用户,订阅费（subscription），批评者则认为抹去（erasure）也应得到同等关注。"
+        },
+        {
+          "en": "Funding choices at a French charity theater require clear definitions of charity (a foundation created to promote the public good) and chaos (a state of extreme confusion and disorder).",
+          "zh": "法国慈善剧场的官员清楚定义赈济款、物,慈善团体,博爱（charity）并解释方案如何回应混乱,纷乱（chaos），资金选择才会更明白。"
+        },
+        {
+          "en": "Policy at a French charity theater should address quiz—an examination—without ignoring discrimination—unfair treatment of a person or group on the basis.",
+          "zh": "法国慈善剧场的政策应处理小型考试,测验,问答比赛（quiz），也不能忽视辨别（discrimination）；两者都需要证据而非口号。"
+        },
+        {
+          "en": "Public trust at a French charity theater needs honest discussion of monotony (the quality of wearisome constancy) and measurable commitments on linguistics (the scientific study of language).",
+          "zh": "法国慈善剧场要建立公众信任，就必须诚实讨论单调,枯燥（monotony），并对语言学（linguistics）作出可衡量承诺。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "uproar",
+          "meaning": "n. 骚动,喧嚣,鼎沸"
+        },
+        {
+          "word": "diction",
+          "meaning": "n.措辞"
+        },
+        {
+          "word": "subscription",
+          "meaning": "n.预约,用户,订阅费"
+        },
+        {
+          "word": "erasure",
+          "meaning": "n.抹去"
+        },
+        {
+          "word": "charity",
+          "meaning": "n. 赈济款、物,慈善团体,博爱"
+        },
+        {
+          "word": "chaos",
+          "meaning": "n. 混乱,纷乱"
+        },
+        {
+          "word": "quiz",
+          "meaning": "n. 小型考试,测验,问答比赛"
+        },
+        {
+          "word": "discrimination",
+          "meaning": "n.辨别;识别力;歧视"
+        },
+        {
+          "word": "monotony",
+          "meaning": "n.单调,枯燥"
+        },
+        {
+          "word": "linguistics",
+          "meaning": "n.语言学"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

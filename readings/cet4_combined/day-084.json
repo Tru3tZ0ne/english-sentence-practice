@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 84,
+  "articles": [
+    {
+      "id": "cet4-reading-d084-1",
+      "title": "The Infirmary File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "A visitor entered a coral pharmacy expedition asking about pharmaceutical (drug or medicine) and left with a note on haven (a shelter serving as a place of safety or sanctuary). A student at a coral pharmacy expedition photographed truant—one—and sketched brewery—a plant. During a tour of a coral pharmacy expedition, the class found metro (an electric railway operating below the surface of the ground) before locating potluck (whatever happens to be available). Near closing time at a coral pharmacy expedition, a diary linked the displays of precinct (a district of a city or town) and Dutch (the people of the Netherlands). Two volunteers at a coral pharmacy expedition used the inventory to identify manhole (a hole) and infirmary (a health facility).",
+      "translation": "访客到珊瑚药学考察站询问药物。adj.制药(学)上的（pharmaceutical），旧平面图却意外引导她发现了港口, 避难所。（haven）。学生在珊瑚药学考察站记录逃避者。adj.逃避。（truant）后，又到另一处展区了解酿酒厂。（brewery），两项内容分别得到清楚说明。珊瑚药学考察站的参观先让学生认识伦敦地下铁道, 地下铁道。（metro）；一块丢失的标牌又把他们带到家常便饭。（potluck）。珊瑚药学考察站闭馆前，一本提到区域, 围地, 范围, 界限, 选区。（precinct）的日记帮助员工找到了一幅标有荷兰人, 荷兰语。adj.荷兰的, <俚> 德国的, 条顿民族的。（Dutch）的画的主人。珊瑚药学考察站的两名志愿者借助清单确认(锅炉, 下水道供人出入检修用的)人孔, 检修孔。（manhole），并顺带找到另一条关于医院, 医务室<美>养老院, 救济院。（infirmary）的记录。",
+      "sentences": [
+        {
+          "en": "A visitor entered a coral pharmacy expedition asking about pharmaceutical (drug or medicine) and left with a note on haven (a shelter serving as a place of safety or sanctuary).",
+          "zh": "访客到珊瑚药学考察站询问药物。adj.制药(学)上的（pharmaceutical），旧平面图却意外引导她发现了港口, 避难所。（haven）。"
+        },
+        {
+          "en": "A student at a coral pharmacy expedition photographed truant—one—and sketched brewery—a plant.",
+          "zh": "学生在珊瑚药学考察站记录逃避者。adj.逃避。（truant）后，又到另一处展区了解酿酒厂。（brewery），两项内容分别得到清楚说明。"
+        },
+        {
+          "en": "During a tour of a coral pharmacy expedition, the class found metro (an electric railway operating below the surface of the ground) before locating potluck (whatever happens to be available).",
+          "zh": "珊瑚药学考察站的参观先让学生认识伦敦地下铁道, 地下铁道。（metro）；一块丢失的标牌又把他们带到家常便饭。（potluck）。"
+        },
+        {
+          "en": "Near closing time at a coral pharmacy expedition, a diary linked the displays of precinct (a district of a city or town) and Dutch (the people of the Netherlands).",
+          "zh": "珊瑚药学考察站闭馆前，一本提到区域, 围地, 范围, 界限, 选区。（precinct）的日记帮助员工找到了一幅标有荷兰人, 荷兰语。adj.荷兰的, <俚> 德国的, 条顿民族的。（Dutch）的画的主人。"
+        },
+        {
+          "en": "Two volunteers at a coral pharmacy expedition used the inventory to identify manhole (a hole) and infirmary (a health facility).",
+          "zh": "珊瑚药学考察站的两名志愿者借助清单确认(锅炉, 下水道供人出入检修用的)人孔, 检修孔。（manhole），并顺带找到另一条关于医院, 医务室<美>养老院, 救济院。（infirmary）的记录。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "pharmaceutical",
+          "meaning": "n.药物。adj.制药(学)上的"
+        },
+        {
+          "word": "haven",
+          "meaning": "n.港口, 避难所。"
+        },
+        {
+          "word": "truant",
+          "meaning": "n.逃避者。adj.逃避。"
+        },
+        {
+          "word": "brewery",
+          "meaning": "n.酿酒厂。"
+        },
+        {
+          "word": "metro",
+          "meaning": "n.伦敦地下铁道, 地下铁道。"
+        },
+        {
+          "word": "potluck",
+          "meaning": "n.家常便饭。"
+        },
+        {
+          "word": "precinct",
+          "meaning": "n.区域, 围地, 范围, 界限, 选区。"
+        },
+        {
+          "word": "Dutch",
+          "meaning": "n.荷兰人, 荷兰语。adj.荷兰的, <俚> 德国的, 条顿民族的。"
+        },
+        {
+          "word": "manhole",
+          "meaning": "n.(锅炉, 下水道供人出入检修用的)人孔, 检修孔。"
+        },
+        {
+          "word": "infirmary",
+          "meaning": "n.医院, 医务室<美>养老院, 救济院。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "infirmary",
+          "explanation": "最后一个目标词是医院, 医务室<美>养老院, 救济院。（infirmary）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d084-2",
+      "title": "Understanding Glycerin Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "Field notes from a coral pharmacy expedition distinguish glycerin (a sweet syrupy trihydroxy alcohol obtained by saponification of fats) from starch (a complex carbohydrate found chiefly in seeds). The glossary at a coral pharmacy expedition defines plasma as the colorless watery fluid of the blood and lymph and cross-references grit, meaning a hard coarse-grained siliceous sandstone. To avoid ambiguity, a coral pharmacy expedition explains alga as primitive chlorophyll-containing mainly aquatic eukaryotic organisms lacking true stems and Jew as a person belonging to the worldwide group claiming descent. At a coral pharmacy expedition, cracker means a thin crisp wafer, whereas ascent means an upward slope or grade; separate examples prevent confusion. Researchers at a coral pharmacy expedition use quagmire for a soft wet area of low-lying land, but reserve recital for the act of giving an account describing incidents.",
+      "translation": "珊瑚药学考察站的野外记录严格区分甘油, 丙三醇。（glycerin）和淀粉, [喻] 拘谨, 古板, 生硬。（starch），使记录保持准确。珊瑚药学考察站的词汇表定义解]血浆, 乳浆,[物]等离子体,等离子区。（plasma），并以交叉索引引导读者查看粗砂。v.研磨, 在...上铺砂砾。（grit），但不把二者视为相同。为避免歧义，珊瑚药学考察站的教师分别说明藻类, 海藻。（alga）和犹太人（Jew），再用实例展示各自用法。珊瑚药学考察站的课程分别解释苏打饼干,克力架（cracker）与上升, (地位, 声望等的)提高, 攀登, 上坡路。（ascent），避免学习者因定义不同而进行错误比较。珊瑚药学考察站的研究记录分别使用沼泽, 湿地。（quagmire）和朗诵, 背诵, 叙述, 独奏会, 独唱会。（recital）；由于含义不同，二者需要不同证据。",
+      "sentences": [
+        {
+          "en": "Field notes from a coral pharmacy expedition distinguish glycerin (a sweet syrupy trihydroxy alcohol obtained by saponification of fats) from starch (a complex carbohydrate found chiefly in seeds).",
+          "zh": "珊瑚药学考察站的野外记录严格区分甘油, 丙三醇。（glycerin）和淀粉, [喻] 拘谨, 古板, 生硬。（starch），使记录保持准确。"
+        },
+        {
+          "en": "The glossary at a coral pharmacy expedition defines plasma as the colorless watery fluid of the blood and lymph and cross-references grit, meaning a hard coarse-grained siliceous sandstone.",
+          "zh": "珊瑚药学考察站的词汇表定义解]血浆, 乳浆,[物]等离子体,等离子区。（plasma），并以交叉索引引导读者查看粗砂。v.研磨, 在...上铺砂砾。（grit），但不把二者视为相同。"
+        },
+        {
+          "en": "To avoid ambiguity, a coral pharmacy expedition explains alga as primitive chlorophyll-containing mainly aquatic eukaryotic organisms lacking true stems and Jew as a person belonging to the worldwide group claiming descent.",
+          "zh": "为避免歧义，珊瑚药学考察站的教师分别说明藻类, 海藻。（alga）和犹太人（Jew），再用实例展示各自用法。"
+        },
+        {
+          "en": "At a coral pharmacy expedition, cracker means a thin crisp wafer, whereas ascent means an upward slope or grade; separate examples prevent confusion.",
+          "zh": "珊瑚药学考察站的课程分别解释苏打饼干,克力架（cracker）与上升, (地位, 声望等的)提高, 攀登, 上坡路。（ascent），避免学习者因定义不同而进行错误比较。"
+        },
+        {
+          "en": "Researchers at a coral pharmacy expedition use quagmire for a soft wet area of low-lying land, but reserve recital for the act of giving an account describing incidents.",
+          "zh": "珊瑚药学考察站的研究记录分别使用沼泽, 湿地。（quagmire）和朗诵, 背诵, 叙述, 独奏会, 独唱会。（recital）；由于含义不同，二者需要不同证据。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "glycerin",
+          "meaning": "n.甘油, 丙三醇。"
+        },
+        {
+          "word": "starch",
+          "meaning": "n.淀粉, [喻] 拘谨, 古板, 生硬。"
+        },
+        {
+          "word": "plasma",
+          "meaning": "n.[解]血浆, 乳浆,[物]等离子体,等离子区。"
+        },
+        {
+          "word": "grit",
+          "meaning": "n.粗砂。v.研磨, 在...上铺砂砾。"
+        },
+        {
+          "word": "alga",
+          "meaning": "n.藻类, 海藻。"
+        },
+        {
+          "word": "Jew",
+          "meaning": "n.犹太人"
+        },
+        {
+          "word": "cracker",
+          "meaning": "n.苏打饼干,克力架"
+        },
+        {
+          "word": "ascent",
+          "meaning": "n.上升, (地位, 声望等的)提高, 攀登, 上坡路。"
+        },
+        {
+          "word": "quagmire",
+          "meaning": "n.沼泽, 湿地。"
+        },
+        {
+          "word": "recital",
+          "meaning": "n.朗诵, 背诵, 叙述, 独奏会, 独唱会。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d084-3",
+      "title": "Why Matrimony Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "Residents near a coral pharmacy expedition debated uprising (organized opposition to authority) and making (the act), then requested written evidence. The strongest argument at a coral pharmacy expedition supported tentacle (something) but demanded safeguards for coral (a variable color averaging a deep pink). Before approving change at a coral pharmacy expedition, leaders must explain ultimatum (a final peremptory demand) and risks involving synopsis (a sketchy summary of the main points of an argument). An open meeting at a coral pharmacy expedition joined practical questions about flaunt (the act of displaying something ostentatiously) with concerns about poliomyelitis (an acute viral disease). Policy at a coral pharmacy expedition should address colonialism—exploitation by a stronger country of weaker one—without ignoring matrimony—the state of being a married couple voluntarily joined.",
+      "translation": "珊瑚药学考察站附近居民讨论起义, 升起。（uprising）和制造, 发展, 素质。（making）后，要求书面说明成本与责任。珊瑚药学考察站最有力的论证支持处理(动物)触须、触角, (植物)腺毛。（tentacle），同时要求在珊瑚, 珊瑚虫。（coral）受影响时设置保障。批准珊瑚药学考察站的改变前，领导者应解释最后通谍。（ultimatum）为何重要，以及谁承担大纲。（synopsis）带来的风险。珊瑚药学考察站的公开会议把有关招展, 招摇, 炫耀, 飘扬。v.挥动, 夸耀, 炫耀, 飘扬。（flaunt）的实际问题与小儿麻痹症, 急性骨髓灰白质炎。（poliomyelitis）带来的伦理问题一同讨论。珊瑚药学考察站的政策应处理殖民主义。（colonialism），也不能忽视结婚。（matrimony）；两者都需要证据而非口号。",
+      "sentences": [
+        {
+          "en": "Residents near a coral pharmacy expedition debated uprising (organized opposition to authority) and making (the act), then requested written evidence.",
+          "zh": "珊瑚药学考察站附近居民讨论起义, 升起。（uprising）和制造, 发展, 素质。（making）后，要求书面说明成本与责任。"
+        },
+        {
+          "en": "The strongest argument at a coral pharmacy expedition supported tentacle (something) but demanded safeguards for coral (a variable color averaging a deep pink).",
+          "zh": "珊瑚药学考察站最有力的论证支持处理(动物)触须、触角, (植物)腺毛。（tentacle），同时要求在珊瑚, 珊瑚虫。（coral）受影响时设置保障。"
+        },
+        {
+          "en": "Before approving change at a coral pharmacy expedition, leaders must explain ultimatum (a final peremptory demand) and risks involving synopsis (a sketchy summary of the main points of an argument).",
+          "zh": "批准珊瑚药学考察站的改变前，领导者应解释最后通谍。（ultimatum）为何重要，以及谁承担大纲。（synopsis）带来的风险。"
+        },
+        {
+          "en": "An open meeting at a coral pharmacy expedition joined practical questions about flaunt (the act of displaying something ostentatiously) with concerns about poliomyelitis (an acute viral disease).",
+          "zh": "珊瑚药学考察站的公开会议把有关招展, 招摇, 炫耀, 飘扬。v.挥动, 夸耀, 炫耀, 飘扬。（flaunt）的实际问题与小儿麻痹症, 急性骨髓灰白质炎。（poliomyelitis）带来的伦理问题一同讨论。"
+        },
+        {
+          "en": "Policy at a coral pharmacy expedition should address colonialism—exploitation by a stronger country of weaker one—without ignoring matrimony—the state of being a married couple voluntarily joined.",
+          "zh": "珊瑚药学考察站的政策应处理殖民主义。（colonialism），也不能忽视结婚。（matrimony）；两者都需要证据而非口号。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "uprising",
+          "meaning": "n.起义, 升起。"
+        },
+        {
+          "word": "making",
+          "meaning": "n.制造, 发展, 素质。"
+        },
+        {
+          "word": "tentacle",
+          "meaning": "n.(动物)触须、触角, (植物)腺毛。"
+        },
+        {
+          "word": "coral",
+          "meaning": "n.珊瑚, 珊瑚虫。"
+        },
+        {
+          "word": "ultimatum",
+          "meaning": "n.最后通谍。"
+        },
+        {
+          "word": "synopsis",
+          "meaning": "n.大纲。"
+        },
+        {
+          "word": "flaunt",
+          "meaning": "n.招展, 招摇, 炫耀, 飘扬。v.挥动, 夸耀, 炫耀, 飘扬。"
+        },
+        {
+          "word": "poliomyelitis",
+          "meaning": "n.小儿麻痹症, 急性骨髓灰白质炎。"
+        },
+        {
+          "word": "colonialism",
+          "meaning": "n.殖民主义。"
+        },
+        {
+          "word": "matrimony",
+          "meaning": "n.结婚。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

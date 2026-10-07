@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 81,
+  "articles": [
+    {
+      "id": "cet4-reading-d081-1",
+      "title": "The Fahrenheit File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "A student at a seasonal winery school photographed flannel—a soft light woolen fabric—and sketched winery—distillery. The morning program at a seasonal winery school paired a section on mutton (meat from a mature domestic sheep) with one on teacher (a person whose occupation is teaching). A visitor entered a seasonal winery school asking about pane (sheet glass cut in shapes for windows or doors) and left with a note on singer (a person). When a shelf shifted at a seasonal winery school, staff protected files on stitch (a link or loop or knot) and telephone (electronic equipment). During a tour of a seasonal winery school, the class found spaceship (a spacecraft designed to carry a crew into interstellar space) before locating Fahrenheit (German physicist).",
+      "translation": "学生在季节性酒庄学校记录法兰绒（flannel）后，又到另一处展区了解酿酒厂（winery），两项内容分别得到清楚说明。季节性酒庄学校的上午活动把羊肉（mutton）与另一项关于教师(员),老(导)师（teacher）的展览相邻安排，但没有混淆两者。访客到季节性酒庄学校询问窗格玻璃（pane），旧平面图却意外引导她发现了歌唱家,歌手（singer）。季节性酒庄学校的架子倒下时，员工保护了有关缝纫（stitch）的材料，也找回了旁边关于电话,电话机v. 打电话（telephone）的档案。季节性酒庄学校的参观先让学生认识宇宙飞船（spaceship）；一块丢失的标牌又把他们带到华氏温度计（Fahrenheit）。",
+      "sentences": [
+        {
+          "en": "A student at a seasonal winery school photographed flannel—a soft light woolen fabric—and sketched winery—distillery.",
+          "zh": "学生在季节性酒庄学校记录法兰绒（flannel）后，又到另一处展区了解酿酒厂（winery），两项内容分别得到清楚说明。"
+        },
+        {
+          "en": "The morning program at a seasonal winery school paired a section on mutton (meat from a mature domestic sheep) with one on teacher (a person whose occupation is teaching).",
+          "zh": "季节性酒庄学校的上午活动把羊肉（mutton）与另一项关于教师(员),老(导)师（teacher）的展览相邻安排，但没有混淆两者。"
+        },
+        {
+          "en": "A visitor entered a seasonal winery school asking about pane (sheet glass cut in shapes for windows or doors) and left with a note on singer (a person).",
+          "zh": "访客到季节性酒庄学校询问窗格玻璃（pane），旧平面图却意外引导她发现了歌唱家,歌手（singer）。"
+        },
+        {
+          "en": "When a shelf shifted at a seasonal winery school, staff protected files on stitch (a link or loop or knot) and telephone (electronic equipment).",
+          "zh": "季节性酒庄学校的架子倒下时，员工保护了有关缝纫（stitch）的材料，也找回了旁边关于电话,电话机v. 打电话（telephone）的档案。"
+        },
+        {
+          "en": "During a tour of a seasonal winery school, the class found spaceship (a spacecraft designed to carry a crew into interstellar space) before locating Fahrenheit (German physicist).",
+          "zh": "季节性酒庄学校的参观先让学生认识宇宙飞船（spaceship）；一块丢失的标牌又把他们带到华氏温度计（Fahrenheit）。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "flannel",
+          "meaning": "n.法兰绒;法兰绒衣服"
+        },
+        {
+          "word": "winery",
+          "meaning": "n.酿酒厂"
+        },
+        {
+          "word": "mutton",
+          "meaning": "n. 羊肉"
+        },
+        {
+          "word": "teacher",
+          "meaning": "n. 教师(员),老(导)师"
+        },
+        {
+          "word": "pane",
+          "meaning": "n.窗格玻璃"
+        },
+        {
+          "word": "singer",
+          "meaning": "n.歌唱家,歌手"
+        },
+        {
+          "word": "stitch",
+          "meaning": "n. 缝纫;缝线;(肋部)突然剧痛"
+        },
+        {
+          "word": "telephone",
+          "meaning": "n. 电话,电话机v. 打电话"
+        },
+        {
+          "word": "spaceship",
+          "meaning": "n. 宇宙飞船"
+        },
+        {
+          "word": "Fahrenheit",
+          "meaning": "n. 华氏温度计"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "Fahrenheit",
+          "explanation": "最后一个目标词是华氏温度计（Fahrenheit）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d081-2",
+      "title": "Understanding Mishap Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "Field notes from a seasonal winery school distinguish mishap (an unpredictable outcome) from elbow (hinge joint between the forearm and upper arm). One panel in a seasonal winery school illustrates skin (a natural protective body covering and site of the sense); the next describes kernel (the inner and). The glossary at a seasonal winery school defines implementation as the act of accomplishing some aim or executing some order and cross-references mythology, meaning myths collectively. To avoid ambiguity, a seasonal winery school explains hesitation as indecision in speech or action and teller as United States physicist. A chart in a seasonal winery school defines inspection as a formal or official examination and skirmish as a minor short-term fight on different branches.",
+      "translation": "季节性酒庄学校的野外记录严格区分不幸的事,不幸,灾祸（mishap）和肘,衣服肘部 vt. 用肘推、挤（elbow），使记录保持准确。季节性酒庄学校第一块展板说明皮,皮肤（skin），下一块介绍果核,果仁,核心（kernel），访客因而能比较两个准确概念。季节性酒庄学校的词汇表定义实行,执行（implementation），并以交叉索引引导读者查看神话学（mythology），但不把二者视为相同。为避免歧义，季节性酒庄学校的教师分别说明犹豫,踌躇（hesitation）和出纳（teller），再用实例展示各自用法。季节性酒庄学校的图表把检查,审视,检阅（inspection）和小冲突,小规模战斗（skirmish）放在不同分支，让读者清楚看见两者区别。",
+      "sentences": [
+        {
+          "en": "Field notes from a seasonal winery school distinguish mishap (an unpredictable outcome) from elbow (hinge joint between the forearm and upper arm).",
+          "zh": "季节性酒庄学校的野外记录严格区分不幸的事,不幸,灾祸（mishap）和肘,衣服肘部 vt. 用肘推、挤（elbow），使记录保持准确。"
+        },
+        {
+          "en": "One panel in a seasonal winery school illustrates skin (a natural protective body covering and site of the sense); the next describes kernel (the inner and).",
+          "zh": "季节性酒庄学校第一块展板说明皮,皮肤（skin），下一块介绍果核,果仁,核心（kernel），访客因而能比较两个准确概念。"
+        },
+        {
+          "en": "The glossary at a seasonal winery school defines implementation as the act of accomplishing some aim or executing some order and cross-references mythology, meaning myths collectively.",
+          "zh": "季节性酒庄学校的词汇表定义实行,执行（implementation），并以交叉索引引导读者查看神话学（mythology），但不把二者视为相同。"
+        },
+        {
+          "en": "To avoid ambiguity, a seasonal winery school explains hesitation as indecision in speech or action and teller as United States physicist.",
+          "zh": "为避免歧义，季节性酒庄学校的教师分别说明犹豫,踌躇（hesitation）和出纳（teller），再用实例展示各自用法。"
+        },
+        {
+          "en": "A chart in a seasonal winery school defines inspection as a formal or official examination and skirmish as a minor short-term fight on different branches.",
+          "zh": "季节性酒庄学校的图表把检查,审视,检阅（inspection）和小冲突,小规模战斗（skirmish）放在不同分支，让读者清楚看见两者区别。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "mishap",
+          "meaning": "n. 不幸的事,不幸,灾祸"
+        },
+        {
+          "word": "elbow",
+          "meaning": "n. 肘,衣服肘部 vt. 用肘推、挤"
+        },
+        {
+          "word": "skin",
+          "meaning": "n. 皮,皮肤;兽皮,皮毛;外皮,外壳v. 剥皮"
+        },
+        {
+          "word": "kernel",
+          "meaning": "n. 果核,果仁,核心"
+        },
+        {
+          "word": "implementation",
+          "meaning": "n.实行,执行"
+        },
+        {
+          "word": "mythology",
+          "meaning": "n. 神话学"
+        },
+        {
+          "word": "hesitation",
+          "meaning": "n.犹豫,踌躇"
+        },
+        {
+          "word": "teller",
+          "meaning": "n.出纳"
+        },
+        {
+          "word": "inspection",
+          "meaning": "n. 检查,审视,检阅"
+        },
+        {
+          "word": "skirmish",
+          "meaning": "n.小冲突,小规模战斗"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d081-3",
+      "title": "Why Salability Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "Public trust at a seasonal winery school needs honest discussion of memo (a written proposal or reminder) and measurable commitments on boldness (the trait of being willing to undertake things). An open meeting at a seasonal winery school joined practical questions about conveyance (document effecting a property transfer) with concerns about originality (the ability to think and act independently). A proposal for a seasonal winery school prioritizes text (the words of something written), while critics emphasize interruption (an act of delaying or interrupting the continuity). Decision makers at a seasonal winery school cannot evaluate impossibility (incapability of existing or occurring) while excluding directive (a pronouncement encouraging or banning some activity). Before approving change at a seasonal winery school, leaders must explain distraction (mental turmoil) and risks involving salability (the quality of being salable or marketable).",
+      "translation": "季节性酒庄学校要建立公众信任，就必须诚实讨论备忘录（memo），并对胆略（boldness）作出可衡量承诺。季节性酒庄学校的公开会议把有关运送,传达（conveyance）的实际问题与独创性（originality）带来的伦理问题一同讨论。季节性酒庄学校的方案优先处理正文,文本（text），批评者则认为中断,打断（interruption）也应得到同等关注。季节性酒庄学校的决策者不能只评估不可能性（impossibility），却把命令,指令（directive）排除在公开证据之外。批准季节性酒庄学校的改变前，领导者应解释分心（distraction）为何重要，以及谁承担适销性（salability）带来的风险。",
+      "sentences": [
+        {
+          "en": "Public trust at a seasonal winery school needs honest discussion of memo (a written proposal or reminder) and measurable commitments on boldness (the trait of being willing to undertake things).",
+          "zh": "季节性酒庄学校要建立公众信任，就必须诚实讨论备忘录（memo），并对胆略（boldness）作出可衡量承诺。"
+        },
+        {
+          "en": "An open meeting at a seasonal winery school joined practical questions about conveyance (document effecting a property transfer) with concerns about originality (the ability to think and act independently).",
+          "zh": "季节性酒庄学校的公开会议把有关运送,传达（conveyance）的实际问题与独创性（originality）带来的伦理问题一同讨论。"
+        },
+        {
+          "en": "A proposal for a seasonal winery school prioritizes text (the words of something written), while critics emphasize interruption (an act of delaying or interrupting the continuity).",
+          "zh": "季节性酒庄学校的方案优先处理正文,文本（text），批评者则认为中断,打断（interruption）也应得到同等关注。"
+        },
+        {
+          "en": "Decision makers at a seasonal winery school cannot evaluate impossibility (incapability of existing or occurring) while excluding directive (a pronouncement encouraging or banning some activity).",
+          "zh": "季节性酒庄学校的决策者不能只评估不可能性（impossibility），却把命令,指令（directive）排除在公开证据之外。"
+        },
+        {
+          "en": "Before approving change at a seasonal winery school, leaders must explain distraction (mental turmoil) and risks involving salability (the quality of being salable or marketable).",
+          "zh": "批准季节性酒庄学校的改变前，领导者应解释分心（distraction）为何重要，以及谁承担适销性（salability）带来的风险。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "memo",
+          "meaning": "n. 备忘录"
+        },
+        {
+          "word": "boldness",
+          "meaning": "n.胆略"
+        },
+        {
+          "word": "conveyance",
+          "meaning": "n.运送,传达"
+        },
+        {
+          "word": "originality",
+          "meaning": "n.独创性"
+        },
+        {
+          "word": "text",
+          "meaning": "n. 正文,文本;原文;教科书"
+        },
+        {
+          "word": "interruption",
+          "meaning": "n.中断,打断;障碍物"
+        },
+        {
+          "word": "impossibility",
+          "meaning": "n.不可能性"
+        },
+        {
+          "word": "directive",
+          "meaning": "n.命令,指令"
+        },
+        {
+          "word": "distraction",
+          "meaning": "n.分心"
+        },
+        {
+          "word": "salability",
+          "meaning": "n.适销性"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

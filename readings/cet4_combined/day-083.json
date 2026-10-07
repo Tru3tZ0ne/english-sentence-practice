@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 83,
+  "articles": [
+    {
+      "id": "cet4-reading-d083-1",
+      "title": "The Portugal File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "Rain kept a family inside an autumn astronomy station, learning about penicillin (any of various antibiotics obtained from Penicillium molds) and sheriff (the principal law-enforcement officer in a county). Inside an autumn astronomy station, the curator corrected labels for inspector (a high ranking police officer) and burner (an apparatus for burning fuel). At an autumn astronomy station, a guide explained sailor (any member of a ship's crew) beside a display of goddess (a female deity). The newest room at an autumn astronomy station began with saint (a person) and ended with apprentice (works for an expert to learn a trade). A quiet corner of an autumn astronomy station presented stronghold (a strongly fortified defensive structure); a recording nearby introduced Portugal (a republic in southwestern Europe on the Iberian Peninsula).",
+      "translation": "雨天让一家人留在秋季天文观测站，一个孩子学习青霉素,盘尼西林（penicillin），另一个孩子则操作与郡长（sheriff）有关的模型。秋季天文观测站的策展人先纠正检查员（inspector）的标签错误，随后发现关于灯头,煤气头（burner）的材料也放错了位置。在秋季天文观测站的参观过程中，讲解员先介绍水手,海员（sailor），随后带大家找到另一项独立展品女神（goddess）。秋季天文观测站最新展厅从圣人,基督教徒（saint）开始，以一个出人意料的本地学徒（apprentice）实例结束。秋季天文观测站安静的一角介绍堡垒,要塞（stronghold），旁边的录音访谈则讲述葡萄牙（Portugal）背后的人物故事。",
+      "sentences": [
+        {
+          "en": "Rain kept a family inside an autumn astronomy station, learning about penicillin (any of various antibiotics obtained from Penicillium molds) and sheriff (the principal law-enforcement officer in a county).",
+          "zh": "雨天让一家人留在秋季天文观测站，一个孩子学习青霉素,盘尼西林（penicillin），另一个孩子则操作与郡长（sheriff）有关的模型。"
+        },
+        {
+          "en": "Inside an autumn astronomy station, the curator corrected labels for inspector (a high ranking police officer) and burner (an apparatus for burning fuel).",
+          "zh": "秋季天文观测站的策展人先纠正检查员（inspector）的标签错误，随后发现关于灯头,煤气头（burner）的材料也放错了位置。"
+        },
+        {
+          "en": "At an autumn astronomy station, a guide explained sailor (any member of a ship's crew) beside a display of goddess (a female deity).",
+          "zh": "在秋季天文观测站的参观过程中，讲解员先介绍水手,海员（sailor），随后带大家找到另一项独立展品女神（goddess）。"
+        },
+        {
+          "en": "The newest room at an autumn astronomy station began with saint (a person) and ended with apprentice (works for an expert to learn a trade).",
+          "zh": "秋季天文观测站最新展厅从圣人,基督教徒（saint）开始，以一个出人意料的本地学徒（apprentice）实例结束。"
+        },
+        {
+          "en": "A quiet corner of an autumn astronomy station presented stronghold (a strongly fortified defensive structure); a recording nearby introduced Portugal (a republic in southwestern Europe on the Iberian Peninsula).",
+          "zh": "秋季天文观测站安静的一角介绍堡垒,要塞（stronghold），旁边的录音访谈则讲述葡萄牙（Portugal）背后的人物故事。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "penicillin",
+          "meaning": "n.青霉素,盘尼西林"
+        },
+        {
+          "word": "sheriff",
+          "meaning": "n.郡长;警察局长"
+        },
+        {
+          "word": "inspector",
+          "meaning": "n.检查员;巡官"
+        },
+        {
+          "word": "burner",
+          "meaning": "n.灯头,煤气头"
+        },
+        {
+          "word": "sailor",
+          "meaning": "n. 水手,海员"
+        },
+        {
+          "word": "goddess",
+          "meaning": "n.女神;绝世美女"
+        },
+        {
+          "word": "saint",
+          "meaning": "n. 圣人,基督教徒;(S-或St. 用于人,地名前)圣"
+        },
+        {
+          "word": "apprentice",
+          "meaning": "n./vt. 学徒;使当学徒"
+        },
+        {
+          "word": "stronghold",
+          "meaning": "n.堡垒,要塞"
+        },
+        {
+          "word": "Portugal",
+          "meaning": "n.葡萄牙"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "Portugal",
+          "explanation": "最后一个目标词是葡萄牙（Portugal）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d083-2",
+      "title": "Understanding Butterfly Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "One panel in an autumn astronomy station illustrates butterfly (diurnal insect typically); the next describes fir (nonresinous wood of a fir tree). The handbook at an autumn astronomy station introduces sodium—a silvery soft waxy metallic element of the alkali metal—before filth—any substance considered disgustingly foul or unpleasant. A demonstration at an autumn astronomy station makes video (the visible part of a television transmission) concrete before explaining airmail (letters and packages). At an autumn astronomy station, astronomy means the branch of physics, whereas September means the month following August and preceding October; separate examples prevent confusion. By separating blond (a person with fair skin and hair) from rebate (a refund of some fraction of the amount paid), an autumn astronomy station turns definitions into usable knowledge.",
+      "translation": "秋季天文观测站第一块展板说明蝴蝶（butterfly），下一块介绍裘皮（fir），访客因而能比较两个准确概念。秋季天文观测站的手册先介绍钠（sodium），再补充需要更多背景的污秽,淫猥（filth）。秋季天文观测站的简短演示先让电视,视频（video）具体可见，再用第二个实例解释航空邮件（airmail）。秋季天文观测站的课程分别解释天文学（astronomy）与九月（September），避免学习者因定义不同而进行错误比较。秋季天文观测站把白肤金发碧眼的人（blond）与回扣,折扣,退税（rebate）分开考察，使两个陌生概念转化为可使用的知识。",
+      "sentences": [
+        {
+          "en": "One panel in an autumn astronomy station illustrates butterfly (diurnal insect typically); the next describes fir (nonresinous wood of a fir tree).",
+          "zh": "秋季天文观测站第一块展板说明蝴蝶（butterfly），下一块介绍裘皮（fir），访客因而能比较两个准确概念。"
+        },
+        {
+          "en": "The handbook at an autumn astronomy station introduces sodium—a silvery soft waxy metallic element of the alkali metal—before filth—any substance considered disgustingly foul or unpleasant.",
+          "zh": "秋季天文观测站的手册先介绍钠（sodium），再补充需要更多背景的污秽,淫猥（filth）。"
+        },
+        {
+          "en": "A demonstration at an autumn astronomy station makes video (the visible part of a television transmission) concrete before explaining airmail (letters and packages).",
+          "zh": "秋季天文观测站的简短演示先让电视,视频（video）具体可见，再用第二个实例解释航空邮件（airmail）。"
+        },
+        {
+          "en": "At an autumn astronomy station, astronomy means the branch of physics, whereas September means the month following August and preceding October; separate examples prevent confusion.",
+          "zh": "秋季天文观测站的课程分别解释天文学（astronomy）与九月（September），避免学习者因定义不同而进行错误比较。"
+        },
+        {
+          "en": "By separating blond (a person with fair skin and hair) from rebate (a refund of some fraction of the amount paid), an autumn astronomy station turns definitions into usable knowledge.",
+          "zh": "秋季天文观测站把白肤金发碧眼的人（blond）与回扣,折扣,退税（rebate）分开考察，使两个陌生概念转化为可使用的知识。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "butterfly",
+          "meaning": "n. 蝴蝶"
+        },
+        {
+          "word": "fir",
+          "meaning": "n.裘皮"
+        },
+        {
+          "word": "sodium",
+          "meaning": "n.钠"
+        },
+        {
+          "word": "filth",
+          "meaning": "n. 污秽,淫猥"
+        },
+        {
+          "word": "video",
+          "meaning": "n. 电视,视频;录像a. 电视的,视频的;录像的"
+        },
+        {
+          "word": "airmail",
+          "meaning": "n.航空邮件"
+        },
+        {
+          "word": "astronomy",
+          "meaning": "n. 天文学"
+        },
+        {
+          "word": "September",
+          "meaning": "n. 九月"
+        },
+        {
+          "word": "blond",
+          "meaning": "n.白肤金发碧眼的人"
+        },
+        {
+          "word": "rebate",
+          "meaning": "n.回扣,折扣,退税"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d083-3",
+      "title": "Why Brilliance Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "Public trust at an autumn astronomy station needs honest discussion of struggle (an energetic attempt to achieve something) and measurable commitments on opposition (the action of opposing something). A proposal for an autumn astronomy station prioritizes peril (a source of danger), while critics emphasize intonation (rise and fall of the voice pitch). Funding choices at an autumn astronomy station require clear definitions of offering (something offered) and neutrality (nonparticipation in a dispute or war). Long-term planning at an autumn astronomy station needs indicators for serenity (a disposition free from stress or emotion) and independent scrutiny of abrogation (the act of abrogating). Residents near an autumn astronomy station debated partnership (the members of a business venture created by contract) and brilliance (a light within the field of vision), then requested written evidence.",
+      "translation": "秋季天文观测站要建立公众信任，就必须诚实讨论斗争,奋斗,努力（struggle），并对敌对,反抗（opposition）作出可衡量承诺。秋季天文观测站的方案优先处理(严重的)危险（peril），批评者则认为语调,声调（intonation）也应得到同等关注。秋季天文观测站的官员清楚定义报盘,提供的货物（offering）并解释方案如何回应中立（neutrality），资金选择才会更明白。秋季天文观测站的长期规划应公布安详,宁静,平静,沉着（serenity）指标，也应允许独立人员审查有关取消,废除（abrogation）的主张。秋季天文观测站附近居民讨论伙伴关系,合伙（partnership）和辉煌,光彩（brilliance）后，要求书面说明成本与责任。",
+      "sentences": [
+        {
+          "en": "Public trust at an autumn astronomy station needs honest discussion of struggle (an energetic attempt to achieve something) and measurable commitments on opposition (the action of opposing something).",
+          "zh": "秋季天文观测站要建立公众信任，就必须诚实讨论斗争,奋斗,努力（struggle），并对敌对,反抗（opposition）作出可衡量承诺。"
+        },
+        {
+          "en": "A proposal for an autumn astronomy station prioritizes peril (a source of danger), while critics emphasize intonation (rise and fall of the voice pitch).",
+          "zh": "秋季天文观测站的方案优先处理(严重的)危险（peril），批评者则认为语调,声调（intonation）也应得到同等关注。"
+        },
+        {
+          "en": "Funding choices at an autumn astronomy station require clear definitions of offering (something offered) and neutrality (nonparticipation in a dispute or war).",
+          "zh": "秋季天文观测站的官员清楚定义报盘,提供的货物（offering）并解释方案如何回应中立（neutrality），资金选择才会更明白。"
+        },
+        {
+          "en": "Long-term planning at an autumn astronomy station needs indicators for serenity (a disposition free from stress or emotion) and independent scrutiny of abrogation (the act of abrogating).",
+          "zh": "秋季天文观测站的长期规划应公布安详,宁静,平静,沉着（serenity）指标，也应允许独立人员审查有关取消,废除（abrogation）的主张。"
+        },
+        {
+          "en": "Residents near an autumn astronomy station debated partnership (the members of a business venture created by contract) and brilliance (a light within the field of vision), then requested written evidence.",
+          "zh": "秋季天文观测站附近居民讨论伙伴关系,合伙（partnership）和辉煌,光彩（brilliance）后，要求书面说明成本与责任。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "struggle",
+          "meaning": "n./v. 斗争,奋斗,努力"
+        },
+        {
+          "word": "opposition",
+          "meaning": "n.敌对,反抗"
+        },
+        {
+          "word": "peril",
+          "meaning": "n. (严重的)危险;危险的事物"
+        },
+        {
+          "word": "intonation",
+          "meaning": "n.语调,声调;发声"
+        },
+        {
+          "word": "offering",
+          "meaning": "n.报盘,提供的货物"
+        },
+        {
+          "word": "neutrality",
+          "meaning": "n.中立"
+        },
+        {
+          "word": "serenity",
+          "meaning": "n.安详,宁静,平静,沉着"
+        },
+        {
+          "word": "abrogation",
+          "meaning": "n.取消,废除"
+        },
+        {
+          "word": "partnership",
+          "meaning": "n.伙伴关系,合伙"
+        },
+        {
+          "word": "brilliance",
+          "meaning": "n.辉煌,光彩"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

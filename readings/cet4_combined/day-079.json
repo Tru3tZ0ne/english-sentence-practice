@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 79,
+  "articles": [
+    {
+      "id": "cet4-reading-d079-1",
+      "title": "The Colonel File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "At an urban transport control room, a guide explained trolley (a wheeled vehicle) beside a display of chairwoman (the officer). Inside an urban transport control room, the curator corrected labels for earphone (electro-acoustic transducer for converting electric signals into sounds) and vegetable (edible seeds or roots or stems or leaves or bulbs). A visitor entered an urban transport control room asking about dancer (a performer) and left with a note on invader (someone). A quiet corner of an urban transport control room presented cutter (someone); a recording nearby introduced writer (writes). During a tour of an urban transport control room, the class found runner (someone) before locating colonel (a commissioned military officer in the United States Army).",
+      "translation": "在城市交通控制室的参观过程中，讲解员先介绍手推车（trolley），随后带大家找到另一项独立展品女主席,女董事长（chairwoman）。城市交通控制室的策展人先纠正耳机（earphone）的标签错误，随后发现关于蔬菜,植物a. 植物的,蔬菜的（vegetable）的材料也放错了位置。访客到城市交通控制室询问舞蹈者,舞蹈演员（dancer），旧平面图却意外引导她发现了入侵者（invader）。城市交通控制室安静的一角介绍用于切割的器械（cutter），旁边的录音访谈则讲述作者,作家,复写器（writer）背后的人物故事。城市交通控制室的参观先让学生认识赛跑的人（runner）；一块丢失的标牌又把他们带到(陆军)上校（colonel）。",
+      "sentences": [
+        {
+          "en": "At an urban transport control room, a guide explained trolley (a wheeled vehicle) beside a display of chairwoman (the officer).",
+          "zh": "在城市交通控制室的参观过程中，讲解员先介绍手推车（trolley），随后带大家找到另一项独立展品女主席,女董事长（chairwoman）。"
+        },
+        {
+          "en": "Inside an urban transport control room, the curator corrected labels for earphone (electro-acoustic transducer for converting electric signals into sounds) and vegetable (edible seeds or roots or stems or leaves or bulbs).",
+          "zh": "城市交通控制室的策展人先纠正耳机（earphone）的标签错误，随后发现关于蔬菜,植物a. 植物的,蔬菜的（vegetable）的材料也放错了位置。"
+        },
+        {
+          "en": "A visitor entered an urban transport control room asking about dancer (a performer) and left with a note on invader (someone).",
+          "zh": "访客到城市交通控制室询问舞蹈者,舞蹈演员（dancer），旧平面图却意外引导她发现了入侵者（invader）。"
+        },
+        {
+          "en": "A quiet corner of an urban transport control room presented cutter (someone); a recording nearby introduced writer (writes).",
+          "zh": "城市交通控制室安静的一角介绍用于切割的器械（cutter），旁边的录音访谈则讲述作者,作家,复写器（writer）背后的人物故事。"
+        },
+        {
+          "en": "During a tour of an urban transport control room, the class found runner (someone) before locating colonel (a commissioned military officer in the United States Army).",
+          "zh": "城市交通控制室的参观先让学生认识赛跑的人（runner）；一块丢失的标牌又把他们带到(陆军)上校（colonel）。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "trolley",
+          "meaning": "n. 手推车;(英)无轨电车,(美)有轨电车"
+        },
+        {
+          "word": "chairwoman",
+          "meaning": "n.女主席,女董事长"
+        },
+        {
+          "word": "earphone",
+          "meaning": "n.耳机"
+        },
+        {
+          "word": "vegetable",
+          "meaning": "n. 蔬菜,植物a. 植物的,蔬菜的"
+        },
+        {
+          "word": "dancer",
+          "meaning": "n.舞蹈者,舞蹈演员"
+        },
+        {
+          "word": "invader",
+          "meaning": "n.入侵者"
+        },
+        {
+          "word": "cutter",
+          "meaning": "n.用于切割的器械"
+        },
+        {
+          "word": "writer",
+          "meaning": "n. 作者,作家,复写器"
+        },
+        {
+          "word": "runner",
+          "meaning": "n.赛跑的人"
+        },
+        {
+          "word": "colonel",
+          "meaning": "n. (陆军)上校"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "colonel",
+          "explanation": "最后一个目标词是(陆军)上校（colonel）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d079-2",
+      "title": "Understanding Weather Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "To avoid ambiguity, an urban transport control room explains weather as the atmospheric conditions and eyebrow as the arch of hair above each eye. A demonstration at an urban transport control room makes limestone (a sedimentary rock) concrete before explaining saturation (the process of totally saturating something with a substance). Researchers at an urban transport control room use eyelid for either of two folds of skin, but reserve absorption for chemistry a process in which one substance permeates another. The handbook at an urban transport control room introduces deflection—a twist or aberration—before censorship—counterintelligence achieved by banning or deleting any information of value. At an urban transport control room, programing means setting an order and time for planned events, whereas adverb means the word class; separate examples prevent confusion.",
+      "translation": "为避免歧义，城市交通控制室的教师分别说明天气,气象（weather）和眉毛（eyebrow），再用实例展示各自用法。城市交通控制室的简短演示先让石灰石（limestone）具体可见，再用第二个实例解释饱和(状态)（saturation）。城市交通控制室的研究记录分别使用眼睑（eyelid）和吸收（absorption）；由于含义不同，二者需要不同证据。城市交通控制室的手册先介绍偏斜,歪斜（deflection），再补充需要更多背景的审查（censorship）。城市交通控制室的课程分别解释程序编排（programing）与副词a. 副词的（adverb），避免学习者因定义不同而进行错误比较。",
+      "sentences": [
+        {
+          "en": "To avoid ambiguity, an urban transport control room explains weather as the atmospheric conditions and eyebrow as the arch of hair above each eye.",
+          "zh": "为避免歧义，城市交通控制室的教师分别说明天气,气象（weather）和眉毛（eyebrow），再用实例展示各自用法。"
+        },
+        {
+          "en": "A demonstration at an urban transport control room makes limestone (a sedimentary rock) concrete before explaining saturation (the process of totally saturating something with a substance).",
+          "zh": "城市交通控制室的简短演示先让石灰石（limestone）具体可见，再用第二个实例解释饱和(状态)（saturation）。"
+        },
+        {
+          "en": "Researchers at an urban transport control room use eyelid for either of two folds of skin, but reserve absorption for chemistry a process in which one substance permeates another.",
+          "zh": "城市交通控制室的研究记录分别使用眼睑（eyelid）和吸收（absorption）；由于含义不同，二者需要不同证据。"
+        },
+        {
+          "en": "The handbook at an urban transport control room introduces deflection—a twist or aberration—before censorship—counterintelligence achieved by banning or deleting any information of value.",
+          "zh": "城市交通控制室的手册先介绍偏斜,歪斜（deflection），再补充需要更多背景的审查（censorship）。"
+        },
+        {
+          "en": "At an urban transport control room, programing means setting an order and time for planned events, whereas adverb means the word class; separate examples prevent confusion.",
+          "zh": "城市交通控制室的课程分别解释程序编排（programing）与副词a. 副词的（adverb），避免学习者因定义不同而进行错误比较。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "weather",
+          "meaning": "n. 天气,气象"
+        },
+        {
+          "word": "eyebrow",
+          "meaning": "n. 眉毛"
+        },
+        {
+          "word": "limestone",
+          "meaning": "n.石灰石"
+        },
+        {
+          "word": "saturation",
+          "meaning": "n.饱和(状态);浸透"
+        },
+        {
+          "word": "eyelid",
+          "meaning": "n.眼睑"
+        },
+        {
+          "word": "absorption",
+          "meaning": "n.吸收;专注"
+        },
+        {
+          "word": "deflection",
+          "meaning": "n.偏斜,歪斜;偏差"
+        },
+        {
+          "word": "censorship",
+          "meaning": "n.审查"
+        },
+        {
+          "word": "programing",
+          "meaning": "n.程序编排"
+        },
+        {
+          "word": "adverb",
+          "meaning": "n. 副词a. 副词的"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d079-3",
+      "title": "Why Allotment Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "Decision makers at an urban transport control room cannot evaluate escalator (a clause in a contract) while excluding nightmare (a situation resembling a terrifying dream). An open meeting at an urban transport control room joined practical questions about speech (the act of delivering a formal spoken communication) with concerns about alternation (successive change from one thing or state to another). Policy at an urban transport control room should address customs—money collected under a tariff—without ignoring prohibition—a law forbidding the sale of alcoholic beverages. A proposal for an urban transport control room prioritizes backwardness (lack of normal development of intellectual capacities), while critics emphasize solitude (a state of social isolation). Public trust at an urban transport control room needs honest discussion of safety (the state of being certain) and measurable commitments on allotment (a share set aside for a specific purpose).",
+      "translation": "城市交通控制室的决策者不能只评估电动扶梯（escalator），却把恶梦（nightmare）排除在公开证据之外。城市交通控制室的公开会议把有关演说,讲话（speech）的实际问题与改变,变更（alternation）带来的伦理问题一同讨论。城市交通控制室的政策应处理海关（customs），也不能忽视禁止（prohibition）；两者都需要证据而非口号。城市交通控制室的方案优先处理落后(状态)（backwardness），批评者则认为寂寞,独居（solitude）也应得到同等关注。城市交通控制室要建立公众信任，就必须诚实讨论安全,保险（safety），并对分配,份额（allotment）作出可衡量承诺。",
+      "sentences": [
+        {
+          "en": "Decision makers at an urban transport control room cannot evaluate escalator (a clause in a contract) while excluding nightmare (a situation resembling a terrifying dream).",
+          "zh": "城市交通控制室的决策者不能只评估电动扶梯（escalator），却把恶梦（nightmare）排除在公开证据之外。"
+        },
+        {
+          "en": "An open meeting at an urban transport control room joined practical questions about speech (the act of delivering a formal spoken communication) with concerns about alternation (successive change from one thing or state to another).",
+          "zh": "城市交通控制室的公开会议把有关演说,讲话（speech）的实际问题与改变,变更（alternation）带来的伦理问题一同讨论。"
+        },
+        {
+          "en": "Policy at an urban transport control room should address customs—money collected under a tariff—without ignoring prohibition—a law forbidding the sale of alcoholic beverages.",
+          "zh": "城市交通控制室的政策应处理海关（customs），也不能忽视禁止（prohibition）；两者都需要证据而非口号。"
+        },
+        {
+          "en": "A proposal for an urban transport control room prioritizes backwardness (lack of normal development of intellectual capacities), while critics emphasize solitude (a state of social isolation).",
+          "zh": "城市交通控制室的方案优先处理落后(状态)（backwardness），批评者则认为寂寞,独居（solitude）也应得到同等关注。"
+        },
+        {
+          "en": "Public trust at an urban transport control room needs honest discussion of safety (the state of being certain) and measurable commitments on allotment (a share set aside for a specific purpose).",
+          "zh": "城市交通控制室要建立公众信任，就必须诚实讨论安全,保险（safety），并对分配,份额（allotment）作出可衡量承诺。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "escalator",
+          "meaning": "n.电动扶梯"
+        },
+        {
+          "word": "nightmare",
+          "meaning": "n. 恶梦;可怕的事物,无法摆脱的恐惧"
+        },
+        {
+          "word": "speech",
+          "meaning": "n. 演说,讲话;言语,语言"
+        },
+        {
+          "word": "alternation",
+          "meaning": "n.改变,变更"
+        },
+        {
+          "word": "customs",
+          "meaning": "n.海关"
+        },
+        {
+          "word": "prohibition",
+          "meaning": "n.禁止;禁令,禁律"
+        },
+        {
+          "word": "backwardness",
+          "meaning": "n.落后(状态)"
+        },
+        {
+          "word": "solitude",
+          "meaning": "n.寂寞,独居"
+        },
+        {
+          "word": "safety",
+          "meaning": "n. 安全,保险;安全设备,保险装置"
+        },
+        {
+          "word": "allotment",
+          "meaning": "n.分配,份额"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

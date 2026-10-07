@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 60,
+  "articles": [
+    {
+      "id": "cet4-reading-d060-1",
+      "title": "The Spear File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "During a tour of a Danish coastal university, the class found muffler (a tubular acoustic device inserted in the exhaust system) before locating sitting-room (a room in a private house or establishment). A visitor entered a Danish coastal university asking about hunter (someone) and left with a note on crate (a rugged box). Two volunteers at a Danish coastal university used the inventory to identify lodging (structures collectively in) and trainer (one). Rain kept a family inside a Danish coastal university, learning about salad (food mixtures either arranged on a plate or tossed) and cooker (a utensil for cooking). The newest room at a Danish coastal university began with cartridge (ammunition) and ended with spear (a long pointed rod used as a tool or weapon).",
+      "translation": "丹麦海岸大学的参观先让学生认识围巾,消音器（muffler）；一块丢失的标牌又把他们带到起居室（sitting-room）。访客到丹麦海岸大学询问猎人,搜索者（hunter），旧平面图却意外引导她发现了一箱,篓,筐（crate）。丹麦海岸大学的两名志愿者借助清单确认寄宿,住所,(大学生的)校外宿舍（lodging），并顺带找到另一条关于教练（trainer）的记录。雨天让一家人留在丹麦海岸大学，一个孩子学习色拉,凉拌菜（salad），另一个孩子则操作与厨具,厨灶（cooker）有关的模型。丹麦海岸大学最新展厅从弹药筒,子弹（cartridge）开始，以一个出人意料的本地矛,枪（spear）实例结束。",
+      "sentences": [
+        {
+          "en": "During a tour of a Danish coastal university, the class found muffler (a tubular acoustic device inserted in the exhaust system) before locating sitting-room (a room in a private house or establishment).",
+          "zh": "丹麦海岸大学的参观先让学生认识围巾,消音器（muffler）；一块丢失的标牌又把他们带到起居室（sitting-room）。"
+        },
+        {
+          "en": "A visitor entered a Danish coastal university asking about hunter (someone) and left with a note on crate (a rugged box).",
+          "zh": "访客到丹麦海岸大学询问猎人,搜索者（hunter），旧平面图却意外引导她发现了一箱,篓,筐（crate）。"
+        },
+        {
+          "en": "Two volunteers at a Danish coastal university used the inventory to identify lodging (structures collectively in) and trainer (one).",
+          "zh": "丹麦海岸大学的两名志愿者借助清单确认寄宿,住所,(大学生的)校外宿舍（lodging），并顺带找到另一条关于教练（trainer）的记录。"
+        },
+        {
+          "en": "Rain kept a family inside a Danish coastal university, learning about salad (food mixtures either arranged on a plate or tossed) and cooker (a utensil for cooking).",
+          "zh": "雨天让一家人留在丹麦海岸大学，一个孩子学习色拉,凉拌菜（salad），另一个孩子则操作与厨具,厨灶（cooker）有关的模型。"
+        },
+        {
+          "en": "The newest room at a Danish coastal university began with cartridge (ammunition) and ended with spear (a long pointed rod used as a tool or weapon).",
+          "zh": "丹麦海岸大学最新展厅从弹药筒,子弹（cartridge）开始，以一个出人意料的本地矛,枪（spear）实例结束。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "muffler",
+          "meaning": "n.围巾,消音器"
+        },
+        {
+          "word": "sitting-room",
+          "meaning": "n.起居室"
+        },
+        {
+          "word": "hunter",
+          "meaning": "n.猎人,搜索者"
+        },
+        {
+          "word": "crate",
+          "meaning": "n.一箱,篓,筐"
+        },
+        {
+          "word": "lodging",
+          "meaning": "n. 寄宿,住所,(大学生的)校外宿舍"
+        },
+        {
+          "word": "trainer",
+          "meaning": "n.教练"
+        },
+        {
+          "word": "salad",
+          "meaning": "n. 色拉,凉拌菜"
+        },
+        {
+          "word": "cooker",
+          "meaning": "n.厨具,厨灶"
+        },
+        {
+          "word": "cartridge",
+          "meaning": "n.弹药筒,子弹;软片"
+        },
+        {
+          "word": "spear",
+          "meaning": "n. 矛,枪"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "spear",
+          "explanation": "最后一个目标词是矛,枪（spear）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d060-2",
+      "title": "Understanding Crab Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "Researchers at a Danish coastal university use crab for decapod, but reserve parrot for usually brightly colored zygodactyl tropical birds with short hooked beaks. A chart in a Danish coastal university defines ginger as perennial plants and tigress as a female tiger on different branches. Field notes from a Danish coastal university distinguish waist (the narrowing of the body between the ribs and hips) from tuna (tropical American prickly pear of Jamaica). A demonstration at a Danish coastal university makes Denmark (a constitutional monarchy in northern Europe) concrete before explaining perch (support). By separating terminology (a system of words used to name things) from hearing (law a proceeding usually by a court where evidence is), a Danish coastal university turns definitions into usable knowledge.",
+      "translation": "丹麦海岸大学的研究记录分别使用螃蟹,蟹肉（crab）和鹦鹉（parrot）；由于含义不同，二者需要不同证据。丹麦海岸大学的图表把姜,生姜（ginger）和母虎（tigress）放在不同分支，让读者清楚看见两者区别。丹麦海岸大学的野外记录严格区分腰,腰部（waist）和金枪鱼（tuna），使记录保持准确。丹麦海岸大学的简短演示先让丹麦（Denmark）具体可见，再用第二个实例解释(禽鸟的)栖木（perch）。丹麦海岸大学把术语学,术语（terminology）与听力,听力所及距离,被听到机会（hearing）分开考察，使两个陌生概念转化为可使用的知识。",
+      "sentences": [
+        {
+          "en": "Researchers at a Danish coastal university use crab for decapod, but reserve parrot for usually brightly colored zygodactyl tropical birds with short hooked beaks.",
+          "zh": "丹麦海岸大学的研究记录分别使用螃蟹,蟹肉（crab）和鹦鹉（parrot）；由于含义不同，二者需要不同证据。"
+        },
+        {
+          "en": "A chart in a Danish coastal university defines ginger as perennial plants and tigress as a female tiger on different branches.",
+          "zh": "丹麦海岸大学的图表把姜,生姜（ginger）和母虎（tigress）放在不同分支，让读者清楚看见两者区别。"
+        },
+        {
+          "en": "Field notes from a Danish coastal university distinguish waist (the narrowing of the body between the ribs and hips) from tuna (tropical American prickly pear of Jamaica).",
+          "zh": "丹麦海岸大学的野外记录严格区分腰,腰部（waist）和金枪鱼（tuna），使记录保持准确。"
+        },
+        {
+          "en": "A demonstration at a Danish coastal university makes Denmark (a constitutional monarchy in northern Europe) concrete before explaining perch (support).",
+          "zh": "丹麦海岸大学的简短演示先让丹麦（Denmark）具体可见，再用第二个实例解释(禽鸟的)栖木（perch）。"
+        },
+        {
+          "en": "By separating terminology (a system of words used to name things) from hearing (law a proceeding usually by a court where evidence is), a Danish coastal university turns definitions into usable knowledge.",
+          "zh": "丹麦海岸大学把术语学,术语（terminology）与听力,听力所及距离,被听到机会（hearing）分开考察，使两个陌生概念转化为可使用的知识。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "crab",
+          "meaning": "n. 螃蟹,蟹肉"
+        },
+        {
+          "word": "parrot",
+          "meaning": "n.鹦鹉"
+        },
+        {
+          "word": "ginger",
+          "meaning": "n.姜,生姜"
+        },
+        {
+          "word": "tigress",
+          "meaning": "n.母虎"
+        },
+        {
+          "word": "waist",
+          "meaning": "n. 腰,腰部"
+        },
+        {
+          "word": "tuna",
+          "meaning": "n.金枪鱼"
+        },
+        {
+          "word": "Denmark",
+          "meaning": "n.丹麦"
+        },
+        {
+          "word": "perch",
+          "meaning": "n.(禽鸟的)栖木"
+        },
+        {
+          "word": "terminology",
+          "meaning": "n.术语学,术语"
+        },
+        {
+          "word": "hearing",
+          "meaning": "n. 听力,听力所及距离,被听到机会;(法律)审讯"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d060-3",
+      "title": "Why Scholarship Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "A review panel at a Danish coastal university rejected claims that strength (the property of being physically or mentally strong) automatically outweighed amendment (the act of amending or correcting). Decision makers at a Danish coastal university cannot evaluate sweetness (the taste experience) while excluding cubism (an artistic movement in France beginning). Residents near a Danish coastal university debated tenor (the adult) and television (broadcasting visual images of stationary or moving objects), then requested written evidence. Long-term planning at a Danish coastal university needs indicators for packaging (the business of packing) and independent scrutiny of university (the body of faculty and students at a university). Policy at a Danish coastal university should address irregularity—behavior—without ignoring scholarship—financial aid provided to a student on the basis.",
+      "translation": "丹麦海岸大学的审查小组拒绝在缺乏地方证据时认定力,力量（strength）天然比修改(通知书)（amendment）更重要。丹麦海岸大学的决策者不能只评估甜蜜（sweetness），却把立体主义（cubism）排除在公开证据之外。丹麦海岸大学附近居民讨论(支票)限期,男高音歌唱家,进程,大意（tenor）和电视（television）后，要求书面说明成本与责任。丹麦海岸大学的长期规划应公布包装（packaging）指标，也应允许独立人员审查有关(综合)大学（university）的主张。丹麦海岸大学的政策应处理不规则（irregularity），也不能忽视学问（scholarship）；两者都需要证据而非口号。",
+      "sentences": [
+        {
+          "en": "A review panel at a Danish coastal university rejected claims that strength (the property of being physically or mentally strong) automatically outweighed amendment (the act of amending or correcting).",
+          "zh": "丹麦海岸大学的审查小组拒绝在缺乏地方证据时认定力,力量（strength）天然比修改(通知书)（amendment）更重要。"
+        },
+        {
+          "en": "Decision makers at a Danish coastal university cannot evaluate sweetness (the taste experience) while excluding cubism (an artistic movement in France beginning).",
+          "zh": "丹麦海岸大学的决策者不能只评估甜蜜（sweetness），却把立体主义（cubism）排除在公开证据之外。"
+        },
+        {
+          "en": "Residents near a Danish coastal university debated tenor (the adult) and television (broadcasting visual images of stationary or moving objects), then requested written evidence.",
+          "zh": "丹麦海岸大学附近居民讨论(支票)限期,男高音歌唱家,进程,大意（tenor）和电视（television）后，要求书面说明成本与责任。"
+        },
+        {
+          "en": "Long-term planning at a Danish coastal university needs indicators for packaging (the business of packing) and independent scrutiny of university (the body of faculty and students at a university).",
+          "zh": "丹麦海岸大学的长期规划应公布包装（packaging）指标，也应允许独立人员审查有关(综合)大学（university）的主张。"
+        },
+        {
+          "en": "Policy at a Danish coastal university should address irregularity—behavior—without ignoring scholarship—financial aid provided to a student on the basis.",
+          "zh": "丹麦海岸大学的政策应处理不规则（irregularity），也不能忽视学问（scholarship）；两者都需要证据而非口号。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "strength",
+          "meaning": "n. 力,力量;实力;长处,优点;人力;兵力"
+        },
+        {
+          "word": "amendment",
+          "meaning": "n.修改(通知书)"
+        },
+        {
+          "word": "sweetness",
+          "meaning": "n.甜蜜;新鲜;温和"
+        },
+        {
+          "word": "cubism",
+          "meaning": "n.立体主义"
+        },
+        {
+          "word": "tenor",
+          "meaning": "n.(支票)限期,男高音歌唱家,进程,大意"
+        },
+        {
+          "word": "television",
+          "meaning": "n. 电视;电视机"
+        },
+        {
+          "word": "packaging",
+          "meaning": "n.包装"
+        },
+        {
+          "word": "university",
+          "meaning": "n. (综合)大学"
+        },
+        {
+          "word": "irregularity",
+          "meaning": "n.不规则;不整齐"
+        },
+        {
+          "word": "scholarship",
+          "meaning": "n. 学问;奖学金"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

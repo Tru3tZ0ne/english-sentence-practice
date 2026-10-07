@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 45,
+  "articles": [
+    {
+      "id": "cet4-reading-d045-1",
+      "title": "The Shutter File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "During a tour of a residential history archive, the class found rig (gear) before locating scrap (a small fragment of something broken off from the whole). At a residential history archive, a guide explained sculpture (a three-dimensional work of plastic art) beside a display of seam (joint). Near closing time at a residential history archive, a diary linked the displays of segment (one of several parts or pieces) and senator (a member of a senate). A student at a residential history archive photographed sergeant—any of several noncommissioned officer ranks in the Army—and sketched shepherd—a clergyman. When a shelf shifted at a residential history archive, staff protected files on shipment (goods carried by a large vehicle) and shutter (a mechanical device on a camera).",
+      "translation": "社区历史档案馆的参观先让学生认识索具装备, 钻探设备, 钻探平台, 钻塔。v.装上索具, 配备, 装配。（rig）；一块丢失的标牌又把他们带到碎片,碎屑（scrap）。在社区历史档案馆的参观过程中，讲解员先介绍雕塑,雕刻（sculpture），随后带大家找到另一项独立展品线缝,接缝（seam）。社区历史档案馆闭馆前，一本提到部分,切片（segment）的日记帮助员工找到了一幅标有参议员（senator）的画的主人。学生在社区历史档案馆记录警官,军士（sergeant）后，又到另一处展区了解牧羊人（shepherd），两项内容分别得到清楚说明。社区历史档案馆的架子倒下时，员工保护了有关装船,装运（shipment）的材料，也找回了旁边关于百叶窗,照相机快门（shutter）的档案。",
+      "sentences": [
+        {
+          "en": "During a tour of a residential history archive, the class found rig (gear) before locating scrap (a small fragment of something broken off from the whole).",
+          "zh": "社区历史档案馆的参观先让学生认识索具装备, 钻探设备, 钻探平台, 钻塔。v.装上索具, 配备, 装配。（rig）；一块丢失的标牌又把他们带到碎片,碎屑（scrap）。"
+        },
+        {
+          "en": "At a residential history archive, a guide explained sculpture (a three-dimensional work of plastic art) beside a display of seam (joint).",
+          "zh": "在社区历史档案馆的参观过程中，讲解员先介绍雕塑,雕刻（sculpture），随后带大家找到另一项独立展品线缝,接缝（seam）。"
+        },
+        {
+          "en": "Near closing time at a residential history archive, a diary linked the displays of segment (one of several parts or pieces) and senator (a member of a senate).",
+          "zh": "社区历史档案馆闭馆前，一本提到部分,切片（segment）的日记帮助员工找到了一幅标有参议员（senator）的画的主人。"
+        },
+        {
+          "en": "A student at a residential history archive photographed sergeant—any of several noncommissioned officer ranks in the Army—and sketched shepherd—a clergyman.",
+          "zh": "学生在社区历史档案馆记录警官,军士（sergeant）后，又到另一处展区了解牧羊人（shepherd），两项内容分别得到清楚说明。"
+        },
+        {
+          "en": "When a shelf shifted at a residential history archive, staff protected files on shipment (goods carried by a large vehicle) and shutter (a mechanical device on a camera).",
+          "zh": "社区历史档案馆的架子倒下时，员工保护了有关装船,装运（shipment）的材料，也找回了旁边关于百叶窗,照相机快门（shutter）的档案。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "rig",
+          "meaning": "n.索具装备, 钻探设备, 钻探平台, 钻塔。v.装上索具, 配备, 装配。"
+        },
+        {
+          "word": "scrap",
+          "meaning": "n. 碎片,碎屑;少许,少量"
+        },
+        {
+          "word": "sculpture",
+          "meaning": "n./v. 雕塑,雕刻"
+        },
+        {
+          "word": "seam",
+          "meaning": "n./v. 线缝,接缝;煤层"
+        },
+        {
+          "word": "segment",
+          "meaning": "n. 部分,切片;段,节;v. 分割"
+        },
+        {
+          "word": "senator",
+          "meaning": "n. 参议员"
+        },
+        {
+          "word": "sergeant",
+          "meaning": "n.警官,军士"
+        },
+        {
+          "word": "shepherd",
+          "meaning": "n. 牧羊人;vi. 带领,照看"
+        },
+        {
+          "word": "shipment",
+          "meaning": "n. 装船,装运;装载的货物,装货量"
+        },
+        {
+          "word": "shutter",
+          "meaning": "n. 百叶窗,照相机快门"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "shutter",
+          "explanation": "最后一个目标词是百叶窗,照相机快门（shutter）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d045-2",
+      "title": "Understanding Shark Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "Researchers at a residential history archive use shark for any of numerous elongate mostly marine carnivorous fishes with heterocercal, but reserve shrub for a low woody perennial plant. The glossary at a residential history archive defines silicon as a tetravalent nonmetallic element and cross-references skull, meaning the bony skeleton of the head of vertebrates. The handbook at a residential history archive introduces slump—a noticeable deterioration in performance or quality—before reservation—a district. A classification exercise at a residential history archive compares retrospect (contemplation of things past) with reunion (a party of former associates). A demonstration at a residential history archive makes revelation (the speech act of making something evident) concrete before explaining revenue (the entire amount of income before any deductions are).",
+      "translation": "社区历史档案馆的研究记录分别使用鲨鱼（shark）和灌木,灌木丛（shrub）；由于含义不同，二者需要不同证据。社区历史档案馆的词汇表定义硅（silicon），并以交叉索引引导读者查看头盖骨,颅骨（skull），但不把二者视为相同。社区历史档案馆的手册先介绍暴跌,不景气,(个人的,球队的)低潮状态（slump），再补充需要更多背景的保留,保留意见（reservation）。社区历史档案馆的分类练习把回顾。（retrospect）与团圆,重聚（reunion）并列，要求学习者找出两者不同特征。社区历史档案馆的简短演示先让显示, 揭露, 被揭露的事, 新发现, 启示, 揭示。（revelation）具体可见，再用第二个实例解释(国家的)年收入,税收（revenue）。",
+      "sentences": [
+        {
+          "en": "Researchers at a residential history archive use shark for any of numerous elongate mostly marine carnivorous fishes with heterocercal, but reserve shrub for a low woody perennial plant.",
+          "zh": "社区历史档案馆的研究记录分别使用鲨鱼（shark）和灌木,灌木丛（shrub）；由于含义不同，二者需要不同证据。"
+        },
+        {
+          "en": "The glossary at a residential history archive defines silicon as a tetravalent nonmetallic element and cross-references skull, meaning the bony skeleton of the head of vertebrates.",
+          "zh": "社区历史档案馆的词汇表定义硅（silicon），并以交叉索引引导读者查看头盖骨,颅骨（skull），但不把二者视为相同。"
+        },
+        {
+          "en": "The handbook at a residential history archive introduces slump—a noticeable deterioration in performance or quality—before reservation—a district.",
+          "zh": "社区历史档案馆的手册先介绍暴跌,不景气,(个人的,球队的)低潮状态（slump），再补充需要更多背景的保留,保留意见（reservation）。"
+        },
+        {
+          "en": "A classification exercise at a residential history archive compares retrospect (contemplation of things past) with reunion (a party of former associates).",
+          "zh": "社区历史档案馆的分类练习把回顾。（retrospect）与团圆,重聚（reunion）并列，要求学习者找出两者不同特征。"
+        },
+        {
+          "en": "A demonstration at a residential history archive makes revelation (the speech act of making something evident) concrete before explaining revenue (the entire amount of income before any deductions are).",
+          "zh": "社区历史档案馆的简短演示先让显示, 揭露, 被揭露的事, 新发现, 启示, 揭示。（revelation）具体可见，再用第二个实例解释(国家的)年收入,税收（revenue）。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "shark",
+          "meaning": "n. 鲨鱼"
+        },
+        {
+          "word": "shrub",
+          "meaning": "n. 灌木,灌木丛"
+        },
+        {
+          "word": "silicon",
+          "meaning": "n. 硅"
+        },
+        {
+          "word": "skull",
+          "meaning": "n. 头盖骨,颅骨"
+        },
+        {
+          "word": "slump",
+          "meaning": "n.暴跌,不景气,(个人的,球队的)低潮状态"
+        },
+        {
+          "word": "reservation",
+          "meaning": "n. 保留,保留意见;预定,预订"
+        },
+        {
+          "word": "retrospect",
+          "meaning": "n.回顾。"
+        },
+        {
+          "word": "reunion",
+          "meaning": "n.团圆,重聚"
+        },
+        {
+          "word": "revelation",
+          "meaning": "n.显示, 揭露, 被揭露的事, 新发现, 启示, 揭示。"
+        },
+        {
+          "word": "revenue",
+          "meaning": "n. (国家的)年收入,税收"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d045-3",
+      "title": "Why Scope Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "Funding choices at a residential history archive require clear definitions of ritual (any customary observance or practice) and rivalry (the act of competing as for profit or a prize). Public trust at a residential history archive needs honest discussion of romance (a relationship between two lovers) and measurable commitments on royalty (payment to the holder of a patent or copyright). Policy at a residential history archive should address salvation—theology the act of delivering from sin or saving—without ignoring sanction—formal and explicit approval. Before approving change at a residential history archive, leaders must explain scandal (disgraceful gossip about the private lives of other people) and risks involving scar (a mark left). A forum at a residential history archive considered scent (a distinctive odor) alongside scope (an area in) before setting priorities.",
+      "translation": "社区历史档案馆的官员清楚定义典礼, (宗教)仪式, 礼节。adj.典礼的, (宗教)仪式的。（ritual）并解释方案如何回应竞争,对抗（rivalry），资金选择才会更明白。社区历史档案馆要建立公众信任，就必须诚实讨论传奇,爱情故事（romance），并对皇家,皇族（royalty）作出可衡量承诺。社区历史档案馆的政策应处理拯救,救助（salvation），也不能忽视批准, 同意, 支持, 制裁, 认可。v.批准, 同意, 支持, 鼓励, 认可。（sanction）；两者都需要证据而非口号。批准社区历史档案馆的改变前，领导者应解释冒犯或引起反感的行动,流言,诽谤（scandal）为何重要，以及谁承担伤疤,伤痕（scar）带来的风险。社区历史档案馆的公开论坛同时考虑气味,香味（scent）与(活动)范围（scope），并讨论哪一项更需要优先行动。",
+      "sentences": [
+        {
+          "en": "Funding choices at a residential history archive require clear definitions of ritual (any customary observance or practice) and rivalry (the act of competing as for profit or a prize).",
+          "zh": "社区历史档案馆的官员清楚定义典礼, (宗教)仪式, 礼节。adj.典礼的, (宗教)仪式的。（ritual）并解释方案如何回应竞争,对抗（rivalry），资金选择才会更明白。"
+        },
+        {
+          "en": "Public trust at a residential history archive needs honest discussion of romance (a relationship between two lovers) and measurable commitments on royalty (payment to the holder of a patent or copyright).",
+          "zh": "社区历史档案馆要建立公众信任，就必须诚实讨论传奇,爱情故事（romance），并对皇家,皇族（royalty）作出可衡量承诺。"
+        },
+        {
+          "en": "Policy at a residential history archive should address salvation—theology the act of delivering from sin or saving—without ignoring sanction—formal and explicit approval.",
+          "zh": "社区历史档案馆的政策应处理拯救,救助（salvation），也不能忽视批准, 同意, 支持, 制裁, 认可。v.批准, 同意, 支持, 鼓励, 认可。（sanction）；两者都需要证据而非口号。"
+        },
+        {
+          "en": "Before approving change at a residential history archive, leaders must explain scandal (disgraceful gossip about the private lives of other people) and risks involving scar (a mark left).",
+          "zh": "批准社区历史档案馆的改变前，领导者应解释冒犯或引起反感的行动,流言,诽谤（scandal）为何重要，以及谁承担伤疤,伤痕（scar）带来的风险。"
+        },
+        {
+          "en": "A forum at a residential history archive considered scent (a distinctive odor) alongside scope (an area in) before setting priorities.",
+          "zh": "社区历史档案馆的公开论坛同时考虑气味,香味（scent）与(活动)范围（scope），并讨论哪一项更需要优先行动。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "ritual",
+          "meaning": "n.典礼, (宗教)仪式, 礼节。adj.典礼的, (宗教)仪式的。"
+        },
+        {
+          "word": "rivalry",
+          "meaning": "n.竞争,对抗"
+        },
+        {
+          "word": "romance",
+          "meaning": "n. 传奇,爱情故事"
+        },
+        {
+          "word": "royalty",
+          "meaning": "n. 皇家,皇族"
+        },
+        {
+          "word": "salvation",
+          "meaning": "n.拯救,救助"
+        },
+        {
+          "word": "sanction",
+          "meaning": "n.批准, 同意, 支持, 制裁, 认可。v.批准, 同意, 支持, 鼓励, 认可。"
+        },
+        {
+          "word": "scandal",
+          "meaning": "n. 冒犯或引起反感的行动,流言,诽谤"
+        },
+        {
+          "word": "scar",
+          "meaning": "n. 伤疤,伤痕;(喻)内心创伤"
+        },
+        {
+          "word": "scent",
+          "meaning": "n. 气味,香味;香水;踪迹,臭迹,线索;vt. 嗅出,闻到,察觉,怀疑有"
+        },
+        {
+          "word": "scope",
+          "meaning": "n. (活动)范围;机会,余地"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

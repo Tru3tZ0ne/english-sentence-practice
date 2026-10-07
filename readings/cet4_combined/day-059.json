@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 59,
+  "articles": [
+    {
+      "id": "cet4-reading-d059-1",
+      "title": "The Stapler File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "A quiet corner of a mining-town bookstore presented miner (laborer); a recording nearby introduced neighbor (a person). The morning program at a mining-town bookstore paired a section on antibiotic (a chemical substance derivable from a mold or bacterium) with one on uncle (the brother of your father or mother). The newest room at a mining-town bookstore began with luncheon (a midday meal) and ended with interpreter (someone). A student at a mining-town bookstore photographed bookstore—a shop—and sketched agent—an active and efficient cause. Inside a mining-town bookstore, the curator corrected labels for jewelry (an adornment) and stapler (a machine).",
+      "translation": "矿区书店安静的一角介绍矿工（miner），旁边的录音访谈则讲述邻居（neighbor）背后的人物故事。矿区书店的上午活动把抗生素（antibiotic）与另一项关于伯父,叔父,舅父,姑父,姨父（uncle）的展览相邻安排，但没有混淆两者。矿区书店最新展厅从午宴,午餐,便宴（luncheon）开始，以一个出人意料的本地译员,口译者（interpreter）实例结束。学生在矿区书店记录书店（bookstore）后，又到另一处展区了解代理人（agent），两项内容分别得到清楚说明。矿区书店的策展人先纠正(总称)珠宝（jewelry）的标签错误，随后发现关于钉书机（stapler）的材料也放错了位置。",
+      "sentences": [
+        {
+          "en": "A quiet corner of a mining-town bookstore presented miner (laborer); a recording nearby introduced neighbor (a person).",
+          "zh": "矿区书店安静的一角介绍矿工（miner），旁边的录音访谈则讲述邻居（neighbor）背后的人物故事。"
+        },
+        {
+          "en": "The morning program at a mining-town bookstore paired a section on antibiotic (a chemical substance derivable from a mold or bacterium) with one on uncle (the brother of your father or mother).",
+          "zh": "矿区书店的上午活动把抗生素（antibiotic）与另一项关于伯父,叔父,舅父,姑父,姨父（uncle）的展览相邻安排，但没有混淆两者。"
+        },
+        {
+          "en": "The newest room at a mining-town bookstore began with luncheon (a midday meal) and ended with interpreter (someone).",
+          "zh": "矿区书店最新展厅从午宴,午餐,便宴（luncheon）开始，以一个出人意料的本地译员,口译者（interpreter）实例结束。"
+        },
+        {
+          "en": "A student at a mining-town bookstore photographed bookstore—a shop—and sketched agent—an active and efficient cause.",
+          "zh": "学生在矿区书店记录书店（bookstore）后，又到另一处展区了解代理人（agent），两项内容分别得到清楚说明。"
+        },
+        {
+          "en": "Inside a mining-town bookstore, the curator corrected labels for jewelry (an adornment) and stapler (a machine).",
+          "zh": "矿区书店的策展人先纠正(总称)珠宝（jewelry）的标签错误，随后发现关于钉书机（stapler）的材料也放错了位置。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "miner",
+          "meaning": "n.矿工"
+        },
+        {
+          "word": "neighbor",
+          "meaning": "n. 邻居"
+        },
+        {
+          "word": "antibiotic",
+          "meaning": "n./a. 抗生素;抗菌的"
+        },
+        {
+          "word": "uncle",
+          "meaning": "n. 伯父,叔父,舅父,姑父,姨父"
+        },
+        {
+          "word": "luncheon",
+          "meaning": "n.午宴,午餐,便宴"
+        },
+        {
+          "word": "interpreter",
+          "meaning": "n.译员,口译者"
+        },
+        {
+          "word": "bookstore",
+          "meaning": "n.书店"
+        },
+        {
+          "word": "agent",
+          "meaning": "n. 代理人;代理商;产生作用的人或事物"
+        },
+        {
+          "word": "jewelry",
+          "meaning": "n. (总称)珠宝"
+        },
+        {
+          "word": "stapler",
+          "meaning": "n.钉书机"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "stapler",
+          "explanation": "最后一个目标词是钉书机（stapler）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d059-2",
+      "title": "Understanding Tail Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "Researchers at a mining-town bookstore use tail for the posterior part of the body of a vertebrate, but reserve leopard for the pelt of a leopard. A classification exercise at a mining-town bookstore compares decline (change toward something smaller or lower) with vine (a plant with a weak stem). Students at a mining-town bookstore summarize cardboard as a stiff moderately thick paper and rubbish as worthless material, then test new examples. A chart in a mining-town bookstore defines oscillation as the process of oscillating between states and cab as a compartment at the front of a motor vehicle on different branches. At a mining-town bookstore, comrade means a friend, whereas visit means the act of going to see some person or place; separate examples prevent confusion.",
+      "translation": "矿区书店的研究记录分别使用尾巴（tail）和豹（leopard）；由于含义不同，二者需要不同证据。矿区书店的分类练习把下降（decline）与葡萄树（vine）并列，要求学习者找出两者不同特征。矿区书店的学生分别概括硬纸板（cardboard）与垃圾,废物（rubbish），随后检验新实例是否符合定义。矿区书店的图表把摆动,振动（oscillation）和出租车,出租马车（cab）放在不同分支，让读者清楚看见两者区别。矿区书店的课程分别解释同志,同事,同伴,朋友（comrade）与访问,参观v. 访问,参观（visit），避免学习者因定义不同而进行错误比较。",
+      "sentences": [
+        {
+          "en": "Researchers at a mining-town bookstore use tail for the posterior part of the body of a vertebrate, but reserve leopard for the pelt of a leopard.",
+          "zh": "矿区书店的研究记录分别使用尾巴（tail）和豹（leopard）；由于含义不同，二者需要不同证据。"
+        },
+        {
+          "en": "A classification exercise at a mining-town bookstore compares decline (change toward something smaller or lower) with vine (a plant with a weak stem).",
+          "zh": "矿区书店的分类练习把下降（decline）与葡萄树（vine）并列，要求学习者找出两者不同特征。"
+        },
+        {
+          "en": "Students at a mining-town bookstore summarize cardboard as a stiff moderately thick paper and rubbish as worthless material, then test new examples.",
+          "zh": "矿区书店的学生分别概括硬纸板（cardboard）与垃圾,废物（rubbish），随后检验新实例是否符合定义。"
+        },
+        {
+          "en": "A chart in a mining-town bookstore defines oscillation as the process of oscillating between states and cab as a compartment at the front of a motor vehicle on different branches.",
+          "zh": "矿区书店的图表把摆动,振动（oscillation）和出租车,出租马车（cab）放在不同分支，让读者清楚看见两者区别。"
+        },
+        {
+          "en": "At a mining-town bookstore, comrade means a friend, whereas visit means the act of going to see some person or place; separate examples prevent confusion.",
+          "zh": "矿区书店的课程分别解释同志,同事,同伴,朋友（comrade）与访问,参观v. 访问,参观（visit），避免学习者因定义不同而进行错误比较。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "tail",
+          "meaning": "n. 尾巴;尾部;跟踪者vt. 尾随,跟踪"
+        },
+        {
+          "word": "leopard",
+          "meaning": "n.豹"
+        },
+        {
+          "word": "decline",
+          "meaning": "n./v. 下降;衰退,减弱;谢绝"
+        },
+        {
+          "word": "vine",
+          "meaning": "n.葡萄树"
+        },
+        {
+          "word": "cardboard",
+          "meaning": "n.硬纸板"
+        },
+        {
+          "word": "rubbish",
+          "meaning": "n. 垃圾,废物;废话"
+        },
+        {
+          "word": "oscillation",
+          "meaning": "n.摆动,振动"
+        },
+        {
+          "word": "cab",
+          "meaning": "n. 出租车,出租马车;驾驶室vi. 乘出租马车"
+        },
+        {
+          "word": "comrade",
+          "meaning": "n. 同志,同事,同伴,朋友"
+        },
+        {
+          "word": "visit",
+          "meaning": "n. 访问,参观v. 访问,参观;视察;降临;闲谈"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d059-3",
+      "title": "Why Superstition Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "Public trust at a mining-town bookstore needs honest discussion of tyranny (a form of government) and measurable commitments on ability (the quality of being able to perform). Before approving change at a mining-town bookstore, leaders must explain penetration (an attack) and risks involving idleness (having no employment). A forum at a mining-town bookstore considered extinction (no longer active) alongside surname (the name used to identify the members of a family) before setting priorities. Funding choices at a mining-town bookstore require clear definitions of carol (joyful religious song celebrating the birth of Christ) and dating (use of chemical analysis to estimate the age of geological). Policy at a mining-town bookstore should address subordination—the state of being subordinate to something—without ignoring superstition—an irrational belief arising from ignorance or fear.",
+      "translation": "矿区书店要建立公众信任，就必须诚实讨论暴政,专制（tyranny），并对能力（ability）作出可衡量承诺。批准矿区书店的改变前，领导者应解释穿入（penetration）为何重要，以及谁承担懒惰（idleness）带来的风险。矿区书店的公开论坛同时考虑绝灭,熄灭（extinction）与姓（surname），并讨论哪一项更需要优先行动。矿区书店的官员清楚定义颂歌（carol）并解释方案如何回应约会（dating），资金选择才会更明白。矿区书店的政策应处理服从,附属,主从关系（subordination），也不能忽视迷信（superstition）；两者都需要证据而非口号。",
+      "sentences": [
+        {
+          "en": "Public trust at a mining-town bookstore needs honest discussion of tyranny (a form of government) and measurable commitments on ability (the quality of being able to perform).",
+          "zh": "矿区书店要建立公众信任，就必须诚实讨论暴政,专制（tyranny），并对能力（ability）作出可衡量承诺。"
+        },
+        {
+          "en": "Before approving change at a mining-town bookstore, leaders must explain penetration (an attack) and risks involving idleness (having no employment).",
+          "zh": "批准矿区书店的改变前，领导者应解释穿入（penetration）为何重要，以及谁承担懒惰（idleness）带来的风险。"
+        },
+        {
+          "en": "A forum at a mining-town bookstore considered extinction (no longer active) alongside surname (the name used to identify the members of a family) before setting priorities.",
+          "zh": "矿区书店的公开论坛同时考虑绝灭,熄灭（extinction）与姓（surname），并讨论哪一项更需要优先行动。"
+        },
+        {
+          "en": "Funding choices at a mining-town bookstore require clear definitions of carol (joyful religious song celebrating the birth of Christ) and dating (use of chemical analysis to estimate the age of geological).",
+          "zh": "矿区书店的官员清楚定义颂歌（carol）并解释方案如何回应约会（dating），资金选择才会更明白。"
+        },
+        {
+          "en": "Policy at a mining-town bookstore should address subordination—the state of being subordinate to something—without ignoring superstition—an irrational belief arising from ignorance or fear.",
+          "zh": "矿区书店的政策应处理服从,附属,主从关系（subordination），也不能忽视迷信（superstition）；两者都需要证据而非口号。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "tyranny",
+          "meaning": "n.暴政,专制;残暴"
+        },
+        {
+          "word": "ability",
+          "meaning": "n. 能力;本领;才能,才干;专门技能,天资"
+        },
+        {
+          "word": "penetration",
+          "meaning": "n.穿入;渗透,侵入"
+        },
+        {
+          "word": "idleness",
+          "meaning": "n.懒惰;赋闲无事"
+        },
+        {
+          "word": "extinction",
+          "meaning": "n.绝灭,熄灭"
+        },
+        {
+          "word": "surname",
+          "meaning": "n. 姓"
+        },
+        {
+          "word": "carol",
+          "meaning": "n.颂歌"
+        },
+        {
+          "word": "dating",
+          "meaning": "n.约会"
+        },
+        {
+          "word": "subordination",
+          "meaning": "n.服从,附属,主从关系"
+        },
+        {
+          "word": "superstition",
+          "meaning": "n. 迷信;迷信行为"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

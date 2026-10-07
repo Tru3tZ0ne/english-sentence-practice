@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 57,
+  "articles": [
+    {
+      "id": "cet4-reading-d057-1",
+      "title": "The Literate File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "When a shelf shifted at a shipyard guesthouse, staff protected files on fodder (soldiers) and consulate (diplomatic building). A visitor entered a shipyard guesthouse asking about canary (someone acting as an informer or decoy for the police) and left with a note on sauce (flavorful relish or dressing or topping served as an accompaniment). The morning program at a shipyard guesthouse paired a section on refugee (an exile) with one on guesthouse (a house separate from the main house). At a shipyard guesthouse, a guide explained guitar (a stringed instrument) beside a display of dweller (a person). During a tour of a shipyard guesthouse, the class found shipyard (a workplace) before locating literate (a person).",
+      "translation": "造船厂招待所的架子倒下时，员工保护了有关饲料（fodder）的材料，也找回了旁边关于领事馆（consulate）的档案。访客到造船厂招待所询问金丝雀（canary），旧平面图却意外引导她发现了调味汁,酱油,莽撞,冒失（sauce）。造船厂招待所的上午活动把避难者,难民（refugee）与另一项关于宾馆（guesthouse）的展览相邻安排，但没有混淆两者。在造船厂招待所的参观过程中，讲解员先介绍吉他vi. 弹吉他（guitar），随后带大家找到另一项独立展品居住者,住客（dweller）。造船厂招待所的参观先让学生认识船坞（shipyard）；一块丢失的标牌又把他们带到有文化的（literate）。",
+      "sentences": [
+        {
+          "en": "When a shelf shifted at a shipyard guesthouse, staff protected files on fodder (soldiers) and consulate (diplomatic building).",
+          "zh": "造船厂招待所的架子倒下时，员工保护了有关饲料（fodder）的材料，也找回了旁边关于领事馆（consulate）的档案。"
+        },
+        {
+          "en": "A visitor entered a shipyard guesthouse asking about canary (someone acting as an informer or decoy for the police) and left with a note on sauce (flavorful relish or dressing or topping served as an accompaniment).",
+          "zh": "访客到造船厂招待所询问金丝雀（canary），旧平面图却意外引导她发现了调味汁,酱油,莽撞,冒失（sauce）。"
+        },
+        {
+          "en": "The morning program at a shipyard guesthouse paired a section on refugee (an exile) with one on guesthouse (a house separate from the main house).",
+          "zh": "造船厂招待所的上午活动把避难者,难民（refugee）与另一项关于宾馆（guesthouse）的展览相邻安排，但没有混淆两者。"
+        },
+        {
+          "en": "At a shipyard guesthouse, a guide explained guitar (a stringed instrument) beside a display of dweller (a person).",
+          "zh": "在造船厂招待所的参观过程中，讲解员先介绍吉他vi. 弹吉他（guitar），随后带大家找到另一项独立展品居住者,住客（dweller）。"
+        },
+        {
+          "en": "During a tour of a shipyard guesthouse, the class found shipyard (a workplace) before locating literate (a person).",
+          "zh": "造船厂招待所的参观先让学生认识船坞（shipyard）；一块丢失的标牌又把他们带到有文化的（literate）。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "fodder",
+          "meaning": "n.饲料"
+        },
+        {
+          "word": "consulate",
+          "meaning": "n.领事馆"
+        },
+        {
+          "word": "canary",
+          "meaning": "n.金丝雀"
+        },
+        {
+          "word": "sauce",
+          "meaning": "n. 调味汁,酱油,莽撞,冒失"
+        },
+        {
+          "word": "refugee",
+          "meaning": "n. 避难者,难民"
+        },
+        {
+          "word": "guesthouse",
+          "meaning": "n.宾馆"
+        },
+        {
+          "word": "guitar",
+          "meaning": "n. 吉他vi. 弹吉他"
+        },
+        {
+          "word": "dweller",
+          "meaning": "n.居住者,住客"
+        },
+        {
+          "word": "shipyard",
+          "meaning": "n.船坞"
+        },
+        {
+          "word": "literate",
+          "meaning": "n.有文化的"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "literate",
+          "explanation": "最后一个目标词是有文化的（literate）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d057-2",
+      "title": "Understanding Timber Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "Field notes from a shipyard guesthouse distinguish timber (the wood of trees cut and prepared for use) from torrent (a heavy rain). To avoid ambiguity, a shipyard guesthouse explains moonlight as the light of the Moon and moustache as an unshaved growth of hair on the upper lip. At a shipyard guesthouse, hail means precipitation of ice pellets, whereas sunshine means the rays of the sun; separate examples prevent confusion. The glossary at a shipyard guesthouse defines milestone as stone post at side of a road to show distances and cross-references prosecution, meaning the institution and conduct of legal proceedings against a defendant. A chart in a shipyard guesthouse defines depiction as a graphic or vivid verbal description and mixer as a party of people assembled to promote sociability and communal on different branches.",
+      "translation": "造船厂招待所的野外记录严格区分木材,木料（timber）和激流,洪流,湍流（torrent），使记录保持准确。为避免歧义，造船厂招待所的教师分别说明月光（moonlight）和(嘴上边的)胡子（moustache），再用实例展示各自用法。造船厂招待所的课程分别解释(下)冰雹（hail）与日光,日照（sunshine），避免学习者因定义不同而进行错误比较。造船厂招待所的词汇表定义里程碑（milestone），并以交叉索引引导读者查看起诉,诉讼,原告,实施,从事,进行（prosecution），但不把二者视为相同。造船厂招待所的图表把描述（depiction）和混合者,搅拌器（mixer）放在不同分支，让读者清楚看见两者区别。",
+      "sentences": [
+        {
+          "en": "Field notes from a shipyard guesthouse distinguish timber (the wood of trees cut and prepared for use) from torrent (a heavy rain).",
+          "zh": "造船厂招待所的野外记录严格区分木材,木料（timber）和激流,洪流,湍流（torrent），使记录保持准确。"
+        },
+        {
+          "en": "To avoid ambiguity, a shipyard guesthouse explains moonlight as the light of the Moon and moustache as an unshaved growth of hair on the upper lip.",
+          "zh": "为避免歧义，造船厂招待所的教师分别说明月光（moonlight）和(嘴上边的)胡子（moustache），再用实例展示各自用法。"
+        },
+        {
+          "en": "At a shipyard guesthouse, hail means precipitation of ice pellets, whereas sunshine means the rays of the sun; separate examples prevent confusion.",
+          "zh": "造船厂招待所的课程分别解释(下)冰雹（hail）与日光,日照（sunshine），避免学习者因定义不同而进行错误比较。"
+        },
+        {
+          "en": "The glossary at a shipyard guesthouse defines milestone as stone post at side of a road to show distances and cross-references prosecution, meaning the institution and conduct of legal proceedings against a defendant.",
+          "zh": "造船厂招待所的词汇表定义里程碑（milestone），并以交叉索引引导读者查看起诉,诉讼,原告,实施,从事,进行（prosecution），但不把二者视为相同。"
+        },
+        {
+          "en": "A chart in a shipyard guesthouse defines depiction as a graphic or vivid verbal description and mixer as a party of people assembled to promote sociability and communal on different branches.",
+          "zh": "造船厂招待所的图表把描述（depiction）和混合者,搅拌器（mixer）放在不同分支，让读者清楚看见两者区别。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "timber",
+          "meaning": "n. 木材,木料"
+        },
+        {
+          "word": "torrent",
+          "meaning": "n. 激流,洪流,湍流"
+        },
+        {
+          "word": "moonlight",
+          "meaning": "n.月光"
+        },
+        {
+          "word": "moustache",
+          "meaning": "n. (嘴上边的)胡子"
+        },
+        {
+          "word": "hail",
+          "meaning": "n./v. (下)冰雹;(冰雹般)一阵,落下"
+        },
+        {
+          "word": "sunshine",
+          "meaning": "n. 日光,日照;晴天;"
+        },
+        {
+          "word": "milestone",
+          "meaning": "n.里程碑"
+        },
+        {
+          "word": "prosecution",
+          "meaning": "n.起诉,诉讼,原告,实施,从事,进行"
+        },
+        {
+          "word": "depiction",
+          "meaning": "n.描述"
+        },
+        {
+          "word": "mixer",
+          "meaning": "n.混合者,搅拌器"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d057-3",
+      "title": "Why Enrolment Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "Decision makers at a shipyard guesthouse cannot evaluate sponsorship (the act of sponsoring) while excluding completion (American football a successful forward pass in football). Long-term planning at a shipyard guesthouse needs indicators for song (a short musical composition with words) and independent scrutiny of inclination (an attitude of mind). Policy at a shipyard guesthouse should address confinement—concluding state of pregnancy—without ignoring hysteria—state of violent mental agitation. An open meeting at a shipyard guesthouse joined practical questions about declaration (a statement) with concerns about shopping (searching for or buying goods or services). The strongest argument at a shipyard guesthouse supported toothache (an ache localized in or around a tooth) but demanded safeguards for enrolment (the act of enrolling).",
+      "translation": "造船厂招待所的决策者不能只评估发起,主办（sponsorship），却把完成,结束,完满（completion）排除在公开证据之外。造船厂招待所的长期规划应公布歌唱,(虫、鸟等)鸣声（song）指标，也应允许独立人员审查有关倾向,意愿（inclination）的主张。造船厂招待所的政策应处理限制（confinement），也不能忽视歇斯底里,癔病（hysteria）；两者都需要证据而非口号。造船厂招待所的公开会议把有关宣言,宣布,声明（declaration）的实际问题与买东西,购物（shopping）带来的伦理问题一同讨论。造船厂招待所最有力的论证支持处理牙疼（toothache），同时要求在登记,入学（enrolment）受影响时设置保障。",
+      "sentences": [
+        {
+          "en": "Decision makers at a shipyard guesthouse cannot evaluate sponsorship (the act of sponsoring) while excluding completion (American football a successful forward pass in football).",
+          "zh": "造船厂招待所的决策者不能只评估发起,主办（sponsorship），却把完成,结束,完满（completion）排除在公开证据之外。"
+        },
+        {
+          "en": "Long-term planning at a shipyard guesthouse needs indicators for song (a short musical composition with words) and independent scrutiny of inclination (an attitude of mind).",
+          "zh": "造船厂招待所的长期规划应公布歌唱,(虫、鸟等)鸣声（song）指标，也应允许独立人员审查有关倾向,意愿（inclination）的主张。"
+        },
+        {
+          "en": "Policy at a shipyard guesthouse should address confinement—concluding state of pregnancy—without ignoring hysteria—state of violent mental agitation.",
+          "zh": "造船厂招待所的政策应处理限制（confinement），也不能忽视歇斯底里,癔病（hysteria）；两者都需要证据而非口号。"
+        },
+        {
+          "en": "An open meeting at a shipyard guesthouse joined practical questions about declaration (a statement) with concerns about shopping (searching for or buying goods or services).",
+          "zh": "造船厂招待所的公开会议把有关宣言,宣布,声明（declaration）的实际问题与买东西,购物（shopping）带来的伦理问题一同讨论。"
+        },
+        {
+          "en": "The strongest argument at a shipyard guesthouse supported toothache (an ache localized in or around a tooth) but demanded safeguards for enrolment (the act of enrolling).",
+          "zh": "造船厂招待所最有力的论证支持处理牙疼（toothache），同时要求在登记,入学（enrolment）受影响时设置保障。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "sponsorship",
+          "meaning": "n.发起,主办"
+        },
+        {
+          "word": "completion",
+          "meaning": "n.完成,结束,完满"
+        },
+        {
+          "word": "song",
+          "meaning": "n. 歌唱,(虫、鸟等)鸣声;歌曲,歌词"
+        },
+        {
+          "word": "inclination",
+          "meaning": "n. 倾向,意愿"
+        },
+        {
+          "word": "confinement",
+          "meaning": "n.限制"
+        },
+        {
+          "word": "hysteria",
+          "meaning": "n.歇斯底里,癔病"
+        },
+        {
+          "word": "declaration",
+          "meaning": "n. 宣言,宣布,声明"
+        },
+        {
+          "word": "shopping",
+          "meaning": "n.买东西,购物"
+        },
+        {
+          "word": "toothache",
+          "meaning": "n.牙疼"
+        },
+        {
+          "word": "enrolment",
+          "meaning": "n. 登记,入学"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

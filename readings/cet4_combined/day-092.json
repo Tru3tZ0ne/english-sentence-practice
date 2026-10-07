@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 92,
+  "articles": [
+    {
+      "id": "cet4-reading-d092-1",
+      "title": "The Periscope File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "During a tour of a veterinary arts festival, the class found medication (medicine something that treats or prevents or alleviates the symptoms) before locating veterinary (a doctor). At a veterinary arts festival, a guide explained thermostat (a regulator for automatically regulating temperature by starting or stopping) beside a display of whiting (flesh of a cod-like fish of the Atlantic waters). Two volunteers at a veterinary arts festival used the inventory to identify paddock (pen) and liqueur (strong highly flavored sweet liquor). The newest room at a veterinary arts festival began with dynamite (an explosive containing nitrate sensitized with nitroglycerin absorbed on wood) and ended with debtor (a person). A quiet corner of a veterinary arts festival presented colonnade (structure); a recording nearby introduced periscope (an optical instrument).",
+      "translation": "兽医艺术节的参观先让学生认识药物治疗, 药物处理, 药物。（medication）；一块丢失的标牌又把他们带到兽医。adj.医牲畜的, 兽医的。（veterinary）。在兽医艺术节的参观过程中，讲解员先介绍自动调温器, 温度调节装置。（thermostat），随后带大家找到另一项独立展品白粉, 白垩。（whiting）。兽医艺术节的两名志愿者借助清单确认(马厩或宅房的)小牧场, 围场。（paddock），并顺带找到另一条关于利口酒。（liqueur）的记录。兽医艺术节最新展厅从炸药, <俚> 能产生不凡效果的人或物。vt.炸毁, 使失败。（dynamite）开始，以一个出人意料的本地债务人。（debtor）实例结束。兽医艺术节安静的一角介绍柱廊。（colonnade），旁边的录音访谈则讲述潜望镜, 展望镜。（periscope）背后的人物故事。",
+      "sentences": [
+        {
+          "en": "During a tour of a veterinary arts festival, the class found medication (medicine something that treats or prevents or alleviates the symptoms) before locating veterinary (a doctor).",
+          "zh": "兽医艺术节的参观先让学生认识药物治疗, 药物处理, 药物。（medication）；一块丢失的标牌又把他们带到兽医。adj.医牲畜的, 兽医的。（veterinary）。"
+        },
+        {
+          "en": "At a veterinary arts festival, a guide explained thermostat (a regulator for automatically regulating temperature by starting or stopping) beside a display of whiting (flesh of a cod-like fish of the Atlantic waters).",
+          "zh": "在兽医艺术节的参观过程中，讲解员先介绍自动调温器, 温度调节装置。（thermostat），随后带大家找到另一项独立展品白粉, 白垩。（whiting）。"
+        },
+        {
+          "en": "Two volunteers at a veterinary arts festival used the inventory to identify paddock (pen) and liqueur (strong highly flavored sweet liquor).",
+          "zh": "兽医艺术节的两名志愿者借助清单确认(马厩或宅房的)小牧场, 围场。（paddock），并顺带找到另一条关于利口酒。（liqueur）的记录。"
+        },
+        {
+          "en": "The newest room at a veterinary arts festival began with dynamite (an explosive containing nitrate sensitized with nitroglycerin absorbed on wood) and ended with debtor (a person).",
+          "zh": "兽医艺术节最新展厅从炸药, <俚> 能产生不凡效果的人或物。vt.炸毁, 使失败。（dynamite）开始，以一个出人意料的本地债务人。（debtor）实例结束。"
+        },
+        {
+          "en": "A quiet corner of a veterinary arts festival presented colonnade (structure); a recording nearby introduced periscope (an optical instrument).",
+          "zh": "兽医艺术节安静的一角介绍柱廊。（colonnade），旁边的录音访谈则讲述潜望镜, 展望镜。（periscope）背后的人物故事。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "medication",
+          "meaning": "n.药物治疗, 药物处理, 药物。"
+        },
+        {
+          "word": "veterinary",
+          "meaning": "n.兽医。adj.医牲畜的, 兽医的。"
+        },
+        {
+          "word": "thermostat",
+          "meaning": "n.自动调温器, 温度调节装置。"
+        },
+        {
+          "word": "whiting",
+          "meaning": "n.白粉, 白垩。"
+        },
+        {
+          "word": "paddock",
+          "meaning": "n.(马厩或宅房的)小牧场, 围场。"
+        },
+        {
+          "word": "liqueur",
+          "meaning": "n.利口酒。"
+        },
+        {
+          "word": "dynamite",
+          "meaning": "n.炸药, <俚> 能产生不凡效果的人或物。vt.炸毁, 使失败。"
+        },
+        {
+          "word": "debtor",
+          "meaning": "n.债务人。"
+        },
+        {
+          "word": "colonnade",
+          "meaning": "n.柱廊。"
+        },
+        {
+          "word": "periscope",
+          "meaning": "n.潜望镜, 展望镜。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "periscope",
+          "explanation": "最后一个目标词是潜望镜, 展望镜。（periscope）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d092-2",
+      "title": "Understanding Stigma Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "A classification exercise at a veterinary arts festival compares stigma (the apical end of the style) with lint (fine ravellings of cotton or linen fibers). By separating gene (genetics a segment of DNA that is involved in producing) from hubbub (loud confused noise from many sources), a veterinary arts festival turns definitions into usable knowledge. To avoid ambiguity, a veterinary arts festival explains asymmetry as mathematics a lack of symmetry and allegation as law a formal accusation against somebody often in a court. At a veterinary arts festival, nibble means a small byte, whereas troupe means organization of performers and associated personnel; separate examples prevent confusion. Field notes from a veterinary arts festival distinguish exponent (a person) from sanity (normal or sound powers of mind).",
+      "translation": "兽医艺术节的分类练习把污名, (植物)柱头, [动物] 气门, 耻辱。（stigma）与(旧时作)绷带用软麻布。（lint）并列，要求学习者找出两者不同特征。兽医艺术节把遗传]因子, [遗传]基因。（gene）与吵闹声, 呐喊声, 叫嚷声。（hubbub）分开考察，使两个陌生概念转化为可使用的知识。为避免歧义，兽医艺术节的教师分别说明不对称。（asymmetry）和主张,断言, 辩解。（allegation），再用实例展示各自用法。兽医艺术节的课程分别解释半位元组, 细咬, 轻咬, 啃。v.一点一点地咬, 细咬, 吹毛求疵。（nibble）与剧团。（troupe），避免学习者因定义不同而进行错误比较。兽医艺术节的野外记录严格区分解释者, 说明者, 代表者, 典型, 指数。（exponent）和心智健全。（sanity），使记录保持准确。",
+      "sentences": [
+        {
+          "en": "A classification exercise at a veterinary arts festival compares stigma (the apical end of the style) with lint (fine ravellings of cotton or linen fibers).",
+          "zh": "兽医艺术节的分类练习把污名, (植物)柱头, [动物] 气门, 耻辱。（stigma）与(旧时作)绷带用软麻布。（lint）并列，要求学习者找出两者不同特征。"
+        },
+        {
+          "en": "By separating gene (genetics a segment of DNA that is involved in producing) from hubbub (loud confused noise from many sources), a veterinary arts festival turns definitions into usable knowledge.",
+          "zh": "兽医艺术节把遗传]因子, [遗传]基因。（gene）与吵闹声, 呐喊声, 叫嚷声。（hubbub）分开考察，使两个陌生概念转化为可使用的知识。"
+        },
+        {
+          "en": "To avoid ambiguity, a veterinary arts festival explains asymmetry as mathematics a lack of symmetry and allegation as law a formal accusation against somebody often in a court.",
+          "zh": "为避免歧义，兽医艺术节的教师分别说明不对称。（asymmetry）和主张,断言, 辩解。（allegation），再用实例展示各自用法。"
+        },
+        {
+          "en": "At a veterinary arts festival, nibble means a small byte, whereas troupe means organization of performers and associated personnel; separate examples prevent confusion.",
+          "zh": "兽医艺术节的课程分别解释半位元组, 细咬, 轻咬, 啃。v.一点一点地咬, 细咬, 吹毛求疵。（nibble）与剧团。（troupe），避免学习者因定义不同而进行错误比较。"
+        },
+        {
+          "en": "Field notes from a veterinary arts festival distinguish exponent (a person) from sanity (normal or sound powers of mind).",
+          "zh": "兽医艺术节的野外记录严格区分解释者, 说明者, 代表者, 典型, 指数。（exponent）和心智健全。（sanity），使记录保持准确。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "stigma",
+          "meaning": "n.污名, (植物)柱头, [动物] 气门, 耻辱。"
+        },
+        {
+          "word": "lint",
+          "meaning": "n.(旧时作)绷带用软麻布。"
+        },
+        {
+          "word": "gene",
+          "meaning": "n.[遗传]因子, [遗传]基因。"
+        },
+        {
+          "word": "hubbub",
+          "meaning": "n.吵闹声, 呐喊声, 叫嚷声。"
+        },
+        {
+          "word": "asymmetry",
+          "meaning": "n.不对称。"
+        },
+        {
+          "word": "allegation",
+          "meaning": "n.主张,断言, 辩解。"
+        },
+        {
+          "word": "nibble",
+          "meaning": "n.半位元组, 细咬, 轻咬, 啃。v.一点一点地咬, 细咬, 吹毛求疵。"
+        },
+        {
+          "word": "troupe",
+          "meaning": "n.剧团。"
+        },
+        {
+          "word": "exponent",
+          "meaning": "n.解释者, 说明者, 代表者, 典型, 指数。"
+        },
+        {
+          "word": "sanity",
+          "meaning": "n.心智健全。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d092-3",
+      "title": "Why Amber Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "Before approving change at a veterinary arts festival, leaders must explain layoff (the act of laying off an employee or a work) and risks involving cataract (an eye disease). Long-term planning at a veterinary arts festival needs indicators for gloss (an explanation or definition of an obscure word) and independent scrutiny of unrest (a state of agitation or turbulent change or development). Funding choices at a veterinary arts festival require clear definitions of thesaurus (a book containing a classified list of synonyms) and ranking (position on a scale in relation to others). Policy at a veterinary arts festival should address arthritis—inflammation of a joint or joints—without ignoring indicator—a number or ratio. A forum at a veterinary arts festival considered referendum (a legislative act is referred for final approval) alongside amber (a deep yellow color) before setting priorities.",
+      "translation": "批准兽医艺术节的改变前，领导者应解释临时解雇, 操作停止, 活动停止期间, 失业期（layoff）为何重要，以及谁承担大瀑布, 奔流, 白内障。（cataract）带来的风险。兽医艺术节的长期规划应公布光泽的表面, 光彩, 欺人的表面, 假象, 注释。vt.使有光彩, 掩饰, 上光于, 注释, 曲解。vi.发光, 作注释（gloss）指标，也应允许独立人员审查有关不安的状态, 动荡的局面（unrest）的主张。兽医艺术节的官员清楚定义辞典。（thesaurus）并解释方案如何回应队。（ranking），资金选择才会更明白。兽医艺术节的政策应处理关节炎。（arthritis），也不能忽视指示器, [化]指示剂。（indicator）；两者都需要证据而非口号。兽医艺术节的公开论坛同时考虑公民投票, (外交使节)请示书。（referendum）与琥珀。adj.琥珀制的, 琥珀色(黄色)的（amber），并讨论哪一项更需要优先行动。",
+      "sentences": [
+        {
+          "en": "Before approving change at a veterinary arts festival, leaders must explain layoff (the act of laying off an employee or a work) and risks involving cataract (an eye disease).",
+          "zh": "批准兽医艺术节的改变前，领导者应解释临时解雇, 操作停止, 活动停止期间, 失业期（layoff）为何重要，以及谁承担大瀑布, 奔流, 白内障。（cataract）带来的风险。"
+        },
+        {
+          "en": "Long-term planning at a veterinary arts festival needs indicators for gloss (an explanation or definition of an obscure word) and independent scrutiny of unrest (a state of agitation or turbulent change or development).",
+          "zh": "兽医艺术节的长期规划应公布光泽的表面, 光彩, 欺人的表面, 假象, 注释。vt.使有光彩, 掩饰, 上光于, 注释, 曲解。vi.发光, 作注释（gloss）指标，也应允许独立人员审查有关不安的状态, 动荡的局面（unrest）的主张。"
+        },
+        {
+          "en": "Funding choices at a veterinary arts festival require clear definitions of thesaurus (a book containing a classified list of synonyms) and ranking (position on a scale in relation to others).",
+          "zh": "兽医艺术节的官员清楚定义辞典。（thesaurus）并解释方案如何回应队。（ranking），资金选择才会更明白。"
+        },
+        {
+          "en": "Policy at a veterinary arts festival should address arthritis—inflammation of a joint or joints—without ignoring indicator—a number or ratio.",
+          "zh": "兽医艺术节的政策应处理关节炎。（arthritis），也不能忽视指示器, [化]指示剂。（indicator）；两者都需要证据而非口号。"
+        },
+        {
+          "en": "A forum at a veterinary arts festival considered referendum (a legislative act is referred for final approval) alongside amber (a deep yellow color) before setting priorities.",
+          "zh": "兽医艺术节的公开论坛同时考虑公民投票, (外交使节)请示书。（referendum）与琥珀。adj.琥珀制的, 琥珀色(黄色)的（amber），并讨论哪一项更需要优先行动。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "layoff",
+          "meaning": "n.临时解雇, 操作停止, 活动停止期间, 失业期"
+        },
+        {
+          "word": "cataract",
+          "meaning": "n.大瀑布, 奔流, 白内障。"
+        },
+        {
+          "word": "gloss",
+          "meaning": "n.光泽的表面, 光彩, 欺人的表面, 假象, 注释。vt.使有光彩, 掩饰, 上光于, 注释, 曲解。vi.发光, 作注释"
+        },
+        {
+          "word": "unrest",
+          "meaning": "n.不安的状态, 动荡的局面"
+        },
+        {
+          "word": "thesaurus",
+          "meaning": "n.辞典。"
+        },
+        {
+          "word": "ranking",
+          "meaning": "n.队。"
+        },
+        {
+          "word": "arthritis",
+          "meaning": "n.关节炎。"
+        },
+        {
+          "word": "indicator",
+          "meaning": "n.指示器, [化]指示剂。"
+        },
+        {
+          "word": "referendum",
+          "meaning": "n.公民投票, (外交使节)请示书。"
+        },
+        {
+          "word": "amber",
+          "meaning": "n.琥珀。adj.琥珀制的, 琥珀色(黄色)的"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

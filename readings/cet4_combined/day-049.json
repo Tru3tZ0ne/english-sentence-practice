@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 49,
+  "articles": [
+    {
+      "id": "cet4-reading-d049-1",
+      "title": "The Asia File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "The newest room at an embassy trade fair began with gorge (a deep ravine) and ended with motorcycle (a motor vehicle with two wheels and a strong frame). A student at an embassy trade fair photographed Britain—a monarchy in northwestern Europe occupying most of the British—and sketched counsellor—someone. Near closing time at an embassy trade fair, a diary linked the displays of shrine (a place of worship hallowed by association with some sacred) and seaport (a sheltered port). A visitor entered an embassy trade fair asking about architect (someone) and left with a note on transportation (a facility). The morning program at an embassy trade fair paired a section on piston (United States neoclassical composer) with one on Asia (the largest continent with of the earth's population).",
+      "translation": "使馆贸易展最新展厅从咽喉,峡谷,山口（gorge）开始，以一个出人意料的本地摩托车（motorcycle）实例结束。学生在使馆贸易展记录不列颠,英国（Britain）后，又到另一处展区了解顾问（counsellor），两项内容分别得到清楚说明。使馆贸易展闭馆前，一本提到神殿,神龛,圣祠（shrine）的日记帮助员工找到了一幅标有海港,港市（seaport）的画的主人。访客到使馆贸易展询问建筑师,设计师（architect），旧平面图却意外引导她发现了运输,运送,客运（transportation）。使馆贸易展的上午活动把活塞（piston）与另一项关于亚洲（Asia）的展览相邻安排，但没有混淆两者。",
+      "sentences": [
+        {
+          "en": "The newest room at an embassy trade fair began with gorge (a deep ravine) and ended with motorcycle (a motor vehicle with two wheels and a strong frame).",
+          "zh": "使馆贸易展最新展厅从咽喉,峡谷,山口（gorge）开始，以一个出人意料的本地摩托车（motorcycle）实例结束。"
+        },
+        {
+          "en": "A student at an embassy trade fair photographed Britain—a monarchy in northwestern Europe occupying most of the British—and sketched counsellor—someone.",
+          "zh": "学生在使馆贸易展记录不列颠,英国（Britain）后，又到另一处展区了解顾问（counsellor），两项内容分别得到清楚说明。"
+        },
+        {
+          "en": "Near closing time at an embassy trade fair, a diary linked the displays of shrine (a place of worship hallowed by association with some sacred) and seaport (a sheltered port).",
+          "zh": "使馆贸易展闭馆前，一本提到神殿,神龛,圣祠（shrine）的日记帮助员工找到了一幅标有海港,港市（seaport）的画的主人。"
+        },
+        {
+          "en": "A visitor entered an embassy trade fair asking about architect (someone) and left with a note on transportation (a facility).",
+          "zh": "访客到使馆贸易展询问建筑师,设计师（architect），旧平面图却意外引导她发现了运输,运送,客运（transportation）。"
+        },
+        {
+          "en": "The morning program at an embassy trade fair paired a section on piston (United States neoclassical composer) with one on Asia (the largest continent with of the earth's population).",
+          "zh": "使馆贸易展的上午活动把活塞（piston）与另一项关于亚洲（Asia）的展览相邻安排，但没有混淆两者。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "gorge",
+          "meaning": "n.咽喉,峡谷,山口"
+        },
+        {
+          "word": "motorcycle",
+          "meaning": "n.摩托车"
+        },
+        {
+          "word": "Britain",
+          "meaning": "n.不列颠,英国"
+        },
+        {
+          "word": "counsellor",
+          "meaning": "n.顾问"
+        },
+        {
+          "word": "shrine",
+          "meaning": "n.神殿,神龛,圣祠"
+        },
+        {
+          "word": "seaport",
+          "meaning": "n.海港,港市"
+        },
+        {
+          "word": "architect",
+          "meaning": "n. 建筑师,设计师"
+        },
+        {
+          "word": "transportation",
+          "meaning": "n.运输,运送,客运"
+        },
+        {
+          "word": "piston",
+          "meaning": "n. 活塞"
+        },
+        {
+          "word": "Asia",
+          "meaning": "n.亚洲"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "Asia",
+          "explanation": "最后一个目标词是亚洲（Asia）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d049-2",
+      "title": "Understanding Ellipsis Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "The handbook at an embassy trade fair introduces ellipsis—omission or suppression of parts of words or sentences—before typhoon—a tropical cyclone occurring in the western Pacific or Indian. By separating gunpowder (a mixture of potassium nitrate) from snake (limbless scaly elongate reptile), an embassy trade fair turns definitions into usable knowledge. Students at an embassy trade fair summarize virus as virology ultramicroscopic infectious agent that replicates itself only within cells and currency as the metal or paper medium of exchange, then test new examples. At an embassy trade fair, baker means someone, whereas opener means the first event in a series; separate examples prevent confusion. The glossary at an embassy trade fair defines fluctuation as a wave motion and cross-references embassy, meaning a diplomatic building.",
+      "translation": "使馆贸易展的手册先介绍省略（ellipsis），再补充需要更多背景的台风,强热带风暴（typhoon）。使馆贸易展把黑色火药（gunpowder）与蛇（snake）分开考察，使两个陌生概念转化为可使用的知识。使馆贸易展的学生分别概括病毒（virus）与通货,货币（currency），随后检验新实例是否符合定义。使馆贸易展的课程分别解释面包师（baker）与开罐器,起子（opener），避免学习者因定义不同而进行错误比较。使馆贸易展的词汇表定义波动（fluctuation），并以交叉索引引导读者查看大使馆（embassy），但不把二者视为相同。",
+      "sentences": [
+        {
+          "en": "The handbook at an embassy trade fair introduces ellipsis—omission or suppression of parts of words or sentences—before typhoon—a tropical cyclone occurring in the western Pacific or Indian.",
+          "zh": "使馆贸易展的手册先介绍省略（ellipsis），再补充需要更多背景的台风,强热带风暴（typhoon）。"
+        },
+        {
+          "en": "By separating gunpowder (a mixture of potassium nitrate) from snake (limbless scaly elongate reptile), an embassy trade fair turns definitions into usable knowledge.",
+          "zh": "使馆贸易展把黑色火药（gunpowder）与蛇（snake）分开考察，使两个陌生概念转化为可使用的知识。"
+        },
+        {
+          "en": "Students at an embassy trade fair summarize virus as virology ultramicroscopic infectious agent that replicates itself only within cells and currency as the metal or paper medium of exchange, then test new examples.",
+          "zh": "使馆贸易展的学生分别概括病毒（virus）与通货,货币（currency），随后检验新实例是否符合定义。"
+        },
+        {
+          "en": "At an embassy trade fair, baker means someone, whereas opener means the first event in a series; separate examples prevent confusion.",
+          "zh": "使馆贸易展的课程分别解释面包师（baker）与开罐器,起子（opener），避免学习者因定义不同而进行错误比较。"
+        },
+        {
+          "en": "The glossary at an embassy trade fair defines fluctuation as a wave motion and cross-references embassy, meaning a diplomatic building.",
+          "zh": "使馆贸易展的词汇表定义波动（fluctuation），并以交叉索引引导读者查看大使馆（embassy），但不把二者视为相同。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "ellipsis",
+          "meaning": "n.省略"
+        },
+        {
+          "word": "typhoon",
+          "meaning": "n. 台风,强热带风暴"
+        },
+        {
+          "word": "gunpowder",
+          "meaning": "n.黑色火药;有烟火药"
+        },
+        {
+          "word": "snake",
+          "meaning": "n. 蛇"
+        },
+        {
+          "word": "virus",
+          "meaning": "n. 病毒"
+        },
+        {
+          "word": "currency",
+          "meaning": "n.通货,货币"
+        },
+        {
+          "word": "baker",
+          "meaning": "n.面包师"
+        },
+        {
+          "word": "opener",
+          "meaning": "n.开罐器,起子"
+        },
+        {
+          "word": "fluctuation",
+          "meaning": "n.波动;脉动;踌躇"
+        },
+        {
+          "word": "embassy",
+          "meaning": "n. 大使馆"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d049-3",
+      "title": "Why Smoking Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "An open meeting at an embassy trade fair joined practical questions about craziness (informal terms for insanity) with concerns about approximation (an approximate calculation of quantity or degree or worth). Before approving change at an embassy trade fair, leaders must explain stillness (poetic tranquil silence) and risks involving investigation (an inquiry into unfamiliar or questionable activities). Public trust at an embassy trade fair needs honest discussion of enterprise (a purposeful or industrious undertaking) and measurable commitments on schooling (the act of teaching at school). Policy at an embassy trade fair should address grove—a small growth of trees without underbrush—without ignoring stagnation—a state of inactivity. Decision makers at an embassy trade fair cannot evaluate Leninism (the political and economic theories of Lenin) while excluding smoking (the act of smoking tobacco or other substances).",
+      "translation": "使馆贸易展的公开会议把有关疯狂（craziness）的实际问题与近似值（approximation）带来的伦理问题一同讨论。批准使馆贸易展的改变前，领导者应解释寂静,无声（stillness）为何重要，以及谁承担调查,调查研究（investigation）带来的风险。使馆贸易展要建立公众信任，就必须诚实讨论艰巨的事业,事业心（enterprise），并对学校教育（schooling）作出可衡量承诺。使馆贸易展的政策应处理林子,小树林,园林（grove），也不能忽视停滞（stagnation）；两者都需要证据而非口号。使馆贸易展的决策者不能只评估列宁主义（Leninism），却把抽烟（smoking）排除在公开证据之外。",
+      "sentences": [
+        {
+          "en": "An open meeting at an embassy trade fair joined practical questions about craziness (informal terms for insanity) with concerns about approximation (an approximate calculation of quantity or degree or worth).",
+          "zh": "使馆贸易展的公开会议把有关疯狂（craziness）的实际问题与近似值（approximation）带来的伦理问题一同讨论。"
+        },
+        {
+          "en": "Before approving change at an embassy trade fair, leaders must explain stillness (poetic tranquil silence) and risks involving investigation (an inquiry into unfamiliar or questionable activities).",
+          "zh": "批准使馆贸易展的改变前，领导者应解释寂静,无声（stillness）为何重要，以及谁承担调查,调查研究（investigation）带来的风险。"
+        },
+        {
+          "en": "Public trust at an embassy trade fair needs honest discussion of enterprise (a purposeful or industrious undertaking) and measurable commitments on schooling (the act of teaching at school).",
+          "zh": "使馆贸易展要建立公众信任，就必须诚实讨论艰巨的事业,事业心（enterprise），并对学校教育（schooling）作出可衡量承诺。"
+        },
+        {
+          "en": "Policy at an embassy trade fair should address grove—a small growth of trees without underbrush—without ignoring stagnation—a state of inactivity.",
+          "zh": "使馆贸易展的政策应处理林子,小树林,园林（grove），也不能忽视停滞（stagnation）；两者都需要证据而非口号。"
+        },
+        {
+          "en": "Decision makers at an embassy trade fair cannot evaluate Leninism (the political and economic theories of Lenin) while excluding smoking (the act of smoking tobacco or other substances).",
+          "zh": "使馆贸易展的决策者不能只评估列宁主义（Leninism），却把抽烟（smoking）排除在公开证据之外。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "craziness",
+          "meaning": "n.疯狂"
+        },
+        {
+          "word": "approximation",
+          "meaning": "n.近似值"
+        },
+        {
+          "word": "stillness",
+          "meaning": "n.寂静,无声"
+        },
+        {
+          "word": "investigation",
+          "meaning": "n.调查,调查研究"
+        },
+        {
+          "word": "enterprise",
+          "meaning": "n. 艰巨的事业,事业心;企业"
+        },
+        {
+          "word": "schooling",
+          "meaning": "n.学校教育"
+        },
+        {
+          "word": "grove",
+          "meaning": "n.林子,小树林,园林"
+        },
+        {
+          "word": "stagnation",
+          "meaning": "n.停滞"
+        },
+        {
+          "word": "Leninism",
+          "meaning": "n.列宁主义"
+        },
+        {
+          "word": "smoking",
+          "meaning": "n.抽烟"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

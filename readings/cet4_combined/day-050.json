@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 50,
+  "articles": [
+    {
+      "id": "cet4-reading-d050-1",
+      "title": "The Baby File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "A quiet corner of a rural school workshop presented chairperson (the officer); a recording nearby introduced keeper (someone in charge of other people). When a shelf shifted at a rural school workshop, staff protected files on motorcar (a motor vehicle with four wheels) and shovel (a hand tool for lifting loose material). The newest room at a rural school workshop began with Arab (a member of a Semitic people originally from the Arabian) and ended with system (instrumentality). A student at a rural school workshop photographed berry—any of numerous small and pulpy edible fruits—and sketched west—the countries of. Near closing time at a rural school workshop, a diary linked the displays of hearth (an open recess in a wall at the base) and baby (a very young child).",
+      "translation": "乡村学校工作坊安静的一角介绍主席(无性别之分)（chairperson），旁边的录音访谈则讲述看护人（keeper）背后的人物故事。乡村学校工作坊的架子倒下时，员工保护了有关汽车（motorcar）的材料，也找回了旁边关于铁锨,铲（shovel）的档案。乡村学校工作坊最新展厅从阿拉伯（Arab）开始，以一个出人意料的本地系统,体系（system）实例结束。学生在乡村学校工作坊记录浆果(如草莓等)（berry）后，又到另一处展区了解西,西方(的),西部(的)ad. 向西（west），两项内容分别得到清楚说明。乡村学校工作坊闭馆前，一本提到壁炉地面（hearth）的日记帮助员工找到了一幅标有婴儿（baby）的画的主人。",
+      "sentences": [
+        {
+          "en": "A quiet corner of a rural school workshop presented chairperson (the officer); a recording nearby introduced keeper (someone in charge of other people).",
+          "zh": "乡村学校工作坊安静的一角介绍主席(无性别之分)（chairperson），旁边的录音访谈则讲述看护人（keeper）背后的人物故事。"
+        },
+        {
+          "en": "When a shelf shifted at a rural school workshop, staff protected files on motorcar (a motor vehicle with four wheels) and shovel (a hand tool for lifting loose material).",
+          "zh": "乡村学校工作坊的架子倒下时，员工保护了有关汽车（motorcar）的材料，也找回了旁边关于铁锨,铲（shovel）的档案。"
+        },
+        {
+          "en": "The newest room at a rural school workshop began with Arab (a member of a Semitic people originally from the Arabian) and ended with system (instrumentality).",
+          "zh": "乡村学校工作坊最新展厅从阿拉伯（Arab）开始，以一个出人意料的本地系统,体系（system）实例结束。"
+        },
+        {
+          "en": "A student at a rural school workshop photographed berry—any of numerous small and pulpy edible fruits—and sketched west—the countries of.",
+          "zh": "学生在乡村学校工作坊记录浆果(如草莓等)（berry）后，又到另一处展区了解西,西方(的),西部(的)ad. 向西（west），两项内容分别得到清楚说明。"
+        },
+        {
+          "en": "Near closing time at a rural school workshop, a diary linked the displays of hearth (an open recess in a wall at the base) and baby (a very young child).",
+          "zh": "乡村学校工作坊闭馆前，一本提到壁炉地面（hearth）的日记帮助员工找到了一幅标有婴儿（baby）的画的主人。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "chairperson",
+          "meaning": "n.主席(无性别之分)"
+        },
+        {
+          "word": "keeper",
+          "meaning": "n.看护人;饲养员"
+        },
+        {
+          "word": "motorcar",
+          "meaning": "n.汽车"
+        },
+        {
+          "word": "shovel",
+          "meaning": "n. 铁锨,铲;vt. 铲起"
+        },
+        {
+          "word": "Arab",
+          "meaning": "n.阿拉伯"
+        },
+        {
+          "word": "system",
+          "meaning": "n. 系统,体系;制度;方法,方式,步聚"
+        },
+        {
+          "word": "berry",
+          "meaning": "n.浆果(如草莓等)"
+        },
+        {
+          "word": "west",
+          "meaning": "n./a. 西,西方(的),西部(的)ad. 向西"
+        },
+        {
+          "word": "hearth",
+          "meaning": "n.壁炉地面;炉边"
+        },
+        {
+          "word": "baby",
+          "meaning": "n. 婴儿;年龄最小的人;小动物a. 婴儿似的"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "baby",
+          "explanation": "最后一个目标词是婴儿（baby）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d050-2",
+      "title": "Understanding Stomach Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "A classification exercise at a rural school workshop compares stomach (an enlarged and muscular saclike organ of the alimentary canal) with sleet (partially melted snow). The glossary at a rural school workshop defines arm as a human limb and cross-references sunlight, meaning the rays of the sun. Researchers at a rural school workshop use gust for a strong current of air, but reserve sickle for an edge tool for cutting grass or crops. A chart in a rural school workshop defines fluency as powerful and effective language and papers as writing on different branches. A demonstration at a rural school workshop makes ditto (a mark used to indicate the word above it should) concrete before explaining haggle (an instance of intense argument).",
+      "translation": "乡村学校工作坊的分类练习把胃,胃口（stomach）与雨加雪（sleet）并列，要求学习者找出两者不同特征。乡村学校工作坊的词汇表定义手臂,扶手,臂状物v. 武装（arm），并以交叉索引引导读者查看日光,阳光（sunlight），但不把二者视为相同。乡村学校工作坊的研究记录分别使用阵风（gust）和镰刀（sickle）；由于含义不同，二者需要不同证据。乡村学校工作坊的图表把流利,流畅（fluency）和文件,证书（papers）放在不同分支，让读者清楚看见两者区别。乡村学校工作坊的简短演示先让同上（ditto）具体可见，再用第二个实例解释争论,讨价还价（haggle）。",
+      "sentences": [
+        {
+          "en": "A classification exercise at a rural school workshop compares stomach (an enlarged and muscular saclike organ of the alimentary canal) with sleet (partially melted snow).",
+          "zh": "乡村学校工作坊的分类练习把胃,胃口（stomach）与雨加雪（sleet）并列，要求学习者找出两者不同特征。"
+        },
+        {
+          "en": "The glossary at a rural school workshop defines arm as a human limb and cross-references sunlight, meaning the rays of the sun.",
+          "zh": "乡村学校工作坊的词汇表定义手臂,扶手,臂状物v. 武装（arm），并以交叉索引引导读者查看日光,阳光（sunlight），但不把二者视为相同。"
+        },
+        {
+          "en": "Researchers at a rural school workshop use gust for a strong current of air, but reserve sickle for an edge tool for cutting grass or crops.",
+          "zh": "乡村学校工作坊的研究记录分别使用阵风（gust）和镰刀（sickle）；由于含义不同，二者需要不同证据。"
+        },
+        {
+          "en": "A chart in a rural school workshop defines fluency as powerful and effective language and papers as writing on different branches.",
+          "zh": "乡村学校工作坊的图表把流利,流畅（fluency）和文件,证书（papers）放在不同分支，让读者清楚看见两者区别。"
+        },
+        {
+          "en": "A demonstration at a rural school workshop makes ditto (a mark used to indicate the word above it should) concrete before explaining haggle (an instance of intense argument).",
+          "zh": "乡村学校工作坊的简短演示先让同上（ditto）具体可见，再用第二个实例解释争论,讨价还价（haggle）。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "stomach",
+          "meaning": "n. 胃,胃口;肚子,腹部vt. 承受,忍受"
+        },
+        {
+          "word": "sleet",
+          "meaning": "n.雨加雪"
+        },
+        {
+          "word": "arm",
+          "meaning": "n. 手臂,扶手,臂状物v. 武装;配备n. 武器"
+        },
+        {
+          "word": "sunlight",
+          "meaning": "n.日光,阳光"
+        },
+        {
+          "word": "gust",
+          "meaning": "n. 阵风;(感情的)迸发"
+        },
+        {
+          "word": "sickle",
+          "meaning": "n.镰刀"
+        },
+        {
+          "word": "fluency",
+          "meaning": "n.流利,流畅"
+        },
+        {
+          "word": "papers",
+          "meaning": "n.文件,证书"
+        },
+        {
+          "word": "ditto",
+          "meaning": "n.同上"
+        },
+        {
+          "word": "haggle",
+          "meaning": "n.争论,讨价还价"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d050-3",
+      "title": "Why Vengeance Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "Residents near a rural school workshop debated ulcer (a circumscribed inflammatory and often suppurating lesion on the skin) and bait (anything), then requested written evidence. Public trust at a rural school workshop needs honest discussion of borrowings (the appropriation) and measurable commitments on school (an educational institution). A proposal for a rural school workshop prioritizes hypocrisy (an expression of agreement), while critics emphasize post-office (a local branch). A review panel at a rural school workshop rejected claims that role (the actions and activities assigned to or required or expected) automatically outweighed recitation (written matter). A forum at a rural school workshop considered odour (the sensation) alongside vengeance (the act of taking revenge) before setting priorities.",
+      "translation": "乡村学校工作坊附近居民讨论溃疡（ulcer）和饵,诱惑物（bait）后，要求书面说明成本与责任。乡村学校工作坊要建立公众信任，就必须诚实讨论借款（borrowings），并对学校,(大学里的)学院（school）作出可衡量承诺。乡村学校工作坊的方案优先处理伪善,虚伪（hypocrisy），批评者则认为邮局（post-office）也应得到同等关注。乡村学校工作坊的审查小组拒绝在缺乏地方证据时认定角色,任务（role）天然比朗诵（recitation）更重要。乡村学校工作坊的公开论坛同时考虑气味,臭气（odour）与报仇（vengeance），并讨论哪一项更需要优先行动。",
+      "sentences": [
+        {
+          "en": "Residents near a rural school workshop debated ulcer (a circumscribed inflammatory and often suppurating lesion on the skin) and bait (anything), then requested written evidence.",
+          "zh": "乡村学校工作坊附近居民讨论溃疡（ulcer）和饵,诱惑物（bait）后，要求书面说明成本与责任。"
+        },
+        {
+          "en": "Public trust at a rural school workshop needs honest discussion of borrowings (the appropriation) and measurable commitments on school (an educational institution).",
+          "zh": "乡村学校工作坊要建立公众信任，就必须诚实讨论借款（borrowings），并对学校,(大学里的)学院（school）作出可衡量承诺。"
+        },
+        {
+          "en": "A proposal for a rural school workshop prioritizes hypocrisy (an expression of agreement), while critics emphasize post-office (a local branch).",
+          "zh": "乡村学校工作坊的方案优先处理伪善,虚伪（hypocrisy），批评者则认为邮局（post-office）也应得到同等关注。"
+        },
+        {
+          "en": "A review panel at a rural school workshop rejected claims that role (the actions and activities assigned to or required or expected) automatically outweighed recitation (written matter).",
+          "zh": "乡村学校工作坊的审查小组拒绝在缺乏地方证据时认定角色,任务（role）天然比朗诵（recitation）更重要。"
+        },
+        {
+          "en": "A forum at a rural school workshop considered odour (the sensation) alongside vengeance (the act of taking revenge) before setting priorities.",
+          "zh": "乡村学校工作坊的公开论坛同时考虑气味,臭气（odour）与报仇（vengeance），并讨论哪一项更需要优先行动。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "ulcer",
+          "meaning": "n.溃疡"
+        },
+        {
+          "word": "bait",
+          "meaning": "n. 饵,诱惑物;v. 装饵;辱骂;欺侮"
+        },
+        {
+          "word": "borrowings",
+          "meaning": "n.借款"
+        },
+        {
+          "word": "school",
+          "meaning": "n. 学校,(大学里的)学院;上学,学业;学派"
+        },
+        {
+          "word": "hypocrisy",
+          "meaning": "n. 伪善,虚伪"
+        },
+        {
+          "word": "post-office",
+          "meaning": "n.邮局"
+        },
+        {
+          "word": "role",
+          "meaning": "n. 角色,任务"
+        },
+        {
+          "word": "recitation",
+          "meaning": "n.朗诵"
+        },
+        {
+          "word": "odour",
+          "meaning": "n. 气味,臭气"
+        },
+        {
+          "word": "vengeance",
+          "meaning": "n. 报仇"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

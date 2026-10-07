@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 74,
+  "articles": [
+    {
+      "id": "cet4-reading-d074-1",
+      "title": "The Triplicate File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "Inside a winter exploration camp, the curator corrected labels for explorer (someone) and viewer (a close observer). A student at a winter exploration camp photographed butcher—a retailer of meat—and sketched spokesman—a. The newest room at a winter exploration camp began with tomato (mildly acid red or yellow pulpy fruit eaten) and ended with voter (a citizen). A visitor entered a winter exploration camp asking about landlady (a landlord) and left with a note on grocery (a marketplace). The morning program at a winter exploration camp paired a section on thinker (an important intellectual) with one on triplicate (one of three copies).",
+      "translation": "冬季探险营的策展人先纠正勘探者,探险家（explorer）的标签错误，随后发现关于观察者,电视观众（viewer）的材料也放错了位置。学生在冬季探险营记录屠夫,残杀者（butcher）后，又到另一处展区了解发言人（spokesman），两项内容分别得到清楚说明。冬季探险营最新展厅从西红柿（tomato）开始，以一个出人意料的本地投票人,选举人（voter）实例结束。访客到冬季探险营询问女房东,女地主（landlady），旧平面图却意外引导她发现了食品杂货店（grocery）。冬季探险营的上午活动把思想家（thinker）与另一项关于一式三份（triplicate）的展览相邻安排，但没有混淆两者。",
+      "sentences": [
+        {
+          "en": "Inside a winter exploration camp, the curator corrected labels for explorer (someone) and viewer (a close observer).",
+          "zh": "冬季探险营的策展人先纠正勘探者,探险家（explorer）的标签错误，随后发现关于观察者,电视观众（viewer）的材料也放错了位置。"
+        },
+        {
+          "en": "A student at a winter exploration camp photographed butcher—a retailer of meat—and sketched spokesman—a.",
+          "zh": "学生在冬季探险营记录屠夫,残杀者（butcher）后，又到另一处展区了解发言人（spokesman），两项内容分别得到清楚说明。"
+        },
+        {
+          "en": "The newest room at a winter exploration camp began with tomato (mildly acid red or yellow pulpy fruit eaten) and ended with voter (a citizen).",
+          "zh": "冬季探险营最新展厅从西红柿（tomato）开始，以一个出人意料的本地投票人,选举人（voter）实例结束。"
+        },
+        {
+          "en": "A visitor entered a winter exploration camp asking about landlady (a landlord) and left with a note on grocery (a marketplace).",
+          "zh": "访客到冬季探险营询问女房东,女地主（landlady），旧平面图却意外引导她发现了食品杂货店（grocery）。"
+        },
+        {
+          "en": "The morning program at a winter exploration camp paired a section on thinker (an important intellectual) with one on triplicate (one of three copies).",
+          "zh": "冬季探险营的上午活动把思想家（thinker）与另一项关于一式三份（triplicate）的展览相邻安排，但没有混淆两者。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "explorer",
+          "meaning": "n.勘探者,探险家"
+        },
+        {
+          "word": "viewer",
+          "meaning": "n.观察者,电视观众"
+        },
+        {
+          "word": "butcher",
+          "meaning": "n. 屠夫,残杀者;vt. 屠宰,屠杀"
+        },
+        {
+          "word": "spokesman",
+          "meaning": "n. 发言人"
+        },
+        {
+          "word": "tomato",
+          "meaning": "n. 西红柿"
+        },
+        {
+          "word": "voter",
+          "meaning": "n.投票人,选举人"
+        },
+        {
+          "word": "landlady",
+          "meaning": "n. 女房东,女地主"
+        },
+        {
+          "word": "grocery",
+          "meaning": "n.食品杂货店"
+        },
+        {
+          "word": "thinker",
+          "meaning": "n.思想家"
+        },
+        {
+          "word": "triplicate",
+          "meaning": "n.一式三份"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "triplicate",
+          "explanation": "最后一个目标词是一式三份（triplicate）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d074-2",
+      "title": "Understanding Snow Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "A chart in a winter exploration camp defines snow as precipitation falling from clouds in the form of ice crystals and lioness as a female lion on different branches. A demonstration at a winter exploration camp makes rose (any of many shrubs of the genus Rosa) concrete before explaining forefinger (the finger next to the thumb). At a winter exploration camp, radioactivity means the spontaneous emission of a stream of particles or electromagnetic, whereas bacterium means microbiology single-celled or noncellular spherical or spiral or rod-shaped organisms; separate examples prevent confusion. By separating tree (a tall perennial woody plant) from reed (tall woody perennial grasses with hollow slender stems), a winter exploration camp turns definitions into usable knowledge. Students at a winter exploration camp summarize indigestion as a disorder of digestive function and knight as originally a person of noble birth trained to arms, then test new examples.",
+      "translation": "冬季探险营的图表把雪,下雪vi. 下雪（snow）和母狮子（lioness）放在不同分支，让读者清楚看见两者区别。冬季探险营的简短演示先让玫瑰,蔷薇（rose）具体可见，再用第二个实例解释食指（forefinger）。冬季探险营的课程分别解释放射性,放射(现象)（radioactivity）与(pl. bacteria)细菌（bacterium），避免学习者因定义不同而进行错误比较。冬季探险营把树,树状物vi. 爬上树（tree）与芦苇,苇丛（reed）分开考察，使两个陌生概念转化为可使用的知识。冬季探险营的学生分别概括消化不良（indigestion）与骑士,武士（knight），随后检验新实例是否符合定义。",
+      "sentences": [
+        {
+          "en": "A chart in a winter exploration camp defines snow as precipitation falling from clouds in the form of ice crystals and lioness as a female lion on different branches.",
+          "zh": "冬季探险营的图表把雪,下雪vi. 下雪（snow）和母狮子（lioness）放在不同分支，让读者清楚看见两者区别。"
+        },
+        {
+          "en": "A demonstration at a winter exploration camp makes rose (any of many shrubs of the genus Rosa) concrete before explaining forefinger (the finger next to the thumb).",
+          "zh": "冬季探险营的简短演示先让玫瑰,蔷薇（rose）具体可见，再用第二个实例解释食指（forefinger）。"
+        },
+        {
+          "en": "At a winter exploration camp, radioactivity means the spontaneous emission of a stream of particles or electromagnetic, whereas bacterium means microbiology single-celled or noncellular spherical or spiral or rod-shaped organisms; separate examples prevent confusion.",
+          "zh": "冬季探险营的课程分别解释放射性,放射(现象)（radioactivity）与(pl. bacteria)细菌（bacterium），避免学习者因定义不同而进行错误比较。"
+        },
+        {
+          "en": "By separating tree (a tall perennial woody plant) from reed (tall woody perennial grasses with hollow slender stems), a winter exploration camp turns definitions into usable knowledge.",
+          "zh": "冬季探险营把树,树状物vi. 爬上树（tree）与芦苇,苇丛（reed）分开考察，使两个陌生概念转化为可使用的知识。"
+        },
+        {
+          "en": "Students at a winter exploration camp summarize indigestion as a disorder of digestive function and knight as originally a person of noble birth trained to arms, then test new examples.",
+          "zh": "冬季探险营的学生分别概括消化不良（indigestion）与骑士,武士（knight），随后检验新实例是否符合定义。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "snow",
+          "meaning": "n. 雪,下雪vi. 下雪;如雪一般地落下"
+        },
+        {
+          "word": "lioness",
+          "meaning": "n.母狮子"
+        },
+        {
+          "word": "rose",
+          "meaning": "n. 玫瑰,蔷薇"
+        },
+        {
+          "word": "forefinger",
+          "meaning": "n.食指"
+        },
+        {
+          "word": "radioactivity",
+          "meaning": "n.放射性,放射(现象)"
+        },
+        {
+          "word": "bacterium",
+          "meaning": "n. (pl. bacteria)细菌"
+        },
+        {
+          "word": "tree",
+          "meaning": "n. 树,树状物vi. 爬上树"
+        },
+        {
+          "word": "reed",
+          "meaning": "n. 芦苇,苇丛;芦笛,牧笛"
+        },
+        {
+          "word": "indigestion",
+          "meaning": "n.消化不良"
+        },
+        {
+          "word": "knight",
+          "meaning": "n.骑士,武士;爵士"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d074-3",
+      "title": "Why Injustice Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "Public trust at a winter exploration camp needs honest discussion of prudence (discretion in practical affairs) and measurable commitments on displacement (act of taking the place of another). Before approving change at a winter exploration camp, leaders must explain raid (a sudden short attack) and risks involving exclamation (an abrupt excited utterance). Decision makers at a winter exploration camp cannot evaluate exertion (use of physical or mental energy) while excluding responsibility (the social force). Residents near a winter exploration camp debated theory (a well-substantiated explanation of some aspect of the natural world) and caravan (a procession), then requested written evidence. The strongest argument at a winter exploration camp supported mentality (a habitual or characteristic mental attitude) but demanded safeguards for injustice (an unjust act).",
+      "translation": "冬季探险营要建立公众信任，就必须诚实讨论谨慎（prudence），并对移置（displacement）作出可衡量承诺。批准冬季探险营的改变前，领导者应解释(突然)袭击（raid）为何重要，以及谁承担呼喊,惊叫（exclamation）带来的风险。冬季探险营的决策者不能只评估尽力,竭力（exertion），却把责任,责任心（responsibility）排除在公开证据之外。冬季探险营附近居民讨论理论,原理（theory）和车队,大蓬车（caravan）后，要求书面说明成本与责任。冬季探险营最有力的论证支持处理智力,心理状态（mentality），同时要求在不公正（injustice）受影响时设置保障。",
+      "sentences": [
+        {
+          "en": "Public trust at a winter exploration camp needs honest discussion of prudence (discretion in practical affairs) and measurable commitments on displacement (act of taking the place of another).",
+          "zh": "冬季探险营要建立公众信任，就必须诚实讨论谨慎（prudence），并对移置（displacement）作出可衡量承诺。"
+        },
+        {
+          "en": "Before approving change at a winter exploration camp, leaders must explain raid (a sudden short attack) and risks involving exclamation (an abrupt excited utterance).",
+          "zh": "批准冬季探险营的改变前，领导者应解释(突然)袭击（raid）为何重要，以及谁承担呼喊,惊叫（exclamation）带来的风险。"
+        },
+        {
+          "en": "Decision makers at a winter exploration camp cannot evaluate exertion (use of physical or mental energy) while excluding responsibility (the social force).",
+          "zh": "冬季探险营的决策者不能只评估尽力,竭力（exertion），却把责任,责任心（responsibility）排除在公开证据之外。"
+        },
+        {
+          "en": "Residents near a winter exploration camp debated theory (a well-substantiated explanation of some aspect of the natural world) and caravan (a procession), then requested written evidence.",
+          "zh": "冬季探险营附近居民讨论理论,原理（theory）和车队,大蓬车（caravan）后，要求书面说明成本与责任。"
+        },
+        {
+          "en": "The strongest argument at a winter exploration camp supported mentality (a habitual or characteristic mental attitude) but demanded safeguards for injustice (an unjust act).",
+          "zh": "冬季探险营最有力的论证支持处理智力,心理状态（mentality），同时要求在不公正（injustice）受影响时设置保障。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "prudence",
+          "meaning": "n.谨慎"
+        },
+        {
+          "word": "displacement",
+          "meaning": "n.移置;免职;置换"
+        },
+        {
+          "word": "raid",
+          "meaning": "n./vt. (突然)袭击;(警察等)突入查抄,突入搜捕;劫掠,劫夺"
+        },
+        {
+          "word": "exclamation",
+          "meaning": "n.呼喊,惊叫;感叹"
+        },
+        {
+          "word": "exertion",
+          "meaning": "n.尽力,竭力"
+        },
+        {
+          "word": "responsibility",
+          "meaning": "n. 责任,责任心;职责,任务"
+        },
+        {
+          "word": "theory",
+          "meaning": "n. 理论,原理;学说,见解,看法"
+        },
+        {
+          "word": "caravan",
+          "meaning": "n.车队,大蓬车"
+        },
+        {
+          "word": "mentality",
+          "meaning": "n. 智力,心理状态"
+        },
+        {
+          "word": "injustice",
+          "meaning": "n.不公正"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

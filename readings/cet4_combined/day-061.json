@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 61,
+  "articles": [
+    {
+      "id": "cet4-reading-d061-1",
+      "title": "The Shop File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "During a tour of a zoo newsroom, the class found bedroom (a room used primarily for sleeping) before locating greengrocer (a grocer). The newest room at a zoo newsroom began with playwright (someone) and ended with mast (a vertical spar for supporting sails). The morning program at a zoo newsroom paired a section on pail (a roughly cylindrical vessel) with one on tea (a beverage). A quiet corner of a zoo newsroom presented listener (someone); a recording nearby introduced freshman (a first-year undergraduate). Near closing time at a zoo newsroom, a diary linked the displays of condenser (an electrical device) and shop (a mercantile establishment for the retail sale of goods).",
+      "translation": "动物园新闻室的参观先让学生认识卧室（bedroom）；一块丢失的标牌又把他们带到蔬菜商（greengrocer）。动物园新闻室最新展厅从剧作家（playwright）开始，以一个出人意料的本地桅杆（mast）实例结束。动物园新闻室的上午活动把桶,提桶一桶的量（pail）与另一项关于茶(叶)（tea）的展览相邻安排，但没有混淆两者。动物园新闻室安静的一角介绍听者,听众之一（listener），旁边的录音访谈则讲述新人,新生（freshman）背后的人物故事。动物园新闻室闭馆前，一本提到冷凝器,聚光器（condenser）的日记帮助员工找到了一幅标有商店,店铺（shop）的画的主人。",
+      "sentences": [
+        {
+          "en": "During a tour of a zoo newsroom, the class found bedroom (a room used primarily for sleeping) before locating greengrocer (a grocer).",
+          "zh": "动物园新闻室的参观先让学生认识卧室（bedroom）；一块丢失的标牌又把他们带到蔬菜商（greengrocer）。"
+        },
+        {
+          "en": "The newest room at a zoo newsroom began with playwright (someone) and ended with mast (a vertical spar for supporting sails).",
+          "zh": "动物园新闻室最新展厅从剧作家（playwright）开始，以一个出人意料的本地桅杆（mast）实例结束。"
+        },
+        {
+          "en": "The morning program at a zoo newsroom paired a section on pail (a roughly cylindrical vessel) with one on tea (a beverage).",
+          "zh": "动物园新闻室的上午活动把桶,提桶一桶的量（pail）与另一项关于茶(叶)（tea）的展览相邻安排，但没有混淆两者。"
+        },
+        {
+          "en": "A quiet corner of a zoo newsroom presented listener (someone); a recording nearby introduced freshman (a first-year undergraduate).",
+          "zh": "动物园新闻室安静的一角介绍听者,听众之一（listener），旁边的录音访谈则讲述新人,新生（freshman）背后的人物故事。"
+        },
+        {
+          "en": "Near closing time at a zoo newsroom, a diary linked the displays of condenser (an electrical device) and shop (a mercantile establishment for the retail sale of goods).",
+          "zh": "动物园新闻室闭馆前，一本提到冷凝器,聚光器（condenser）的日记帮助员工找到了一幅标有商店,店铺（shop）的画的主人。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "bedroom",
+          "meaning": "n.卧室"
+        },
+        {
+          "word": "greengrocer",
+          "meaning": "n.蔬菜商"
+        },
+        {
+          "word": "playwright",
+          "meaning": "n.剧作家"
+        },
+        {
+          "word": "mast",
+          "meaning": "n.桅杆;杆vt.扯帆"
+        },
+        {
+          "word": "pail",
+          "meaning": "n. 桶,提桶一桶的量"
+        },
+        {
+          "word": "tea",
+          "meaning": "n. 茶(叶);午后茶点"
+        },
+        {
+          "word": "listener",
+          "meaning": "n.听者,听众之一"
+        },
+        {
+          "word": "freshman",
+          "meaning": "n.新人,新生"
+        },
+        {
+          "word": "condenser",
+          "meaning": "n.冷凝器,聚光器"
+        },
+        {
+          "word": "shop",
+          "meaning": "n. 商店,店铺;工厂,车间v. 买东西"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "shop",
+          "explanation": "最后一个目标词是商店,店铺（shop）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d061-2",
+      "title": "Understanding Shoulder Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "To avoid ambiguity, a zoo newsroom explains shoulder as the part of the body between the neck and microwave as a short electromagnetic wave. Researchers at a zoo newsroom use zoo for the facility, but reserve journalism for newspapers and magazines collectively. A classification exercise at a zoo newsroom compares Thursday (the fifth day of the week) with imposition (the act of imposing something). At a zoo newsroom, dictator means a speaker, whereas consul means a diplomat appointed by a government to protect its commercial; separate examples prevent confusion. The glossary at a zoo newsroom defines quay as wharf and cross-references sculptor, meaning an artist.",
+      "translation": "为避免歧义，动物园新闻室的教师分别说明肩,肩部v. 肩负,承担（shoulder）和微波（microwave），再用实例展示各自用法。动物园新闻室的研究记录分别使用动物园（zoo）和新闻体（journalism）；由于含义不同，二者需要不同证据。动物园新闻室的分类练习把星期四（Thursday）与强迫接受（imposition）并列，要求学习者找出两者不同特征。动物园新闻室的课程分别解释独裁者,专政者（dictator）与领事（consul），避免学习者因定义不同而进行错误比较。动物园新闻室的词汇表定义码头（quay），并以交叉索引引导读者查看雕塑家（sculptor），但不把二者视为相同。",
+      "sentences": [
+        {
+          "en": "To avoid ambiguity, a zoo newsroom explains shoulder as the part of the body between the neck and microwave as a short electromagnetic wave.",
+          "zh": "为避免歧义，动物园新闻室的教师分别说明肩,肩部v. 肩负,承担（shoulder）和微波（microwave），再用实例展示各自用法。"
+        },
+        {
+          "en": "Researchers at a zoo newsroom use zoo for the facility, but reserve journalism for newspapers and magazines collectively.",
+          "zh": "动物园新闻室的研究记录分别使用动物园（zoo）和新闻体（journalism）；由于含义不同，二者需要不同证据。"
+        },
+        {
+          "en": "A classification exercise at a zoo newsroom compares Thursday (the fifth day of the week) with imposition (the act of imposing something).",
+          "zh": "动物园新闻室的分类练习把星期四（Thursday）与强迫接受（imposition）并列，要求学习者找出两者不同特征。"
+        },
+        {
+          "en": "At a zoo newsroom, dictator means a speaker, whereas consul means a diplomat appointed by a government to protect its commercial; separate examples prevent confusion.",
+          "zh": "动物园新闻室的课程分别解释独裁者,专政者（dictator）与领事（consul），避免学习者因定义不同而进行错误比较。"
+        },
+        {
+          "en": "The glossary at a zoo newsroom defines quay as wharf and cross-references sculptor, meaning an artist.",
+          "zh": "动物园新闻室的词汇表定义码头（quay），并以交叉索引引导读者查看雕塑家（sculptor），但不把二者视为相同。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "shoulder",
+          "meaning": "n. 肩,肩部v. 肩负,承担"
+        },
+        {
+          "word": "microwave",
+          "meaning": "n.微波"
+        },
+        {
+          "word": "zoo",
+          "meaning": "n. 动物园"
+        },
+        {
+          "word": "journalism",
+          "meaning": "n.新闻体"
+        },
+        {
+          "word": "Thursday",
+          "meaning": "n. 星期四"
+        },
+        {
+          "word": "imposition",
+          "meaning": "n.强迫接受"
+        },
+        {
+          "word": "dictator",
+          "meaning": "n.独裁者,专政者"
+        },
+        {
+          "word": "consul",
+          "meaning": "n.领事"
+        },
+        {
+          "word": "quay",
+          "meaning": "n.码头"
+        },
+        {
+          "word": "sculptor",
+          "meaning": "n.雕塑家"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d061-3",
+      "title": "Why Taxation Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "Public trust at a zoo newsroom needs honest discussion of capitalization (writing in capital letters) and measurable commitments on remittance (a payment of money sent to a person in another). Policy at a zoo newsroom should address evaluation—act of ascertaining or fixing the value or worth—without ignoring gathering—a group of persons together in one place. Long-term planning at a zoo newsroom needs indicators for arrow (a mark to indicate a direction or relation) and independent scrutiny of accent (distinctive manner of oral expression). Funding choices at a zoo newsroom require clear definitions of flexibility (the property of being flexible) and membership (the body of members of an organization or group). A forum at a zoo newsroom considered peculiarity (an odd or unusual characteristic) alongside taxation (charge against a citizen's person or property or activity) before setting priorities.",
+      "translation": "动物园新闻室要建立公众信任，就必须诚实讨论资本化（capitalization），并对汇款(海外),汇款额（remittance）作出可衡量承诺。动物园新闻室的政策应处理估价,评价（evaluation），也不能忽视集会,聚会,聚集（gathering）；两者都需要证据而非口号。动物园新闻室的长期规划应公布箭,矢,箭状物（arrow）指标，也应允许独立人员审查有关口音,腔调（accent）的主张。动物园新闻室的官员清楚定义柔韧,灵活性（flexibility）并解释方案如何回应会员资格,成员资格（membership），资金选择才会更明白。动物园新闻室的公开论坛同时考虑特性,独特性（peculiarity）与税制,税项（taxation），并讨论哪一项更需要优先行动。",
+      "sentences": [
+        {
+          "en": "Public trust at a zoo newsroom needs honest discussion of capitalization (writing in capital letters) and measurable commitments on remittance (a payment of money sent to a person in another).",
+          "zh": "动物园新闻室要建立公众信任，就必须诚实讨论资本化（capitalization），并对汇款(海外),汇款额（remittance）作出可衡量承诺。"
+        },
+        {
+          "en": "Policy at a zoo newsroom should address evaluation—act of ascertaining or fixing the value or worth—without ignoring gathering—a group of persons together in one place.",
+          "zh": "动物园新闻室的政策应处理估价,评价（evaluation），也不能忽视集会,聚会,聚集（gathering）；两者都需要证据而非口号。"
+        },
+        {
+          "en": "Long-term planning at a zoo newsroom needs indicators for arrow (a mark to indicate a direction or relation) and independent scrutiny of accent (distinctive manner of oral expression).",
+          "zh": "动物园新闻室的长期规划应公布箭,矢,箭状物（arrow）指标，也应允许独立人员审查有关口音,腔调（accent）的主张。"
+        },
+        {
+          "en": "Funding choices at a zoo newsroom require clear definitions of flexibility (the property of being flexible) and membership (the body of members of an organization or group).",
+          "zh": "动物园新闻室的官员清楚定义柔韧,灵活性（flexibility）并解释方案如何回应会员资格,成员资格（membership），资金选择才会更明白。"
+        },
+        {
+          "en": "A forum at a zoo newsroom considered peculiarity (an odd or unusual characteristic) alongside taxation (charge against a citizen's person or property or activity) before setting priorities.",
+          "zh": "动物园新闻室的公开论坛同时考虑特性,独特性（peculiarity）与税制,税项（taxation），并讨论哪一项更需要优先行动。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "capitalization",
+          "meaning": "n.资本化"
+        },
+        {
+          "word": "remittance",
+          "meaning": "n. 汇款(海外),汇款额"
+        },
+        {
+          "word": "evaluation",
+          "meaning": "n.估价,评价"
+        },
+        {
+          "word": "gathering",
+          "meaning": "n.集会,聚会,聚集"
+        },
+        {
+          "word": "arrow",
+          "meaning": "n. 箭,矢,箭状物;箭头符号"
+        },
+        {
+          "word": "accent",
+          "meaning": "n. 口音,腔调;重音(符号)vt. 重读"
+        },
+        {
+          "word": "flexibility",
+          "meaning": "n.柔韧,灵活性"
+        },
+        {
+          "word": "membership",
+          "meaning": "n. 会员资格,成员资格"
+        },
+        {
+          "word": "peculiarity",
+          "meaning": "n.特性,独特性;怪癖"
+        },
+        {
+          "word": "taxation",
+          "meaning": "n. 税制,税项"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 77,
+  "articles": [
+    {
+      "id": "cet4-reading-d077-1",
+      "title": "The Highland File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "A quiet corner of a reefside mountain gallery presented reef (a submerged ridge of rock or coral near the surface); a recording nearby introduced ski (narrow wood or metal or plastic runners used in pairs). A student at a reefside mountain gallery photographed duke—a British peer of the highest rank—and sketched namesake—a person with the same name as another. The morning program at a reefside mountain gallery paired a section on tape (a long thin piece of cloth or paper as used) with one on whale (a very large person). When a shelf shifted at a reefside mountain gallery, staff protected files on structure (a thing constructed) and youngster (a young person of either sex). A visitor entered a reefside mountain gallery asking about representative (a person) and left with a note on highland (elevated).",
+      "translation": "礁岸山地画廊安静的一角介绍礁,礁石,暗礁（reef），旁边的录音访谈则讲述雪橇v. 滑雪（ski）背后的人物故事。学生在礁岸山地画廊记录公爵,君主（duke）后，又到另一处展区了解同姓的人,同名的人,同名的事物（namesake），两项内容分别得到清楚说明。礁岸山地画廊的上午活动把带(子)（tape）与另一项关于鲸（whale）的展览相邻安排，但没有混淆两者。礁岸山地画廊的架子倒下时，员工保护了有关结构,构造（structure）的材料，也找回了旁边关于小伙子,年轻人（youngster）的档案。访客到礁岸山地画廊询问代表,代理人a. (of)典型的,有代表性的（representative），旧平面图却意外引导她发现了高地,高原（highland）。",
+      "sentences": [
+        {
+          "en": "A quiet corner of a reefside mountain gallery presented reef (a submerged ridge of rock or coral near the surface); a recording nearby introduced ski (narrow wood or metal or plastic runners used in pairs).",
+          "zh": "礁岸山地画廊安静的一角介绍礁,礁石,暗礁（reef），旁边的录音访谈则讲述雪橇v. 滑雪（ski）背后的人物故事。"
+        },
+        {
+          "en": "A student at a reefside mountain gallery photographed duke—a British peer of the highest rank—and sketched namesake—a person with the same name as another.",
+          "zh": "学生在礁岸山地画廊记录公爵,君主（duke）后，又到另一处展区了解同姓的人,同名的人,同名的事物（namesake），两项内容分别得到清楚说明。"
+        },
+        {
+          "en": "The morning program at a reefside mountain gallery paired a section on tape (a long thin piece of cloth or paper as used) with one on whale (a very large person).",
+          "zh": "礁岸山地画廊的上午活动把带(子)（tape）与另一项关于鲸（whale）的展览相邻安排，但没有混淆两者。"
+        },
+        {
+          "en": "When a shelf shifted at a reefside mountain gallery, staff protected files on structure (a thing constructed) and youngster (a young person of either sex).",
+          "zh": "礁岸山地画廊的架子倒下时，员工保护了有关结构,构造（structure）的材料，也找回了旁边关于小伙子,年轻人（youngster）的档案。"
+        },
+        {
+          "en": "A visitor entered a reefside mountain gallery asking about representative (a person) and left with a note on highland (elevated).",
+          "zh": "访客到礁岸山地画廊询问代表,代理人a. (of)典型的,有代表性的（representative），旧平面图却意外引导她发现了高地,高原（highland）。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "reef",
+          "meaning": "n.礁,礁石,暗礁"
+        },
+        {
+          "word": "ski",
+          "meaning": "n. 雪橇v. 滑雪"
+        },
+        {
+          "word": "duke",
+          "meaning": "n.公爵,君主;手"
+        },
+        {
+          "word": "namesake",
+          "meaning": "n.同姓的人,同名的人,同名的事物"
+        },
+        {
+          "word": "tape",
+          "meaning": "n. 带(子);录音带,磁带v. 录音;系,捆"
+        },
+        {
+          "word": "whale",
+          "meaning": "n. 鲸;庞然大物"
+        },
+        {
+          "word": "structure",
+          "meaning": "n. 结构,构造;建筑物v. 构造,建造"
+        },
+        {
+          "word": "youngster",
+          "meaning": "n. 小伙子,年轻人;少年,儿童"
+        },
+        {
+          "word": "representative",
+          "meaning": "n. 代表,代理人a. (of)典型的,有代表性的"
+        },
+        {
+          "word": "highland",
+          "meaning": "n. 高地,高原"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "highland",
+          "explanation": "最后一个目标词是高地,高原（highland）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d077-2",
+      "title": "Understanding Impurity Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "Researchers at a reefside mountain gallery use impurity for worthless or dangerous material, but reserve heating for the process of becoming warmer. To avoid ambiguity, a reefside mountain gallery explains sweat as salty fluid secreted by sweat glands and projection as a prediction. The handbook at a reefside mountain gallery introduces rumor—gossip—before adjustment—making or becoming suitable. The glossary at a reefside mountain gallery defines delinquency as nonpayment of a debt and cross-references arch, meaning a curved shape in the vertical plane. A classification exercise at a reefside mountain gallery compares protestant (an adherent of Protestantism) with normalization (the imposition of standards or regulations).",
+      "translation": "礁岸山地画廊的研究记录分别使用不纯（impurity）和加热,供暖（heating）；由于含义不同，二者需要不同证据。为避免歧义，礁岸山地画廊的教师分别说明汗v. (使)出汗（sweat）和射出,投射（projection），再用实例展示各自用法。礁岸山地画廊的手册先介绍传闻,谣言（rumor），再补充需要更多背景的调整（adjustment）。礁岸山地画廊的词汇表定义过失,为非作歹,失职（delinquency），并以交叉索引引导读者查看拱 v. 拱起（arch），但不把二者视为相同。礁岸山地画廊的分类练习把清教徒,新教徒（protestant）与正常化,标准化（normalization）并列，要求学习者找出两者不同特征。",
+      "sentences": [
+        {
+          "en": "Researchers at a reefside mountain gallery use impurity for worthless or dangerous material, but reserve heating for the process of becoming warmer.",
+          "zh": "礁岸山地画廊的研究记录分别使用不纯（impurity）和加热,供暖（heating）；由于含义不同，二者需要不同证据。"
+        },
+        {
+          "en": "To avoid ambiguity, a reefside mountain gallery explains sweat as salty fluid secreted by sweat glands and projection as a prediction.",
+          "zh": "为避免歧义，礁岸山地画廊的教师分别说明汗v. (使)出汗（sweat）和射出,投射（projection），再用实例展示各自用法。"
+        },
+        {
+          "en": "The handbook at a reefside mountain gallery introduces rumor—gossip—before adjustment—making or becoming suitable.",
+          "zh": "礁岸山地画廊的手册先介绍传闻,谣言（rumor），再补充需要更多背景的调整（adjustment）。"
+        },
+        {
+          "en": "The glossary at a reefside mountain gallery defines delinquency as nonpayment of a debt and cross-references arch, meaning a curved shape in the vertical plane.",
+          "zh": "礁岸山地画廊的词汇表定义过失,为非作歹,失职（delinquency），并以交叉索引引导读者查看拱 v. 拱起（arch），但不把二者视为相同。"
+        },
+        {
+          "en": "A classification exercise at a reefside mountain gallery compares protestant (an adherent of Protestantism) with normalization (the imposition of standards or regulations).",
+          "zh": "礁岸山地画廊的分类练习把清教徒,新教徒（protestant）与正常化,标准化（normalization）并列，要求学习者找出两者不同特征。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "impurity",
+          "meaning": "n.不纯;杂质;不道德"
+        },
+        {
+          "word": "heating",
+          "meaning": "n.加热,供暖"
+        },
+        {
+          "word": "sweat",
+          "meaning": "n. 汗v. (使)出汗"
+        },
+        {
+          "word": "projection",
+          "meaning": "n.射出,投射"
+        },
+        {
+          "word": "rumor",
+          "meaning": "n. 传闻,谣言"
+        },
+        {
+          "word": "adjustment",
+          "meaning": "n.调整"
+        },
+        {
+          "word": "delinquency",
+          "meaning": "n. 过失,为非作歹,失职"
+        },
+        {
+          "word": "arch",
+          "meaning": "n. 拱 v. 拱起"
+        },
+        {
+          "word": "protestant",
+          "meaning": "n.清教徒,新教徒"
+        },
+        {
+          "word": "normalization",
+          "meaning": "n. 正常化,标准化"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d077-3",
+      "title": "Why Glossary Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "Before approving change at a reefside mountain gallery, leaders must explain deliverance (recovery or preservation from loss or danger) and risks involving winding (the act of winding or twisting). Long-term planning at a reefside mountain gallery needs indicators for quietness (the property of making no sound) and independent scrutiny of snobbery (the trait of condescending to those of lower social status). The strongest argument at a reefside mountain gallery supported cunning (shrewdness as demonstrated by being skilled in deception) but demanded safeguards for countenance (the appearance conveyed by a person's face). A forum at a reefside mountain gallery considered motto (a favorite saying of a sect or political group) alongside absurdity (a message whose content is at variance with reason) before setting priorities. Decision makers at a reefside mountain gallery cannot evaluate gallery (spectators at a golf or tennis match) while excluding glossary (an alphabetical list of technical terms in some specialized field).",
+      "translation": "批准礁岸山地画廊的改变前，领导者应解释救助（deliverance）为何重要，以及谁承担卷绕着的线a.卷曲的（winding）带来的风险。礁岸山地画廊的长期规划应公布平静,安定,安静（quietness）指标，也应允许独立人员审查有关势利（snobbery）的主张。礁岸山地画廊最有力的论证支持处理狡猾(的)（cunning），同时要求在容貌,支持（countenance）受影响时设置保障。礁岸山地画廊的公开论坛同时考虑座右铭,箴言（motto）与荒唐(事)（absurdity），并讨论哪一项更需要优先行动。礁岸山地画廊的决策者不能只评估画廊,美术品陈列室,剧场顶层（gallery），却把词汇表,术语汇编（glossary）排除在公开证据之外。",
+      "sentences": [
+        {
+          "en": "Before approving change at a reefside mountain gallery, leaders must explain deliverance (recovery or preservation from loss or danger) and risks involving winding (the act of winding or twisting).",
+          "zh": "批准礁岸山地画廊的改变前，领导者应解释救助（deliverance）为何重要，以及谁承担卷绕着的线a.卷曲的（winding）带来的风险。"
+        },
+        {
+          "en": "Long-term planning at a reefside mountain gallery needs indicators for quietness (the property of making no sound) and independent scrutiny of snobbery (the trait of condescending to those of lower social status).",
+          "zh": "礁岸山地画廊的长期规划应公布平静,安定,安静（quietness）指标，也应允许独立人员审查有关势利（snobbery）的主张。"
+        },
+        {
+          "en": "The strongest argument at a reefside mountain gallery supported cunning (shrewdness as demonstrated by being skilled in deception) but demanded safeguards for countenance (the appearance conveyed by a person's face).",
+          "zh": "礁岸山地画廊最有力的论证支持处理狡猾(的)（cunning），同时要求在容貌,支持（countenance）受影响时设置保障。"
+        },
+        {
+          "en": "A forum at a reefside mountain gallery considered motto (a favorite saying of a sect or political group) alongside absurdity (a message whose content is at variance with reason) before setting priorities.",
+          "zh": "礁岸山地画廊的公开论坛同时考虑座右铭,箴言（motto）与荒唐(事)（absurdity），并讨论哪一项更需要优先行动。"
+        },
+        {
+          "en": "Decision makers at a reefside mountain gallery cannot evaluate gallery (spectators at a golf or tennis match) while excluding glossary (an alphabetical list of technical terms in some specialized field).",
+          "zh": "礁岸山地画廊的决策者不能只评估画廊,美术品陈列室,剧场顶层（gallery），却把词汇表,术语汇编（glossary）排除在公开证据之外。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "deliverance",
+          "meaning": "n.救助"
+        },
+        {
+          "word": "winding",
+          "meaning": "n.卷绕着的线a.卷曲的"
+        },
+        {
+          "word": "quietness",
+          "meaning": "n.平静,安定,安静"
+        },
+        {
+          "word": "snobbery",
+          "meaning": "n.势利"
+        },
+        {
+          "word": "cunning",
+          "meaning": "n./a. 狡猾(的);精巧(的)"
+        },
+        {
+          "word": "countenance",
+          "meaning": "n.容貌,支持"
+        },
+        {
+          "word": "motto",
+          "meaning": "n. 座右铭,箴言"
+        },
+        {
+          "word": "absurdity",
+          "meaning": "n.荒唐(事)"
+        },
+        {
+          "word": "gallery",
+          "meaning": "n. 画廊,美术品陈列室,剧场顶层"
+        },
+        {
+          "word": "glossary",
+          "meaning": "n. 词汇表,术语汇编"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}
