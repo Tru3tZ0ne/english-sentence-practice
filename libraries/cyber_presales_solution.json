@@ -1,0 +1,465 @@
+{
+  "schema_version": 1,
+  "id": "cyber_presales_solution",
+  "title": "网络安全 · 售前方案设计 30 句",
+  "description": "覆盖需求澄清、架构设计、集成、容量规划、概念验证与验收标准的网络安全售前英语。",
+  "language": "en-GB",
+  "tags": [
+    "网络安全",
+    "售前方案",
+    "解决方案",
+    "IELTS 6+"
+  ],
+  "items": [
+    {
+      "id": "presales_001",
+      "zh": "为了判断方案是否适用，我们需要了解客户要改善的流程，而不只是所需功能清单。",
+      "en": "To determine whether the solution is suitable, we need to understand the process the client wants to improve, not merely the requested feature list.",
+      "answers": [
+        "To determine whether the solution is suitable, we need to understand the process the client wants to improve, not merely the requested feature list."
+      ],
+      "notes": "whether 引导判断内容；not merely 区分业务流程与功能清单。",
+      "tags": [
+        "售前方案",
+        "需求澄清",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "presales_002",
+      "zh": "请说明每个用例由谁处理、多久发生一次，以及什么结果才算成功。",
+      "en": "Please clarify who handles each use case, how often it occurs, and what outcome would constitute success.",
+      "answers": [
+        "Please clarify who handles each use case, how often it occurs, and what outcome would constitute success."
+      ],
+      "notes": "三个疑问词从句并列；constitute success 表示构成成功。",
+      "tags": [
+        "售前方案",
+        "用例定义",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "presales_003",
+      "zh": "现有流程的瓶颈出现在数据收集、分析判断还是响应授权环节？",
+      "en": "Does the current process break down at data collection, analytical decision-making, or response authorisation?",
+      "answers": [
+        "Does the current process break down at data collection, analytical decision-making, or response authorisation?"
+      ],
+      "notes": "break down at 用于定位流程失效环节；三项选择便于澄清。",
+      "tags": [
+        "售前方案",
+        "流程分析",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "presales_004",
+      "zh": "有些要求看似属于产品能力，实际上取决于客户能否提供完整可靠的数据。",
+      "en": "Some requirements appear to concern product capability but actually depend on the client's ability to provide complete and reliable data.",
+      "answers": [
+        "Some requirements appear to concern product capability but actually depend on the client's ability to provide complete and reliable data."
+      ],
+      "notes": "appear to ... but actually... 对比表象与真实依赖；ability to do 是固定结构。",
+      "tags": [
+        "售前方案",
+        "依赖识别",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "presales_005",
+      "zh": "在确认技术方案之前，我们应区分强制要求、偏好以及未来可能需要的能力。",
+      "en": "Before confirming the technical design, we should distinguish mandatory requirements from preferences and possible future capabilities.",
+      "answers": [
+        "Before confirming the technical design, we should distinguish mandatory requirements from preferences and possible future capabilities."
+      ],
+      "notes": "distinguish A from B；before doing 表明设计顺序。",
+      "tags": [
+        "售前方案",
+        "需求分级",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "presales_006",
+      "zh": "建议的架构把管理流量与采集流量分开，从而减少管理接口的暴露。",
+      "en": "The proposed architecture separates management traffic from collection traffic, thereby reducing exposure of the administrative interface.",
+      "answers": [
+        "The proposed architecture separates management traffic from collection traffic, thereby reducing exposure of the administrative interface."
+      ],
+      "notes": "separate A from B；thereby doing 说明直接结果。",
+      "tags": [
+        "售前方案",
+        "架构设计",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "presales_007",
+      "zh": "由于部分站点带宽有限，边缘节点会先过滤低价值事件，再把数据传送到中央平台。",
+      "en": "Because bandwidth is constrained at several sites, edge nodes will filter low-value events before forwarding data to the central platform.",
+      "answers": [
+        "Because bandwidth is constrained at several sites, edge nodes will filter low-value events before forwarding data to the central platform."
+      ],
+      "notes": "because 解释设计原因；before doing 表示处理顺序。",
+      "tags": [
+        "售前方案",
+        "分布式架构",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "presales_008",
+      "zh": "高可用设计消除了单个应用节点故障，却仍依赖共享数据库的恢复能力。",
+      "en": "The high-availability design removes the risk of a single application-node failure, although it still depends on the recoverability of the shared database.",
+      "answers": [
+        "The high-availability design removes the risk of a single application-node failure, although it still depends on the recoverability of the shared database."
+      ],
+      "notes": "although 揭示高可用边界；depend on 指剩余依赖。",
+      "tags": [
+        "售前方案",
+        "高可用",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "presales_009",
+      "zh": "如果管理平面必须与互联网隔离，更新服务就需要经过客户现有的代理。",
+      "en": "If the management plane must remain isolated from the internet, the update service will need to use the client's existing proxy.",
+      "answers": [
+        "If the management plane must remain isolated from the internet, the update service will need to use the client's existing proxy."
+      ],
+      "notes": "if 引出网络约束；remain isolated 表示保持隔离。",
+      "tags": [
+        "售前方案",
+        "网络约束",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "presales_010",
+      "zh": "该设计选择区域内存储，是为了满足数据驻留要求，而不是出于性能考虑。",
+      "en": "The design uses in-region storage to satisfy data-residency requirements rather than for performance reasons.",
+      "answers": [
+        "The design uses in-region storage to satisfy data-residency requirements rather than for performance reasons."
+      ],
+      "notes": "to satisfy 表目的；rather than for 对比设计依据。",
+      "tags": [
+        "售前方案",
+        "数据驻留",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "presales_011",
+      "zh": "目录集成将采用只读服务账户，其权限仅限于查询所需的属性。",
+      "en": "The directory integration will use a read-only service account whose permissions are limited to the attributes required for queries.",
+      "answers": [
+        "The directory integration will use a read-only service account whose permissions are limited to the attributes required for queries."
+      ],
+      "notes": "whose 引导所属关系定语从句；be limited to 表示权限边界。",
+      "tags": [
+        "售前方案",
+        "身份集成",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "presales_012",
+      "zh": "接口支持双向同步，但冲突记录必须由一个系统作为最终权威来源。",
+      "en": "The interface supports bidirectional synchronisation, but one system must remain the authoritative source when records conflict.",
+      "answers": [
+        "The interface supports bidirectional synchronisation, but one system must remain the authoritative source when records conflict."
+      ],
+      "notes": "authoritative source 指权威数据源；when 说明冲突情形。",
+      "tags": [
+        "售前方案",
+        "系统集成",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "presales_013",
+      "zh": "若设备不支持标准日志格式，解析器开发应作为单独的交付项估算。",
+      "en": "Where a device does not support a standard log format, parser development should be estimated as a separate deliverable.",
+      "answers": [
+        "Where a device does not support a standard log format, parser development should be estimated as a separate deliverable."
+      ],
+      "notes": "where 引出适用场景；be estimated as 表示单独估算。",
+      "tags": [
+        "售前方案",
+        "日志接入",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "presales_014",
+      "zh": "客户需在部署前开通出站连接，否则云端注册无法完成。",
+      "en": "The client must permit the outbound connection before deployment; otherwise, cloud registration cannot be completed.",
+      "answers": [
+        "The client must permit the outbound connection before deployment; otherwise, cloud registration cannot be completed."
+      ],
+      "notes": "otherwise 清楚说明前置条件未满足的后果。",
+      "tags": [
+        "售前方案",
+        "部署前提",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "presales_015",
+      "zh": "我们已确认工单系统能够接收事件，但仍需验证状态回写是否保留审计轨迹。",
+      "en": "We have confirmed that the ticketing system can receive incidents, but we still need to verify whether status updates preserve the audit trail.",
+      "answers": [
+        "We have confirmed that the ticketing system can receive incidents, but we still need to verify whether status updates preserve the audit trail."
+      ],
+      "notes": "confirm that 与 verify whether 区分已知事实和待验证事项。",
+      "tags": [
+        "售前方案",
+        "集成验证",
+        "专业英语"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "presales_016",
+      "zh": "容量模型使用的是高峰事件速率，因为每日平均值会低估突发负载。",
+      "en": "The capacity model uses the peak event rate because a daily average would understate burst demand.",
+      "answers": [
+        "The capacity model uses the peak event rate because a daily average would understate burst demand."
+      ],
+      "notes": "would understate 表示采用平均值可能低估；because 解释建模选择。",
+      "tags": [
+        "售前方案",
+        "容量规划",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "presales_017",
+      "zh": "保留期从九十天增加到一年，不仅影响存储，还会延长备份和恢复窗口。",
+      "en": "Extending retention from ninety days to one year affects not only storage but also backup and recovery windows.",
+      "answers": [
+        "Extending retention from ninety days to one year affects not only storage but also backup and recovery windows."
+      ],
+      "notes": "not only ... but also 连接两类容量影响；动名词短语作主语。",
+      "tags": [
+        "售前方案",
+        "存储规划",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "presales_018",
+      "zh": "当前估算预留了百分之二十的增长空间，但没有包含计划中的收购项目。",
+      "en": "The current estimate allows twenty per cent headroom for growth but excludes the planned acquisition.",
+      "answers": [
+        "The current estimate allows twenty per cent headroom for growth but excludes the planned acquisition."
+      ],
+      "notes": "allow headroom for 表示预留余量；but excludes 明确估算边界。",
+      "tags": [
+        "售前方案",
+        "规模估算",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "presales_019",
+      "zh": "如果日志量超过许可上限，系统会继续采集还是优先丢弃低价值数据？",
+      "en": "If log volume exceeds the licensed limit, will the system continue collecting everything or discard lower-value data first?",
+      "answers": [
+        "If log volume exceeds the licensed limit, will the system continue collecting everything or discard lower-value data first?"
+      ],
+      "notes": "if 引出超限场景；or 澄清产品具体行为。",
+      "tags": [
+        "售前方案",
+        "超限行为",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "presales_020",
+      "zh": "性能测试应模拟最繁忙时段，而不是在空闲环境中证明理论吞吐量。",
+      "en": "Performance testing should simulate the busiest operational period rather than demonstrate theoretical throughput in an idle environment.",
+      "answers": [
+        "Performance testing should simulate the busiest operational period rather than demonstrate theoretical throughput in an idle environment."
+      ],
+      "notes": "rather than 对比真实压力和理论指标；simulate 表示模拟。",
+      "tags": [
+        "售前方案",
+        "性能验证",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "presales_021",
+      "zh": "概念验证只检验三个最重要的用例，以便在有限时间内获得明确结论。",
+      "en": "The proof of concept will test only the three most important use cases so that a clear conclusion can be reached within the available time.",
+      "answers": [
+        "The proof of concept will test only the three most important use cases so that a clear conclusion can be reached within the available time."
+      ],
+      "notes": "so that 引出限定范围的目的；被动语态强调结论。",
+      "tags": [
+        "售前方案",
+        "概念验证",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "presales_022",
+      "zh": "双方必须使用同一份测试数据，否则结果差异可能源于输入而非产品。",
+      "en": "Both parties must use the same test data; otherwise, differences in the results may arise from the inputs rather than the product.",
+      "answers": [
+        "Both parties must use the same test data; otherwise, differences in the results may arise from the inputs rather than the product."
+      ],
+      "notes": "arise from 表示源于；rather than 区分原因。",
+      "tags": [
+        "售前方案",
+        "测试公平",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "presales_023",
+      "zh": "若某项标准需要主观判断，应事先指定由谁作出最终决定。",
+      "en": "Where a criterion requires subjective judgement, the person making the final decision should be nominated in advance.",
+      "answers": [
+        "Where a criterion requires subjective judgement, the person making the final decision should be nominated in advance."
+      ],
+      "notes": "where 引出特定条件；making 作后置定语。",
+      "tags": [
+        "售前方案",
+        "验收治理",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "presales_024",
+      "zh": "一次失败的测试未必意味着产品不适用，它也可能暴露了未满足的依赖。",
+      "en": "A failed test does not necessarily mean that the product is unsuitable; it may instead reveal an unmet dependency.",
+      "answers": [
+        "A failed test does not necessarily mean that the product is unsuitable; it may instead reveal an unmet dependency."
+      ],
+      "notes": "not necessarily 限制推论；may instead 提出替代解释。",
+      "tags": [
+        "售前方案",
+        "结果分析",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "presales_025",
+      "zh": "试点结束时，我们会把已验证能力、未解决问题和生产化前提分别记录。",
+      "en": "At the end of the pilot, we will document validated capabilities, unresolved issues, and prerequisites for production separately.",
+      "answers": [
+        "At the end of the pilot, we will document validated capabilities, unresolved issues, and prerequisites for production separately."
+      ],
+      "notes": "三个并列对象覆盖正面、问题和后续条件；separately 避免混淆。",
+      "tags": [
+        "售前方案",
+        "试点总结",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "presales_026",
+      "zh": "验收标准要求高风险告警在五分钟内到达平台，而不是要求调查在五分钟内完成。",
+      "en": "The acceptance criterion requires high-risk alerts to reach the platform within five minutes; it does not require the investigation to be completed within that period.",
+      "answers": [
+        "The acceptance criterion requires high-risk alerts to reach the platform within five minutes; it does not require the investigation to be completed within that period."
+      ],
+      "notes": "require A to do 与 require A to be done；分号澄清指标含义。",
+      "tags": [
+        "售前方案",
+        "验收标准",
+        "专业英语"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "presales_027",
+      "zh": "方案文档应明确哪些组件由供应商管理，哪些仍由客户维护。",
+      "en": "The solution document should make clear which components are managed by the supplier and which remain under client administration.",
+      "answers": [
+        "The solution document should make clear which components are managed by the supplier and which remain under client administration."
+      ],
+      "notes": "make clear 后接并列 which 从句；remain under 表示持续由谁管理。",
+      "tags": [
+        "售前方案",
+        "责任模型",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "presales_028",
+      "zh": "迁移计划先并行运行新旧检测流程，以便在停用旧系统前比较覆盖率。",
+      "en": "The migration plan runs the new and old detection processes in parallel so that coverage can be compared before the legacy system is retired.",
+      "answers": [
+        "The migration plan runs the new and old detection processes in parallel so that coverage can be compared before the legacy system is retired."
+      ],
+      "notes": "in parallel 表示并行；before 引导停用前的验证顺序。",
+      "tags": [
+        "售前方案",
+        "迁移方案",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "presales_029",
+      "zh": "任何超出标准部署的定制都应说明成本、负责人以及对升级的长期影响。",
+      "en": "Any customisation beyond the standard deployment should state its cost, owner, and long-term effect on upgrades.",
+      "answers": [
+        "Any customisation beyond the standard deployment should state its cost, owner, and long-term effect on upgrades."
+      ],
+      "notes": "beyond 表示超出范围；三个并列项目使定制影响透明。",
+      "tags": [
+        "售前方案",
+        "定制边界",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "presales_030",
+      "zh": "只有在关键假设获得客户确认后，最终设计和实施报价才会冻结。",
+      "en": "The final design and implementation estimate will be baselined only after the client has confirmed the critical assumptions.",
+      "answers": [
+        "The final design and implementation estimate will be baselined only after the client has confirmed the critical assumptions."
+      ],
+      "notes": "only after 强调冻结条件；baseline 作动词表示建立正式基线。",
+      "tags": [
+        "售前方案",
+        "方案基线",
+        "专业英语"
+      ],
+      "difficulty": 5
+    }
+  ]
+}

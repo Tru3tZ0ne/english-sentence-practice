@@ -1,0 +1,465 @@
+{
+  "schema_version": 1,
+  "id": "cyber_product_sales",
+  "title": "网络安全 · 产品销售沟通 30 句",
+  "description": "面向客户痛点、业务价值、差异化、预算、采购与价值证明的网络安全销售英语。",
+  "language": "en-GB",
+  "tags": [
+    "网络安全",
+    "产品销售",
+    "客户沟通",
+    "IELTS 6+"
+  ],
+  "items": [
+    {
+      "id": "sales_001",
+      "zh": "在介绍产品之前，我想了解哪类安全事件最可能打断贵公司的核心业务。",
+      "en": "Before introducing the product, I would like to understand which type of security incident is most likely to disrupt your core operations.",
+      "answers": [
+        "Before introducing the product, I would like to understand which type of security incident is most likely to disrupt your core operations."
+      ],
+      "notes": "would like to 使询问更得体；which 引导需求发现问题。",
+      "tags": [
+        "产品销售",
+        "需求发现",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "sales_002",
+      "zh": "客户需要解决的是调查积压，还是缺乏对云环境的基本可见性？",
+      "en": "Is the client trying to address an investigation backlog or a fundamental lack of visibility across its cloud environment?",
+      "answers": [
+        "Is the client trying to address an investigation backlog or a fundamental lack of visibility across its cloud environment?"
+      ],
+      "notes": "is ... trying to 探索业务目标；or 构成选择疑问。",
+      "tags": [
+        "产品销售",
+        "痛点澄清",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "sales_003",
+      "zh": "如果现有团队已经拥有丰富经验，自动化重复分析可能比增加另一个控制台更有价值。",
+      "en": "If the existing team is already highly skilled, automating repetitive analysis may create more value than adding another console.",
+      "answers": [
+        "If the existing team is already highly skilled, automating repetitive analysis may create more value than adding another console."
+      ],
+      "notes": "if 引出客户背景；more ... than 比较两种价值路径。",
+      "tags": [
+        "产品销售",
+        "价值定位",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "sales_004",
+      "zh": "我们不应假设首席信息安全官和采购负责人使用相同标准衡量成功。",
+      "en": "We should not assume that the chief information security officer and the procurement lead measure success by the same criteria.",
+      "answers": [
+        "We should not assume that the chief information security officer and the procurement lead measure success by the same criteria."
+      ],
+      "notes": "assume that 引导被质疑的假设；measure by criteria 是商务搭配。",
+      "tags": [
+        "产品销售",
+        "利益相关方",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "sales_005",
+      "zh": "当前项目的主要推动因素是审计期限、近期事件，还是降低运营成本？",
+      "en": "Is this project primarily driven by an audit deadline, a recent incident, or the need to reduce operating costs?",
+      "answers": [
+        "Is this project primarily driven by an audit deadline, a recent incident, or the need to reduce operating costs?"
+      ],
+      "notes": "be driven by 表示项目推动因素；三项选择用于识别采购动机。",
+      "tags": [
+        "产品销售",
+        "采购动机",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "sales_006",
+      "zh": "这款产品把终端、身份和云端遥测关联起来，让分析师不必在多个工具之间手工拼接事件。",
+      "en": "The product correlates endpoint, identity, and cloud telemetry, enabling analysts to investigate an incident without manually piecing events together across several tools.",
+      "answers": [
+        "The product correlates endpoint, identity, and cloud telemetry, enabling analysts to investigate an incident without manually piecing events together across several tools."
+      ],
+      "notes": "enabling 作结果补充；piece together 表示拼接零散信息。",
+      "tags": [
+        "产品销售",
+        "产品能力",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "sales_007",
+      "zh": "内置剧本可以缩短常见告警的处理时间，但高影响响应仍应由人员审批。",
+      "en": "Built-in playbooks can shorten the handling time for common alerts, while high-impact response actions remain subject to human approval.",
+      "answers": [
+        "Built-in playbooks can shorten the handling time for common alerts, while high-impact response actions remain subject to human approval."
+      ],
+      "notes": "while 对比自动化与人工控制；be subject to 表示须经。",
+      "tags": [
+        "产品销售",
+        "自动化价值",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "sales_008",
+      "zh": "平台的开放接口支持现有工单流程，因此客户无需替换已经成熟的服务管理系统。",
+      "en": "The platform's open interface supports the existing ticketing workflow, so the client need not replace a service-management system that already works well.",
+      "answers": [
+        "The platform's open interface supports the existing ticketing workflow, so the client need not replace a service-management system that already works well."
+      ],
+      "notes": "need not 表示无需；that 引导定语从句说明保留理由。",
+      "tags": [
+        "产品销售",
+        "集成价值",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "sales_009",
+      "zh": "与只检查单一资产的工具相比，该方案能展示跨越多个控制域的完整攻击路径。",
+      "en": "Unlike tools that inspect a single asset in isolation, the solution can show a complete attack path across multiple control domains.",
+      "answers": [
+        "Unlike tools that inspect a single asset in isolation, the solution can show a complete attack path across multiple control domains."
+      ],
+      "notes": "unlike 引出差异；in isolation 表示孤立检查。",
+      "tags": [
+        "产品销售",
+        "产品差异化",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "sales_010",
+      "zh": "我们的授权模式按受保护资产计算，而不是按每天产生的告警数量计算。",
+      "en": "Our licensing model is based on protected assets rather than the number of alerts generated each day.",
+      "answers": [
+        "Our licensing model is based on protected assets rather than the number of alerts generated each day."
+      ],
+      "notes": "be based on 与 rather than 清楚解释计费口径。",
+      "tags": [
+        "产品销售",
+        "授权模式",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "sales_011",
+      "zh": "产品可以减少调查所需的手工步骤，但我们不能保证它会消除所有安全事件。",
+      "en": "The product can reduce the manual steps required for an investigation, but we cannot guarantee that it will prevent every security incident.",
+      "answers": [
+        "The product can reduce the manual steps required for an investigation, but we cannot guarantee that it will prevent every security incident."
+      ],
+      "notes": "cannot guarantee that 避免夸大承诺；required 是过去分词定语。",
+      "tags": [
+        "产品销售",
+        "审慎承诺",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "sales_012",
+      "zh": "检测效果取决于可用数据的质量，因此缺失日志无法通过算法完全弥补。",
+      "en": "Detection performance depends on the quality of the available data; missing logs cannot be fully compensated for by an algorithm.",
+      "answers": [
+        "Detection performance depends on the quality of the available data; missing logs cannot be fully compensated for by an algorithm."
+      ],
+      "notes": "depend on 说明依赖；分号连接产品限制。",
+      "tags": [
+        "产品销售",
+        "能力边界",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "sales_013",
+      "zh": "演示展示的是经过配置的场景，客户在自身环境中的结果可能因集成范围而异。",
+      "en": "The demonstration shows a configured scenario, and results in the client's environment may vary with the scope of integration.",
+      "answers": [
+        "The demonstration shows a configured scenario, and results in the client's environment may vary with the scope of integration."
+      ],
+      "notes": "may vary with 表示结果随条件变化；避免将演示等同实际效果。",
+      "tags": [
+        "产品销售",
+        "演示边界",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "sales_014",
+      "zh": "我们宁愿验证具体场景，也不愿用无法衡量的百分比来承诺风险下降。",
+      "en": "We would rather validate a defined scenario than promise an unmeasurable percentage reduction in risk.",
+      "answers": [
+        "We would rather validate a defined scenario than promise an unmeasurable percentage reduction in risk."
+      ],
+      "notes": "would rather A than B 表达专业取舍；defined scenario 指明确场景。",
+      "tags": [
+        "产品销售",
+        "可信销售",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "sales_015",
+      "zh": "第三方认证证明产品经过特定控制审查，却不能替代客户自己的风险评估。",
+      "en": "Third-party certification demonstrates that the product has undergone a defined control review, but it does not replace the client's own risk assessment.",
+      "answers": [
+        "Third-party certification demonstrates that the product has undergone a defined control review, but it does not replace the client's own risk assessment."
+      ],
+      "notes": "demonstrate that 陈述证据；has undergone 表示已经历审查。",
+      "tags": [
+        "产品销售",
+        "信任证据",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "sales_016",
+      "zh": "商业案例应把节省的分析时间换算为可释放的能力，而不是把每一分钟都视为直接成本节约。",
+      "en": "The business case should translate analyst time saved into capacity released, rather than treating every minute as a direct cost saving.",
+      "answers": [
+        "The business case should translate analyst time saved into capacity released, rather than treating every minute as a direct cost saving."
+      ],
+      "notes": "translate A into B 表示价值换算；rather than 防止错误量化。",
+      "tags": [
+        "产品销售",
+        "商业案例",
+        "专业英语"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "sales_017",
+      "zh": "若该平台能让团队停用两个重叠工具，许可成本之外还会减少管理负担。",
+      "en": "If the platform allows the team to retire two overlapping tools, the benefit will extend beyond licence costs to reduced administrative effort.",
+      "answers": [
+        "If the platform allows the team to retire two overlapping tools, the benefit will extend beyond licence costs to reduced administrative effort."
+      ],
+      "notes": "extend beyond A to B 表示价值范围扩展；if 引出收益前提。",
+      "tags": [
+        "产品销售",
+        "整合收益",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "sales_018",
+      "zh": "对这家客户而言，缩短遏制时间比增加检测数量更接近业务成果。",
+      "en": "For this client, reducing containment time is more closely tied to a business outcome than increasing the number of detections.",
+      "answers": [
+        "For this client, reducing containment time is more closely tied to a business outcome than increasing the number of detections."
+      ],
+      "notes": "be tied to 表示与成果相关；more ... than 建立价值优先级。",
+      "tags": [
+        "产品销售",
+        "业务成果",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "sales_019",
+      "zh": "投资回报模型采用了客户提供的人力成本，所有未经验证的假设都单独列出。",
+      "en": "The return-on-investment model uses labour costs supplied by the client and lists every unverified assumption separately.",
+      "answers": [
+        "The return-on-investment model uses labour costs supplied by the client and lists every unverified assumption separately."
+      ],
+      "notes": "supplied 作后置定语；unverified assumption 提醒模型限制。",
+      "tags": [
+        "产品销售",
+        "价值量化",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "sales_020",
+      "zh": "试点的成功标准应在开始前约定，否则双方可能选择不同指标证明自己的观点。",
+      "en": "The success criteria for the pilot should be agreed before it begins; otherwise, each party may select different measures to support its position.",
+      "answers": [
+        "The success criteria for the pilot should be agreed before it begins; otherwise, each party may select different measures to support its position."
+      ],
+      "notes": "should be agreed 强调事前约定；otherwise 引出缺失标准的后果。",
+      "tags": [
+        "产品销售",
+        "价值证明",
+        "专业英语"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "sales_021",
+      "zh": "技术负责人关心集成深度，而财务审批人更可能询问总体拥有成本。",
+      "en": "The technical sponsor is concerned with integration depth, whereas the financial approver is more likely to ask about total cost of ownership.",
+      "answers": [
+        "The technical sponsor is concerned with integration depth, whereas the financial approver is more likely to ask about total cost of ownership."
+      ],
+      "notes": "whereas 对比不同角色的关注点；be concerned with 是正式搭配。",
+      "tags": [
+        "产品销售",
+        "多方沟通",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "sales_022",
+      "zh": "如果预算必须分阶段投入，我们可以先保护高风险业务单元，再按结果扩展。",
+      "en": "If the budget must be phased, we can protect the highest-risk business unit first and expand on the basis of results.",
+      "answers": [
+        "If the budget must be phased, we can protect the highest-risk business unit first and expand on the basis of results."
+      ],
+      "notes": "phase the budget 表示分阶段投入；on the basis of results 强调以结果扩展。",
+      "tags": [
+        "产品销售",
+        "预算协商",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "sales_023",
+      "zh": "折扣能解决采购限制，却不能弥补尚未建立共识的技术需求。",
+      "en": "A discount may address a procurement constraint, but it cannot compensate for a technical requirement that has not been agreed.",
+      "answers": [
+        "A discount may address a procurement constraint, but it cannot compensate for a technical requirement that has not been agreed."
+      ],
+      "notes": "may ... but cannot 区分商务障碍与技术需求；that 引导定语从句。",
+      "tags": [
+        "产品销售",
+        "交易判断",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "sales_024",
+      "zh": "我们需要知道最终决定由谁作出，以及安全团队的推荐在其中占多大权重。",
+      "en": "We need to know who makes the final decision and how much weight the security team's recommendation carries.",
+      "answers": [
+        "We need to know who makes the final decision and how much weight the security team's recommendation carries."
+      ],
+      "notes": "who 与 how much 引导两个宾语从句；carry weight 表示具有影响力。",
+      "tags": [
+        "产品销售",
+        "决策流程",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "sales_025",
+      "zh": "采购要求三年定价稳定，因此报价需要明确哪些用量增长会触发调整。",
+      "en": "Procurement requires price stability for three years, so the proposal must state which increases in usage would trigger an adjustment.",
+      "answers": [
+        "Procurement requires price stability for three years, so the proposal must state which increases in usage would trigger an adjustment."
+      ],
+      "notes": "state which 明确报价条件；would trigger 表示未来条件后果。",
+      "tags": [
+        "产品销售",
+        "报价条款",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "sales_026",
+      "zh": "参考客户与当前买方在行业和运营模式上足够相似，案例才有说服力。",
+      "en": "A customer reference is persuasive only if it is sufficiently similar to the current buyer in industry and operating model.",
+      "answers": [
+        "A customer reference is persuasive only if it is sufficiently similar to the current buyer in industry and operating model."
+      ],
+      "notes": "only if 表示必要条件；similar to 是固定搭配。",
+      "tags": [
+        "产品销售",
+        "客户案例",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "sales_027",
+      "zh": "竞争产品更适合完全托管的模式，而我们的方案给内部团队保留了更大的调查控制权。",
+      "en": "The competing product is better suited to a fully managed model, whereas our approach gives the internal team greater control over investigations.",
+      "answers": [
+        "The competing product is better suited to a fully managed model, whereas our approach gives the internal team greater control over investigations."
+      ],
+      "notes": "be suited to 表示适合；whereas 作克制而具体的差异说明。",
+      "tags": [
+        "产品销售",
+        "竞争定位",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "sales_028",
+      "zh": "我们应主动说明实施工作量，因为隐藏这部分成本会削弱客户对整份提案的信任。",
+      "en": "We should state the implementation effort openly, since concealing that cost would undermine the client's confidence in the entire proposal.",
+      "answers": [
+        "We should state the implementation effort openly, since concealing that cost would undermine the client's confidence in the entire proposal."
+      ],
+      "notes": "since 解释原因；undermine confidence in 表示削弱信任。",
+      "tags": [
+        "产品销售",
+        "透明销售",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "sales_029",
+      "zh": "如果首要用例无法在概念验证中成立，客户应能在扩大采购前重新考虑范围。",
+      "en": "If the primary use case cannot be demonstrated during the proof of concept, the client should be able to reconsider the scope before expanding the purchase.",
+      "answers": [
+        "If the primary use case cannot be demonstrated during the proof of concept, the client should be able to reconsider the scope before expanding the purchase."
+      ],
+      "notes": "if 引出退出判断；before doing 表达采购顺序。",
+      "tags": [
+        "产品销售",
+        "采购保护",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "sales_030",
+      "zh": "下一次会议的目标是确认业务成果、技术依赖和采购时间表，而不是重复产品演示。",
+      "en": "The purpose of the next meeting is to confirm the business outcome, technical dependencies, and procurement timeline rather than repeat the product demonstration.",
+      "answers": [
+        "The purpose of the next meeting is to confirm the business outcome, technical dependencies, and procurement timeline rather than repeat the product demonstration."
+      ],
+      "notes": "the purpose is to 表示会议目的；rather than 避免无效重复。",
+      "tags": [
+        "产品销售",
+        "销售推进",
+        "专业英语"
+      ],
+      "difficulty": 4
+    }
+  ]
+}

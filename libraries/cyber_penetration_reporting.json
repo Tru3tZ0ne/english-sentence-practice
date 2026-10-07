@@ -1,0 +1,465 @@
+{
+  "schema_version": 1,
+  "id": "cyber_penetration_reporting",
+  "title": "网络安全 · 渗透测试汇报 30 句",
+  "description": "面向渗透测试启动会、发现确认、风险沟通、正式报告与复测的高级英语表达。",
+  "language": "en-GB",
+  "tags": [
+    "网络安全",
+    "渗透测试",
+    "专业汇报",
+    "IELTS 6+"
+  ],
+  "items": [
+    {
+      "id": "pentest_001",
+      "zh": "在开始测试之前，请确认面向互联网的客户门户是否包含在授权范围内。",
+      "en": "Before testing begins, please confirm whether the internet-facing customer portal falls within the authorised scope.",
+      "answers": [
+        "Before testing begins, please confirm whether the internet-facing customer portal falls within the authorised scope."
+      ],
+      "notes": "fall within the authorised scope 表示属于正式授权范围；whether 引导宾语从句。",
+      "tags": [
+        "渗透测试",
+        "范围确认",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "pentest_002",
+      "zh": "书面授权不包括拒绝服务测试，因此我们不会执行可能影响可用性的操作。",
+      "en": "The written authorisation excludes denial-of-service testing, so we will not perform actions that could affect availability.",
+      "answers": [
+        "The written authorisation excludes denial-of-service testing, so we will not perform actions that could affect availability."
+      ],
+      "notes": "exclude 表示明确排除；that could affect availability 限定高风险操作。",
+      "tags": [
+        "渗透测试",
+        "测试边界",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "pentest_003",
+      "zh": "由于测试账户只有普通用户权限，我们无法评估管理员功能中的访问控制。",
+      "en": "Because the test account had only standard-user privileges, we were unable to assess access controls within the administrative functions.",
+      "answers": [
+        "Because the test account had only standard-user privileges, we were unable to assess access controls within the administrative functions."
+      ],
+      "notes": "because 说明限制原因；be unable to assess 比 cannot 更适合正式报告。",
+      "tags": [
+        "渗透测试",
+        "限制说明",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "pentest_004",
+      "zh": "测试窗口结束后发现的资产被记录为范围外观察项，而不是正式漏洞。",
+      "en": "Assets discovered after the testing window closed were recorded as out-of-scope observations rather than formal findings.",
+      "answers": [
+        "Assets discovered after the testing window closed were recorded as out-of-scope observations rather than formal findings."
+      ],
+      "notes": "rather than 区分观察项与正式发现；过去分词 discovered 作后置定语。",
+      "tags": [
+        "渗透测试",
+        "范围边界",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "pentest_005",
+      "zh": "除非客户另行批准，否则我们只会使用不会改变生产数据的验证方法。",
+      "en": "Unless the client grants separate approval, we will use only validation methods that do not alter production data.",
+      "answers": [
+        "Unless the client grants separate approval, we will use only validation methods that do not alter production data."
+      ],
+      "notes": "unless 引导否定条件；that do not alter 限定验证方法。",
+      "tags": [
+        "渗透测试",
+        "安全验证",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "pentest_006",
+      "zh": "最初的入口是一个配置错误的云存储桶，它暴露了用于内部接口的访问令牌。",
+      "en": "The initial entry point was a misconfigured cloud storage bucket that exposed an access token for an internal interface.",
+      "answers": [
+        "The initial entry point was a misconfigured cloud storage bucket that exposed an access token for an internal interface."
+      ],
+      "notes": "entry point 和 misconfigured 是攻击路径汇报中的常用表达；that 引导定语从句。",
+      "tags": [
+        "渗透测试",
+        "攻击路径",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "pentest_007",
+      "zh": "单独看，每个缺陷的影响有限；串联利用后，攻击者却能够读取其他客户的记录。",
+      "en": "Individually, each weakness had limited impact; when chained together, however, they enabled an attacker to read other customers' records.",
+      "answers": [
+        "Individually, each weakness had limited impact; when chained together, however, they enabled an attacker to read other customers' records."
+      ],
+      "notes": "chain weaknesses together 表示串联缺陷；分号与 however 呈现风险升级。",
+      "tags": [
+        "渗透测试",
+        "组合风险",
+        "专业英语"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "pentest_008",
+      "zh": "我们没有发现数据被导出的证据，但现有日志不足以排除这种可能性。",
+      "en": "We found no evidence that data had been exfiltrated, although the available logs were insufficient to rule out that possibility.",
+      "answers": [
+        "We found no evidence that data had been exfiltrated, although the available logs were insufficient to rule out that possibility."
+      ],
+      "notes": "no evidence that 不等于证明未发生；rule out 表示排除可能性。",
+      "tags": [
+        "渗透测试",
+        "审慎结论",
+        "专业英语"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "pentest_009",
+      "zh": "该问题仅在同时满足三个前提条件时可复现，这降低了被利用的可能性，却没有消除影响。",
+      "en": "The issue was reproducible only when three preconditions were met, which reduced the likelihood of exploitation without eliminating the impact.",
+      "answers": [
+        "The issue was reproducible only when three preconditions were met, which reduced the likelihood of exploitation without eliminating the impact."
+      ],
+      "notes": "only when 限定复现条件；without eliminating 避免把可能性与影响混为一谈。",
+      "tags": [
+        "渗透测试",
+        "复现条件",
+        "专业英语"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "pentest_010",
+      "zh": "为了保护敏感信息，报告中的证据截图已经遮盖会话令牌和个人数据。",
+      "en": "To protect sensitive information, session tokens and personal data have been redacted from the evidence screenshots in the report.",
+      "answers": [
+        "To protect sensitive information, session tokens and personal data have been redacted from the evidence screenshots in the report."
+      ],
+      "notes": "redact ... from 表示从材料中隐去敏感内容；现在完成时强调处理结果。",
+      "tags": [
+        "渗透测试",
+        "证据处理",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "pentest_011",
+      "zh": "严重性评级同时考虑技术影响、利用难度以及该资产在业务中的作用。",
+      "en": "The severity rating takes account of the technical impact, the difficulty of exploitation, and the asset's role in the business.",
+      "answers": [
+        "The severity rating takes account of the technical impact, the difficulty of exploitation, and the asset's role in the business."
+      ],
+      "notes": "take account of 表示综合考虑；三个并列名词短语解释评级依据。",
+      "tags": [
+        "渗透测试",
+        "风险评级",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "pentest_012",
+      "zh": "虽然扫描器把它标为严重风险，但人工验证表明受影响的组件无法从不受信任的网络访问。",
+      "en": "Although the scanner labelled it critical, manual validation showed that the affected component was not reachable from an untrusted network.",
+      "answers": [
+        "Although the scanner labelled it critical, manual validation showed that the affected component was not reachable from an untrusted network."
+      ],
+      "notes": "although 引出工具结果与人工结论的差异；reachable from 描述暴露面。",
+      "tags": [
+        "渗透测试",
+        "人工验证",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "pentest_013",
+      "zh": "我们将此项评为中等风险，因为利用它需要一个已认证账户和用户主动配合。",
+      "en": "We rated this finding as medium risk because exploitation requires both an authenticated account and active user interaction.",
+      "answers": [
+        "We rated this finding as medium risk because exploitation requires both an authenticated account and active user interaction."
+      ],
+      "notes": "rate ... as 表示评定等级；both ... and 并列两个利用条件。",
+      "tags": [
+        "渗透测试",
+        "风险解释",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "pentest_014",
+      "zh": "业务负责人认为该系统不处理敏感数据，这一背景可能支持下调评级。",
+      "en": "The business owner advised that the system does not process sensitive data, a context that may justify a lower rating.",
+      "answers": [
+        "The business owner advised that the system does not process sensitive data, a context that may justify a lower rating."
+      ],
+      "notes": "advise that 正式转述信息；may justify 保留评估余地。",
+      "tags": [
+        "渗透测试",
+        "业务背景",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "pentest_015",
+      "zh": "如果公开利用代码变得容易获得，我们建议重新评估当前的风险等级。",
+      "en": "Should reliable public exploit code become readily available, we recommend reassessing the current risk rating.",
+      "answers": [
+        "Should reliable public exploit code become readily available, we recommend reassessing the current risk rating."
+      ],
+      "notes": "Should ... become 是省略 if 的正式条件倒装；recommend doing 表示建议。",
+      "tags": [
+        "渗透测试",
+        "动态风险",
+        "专业英语"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "pentest_016",
+      "zh": "复现步骤从最低权限账户开始，以免无意中夸大攻击者的初始能力。",
+      "en": "The reproduction steps begin with a least-privileged account so that the attacker's initial capabilities are not inadvertently overstated.",
+      "answers": [
+        "The reproduction steps begin with a least-privileged account so that the attacker's initial capabilities are not inadvertently overstated."
+      ],
+      "notes": "so that 引出写法目的；overstate 表示夸大。",
+      "tags": [
+        "渗透测试",
+        "报告写作",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "pentest_017",
+      "zh": "概念验证只读取了一条测试记录，并未尝试批量提取数据。",
+      "en": "The proof of concept retrieved a single test record and did not attempt any bulk extraction of data.",
+      "answers": [
+        "The proof of concept retrieved a single test record and did not attempt any bulk extraction of data."
+      ],
+      "notes": "proof of concept 是概念验证；did not attempt 明确验证边界。",
+      "tags": [
+        "渗透测试",
+        "概念验证",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "pentest_018",
+      "zh": "请将请求标识符与服务器日志一并保存，因为两者共同构成可审计的证据链。",
+      "en": "Please retain the request identifier alongside the server logs, as together they provide an auditable chain of evidence.",
+      "answers": [
+        "Please retain the request identifier alongside the server logs, as together they provide an auditable chain of evidence."
+      ],
+      "notes": "alongside 表示与……一并；as 引出保存证据的原因。",
+      "tags": [
+        "渗透测试",
+        "证据链",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "pentest_019",
+      "zh": "报告区分已验证的发现与未经证实的迹象，避免读者把两者视为同等确定。",
+      "en": "The report distinguishes verified findings from unconfirmed indicators so that readers do not treat them as equally certain.",
+      "answers": [
+        "The report distinguishes verified findings from unconfirmed indicators so that readers do not treat them as equally certain."
+      ],
+      "notes": "distinguish A from B 是正式区分表达；so that 说明沟通目的。",
+      "tags": [
+        "渗透测试",
+        "结论精度",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "pentest_020",
+      "zh": "凡是无法稳定复现的问题，都在附录中说明了环境依赖和剩余不确定性。",
+      "en": "For issues that could not be reproduced consistently, the appendix documents the environmental dependencies and the remaining uncertainty.",
+      "answers": [
+        "For issues that could not be reproduced consistently, the appendix documents the environmental dependencies and the remaining uncertainty."
+      ],
+      "notes": "that 引导定语从句；remaining uncertainty 提醒保留不确定性。",
+      "tags": [
+        "渗透测试",
+        "报告限制",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "pentest_021",
+      "zh": "首要修复措施是撤销已暴露的凭据，而不是等待应用程序完成全面更新。",
+      "en": "The immediate priority is to revoke the exposed credentials rather than wait for the full application update.",
+      "answers": [
+        "The immediate priority is to revoke the exposed credentials rather than wait for the full application update."
+      ],
+      "notes": "the immediate priority is to 表达紧急顺序；rather than 对比处置选择。",
+      "tags": [
+        "渗透测试",
+        "修复优先级",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "pentest_022",
+      "zh": "输入校验能够缓解当前利用路径，但服务器端授权检查才是根本修复。",
+      "en": "Input validation may disrupt the current exploitation path, but server-side authorisation checks are required for a complete fix.",
+      "answers": [
+        "Input validation may disrupt the current exploitation path, but server-side authorisation checks are required for a complete fix."
+      ],
+      "notes": "may disrupt 与 are required 区分缓解措施和根本修复。",
+      "tags": [
+        "渗透测试",
+        "修复建议",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "pentest_023",
+      "zh": "若短期内无法升级旧组件，可以通过网络隔离和严格白名单降低残余风险。",
+      "en": "If the legacy component cannot be upgraded promptly, network segmentation and strict allow-listing can reduce the residual risk.",
+      "answers": [
+        "If the legacy component cannot be upgraded promptly, network segmentation and strict allow-listing can reduce the residual risk."
+      ],
+      "notes": "if 引出资源限制；residual risk 指采取控制后仍存在的风险。",
+      "tags": [
+        "渗透测试",
+        "补偿控制",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "pentest_024",
+      "zh": "修复负责人应在工单中记录所选方案、目标日期以及任何已接受的例外。",
+      "en": "The remediation owner should record the chosen approach, target date, and any accepted exceptions in the tracking ticket.",
+      "answers": [
+        "The remediation owner should record the chosen approach, target date, and any accepted exceptions in the tracking ticket."
+      ],
+      "notes": "remediation owner 指整改责任人；三个并列宾语使行动项可追踪。",
+      "tags": [
+        "渗透测试",
+        "整改跟踪",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "pentest_025",
+      "zh": "考虑到该接口可以直接从互联网访问，我们不建议把修复推迟到下一年度版本。",
+      "en": "Given that the interface is directly accessible from the internet, we do not recommend deferring remediation until next year's release.",
+      "answers": [
+        "Given that the interface is directly accessible from the internet, we do not recommend deferring remediation until next year's release."
+      ],
+      "notes": "given that 引出风险背景；defer ... until 表示推迟至某时。",
+      "tags": [
+        "渗透测试",
+        "升级沟通",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "pentest_026",
+      "zh": "复测确认原有攻击路径已被阻断，但相邻接口仍采用同一种易错的授权模式。",
+      "en": "Retesting confirmed that the original attack path had been blocked, although adjacent interfaces still used the same error-prone authorisation pattern.",
+      "answers": [
+        "Retesting confirmed that the original attack path had been blocked, although adjacent interfaces still used the same error-prone authorisation pattern."
+      ],
+      "notes": "过去完成时 had been blocked 表示复测前已完成修复；although 保留后续风险。",
+      "tags": [
+        "渗透测试",
+        "复测结论",
+        "专业英语"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "pentest_027",
+      "zh": "我们会把此项标记为已修复，前提是生产环境部署与所验证的版本完全一致。",
+      "en": "We will mark the finding as remediated provided that the production deployment matches the version we validated.",
+      "answers": [
+        "We will mark the finding as remediated provided that the production deployment matches the version we validated."
+      ],
+      "notes": "provided that 表示严格前提；match 在此表示版本一致。",
+      "tags": [
+        "渗透测试",
+        "关闭条件",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "pentest_028",
+      "zh": "更改错误页面虽然隐藏了技术细节，却没有修复底层的信息泄露。",
+      "en": "Changing the error page concealed the technical details but did not remedy the underlying information disclosure.",
+      "answers": [
+        "Changing the error page concealed the technical details but did not remedy the underlying information disclosure."
+      ],
+      "notes": "动名词短语作主语；conceal 与 remedy 区分表面处理和根因修复。",
+      "tags": [
+        "渗透测试",
+        "无效修复",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "pentest_029",
+      "zh": "由于复测期间身份服务不可用，我们只能验证补偿控制，不能验证永久修复。",
+      "en": "As the identity service was unavailable during retesting, we could validate the compensating control but not the permanent fix.",
+      "answers": [
+        "As the identity service was unavailable during retesting, we could validate the compensating control but not the permanent fix."
+      ],
+      "notes": "as 解释测试限制；but not 构成简洁对照。",
+      "tags": [
+        "渗透测试",
+        "复测限制",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "pentest_030",
+      "zh": "管理层摘要应说明最可信的攻击场景，而不应罗列所有技术细节。",
+      "en": "The executive summary should explain the most credible attack scenario without cataloguing every technical detail.",
+      "answers": [
+        "The executive summary should explain the most credible attack scenario without cataloguing every technical detail."
+      ],
+      "notes": "without doing 表示应避免的写法；credible attack scenario 面向管理层传达实际风险。",
+      "tags": [
+        "渗透测试",
+        "管理层汇报",
+        "专业英语"
+      ],
+      "difficulty": 4
+    }
+  ]
+}
