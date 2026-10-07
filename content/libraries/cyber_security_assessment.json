@@ -1,0 +1,465 @@
+{
+  "schema_version": 1,
+  "id": "cyber_security_assessment",
+  "title": "网络安全 · 安全评估汇报 30 句",
+  "description": "覆盖控制有效性、架构风险、成熟度、合规差距、例外管理与整改路线图的高级英语表达。",
+  "language": "en-GB",
+  "tags": [
+    "网络安全",
+    "安全评估",
+    "风险管理",
+    "IELTS 6+"
+  ],
+  "items": [
+    {
+      "id": "assessment_001",
+      "zh": "本次评估关注控制措施在实际运行中的有效性，而不只是制度是否存在。",
+      "en": "This assessment examines how effectively the controls operate in practice, rather than merely whether policies exist.",
+      "answers": [
+        "This assessment examines how effectively the controls operate in practice, rather than merely whether policies exist."
+      ],
+      "notes": "how effectively 与 whether 引导不同的名词性从句；rather than 突出评估重点。",
+      "tags": [
+        "安全评估",
+        "控制有效性",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "assessment_002",
+      "zh": "资产清单遗漏了两个由业务部门管理的云账户，因此无法保证覆盖范围完整。",
+      "en": "The asset inventory omitted two cloud accounts managed by business units, so complete coverage could not be assured.",
+      "answers": [
+        "The asset inventory omitted two cloud accounts managed by business units, so complete coverage could not be assured."
+      ],
+      "notes": "过去分词 managed 作后置定语；could not be assured 保持审慎。",
+      "tags": [
+        "安全评估",
+        "资产治理",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "assessment_003",
+      "zh": "尽管流程文件要求季度复核，证据显示过去九个月没有完成过权限审查。",
+      "en": "Although the procedure requires quarterly reviews, the evidence shows that no access review was completed during the previous nine months.",
+      "answers": [
+        "Although the procedure requires quarterly reviews, the evidence shows that no access review was completed during the previous nine months."
+      ],
+      "notes": "although 对比制度与执行；被动语态强调审查未完成。",
+      "tags": [
+        "安全评估",
+        "权限审查",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "assessment_004",
+      "zh": "我们抽查的是高权限账户，因此结论不应直接推广到所有普通用户。",
+      "en": "Our sample focused on privileged accounts, and the conclusions should therefore not be generalised to all standard users.",
+      "answers": [
+        "Our sample focused on privileged accounts, and the conclusions should therefore not be generalised to all standard users."
+      ],
+      "notes": "therefore not be generalised 限定抽样结论的适用范围。",
+      "tags": [
+        "安全评估",
+        "抽样限制",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "assessment_005",
+      "zh": "该控制在设计上合理，但依赖人工操作，且没有机制发现遗漏的步骤。",
+      "en": "The control is sound in design, but it relies on manual action and has no mechanism for detecting omitted steps.",
+      "answers": [
+        "The control is sound in design, but it relies on manual action and has no mechanism for detecting omitted steps."
+      ],
+      "notes": "sound in design 评价设计；rely on 与 mechanism for doing 是常用搭配。",
+      "tags": [
+        "安全评估",
+        "控制设计",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "assessment_006",
+      "zh": "风险等级反映当前环境，而不是完成计划中项目后的预期状态。",
+      "en": "The risk rating reflects the current environment, not the anticipated state after planned initiatives have been completed.",
+      "answers": [
+        "The risk rating reflects the current environment, not the anticipated state after planned initiatives have been completed."
+      ],
+      "notes": "anticipated state 指预期状态；完成时被动强调未来项目完成后的结果。",
+      "tags": [
+        "安全评估",
+        "评级口径",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "assessment_007",
+      "zh": "由于备份与生产网络使用相同的身份域，勒索软件可能同时影响两者。",
+      "en": "Because backups share the same identity domain as production, ransomware could compromise both environments at once.",
+      "answers": [
+        "Because backups share the same identity domain as production, ransomware could compromise both environments at once."
+      ],
+      "notes": "share ... with/as 描述共同依赖；could 表示合理风险而非确定结果。",
+      "tags": [
+        "安全评估",
+        "恢复韧性",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "assessment_008",
+      "zh": "多因素认证降低了凭据被盗的风险，却无法弥补过度宽泛的管理员权限。",
+      "en": "Multi-factor authentication reduces the risk of credential theft, but it does not compensate for excessively broad administrative privileges.",
+      "answers": [
+        "Multi-factor authentication reduces the risk of credential theft, but it does not compensate for excessively broad administrative privileges."
+      ],
+      "notes": "compensate for 表示弥补；but 区分两个控制问题。",
+      "tags": [
+        "安全评估",
+        "身份安全",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "assessment_009",
+      "zh": "如果关键日志只保留七天，调查人员可能无法重建较早发生的入侵。",
+      "en": "If critical logs are retained for only seven days, investigators may be unable to reconstruct an intrusion discovered later.",
+      "answers": [
+        "If critical logs are retained for only seven days, investigators may be unable to reconstruct an intrusion discovered later."
+      ],
+      "notes": "if 引出保留期限的后果；discovered later 是过去分词短语。",
+      "tags": [
+        "安全评估",
+        "日志留存",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "assessment_010",
+      "zh": "单个区域故障并不会触发既定恢复方案，因为部分依赖项仍集中部署。",
+      "en": "A single-region failure would not trigger the intended recovery arrangement because several dependencies remain centrally hosted.",
+      "answers": [
+        "A single-region failure would not trigger the intended recovery arrangement because several dependencies remain centrally hosted."
+      ],
+      "notes": "would not 描述架构测试情境；remain hosted 表示持续状态。",
+      "tags": [
+        "安全评估",
+        "业务连续性",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "assessment_011",
+      "zh": "该架构减少了外部暴露面，但也把内部身份系统变成了单点故障。",
+      "en": "The architecture reduces the external attack surface while making the internal identity service a single point of failure.",
+      "answers": [
+        "The architecture reduces the external attack surface while making the internal identity service a single point of failure."
+      ],
+      "notes": "while doing 表示同时产生的相反效果；make A B 是宾补结构。",
+      "tags": [
+        "安全评估",
+        "架构权衡",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "assessment_012",
+      "zh": "我们没有把所有未加密流量都评为高风险，而是根据数据敏感度和网络信任边界逐项判断。",
+      "en": "We did not rate all unencrypted traffic as high risk; each case was judged according to data sensitivity and network trust boundaries.",
+      "answers": [
+        "We did not rate all unencrypted traffic as high risk; each case was judged according to data sensitivity and network trust boundaries."
+      ],
+      "notes": "rate ... as 与 according to 展示基于语境的判断，分号连接解释。",
+      "tags": [
+        "安全评估",
+        "风险判断",
+        "专业英语"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "assessment_013",
+      "zh": "名义上由第二人审批的变更，实际上可以由提交者使用共享账户批准。",
+      "en": "Changes that nominally require a second approver can in practice be authorised by the submitter through a shared account.",
+      "answers": [
+        "Changes that nominally require a second approver can in practice be authorised by the submitter through a shared account."
+      ],
+      "notes": "that 引导定语从句；nominally 与 in practice 揭示控制绕过。",
+      "tags": [
+        "安全评估",
+        "职责分离",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "assessment_014",
+      "zh": "在没有独立监控的情况下，预防性控制失效可能长期不被发现。",
+      "en": "Without independent monitoring, a failure of the preventive control could remain undetected for an extended period.",
+      "answers": [
+        "Without independent monitoring, a failure of the preventive control could remain undetected for an extended period."
+      ],
+      "notes": "without 引出缺失条件；remain undetected 表示持续未被发现。",
+      "tags": [
+        "安全评估",
+        "监测能力",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "assessment_015",
+      "zh": "即使供应商通过了认证，组织仍需评估其服务与自身风险场景是否匹配。",
+      "en": "Even where a supplier holds a certification, the organisation must still assess whether its service addresses the organisation's own risk scenarios.",
+      "answers": [
+        "Even where a supplier holds a certification, the organisation must still assess whether its service addresses the organisation's own risk scenarios."
+      ],
+      "notes": "even where 表示让步；whether 引导需要评估的内容。",
+      "tags": [
+        "安全评估",
+        "第三方风险",
+        "专业英语"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "assessment_016",
+      "zh": "成熟度评分为二级，意味着流程可以重复执行，但结果仍高度依赖个人经验。",
+      "en": "A maturity score of two indicates that the process is repeatable, although outcomes still depend heavily on individual expertise.",
+      "answers": [
+        "A maturity score of two indicates that the process is repeatable, although outcomes still depend heavily on individual expertise."
+      ],
+      "notes": "indicate that 解释评分；although 补充成熟度限制。",
+      "tags": [
+        "安全评估",
+        "成熟度模型",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "assessment_017",
+      "zh": "与上次评估相比，漏洞修复速度有所提高，但逾期例外的数量也增加了。",
+      "en": "Compared with the previous assessment, vulnerability remediation has accelerated, while the number of overdue exceptions has also risen.",
+      "answers": [
+        "Compared with the previous assessment, vulnerability remediation has accelerated, while the number of overdue exceptions has also risen."
+      ],
+      "notes": "compared with 引出基准；while 并列一项改善和一项退步。",
+      "tags": [
+        "安全评估",
+        "趋势比较",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "assessment_018",
+      "zh": "没有统一指标，我们就无法判断告警减少源于环境更安全还是检测能力下降。",
+      "en": "Without consistent metrics, we cannot determine whether fewer alerts reflect a safer environment or weaker detection capability.",
+      "answers": [
+        "Without consistent metrics, we cannot determine whether fewer alerts reflect a safer environment or weaker detection capability."
+      ],
+      "notes": "whether ... or 呈现两种解释；reflect 表示指标反映某种状态。",
+      "tags": [
+        "安全评估",
+        "度量解释",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "assessment_019",
+      "zh": "调查结果表明团队能够处置已知事件，却尚未形成主动发现未知威胁的能力。",
+      "en": "The findings suggest that the team can handle known incidents but has yet to develop the capability to identify unknown threats proactively.",
+      "answers": [
+        "The findings suggest that the team can handle known incidents but has yet to develop the capability to identify unknown threats proactively."
+      ],
+      "notes": "has yet to 表示尚未；can ... but ... 区分两种成熟度能力。",
+      "tags": [
+        "安全评估",
+        "能力评估",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "assessment_020",
+      "zh": "若要把成熟度提升到下一级，管理层必须先明确流程负责人和可衡量的结果。",
+      "en": "To reach the next maturity level, management must first define process ownership and measurable outcomes.",
+      "answers": [
+        "To reach the next maturity level, management must first define process ownership and measurable outcomes."
+      ],
+      "notes": "to reach 表示目的；process ownership 和 measurable outcomes 是治理术语。",
+      "tags": [
+        "安全评估",
+        "改进目标",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "assessment_021",
+      "zh": "这项做法满足当地保留要求，但不满足合同约定的十二个月期限。",
+      "en": "The practice meets the local retention requirement but falls short of the twelve-month period specified in the contract.",
+      "answers": [
+        "The practice meets the local retention requirement but falls short of the twelve-month period specified in the contract."
+      ],
+      "notes": "fall short of 表示未达到要求；specified 作后置定语。",
+      "tags": [
+        "安全评估",
+        "合规差距",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "assessment_022",
+      "zh": "政策例外已经获得批准，不过批准文件没有记录风险接受人或到期日期。",
+      "en": "The policy exception was approved, yet the approval record identifies neither a risk owner nor an expiry date.",
+      "answers": [
+        "The policy exception was approved, yet the approval record identifies neither a risk owner nor an expiry date."
+      ],
+      "notes": "neither ... nor 并列两个缺失要素；yet 表示转折。",
+      "tags": [
+        "安全评估",
+        "例外管理",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "assessment_023",
+      "zh": "合规并不自动意味着风险可接受，尤其是在标准没有覆盖新型云服务的情况下。",
+      "en": "Compliance does not automatically make the risk acceptable, particularly where the standard does not address newer cloud services.",
+      "answers": [
+        "Compliance does not automatically make the risk acceptable, particularly where the standard does not address newer cloud services."
+      ],
+      "notes": "make A B 是宾补结构；particularly where 限定合规的局限。",
+      "tags": [
+        "安全评估",
+        "合规与风险",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "assessment_024",
+      "zh": "我们建议法务部门确认跨境日志传输是否需要额外的合同保障。",
+      "en": "We recommend that the legal team confirm whether cross-border log transfers require additional contractual safeguards.",
+      "answers": [
+        "We recommend that the legal team confirm whether cross-border log transfers require additional contractual safeguards."
+      ],
+      "notes": "recommend that 后接动词原形；whether 引导待确认事项。",
+      "tags": [
+        "安全评估",
+        "数据合规",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "assessment_025",
+      "zh": "在监管解释尚未明确之前，应把这一差距记录为待定事项而非确定违规。",
+      "en": "Until the regulatory interpretation is clarified, the gap should be recorded as an open issue rather than a confirmed breach.",
+      "answers": [
+        "Until the regulatory interpretation is clarified, the gap should be recorded as an open issue rather than a confirmed breach."
+      ],
+      "notes": "until 引出时间边界；rather than 避免过度下结论。",
+      "tags": [
+        "安全评估",
+        "审慎表述",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "assessment_026",
+      "zh": "整改路线图优先处理能够降低多个风险的基础性控制，而不是孤立地关闭单个发现。",
+      "en": "The remediation roadmap prioritises foundational controls that reduce several risks instead of closing individual findings in isolation.",
+      "answers": [
+        "The remediation roadmap prioritises foundational controls that reduce several risks instead of closing individual findings in isolation."
+      ],
+      "notes": "that 引导定语从句；in isolation 表示孤立处理。",
+      "tags": [
+        "安全评估",
+        "整改路线图",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "assessment_027",
+      "zh": "只有在责任人、预算和完成日期都明确后，这项行动才应被视为已有计划。",
+      "en": "An action should be considered planned only when an owner, budget, and completion date have all been defined.",
+      "answers": [
+        "An action should be considered planned only when an owner, budget, and completion date have all been defined."
+      ],
+      "notes": "only when 限定构成有效计划的条件；现在完成时强调已落实。",
+      "tags": [
+        "安全评估",
+        "行动计划",
+        "专业英语"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "assessment_028",
+      "zh": "董事会需要了解剩余风险可能如何影响业务目标，而不仅是未关闭问题的数量。",
+      "en": "The board needs to understand how residual risk could affect business objectives, not merely the number of open findings.",
+      "answers": [
+        "The board needs to understand how residual risk could affect business objectives, not merely the number of open findings."
+      ],
+      "notes": "how 引导宾语从句；not merely 区分业务影响和数量指标。",
+      "tags": [
+        "安全评估",
+        "董事会汇报",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "assessment_029",
+      "zh": "接受风险并不会免除持续监控义务，特别是相关暴露面正在变化时。",
+      "en": "Accepting the risk does not remove the obligation to monitor it, especially while the associated exposure is changing.",
+      "answers": [
+        "Accepting the risk does not remove the obligation to monitor it, especially while the associated exposure is changing."
+      ],
+      "notes": "动名词作主语；obligation to do 表示持续义务。",
+      "tags": [
+        "安全评估",
+        "风险接受",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "assessment_030",
+      "zh": "后续评估将验证控制是否持续运行，而不只是整改当天是否通过测试。",
+      "en": "The follow-up assessment will verify whether the control continues to operate, rather than whether it passed a test on the remediation date.",
+      "answers": [
+        "The follow-up assessment will verify whether the control continues to operate, rather than whether it passed a test on the remediation date."
+      ],
+      "notes": "两个 whether 从句形成评估口径对照；continue to operate 强调持续性。",
+      "tags": [
+        "安全评估",
+        "持续验证",
+        "专业英语"
+      ],
+      "difficulty": 5
+    }
+  ]
+}

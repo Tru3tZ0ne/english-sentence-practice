@@ -1,0 +1,465 @@
+{
+  "schema_version": 1,
+  "id": "cyber_postsales_delivery",
+  "title": "网络安全 · 售后实施运维 30 句",
+  "description": "覆盖上线、调优、变更、升级、故障处理、知识转移、复盘与续保扩容的网络安全售后英语。",
+  "language": "en-GB",
+  "tags": [
+    "网络安全",
+    "售后服务",
+    "实施运维",
+    "IELTS 6+"
+  ],
+  "items": [
+    {
+      "id": "postsales_001",
+      "zh": "项目启动会上需要确认技术负责人、变更审批人以及紧急升级联系人。",
+      "en": "The project kick-off must confirm the technical owner, the change approver, and the contact for emergency escalation.",
+      "answers": [
+        "The project kick-off must confirm the technical owner, the change approver, and the contact for emergency escalation."
+      ],
+      "notes": "三个并列角色用于建立交付治理；contact for 表示某事项联系人。",
+      "tags": [
+        "售后服务",
+        "项目启动",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "postsales_002",
+      "zh": "实施计划把客户依赖与供应商任务分开列出，以便双方看清关键路径。",
+      "en": "The implementation plan lists client dependencies separately from supplier tasks so that both parties can see the critical path.",
+      "answers": [
+        "The implementation plan lists client dependencies separately from supplier tasks so that both parties can see the critical path."
+      ],
+      "notes": "separately from 表示分开；so that 说明计划设计目的。",
+      "tags": [
+        "售后服务",
+        "计划管理",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "postsales_003",
+      "zh": "由于防火墙变更尚未获批，数据采集将比原计划晚三天开始。",
+      "en": "As the firewall change has not yet been approved, data collection will begin three days later than planned.",
+      "answers": [
+        "As the firewall change has not yet been approved, data collection will begin three days later than planned."
+      ],
+      "notes": "现在完成时表示审批尚未完成；later than planned 表示进度偏差。",
+      "tags": [
+        "售后服务",
+        "依赖跟踪",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "postsales_004",
+      "zh": "我们可以重新安排培训，但这不会消除生产上线对网络连通性的依赖。",
+      "en": "We can reschedule the training, but doing so will not remove the production launch's dependency on network connectivity.",
+      "answers": [
+        "We can reschedule the training, but doing so will not remove the production launch's dependency on network connectivity."
+      ],
+      "notes": "doing so 指代前述动作；but 区分可调整项与硬依赖。",
+      "tags": [
+        "售后服务",
+        "进度沟通",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "postsales_005",
+      "zh": "任何可能影响交付日期的风险，都应连同缓解措施和负责人一起记录。",
+      "en": "Any risk that could affect the delivery date should be recorded together with its mitigation and owner.",
+      "answers": [
+        "Any risk that could affect the delivery date should be recorded together with its mitigation and owner."
+      ],
+      "notes": "that 引导定语从句；together with 表示一并记录。",
+      "tags": [
+        "售后服务",
+        "项目风险",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "postsales_006",
+      "zh": "在切换到生产环境之前，客户必须确认备份、回退步骤和业务验证人均已就绪。",
+      "en": "Before the production cutover, the client must confirm that the backup, rollback procedure, and business validator are ready.",
+      "answers": [
+        "Before the production cutover, the client must confirm that the backup, rollback procedure, and business validator are ready."
+      ],
+      "notes": "confirm that 表示确认上线条件；三个并列要素构成检查点。",
+      "tags": [
+        "售后服务",
+        "上线准备",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "postsales_007",
+      "zh": "我们建议分批接入日志源，这样单个配置错误不会影响整个监控范围。",
+      "en": "We recommend onboarding log sources in stages so that a single configuration error does not affect the entire monitoring scope.",
+      "answers": [
+        "We recommend onboarding log sources in stages so that a single configuration error does not affect the entire monitoring scope."
+      ],
+      "notes": "recommend doing；in stages 表示分批；so that 引出风险控制目的。",
+      "tags": [
+        "售后服务",
+        "分阶段上线",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "postsales_008",
+      "zh": "试运行期间产生的告警会用于调优，不会自动触发生产响应流程。",
+      "en": "Alerts generated during the trial period will be used for tuning and will not automatically trigger the production response process.",
+      "answers": [
+        "Alerts generated during the trial period will be used for tuning and will not automatically trigger the production response process."
+      ],
+      "notes": "两个并列被动结构说明试运行用途和边界。",
+      "tags": [
+        "售后服务",
+        "试运行",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "postsales_009",
+      "zh": "上线决定应基于未解决问题的业务影响，而不是单纯计算问题数量。",
+      "en": "The go-live decision should be based on the business impact of unresolved issues rather than a simple count of them.",
+      "answers": [
+        "The go-live decision should be based on the business impact of unresolved issues rather than a simple count of them."
+      ],
+      "notes": "be based on 与 rather than 建立上线决策标准。",
+      "tags": [
+        "售后服务",
+        "上线决策",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "postsales_010",
+      "zh": "如果回退会造成更大中断，变更负责人必须在窗口开始前说明替代方案。",
+      "en": "If rollback would cause greater disruption, the change owner must document an alternative before the maintenance window begins.",
+      "answers": [
+        "If rollback would cause greater disruption, the change owner must document an alternative before the maintenance window begins."
+      ],
+      "notes": "would cause 描述预判后果；before 明确时限。",
+      "tags": [
+        "售后服务",
+        "回退计划",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "postsales_011",
+      "zh": "这条规则检测率很高，但在共享服务账户上产生了不可接受的误报。",
+      "en": "The rule has a strong detection rate, but it produces an unacceptable number of false positives for shared service accounts.",
+      "answers": [
+        "The rule has a strong detection rate, but it produces an unacceptable number of false positives for shared service accounts."
+      ],
+      "notes": "but 平衡检测效果和误报成本；an unacceptable number of 修饰可数名词。",
+      "tags": [
+        "售后服务",
+        "规则调优",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "postsales_012",
+      "zh": "我们不会仅为降低告警量而扩大排除范围，因为那可能形成监控盲区。",
+      "en": "We will not broaden the exclusion merely to reduce alert volume, because doing so could create a monitoring blind spot.",
+      "answers": [
+        "We will not broaden the exclusion merely to reduce alert volume, because doing so could create a monitoring blind spot."
+      ],
+      "notes": "merely to 表示不充分目的；doing so 避免重复前述动作。",
+      "tags": [
+        "售后服务",
+        "调优边界",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "postsales_013",
+      "zh": "在关闭规则之前，工程师会先测试更具体的条件能否保留有价值的信号。",
+      "en": "Before disabling the rule, the engineer will test whether a more specific condition can preserve the useful signal.",
+      "answers": [
+        "Before disabling the rule, the engineer will test whether a more specific condition can preserve the useful signal."
+      ],
+      "notes": "before doing 表示谨慎顺序；whether 引导测试内容。",
+      "tags": [
+        "售后服务",
+        "检测优化",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "postsales_014",
+      "zh": "客户对正常行为的说明改变了告警背景，却没有使底层活动变得无风险。",
+      "en": "The client's explanation of normal behaviour changes the context of the alert without making the underlying activity risk-free.",
+      "answers": [
+        "The client's explanation of normal behaviour changes the context of the alert without making the underlying activity risk-free."
+      ],
+      "notes": "without making 表示背景变化不等于风险消失；make A B 是宾补。",
+      "tags": [
+        "售后服务",
+        "告警研判",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "postsales_015",
+      "zh": "每项白名单都需要业务理由和复核日期，以防临时例外永久存在。",
+      "en": "Every allow-list entry requires a business justification and a review date to prevent a temporary exception from becoming permanent.",
+      "answers": [
+        "Every allow-list entry requires a business justification and a review date to prevent a temporary exception from becoming permanent."
+      ],
+      "notes": "prevent A from doing 表示防止；两个并列要素支持例外治理。",
+      "tags": [
+        "售后服务",
+        "白名单治理",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "postsales_016",
+      "zh": "升级前检查发现数据库空间不足，因此我们推迟了变更而没有冒险继续。",
+      "en": "The pre-upgrade check found insufficient database space, so we postponed the change rather than proceed at risk.",
+      "answers": [
+        "The pre-upgrade check found insufficient database space, so we postponed the change rather than proceed at risk."
+      ],
+      "notes": "rather than proceed 表示审慎选择；so 连接发现与决定。",
+      "tags": [
+        "售后服务",
+        "升级准备",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "postsales_017",
+      "zh": "新版本修复了已知缺陷，但也改变了两个接口的认证方式。",
+      "en": "The new release corrects the known defect, while also changing the authentication method for two interfaces.",
+      "answers": [
+        "The new release corrects the known defect, while also changing the authentication method for two interfaces."
+      ],
+      "notes": "while also doing 并列收益和兼容性影响。",
+      "tags": [
+        "售后服务",
+        "版本影响",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "postsales_018",
+      "zh": "若补丁未通过预生产测试，就必须由风险负责人明确批准紧急上线。",
+      "en": "If the patch does not pass pre-production testing, an emergency deployment must be explicitly approved by the risk owner.",
+      "answers": [
+        "If the patch does not pass pre-production testing, an emergency deployment must be explicitly approved by the risk owner."
+      ],
+      "notes": "if 引出例外条件；must be explicitly approved 强调审批要求。",
+      "tags": [
+        "售后服务",
+        "紧急变更",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "postsales_019",
+      "zh": "维护窗口结束后，团队将验证数据接入、告警生成和工单同步是否都已恢复。",
+      "en": "After the maintenance window, the team will verify that data ingestion, alert generation, and ticket synchronisation have all resumed.",
+      "answers": [
+        "After the maintenance window, the team will verify that data ingestion, alert generation, and ticket synchronisation have all resumed."
+      ],
+      "notes": "verify that 后接三个并列主语；现在完成时强调恢复结果。",
+      "tags": [
+        "售后服务",
+        "变更验证",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "postsales_020",
+      "zh": "版本说明列出了功能变化，却没有说明客户定制解析器是否兼容。",
+      "en": "The release notes list the functional changes but do not state whether the client's custom parsers remain compatible.",
+      "answers": [
+        "The release notes list the functional changes but do not state whether the client's custom parsers remain compatible."
+      ],
+      "notes": "state whether 表示说明是否；but 指出版本信息缺口。",
+      "tags": [
+        "售后服务",
+        "兼容性",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "postsales_021",
+      "zh": "间歇性故障只在高负载时出现，因此常规健康检查一直显示正常。",
+      "en": "The intermittent fault occurs only under heavy load, which is why routine health checks have continued to report normal status.",
+      "answers": [
+        "The intermittent fault occurs only under heavy load, which is why routine health checks have continued to report normal status."
+      ],
+      "notes": "which is why 引出结果原因；现在完成时强调持续现象。",
+      "tags": [
+        "售后服务",
+        "故障分析",
+        "专业英语"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "postsales_022",
+      "zh": "在重启服务之前，请收集诊断包，否则导致故障的临时状态可能丢失。",
+      "en": "Please collect the diagnostic bundle before restarting the service; otherwise, the transient state causing the failure may be lost.",
+      "answers": [
+        "Please collect the diagnostic bundle before restarting the service; otherwise, the transient state causing the failure may be lost."
+      ],
+      "notes": "otherwise 说明证据丢失后果；causing 作后置定语。",
+      "tags": [
+        "售后服务",
+        "诊断取证",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "postsales_023",
+      "zh": "临时绕过方案恢复了数据流，但它降低了传输验证强度，不能作为长期修复。",
+      "en": "The workaround restored data flow, but it weakened transport validation and cannot be treated as a permanent fix.",
+      "answers": [
+        "The workaround restored data flow, but it weakened transport validation and cannot be treated as a permanent fix."
+      ],
+      "notes": "but 并列恢复效果与安全代价；treat A as B 表示视为。",
+      "tags": [
+        "售后服务",
+        "临时方案",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "postsales_024",
+      "zh": "根因不是证书过期本身，而是监控流程没有把到期通知发送给当前负责人。",
+      "en": "The root cause was not the certificate expiry itself, but the monitoring process's failure to send the notice to the current owner.",
+      "answers": [
+        "The root cause was not the certificate expiry itself, but the monitoring process's failure to send the notice to the current owner."
+      ],
+      "notes": "not A but B 用于从直接事件深入到流程根因。",
+      "tags": [
+        "售后服务",
+        "根因复盘",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "postsales_025",
+      "zh": "事件关闭标准包括服务稳定、积压处理完成以及预防措施已有负责人。",
+      "en": "The closure criteria require the service to be stable, the backlog to be cleared, and the preventive action to have an owner.",
+      "answers": [
+        "The closure criteria require the service to be stable, the backlog to be cleared, and the preventive action to have an owner."
+      ],
+      "notes": "三个 require 宾语结构并列，分别覆盖恢复、清理和预防。",
+      "tags": [
+        "售后服务",
+        "事件关闭",
+        "专业英语"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "postsales_026",
+      "zh": "培训将使用客户自己的工作流程，让分析师练习他们上线后真正需要执行的任务。",
+      "en": "The training will use the client's own workflow so that analysts practise the tasks they will actually perform after go-live.",
+      "answers": [
+        "The training will use the client's own workflow so that analysts practise the tasks they will actually perform after go-live."
+      ],
+      "notes": "so that 表示培训设计目的；省略关系代词的定语从句修饰 tasks。",
+      "tags": [
+        "售后服务",
+        "知识转移",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "postsales_027",
+      "zh": "操作手册必须解释何时升级问题以及应提供哪些证据，而不只是列出按钮位置。",
+      "en": "The runbook must explain when to escalate an issue and what evidence to provide, rather than merely listing where buttons are located.",
+      "answers": [
+        "The runbook must explain when to escalate an issue and what evidence to provide, rather than merely listing where buttons are located."
+      ],
+      "notes": "疑问词加不定式并列；rather than 区分决策知识和界面说明。",
+      "tags": [
+        "售后服务",
+        "运维手册",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "postsales_028",
+      "zh": "只有当客户团队能够独立完成日常操作时，知识转移才算完成。",
+      "en": "Knowledge transfer is complete only when the client team can perform routine operations without assistance.",
+      "answers": [
+        "Knowledge transfer is complete only when the client team can perform routine operations without assistance."
+      ],
+      "notes": "only when 给出完成标准；without assistance 表示独立能力。",
+      "tags": [
+        "售后服务",
+        "能力验收",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "postsales_029",
+      "zh": "季度复盘发现数据量增长快于预期，因此扩容建议基于新的高峰值。",
+      "en": "The quarterly review found that data volume had grown faster than forecast, so the expansion recommendation is based on the new peak.",
+      "answers": [
+        "The quarterly review found that data volume had grown faster than forecast, so the expansion recommendation is based on the new peak."
+      ],
+      "notes": "过去完成时表示复盘前已增长；faster than forecast 作比较。",
+      "tags": [
+        "售后服务",
+        "扩容规划",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "postsales_030",
+      "zh": "续保提案会把标准支持、额外专业服务和待完成的客户行动分开说明。",
+      "en": "The renewal proposal will distinguish standard support, additional professional services, and outstanding client actions.",
+      "answers": [
+        "The renewal proposal will distinguish standard support, additional professional services, and outstanding client actions."
+      ],
+      "notes": "distinguish 用于清楚划分三类续保内容；outstanding 表示尚未完成。",
+      "tags": [
+        "售后服务",
+        "续保范围",
+        "专业英语"
+      ],
+      "difficulty": 4
+    }
+  ]
+}

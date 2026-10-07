@@ -1,0 +1,465 @@
+{
+  "schema_version": 1,
+  "id": "cyber_security_services",
+  "title": "网络安全 · 安全服务交付 30 句",
+  "description": "覆盖托管检测、事件响应、威胁狩猎、漏洞管理、服务级别与运营汇报的高级英语表达。",
+  "language": "en-GB",
+  "tags": [
+    "网络安全",
+    "安全服务",
+    "服务交付",
+    "IELTS 6+"
+  ],
+  "items": [
+    {
+      "id": "service_001",
+      "zh": "托管检测服务负责分析约定日志源产生的告警，但不代替客户执行系统恢复。",
+      "en": "The managed detection service analyses alerts from the agreed log sources, but it does not assume responsibility for restoring client systems.",
+      "answers": [
+        "The managed detection service analyses alerts from the agreed log sources, but it does not assume responsibility for restoring client systems."
+      ],
+      "notes": "assume responsibility for doing 表示承担职责；but 明确服务边界。",
+      "tags": [
+        "安全服务",
+        "服务范围",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "service_002",
+      "zh": "在接入之前，我们需要确认哪些云账户属于生产环境，以及谁有权批准响应操作。",
+      "en": "Before onboarding, we need to establish which cloud accounts are in production and who is authorised to approve response actions.",
+      "answers": [
+        "Before onboarding, we need to establish which cloud accounts are in production and who is authorised to approve response actions."
+      ],
+      "notes": "which 与 who 引导并列宾语从句；onboarding 指服务接入过程。",
+      "tags": [
+        "安全服务",
+        "服务接入",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "service_003",
+      "zh": "若客户未提供身份日志，分析师对横向移动的可见性将受到明显限制。",
+      "en": "If identity logs are not provided, analysts will have materially limited visibility of lateral movement.",
+      "answers": [
+        "If identity logs are not provided, analysts will have materially limited visibility of lateral movement."
+      ],
+      "notes": "materially limited 强调实质性限制；visibility of 描述监测可见性。",
+      "tags": [
+        "安全服务",
+        "数据依赖",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "service_004",
+      "zh": "服务说明中应列明不受支持的技术，以免销售承诺超出交付能力。",
+      "en": "The service description should identify unsupported technologies so that sales commitments do not exceed delivery capability.",
+      "answers": [
+        "The service description should identify unsupported technologies so that sales commitments do not exceed delivery capability."
+      ],
+      "notes": "so that 引出防止承诺失控的目的；exceed capability 是正式搭配。",
+      "tags": [
+        "安全服务",
+        "服务边界",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "service_005",
+      "zh": "双方同意，隔离终端属于需授权的操作，不会仅凭自动告警执行。",
+      "en": "Both parties agreed that endpoint isolation is an authorised action and will not be performed solely on the basis of an automated alert.",
+      "answers": [
+        "Both parties agreed that endpoint isolation is an authorised action and will not be performed solely on the basis of an automated alert."
+      ],
+      "notes": "on the basis of 表示依据；will not be performed 明确操作门槛。",
+      "tags": [
+        "安全服务",
+        "授权矩阵",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "service_006",
+      "zh": "一级分析师负责初步分类，任何可能涉及数据泄露的事件都会升级给事件响应负责人。",
+      "en": "Tier-one analysts perform initial triage, while any incident that may involve data loss is escalated to the incident response lead.",
+      "answers": [
+        "Tier-one analysts perform initial triage, while any incident that may involve data loss is escalated to the incident response lead."
+      ],
+      "notes": "while 分配不同职责；that may involve 限定升级事件。",
+      "tags": [
+        "安全服务",
+        "升级机制",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "service_007",
+      "zh": "我们把该告警升级为高优先级，不是因为恶意软件名称，而是因为它出现在域控制器上。",
+      "en": "We escalated the alert to high priority not because of the malware label, but because it occurred on a domain controller.",
+      "answers": [
+        "We escalated the alert to high priority not because of the malware label, but because it occurred on a domain controller."
+      ],
+      "notes": "not because ... but because 对比真正的升级依据。",
+      "tags": [
+        "安全服务",
+        "告警分级",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "service_008",
+      "zh": "如果值班人员在十五分钟内联系不到指定联系人，事件将按照升级矩阵转交管理层。",
+      "en": "If the duty analyst cannot reach the nominated contact within fifteen minutes, the incident will be escalated in accordance with the escalation matrix.",
+      "answers": [
+        "If the duty analyst cannot reach the nominated contact within fifteen minutes, the incident will be escalated in accordance with the escalation matrix."
+      ],
+      "notes": "in accordance with 表示依照正式流程；if 说明触发条件。",
+      "tags": [
+        "安全服务",
+        "紧急升级",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "service_009",
+      "zh": "确认恶意活动后的响应时间从人工验证时开始计算，而不是从原始日志产生时开始。",
+      "en": "The response clock starts when malicious activity is confirmed by an analyst, rather than when the raw event is generated.",
+      "answers": [
+        "The response clock starts when malicious activity is confirmed by an analyst, rather than when the raw event is generated."
+      ],
+      "notes": "response clock 指服务计时；rather than 澄清两个时间起点。",
+      "tags": [
+        "安全服务",
+        "服务计时",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "service_010",
+      "zh": "即使事件最终是误报，分析师也应记录当时为何有理由进行升级。",
+      "en": "Even if the incident proves to be a false positive, the analyst should document why escalation was reasonable at the time.",
+      "answers": [
+        "Even if the incident proves to be a false positive, the analyst should document why escalation was reasonable at the time."
+      ],
+      "notes": "even if 表示让步；at the time 限定判断依据。",
+      "tags": [
+        "安全服务",
+        "决策记录",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "service_011",
+      "zh": "调查显示，同一账户在不可能完成实际旅行的时间内从两个国家登录。",
+      "en": "The investigation found that the same account authenticated from two countries within a period that made physical travel impossible.",
+      "answers": [
+        "The investigation found that the same account authenticated from two countries within a period that made physical travel impossible."
+      ],
+      "notes": "find that 转述调查发现；that made... 限定异常时间段。",
+      "tags": [
+        "安全服务",
+        "事件分析",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "service_012",
+      "zh": "在终止可疑进程之前，响应人员先获取内存，以保留可能短暂存在的证据。",
+      "en": "Before terminating the suspicious process, responders captured memory to preserve evidence that might otherwise have been transient.",
+      "answers": [
+        "Before terminating the suspicious process, responders captured memory to preserve evidence that might otherwise have been transient."
+      ],
+      "notes": "before doing 表示操作顺序；might otherwise have been 表达反事实可能。",
+      "tags": [
+        "安全服务",
+        "证据保全",
+        "专业英语"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "service_013",
+      "zh": "目前尚不清楚攻击者是否保持了其他持久化方式，因此不能把密码重置视为充分处置。",
+      "en": "It remains unclear whether the attacker established additional persistence, so a password reset cannot yet be regarded as sufficient containment.",
+      "answers": [
+        "It remains unclear whether the attacker established additional persistence, so a password reset cannot yet be regarded as sufficient containment."
+      ],
+      "notes": "it remains unclear whether 是审慎表述；regard A as B 表示视为。",
+      "tags": [
+        "安全服务",
+        "处置判断",
+        "专业英语"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "service_014",
+      "zh": "根因分析不应止于过期软件，还要解释为什么补丁流程没有发现该资产。",
+      "en": "The root-cause analysis should go beyond outdated software and explain why the patching process failed to identify the asset.",
+      "answers": [
+        "The root-cause analysis should go beyond outdated software and explain why the patching process failed to identify the asset."
+      ],
+      "notes": "go beyond 表示分析不能停留在表层；why 引导解释内容。",
+      "tags": [
+        "安全服务",
+        "根因分析",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "service_015",
+      "zh": "恢复业务之前，请验证备份未受同一凭据泄露事件影响。",
+      "en": "Before restoring the service, verify that the backups were not affected by the same credential compromise.",
+      "answers": [
+        "Before restoring the service, verify that the backups were not affected by the same credential compromise."
+      ],
+      "notes": "before doing 体现恢复顺序；verify that 要求确认事实。",
+      "tags": [
+        "安全服务",
+        "安全恢复",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "service_016",
+      "zh": "这次威胁狩猎从一个可验证的假设出发，而不是在海量日志中漫无目的地搜索。",
+      "en": "This threat hunt began with a testable hypothesis rather than an unfocused search across a large volume of logs.",
+      "answers": [
+        "This threat hunt began with a testable hypothesis rather than an unfocused search across a large volume of logs."
+      ],
+      "notes": "testable hypothesis 是可验证假设；rather than 对比两种狩猎方法。",
+      "tags": [
+        "安全服务",
+        "威胁狩猎",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "service_017",
+      "zh": "没有发现匹配项并不能证明环境安全，它只说明在所查数据和时段内未观察到该行为。",
+      "en": "The absence of matches does not prove that the environment is secure; it shows only that the behaviour was not observed in the data and period examined.",
+      "answers": [
+        "The absence of matches does not prove that the environment is secure; it shows only that the behaviour was not observed in the data and period examined."
+      ],
+      "notes": "does not prove 限制结论；分号后的 only that 精确定义结果。",
+      "tags": [
+        "安全服务",
+        "狩猎结论",
+        "专业英语"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "service_018",
+      "zh": "新情报与客户所用技术无关，因此未将该狩猎假设列为优先事项。",
+      "en": "The new intelligence was not relevant to the technology used by the client, so the associated hunting hypothesis was not prioritised.",
+      "answers": [
+        "The new intelligence was not relevant to the technology used by the client, so the associated hunting hypothesis was not prioritised."
+      ],
+      "notes": "relevant to 是固定搭配；so 说明不优先的理由。",
+      "tags": [
+        "安全服务",
+        "情报筛选",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "service_019",
+      "zh": "检测规则将先在历史数据上回测，以估算误报量和潜在盲区。",
+      "en": "The detection rule will first be back-tested against historical data to estimate false-positive volume and potential blind spots.",
+      "answers": [
+        "The detection rule will first be back-tested against historical data to estimate false-positive volume and potential blind spots."
+      ],
+      "notes": "back-test against 表示用历史数据回测；to estimate 表示目的。",
+      "tags": [
+        "安全服务",
+        "检测工程",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "service_020",
+      "zh": "一次成功的狩猎应转化为可重复的检测，前提是信号足够稳定。",
+      "en": "A successful hunt should be converted into a repeatable detection where the signal is sufficiently stable.",
+      "answers": [
+        "A successful hunt should be converted into a repeatable detection where the signal is sufficiently stable."
+      ],
+      "notes": "be converted into 表示成果转化；where 在此限定适用情形。",
+      "tags": [
+        "安全服务",
+        "能力沉淀",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "service_021",
+      "zh": "漏洞扫描结果经过资产所有权和业务关键性校正后，才会进入整改队列。",
+      "en": "Scan results enter the remediation queue only after they have been enriched with asset ownership and business criticality.",
+      "answers": [
+        "Scan results enter the remediation queue only after they have been enriched with asset ownership and business criticality."
+      ],
+      "notes": "only after 强调流程顺序；enrich with 表示补充上下文。",
+      "tags": [
+        "安全服务",
+        "漏洞管理",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "service_022",
+      "zh": "服务团队可以验证补丁是否安装，却不能替业务负责人接受剩余风险。",
+      "en": "The service team can verify whether a patch is installed, but it cannot accept residual risk on behalf of the business owner.",
+      "answers": [
+        "The service team can verify whether a patch is installed, but it cannot accept residual risk on behalf of the business owner."
+      ],
+      "notes": "whether 引导验证内容；on behalf of 表示代表他人。",
+      "tags": [
+        "安全服务",
+        "责任边界",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "service_023",
+      "zh": "重复出现的逾期漏洞表明，问题可能在治理流程，而不只是技术积压。",
+      "en": "Recurring overdue vulnerabilities suggest that the weakness may lie in governance rather than in the technical backlog alone.",
+      "answers": [
+        "Recurring overdue vulnerabilities suggest that the weakness may lie in governance rather than in the technical backlog alone."
+      ],
+      "notes": "lie in 表示问题所在；rather than 区分治理原因和技术表象。",
+      "tags": [
+        "安全服务",
+        "治理分析",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "service_024",
+      "zh": "基于风险的服务应优先修复可暴露敏感业务流程的攻击路径。",
+      "en": "A risk-based service should prioritise attack paths that expose sensitive business processes to compromise.",
+      "answers": [
+        "A risk-based service should prioritise attack paths that expose sensitive business processes to compromise."
+      ],
+      "notes": "risk-based 表示基于风险；that 引导定语从句解释优先对象。",
+      "tags": [
+        "安全服务",
+        "风险优先",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "service_025",
+      "zh": "月报会分别展示新发现、已关闭和重新打开的问题，避免净总数掩盖变化。",
+      "en": "The monthly report presents new, closed, and reopened findings separately so that the net total does not obscure movement.",
+      "answers": [
+        "The monthly report presents new, closed, and reopened findings separately so that the net total does not obscure movement."
+      ],
+      "notes": "separately 与 so that 说明报表设计目的；obscure 表示掩盖。",
+      "tags": [
+        "安全服务",
+        "运营报告",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "service_026",
+      "zh": "告警数量下降值得关注，但在确认日志源仍然完整之前，不能把它当作改善。",
+      "en": "The fall in alert volume is noteworthy, but it should not be treated as an improvement until log-source completeness has been confirmed.",
+      "answers": [
+        "The fall in alert volume is noteworthy, but it should not be treated as an improvement until log-source completeness has been confirmed."
+      ],
+      "notes": "should not ... until 表示在验证前不得下结论。",
+      "tags": [
+        "安全服务",
+        "指标解读",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "service_027",
+      "zh": "本季度服务水平目标未达成，主要原因是客户联系人过期造成授权延迟。",
+      "en": "The service-level objective was missed this quarter, largely because outdated client contacts delayed authorisation.",
+      "answers": [
+        "The service-level objective was missed this quarter, largely because outdated client contacts delayed authorisation."
+      ],
+      "notes": "miss an objective 表示未达目标；because 清楚归因。",
+      "tags": [
+        "安全服务",
+        "服务水平",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "service_028",
+      "zh": "我们建议把平均响应时间与事件复杂度一同解读，否则汇总数字可能产生误导。",
+      "en": "We recommend interpreting mean response time alongside incident complexity; otherwise, the aggregate figure may be misleading.",
+      "answers": [
+        "We recommend interpreting mean response time alongside incident complexity; otherwise, the aggregate figure may be misleading."
+      ],
+      "notes": "recommend doing 是建议用法；otherwise 引出忽略语境的后果。",
+      "tags": [
+        "安全服务",
+        "服务度量",
+        "专业英语"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "service_029",
+      "zh": "季度评审应把反复出现的交付障碍转化为有负责人和截止日期的改进事项。",
+      "en": "The quarterly review should convert recurring delivery obstacles into improvement actions with named owners and deadlines.",
+      "answers": [
+        "The quarterly review should convert recurring delivery obstacles into improvement actions with named owners and deadlines."
+      ],
+      "notes": "convert A into B 表示转化；with 引出行动项必要属性。",
+      "tags": [
+        "安全服务",
+        "持续改进",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "service_030",
+      "zh": "续约讨论必须说明哪些成果来自服务本身，哪些依赖客户完成约定行动。",
+      "en": "The renewal discussion must distinguish outcomes delivered by the service from those dependent on agreed client actions.",
+      "answers": [
+        "The renewal discussion must distinguish outcomes delivered by the service from those dependent on agreed client actions."
+      ],
+      "notes": "distinguish A from B；过去分词短语分别修饰两类成果。",
+      "tags": [
+        "安全服务",
+        "续约复盘",
+        "专业英语"
+      ],
+      "difficulty": 4
+    }
+  ]
+}
