@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 58,
+  "articles": [
+    {
+      "id": "cet4-reading-d058-1",
+      "title": "The Cosmos File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "During a tour of a seashore kindergarten, the class found sham (something) before locating stylist (an artist). Two volunteers at a seashore kindergarten used the inventory to identify seashore (the shore of a sea or ocean) and composer (someone). Near closing time at a seashore kindergarten, a diary linked the displays of aspirin (the acetylated derivative of salicylic acid) and sharpener (any implement). Rain kept a family inside a seashore kindergarten, learning about neighborhood (a surrounding or nearby region) and toothbrush (small brush). When a shelf shifted at a seashore kindergarten, staff protected files on aunt (the sister of your father or mother) and cosmos (everything).",
+      "translation": "海滨幼儿园的参观先让学生认识假冒(的),虚伪(的)（sham）；一块丢失的标牌又把他们带到时装设计师（stylist）。海滨幼儿园的两名志愿者借助清单确认海滨（seashore），并顺带找到另一条关于作曲家（composer）的记录。海滨幼儿园闭馆前，一本提到阿斯匹林（aspirin）的日记帮助员工找到了一幅标有铅笔刀,磨石（sharpener）的画的主人。雨天让一家人留在海滨幼儿园，一个孩子学习邻居（neighborhood），另一个孩子则操作与牙刷（toothbrush）有关的模型。海滨幼儿园的架子倒下时，员工保护了有关姨母,姑母,伯母,婶母,舅母,阿姨（aunt）的材料，也找回了旁边关于宇宙（cosmos）的档案。",
+      "sentences": [
+        {
+          "en": "During a tour of a seashore kindergarten, the class found sham (something) before locating stylist (an artist).",
+          "zh": "海滨幼儿园的参观先让学生认识假冒(的),虚伪(的)（sham）；一块丢失的标牌又把他们带到时装设计师（stylist）。"
+        },
+        {
+          "en": "Two volunteers at a seashore kindergarten used the inventory to identify seashore (the shore of a sea or ocean) and composer (someone).",
+          "zh": "海滨幼儿园的两名志愿者借助清单确认海滨（seashore），并顺带找到另一条关于作曲家（composer）的记录。"
+        },
+        {
+          "en": "Near closing time at a seashore kindergarten, a diary linked the displays of aspirin (the acetylated derivative of salicylic acid) and sharpener (any implement).",
+          "zh": "海滨幼儿园闭馆前，一本提到阿斯匹林（aspirin）的日记帮助员工找到了一幅标有铅笔刀,磨石（sharpener）的画的主人。"
+        },
+        {
+          "en": "Rain kept a family inside a seashore kindergarten, learning about neighborhood (a surrounding or nearby region) and toothbrush (small brush).",
+          "zh": "雨天让一家人留在海滨幼儿园，一个孩子学习邻居（neighborhood），另一个孩子则操作与牙刷（toothbrush）有关的模型。"
+        },
+        {
+          "en": "When a shelf shifted at a seashore kindergarten, staff protected files on aunt (the sister of your father or mother) and cosmos (everything).",
+          "zh": "海滨幼儿园的架子倒下时，员工保护了有关姨母,姑母,伯母,婶母,舅母,阿姨（aunt）的材料，也找回了旁边关于宇宙（cosmos）的档案。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "sham",
+          "meaning": "n./a. 假冒(的),虚伪(的)"
+        },
+        {
+          "word": "stylist",
+          "meaning": "n.时装设计师"
+        },
+        {
+          "word": "seashore",
+          "meaning": "n.海滨"
+        },
+        {
+          "word": "composer",
+          "meaning": "n.作曲家;调停人"
+        },
+        {
+          "word": "aspirin",
+          "meaning": "n. 阿斯匹林"
+        },
+        {
+          "word": "sharpener",
+          "meaning": "n.铅笔刀,磨石"
+        },
+        {
+          "word": "neighborhood",
+          "meaning": "n. 邻居;四邻,街道"
+        },
+        {
+          "word": "toothbrush",
+          "meaning": "n.牙刷"
+        },
+        {
+          "word": "aunt",
+          "meaning": "n. 姨母,姑母,伯母,婶母,舅母,阿姨"
+        },
+        {
+          "word": "cosmos",
+          "meaning": "n.宇宙;秩序,和谐"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "cosmos",
+          "explanation": "最后一个目标词是宇宙（cosmos）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d058-2",
+      "title": "Understanding Navel Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "To avoid ambiguity, a seashore kindergarten explains navel as a scar and dove as any of numerous small pigeons. A chart in a seashore kindergarten defines rubber as an elastic material obtained from the latex sap of trees and sunflower as any plant of the genus Helianthus on different branches. The glossary at a seashore kindergarten defines chick as young bird and cross-references deletion, meaning any process whereby sounds or words are left out. At a seashore kindergarten, wood means the hard fibrous lignified substance under the bark of trees, whereas tulip means any of numerous perennial bulbous herbs; separate examples prevent confusion. Researchers at a seashore kindergarten use effectiveness for power to be effective, but reserve scarf for a garment worn around the head or neck or shoulders.",
+      "translation": "为避免歧义，海滨幼儿园的教师分别说明脐,中心（navel）和鸽子（dove），再用实例展示各自用法。海滨幼儿园的图表把橡皮,橡胶（rubber）和葵花（sunflower）放在不同分支，让读者清楚看见两者区别。海滨幼儿园的词汇表定义小鸡（chick），并以交叉索引引导读者查看删除（deletion），但不把二者视为相同。海滨幼儿园的课程分别解释木材,木头,木料（wood）与郁金香（tulip），避免学习者因定义不同而进行错误比较。海滨幼儿园的研究记录分别使用有效（effectiveness）和围巾,头巾,领巾,领带（scarf）；由于含义不同，二者需要不同证据。",
+      "sentences": [
+        {
+          "en": "To avoid ambiguity, a seashore kindergarten explains navel as a scar and dove as any of numerous small pigeons.",
+          "zh": "为避免歧义，海滨幼儿园的教师分别说明脐,中心（navel）和鸽子（dove），再用实例展示各自用法。"
+        },
+        {
+          "en": "A chart in a seashore kindergarten defines rubber as an elastic material obtained from the latex sap of trees and sunflower as any plant of the genus Helianthus on different branches.",
+          "zh": "海滨幼儿园的图表把橡皮,橡胶（rubber）和葵花（sunflower）放在不同分支，让读者清楚看见两者区别。"
+        },
+        {
+          "en": "The glossary at a seashore kindergarten defines chick as young bird and cross-references deletion, meaning any process whereby sounds or words are left out.",
+          "zh": "海滨幼儿园的词汇表定义小鸡（chick），并以交叉索引引导读者查看删除（deletion），但不把二者视为相同。"
+        },
+        {
+          "en": "At a seashore kindergarten, wood means the hard fibrous lignified substance under the bark of trees, whereas tulip means any of numerous perennial bulbous herbs; separate examples prevent confusion.",
+          "zh": "海滨幼儿园的课程分别解释木材,木头,木料（wood）与郁金香（tulip），避免学习者因定义不同而进行错误比较。"
+        },
+        {
+          "en": "Researchers at a seashore kindergarten use effectiveness for power to be effective, but reserve scarf for a garment worn around the head or neck or shoulders.",
+          "zh": "海滨幼儿园的研究记录分别使用有效（effectiveness）和围巾,头巾,领巾,领带（scarf）；由于含义不同，二者需要不同证据。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "navel",
+          "meaning": "n.脐,中心"
+        },
+        {
+          "word": "dove",
+          "meaning": "n. 鸽子"
+        },
+        {
+          "word": "rubber",
+          "meaning": "n. 橡皮,橡胶;橡胶制品,胶鞋"
+        },
+        {
+          "word": "sunflower",
+          "meaning": "n.葵花"
+        },
+        {
+          "word": "chick",
+          "meaning": "n.小鸡"
+        },
+        {
+          "word": "deletion",
+          "meaning": "n.删除"
+        },
+        {
+          "word": "wood",
+          "meaning": "n. 木材,木头,木料;(pl.)森林,林地"
+        },
+        {
+          "word": "tulip",
+          "meaning": "n.郁金香"
+        },
+        {
+          "word": "effectiveness",
+          "meaning": "n.有效"
+        },
+        {
+          "word": "scarf",
+          "meaning": "n. 围巾,头巾,领巾,领带"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d058-3",
+      "title": "Why Boarding Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "The strongest argument at a seashore kindergarten supported realism (the attribute of accepting the facts of life and favoring) but demanded safeguards for psychology (the science of mental life). Residents near a seashore kindergarten debated procurement (the act of getting possession of something) and kindergarten (a preschool for children age to to prepare them), then requested written evidence. Policy at a seashore kindergarten should address correlation—a reciprocal relation between two or more things—without ignoring blockage—the physical condition of blocking or filling a passage. A forum at a seashore kindergarten considered sensitivity (physiology responsiveness to external stimuli the faculty of sensation) alongside generalization (reasoning from detailed facts to general principles) before setting priorities. Decision makers at a seashore kindergarten cannot evaluate medal (an award for winning a championship or commemorating some other) while excluding boarding (the act of passengers and crew getting aboard a ship).",
+      "translation": "海滨幼儿园最有力的论证支持处理现实主义,写实主义（realism），同时要求在心理学（psychology）受影响时设置保障。海滨幼儿园附近居民讨论采购（procurement）和幼儿园（kindergarten）后，要求书面说明成本与责任。海滨幼儿园的政策应处理相互关系（correlation），也不能忽视封锁（blockage）；两者都需要证据而非口号。海滨幼儿园的公开论坛同时考虑敏感(性)（sensitivity）与一般化（generalization），并讨论哪一项更需要优先行动。海滨幼儿园的决策者不能只评估奖章,纪念章（medal），却把伙食（boarding）排除在公开证据之外。",
+      "sentences": [
+        {
+          "en": "The strongest argument at a seashore kindergarten supported realism (the attribute of accepting the facts of life and favoring) but demanded safeguards for psychology (the science of mental life).",
+          "zh": "海滨幼儿园最有力的论证支持处理现实主义,写实主义（realism），同时要求在心理学（psychology）受影响时设置保障。"
+        },
+        {
+          "en": "Residents near a seashore kindergarten debated procurement (the act of getting possession of something) and kindergarten (a preschool for children age to to prepare them), then requested written evidence.",
+          "zh": "海滨幼儿园附近居民讨论采购（procurement）和幼儿园（kindergarten）后，要求书面说明成本与责任。"
+        },
+        {
+          "en": "Policy at a seashore kindergarten should address correlation—a reciprocal relation between two or more things—without ignoring blockage—the physical condition of blocking or filling a passage.",
+          "zh": "海滨幼儿园的政策应处理相互关系（correlation），也不能忽视封锁（blockage）；两者都需要证据而非口号。"
+        },
+        {
+          "en": "A forum at a seashore kindergarten considered sensitivity (physiology responsiveness to external stimuli the faculty of sensation) alongside generalization (reasoning from detailed facts to general principles) before setting priorities.",
+          "zh": "海滨幼儿园的公开论坛同时考虑敏感(性)（sensitivity）与一般化（generalization），并讨论哪一项更需要优先行动。"
+        },
+        {
+          "en": "Decision makers at a seashore kindergarten cannot evaluate medal (an award for winning a championship or commemorating some other) while excluding boarding (the act of passengers and crew getting aboard a ship).",
+          "zh": "海滨幼儿园的决策者不能只评估奖章,纪念章（medal），却把伙食（boarding）排除在公开证据之外。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "realism",
+          "meaning": "n.现实主义,写实主义"
+        },
+        {
+          "word": "psychology",
+          "meaning": "n. 心理学"
+        },
+        {
+          "word": "procurement",
+          "meaning": "n.采购"
+        },
+        {
+          "word": "kindergarten",
+          "meaning": "n. 幼儿园"
+        },
+        {
+          "word": "correlation",
+          "meaning": "n.相互关系;对射"
+        },
+        {
+          "word": "blockage",
+          "meaning": "n.封锁"
+        },
+        {
+          "word": "sensitivity",
+          "meaning": "n.敏感(性);灵敏性"
+        },
+        {
+          "word": "generalization",
+          "meaning": "n.一般化;概括,综合"
+        },
+        {
+          "word": "medal",
+          "meaning": "n. 奖章,纪念章"
+        },
+        {
+          "word": "boarding",
+          "meaning": "n.伙食"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

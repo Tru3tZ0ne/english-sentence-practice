@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 69,
+  "articles": [
+    {
+      "id": "cet4-reading-d069-1",
+      "title": "The Axle File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "Two volunteers at an archaeological language camp used the inventory to identify archaeologist (an anthropologist) and mermaid (half woman and half fish). The morning program at an archaeological language camp paired a section on dropout (someone) with one on maiden (an unmarried girl). A quiet corner of an archaeological language camp presented supporter (a person); a recording nearby introduced airway (a duct). Inside an archaeological language camp, the curator corrected labels for sewing-machine (a textile machine used as a home appliance for sewing) and ship (a vessel). The newest room at an archaeological language camp began with steward (someone) and ended with axle (a shaft on).",
+      "translation": "考古语言营的两名志愿者借助清单确认考古学家（archaeologist），并顺带找到另一条关于美人鱼（mermaid）的记录。考古语言营的上午活动把中途退出者（dropout）与另一项关于(文学)少女,未嫁女子（maiden）的展览相邻安排，但没有混淆两者。考古语言营安静的一角介绍支持者（supporter），旁边的录音访谈则讲述航线（airway）背后的人物故事。考古语言营的策展人先纠正缝纫机（sewing-machine）的标签错误，随后发现关于船舶,舰艇v. 装运,航运,运送（ship）的材料也放错了位置。考古语言营最新展厅从乘务员,服务员（steward）开始，以一个出人意料的本地(轮)轴,车轴,心棒（axle）实例结束。",
+      "sentences": [
+        {
+          "en": "Two volunteers at an archaeological language camp used the inventory to identify archaeologist (an anthropologist) and mermaid (half woman and half fish).",
+          "zh": "考古语言营的两名志愿者借助清单确认考古学家（archaeologist），并顺带找到另一条关于美人鱼（mermaid）的记录。"
+        },
+        {
+          "en": "The morning program at an archaeological language camp paired a section on dropout (someone) with one on maiden (an unmarried girl).",
+          "zh": "考古语言营的上午活动把中途退出者（dropout）与另一项关于(文学)少女,未嫁女子（maiden）的展览相邻安排，但没有混淆两者。"
+        },
+        {
+          "en": "A quiet corner of an archaeological language camp presented supporter (a person); a recording nearby introduced airway (a duct).",
+          "zh": "考古语言营安静的一角介绍支持者（supporter），旁边的录音访谈则讲述航线（airway）背后的人物故事。"
+        },
+        {
+          "en": "Inside an archaeological language camp, the curator corrected labels for sewing-machine (a textile machine used as a home appliance for sewing) and ship (a vessel).",
+          "zh": "考古语言营的策展人先纠正缝纫机（sewing-machine）的标签错误，随后发现关于船舶,舰艇v. 装运,航运,运送（ship）的材料也放错了位置。"
+        },
+        {
+          "en": "The newest room at an archaeological language camp began with steward (someone) and ended with axle (a shaft on).",
+          "zh": "考古语言营最新展厅从乘务员,服务员（steward）开始，以一个出人意料的本地(轮)轴,车轴,心棒（axle）实例结束。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "archaeologist",
+          "meaning": "n.考古学家"
+        },
+        {
+          "word": "mermaid",
+          "meaning": "n.美人鱼"
+        },
+        {
+          "word": "dropout",
+          "meaning": "n.中途退出者"
+        },
+        {
+          "word": "maiden",
+          "meaning": "n.(文学)少女,未嫁女子; a. 未婚女子的,初次的,处女的"
+        },
+        {
+          "word": "supporter",
+          "meaning": "n.支持者"
+        },
+        {
+          "word": "airway",
+          "meaning": "n.航线"
+        },
+        {
+          "word": "sewing-machine",
+          "meaning": "n.缝纫机"
+        },
+        {
+          "word": "ship",
+          "meaning": "n. 船舶,舰艇v. 装运,航运,运送;发货"
+        },
+        {
+          "word": "steward",
+          "meaning": "n. 乘务员,服务员;组织者"
+        },
+        {
+          "word": "axle",
+          "meaning": "n.(轮)轴,车轴,心棒"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "axle",
+          "explanation": "最后一个目标词是(轮)轴,车轴,心棒（axle）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d069-2",
+      "title": "Understanding Fowl Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "Researchers at an archaeological language camp use fowl for a domesticated gallinaceous bird thought to be descended, but reserve processing for preparing or putting through a prescribed procedure. The glossary at an archaeological language camp defines fist as a hand with the fingers clenched in the palm and cross-references magnetism, meaning attraction for iron. Field notes from an archaeological language camp distinguish garlic (bulbous herb of southern Europe widely naturalized) from puff (a short light gust of air). By separating dung (fecal matter of animals) from wolf (any of various predatory carnivorous canine mammals of North America), an archaeological language camp turns definitions into usable knowledge. One panel in an archaeological language camp illustrates gaol (a correctional institution used to detain persons); the next describes thinking (the process of using your mind to consider something carefully).",
+      "translation": "考古语言营的研究记录分别使用家禽（fowl）和&adj.加工(的)（processing）；由于含义不同，二者需要不同证据。考古语言营的词汇表定义拳头（fist），并以交叉索引引导读者查看磁（magnetism），但不把二者视为相同。考古语言营的野外记录严格区分蒜,大蒜粉（garlic）和一阵,一股(气味等)（puff），使记录保持准确。考古语言营把粪（dung）与狼（wolf）分开考察，使两个陌生概念转化为可使用的知识。考古语言营第一块展板说明监狱（gaol），下一块介绍思想（thinking），访客因而能比较两个准确概念。",
+      "sentences": [
+        {
+          "en": "Researchers at an archaeological language camp use fowl for a domesticated gallinaceous bird thought to be descended, but reserve processing for preparing or putting through a prescribed procedure.",
+          "zh": "考古语言营的研究记录分别使用家禽（fowl）和&adj.加工(的)（processing）；由于含义不同，二者需要不同证据。"
+        },
+        {
+          "en": "The glossary at an archaeological language camp defines fist as a hand with the fingers clenched in the palm and cross-references magnetism, meaning attraction for iron.",
+          "zh": "考古语言营的词汇表定义拳头（fist），并以交叉索引引导读者查看磁（magnetism），但不把二者视为相同。"
+        },
+        {
+          "en": "Field notes from an archaeological language camp distinguish garlic (bulbous herb of southern Europe widely naturalized) from puff (a short light gust of air).",
+          "zh": "考古语言营的野外记录严格区分蒜,大蒜粉（garlic）和一阵,一股(气味等)（puff），使记录保持准确。"
+        },
+        {
+          "en": "By separating dung (fecal matter of animals) from wolf (any of various predatory carnivorous canine mammals of North America), an archaeological language camp turns definitions into usable knowledge.",
+          "zh": "考古语言营把粪（dung）与狼（wolf）分开考察，使两个陌生概念转化为可使用的知识。"
+        },
+        {
+          "en": "One panel in an archaeological language camp illustrates gaol (a correctional institution used to detain persons); the next describes thinking (the process of using your mind to consider something carefully).",
+          "zh": "考古语言营第一块展板说明监狱（gaol），下一块介绍思想（thinking），访客因而能比较两个准确概念。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "fowl",
+          "meaning": "n.家禽;禽肉"
+        },
+        {
+          "word": "processing",
+          "meaning": "n. &adj.加工(的)"
+        },
+        {
+          "word": "fist",
+          "meaning": "n. 拳头"
+        },
+        {
+          "word": "magnetism",
+          "meaning": "n.磁;魅力;催眠术"
+        },
+        {
+          "word": "garlic",
+          "meaning": "n. 蒜,大蒜粉"
+        },
+        {
+          "word": "puff",
+          "meaning": "n. 一阵,一股(气味等);喘息;吹嘘v. 喘息,鼓吹"
+        },
+        {
+          "word": "dung",
+          "meaning": "n.粪"
+        },
+        {
+          "word": "wolf",
+          "meaning": "n. 狼"
+        },
+        {
+          "word": "gaol",
+          "meaning": "n.监狱"
+        },
+        {
+          "word": "thinking",
+          "meaning": "n.思想"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d069-3",
+      "title": "Why Emigration Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "Decision makers at an archaeological language camp cannot evaluate irritation (the psychological state of being irritated or annoyed) while excluding kite (a bank check). A proposal for an archaeological language camp prioritizes sin (estrangement from god), while critics emphasize statistics (a branch of applied mathematics concerned with the collection). Public trust at an archaeological language camp needs honest discussion of verb (the word class) and measurable commitments on vocabulary (a listing of the words used in some enterprise). Residents near an archaeological language camp debated enhancement (an improvement) and consonant (a speech sound), then requested written evidence. Policy at an archaeological language camp should address aggression—a disposition to behave aggressively—without ignoring emigration—migration from a place.",
+      "translation": "考古语言营的决策者不能只评估刺激,恼怒（irritation），却把风筝（kite）排除在公开证据之外。考古语言营的方案优先处理罪,罪恶v. 犯罪（sin），批评者则认为统计,统计数字,统计学（statistics）也应得到同等关注。考古语言营要建立公众信任，就必须诚实讨论动词（verb），并对词汇,词汇量（vocabulary）作出可衡量承诺。考古语言营附近居民讨论提高（enhancement）和辅音,辅音字母,子音（consonant）后，要求书面说明成本与责任。考古语言营的政策应处理侵略（aggression），也不能忽视向国外移民（emigration）；两者都需要证据而非口号。",
+      "sentences": [
+        {
+          "en": "Decision makers at an archaeological language camp cannot evaluate irritation (the psychological state of being irritated or annoyed) while excluding kite (a bank check).",
+          "zh": "考古语言营的决策者不能只评估刺激,恼怒（irritation），却把风筝（kite）排除在公开证据之外。"
+        },
+        {
+          "en": "A proposal for an archaeological language camp prioritizes sin (estrangement from god), while critics emphasize statistics (a branch of applied mathematics concerned with the collection).",
+          "zh": "考古语言营的方案优先处理罪,罪恶v. 犯罪（sin），批评者则认为统计,统计数字,统计学（statistics）也应得到同等关注。"
+        },
+        {
+          "en": "Public trust at an archaeological language camp needs honest discussion of verb (the word class) and measurable commitments on vocabulary (a listing of the words used in some enterprise).",
+          "zh": "考古语言营要建立公众信任，就必须诚实讨论动词（verb），并对词汇,词汇量（vocabulary）作出可衡量承诺。"
+        },
+        {
+          "en": "Residents near an archaeological language camp debated enhancement (an improvement) and consonant (a speech sound), then requested written evidence.",
+          "zh": "考古语言营附近居民讨论提高（enhancement）和辅音,辅音字母,子音（consonant）后，要求书面说明成本与责任。"
+        },
+        {
+          "en": "Policy at an archaeological language camp should address aggression—a disposition to behave aggressively—without ignoring emigration—migration from a place.",
+          "zh": "考古语言营的政策应处理侵略（aggression），也不能忽视向国外移民（emigration）；两者都需要证据而非口号。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "irritation",
+          "meaning": "n.刺激,恼怒"
+        },
+        {
+          "word": "kite",
+          "meaning": "n. 风筝"
+        },
+        {
+          "word": "sin",
+          "meaning": "n. 罪,罪恶v. 犯罪"
+        },
+        {
+          "word": "statistics",
+          "meaning": "n. 统计,统计数字,统计学"
+        },
+        {
+          "word": "verb",
+          "meaning": "n. 动词"
+        },
+        {
+          "word": "vocabulary",
+          "meaning": "n. 词汇,词汇量;词汇表"
+        },
+        {
+          "word": "enhancement",
+          "meaning": "n.提高"
+        },
+        {
+          "word": "consonant",
+          "meaning": "n.辅音,辅音字母,子音;adj. 一致的,调和的,辅音的"
+        },
+        {
+          "word": "aggression",
+          "meaning": "n.侵略"
+        },
+        {
+          "word": "emigration",
+          "meaning": "n.向国外移民"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

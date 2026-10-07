@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 75,
+  "articles": [
+    {
+      "id": "cet4-reading-d075-1",
+      "title": "The Switzerland File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "The morning program at an island civic center paired a section on democrat (a member of the Democratic Party) with one on Africa (the second largest continent). A student at an island civic center photographed Oceania—a large group of islands in the south Pacific including—and sketched Ireland—a republic. During a tour of an island civic center, the class found consignment (goods carried by a large vehicle) before locating beverage (any liquid suitable for drinking). The newest room at an island civic center began with ration (the food allowance for one day) and ended with interface (chemistry a surface forming a common boundary between two things). A visitor entered an island civic center asking about worker (a person) and left with a note on Switzerland (a landlocked federal republic in central Europe).",
+      "translation": "岛屿市民中心的上午活动把民主党人（democrat）与另一项关于非洲（Africa）的展览相邻安排，但没有混淆两者。学生在岛屿市民中心记录大洋洲（Oceania）后，又到另一处展区了解爱尔兰（Ireland），两项内容分别得到清楚说明。岛屿市民中心的参观先让学生认识委托,货物（consignment）；一块丢失的标牌又把他们带到饮料(汽水、茶、酒等)（beverage）。岛屿市民中心最新展厅从定量,配给量,正常量,合理的量 vt.限量供应（ration）开始，以一个出人意料的本地接合部位,分界面v. (使)互相联系（interface）实例结束。访客到岛屿市民中心询问工人,工作者,工作人员（worker），旧平面图却意外引导她发现了瑞士（Switzerland）。",
+      "sentences": [
+        {
+          "en": "The morning program at an island civic center paired a section on democrat (a member of the Democratic Party) with one on Africa (the second largest continent).",
+          "zh": "岛屿市民中心的上午活动把民主党人（democrat）与另一项关于非洲（Africa）的展览相邻安排，但没有混淆两者。"
+        },
+        {
+          "en": "A student at an island civic center photographed Oceania—a large group of islands in the south Pacific including—and sketched Ireland—a republic.",
+          "zh": "学生在岛屿市民中心记录大洋洲（Oceania）后，又到另一处展区了解爱尔兰（Ireland），两项内容分别得到清楚说明。"
+        },
+        {
+          "en": "During a tour of an island civic center, the class found consignment (goods carried by a large vehicle) before locating beverage (any liquid suitable for drinking).",
+          "zh": "岛屿市民中心的参观先让学生认识委托,货物（consignment）；一块丢失的标牌又把他们带到饮料(汽水、茶、酒等)（beverage）。"
+        },
+        {
+          "en": "The newest room at an island civic center began with ration (the food allowance for one day) and ended with interface (chemistry a surface forming a common boundary between two things).",
+          "zh": "岛屿市民中心最新展厅从定量,配给量,正常量,合理的量 vt.限量供应（ration）开始，以一个出人意料的本地接合部位,分界面v. (使)互相联系（interface）实例结束。"
+        },
+        {
+          "en": "A visitor entered an island civic center asking about worker (a person) and left with a note on Switzerland (a landlocked federal republic in central Europe).",
+          "zh": "访客到岛屿市民中心询问工人,工作者,工作人员（worker），旧平面图却意外引导她发现了瑞士（Switzerland）。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "democrat",
+          "meaning": "n.民主党人"
+        },
+        {
+          "word": "Africa",
+          "meaning": "n.非洲"
+        },
+        {
+          "word": "Oceania",
+          "meaning": "n.大洋洲"
+        },
+        {
+          "word": "Ireland",
+          "meaning": "n.爱尔兰"
+        },
+        {
+          "word": "consignment",
+          "meaning": "n.委托,货物"
+        },
+        {
+          "word": "beverage",
+          "meaning": "n. 饮料(汽水、茶、酒等)"
+        },
+        {
+          "word": "ration",
+          "meaning": "n.定量,配给量,正常量,合理的量 vt.限量供应"
+        },
+        {
+          "word": "interface",
+          "meaning": "n. 接合部位,分界面v. (使)互相联系"
+        },
+        {
+          "word": "worker",
+          "meaning": "n. 工人,工作者,工作人员"
+        },
+        {
+          "word": "Switzerland",
+          "meaning": "n.瑞士"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "Switzerland",
+          "explanation": "最后一个目标词是瑞士（Switzerland）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d075-2",
+      "title": "Understanding Suppression Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "A classification exercise at an island civic center compares suppression (the failure to develop some part or organ) with opal (a translucent mineral). Students at an island civic center summarize flake as a crystal of snow and soot as a black colloidal substance, then test new examples. At an island civic center, reluctance means physics opposition to magnetic flux analogous to electric resistance, whereas puppy means a young dog; separate examples prevent confusion. Researchers at an island civic center use snail for freshwater or marine or terrestrial gastropod mollusk, but reserve pony for a range horse of the western United States. To avoid ambiguity, an island civic center explains shape as any spatial attributes and assortment as a collection containing a variety of sorts of things.",
+      "translation": "岛屿市民中心的分类练习把镇压,压制（suppression）与蛋白石（opal）并列，要求学习者找出两者不同特征。岛屿市民中心的学生分别概括薄片（flake）与油烟,煤烟（soot），随后检验新实例是否符合定义。岛屿市民中心的课程分别解释不愿,勉强（reluctance）与小狗（puppy），避免学习者因定义不同而进行错误比较。岛屿市民中心的研究记录分别使用蜗牛（snail）和小马（pony）；由于含义不同，二者需要不同证据。为避免歧义，岛屿市民中心的教师分别说明形状,外形（shape）和花色品种（assortment），再用实例展示各自用法。",
+      "sentences": [
+        {
+          "en": "A classification exercise at an island civic center compares suppression (the failure to develop some part or organ) with opal (a translucent mineral).",
+          "zh": "岛屿市民中心的分类练习把镇压,压制（suppression）与蛋白石（opal）并列，要求学习者找出两者不同特征。"
+        },
+        {
+          "en": "Students at an island civic center summarize flake as a crystal of snow and soot as a black colloidal substance, then test new examples.",
+          "zh": "岛屿市民中心的学生分别概括薄片（flake）与油烟,煤烟（soot），随后检验新实例是否符合定义。"
+        },
+        {
+          "en": "At an island civic center, reluctance means physics opposition to magnetic flux analogous to electric resistance, whereas puppy means a young dog; separate examples prevent confusion.",
+          "zh": "岛屿市民中心的课程分别解释不愿,勉强（reluctance）与小狗（puppy），避免学习者因定义不同而进行错误比较。"
+        },
+        {
+          "en": "Researchers at an island civic center use snail for freshwater or marine or terrestrial gastropod mollusk, but reserve pony for a range horse of the western United States.",
+          "zh": "岛屿市民中心的研究记录分别使用蜗牛（snail）和小马（pony）；由于含义不同，二者需要不同证据。"
+        },
+        {
+          "en": "To avoid ambiguity, an island civic center explains shape as any spatial attributes and assortment as a collection containing a variety of sorts of things.",
+          "zh": "为避免歧义，岛屿市民中心的教师分别说明形状,外形（shape）和花色品种（assortment），再用实例展示各自用法。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "suppression",
+          "meaning": "n.镇压,压制"
+        },
+        {
+          "word": "opal",
+          "meaning": "n.蛋白石"
+        },
+        {
+          "word": "flake",
+          "meaning": "n./vi. 薄片;撒落"
+        },
+        {
+          "word": "soot",
+          "meaning": "n.油烟,煤烟"
+        },
+        {
+          "word": "reluctance",
+          "meaning": "n.不愿,勉强"
+        },
+        {
+          "word": "puppy",
+          "meaning": "n.小狗;幼小的动物"
+        },
+        {
+          "word": "snail",
+          "meaning": "n.蜗牛;行动缓慢的人"
+        },
+        {
+          "word": "pony",
+          "meaning": "n.小马"
+        },
+        {
+          "word": "shape",
+          "meaning": "n. 形状,外形;情况,状态;种类v. 成型,塑造"
+        },
+        {
+          "word": "assortment",
+          "meaning": "n.花色品种"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d075-3",
+      "title": "Why Photography Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "An open meeting at an island civic center joined practical questions about tactics (the branch of military science dealing with detailed maneuvers) with concerns about emancipation (freeing someone from the control of another). Before approving change at an island civic center, leaders must explain context (discourse) and risks involving calculation (the procedure of calculating). A proposal for an island civic center prioritizes affirmation (a statement asserting the existence or the truth of something), while critics emphasize negotiation (a discussion intended to produce an agreement). Public trust at an island civic center needs honest discussion of pricing (the evaluation of something in terms of its price) and measurable commitments on earnings (the excess of revenues over outlays in a given period). Funding choices at an island civic center require clear definitions of forestry (the science of planting and caring for forests) and photography (the act of taking and printing photographs).",
+      "translation": "岛屿市民中心的公开会议把有关策略,战术（tactics）的实际问题与解放（emancipation）带来的伦理问题一同讨论。批准岛屿市民中心的改变前，领导者应解释背景,环境（context）为何重要，以及谁承担计算,计算结果（calculation）带来的风险。岛屿市民中心的方案优先处理确定,确认（affirmation），批评者则认为谈判（negotiation）也应得到同等关注。岛屿市民中心要建立公众信任，就必须诚实讨论定价（pricing），并对工资,收入（earnings）作出可衡量承诺。岛屿市民中心的官员清楚定义林业（forestry）并解释方案如何回应摄影术（photography），资金选择才会更明白。",
+      "sentences": [
+        {
+          "en": "An open meeting at an island civic center joined practical questions about tactics (the branch of military science dealing with detailed maneuvers) with concerns about emancipation (freeing someone from the control of another).",
+          "zh": "岛屿市民中心的公开会议把有关策略,战术（tactics）的实际问题与解放（emancipation）带来的伦理问题一同讨论。"
+        },
+        {
+          "en": "Before approving change at an island civic center, leaders must explain context (discourse) and risks involving calculation (the procedure of calculating).",
+          "zh": "批准岛屿市民中心的改变前，领导者应解释背景,环境（context）为何重要，以及谁承担计算,计算结果（calculation）带来的风险。"
+        },
+        {
+          "en": "A proposal for an island civic center prioritizes affirmation (a statement asserting the existence or the truth of something), while critics emphasize negotiation (a discussion intended to produce an agreement).",
+          "zh": "岛屿市民中心的方案优先处理确定,确认（affirmation），批评者则认为谈判（negotiation）也应得到同等关注。"
+        },
+        {
+          "en": "Public trust at an island civic center needs honest discussion of pricing (the evaluation of something in terms of its price) and measurable commitments on earnings (the excess of revenues over outlays in a given period).",
+          "zh": "岛屿市民中心要建立公众信任，就必须诚实讨论定价（pricing），并对工资,收入（earnings）作出可衡量承诺。"
+        },
+        {
+          "en": "Funding choices at an island civic center require clear definitions of forestry (the science of planting and caring for forests) and photography (the act of taking and printing photographs).",
+          "zh": "岛屿市民中心的官员清楚定义林业（forestry）并解释方案如何回应摄影术（photography），资金选择才会更明白。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "tactics",
+          "meaning": "n. 策略,战术"
+        },
+        {
+          "word": "emancipation",
+          "meaning": "n.解放"
+        },
+        {
+          "word": "context",
+          "meaning": "n. 背景,环境;上下文"
+        },
+        {
+          "word": "calculation",
+          "meaning": "n.计算,计算结果"
+        },
+        {
+          "word": "affirmation",
+          "meaning": "n.确定,确认"
+        },
+        {
+          "word": "negotiation",
+          "meaning": "n.谈判"
+        },
+        {
+          "word": "pricing",
+          "meaning": "n.定价"
+        },
+        {
+          "word": "earnings",
+          "meaning": "n.工资,收入;收益"
+        },
+        {
+          "word": "forestry",
+          "meaning": "n.林业"
+        },
+        {
+          "word": "photography",
+          "meaning": "n.摄影术"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

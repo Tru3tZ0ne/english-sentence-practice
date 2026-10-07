@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 93,
+  "articles": [
+    {
+      "id": "cet4-reading-d093-1",
+      "title": "The Bumper File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "The morning program at a maritime craft district paired a section on pottery (ceramic ware) with one on courier (a person). When a shelf shifted at a maritime craft district, staff protected files on boutique (a shop) and graveyard (a tract of land used for burials). A visitor entered a maritime craft district asking about pharaoh (the title of the ancient Egyptian kings) and left with a note on kin (a person). Near closing time at a maritime craft district, a diary linked the displays of mire (a soft wet area of low-lying land) and rivet (ornament). A student at a maritime craft district photographed cynic—someone—and sketched bumper—a glass filled to the brim.",
+      "translation": "海事工艺街区的上午活动把陶器, 陶器场。（pottery）与另一项关于送快信的人, 旅行从仆。（courier）的展览相邻安排，但没有混淆两者。海事工艺街区的架子倒下时，员工保护了有关专卖流行衣服的小商店。（boutique）的材料，也找回了旁边关于墓地。（graveyard）的档案。访客到海事工艺街区询问法老王(古埃及君主称号), 暴君。（pharaoh），旧平面图却意外引导她发现了家属(集合称), 亲戚, 同族, 血缘关系, 家族。adj.有亲属关系的, 性质类似的, 同类的。（kin）。海事工艺街区闭馆前，一本提到泥潭。v.陷入。（mire）的日记帮助员工找到了一幅标有铆钉。v.固定。（rivet）的画的主人。学生在海事工艺街区记录愤世嫉俗者。（cynic）后，又到另一处展区了解缓冲器。（bumper），两项内容分别得到清楚说明。",
+      "sentences": [
+        {
+          "en": "The morning program at a maritime craft district paired a section on pottery (ceramic ware) with one on courier (a person).",
+          "zh": "海事工艺街区的上午活动把陶器, 陶器场。（pottery）与另一项关于送快信的人, 旅行从仆。（courier）的展览相邻安排，但没有混淆两者。"
+        },
+        {
+          "en": "When a shelf shifted at a maritime craft district, staff protected files on boutique (a shop) and graveyard (a tract of land used for burials).",
+          "zh": "海事工艺街区的架子倒下时，员工保护了有关专卖流行衣服的小商店。（boutique）的材料，也找回了旁边关于墓地。（graveyard）的档案。"
+        },
+        {
+          "en": "A visitor entered a maritime craft district asking about pharaoh (the title of the ancient Egyptian kings) and left with a note on kin (a person).",
+          "zh": "访客到海事工艺街区询问法老王(古埃及君主称号), 暴君。（pharaoh），旧平面图却意外引导她发现了家属(集合称), 亲戚, 同族, 血缘关系, 家族。adj.有亲属关系的, 性质类似的, 同类的。（kin）。"
+        },
+        {
+          "en": "Near closing time at a maritime craft district, a diary linked the displays of mire (a soft wet area of low-lying land) and rivet (ornament).",
+          "zh": "海事工艺街区闭馆前，一本提到泥潭。v.陷入。（mire）的日记帮助员工找到了一幅标有铆钉。v.固定。（rivet）的画的主人。"
+        },
+        {
+          "en": "A student at a maritime craft district photographed cynic—someone—and sketched bumper—a glass filled to the brim.",
+          "zh": "学生在海事工艺街区记录愤世嫉俗者。（cynic）后，又到另一处展区了解缓冲器。（bumper），两项内容分别得到清楚说明。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "pottery",
+          "meaning": "n.陶器, 陶器场。"
+        },
+        {
+          "word": "courier",
+          "meaning": "n.送快信的人, 旅行从仆。"
+        },
+        {
+          "word": "boutique",
+          "meaning": "n.专卖流行衣服的小商店。"
+        },
+        {
+          "word": "graveyard",
+          "meaning": "n.墓地。"
+        },
+        {
+          "word": "pharaoh",
+          "meaning": "n.法老王(古埃及君主称号), 暴君。"
+        },
+        {
+          "word": "kin",
+          "meaning": "n.家属(集合称), 亲戚, 同族, 血缘关系, 家族。adj.有亲属关系的, 性质类似的, 同类的。"
+        },
+        {
+          "word": "mire",
+          "meaning": "n.泥潭。v.陷入。"
+        },
+        {
+          "word": "rivet",
+          "meaning": "n.铆钉。v.固定。"
+        },
+        {
+          "word": "cynic",
+          "meaning": "n.愤世嫉俗者。"
+        },
+        {
+          "word": "bumper",
+          "meaning": "n.缓冲器。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "bumper",
+          "explanation": "最后一个目标词是缓冲器。（bumper）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d093-2",
+      "title": "Understanding Tornado Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "A chart in a maritime craft district defines tornado as a localized and violently destructive windstorm occurring over land and monsoon as a seasonal wind in southern Asia on different branches. The handbook at a maritime craft district introduces thaw—the process whereby heat changes something from a solid—before innards—internal organs collectively. The glossary at a maritime craft district defines secretion as the organic process of synthesizing and releasing some substance and cross-references payroll, meaning a list of employees and their salaries. By separating extinguisher (a manually operated device for extinguishing small fires) from onus (an onerous or difficult concern), a maritime craft district turns definitions into usable knowledge. Students at a maritime craft district summarize memento as a reminder of past events and fester as a sore, then test new examples.",
+      "translation": "海事工艺街区的图表把旋风, 龙卷风, 大雷雨, 具有巨大破坏性的人(或事物)。[军] (狂风) 英国、德国、意大利三国合作研制的双座双发超音速变后掠翼战斗机。（tornado）和季候风, (印度等地的)雨季, 季风。（monsoon）放在不同分支，让读者清楚看见两者区别。海事工艺街区的手册先介绍解冻。（thaw），再补充需要更多背景的<口>内脏。（innards）。海事工艺街区的词汇表定义分泌, 分泌物(液)。（secretion），并以交叉索引引导读者查看薪水册。（payroll），但不把二者视为相同。海事工艺街区把熄灭者, 灭火器。（extinguisher）与责任, 负担。（onus）分开考察，使两个陌生概念转化为可使用的知识。海事工艺街区的学生分别概括纪念品。（memento）与脓疮。vi.溃烂, 化脓。vt.使烦恼, 使溃烂（fester），随后检验新实例是否符合定义。",
+      "sentences": [
+        {
+          "en": "A chart in a maritime craft district defines tornado as a localized and violently destructive windstorm occurring over land and monsoon as a seasonal wind in southern Asia on different branches.",
+          "zh": "海事工艺街区的图表把旋风, 龙卷风, 大雷雨, 具有巨大破坏性的人(或事物)。[军] (狂风) 英国、德国、意大利三国合作研制的双座双发超音速变后掠翼战斗机。（tornado）和季候风, (印度等地的)雨季, 季风。（monsoon）放在不同分支，让读者清楚看见两者区别。"
+        },
+        {
+          "en": "The handbook at a maritime craft district introduces thaw—the process whereby heat changes something from a solid—before innards—internal organs collectively.",
+          "zh": "海事工艺街区的手册先介绍解冻。（thaw），再补充需要更多背景的<口>内脏。（innards）。"
+        },
+        {
+          "en": "The glossary at a maritime craft district defines secretion as the organic process of synthesizing and releasing some substance and cross-references payroll, meaning a list of employees and their salaries.",
+          "zh": "海事工艺街区的词汇表定义分泌, 分泌物(液)。（secretion），并以交叉索引引导读者查看薪水册。（payroll），但不把二者视为相同。"
+        },
+        {
+          "en": "By separating extinguisher (a manually operated device for extinguishing small fires) from onus (an onerous or difficult concern), a maritime craft district turns definitions into usable knowledge.",
+          "zh": "海事工艺街区把熄灭者, 灭火器。（extinguisher）与责任, 负担。（onus）分开考察，使两个陌生概念转化为可使用的知识。"
+        },
+        {
+          "en": "Students at a maritime craft district summarize memento as a reminder of past events and fester as a sore, then test new examples.",
+          "zh": "海事工艺街区的学生分别概括纪念品。（memento）与脓疮。vi.溃烂, 化脓。vt.使烦恼, 使溃烂（fester），随后检验新实例是否符合定义。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "tornado",
+          "meaning": "n.旋风, 龙卷风, 大雷雨, 具有巨大破坏性的人(或事物)。[军] (狂风) 英国、德国、意大利三国合作研制的双座双发超音速变后掠翼战斗机。"
+        },
+        {
+          "word": "monsoon",
+          "meaning": "n.季候风, (印度等地的)雨季, 季风。"
+        },
+        {
+          "word": "thaw",
+          "meaning": "n.解冻。"
+        },
+        {
+          "word": "innards",
+          "meaning": "n.<口>内脏。"
+        },
+        {
+          "word": "secretion",
+          "meaning": "n.分泌, 分泌物(液)。"
+        },
+        {
+          "word": "payroll",
+          "meaning": "n.薪水册。"
+        },
+        {
+          "word": "extinguisher",
+          "meaning": "n.熄灭者, 灭火器。"
+        },
+        {
+          "word": "onus",
+          "meaning": "n.责任, 负担。"
+        },
+        {
+          "word": "memento",
+          "meaning": "n.纪念品。"
+        },
+        {
+          "word": "fester",
+          "meaning": "n.脓疮。vi.溃烂, 化脓。vt.使烦恼, 使溃烂"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d093-3",
+      "title": "Why Anthology Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "A forum at a maritime craft district considered perplexity (trouble or confusion) alongside propriety (correct or appropriate behavior) before setting priorities. Public trust at a maritime craft district needs honest discussion of gimmick (a drawback or difficulty) and measurable commitments on piracy (hijacking on the high seas or in similar contexts). Before approving change at a maritime craft district, leaders must explain rumour (gossip) and risks involving overture (orchestral music played at the beginning of an opera). Policy at a maritime craft district should address intake—the process of taking food into the body through—without ignoring festivity—any joyous diversion. The strongest argument at a maritime craft district supported homicide (the killing of a human being by another human being) but demanded safeguards for anthology (a collection of selected literary passages).",
+      "translation": "海事工艺街区的公开论坛同时考虑困惑混乱。（perplexity）与适当。（propriety），并讨论哪一项更需要优先行动。海事工艺街区要建立公众信任，就必须诚实讨论暗机关。vt.使暗机关。（gimmick），并对海盗行为, 侵犯版权, 非法翻印。盗版。（piracy）作出可衡量承诺。批准海事工艺街区的改变前，领导者应解释亦作rumor] 谣言, 传闻。v.谣传。（rumour）为何重要，以及谁承担建议。（overture）带来的风险。海事工艺街区的政策应处理(水管、煤气管等的)入口, 进口, 通风口, (在一定期间的)引入的量。（intake），也不能忽视欢宴, 欢庆。（festivity）；两者都需要证据而非口号。海事工艺街区最有力的论证支持处理杀人, 杀人者。（homicide），同时要求在诗选, 文选。（anthology）受影响时设置保障。",
+      "sentences": [
+        {
+          "en": "A forum at a maritime craft district considered perplexity (trouble or confusion) alongside propriety (correct or appropriate behavior) before setting priorities.",
+          "zh": "海事工艺街区的公开论坛同时考虑困惑混乱。（perplexity）与适当。（propriety），并讨论哪一项更需要优先行动。"
+        },
+        {
+          "en": "Public trust at a maritime craft district needs honest discussion of gimmick (a drawback or difficulty) and measurable commitments on piracy (hijacking on the high seas or in similar contexts).",
+          "zh": "海事工艺街区要建立公众信任，就必须诚实讨论暗机关。vt.使暗机关。（gimmick），并对海盗行为, 侵犯版权, 非法翻印。盗版。（piracy）作出可衡量承诺。"
+        },
+        {
+          "en": "Before approving change at a maritime craft district, leaders must explain rumour (gossip) and risks involving overture (orchestral music played at the beginning of an opera).",
+          "zh": "批准海事工艺街区的改变前，领导者应解释亦作rumor] 谣言, 传闻。v.谣传。（rumour）为何重要，以及谁承担建议。（overture）带来的风险。"
+        },
+        {
+          "en": "Policy at a maritime craft district should address intake—the process of taking food into the body through—without ignoring festivity—any joyous diversion.",
+          "zh": "海事工艺街区的政策应处理(水管、煤气管等的)入口, 进口, 通风口, (在一定期间的)引入的量。（intake），也不能忽视欢宴, 欢庆。（festivity）；两者都需要证据而非口号。"
+        },
+        {
+          "en": "The strongest argument at a maritime craft district supported homicide (the killing of a human being by another human being) but demanded safeguards for anthology (a collection of selected literary passages).",
+          "zh": "海事工艺街区最有力的论证支持处理杀人, 杀人者。（homicide），同时要求在诗选, 文选。（anthology）受影响时设置保障。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "perplexity",
+          "meaning": "n.困惑混乱。"
+        },
+        {
+          "word": "propriety",
+          "meaning": "n.适当。"
+        },
+        {
+          "word": "gimmick",
+          "meaning": "n.暗机关。vt.使暗机关。"
+        },
+        {
+          "word": "piracy",
+          "meaning": "n.海盗行为, 侵犯版权, 非法翻印。盗版。"
+        },
+        {
+          "word": "rumour",
+          "meaning": "n.[亦作rumor] 谣言, 传闻。v.谣传。"
+        },
+        {
+          "word": "overture",
+          "meaning": "n.建议。"
+        },
+        {
+          "word": "intake",
+          "meaning": "n.(水管、煤气管等的)入口, 进口, 通风口, (在一定期间的)引入的量。"
+        },
+        {
+          "word": "festivity",
+          "meaning": "n.欢宴, 欢庆。"
+        },
+        {
+          "word": "homicide",
+          "meaning": "n.杀人, 杀人者。"
+        },
+        {
+          "word": "anthology",
+          "meaning": "n.诗选, 文选。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

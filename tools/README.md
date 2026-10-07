@@ -25,3 +25,11 @@
 旧生成方式存在跨主题复用、笛卡尔组合、硬截断和语法搭配问题。未来如需恢复辅助工具，应先改为只输出独立草稿目录，进行逐题审校和质量检查后再发布，不能把随机组合直接作为正式题库。
 
 2026-10-04 原始题库备份与审查结果见 [审查报告](../reviews/2026-10-04/REVIEW.md)。
+
+`author_readings_041_095.py` 只使用 WordNet 的非生成式词典数据做词义分类，
+不调用外部或本地 LLM。首次重建这一批阅读前需安装开发依赖，并下载词典数据：
+
+```powershell
+python -m pip install -r tools/requirements.txt
+python -m nltk.downloader wordnet
+```

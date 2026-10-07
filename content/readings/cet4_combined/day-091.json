@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 91,
+  "articles": [
+    {
+      "id": "cet4-reading-d091-1",
+      "title": "The Glacier File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "Inside a university aquarium, the curator corrected labels for statistician (a mathematician) and bugbear (an imaginary monster used to frighten children). During a tour of a university aquarium, the class found postgraduate (a student) before locating bursar (the treasurer at a college or university). A visitor entered a university aquarium asking about membrane (a thin pliable sheet of material) and left with a note on aquarium (a tank or pool or bowl filled with water). Rain kept a family inside a university aquarium, learning about itinerary (an established line of travel or access) and suburbia (a residential district located on the outskirts of a city). The newest room at a university aquarium began with bookstall (a shop) and ended with glacier (a slowly moving mass of ice).",
+      "translation": "大学水族馆的策展人先纠正统计员, 统计学家。（statistician）的标签错误，随后发现关于怪物, 吓人的东西。（bugbear）的材料也放错了位置。大学水族馆的参观先让学生认识研究所学生, 研究生。adj.毕业后的。（postgraduate）；一块丢失的标牌又把他们带到(大学的)会计, (苏格兰大学)得奖学金的学生。（bursar）。访客到大学水族馆询问膜, 隔膜。（membrane），旧平面图却意外引导她发现了养鱼池, 玻璃缸, 水族馆。（aquarium）。雨天让一家人留在大学水族馆，一个孩子学习路线。（itinerary），另一个孩子则操作与郊区, 郊区居民。（suburbia）有关的模型。大学水族馆最新展厅从书报摊。（bookstall）开始，以一个出人意料的本地冰河。（glacier）实例结束。",
+      "sentences": [
+        {
+          "en": "Inside a university aquarium, the curator corrected labels for statistician (a mathematician) and bugbear (an imaginary monster used to frighten children).",
+          "zh": "大学水族馆的策展人先纠正统计员, 统计学家。（statistician）的标签错误，随后发现关于怪物, 吓人的东西。（bugbear）的材料也放错了位置。"
+        },
+        {
+          "en": "During a tour of a university aquarium, the class found postgraduate (a student) before locating bursar (the treasurer at a college or university).",
+          "zh": "大学水族馆的参观先让学生认识研究所学生, 研究生。adj.毕业后的。（postgraduate）；一块丢失的标牌又把他们带到(大学的)会计, (苏格兰大学)得奖学金的学生。（bursar）。"
+        },
+        {
+          "en": "A visitor entered a university aquarium asking about membrane (a thin pliable sheet of material) and left with a note on aquarium (a tank or pool or bowl filled with water).",
+          "zh": "访客到大学水族馆询问膜, 隔膜。（membrane），旧平面图却意外引导她发现了养鱼池, 玻璃缸, 水族馆。（aquarium）。"
+        },
+        {
+          "en": "Rain kept a family inside a university aquarium, learning about itinerary (an established line of travel or access) and suburbia (a residential district located on the outskirts of a city).",
+          "zh": "雨天让一家人留在大学水族馆，一个孩子学习路线。（itinerary），另一个孩子则操作与郊区, 郊区居民。（suburbia）有关的模型。"
+        },
+        {
+          "en": "The newest room at a university aquarium began with bookstall (a shop) and ended with glacier (a slowly moving mass of ice).",
+          "zh": "大学水族馆最新展厅从书报摊。（bookstall）开始，以一个出人意料的本地冰河。（glacier）实例结束。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "statistician",
+          "meaning": "n.统计员, 统计学家。"
+        },
+        {
+          "word": "bugbear",
+          "meaning": "n.怪物, 吓人的东西。"
+        },
+        {
+          "word": "postgraduate",
+          "meaning": "n.研究所学生, 研究生。adj.毕业后的。"
+        },
+        {
+          "word": "bursar",
+          "meaning": "n.(大学的)会计, (苏格兰大学)得奖学金的学生。"
+        },
+        {
+          "word": "membrane",
+          "meaning": "n.膜, 隔膜。"
+        },
+        {
+          "word": "aquarium",
+          "meaning": "n.养鱼池, 玻璃缸, 水族馆。"
+        },
+        {
+          "word": "itinerary",
+          "meaning": "n.路线。"
+        },
+        {
+          "word": "suburbia",
+          "meaning": "n.郊区, 郊区居民。"
+        },
+        {
+          "word": "bookstall",
+          "meaning": "n.书报摊。"
+        },
+        {
+          "word": "glacier",
+          "meaning": "n.冰河。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "glacier",
+          "explanation": "最后一个目标词是冰河。（glacier）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d091-2",
+      "title": "Understanding Dinosaur Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "At a university aquarium, dinosaur means any of numerous extinct terrestrial reptiles of the Mesozoic era, whereas macaque means short-tailed monkey of rocky regions of Asia and Africa; separate examples prevent confusion. To avoid ambiguity, a university aquarium explains phosphorus as a multivalent nonmetallic element of the nitrogen family and petal as part of the perianth. Field notes from a university aquarium distinguish larynx (a cartilaginous structure at the top of the trachea) from thyroid (located near the base of the neck). Researchers at a university aquarium use lotus for native to eastern Asia, but reserve fume for a cloud of fine particles suspended in a gas. A demonstration at a university aquarium makes ignition (the process of initiating combustion or catching fire) concrete before explaining ransom (money demanded for the return of a captured person).",
+      "translation": "大学水族馆的课程分别解释恐龙。（dinosaur）与短尾猿。（macaque），避免学习者因定义不同而进行错误比较。为避免歧义，大学水族馆的教师分别说明磷。（phosphorus）和花瓣。（petal），再用实例展示各自用法。大学水族馆的野外记录严格区分解] 喉。（larynx）和甲状腺, 甲状软骨。（thyroid），使记录保持准确。大学水族馆的研究记录分别使用植]莲属。 荷(花), 莲(花)。 睡莲。adj.贪图安乐的（lotus）和(浓烈或难闻的)烟, 气体, 一阵愤怒(或不安)。v.用烟熏, 冒烟, 发怒。（fume）；由于含义不同，二者需要不同证据。大学水族馆的简短演示先让点火, 点燃。（ignition）具体可见，再用第二个实例解释敲诈, 勒索。vt.赎回, 勒索赎金。（ransom）。",
+      "sentences": [
+        {
+          "en": "At a university aquarium, dinosaur means any of numerous extinct terrestrial reptiles of the Mesozoic era, whereas macaque means short-tailed monkey of rocky regions of Asia and Africa; separate examples prevent confusion.",
+          "zh": "大学水族馆的课程分别解释恐龙。（dinosaur）与短尾猿。（macaque），避免学习者因定义不同而进行错误比较。"
+        },
+        {
+          "en": "To avoid ambiguity, a university aquarium explains phosphorus as a multivalent nonmetallic element of the nitrogen family and petal as part of the perianth.",
+          "zh": "为避免歧义，大学水族馆的教师分别说明磷。（phosphorus）和花瓣。（petal），再用实例展示各自用法。"
+        },
+        {
+          "en": "Field notes from a university aquarium distinguish larynx (a cartilaginous structure at the top of the trachea) from thyroid (located near the base of the neck).",
+          "zh": "大学水族馆的野外记录严格区分解] 喉。（larynx）和甲状腺, 甲状软骨。（thyroid），使记录保持准确。"
+        },
+        {
+          "en": "Researchers at a university aquarium use lotus for native to eastern Asia, but reserve fume for a cloud of fine particles suspended in a gas.",
+          "zh": "大学水族馆的研究记录分别使用植]莲属。 荷(花), 莲(花)。 睡莲。adj.贪图安乐的（lotus）和(浓烈或难闻的)烟, 气体, 一阵愤怒(或不安)。v.用烟熏, 冒烟, 发怒。（fume）；由于含义不同，二者需要不同证据。"
+        },
+        {
+          "en": "A demonstration at a university aquarium makes ignition (the process of initiating combustion or catching fire) concrete before explaining ransom (money demanded for the return of a captured person).",
+          "zh": "大学水族馆的简短演示先让点火, 点燃。（ignition）具体可见，再用第二个实例解释敲诈, 勒索。vt.赎回, 勒索赎金。（ransom）。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "dinosaur",
+          "meaning": "n.恐龙。"
+        },
+        {
+          "word": "macaque",
+          "meaning": "n.短尾猿。"
+        },
+        {
+          "word": "phosphorus",
+          "meaning": "n.磷。"
+        },
+        {
+          "word": "petal",
+          "meaning": "n.花瓣。"
+        },
+        {
+          "word": "larynx",
+          "meaning": "n.[解] 喉。"
+        },
+        {
+          "word": "thyroid",
+          "meaning": "n.甲状腺, 甲状软骨。"
+        },
+        {
+          "word": "lotus",
+          "meaning": "n.[植]莲属。 荷(花), 莲(花)。 睡莲。adj.贪图安乐的"
+        },
+        {
+          "word": "fume",
+          "meaning": "n.(浓烈或难闻的)烟, 气体, 一阵愤怒(或不安)。v.用烟熏, 冒烟, 发怒。"
+        },
+        {
+          "word": "ignition",
+          "meaning": "n.点火, 点燃。"
+        },
+        {
+          "word": "ransom",
+          "meaning": "n.敲诈, 勒索。vt.赎回, 勒索赎金。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d091-3",
+      "title": "Why Trauma Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "A forum at a university aquarium considered prologue (an introduction to a play) alongside instalment (a part of a broadcast serial) before setting priorities. A review panel at a university aquarium rejected claims that masquerade (a party of guests wearing costumes and masks) automatically outweighed piety (righteousness by virtue of being pious). Policy at a university aquarium should address grid—a pattern of regularly spaced horizontal and vertical lines—without ignoring acidity—the property of being acidic. Decision makers at a university aquarium cannot evaluate cartography (the making of maps and charts) while excluding dogma (a religious doctrine). Public trust at a university aquarium needs honest discussion of impromptu (an extemporaneous speech or remark) and measurable commitments on trauma (any physical damage to the body caused by violence).",
+      "translation": "大学水族馆的公开论坛同时考虑序言。（prologue）与分期付款, 就职, 装设。（instalment），并讨论哪一项更需要优先行动。大学水族馆的审查小组拒绝在缺乏地方证据时认定化妆舞会。v.化装。（masquerade）天然比虔诚, 孝行。（piety）更重要。大学水族馆的政策应处理格子, 栅格。（grid），也不能忽视酸度, 酸性, [医]酸过多, 胃酸过多。（acidity）；两者都需要证据而非口号。大学水族馆的决策者不能只评估绘图法。（cartography），却把教条。（dogma）排除在公开证据之外。大学水族馆要建立公众信任，就必须诚实讨论即席演出, 即兴曲。adj.即席的。adv.即席地, 未经准备地（impromptu），并对医] 外伤, 损伤。（trauma）作出可衡量承诺。",
+      "sentences": [
+        {
+          "en": "A forum at a university aquarium considered prologue (an introduction to a play) alongside instalment (a part of a broadcast serial) before setting priorities.",
+          "zh": "大学水族馆的公开论坛同时考虑序言。（prologue）与分期付款, 就职, 装设。（instalment），并讨论哪一项更需要优先行动。"
+        },
+        {
+          "en": "A review panel at a university aquarium rejected claims that masquerade (a party of guests wearing costumes and masks) automatically outweighed piety (righteousness by virtue of being pious).",
+          "zh": "大学水族馆的审查小组拒绝在缺乏地方证据时认定化妆舞会。v.化装。（masquerade）天然比虔诚, 孝行。（piety）更重要。"
+        },
+        {
+          "en": "Policy at a university aquarium should address grid—a pattern of regularly spaced horizontal and vertical lines—without ignoring acidity—the property of being acidic.",
+          "zh": "大学水族馆的政策应处理格子, 栅格。（grid），也不能忽视酸度, 酸性, [医]酸过多, 胃酸过多。（acidity）；两者都需要证据而非口号。"
+        },
+        {
+          "en": "Decision makers at a university aquarium cannot evaluate cartography (the making of maps and charts) while excluding dogma (a religious doctrine).",
+          "zh": "大学水族馆的决策者不能只评估绘图法。（cartography），却把教条。（dogma）排除在公开证据之外。"
+        },
+        {
+          "en": "Public trust at a university aquarium needs honest discussion of impromptu (an extemporaneous speech or remark) and measurable commitments on trauma (any physical damage to the body caused by violence).",
+          "zh": "大学水族馆要建立公众信任，就必须诚实讨论即席演出, 即兴曲。adj.即席的。adv.即席地, 未经准备地（impromptu），并对医] 外伤, 损伤。（trauma）作出可衡量承诺。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "prologue",
+          "meaning": "n.序言。"
+        },
+        {
+          "word": "instalment",
+          "meaning": "n.分期付款, 就职, 装设。"
+        },
+        {
+          "word": "masquerade",
+          "meaning": "n.化妆舞会。v.化装。"
+        },
+        {
+          "word": "piety",
+          "meaning": "n.虔诚, 孝行。"
+        },
+        {
+          "word": "grid",
+          "meaning": "n.格子, 栅格。"
+        },
+        {
+          "word": "acidity",
+          "meaning": "n.酸度, 酸性, [医]酸过多, 胃酸过多。"
+        },
+        {
+          "word": "cartography",
+          "meaning": "n.绘图法。"
+        },
+        {
+          "word": "dogma",
+          "meaning": "n.教条。"
+        },
+        {
+          "word": "impromptu",
+          "meaning": "n.即席演出, 即兴曲。adj.即席的。adv.即席地, 未经准备地"
+        },
+        {
+          "word": "trauma",
+          "meaning": "n.[医] 外伤, 损伤。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 85,
+  "articles": [
+    {
+      "id": "cet4-reading-d085-1",
+      "title": "The Patio File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "At an ecosystem design college, a guide explained carp (the lean flesh of a fish) beside a display of counselor (someone). Two volunteers at an ecosystem design college used the inventory to identify incinerator (a furnace for incinerating) and proxy (a person authorized to act for another). Inside an ecosystem design college, the curator corrected labels for lexicographer (a compiler or writer of a dictionary) and paraphernalia (equipment). Rain kept a family inside an ecosystem design college, learning about nomad (a member of a people) and carousel (a conveyer belt). Near closing time at an ecosystem design college, a diary linked the displays of odometer (a meter) and patio (usually paved outdoor area adjoining a residence).",
+      "translation": "在生态设计学院的参观过程中，讲解员先介绍鲤鱼。vi.吹毛求疵。（carp），随后带大家找到另一项独立展品顾问, 法律顾问。（counselor）。生态设计学院的两名志愿者借助清单确认焚化装置, 焚化炉, 焚尸炉。（incinerator），并顺带找到另一条关于代理人（proxy）的记录。生态设计学院的策展人先纠正词典编纂者。（lexicographer）的标签错误，随后发现关于随身用具。（paraphernalia）的材料也放错了位置。雨天让一家人留在生态设计学院，一个孩子学习游牧部落的人, 流浪者, 游牧民。adj.游牧的（nomad），另一个孩子则操作与喧闹的酒会。（carousel）有关的模型。生态设计学院闭馆前，一本提到<美>(汽车等的)里程表。（odometer）的日记帮助员工找到了一幅标有天井, 院子。（patio）的画的主人。",
+      "sentences": [
+        {
+          "en": "At an ecosystem design college, a guide explained carp (the lean flesh of a fish) beside a display of counselor (someone).",
+          "zh": "在生态设计学院的参观过程中，讲解员先介绍鲤鱼。vi.吹毛求疵。（carp），随后带大家找到另一项独立展品顾问, 法律顾问。（counselor）。"
+        },
+        {
+          "en": "Two volunteers at an ecosystem design college used the inventory to identify incinerator (a furnace for incinerating) and proxy (a person authorized to act for another).",
+          "zh": "生态设计学院的两名志愿者借助清单确认焚化装置, 焚化炉, 焚尸炉。（incinerator），并顺带找到另一条关于代理人（proxy）的记录。"
+        },
+        {
+          "en": "Inside an ecosystem design college, the curator corrected labels for lexicographer (a compiler or writer of a dictionary) and paraphernalia (equipment).",
+          "zh": "生态设计学院的策展人先纠正词典编纂者。（lexicographer）的标签错误，随后发现关于随身用具。（paraphernalia）的材料也放错了位置。"
+        },
+        {
+          "en": "Rain kept a family inside an ecosystem design college, learning about nomad (a member of a people) and carousel (a conveyer belt).",
+          "zh": "雨天让一家人留在生态设计学院，一个孩子学习游牧部落的人, 流浪者, 游牧民。adj.游牧的（nomad），另一个孩子则操作与喧闹的酒会。（carousel）有关的模型。"
+        },
+        {
+          "en": "Near closing time at an ecosystem design college, a diary linked the displays of odometer (a meter) and patio (usually paved outdoor area adjoining a residence).",
+          "zh": "生态设计学院闭馆前，一本提到<美>(汽车等的)里程表。（odometer）的日记帮助员工找到了一幅标有天井, 院子。（patio）的画的主人。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "carp",
+          "meaning": "n.鲤鱼。vi.吹毛求疵。"
+        },
+        {
+          "word": "counselor",
+          "meaning": "n.顾问, 法律顾问。"
+        },
+        {
+          "word": "incinerator",
+          "meaning": "n.焚化装置, 焚化炉, 焚尸炉。"
+        },
+        {
+          "word": "proxy",
+          "meaning": "n.代理人"
+        },
+        {
+          "word": "lexicographer",
+          "meaning": "n.词典编纂者。"
+        },
+        {
+          "word": "paraphernalia",
+          "meaning": "n.随身用具。"
+        },
+        {
+          "word": "nomad",
+          "meaning": "n.游牧部落的人, 流浪者, 游牧民。adj.游牧的"
+        },
+        {
+          "word": "carousel",
+          "meaning": "n.喧闹的酒会。"
+        },
+        {
+          "word": "odometer",
+          "meaning": "n.<美>(汽车等的)里程表。"
+        },
+        {
+          "word": "patio",
+          "meaning": "n.天井, 院子。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "patio",
+          "explanation": "最后一个目标词是天井, 院子。（patio）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d085-2",
+      "title": "Understanding Mirage Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "Students at an ecosystem design college summarize mirage as an optical illusion and platypus as small densely furred aquatic monotreme of Australia and Tasmania, then test new examples. The handbook at an ecosystem design college introduces pollutant—waste matter—before almond—small bushy deciduous tree native to Asia and North Africa. Researchers at an ecosystem design college use cartilage for tough elastic tissue, but reserve aerodynamics for the branch of mechanics. At an ecosystem design college, placard means a sign posted in a public place as an advertisement, whereas ecosystem means a system formed by the interaction of a community; separate examples prevent confusion. By separating paralysis (loss of the ability to move a body part) from lexicography (the act of writing dictionaries), an ecosystem design college turns definitions into usable knowledge.",
+      "translation": "生态设计学院的学生分别概括海市蜃楼, 雾气, 幻想, 妄想。（mirage）与动]鸭嘴兽。（platypus），随后检验新实例是否符合定义。生态设计学院的手册先介绍污染物质。（pollutant），再补充需要更多背景的植]杏树, 杏仁, 杏仁壮物。（almond）。生态设计学院的研究记录分别使用解剖]软骨。（cartilage）和空气动力学, 气体力学。（aerodynamics）；由于含义不同，二者需要不同证据。生态设计学院的课程分别解释布告。v.张贴。（placard）与生态系统。（ecosystem），避免学习者因定义不同而进行错误比较。生态设计学院把瘫痪, 麻痹。（paralysis）与词典编纂。（lexicography）分开考察，使两个陌生概念转化为可使用的知识。",
+      "sentences": [
+        {
+          "en": "Students at an ecosystem design college summarize mirage as an optical illusion and platypus as small densely furred aquatic monotreme of Australia and Tasmania, then test new examples.",
+          "zh": "生态设计学院的学生分别概括海市蜃楼, 雾气, 幻想, 妄想。（mirage）与动]鸭嘴兽。（platypus），随后检验新实例是否符合定义。"
+        },
+        {
+          "en": "The handbook at an ecosystem design college introduces pollutant—waste matter—before almond—small bushy deciduous tree native to Asia and North Africa.",
+          "zh": "生态设计学院的手册先介绍污染物质。（pollutant），再补充需要更多背景的植]杏树, 杏仁, 杏仁壮物。（almond）。"
+        },
+        {
+          "en": "Researchers at an ecosystem design college use cartilage for tough elastic tissue, but reserve aerodynamics for the branch of mechanics.",
+          "zh": "生态设计学院的研究记录分别使用解剖]软骨。（cartilage）和空气动力学, 气体力学。（aerodynamics）；由于含义不同，二者需要不同证据。"
+        },
+        {
+          "en": "At an ecosystem design college, placard means a sign posted in a public place as an advertisement, whereas ecosystem means a system formed by the interaction of a community; separate examples prevent confusion.",
+          "zh": "生态设计学院的课程分别解释布告。v.张贴。（placard）与生态系统。（ecosystem），避免学习者因定义不同而进行错误比较。"
+        },
+        {
+          "en": "By separating paralysis (loss of the ability to move a body part) from lexicography (the act of writing dictionaries), an ecosystem design college turns definitions into usable knowledge.",
+          "zh": "生态设计学院把瘫痪, 麻痹。（paralysis）与词典编纂。（lexicography）分开考察，使两个陌生概念转化为可使用的知识。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "mirage",
+          "meaning": "n.海市蜃楼, 雾气, 幻想, 妄想。"
+        },
+        {
+          "word": "platypus",
+          "meaning": "n.[动]鸭嘴兽。"
+        },
+        {
+          "word": "pollutant",
+          "meaning": "n.污染物质。"
+        },
+        {
+          "word": "almond",
+          "meaning": "n.[植]杏树, 杏仁, 杏仁壮物。"
+        },
+        {
+          "word": "cartilage",
+          "meaning": "n.[解剖]软骨。"
+        },
+        {
+          "word": "aerodynamics",
+          "meaning": "n.空气动力学, 气体力学。"
+        },
+        {
+          "word": "placard",
+          "meaning": "n.布告。v.张贴。"
+        },
+        {
+          "word": "ecosystem",
+          "meaning": "n.生态系统。"
+        },
+        {
+          "word": "paralysis",
+          "meaning": "n.瘫痪, 麻痹。"
+        },
+        {
+          "word": "lexicography",
+          "meaning": "n.词典编纂。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d085-3",
+      "title": "Why Renovation Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "Public trust at an ecosystem design college needs honest discussion of trophy (an award for success in war or hunting) and measurable commitments on fallacy (a misconception). Policy at an ecosystem design college should address audition—the ability to hear—without ignoring monologue—speech you make to yourself. Long-term planning at an ecosystem design college needs indicators for meteorology (predicting what the weather will be) and independent scrutiny of mantle (the cloak as a symbol of authority). An open meeting at an ecosystem design college joined practical questions about overweight (the property of excessive fatness) with concerns about anthem (a song of devotion or loyalty). Residents near an ecosystem design college debated rubric (an authoritative rule of conduct or procedure) and renovation (the act of improving by renewing and restoring), then requested written evidence.",
+      "translation": "生态设计学院要建立公众信任，就必须诚实讨论战利品, 奖品。vt.用战利品装饰, 授予...奖品。（trophy），并对谬误, 谬论。（fallacy）作出可衡量承诺。生态设计学院的政策应处理听, 听力, 试听。（audition），也不能忽视独白, 独脚戏。（monologue）；两者都需要证据而非口号。生态设计学院的长期规划应公布气象学, 气象状态。（meteorology）指标，也应允许独立人员审查有关斗蓬, 覆盖物, 壁炉架。v.披风, 覆盖。（mantle）的主张。生态设计学院的公开会议把有关超重。（overweight）的实际问题与圣歌, 赞美诗。（anthem）带来的伦理问题一同讨论。生态设计学院附近居民讨论印]红字, 红色印刷, 题目。（rubric）和革新。（renovation）后，要求书面说明成本与责任。",
+      "sentences": [
+        {
+          "en": "Public trust at an ecosystem design college needs honest discussion of trophy (an award for success in war or hunting) and measurable commitments on fallacy (a misconception).",
+          "zh": "生态设计学院要建立公众信任，就必须诚实讨论战利品, 奖品。vt.用战利品装饰, 授予...奖品。（trophy），并对谬误, 谬论。（fallacy）作出可衡量承诺。"
+        },
+        {
+          "en": "Policy at an ecosystem design college should address audition—the ability to hear—without ignoring monologue—speech you make to yourself.",
+          "zh": "生态设计学院的政策应处理听, 听力, 试听。（audition），也不能忽视独白, 独脚戏。（monologue）；两者都需要证据而非口号。"
+        },
+        {
+          "en": "Long-term planning at an ecosystem design college needs indicators for meteorology (predicting what the weather will be) and independent scrutiny of mantle (the cloak as a symbol of authority).",
+          "zh": "生态设计学院的长期规划应公布气象学, 气象状态。（meteorology）指标，也应允许独立人员审查有关斗蓬, 覆盖物, 壁炉架。v.披风, 覆盖。（mantle）的主张。"
+        },
+        {
+          "en": "An open meeting at an ecosystem design college joined practical questions about overweight (the property of excessive fatness) with concerns about anthem (a song of devotion or loyalty).",
+          "zh": "生态设计学院的公开会议把有关超重。（overweight）的实际问题与圣歌, 赞美诗。（anthem）带来的伦理问题一同讨论。"
+        },
+        {
+          "en": "Residents near an ecosystem design college debated rubric (an authoritative rule of conduct or procedure) and renovation (the act of improving by renewing and restoring), then requested written evidence.",
+          "zh": "生态设计学院附近居民讨论印]红字, 红色印刷, 题目。（rubric）和革新。（renovation）后，要求书面说明成本与责任。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "trophy",
+          "meaning": "n.战利品, 奖品。vt.用战利品装饰, 授予...奖品。"
+        },
+        {
+          "word": "fallacy",
+          "meaning": "n.谬误, 谬论。"
+        },
+        {
+          "word": "audition",
+          "meaning": "n.听, 听力, 试听。"
+        },
+        {
+          "word": "monologue",
+          "meaning": "n.独白, 独脚戏。"
+        },
+        {
+          "word": "meteorology",
+          "meaning": "n.气象学, 气象状态。"
+        },
+        {
+          "word": "mantle",
+          "meaning": "n.斗蓬, 覆盖物, 壁炉架。v.披风, 覆盖。"
+        },
+        {
+          "word": "overweight",
+          "meaning": "n.超重。"
+        },
+        {
+          "word": "anthem",
+          "meaning": "n.圣歌, 赞美诗。"
+        },
+        {
+          "word": "rubric",
+          "meaning": "n.[印]红字, 红色印刷, 题目。"
+        },
+        {
+          "word": "renovation",
+          "meaning": "n.革新。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

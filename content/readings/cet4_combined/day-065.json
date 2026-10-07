@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 65,
+  "articles": [
+    {
+      "id": "cet4-reading-d065-1",
+      "title": "The Venus File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "Inside a cross-border public clinic, the curator corrected labels for speaker (someone) and Spain (a parliamentary monarchy in southwestern Europe on the Iberian Peninsula). A quiet corner of a cross-border public clinic presented soul (the immaterial part of a person); a recording nearby introduced pavement (the paved surface of a thoroughfare). Rain kept a family inside a cross-border public clinic, learning about madam (a woman of refinement) and terrorist (a radical). A student at a cross-border public clinic photographed seller—someone—and sketched dustbin—a bin. Near closing time at a cross-border public clinic, a diary linked the displays of rock-bottom (the absolute bottom) and Venus (the second nearest planet to the sun).",
+      "translation": "跨境公共诊所的策展人先纠正说话者,发言者（speaker）的标签错误，随后发现关于西班牙（Spain）的材料也放错了位置。跨境公共诊所安静的一角介绍灵魂,心灵（soul），旁边的录音访谈则讲述人行道（pavement）背后的人物故事。雨天让一家人留在跨境公共诊所，一个孩子学习夫人,太太,女士（madam），另一个孩子则操作与恐怖分子（terrorist）有关的模型。学生在跨境公共诊所记录卖者（seller）后，又到另一处展区了解簸箕（dustbin），两项内容分别得到清楚说明。跨境公共诊所闭馆前，一本提到(价格)最低(的),底层的（rock-bottom）的日记帮助员工找到了一幅标有维纳斯（Venus）的画的主人。",
+      "sentences": [
+        {
+          "en": "Inside a cross-border public clinic, the curator corrected labels for speaker (someone) and Spain (a parliamentary monarchy in southwestern Europe on the Iberian Peninsula).",
+          "zh": "跨境公共诊所的策展人先纠正说话者,发言者（speaker）的标签错误，随后发现关于西班牙（Spain）的材料也放错了位置。"
+        },
+        {
+          "en": "A quiet corner of a cross-border public clinic presented soul (the immaterial part of a person); a recording nearby introduced pavement (the paved surface of a thoroughfare).",
+          "zh": "跨境公共诊所安静的一角介绍灵魂,心灵（soul），旁边的录音访谈则讲述人行道（pavement）背后的人物故事。"
+        },
+        {
+          "en": "Rain kept a family inside a cross-border public clinic, learning about madam (a woman of refinement) and terrorist (a radical).",
+          "zh": "雨天让一家人留在跨境公共诊所，一个孩子学习夫人,太太,女士（madam），另一个孩子则操作与恐怖分子（terrorist）有关的模型。"
+        },
+        {
+          "en": "A student at a cross-border public clinic photographed seller—someone—and sketched dustbin—a bin.",
+          "zh": "学生在跨境公共诊所记录卖者（seller）后，又到另一处展区了解簸箕（dustbin），两项内容分别得到清楚说明。"
+        },
+        {
+          "en": "Near closing time at a cross-border public clinic, a diary linked the displays of rock-bottom (the absolute bottom) and Venus (the second nearest planet to the sun).",
+          "zh": "跨境公共诊所闭馆前，一本提到(价格)最低(的),底层的（rock-bottom）的日记帮助员工找到了一幅标有维纳斯（Venus）的画的主人。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "speaker",
+          "meaning": "n. 说话者,发言者;说某种语言者;扬声器"
+        },
+        {
+          "word": "Spain",
+          "meaning": "n.西班牙"
+        },
+        {
+          "word": "soul",
+          "meaning": "n. 灵魂,心灵;精神,精力;人"
+        },
+        {
+          "word": "pavement",
+          "meaning": "n. 人行道"
+        },
+        {
+          "word": "madam",
+          "meaning": "n. 夫人,太太,女士"
+        },
+        {
+          "word": "terrorist",
+          "meaning": "n.恐怖分子"
+        },
+        {
+          "word": "seller",
+          "meaning": "n.卖者;行销货"
+        },
+        {
+          "word": "dustbin",
+          "meaning": "n.簸箕"
+        },
+        {
+          "word": "rock-bottom",
+          "meaning": "n.adj.(价格)最低(的),底层的"
+        },
+        {
+          "word": "Venus",
+          "meaning": "n.维纳斯;美人;色情"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "Venus",
+          "explanation": "最后一个目标词是维纳斯（Venus）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d065-2",
+      "title": "Understanding Ant Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "Field notes from a cross-border public clinic distinguish ant (social insect living in organized colonies) from lumber (the wood of trees cut and prepared for use). One panel in a cross-border public clinic illustrates oyster (marine mollusks); the next describes tooth (hard bonelike structures in the jaws of vertebrates). A demonstration at a cross-border public clinic makes inflation (a general and progressive increase in prices) concrete before explaining derivation (the source or origin). Researchers at a cross-border public clinic use depreciation for a decrease in price or value, but reserve Russia for a former communist country in eastern Europe and northern Asia. At a cross-border public clinic, razor means edge tool used in shaving, whereas soldier means an enlisted man or woman; separate examples prevent confusion.",
+      "translation": "跨境公共诊所的野外记录严格区分蚁（ant）和木材,木料（lumber），使记录保持准确。跨境公共诊所第一块展板说明牡蛎（oyster），下一块介绍牙齿（tooth），访客因而能比较两个准确概念。跨境公共诊所的简短演示先让膨胀（inflation）具体可见，再用第二个实例解释引出（derivation）。跨境公共诊所的研究记录分别使用折旧,贬值（depreciation）和俄罗斯,俄语（Russia）；由于含义不同，二者需要不同证据。跨境公共诊所的课程分别解释剃刀（razor）与士兵,军人（soldier），避免学习者因定义不同而进行错误比较。",
+      "sentences": [
+        {
+          "en": "Field notes from a cross-border public clinic distinguish ant (social insect living in organized colonies) from lumber (the wood of trees cut and prepared for use).",
+          "zh": "跨境公共诊所的野外记录严格区分蚁（ant）和木材,木料（lumber），使记录保持准确。"
+        },
+        {
+          "en": "One panel in a cross-border public clinic illustrates oyster (marine mollusks); the next describes tooth (hard bonelike structures in the jaws of vertebrates).",
+          "zh": "跨境公共诊所第一块展板说明牡蛎（oyster），下一块介绍牙齿（tooth），访客因而能比较两个准确概念。"
+        },
+        {
+          "en": "A demonstration at a cross-border public clinic makes inflation (a general and progressive increase in prices) concrete before explaining derivation (the source or origin).",
+          "zh": "跨境公共诊所的简短演示先让膨胀（inflation）具体可见，再用第二个实例解释引出（derivation）。"
+        },
+        {
+          "en": "Researchers at a cross-border public clinic use depreciation for a decrease in price or value, but reserve Russia for a former communist country in eastern Europe and northern Asia.",
+          "zh": "跨境公共诊所的研究记录分别使用折旧,贬值（depreciation）和俄罗斯,俄语（Russia）；由于含义不同，二者需要不同证据。"
+        },
+        {
+          "en": "At a cross-border public clinic, razor means edge tool used in shaving, whereas soldier means an enlisted man or woman; separate examples prevent confusion.",
+          "zh": "跨境公共诊所的课程分别解释剃刀（razor）与士兵,军人（soldier），避免学习者因定义不同而进行错误比较。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "ant",
+          "meaning": "n. 蚁;蚂蚁"
+        },
+        {
+          "word": "lumber",
+          "meaning": "n. 木材,木料"
+        },
+        {
+          "word": "oyster",
+          "meaning": "n.牡蛎;沉默寡言的人"
+        },
+        {
+          "word": "tooth",
+          "meaning": "n. 牙齿;齿状物"
+        },
+        {
+          "word": "inflation",
+          "meaning": "n. 膨胀;通货膨胀"
+        },
+        {
+          "word": "derivation",
+          "meaning": "n.引出;起源;衍生"
+        },
+        {
+          "word": "depreciation",
+          "meaning": "n.折旧,贬值"
+        },
+        {
+          "word": "Russia",
+          "meaning": "n.俄罗斯,俄语"
+        },
+        {
+          "word": "razor",
+          "meaning": "n. 剃刀"
+        },
+        {
+          "word": "soldier",
+          "meaning": "n. 士兵,军人"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d065-3",
+      "title": "Why Utilization Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "A proposal for a cross-border public clinic prioritizes manifesto (a public declaration of intentions), while critics emphasize equivalence (a state of being essentially equal or equivalent). Public trust at a cross-border public clinic needs honest discussion of rheumatism (any painful disorder of the joints or muscles or connective) and measurable commitments on tax (charge against a citizen's person or property or activity). A forum at a cross-border public clinic considered rhyme (correspondence in the sounds of two or more lines) alongside stimulation (the act of arousing an organism to action) before setting priorities. Funding choices at a cross-border public clinic require clear definitions of awkwardness (unskillfulness) and mischief (reckless or malicious behavior). Policy at a cross-border public clinic should address slander—words falsely spoken—without ignoring utilization—the act of using.",
+      "translation": "跨境公共诊所的方案优先处理宣言（manifesto），批评者则认为相等,等值（equivalence）也应得到同等关注。跨境公共诊所要建立公众信任，就必须诚实讨论风湿病（rheumatism），并对税(款),负担v. 对...征税,使负重担（tax）作出可衡量承诺。跨境公共诊所的公开论坛同时考虑韵,脚韵（rhyme）与刺激（stimulation），并讨论哪一项更需要优先行动。跨境公共诊所的官员清楚定义笨拙（awkwardness）并解释方案如何回应伤害,损害（mischief），资金选择才会更明白。跨境公共诊所的政策应处理诽谤,污蔑（slander），也不能忽视利用,效用（utilization）；两者都需要证据而非口号。",
+      "sentences": [
+        {
+          "en": "A proposal for a cross-border public clinic prioritizes manifesto (a public declaration of intentions), while critics emphasize equivalence (a state of being essentially equal or equivalent).",
+          "zh": "跨境公共诊所的方案优先处理宣言（manifesto），批评者则认为相等,等值（equivalence）也应得到同等关注。"
+        },
+        {
+          "en": "Public trust at a cross-border public clinic needs honest discussion of rheumatism (any painful disorder of the joints or muscles or connective) and measurable commitments on tax (charge against a citizen's person or property or activity).",
+          "zh": "跨境公共诊所要建立公众信任，就必须诚实讨论风湿病（rheumatism），并对税(款),负担v. 对...征税,使负重担（tax）作出可衡量承诺。"
+        },
+        {
+          "en": "A forum at a cross-border public clinic considered rhyme (correspondence in the sounds of two or more lines) alongside stimulation (the act of arousing an organism to action) before setting priorities.",
+          "zh": "跨境公共诊所的公开论坛同时考虑韵,脚韵（rhyme）与刺激（stimulation），并讨论哪一项更需要优先行动。"
+        },
+        {
+          "en": "Funding choices at a cross-border public clinic require clear definitions of awkwardness (unskillfulness) and mischief (reckless or malicious behavior).",
+          "zh": "跨境公共诊所的官员清楚定义笨拙（awkwardness）并解释方案如何回应伤害,损害（mischief），资金选择才会更明白。"
+        },
+        {
+          "en": "Policy at a cross-border public clinic should address slander—words falsely spoken—without ignoring utilization—the act of using.",
+          "zh": "跨境公共诊所的政策应处理诽谤,污蔑（slander），也不能忽视利用,效用（utilization）；两者都需要证据而非口号。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "manifesto",
+          "meaning": "n.宣言"
+        },
+        {
+          "word": "equivalence",
+          "meaning": "n.相等,等值"
+        },
+        {
+          "word": "rheumatism",
+          "meaning": "n.风湿病"
+        },
+        {
+          "word": "tax",
+          "meaning": "n. 税(款),负担v. 对...征税,使负重担"
+        },
+        {
+          "word": "rhyme",
+          "meaning": "n.韵,脚韵"
+        },
+        {
+          "word": "stimulation",
+          "meaning": "n.刺激"
+        },
+        {
+          "word": "awkwardness",
+          "meaning": "n.笨拙"
+        },
+        {
+          "word": "mischief",
+          "meaning": "n. 伤害,损害"
+        },
+        {
+          "word": "slander",
+          "meaning": "n./vt. 诽谤,污蔑"
+        },
+        {
+          "word": "utilization",
+          "meaning": "n.利用,效用"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

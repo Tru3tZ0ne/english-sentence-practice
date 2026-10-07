@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 68,
+  "articles": [
+    {
+      "id": "cet4-reading-d068-1",
+      "title": "The Middling File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "When a shelf shifted at a Swedish airfield, staff protected files on photographer (someone) and toothpaste (a dentifrice in the form of a paste). Near closing time at a Swedish airfield, a diary linked the displays of sardine (small fatty fish) and Sweden (a Scandinavian kingdom in the eastern part of the Scandinavian). Two volunteers at a Swedish airfield used the inventory to identify airline (a hose) and outskirts (outlying areas). During a tour of a Swedish airfield, the class found brute (a cruelly rapacious person) before locating freezer (electric refrigerator). Inside a Swedish airfield, the curator corrected labels for printer (someone whose occupation is printing) and middling (any commodity of intermediate quality or size).",
+      "translation": "瑞典机场的架子倒下时，员工保护了有关摄影师（photographer）的材料，也找回了旁边关于牙膏（toothpaste）的档案。瑞典机场闭馆前，一本提到沙丁鱼（sardine）的日记帮助员工找到了一幅标有瑞典（Sweden）的画的主人。瑞典机场的两名志愿者借助清单确认(飞机)航线a. (飞机)航线的（airline），并顺带找到另一条关于(尤指城市)郊区（outskirts）的记录。瑞典机场的参观先让学生认识禽兽,畜生（brute）；一块丢失的标牌又把他们带到冷冻箱（freezer）。瑞典机场的策展人先纠正印刷工（printer）的标签错误，随后发现关于中等的,第二流的（middling）的材料也放错了位置。",
+      "sentences": [
+        {
+          "en": "When a shelf shifted at a Swedish airfield, staff protected files on photographer (someone) and toothpaste (a dentifrice in the form of a paste).",
+          "zh": "瑞典机场的架子倒下时，员工保护了有关摄影师（photographer）的材料，也找回了旁边关于牙膏（toothpaste）的档案。"
+        },
+        {
+          "en": "Near closing time at a Swedish airfield, a diary linked the displays of sardine (small fatty fish) and Sweden (a Scandinavian kingdom in the eastern part of the Scandinavian).",
+          "zh": "瑞典机场闭馆前，一本提到沙丁鱼（sardine）的日记帮助员工找到了一幅标有瑞典（Sweden）的画的主人。"
+        },
+        {
+          "en": "Two volunteers at a Swedish airfield used the inventory to identify airline (a hose) and outskirts (outlying areas).",
+          "zh": "瑞典机场的两名志愿者借助清单确认(飞机)航线a. (飞机)航线的（airline），并顺带找到另一条关于(尤指城市)郊区（outskirts）的记录。"
+        },
+        {
+          "en": "During a tour of a Swedish airfield, the class found brute (a cruelly rapacious person) before locating freezer (electric refrigerator).",
+          "zh": "瑞典机场的参观先让学生认识禽兽,畜生（brute）；一块丢失的标牌又把他们带到冷冻箱（freezer）。"
+        },
+        {
+          "en": "Inside a Swedish airfield, the curator corrected labels for printer (someone whose occupation is printing) and middling (any commodity of intermediate quality or size).",
+          "zh": "瑞典机场的策展人先纠正印刷工（printer）的标签错误，随后发现关于中等的,第二流的（middling）的材料也放错了位置。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "photographer",
+          "meaning": "n.摄影师"
+        },
+        {
+          "word": "toothpaste",
+          "meaning": "n.牙膏"
+        },
+        {
+          "word": "sardine",
+          "meaning": "n.沙丁鱼"
+        },
+        {
+          "word": "Sweden",
+          "meaning": "n.瑞典"
+        },
+        {
+          "word": "airline",
+          "meaning": "n. (飞机)航线a. (飞机)航线的"
+        },
+        {
+          "word": "outskirts",
+          "meaning": "n. (尤指城市)郊区"
+        },
+        {
+          "word": "brute",
+          "meaning": "n.禽兽,畜生"
+        },
+        {
+          "word": "freezer",
+          "meaning": "n.冷冻箱"
+        },
+        {
+          "word": "printer",
+          "meaning": "n.印刷工;印花工"
+        },
+        {
+          "word": "middling",
+          "meaning": "n.中等的,第二流的"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "middling",
+          "explanation": "最后一个目标词是中等的,第二流的（middling）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d068-2",
+      "title": "Understanding Spider Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "Students at a Swedish airfield summarize spider as predatory arachnid with eight legs and maize as tall annual cereal grass bearing kernels on large ears, then test new examples. At a Swedish airfield, ass means the fleshy part of the human body, whereas locust means migratory grasshoppers of warm regions; separate examples prevent confusion. The handbook at a Swedish airfield introduces celery—widely cultivated herb with aromatic leaf stalks—before accumulation—an increase by natural growth or addition. The glossary at a Swedish airfield defines panther as a large spotted feline of tropical America similar and cross-references commandment, meaning something. A chart in a Swedish airfield defines citizenship as the status of a citizen with rights and duties and soup as liquid food on different branches.",
+      "translation": "瑞典机场的学生分别概括蜘蛛（spider）与玉米（maize），随后检验新实例是否符合定义。瑞典机场的课程分别解释驴（ass）与蝗虫（locust），避免学习者因定义不同而进行错误比较。瑞典机场的手册先介绍芹菜（celery），再补充需要更多背景的积累（accumulation）。瑞典机场的词汇表定义豹,黑豹（panther），并以交叉索引引导读者查看称赞（commandment），但不把二者视为相同。瑞典机场的图表把公民权（citizenship）和汤（soup）放在不同分支，让读者清楚看见两者区别。",
+      "sentences": [
+        {
+          "en": "Students at a Swedish airfield summarize spider as predatory arachnid with eight legs and maize as tall annual cereal grass bearing kernels on large ears, then test new examples.",
+          "zh": "瑞典机场的学生分别概括蜘蛛（spider）与玉米（maize），随后检验新实例是否符合定义。"
+        },
+        {
+          "en": "At a Swedish airfield, ass means the fleshy part of the human body, whereas locust means migratory grasshoppers of warm regions; separate examples prevent confusion.",
+          "zh": "瑞典机场的课程分别解释驴（ass）与蝗虫（locust），避免学习者因定义不同而进行错误比较。"
+        },
+        {
+          "en": "The handbook at a Swedish airfield introduces celery—widely cultivated herb with aromatic leaf stalks—before accumulation—an increase by natural growth or addition.",
+          "zh": "瑞典机场的手册先介绍芹菜（celery），再补充需要更多背景的积累（accumulation）。"
+        },
+        {
+          "en": "The glossary at a Swedish airfield defines panther as a large spotted feline of tropical America similar and cross-references commandment, meaning something.",
+          "zh": "瑞典机场的词汇表定义豹,黑豹（panther），并以交叉索引引导读者查看称赞（commandment），但不把二者视为相同。"
+        },
+        {
+          "en": "A chart in a Swedish airfield defines citizenship as the status of a citizen with rights and duties and soup as liquid food on different branches.",
+          "zh": "瑞典机场的图表把公民权（citizenship）和汤（soup）放在不同分支，让读者清楚看见两者区别。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "spider",
+          "meaning": "n. 蜘蛛"
+        },
+        {
+          "word": "maize",
+          "meaning": "n. 玉米"
+        },
+        {
+          "word": "ass",
+          "meaning": "n.驴;傻瓜,蠢笨的人"
+        },
+        {
+          "word": "locust",
+          "meaning": "n.蝗虫;洋槐,刺槐"
+        },
+        {
+          "word": "celery",
+          "meaning": "n.芹菜"
+        },
+        {
+          "word": "accumulation",
+          "meaning": "n.积累"
+        },
+        {
+          "word": "panther",
+          "meaning": "n.豹,黑豹;美洲狮"
+        },
+        {
+          "word": "commandment",
+          "meaning": "n.称赞"
+        },
+        {
+          "word": "citizenship",
+          "meaning": "n.公民权"
+        },
+        {
+          "word": "soup",
+          "meaning": "n. 汤"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d068-3",
+      "title": "Why Gymnastics Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "An open meeting at a Swedish airfield joined practical questions about inability (lack of ability) with concerns about potentiality (the inherent capacity for coming into being). Long-term planning at a Swedish airfield needs indicators for reconnaissance (the act of reconnoitring) and independent scrutiny of skill (an ability). A forum at a Swedish airfield considered honesty (the quality of being honest) alongside zoology (all the animal life in a particular region or period) before setting priorities. A proposal for a Swedish airfield prioritizes congestion (excessive accumulation of blood or other fluid in a body), while critics emphasize workmanship (skill in an occupation or trade). Policy at a Swedish airfield should address humiliation—state of disgrace or loss of self-respect—without ignoring gymnastics—a sport.",
+      "translation": "瑞典机场的公开会议把有关无能（inability）的实际问题与潜在性（potentiality）带来的伦理问题一同讨论。瑞典机场的长期规划应公布探索,勘查（reconnaissance）指标，也应允许独立人员审查有关技能,技巧,手艺（skill）的主张。瑞典机场的公开论坛同时考虑诚实,正直（honesty）与动物学（zoology），并讨论哪一项更需要优先行动。瑞典机场的方案优先处理拥挤,混杂（congestion），批评者则认为工艺,手艺（workmanship）也应得到同等关注。瑞典机场的政策应处理羞辱,耻辱（humiliation），也不能忽视体操（gymnastics）；两者都需要证据而非口号。",
+      "sentences": [
+        {
+          "en": "An open meeting at a Swedish airfield joined practical questions about inability (lack of ability) with concerns about potentiality (the inherent capacity for coming into being).",
+          "zh": "瑞典机场的公开会议把有关无能（inability）的实际问题与潜在性（potentiality）带来的伦理问题一同讨论。"
+        },
+        {
+          "en": "Long-term planning at a Swedish airfield needs indicators for reconnaissance (the act of reconnoitring) and independent scrutiny of skill (an ability).",
+          "zh": "瑞典机场的长期规划应公布探索,勘查（reconnaissance）指标，也应允许独立人员审查有关技能,技巧,手艺（skill）的主张。"
+        },
+        {
+          "en": "A forum at a Swedish airfield considered honesty (the quality of being honest) alongside zoology (all the animal life in a particular region or period) before setting priorities.",
+          "zh": "瑞典机场的公开论坛同时考虑诚实,正直（honesty）与动物学（zoology），并讨论哪一项更需要优先行动。"
+        },
+        {
+          "en": "A proposal for a Swedish airfield prioritizes congestion (excessive accumulation of blood or other fluid in a body), while critics emphasize workmanship (skill in an occupation or trade).",
+          "zh": "瑞典机场的方案优先处理拥挤,混杂（congestion），批评者则认为工艺,手艺（workmanship）也应得到同等关注。"
+        },
+        {
+          "en": "Policy at a Swedish airfield should address humiliation—state of disgrace or loss of self-respect—without ignoring gymnastics—a sport.",
+          "zh": "瑞典机场的政策应处理羞辱,耻辱（humiliation），也不能忽视体操（gymnastics）；两者都需要证据而非口号。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "inability",
+          "meaning": "n.无能"
+        },
+        {
+          "word": "potentiality",
+          "meaning": "n.潜在性"
+        },
+        {
+          "word": "reconnaissance",
+          "meaning": "n.探索,勘查"
+        },
+        {
+          "word": "skill",
+          "meaning": "n. 技能,技巧,手艺;熟练"
+        },
+        {
+          "word": "honesty",
+          "meaning": "n.诚实,正直"
+        },
+        {
+          "word": "zoology",
+          "meaning": "n. 动物学"
+        },
+        {
+          "word": "congestion",
+          "meaning": "n. 拥挤,混杂"
+        },
+        {
+          "word": "workmanship",
+          "meaning": "n.工艺,手艺"
+        },
+        {
+          "word": "humiliation",
+          "meaning": "n.羞辱,耻辱"
+        },
+        {
+          "word": "gymnastics",
+          "meaning": "n.体操"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

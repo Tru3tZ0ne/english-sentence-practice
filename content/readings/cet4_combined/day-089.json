@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 89,
+  "articles": [
+    {
+      "id": "cet4-reading-d089-1",
+      "title": "The Civilian File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "A student at an estuary training college photographed eddy—founder of Christian Science—and sketched capillary—a tube of small internal diameter. When a shelf shifted at an estuary training college, staff protected files on potion (a medicinal or magical or poisonous beverage) and bunk (a long trough for feeding cattle). The morning program at an estuary training college paired a section on plummet (the metal bob of a plumb line) with one on custodian (one). Inside an estuary training college, the curator corrected labels for potter (a craftsman) and estuary (the wide part of a river). A quiet corner of an estuary training college presented grill (a restaurant); a recording nearby introduced civilian (a nonmilitary citizen).",
+      "translation": "学生在河口培训学院记录旋转, 漩涡。v.(使)起漩涡。（eddy）后，又到另一处展区了解毛细管。adj.毛状的, 毛细作用的（capillary），两项内容分别得到清楚说明。河口培训学院的架子倒下时，员工保护了有关一服, 一剂。（potion）的材料，也找回了旁边关于(轮船, 火车等)铺位。（bunk）的档案。河口培训学院的上午活动把铅锤, 重荷。vi.垂直落下。（plummet）与另一项关于管理人。（custodian）的展览相邻安排，但没有混淆两者。河口培训学院的策展人先纠正陶工, 制陶工人。（potter）的标签错误，随后发现关于河口, 江口（estuary）的材料也放错了位置。河口培训学院安静的一角介绍烤架, 铁格子, 烤肉。v.烧, 烤, 严加盘问。（grill），旁边的录音访谈则讲述平民, 公务员, 文官。adj.民间的, 民用的。（civilian）背后的人物故事。",
+      "sentences": [
+        {
+          "en": "A student at an estuary training college photographed eddy—founder of Christian Science—and sketched capillary—a tube of small internal diameter.",
+          "zh": "学生在河口培训学院记录旋转, 漩涡。v.(使)起漩涡。（eddy）后，又到另一处展区了解毛细管。adj.毛状的, 毛细作用的（capillary），两项内容分别得到清楚说明。"
+        },
+        {
+          "en": "When a shelf shifted at an estuary training college, staff protected files on potion (a medicinal or magical or poisonous beverage) and bunk (a long trough for feeding cattle).",
+          "zh": "河口培训学院的架子倒下时，员工保护了有关一服, 一剂。（potion）的材料，也找回了旁边关于(轮船, 火车等)铺位。（bunk）的档案。"
+        },
+        {
+          "en": "The morning program at an estuary training college paired a section on plummet (the metal bob of a plumb line) with one on custodian (one).",
+          "zh": "河口培训学院的上午活动把铅锤, 重荷。vi.垂直落下。（plummet）与另一项关于管理人。（custodian）的展览相邻安排，但没有混淆两者。"
+        },
+        {
+          "en": "Inside an estuary training college, the curator corrected labels for potter (a craftsman) and estuary (the wide part of a river).",
+          "zh": "河口培训学院的策展人先纠正陶工, 制陶工人。（potter）的标签错误，随后发现关于河口, 江口（estuary）的材料也放错了位置。"
+        },
+        {
+          "en": "A quiet corner of an estuary training college presented grill (a restaurant); a recording nearby introduced civilian (a nonmilitary citizen).",
+          "zh": "河口培训学院安静的一角介绍烤架, 铁格子, 烤肉。v.烧, 烤, 严加盘问。（grill），旁边的录音访谈则讲述平民, 公务员, 文官。adj.民间的, 民用的。（civilian）背后的人物故事。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "eddy",
+          "meaning": "n.旋转, 漩涡。v.(使)起漩涡。"
+        },
+        {
+          "word": "capillary",
+          "meaning": "n.毛细管。adj.毛状的, 毛细作用的"
+        },
+        {
+          "word": "potion",
+          "meaning": "n.一服, 一剂。"
+        },
+        {
+          "word": "bunk",
+          "meaning": "n.(轮船, 火车等)铺位。"
+        },
+        {
+          "word": "plummet",
+          "meaning": "n.铅锤, 重荷。vi.垂直落下。"
+        },
+        {
+          "word": "custodian",
+          "meaning": "n.管理人。"
+        },
+        {
+          "word": "potter",
+          "meaning": "n.陶工, 制陶工人。"
+        },
+        {
+          "word": "estuary",
+          "meaning": "n.河口, 江口"
+        },
+        {
+          "word": "grill",
+          "meaning": "n.烤架, 铁格子, 烤肉。v.烧, 烤, 严加盘问。"
+        },
+        {
+          "word": "civilian",
+          "meaning": "n.平民, 公务员, 文官。adj.民间的, 民用的。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "civilian",
+          "explanation": "最后一个目标词是平民, 公务员, 文官。adj.民间的, 民用的。（civilian）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d089-2",
+      "title": "Understanding Vomit Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "A classification exercise at an estuary training college compares vomit (the matter ejected in vomiting) with detergent (a surface-active chemical widely used in industry and laundering). The glossary at an estuary training college defines pesticide as a chemical used to kill pests and cross-references manila, meaning a strong paper or thin cardboard with a smooth light. Researchers at an estuary training college use sewage for waste matter carried away in sewers or drains, but reserve nitrate for any compound containing the nitrate group. One panel in an estuary training college illustrates supposition (a message expressing an opinion based on incomplete evidence); the next describes facsimile (an exact copy or reproduction). A chart in an estuary training college defines vegetarian as eater of fruits and grains and nuts and novice as someone on different branches.",
+      "translation": "河口培训学院的分类练习把呕吐, 呕吐物, 催吐剂。vi.呕吐, 大量喷出。vt.吐出, 呕吐（vomit）与清洁剂, 去垢剂。（detergent）并列，要求学习者找出两者不同特征。河口培训学院的词汇表定义杀虫剂。（pesticide），并以交叉索引引导读者查看马尼拉(菲律宾首都)。（manila），但不把二者视为相同。河口培训学院的研究记录分别使用下水道, 污水。v.用污水灌溉, 装下水道于。（sewage）和化]硝酸盐, 硝酸钾。（nitrate）；由于含义不同，二者需要不同证据。河口培训学院第一块展板说明假定, 想象, 推测, 推想。（supposition），下一块介绍摹写, 传真。（facsimile），访客因而能比较两个准确概念。河口培训学院的图表把素食者, 食草动物。adj.素食的。（vegetarian）和新手, 初学者。（novice）放在不同分支，让读者清楚看见两者区别。",
+      "sentences": [
+        {
+          "en": "A classification exercise at an estuary training college compares vomit (the matter ejected in vomiting) with detergent (a surface-active chemical widely used in industry and laundering).",
+          "zh": "河口培训学院的分类练习把呕吐, 呕吐物, 催吐剂。vi.呕吐, 大量喷出。vt.吐出, 呕吐（vomit）与清洁剂, 去垢剂。（detergent）并列，要求学习者找出两者不同特征。"
+        },
+        {
+          "en": "The glossary at an estuary training college defines pesticide as a chemical used to kill pests and cross-references manila, meaning a strong paper or thin cardboard with a smooth light.",
+          "zh": "河口培训学院的词汇表定义杀虫剂。（pesticide），并以交叉索引引导读者查看马尼拉(菲律宾首都)。（manila），但不把二者视为相同。"
+        },
+        {
+          "en": "Researchers at an estuary training college use sewage for waste matter carried away in sewers or drains, but reserve nitrate for any compound containing the nitrate group.",
+          "zh": "河口培训学院的研究记录分别使用下水道, 污水。v.用污水灌溉, 装下水道于。（sewage）和化]硝酸盐, 硝酸钾。（nitrate）；由于含义不同，二者需要不同证据。"
+        },
+        {
+          "en": "One panel in an estuary training college illustrates supposition (a message expressing an opinion based on incomplete evidence); the next describes facsimile (an exact copy or reproduction).",
+          "zh": "河口培训学院第一块展板说明假定, 想象, 推测, 推想。（supposition），下一块介绍摹写, 传真。（facsimile），访客因而能比较两个准确概念。"
+        },
+        {
+          "en": "A chart in an estuary training college defines vegetarian as eater of fruits and grains and nuts and novice as someone on different branches.",
+          "zh": "河口培训学院的图表把素食者, 食草动物。adj.素食的。（vegetarian）和新手, 初学者。（novice）放在不同分支，让读者清楚看见两者区别。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "vomit",
+          "meaning": "n.呕吐, 呕吐物, 催吐剂。vi.呕吐, 大量喷出。vt.吐出, 呕吐"
+        },
+        {
+          "word": "detergent",
+          "meaning": "n.清洁剂, 去垢剂。"
+        },
+        {
+          "word": "pesticide",
+          "meaning": "n.杀虫剂。"
+        },
+        {
+          "word": "manila",
+          "meaning": "n.马尼拉(菲律宾首都)。"
+        },
+        {
+          "word": "sewage",
+          "meaning": "n.下水道, 污水。v.用污水灌溉, 装下水道于。"
+        },
+        {
+          "word": "nitrate",
+          "meaning": "n.[化]硝酸盐, 硝酸钾。"
+        },
+        {
+          "word": "supposition",
+          "meaning": "n.假定, 想象, 推测, 推想。"
+        },
+        {
+          "word": "facsimile",
+          "meaning": "n.摹写, 传真。"
+        },
+        {
+          "word": "vegetarian",
+          "meaning": "n.素食者, 食草动物。adj.素食的。"
+        },
+        {
+          "word": "novice",
+          "meaning": "n.新手, 初学者。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d089-3",
+      "title": "Why Asthma Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "Residents near an estuary training college debated psychiatry (the branch of medicine dealing with the diagnosis and treatment) and redundancy (repetition of messages to reduce the probability of errors), then requested written evidence. The strongest argument at an estuary training college supported transcript (something) but demanded safeguards for quirk (a strange attitude or habit). Funding choices at an estuary training college require clear definitions of endeavour (a purposeful or industrious undertaking) and pathos (a quality). Long-term planning at an estuary training college needs indicators for choir (a chorus) and independent scrutiny of curriculum (an integrated course of academic studies). Public trust at an estuary training college needs honest discussion of expulsion (the act of forcing out someone or something) and measurable commitments on asthma (respiratory disorder).",
+      "translation": "河口培训学院附近居民讨论精神病学, 精神病治疗法。（psychiatry）和冗余。（redundancy）后，要求书面说明成本与责任。河口培训学院最有力的论证支持处理抄本。（transcript），同时要求在急转, 遁词, 怪癖。（quirk）受影响时设置保障。河口培训学院的官员清楚定义<英>尽力,竭力。（endeavour）并解释方案如何回应痛苦, 感伤, 悲怅, 哀婉。（pathos），资金选择才会更明白。河口培训学院的长期规划应公布唱诗班, 唱诗班的席位。（choir）指标，也应允许独立人员审查有关课程。（curriculum）的主张。河口培训学院要建立公众信任，就必须诚实讨论逐出, 开除。（expulsion），并对医]哮喘。（asthma）作出可衡量承诺。",
+      "sentences": [
+        {
+          "en": "Residents near an estuary training college debated psychiatry (the branch of medicine dealing with the diagnosis and treatment) and redundancy (repetition of messages to reduce the probability of errors), then requested written evidence.",
+          "zh": "河口培训学院附近居民讨论精神病学, 精神病治疗法。（psychiatry）和冗余。（redundancy）后，要求书面说明成本与责任。"
+        },
+        {
+          "en": "The strongest argument at an estuary training college supported transcript (something) but demanded safeguards for quirk (a strange attitude or habit).",
+          "zh": "河口培训学院最有力的论证支持处理抄本。（transcript），同时要求在急转, 遁词, 怪癖。（quirk）受影响时设置保障。"
+        },
+        {
+          "en": "Funding choices at an estuary training college require clear definitions of endeavour (a purposeful or industrious undertaking) and pathos (a quality).",
+          "zh": "河口培训学院的官员清楚定义<英>尽力,竭力。（endeavour）并解释方案如何回应痛苦, 感伤, 悲怅, 哀婉。（pathos），资金选择才会更明白。"
+        },
+        {
+          "en": "Long-term planning at an estuary training college needs indicators for choir (a chorus) and independent scrutiny of curriculum (an integrated course of academic studies).",
+          "zh": "河口培训学院的长期规划应公布唱诗班, 唱诗班的席位。（choir）指标，也应允许独立人员审查有关课程。（curriculum）的主张。"
+        },
+        {
+          "en": "Public trust at an estuary training college needs honest discussion of expulsion (the act of forcing out someone or something) and measurable commitments on asthma (respiratory disorder).",
+          "zh": "河口培训学院要建立公众信任，就必须诚实讨论逐出, 开除。（expulsion），并对医]哮喘。（asthma）作出可衡量承诺。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "psychiatry",
+          "meaning": "n.精神病学, 精神病治疗法。"
+        },
+        {
+          "word": "redundancy",
+          "meaning": "n.冗余。"
+        },
+        {
+          "word": "transcript",
+          "meaning": "n.抄本。"
+        },
+        {
+          "word": "quirk",
+          "meaning": "n.急转, 遁词, 怪癖。"
+        },
+        {
+          "word": "endeavour",
+          "meaning": "n.<英>尽力,竭力。"
+        },
+        {
+          "word": "pathos",
+          "meaning": "n.痛苦, 感伤, 悲怅, 哀婉。"
+        },
+        {
+          "word": "choir",
+          "meaning": "n.唱诗班, 唱诗班的席位。"
+        },
+        {
+          "word": "curriculum",
+          "meaning": "n.课程。"
+        },
+        {
+          "word": "expulsion",
+          "meaning": "n.逐出, 开除。"
+        },
+        {
+          "word": "asthma",
+          "meaning": "n.[医]哮喘。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

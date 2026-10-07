@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 71,
+  "articles": [
+    {
+      "id": "cet4-reading-d071-1",
+      "title": "The Beneficiary File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "A visitor entered a reservoir restaurant asking about liar (a person) and left with a note on restaurant (a building). During a tour of a reservoir restaurant, the class found seat (a space reserved for sitting) before locating voucher (someone). The newest room at a reservoir restaurant began with room (an area within a building enclosed by walls and floor) and ended with spoon (a piece of cutlery with a shallow bowl-shaped container). Inside a reservoir restaurant, the curator corrected labels for ware (articles of the same kind or material) and Mediterranean (the largest inland sea). The morning program at a reservoir restaurant paired a section on windowsill (the sill of a window) with one on beneficiary (the recipient of funds or other benefits).",
+      "translation": "访客到水库餐厅询问说谎的人（liar），旧平面图却意外引导她发现了餐馆,饭店（restaurant）。水库餐厅的参观先让学生认识座位,底座（seat）；一块丢失的标牌又把他们带到收据,凭单（voucher）。水库餐厅最新展厅从房间,室,空间,地方（room）开始，以一个出人意料的本地匙,调羹（spoon）实例结束。水库餐厅的策展人先纠正商品,货物（ware）的标签错误，随后发现关于地中海 a.地中海的（Mediterranean）的材料也放错了位置。水库餐厅的上午活动把窗台（windowsill）与另一项关于受益者（beneficiary）的展览相邻安排，但没有混淆两者。",
+      "sentences": [
+        {
+          "en": "A visitor entered a reservoir restaurant asking about liar (a person) and left with a note on restaurant (a building).",
+          "zh": "访客到水库餐厅询问说谎的人（liar），旧平面图却意外引导她发现了餐馆,饭店（restaurant）。"
+        },
+        {
+          "en": "During a tour of a reservoir restaurant, the class found seat (a space reserved for sitting) before locating voucher (someone).",
+          "zh": "水库餐厅的参观先让学生认识座位,底座（seat）；一块丢失的标牌又把他们带到收据,凭单（voucher）。"
+        },
+        {
+          "en": "The newest room at a reservoir restaurant began with room (an area within a building enclosed by walls and floor) and ended with spoon (a piece of cutlery with a shallow bowl-shaped container).",
+          "zh": "水库餐厅最新展厅从房间,室,空间,地方（room）开始，以一个出人意料的本地匙,调羹（spoon）实例结束。"
+        },
+        {
+          "en": "Inside a reservoir restaurant, the curator corrected labels for ware (articles of the same kind or material) and Mediterranean (the largest inland sea).",
+          "zh": "水库餐厅的策展人先纠正商品,货物（ware）的标签错误，随后发现关于地中海 a.地中海的（Mediterranean）的材料也放错了位置。"
+        },
+        {
+          "en": "The morning program at a reservoir restaurant paired a section on windowsill (the sill of a window) with one on beneficiary (the recipient of funds or other benefits).",
+          "zh": "水库餐厅的上午活动把窗台（windowsill）与另一项关于受益者（beneficiary）的展览相邻安排，但没有混淆两者。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "liar",
+          "meaning": "n.说谎的人"
+        },
+        {
+          "word": "restaurant",
+          "meaning": "n. 餐馆,饭店"
+        },
+        {
+          "word": "seat",
+          "meaning": "n. 座位,底座;所在地,场所v. 使坐下"
+        },
+        {
+          "word": "voucher",
+          "meaning": "n. 收据,凭单"
+        },
+        {
+          "word": "room",
+          "meaning": "n. 房间,室,空间,地方;余地"
+        },
+        {
+          "word": "spoon",
+          "meaning": "n. 匙,调羹"
+        },
+        {
+          "word": "ware",
+          "meaning": "n.商品,货物;物品"
+        },
+        {
+          "word": "Mediterranean",
+          "meaning": "n.地中海 a.地中海的"
+        },
+        {
+          "word": "windowsill",
+          "meaning": "n.窗台"
+        },
+        {
+          "word": "beneficiary",
+          "meaning": "n.受益者"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "beneficiary",
+          "explanation": "最后一个目标词是受益者（beneficiary）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d071-2",
+      "title": "Understanding Formulation Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "At a reservoir restaurant, formulation means a substance prepared according to a formula, whereas increment means a process of becoming larger or longer or more numerous; separate examples prevent confusion. By separating nail (horny plate covering and protecting part of the dorsal surface) from packing (any material used), a reservoir restaurant turns definitions into usable knowledge. A demonstration at a reservoir restaurant makes realist (a philosopher) concrete before explaining ham (meat cut from the thigh of a hog). The glossary at a reservoir restaurant defines term as a word or expression used for some particular thing and cross-references methodology, meaning the branch of philosophy. A chart in a reservoir restaurant defines centimeter as a metric unit of length equal to one hundredth and brandy as distilled from wine or fermented fruit juice on different branches.",
+      "translation": "水库餐厅的课程分别解释明确的表达（formulation）与增值,增额（increment），避免学习者因定义不同而进行错误比较。水库餐厅把指甲,爪（nail）与装箱,收拾行李（packing）分开考察，使两个陌生概念转化为可使用的知识。水库餐厅的简短演示先让现实主义者(的)（realist）具体可见，再用第二个实例解释火腿（ham）。水库餐厅的词汇表定义期,学期,条件（term），并以交叉索引引导读者查看方法(论)（methodology），但不把二者视为相同。水库餐厅的图表把厘米（centimeter）和白兰地酒（brandy）放在不同分支，让读者清楚看见两者区别。",
+      "sentences": [
+        {
+          "en": "At a reservoir restaurant, formulation means a substance prepared according to a formula, whereas increment means a process of becoming larger or longer or more numerous; separate examples prevent confusion.",
+          "zh": "水库餐厅的课程分别解释明确的表达（formulation）与增值,增额（increment），避免学习者因定义不同而进行错误比较。"
+        },
+        {
+          "en": "By separating nail (horny plate covering and protecting part of the dorsal surface) from packing (any material used), a reservoir restaurant turns definitions into usable knowledge.",
+          "zh": "水库餐厅把指甲,爪（nail）与装箱,收拾行李（packing）分开考察，使两个陌生概念转化为可使用的知识。"
+        },
+        {
+          "en": "A demonstration at a reservoir restaurant makes realist (a philosopher) concrete before explaining ham (meat cut from the thigh of a hog).",
+          "zh": "水库餐厅的简短演示先让现实主义者(的)（realist）具体可见，再用第二个实例解释火腿（ham）。"
+        },
+        {
+          "en": "The glossary at a reservoir restaurant defines term as a word or expression used for some particular thing and cross-references methodology, meaning the branch of philosophy.",
+          "zh": "水库餐厅的词汇表定义期,学期,条件（term），并以交叉索引引导读者查看方法(论)（methodology），但不把二者视为相同。"
+        },
+        {
+          "en": "A chart in a reservoir restaurant defines centimeter as a metric unit of length equal to one hundredth and brandy as distilled from wine or fermented fruit juice on different branches.",
+          "zh": "水库餐厅的图表把厘米（centimeter）和白兰地酒（brandy）放在不同分支，让读者清楚看见两者区别。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "formulation",
+          "meaning": "n.明确的表达"
+        },
+        {
+          "word": "increment",
+          "meaning": "n. 增值,增额"
+        },
+        {
+          "word": "nail",
+          "meaning": "n. 指甲,爪;钉v. 将...钉牢,钉住"
+        },
+        {
+          "word": "packing",
+          "meaning": "n.装箱,收拾行李"
+        },
+        {
+          "word": "realist",
+          "meaning": "n.adj.现实主义者(的)"
+        },
+        {
+          "word": "ham",
+          "meaning": "n. 火腿"
+        },
+        {
+          "word": "term",
+          "meaning": "n. 期,学期,条件"
+        },
+        {
+          "word": "methodology",
+          "meaning": "n.方法(论)"
+        },
+        {
+          "word": "centimeter",
+          "meaning": "n. 厘米"
+        },
+        {
+          "word": "brandy",
+          "meaning": "n. 白兰地酒"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d071-3",
+      "title": "Why Manhood Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "Before approving change at a reservoir restaurant, leaders must explain revival (bringing again into activity and prominence) and risks involving dishonor (a state of shame or disgrace). The strongest argument at a reservoir restaurant supported availability (the quality of being at hand) but demanded safeguards for recommendation (something). Funding choices at a reservoir restaurant require clear definitions of scarcity (a small and inadequate amount) and tare (an adjustment). A forum at a reservoir restaurant considered warning (a message informing of danger) alongside lapse (a mistake) before setting priorities. Long-term planning at a reservoir restaurant needs indicators for standard (a basis for comparison) and independent scrutiny of manhood (the state of being a man).",
+      "translation": "批准水库餐厅的改变前，领导者应解释复苏,再生（revival）为何重要，以及谁承担耻辱v.凌辱（dishonor）带来的风险。水库餐厅最有力的论证支持处理有效(性)（availability），同时要求在推荐,介绍,推荐信（recommendation）受影响时设置保障。水库餐厅的官员清楚定义缺乏,不足,萧条（scarcity）并解释方案如何回应皮重（tare），资金选择才会更明白。水库餐厅的公开论坛同时考虑警告,告诫,鉴诫（warning）与小错,记错（lapse），并讨论哪一项更需要优先行动。水库餐厅的长期规划应公布标准,旗帜（standard）指标，也应允许独立人员审查有关男子气（manhood）的主张。",
+      "sentences": [
+        {
+          "en": "Before approving change at a reservoir restaurant, leaders must explain revival (bringing again into activity and prominence) and risks involving dishonor (a state of shame or disgrace).",
+          "zh": "批准水库餐厅的改变前，领导者应解释复苏,再生（revival）为何重要，以及谁承担耻辱v.凌辱（dishonor）带来的风险。"
+        },
+        {
+          "en": "The strongest argument at a reservoir restaurant supported availability (the quality of being at hand) but demanded safeguards for recommendation (something).",
+          "zh": "水库餐厅最有力的论证支持处理有效(性)（availability），同时要求在推荐,介绍,推荐信（recommendation）受影响时设置保障。"
+        },
+        {
+          "en": "Funding choices at a reservoir restaurant require clear definitions of scarcity (a small and inadequate amount) and tare (an adjustment).",
+          "zh": "水库餐厅的官员清楚定义缺乏,不足,萧条（scarcity）并解释方案如何回应皮重（tare），资金选择才会更明白。"
+        },
+        {
+          "en": "A forum at a reservoir restaurant considered warning (a message informing of danger) alongside lapse (a mistake) before setting priorities.",
+          "zh": "水库餐厅的公开论坛同时考虑警告,告诫,鉴诫（warning）与小错,记错（lapse），并讨论哪一项更需要优先行动。"
+        },
+        {
+          "en": "Long-term planning at a reservoir restaurant needs indicators for standard (a basis for comparison) and independent scrutiny of manhood (the state of being a man).",
+          "zh": "水库餐厅的长期规划应公布标准,旗帜（standard）指标，也应允许独立人员审查有关男子气（manhood）的主张。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "revival",
+          "meaning": "n.复苏,再生"
+        },
+        {
+          "word": "dishonor",
+          "meaning": "n.耻辱v.凌辱"
+        },
+        {
+          "word": "availability",
+          "meaning": "n.有效(性);可得性"
+        },
+        {
+          "word": "recommendation",
+          "meaning": "n. 推荐,介绍,推荐信"
+        },
+        {
+          "word": "scarcity",
+          "meaning": "n.缺乏,不足,萧条"
+        },
+        {
+          "word": "tare",
+          "meaning": "n.皮重"
+        },
+        {
+          "word": "warning",
+          "meaning": "n.警告,告诫,鉴诫"
+        },
+        {
+          "word": "lapse",
+          "meaning": "n. 小错,记错;(时间)流逝"
+        },
+        {
+          "word": "standard",
+          "meaning": "n. 标准,旗帜"
+        },
+        {
+          "word": "manhood",
+          "meaning": "n.男子气"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

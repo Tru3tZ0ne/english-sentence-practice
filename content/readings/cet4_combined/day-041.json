@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 41,
+  "articles": [
+    {
+      "id": "cet4-reading-d041-1",
+      "title": "The Locality File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "Two volunteers at an inland water laboratory used the inventory to identify isle (a small island) and junction (the place). The newest room at an inland water laboratory began with kit (a case for containing a set of articles) and ended with knob (a circular rounded projection or protuberance). At an inland water laboratory, a guide explained lace (a cord) beside a display of latitude (the angular distance between an imaginary line around a heavenly). A quiet corner of an inland water laboratory presented layman (someone); a recording nearby introduced lieutenant (a commissioned military officer). A student at an inland water laboratory photographed linen—a fabric woven with fibers from the flax plant—and sketched locality—a surrounding or nearby region.",
+      "translation": "内陆水利实验室的两名志愿者借助清单确认小岛, 岛。vt.使成为岛屿。vi.住在岛屿上。（isle），并顺带找到另一条关于交叉点,接合点（junction）的记录。内陆水利实验室最新展厅从(士兵,旅游者)所有装备,成套用具（kit）开始，以一个出人意料的本地圆形把手,旋钮,圆形突出物（knob）实例结束。在内陆水利实验室的参观过程中，讲解员先介绍鞋带,花边（lace），随后带大家找到另一项独立展品纬度（latitude）。内陆水利实验室安静的一角介绍外行（layman），旁边的录音访谈则讲述陆军中尉（lieutenant）背后的人物故事。学生在内陆水利实验室记录亚麻布,衬衣裤（linen）后，又到另一处展区了解地区,地方（locality），两项内容分别得到清楚说明。",
+      "sentences": [
+        {
+          "en": "Two volunteers at an inland water laboratory used the inventory to identify isle (a small island) and junction (the place).",
+          "zh": "内陆水利实验室的两名志愿者借助清单确认小岛, 岛。vt.使成为岛屿。vi.住在岛屿上。（isle），并顺带找到另一条关于交叉点,接合点（junction）的记录。"
+        },
+        {
+          "en": "The newest room at an inland water laboratory began with kit (a case for containing a set of articles) and ended with knob (a circular rounded projection or protuberance).",
+          "zh": "内陆水利实验室最新展厅从(士兵,旅游者)所有装备,成套用具（kit）开始，以一个出人意料的本地圆形把手,旋钮,圆形突出物（knob）实例结束。"
+        },
+        {
+          "en": "At an inland water laboratory, a guide explained lace (a cord) beside a display of latitude (the angular distance between an imaginary line around a heavenly).",
+          "zh": "在内陆水利实验室的参观过程中，讲解员先介绍鞋带,花边（lace），随后带大家找到另一项独立展品纬度（latitude）。"
+        },
+        {
+          "en": "A quiet corner of an inland water laboratory presented layman (someone); a recording nearby introduced lieutenant (a commissioned military officer).",
+          "zh": "内陆水利实验室安静的一角介绍外行（layman），旁边的录音访谈则讲述陆军中尉（lieutenant）背后的人物故事。"
+        },
+        {
+          "en": "A student at an inland water laboratory photographed linen—a fabric woven with fibers from the flax plant—and sketched locality—a surrounding or nearby region.",
+          "zh": "学生在内陆水利实验室记录亚麻布,衬衣裤（linen）后，又到另一处展区了解地区,地方（locality），两项内容分别得到清楚说明。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "isle",
+          "meaning": "n.小岛, 岛。vt.使成为岛屿。vi.住在岛屿上。"
+        },
+        {
+          "word": "junction",
+          "meaning": "n. 交叉点,接合点"
+        },
+        {
+          "word": "kit",
+          "meaning": "n. (士兵,旅游者)所有装备,成套用具;vt. 发给装备"
+        },
+        {
+          "word": "knob",
+          "meaning": "n. 圆形把手,旋钮,圆形突出物"
+        },
+        {
+          "word": "lace",
+          "meaning": "n. 鞋带,花边"
+        },
+        {
+          "word": "latitude",
+          "meaning": "n. 纬度;地区;(言论,行动的)自由"
+        },
+        {
+          "word": "layman",
+          "meaning": "n.外行"
+        },
+        {
+          "word": "lieutenant",
+          "meaning": "n.陆军中尉;副职官员"
+        },
+        {
+          "word": "linen",
+          "meaning": "n. 亚麻布,衬衣裤"
+        },
+        {
+          "word": "locality",
+          "meaning": "n. 地区,地方"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "locality",
+          "explanation": "最后一个目标词是地区,地方（locality）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d041-2",
+      "title": "Understanding Ivory Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "The handbook at an inland water laboratory introduces ivory—a hard smooth ivory colored dentine—before junk—the remains of something. One panel in an inland water laboratory illustrates kidney (either of two bean-shaped excretory organs); the next describes lash (any of the short curved hairs). At an inland water laboratory, leaflet means a thin triangular flap of a heart valve, whereas marble means a hard crystalline metamorphic rock; separate examples prevent confusion. A chart in an inland water laboratory defines inlet as an arm off of a larger body of water and innovation as a creation on different branches. Students at an inland water laboratory summarize insight as clear or deep perception of a situation and inspiration as arousal of the mind to special unusual activity or creativity, then test new examples.",
+      "translation": "内陆水利实验室的手册先介绍象牙,象牙制品 a. 象牙色的（ivory），再补充需要更多背景的垃圾, 舢板。（junk）。内陆水利实验室第一块展板说明肾,腰子（kidney），下一块介绍鞭子, 鞭打, 睫毛, 责骂, 讽刺。vt.鞭打, 摆动, 扎捆, 冲击, 煽动, 讽刺。vi.猛击, 急速甩动。（lash），访客因而能比较两个准确概念。内陆水利实验室的课程分别解释散页的印刷品,传单（leaflet）与大理石,(游戏用的)玻璃弹子（marble），避免学习者因定义不同而进行错误比较。内陆水利实验室的图表把水湾,小湾（inlet）和改革,革新（innovation）放在不同分支，让读者清楚看见两者区别。内陆水利实验室的学生分别概括洞悉,洞察,见识（insight）与灵感（inspiration），随后检验新实例是否符合定义。",
+      "sentences": [
+        {
+          "en": "The handbook at an inland water laboratory introduces ivory—a hard smooth ivory colored dentine—before junk—the remains of something.",
+          "zh": "内陆水利实验室的手册先介绍象牙,象牙制品 a. 象牙色的（ivory），再补充需要更多背景的垃圾, 舢板。（junk）。"
+        },
+        {
+          "en": "One panel in an inland water laboratory illustrates kidney (either of two bean-shaped excretory organs); the next describes lash (any of the short curved hairs).",
+          "zh": "内陆水利实验室第一块展板说明肾,腰子（kidney），下一块介绍鞭子, 鞭打, 睫毛, 责骂, 讽刺。vt.鞭打, 摆动, 扎捆, 冲击, 煽动, 讽刺。vi.猛击, 急速甩动。（lash），访客因而能比较两个准确概念。"
+        },
+        {
+          "en": "At an inland water laboratory, leaflet means a thin triangular flap of a heart valve, whereas marble means a hard crystalline metamorphic rock; separate examples prevent confusion.",
+          "zh": "内陆水利实验室的课程分别解释散页的印刷品,传单（leaflet）与大理石,(游戏用的)玻璃弹子（marble），避免学习者因定义不同而进行错误比较。"
+        },
+        {
+          "en": "A chart in an inland water laboratory defines inlet as an arm off of a larger body of water and innovation as a creation on different branches.",
+          "zh": "内陆水利实验室的图表把水湾,小湾（inlet）和改革,革新（innovation）放在不同分支，让读者清楚看见两者区别。"
+        },
+        {
+          "en": "Students at an inland water laboratory summarize insight as clear or deep perception of a situation and inspiration as arousal of the mind to special unusual activity or creativity, then test new examples.",
+          "zh": "内陆水利实验室的学生分别概括洞悉,洞察,见识（insight）与灵感（inspiration），随后检验新实例是否符合定义。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "ivory",
+          "meaning": "n. 象牙,象牙制品 a. 象牙色的"
+        },
+        {
+          "word": "junk",
+          "meaning": "n.垃圾, 舢板。"
+        },
+        {
+          "word": "kidney",
+          "meaning": "n. 肾,腰子"
+        },
+        {
+          "word": "lash",
+          "meaning": "n.鞭子, 鞭打, 睫毛, 责骂, 讽刺。vt.鞭打, 摆动, 扎捆, 冲击, 煽动, 讽刺。vi.猛击, 急速甩动。"
+        },
+        {
+          "word": "leaflet",
+          "meaning": "n. 散页的印刷品,传单"
+        },
+        {
+          "word": "marble",
+          "meaning": "n. 大理石,(游戏用的)玻璃弹子"
+        },
+        {
+          "word": "inlet",
+          "meaning": "n. 水湾,小湾;进口,入口"
+        },
+        {
+          "word": "innovation",
+          "meaning": "n. 改革,革新"
+        },
+        {
+          "word": "insight",
+          "meaning": "n. 洞悉,洞察,见识"
+        },
+        {
+          "word": "inspiration",
+          "meaning": "n. 灵感;鼓舞,激励"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d041-3",
+      "title": "Why Irrigation Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "Public trust at an inland water laboratory needs honest discussion of installment (a payment of part of a debt) and measurable commitments on integrity (an undivided or unbroken completeness or totality with nothing wanting). Decision makers at an inland water laboratory cannot evaluate intellect (knowledge and intellectual ability) while excluding intercourse (communication between individuals). An open meeting at an inland water laboratory joined practical questions about intersection (a point) with concerns about intrigue (a crafty and involved plot to achieve your). A review panel at an inland water laboratory rejected claims that intuition (instinctive knowing) automatically outweighed inventory (a detailed list of all the items in stock). A proposal for an inland water laboratory prioritizes irony (witty language used to convey insults or scorn), while critics emphasize irrigation (supplying dry land with water by means of ditches etc).",
+      "translation": "内陆水利实验室要建立公众信任，就必须诚实讨论分期付款（installment），并对诚实,正直（integrity）作出可衡量承诺。内陆水利实验室的决策者不能只评估理智,智力,才智（intellect），却把交流,交往,交际,性交（intercourse）排除在公开证据之外。内陆水利实验室的公开会议把有关数]交集, 十字路口, 交叉点。（intersection）的实际问题与阴谋, 诡计。vi.密谋, 私通。vt.激起...的兴趣, 用诡计取得（intrigue）带来的伦理问题一同讨论。内陆水利实验室的审查小组拒绝在缺乏地方证据时认定直觉, 直觉的知识。（intuition）天然比详细目录, 存货, 财产清册, 总量。（inventory）更重要。内陆水利实验室的方案优先处理反话,冷嘲,讽刺性的事件、情况等（irony），批评者则认为灌溉（irrigation）也应得到同等关注。",
+      "sentences": [
+        {
+          "en": "Public trust at an inland water laboratory needs honest discussion of installment (a payment of part of a debt) and measurable commitments on integrity (an undivided or unbroken completeness or totality with nothing wanting).",
+          "zh": "内陆水利实验室要建立公众信任，就必须诚实讨论分期付款（installment），并对诚实,正直（integrity）作出可衡量承诺。"
+        },
+        {
+          "en": "Decision makers at an inland water laboratory cannot evaluate intellect (knowledge and intellectual ability) while excluding intercourse (communication between individuals).",
+          "zh": "内陆水利实验室的决策者不能只评估理智,智力,才智（intellect），却把交流,交往,交际,性交（intercourse）排除在公开证据之外。"
+        },
+        {
+          "en": "An open meeting at an inland water laboratory joined practical questions about intersection (a point) with concerns about intrigue (a crafty and involved plot to achieve your).",
+          "zh": "内陆水利实验室的公开会议把有关数]交集, 十字路口, 交叉点。（intersection）的实际问题与阴谋, 诡计。vi.密谋, 私通。vt.激起...的兴趣, 用诡计取得（intrigue）带来的伦理问题一同讨论。"
+        },
+        {
+          "en": "A review panel at an inland water laboratory rejected claims that intuition (instinctive knowing) automatically outweighed inventory (a detailed list of all the items in stock).",
+          "zh": "内陆水利实验室的审查小组拒绝在缺乏地方证据时认定直觉, 直觉的知识。（intuition）天然比详细目录, 存货, 财产清册, 总量。（inventory）更重要。"
+        },
+        {
+          "en": "A proposal for an inland water laboratory prioritizes irony (witty language used to convey insults or scorn), while critics emphasize irrigation (supplying dry land with water by means of ditches etc).",
+          "zh": "内陆水利实验室的方案优先处理反话,冷嘲,讽刺性的事件、情况等（irony），批评者则认为灌溉（irrigation）也应得到同等关注。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "installment",
+          "meaning": "n. 分期付款;(连载的)一期"
+        },
+        {
+          "word": "integrity",
+          "meaning": "n. 诚实,正直;完整,完整性"
+        },
+        {
+          "word": "intellect",
+          "meaning": "n.理智,智力,才智"
+        },
+        {
+          "word": "intercourse",
+          "meaning": "n. 交流,交往,交际,性交"
+        },
+        {
+          "word": "intersection",
+          "meaning": "n.[数]交集, 十字路口, 交叉点。"
+        },
+        {
+          "word": "intrigue",
+          "meaning": "n.阴谋, 诡计。vi.密谋, 私通。vt.激起...的兴趣, 用诡计取得"
+        },
+        {
+          "word": "intuition",
+          "meaning": "n.直觉, 直觉的知识。"
+        },
+        {
+          "word": "inventory",
+          "meaning": "n.详细目录, 存货, 财产清册, 总量。"
+        },
+        {
+          "word": "irony",
+          "meaning": "n. 反话,冷嘲,讽刺性的事件、情况等"
+        },
+        {
+          "word": "irrigation",
+          "meaning": "n. 灌溉"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

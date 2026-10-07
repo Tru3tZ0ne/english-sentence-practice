@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 46,
+  "articles": [
+    {
+      "id": "cet4-reading-d046-1",
+      "title": "The Stream File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "When a shelf shifted at a coastal science hall, staff protected files on solicitor (a petitioner) and spectator (a close observer). Rain kept a family inside a coastal science hall, learning about spouse (a person's partner in marriage) and spy (military a secret agent hired by a state to obtain). Near closing time at a coastal science hall, a diary linked the displays of staircase (a way of access) and stall (a compartment in a stable). The morning program at a coastal science hall paired a section on staple (usually plural a necessary commodity for which demand is constant) with one on statesman (a man). A visitor entered a coastal science hall asking about stereo (reproducer in) and left with a note on stream (a natural body of running water flowing on or under).",
+      "translation": "海岸科学馆的架子倒下时，员工保护了有关律师（solicitor）的材料，也找回了旁边关于观众,旁观者（spectator）的档案。雨天让一家人留在海岸科学馆，一个孩子学习配偶(指夫或妻)。（spouse），另一个孩子则操作与间谍v. 当间谍,刺探（spy）有关的模型。海岸科学馆闭馆前，一本提到楼梯（staircase）的日记帮助员工找到了一幅标有分隔栏（stall）的画的主人。海岸科学馆的上午活动把订书钉,U形钉（staple）与另一项关于政治家,政客（statesman）的展览相邻安排，但没有混淆两者。访客到海岸科学馆询问立体声录音机（stereo），旧平面图却意外引导她发现了小河,溪流（stream）。",
+      "sentences": [
+        {
+          "en": "When a shelf shifted at a coastal science hall, staff protected files on solicitor (a petitioner) and spectator (a close observer).",
+          "zh": "海岸科学馆的架子倒下时，员工保护了有关律师（solicitor）的材料，也找回了旁边关于观众,旁观者（spectator）的档案。"
+        },
+        {
+          "en": "Rain kept a family inside a coastal science hall, learning about spouse (a person's partner in marriage) and spy (military a secret agent hired by a state to obtain).",
+          "zh": "雨天让一家人留在海岸科学馆，一个孩子学习配偶(指夫或妻)。（spouse），另一个孩子则操作与间谍v. 当间谍,刺探（spy）有关的模型。"
+        },
+        {
+          "en": "Near closing time at a coastal science hall, a diary linked the displays of staircase (a way of access) and stall (a compartment in a stable).",
+          "zh": "海岸科学馆闭馆前，一本提到楼梯（staircase）的日记帮助员工找到了一幅标有分隔栏（stall）的画的主人。"
+        },
+        {
+          "en": "The morning program at a coastal science hall paired a section on staple (usually plural a necessary commodity for which demand is constant) with one on statesman (a man).",
+          "zh": "海岸科学馆的上午活动把订书钉,U形钉（staple）与另一项关于政治家,政客（statesman）的展览相邻安排，但没有混淆两者。"
+        },
+        {
+          "en": "A visitor entered a coastal science hall asking about stereo (reproducer in) and left with a note on stream (a natural body of running water flowing on or under).",
+          "zh": "访客到海岸科学馆询问立体声录音机（stereo），旧平面图却意外引导她发现了小河,溪流（stream）。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "solicitor",
+          "meaning": "n.律师"
+        },
+        {
+          "word": "spectator",
+          "meaning": "n. 观众,旁观者"
+        },
+        {
+          "word": "spouse",
+          "meaning": "n.配偶(指夫或妻)。"
+        },
+        {
+          "word": "spy",
+          "meaning": "n. 间谍v. 当间谍,刺探;察觉,发现"
+        },
+        {
+          "word": "staircase",
+          "meaning": "n. 楼梯"
+        },
+        {
+          "word": "stall",
+          "meaning": "n. 分隔栏;售货摊;前排座位,畜栏,厩"
+        },
+        {
+          "word": "staple",
+          "meaning": "n. 订书钉,U形钉;主食;主要产品;vt. 用订书钉订;a. 主要的;基本的;标准的"
+        },
+        {
+          "word": "statesman",
+          "meaning": "n. 政治家,政客"
+        },
+        {
+          "word": "stereo",
+          "meaning": "n. 立体声录音机"
+        },
+        {
+          "word": "stream",
+          "meaning": "n. 小河,溪流;流,一股,一串v. 流出,涌"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "stream",
+          "explanation": "最后一个目标词是小河,溪流（stream）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d046-2",
+      "title": "Understanding Spectrum Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "To avoid ambiguity, a coastal science hall explains spectrum as an ordered array of the components of an emission and spice as aromatic substances of vegetable origin used as a preservative. Field notes from a coastal science hall distinguish spine (the series of vertebrae forming the axis of the skeleton) from sponge (a porous mass of interlacing fibers). A chart in a coastal science hall defines sprinkle as a light shower and stalk as material on different branches. Students at a coastal science hall summarize stump as the base part of a tree and suspension as a mixture in, then test new examples. The glossary at a coastal science hall defines synthesis as the process of producing a chemical compound and cross-references sociology, meaning the study and classification of human societies.",
+      "translation": "为避免歧义，海岸科学馆的教师分别说明光谱,系列（spectrum）和香料,调味品（spice），再用实例展示各自用法。海岸科学馆的野外记录严格区分脊骨,书脊,地面隆起地带,中心,剌（spine）和海绵,海绵状物,松糕（sponge），使记录保持准确。海岸科学馆的图表把洒,喷,淋（sprinkle）和茎,梗vt. 悄悄地跟踪vi. 高视阔步地走（stalk）放在不同分支，让读者清楚看见两者区别。海岸科学馆的学生分别概括树桩,残茬,参与部分,残肢 v.僵硬地走,使为难（stump）与吊, 悬浮, 悬浮液, 暂停, 中止, 悬而未决, 延迟。（suspension），随后检验新实例是否符合定义。海岸科学馆的词汇表定义综合,合成法,合成物（synthesis），并以交叉索引引导读者查看社会学（sociology），但不把二者视为相同。",
+      "sentences": [
+        {
+          "en": "To avoid ambiguity, a coastal science hall explains spectrum as an ordered array of the components of an emission and spice as aromatic substances of vegetable origin used as a preservative.",
+          "zh": "为避免歧义，海岸科学馆的教师分别说明光谱,系列（spectrum）和香料,调味品（spice），再用实例展示各自用法。"
+        },
+        {
+          "en": "Field notes from a coastal science hall distinguish spine (the series of vertebrae forming the axis of the skeleton) from sponge (a porous mass of interlacing fibers).",
+          "zh": "海岸科学馆的野外记录严格区分脊骨,书脊,地面隆起地带,中心,剌（spine）和海绵,海绵状物,松糕（sponge），使记录保持准确。"
+        },
+        {
+          "en": "A chart in a coastal science hall defines sprinkle as a light shower and stalk as material on different branches.",
+          "zh": "海岸科学馆的图表把洒,喷,淋（sprinkle）和茎,梗vt. 悄悄地跟踪vi. 高视阔步地走（stalk）放在不同分支，让读者清楚看见两者区别。"
+        },
+        {
+          "en": "Students at a coastal science hall summarize stump as the base part of a tree and suspension as a mixture in, then test new examples.",
+          "zh": "海岸科学馆的学生分别概括树桩,残茬,参与部分,残肢 v.僵硬地走,使为难（stump）与吊, 悬浮, 悬浮液, 暂停, 中止, 悬而未决, 延迟。（suspension），随后检验新实例是否符合定义。"
+        },
+        {
+          "en": "The glossary at a coastal science hall defines synthesis as the process of producing a chemical compound and cross-references sociology, meaning the study and classification of human societies.",
+          "zh": "海岸科学馆的词汇表定义综合,合成法,合成物（synthesis），并以交叉索引引导读者查看社会学（sociology），但不把二者视为相同。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "spectrum",
+          "meaning": "n. 光谱,系列"
+        },
+        {
+          "word": "spice",
+          "meaning": "n.香料,调味品;香气"
+        },
+        {
+          "word": "spine",
+          "meaning": "n.脊骨,书脊,地面隆起地带,中心,剌"
+        },
+        {
+          "word": "sponge",
+          "meaning": "n. 海绵,海绵状物,松糕"
+        },
+        {
+          "word": "sprinkle",
+          "meaning": "n. 洒,喷,淋"
+        },
+        {
+          "word": "stalk",
+          "meaning": "n. 茎,梗vt. 悄悄地跟踪vi. 高视阔步地走"
+        },
+        {
+          "word": "stump",
+          "meaning": "n.树桩,残茬,参与部分,残肢 v.僵硬地走,使为难"
+        },
+        {
+          "word": "suspension",
+          "meaning": "n.吊, 悬浮, 悬浮液, 暂停, 中止, 悬而未决, 延迟。"
+        },
+        {
+          "word": "synthesis",
+          "meaning": "n. 综合,合成法,合成物"
+        },
+        {
+          "word": "sociology",
+          "meaning": "n. 社会学"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d046-3",
+      "title": "Why Stereotype Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "Decision makers at a coastal science hall cannot evaluate solidarity (a union of interests or purposes or sympathies among members) while excluding solo (any activity). A proposal for a coastal science hall prioritizes specialty (an asset of special worth or utility), while critics emphasize species (biology taxonomic group whose members can interbreed). Long-term planning at a coastal science hall needs indicators for specification (a detailed description of design criteria for a piece) and independent scrutiny of spectacle (something or someone seen). Residents near a coastal science hall debated squad (a smallest army unit) and standpoint (a mental position), then requested written evidence. Public trust at a coastal science hall needs honest discussion of statement (a message) and measurable commitments on stereotype (a conventional or formulaic conception or image).",
+      "translation": "海岸科学馆的决策者不能只评估团结一致（solidarity），却把独奏（solo）排除在公开证据之外。海岸科学馆的方案优先处理特性,性质（specialty），批评者则认为生物的种（species）也应得到同等关注。海岸科学馆的长期规划应公布载明,详述（specification）指标，也应允许独立人员审查有关(pl.)眼镜（spectacle）的主张。海岸科学馆附近居民讨论班（squad）和立场,观点（standpoint）后，要求书面说明成本与责任。海岸科学馆要建立公众信任，就必须诚实讨论声明,陈述（statement），并对印]铅版, 陈腔滥调, 老套。vt.使用铅版, 套用老套, 使一成不变。（stereotype）作出可衡量承诺。",
+      "sentences": [
+        {
+          "en": "Decision makers at a coastal science hall cannot evaluate solidarity (a union of interests or purposes or sympathies among members) while excluding solo (any activity).",
+          "zh": "海岸科学馆的决策者不能只评估团结一致（solidarity），却把独奏（solo）排除在公开证据之外。"
+        },
+        {
+          "en": "A proposal for a coastal science hall prioritizes specialty (an asset of special worth or utility), while critics emphasize species (biology taxonomic group whose members can interbreed).",
+          "zh": "海岸科学馆的方案优先处理特性,性质（specialty），批评者则认为生物的种（species）也应得到同等关注。"
+        },
+        {
+          "en": "Long-term planning at a coastal science hall needs indicators for specification (a detailed description of design criteria for a piece) and independent scrutiny of spectacle (something or someone seen).",
+          "zh": "海岸科学馆的长期规划应公布载明,详述（specification）指标，也应允许独立人员审查有关(pl.)眼镜（spectacle）的主张。"
+        },
+        {
+          "en": "Residents near a coastal science hall debated squad (a smallest army unit) and standpoint (a mental position), then requested written evidence.",
+          "zh": "海岸科学馆附近居民讨论班（squad）和立场,观点（standpoint）后，要求书面说明成本与责任。"
+        },
+        {
+          "en": "Public trust at a coastal science hall needs honest discussion of statement (a message) and measurable commitments on stereotype (a conventional or formulaic conception or image).",
+          "zh": "海岸科学馆要建立公众信任，就必须诚实讨论声明,陈述（statement），并对印]铅版, 陈腔滥调, 老套。vt.使用铅版, 套用老套, 使一成不变。（stereotype）作出可衡量承诺。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "solidarity",
+          "meaning": "n. 团结一致"
+        },
+        {
+          "word": "solo",
+          "meaning": "n. 独奏;独唱"
+        },
+        {
+          "word": "specialty",
+          "meaning": "n. 特性,性质;专业/长;特产"
+        },
+        {
+          "word": "species",
+          "meaning": "n. 生物的种;种类"
+        },
+        {
+          "word": "specification",
+          "meaning": "n. 载明,详述;规格,清单,说明书"
+        },
+        {
+          "word": "spectacle",
+          "meaning": "n. (pl.)眼镜;场面,景象;奇观,壮观"
+        },
+        {
+          "word": "squad",
+          "meaning": "n.班"
+        },
+        {
+          "word": "standpoint",
+          "meaning": "n. 立场,观点"
+        },
+        {
+          "word": "statement",
+          "meaning": "n. 声明,陈述"
+        },
+        {
+          "word": "stereotype",
+          "meaning": "n.[印]铅版, 陈腔滥调, 老套。vt.使用铅版, 套用老套, 使一成不变。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

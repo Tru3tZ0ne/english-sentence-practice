@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 64,
+  "articles": [
+    {
+      "id": "cet4-reading-d064-1",
+      "title": "The Treasurer File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "Near closing time at a provincial storm shelter, a diary linked the displays of bomber (a military aircraft) and supervisor (one). When a shelf shifted at a provincial storm shelter, staff protected files on pickle (vegetables) and broom (a cleaning implement for sweeping). A student at a provincial storm shelter photographed gutter—a channel along the eaves or on the roof—and sketched seaman—a man. Two volunteers at a provincial storm shelter used the inventory to identify art (the products of human creativity) and monk (a). The newest room at a provincial storm shelter began with foreman (a person) and ended with treasurer (an officer charged with receiving and disbursing funds).",
+      "translation": "省级风暴避难所闭馆前，一本提到轰炸机（bomber）的日记帮助员工找到了一幅标有监考人,监查（supervisor）的画的主人。省级风暴避难所的架子倒下时，员工保护了有关腌制食品,泡菜（pickle）的材料，也找回了旁边关于扫帚（broom）的档案。学生在省级风暴避难所记录沟,边沟（gutter）后，又到另一处展区了解海员,水手（seaman），两项内容分别得到清楚说明。省级风暴避难所的两名志愿者借助清单确认艺术,美术（art），并顺带找到另一条关于和尚,僧侣,修道士（monk）的记录。省级风暴避难所最新展厅从领班（foreman）开始，以一个出人意料的本地司库,财务主管（treasurer）实例结束。",
+      "sentences": [
+        {
+          "en": "Near closing time at a provincial storm shelter, a diary linked the displays of bomber (a military aircraft) and supervisor (one).",
+          "zh": "省级风暴避难所闭馆前，一本提到轰炸机（bomber）的日记帮助员工找到了一幅标有监考人,监查（supervisor）的画的主人。"
+        },
+        {
+          "en": "When a shelf shifted at a provincial storm shelter, staff protected files on pickle (vegetables) and broom (a cleaning implement for sweeping).",
+          "zh": "省级风暴避难所的架子倒下时，员工保护了有关腌制食品,泡菜（pickle）的材料，也找回了旁边关于扫帚（broom）的档案。"
+        },
+        {
+          "en": "A student at a provincial storm shelter photographed gutter—a channel along the eaves or on the roof—and sketched seaman—a man.",
+          "zh": "学生在省级风暴避难所记录沟,边沟（gutter）后，又到另一处展区了解海员,水手（seaman），两项内容分别得到清楚说明。"
+        },
+        {
+          "en": "Two volunteers at a provincial storm shelter used the inventory to identify art (the products of human creativity) and monk (a).",
+          "zh": "省级风暴避难所的两名志愿者借助清单确认艺术,美术（art），并顺带找到另一条关于和尚,僧侣,修道士（monk）的记录。"
+        },
+        {
+          "en": "The newest room at a provincial storm shelter began with foreman (a person) and ended with treasurer (an officer charged with receiving and disbursing funds).",
+          "zh": "省级风暴避难所最新展厅从领班（foreman）开始，以一个出人意料的本地司库,财务主管（treasurer）实例结束。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "bomber",
+          "meaning": "n.轰炸机"
+        },
+        {
+          "word": "supervisor",
+          "meaning": "n.监考人,监查"
+        },
+        {
+          "word": "pickle",
+          "meaning": "n.腌制食品,泡菜"
+        },
+        {
+          "word": "broom",
+          "meaning": "n. 扫帚"
+        },
+        {
+          "word": "gutter",
+          "meaning": "n.沟,边沟;檐槽"
+        },
+        {
+          "word": "seaman",
+          "meaning": "n.海员,水手;水兵"
+        },
+        {
+          "word": "art",
+          "meaning": "n. 艺术,美术;技术,技艺;文科,人文科学"
+        },
+        {
+          "word": "monk",
+          "meaning": "n.和尚,僧侣,修道士"
+        },
+        {
+          "word": "foreman",
+          "meaning": "n.领班"
+        },
+        {
+          "word": "treasurer",
+          "meaning": "n.司库,财务主管"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "treasurer",
+          "explanation": "最后一个目标词是司库,财务主管（treasurer）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d064-2",
+      "title": "Understanding Gale Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "To avoid ambiguity, a provincial storm shelter explains gale as a strong wind moving knots and sheep as woolly. The glossary at a provincial storm shelter defines thumb as the thick short innermost digit of the forelimb and cross-references evaporation, meaning the process of becoming a vapor. One panel in a provincial storm shelter illustrates dictatorship (a form of government); the next describes yolk (the yellow spherical part of an egg). The handbook at a provincial storm shelter introduces separation—the state of lacking unity—before embargo—a government order imposing a trade barrier. A demonstration at a provincial storm shelter makes honor (a tangible symbol signifying approval or distinction) concrete before explaining lantern (light in a transparent protective case).",
+      "translation": "为避免歧义，省级风暴避难所的教师分别说明大风（gale）和(绵)羊（sheep），再用实例展示各自用法。省级风暴避难所的词汇表定义大拇指（thumb），并以交叉索引引导读者查看蒸发,升华（evaporation），但不把二者视为相同。省级风暴避难所第一块展板说明独裁,专政（dictatorship），下一块介绍蛋黄,卵黄（yolk），访客因而能比较两个准确概念。省级风暴避难所的手册先介绍分离,分开（separation），再补充需要更多背景的禁止贸易（embargo）。省级风暴避难所的简短演示先让尊敬,敬意（honor）具体可见，再用第二个实例解释灯,灯笼（lantern）。",
+      "sentences": [
+        {
+          "en": "To avoid ambiguity, a provincial storm shelter explains gale as a strong wind moving knots and sheep as woolly.",
+          "zh": "为避免歧义，省级风暴避难所的教师分别说明大风（gale）和(绵)羊（sheep），再用实例展示各自用法。"
+        },
+        {
+          "en": "The glossary at a provincial storm shelter defines thumb as the thick short innermost digit of the forelimb and cross-references evaporation, meaning the process of becoming a vapor.",
+          "zh": "省级风暴避难所的词汇表定义大拇指（thumb），并以交叉索引引导读者查看蒸发,升华（evaporation），但不把二者视为相同。"
+        },
+        {
+          "en": "One panel in a provincial storm shelter illustrates dictatorship (a form of government); the next describes yolk (the yellow spherical part of an egg).",
+          "zh": "省级风暴避难所第一块展板说明独裁,专政（dictatorship），下一块介绍蛋黄,卵黄（yolk），访客因而能比较两个准确概念。"
+        },
+        {
+          "en": "The handbook at a provincial storm shelter introduces separation—the state of lacking unity—before embargo—a government order imposing a trade barrier.",
+          "zh": "省级风暴避难所的手册先介绍分离,分开（separation），再补充需要更多背景的禁止贸易（embargo）。"
+        },
+        {
+          "en": "A demonstration at a provincial storm shelter makes honor (a tangible symbol signifying approval or distinction) concrete before explaining lantern (light in a transparent protective case).",
+          "zh": "省级风暴避难所的简短演示先让尊敬,敬意（honor）具体可见，再用第二个实例解释灯,灯笼（lantern）。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "gale",
+          "meaning": "n. 大风;一阵喧闹"
+        },
+        {
+          "word": "sheep",
+          "meaning": "n. (绵)羊;易受人摆布的人"
+        },
+        {
+          "word": "thumb",
+          "meaning": "n. 大拇指"
+        },
+        {
+          "word": "evaporation",
+          "meaning": "n.蒸发,升华"
+        },
+        {
+          "word": "dictatorship",
+          "meaning": "n.独裁,专政"
+        },
+        {
+          "word": "yolk",
+          "meaning": "n.蛋黄,卵黄"
+        },
+        {
+          "word": "separation",
+          "meaning": "n.分离,分开;分居"
+        },
+        {
+          "word": "embargo",
+          "meaning": "n./v. 禁止贸易"
+        },
+        {
+          "word": "honor",
+          "meaning": "n. 尊敬,敬意;荣誉,光荣v. 尊敬"
+        },
+        {
+          "word": "lantern",
+          "meaning": "n. 灯,灯笼"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d064-3",
+      "title": "Why Writing Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "Policy at a provincial storm shelter should address Christianity—a monotheistic system of beliefs and practices based on—without ignoring science—a particular branch of scientific knowledge. A review panel at a provincial storm shelter rejected claims that recourse (act of turning to for assistance) automatically outweighed contemplation (a long and thoughtful observation). Funding choices at a provincial storm shelter require clear definitions of protocol (computer science rules determining the format and transmission of data) and immigration (migration into a place). Long-term planning at a provincial storm shelter needs indicators for metallurgy (the science and technology of metals) and independent scrutiny of scare (sudden mass fear and anxiety over anticipated events). An open meeting at a provincial storm shelter joined practical questions about permanence (the property of being able to exist for an indefinite) with concerns about writing (the act of creating written works).",
+      "translation": "省级风暴避难所的政策应处理基督教(精神)（Christianity），也不能忽视科学（science）；两者都需要证据而非口号。省级风暴避难所的审查小组拒绝在缺乏地方证据时认定求助对象,追索权,依靠,依赖（recourse）天然比苦思冥想（contemplation）更重要。省级风暴避难所的官员清楚定义礼仪,礼节,外交礼节（protocol）并解释方案如何回应移居入境（immigration），资金选择才会更明白。省级风暴避难所的长期规划应公布冶金学,冶金术（metallurgy）指标，也应允许独立人员审查有关惊恐,恐慌v. 惊吓,受惊（scare）的主张。省级风暴避难所的公开会议把有关永久,持久（permanence）的实际问题与写,写作（writing）带来的伦理问题一同讨论。",
+      "sentences": [
+        {
+          "en": "Policy at a provincial storm shelter should address Christianity—a monotheistic system of beliefs and practices based on—without ignoring science—a particular branch of scientific knowledge.",
+          "zh": "省级风暴避难所的政策应处理基督教(精神)（Christianity），也不能忽视科学（science）；两者都需要证据而非口号。"
+        },
+        {
+          "en": "A review panel at a provincial storm shelter rejected claims that recourse (act of turning to for assistance) automatically outweighed contemplation (a long and thoughtful observation).",
+          "zh": "省级风暴避难所的审查小组拒绝在缺乏地方证据时认定求助对象,追索权,依靠,依赖（recourse）天然比苦思冥想（contemplation）更重要。"
+        },
+        {
+          "en": "Funding choices at a provincial storm shelter require clear definitions of protocol (computer science rules determining the format and transmission of data) and immigration (migration into a place).",
+          "zh": "省级风暴避难所的官员清楚定义礼仪,礼节,外交礼节（protocol）并解释方案如何回应移居入境（immigration），资金选择才会更明白。"
+        },
+        {
+          "en": "Long-term planning at a provincial storm shelter needs indicators for metallurgy (the science and technology of metals) and independent scrutiny of scare (sudden mass fear and anxiety over anticipated events).",
+          "zh": "省级风暴避难所的长期规划应公布冶金学,冶金术（metallurgy）指标，也应允许独立人员审查有关惊恐,恐慌v. 惊吓,受惊（scare）的主张。"
+        },
+        {
+          "en": "An open meeting at a provincial storm shelter joined practical questions about permanence (the property of being able to exist for an indefinite) with concerns about writing (the act of creating written works).",
+          "zh": "省级风暴避难所的公开会议把有关永久,持久（permanence）的实际问题与写,写作（writing）带来的伦理问题一同讨论。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "Christianity",
+          "meaning": "n.基督教(精神)"
+        },
+        {
+          "word": "science",
+          "meaning": "n. 科学;学科"
+        },
+        {
+          "word": "recourse",
+          "meaning": "n.求助对象,追索权,依靠,依赖"
+        },
+        {
+          "word": "contemplation",
+          "meaning": "n.苦思冥想"
+        },
+        {
+          "word": "protocol",
+          "meaning": "n. 礼仪,礼节,外交礼节"
+        },
+        {
+          "word": "immigration",
+          "meaning": "n.移居入境"
+        },
+        {
+          "word": "metallurgy",
+          "meaning": "n.冶金学,冶金术"
+        },
+        {
+          "word": "scare",
+          "meaning": "n. 惊恐,恐慌v. 惊吓,受惊"
+        },
+        {
+          "word": "permanence",
+          "meaning": "n.永久,持久"
+        },
+        {
+          "word": "writing",
+          "meaning": "n. 写,写作;著作,作品"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

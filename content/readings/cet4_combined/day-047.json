@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 47,
+  "articles": [
+    {
+      "id": "cet4-reading-d047-1",
+      "title": "The Tutor File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "A student at a mountain transit inquiry photographed throne—the chair of state for a monarch—and sketched tile—a flat thin rectangular slab. The morning program at a mountain transit inquiry paired a section on tract (an extended area of land) with one on transit (a surveying instrument for measuring horizontal and vertical angles). Two volunteers at a mountain transit inquiry used the inventory to identify trench (a ditch dug as a fortification) and trifle (a cold pudding). A visitor entered a mountain transit inquiry asking about trigger (lever) and left with a note on tub (a relatively large open container). Inside a mountain transit inquiry, the curator corrected labels for tuck (eatables) and tutor (a person).",
+      "translation": "学生在山区交通调查会记录御座,宝座（throne）后，又到另一处展区了解瓦片,瓷砖vt. 铺瓦于,贴砖于（tile），两项内容分别得到清楚说明。山区交通调查会的上午活动把广阔的地面, 土地, 地方, 地域, (解剖)管道, 小册子。（tract）与另一项关于运输,搬运（transit）的展览相邻安排，但没有混淆两者。山区交通调查会的两名志愿者借助清单确认(挖)沟,(挖)战壕（trench），并顺带找到另一条关于琐事,小事,无价值的东西（trifle）的记录。访客到山区交通调查会询问(枪)扳机（trigger），旧平面图却意外引导她发现了木盆,澡盆（tub）。山区交通调查会的策展人先纠正缝褶 v. 打褶裥（tuck）的标签错误，随后发现关于导师（tutor）的材料也放错了位置。",
+      "sentences": [
+        {
+          "en": "A student at a mountain transit inquiry photographed throne—the chair of state for a monarch—and sketched tile—a flat thin rectangular slab.",
+          "zh": "学生在山区交通调查会记录御座,宝座（throne）后，又到另一处展区了解瓦片,瓷砖vt. 铺瓦于,贴砖于（tile），两项内容分别得到清楚说明。"
+        },
+        {
+          "en": "The morning program at a mountain transit inquiry paired a section on tract (an extended area of land) with one on transit (a surveying instrument for measuring horizontal and vertical angles).",
+          "zh": "山区交通调查会的上午活动把广阔的地面, 土地, 地方, 地域, (解剖)管道, 小册子。（tract）与另一项关于运输,搬运（transit）的展览相邻安排，但没有混淆两者。"
+        },
+        {
+          "en": "Two volunteers at a mountain transit inquiry used the inventory to identify trench (a ditch dug as a fortification) and trifle (a cold pudding).",
+          "zh": "山区交通调查会的两名志愿者借助清单确认(挖)沟,(挖)战壕（trench），并顺带找到另一条关于琐事,小事,无价值的东西（trifle）的记录。"
+        },
+        {
+          "en": "A visitor entered a mountain transit inquiry asking about trigger (lever) and left with a note on tub (a relatively large open container).",
+          "zh": "访客到山区交通调查会询问(枪)扳机（trigger），旧平面图却意外引导她发现了木盆,澡盆（tub）。"
+        },
+        {
+          "en": "Inside a mountain transit inquiry, the curator corrected labels for tuck (eatables) and tutor (a person).",
+          "zh": "山区交通调查会的策展人先纠正缝褶 v. 打褶裥（tuck）的标签错误，随后发现关于导师（tutor）的材料也放错了位置。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "throne",
+          "meaning": "n. 御座,宝座;王位,王权"
+        },
+        {
+          "word": "tile",
+          "meaning": "n. 瓦片,瓷砖vt. 铺瓦于,贴砖于"
+        },
+        {
+          "word": "tract",
+          "meaning": "n.广阔的地面, 土地, 地方, 地域, (解剖)管道, 小册子。"
+        },
+        {
+          "word": "transit",
+          "meaning": "n. 运输,搬运"
+        },
+        {
+          "word": "trench",
+          "meaning": "n./v. (挖)沟,(挖)战壕"
+        },
+        {
+          "word": "trifle",
+          "meaning": "n. 琐事,小事,无价值的东西;vi. (with)嘲笑,轻视"
+        },
+        {
+          "word": "trigger",
+          "meaning": "n. (枪)扳机;引起反应的行动;vt. 触发,引起"
+        },
+        {
+          "word": "tub",
+          "meaning": "n. 木盆,澡盆"
+        },
+        {
+          "word": "tuck",
+          "meaning": "n. 缝褶 v. 打褶裥"
+        },
+        {
+          "word": "tutor",
+          "meaning": "n. 导师;家庭教师v. 辅导;当导师;当家庭教师"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "tutor",
+          "explanation": "最后一个目标词是导师（tutor）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d047-2",
+      "title": "Understanding Thigh Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "The handbook at a mountain transit inquiry introduces thigh—the part of the leg between the hip—before transplant—surgery tissue or organ transplanted from a donor. Field notes from a mountain transit inquiry distinguish valve (a structure in a hollow organ) from vein (a blood vessel). The glossary at a mountain transit inquiry defines temperament as your usual mood and cross-references tempo, meaning music the speed at which a composition is to be. A classification exercise at a mountain transit inquiry compares tenant (someone) with terrace (usually paved outdoor area adjoining a residence). By separating terrain (a piece of ground) from testimony (a solemn statement), a mountain transit inquiry turns definitions into usable knowledge.",
+      "translation": "山区交通调查会的手册先介绍大腿,股（thigh），再补充需要更多背景的移植,移种（transplant）。山区交通调查会的野外记录严格区分阀,活门（valve）和血管（vein），使记录保持准确。山区交通调查会的词汇表定义气质, 性情, 易激动, 急躁。（temperament），并以交叉索引引导读者查看(音乐)速度、拍子, 发展速度。（tempo），但不把二者视为相同。山区交通调查会的分类练习把承租人（tenant）与斜坡地,梯田（terrace）并列，要求学习者找出两者不同特征。山区交通调查会把地形。（terrain）与证据,证词（testimony）分开考察，使两个陌生概念转化为可使用的知识。",
+      "sentences": [
+        {
+          "en": "The handbook at a mountain transit inquiry introduces thigh—the part of the leg between the hip—before transplant—surgery tissue or organ transplanted from a donor.",
+          "zh": "山区交通调查会的手册先介绍大腿,股（thigh），再补充需要更多背景的移植,移种（transplant）。"
+        },
+        {
+          "en": "Field notes from a mountain transit inquiry distinguish valve (a structure in a hollow organ) from vein (a blood vessel).",
+          "zh": "山区交通调查会的野外记录严格区分阀,活门（valve）和血管（vein），使记录保持准确。"
+        },
+        {
+          "en": "The glossary at a mountain transit inquiry defines temperament as your usual mood and cross-references tempo, meaning music the speed at which a composition is to be.",
+          "zh": "山区交通调查会的词汇表定义气质, 性情, 易激动, 急躁。（temperament），并以交叉索引引导读者查看(音乐)速度、拍子, 发展速度。（tempo），但不把二者视为相同。"
+        },
+        {
+          "en": "A classification exercise at a mountain transit inquiry compares tenant (someone) with terrace (usually paved outdoor area adjoining a residence).",
+          "zh": "山区交通调查会的分类练习把承租人（tenant）与斜坡地,梯田（terrace）并列，要求学习者找出两者不同特征。"
+        },
+        {
+          "en": "By separating terrain (a piece of ground) from testimony (a solemn statement), a mountain transit inquiry turns definitions into usable knowledge.",
+          "zh": "山区交通调查会把地形。（terrain）与证据,证词（testimony）分开考察，使两个陌生概念转化为可使用的知识。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "thigh",
+          "meaning": "n. 大腿,股"
+        },
+        {
+          "word": "transplant",
+          "meaning": "n./v. 移植,移种;人工 移植(心,胃);迁移"
+        },
+        {
+          "word": "valve",
+          "meaning": "n. 阀,活门"
+        },
+        {
+          "word": "vein",
+          "meaning": "n. 血管;静脉;叶脉;纹理;情绪vt. 使成脉络"
+        },
+        {
+          "word": "temperament",
+          "meaning": "n.气质, 性情, 易激动, 急躁。"
+        },
+        {
+          "word": "tempo",
+          "meaning": "n.(音乐)速度、拍子, 发展速度。"
+        },
+        {
+          "word": "tenant",
+          "meaning": "n. 承租人;房客;佃户vt. 租借,承租"
+        },
+        {
+          "word": "terrace",
+          "meaning": "n. 斜坡地,梯田;看台,大阶梯"
+        },
+        {
+          "word": "terrain",
+          "meaning": "n.地形。"
+        },
+        {
+          "word": "testimony",
+          "meaning": "n. 证据,证词;表明,说明"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d047-3",
+      "title": "Why Transaction Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "Policy at a mountain transit inquiry should address texture—the feel of a surface or a fabric—without ignoring theft—the act of taking something from someone unlawfully. The strongest argument at a mountain transit inquiry supported theme (the subject matter of a conversation or discussion) but demanded safeguards for thesis (an unproved statement put forward as a premise). A review panel at a mountain transit inquiry rejected claims that thorn (something) automatically outweighed token (an individual instance of a type of symbol). An open meeting at a mountain transit inquiry joined practical questions about toll (a fee levied for the use of roads or bridges) with concerns about trademark (a distinctive characteristic or attribute). Before approving change at a mountain transit inquiry, leaders must explain trait (a distinguishing feature of your personal nature) and risks involving transaction (the act of transacting within or between groups).",
+      "translation": "山区交通调查会的政策应处理(织品的)质地, (木材, 岩石等的)纹理, (皮肤)肌理, (文艺作品)结构。（texture），也不能忽视偷盗（theft）；两者都需要证据而非口号。山区交通调查会最有力的论证支持处理题目,主题（theme），同时要求在(学位)论文（thesis）受影响时设置保障。山区交通调查会的审查小组拒绝在缺乏地方证据时认定刺,荆棘（thorn）天然比代价券,礼券（token）更重要。山区交通调查会的公开会议把有关(道路、桥梁等的)通行税（toll）的实际问题与商标（trademark）带来的伦理问题一同讨论。批准山区交通调查会的改变前，领导者应解释显著的特点, 特性。（trait）为何重要，以及谁承担办理,处理,执行（transaction）带来的风险。",
+      "sentences": [
+        {
+          "en": "Policy at a mountain transit inquiry should address texture—the feel of a surface or a fabric—without ignoring theft—the act of taking something from someone unlawfully.",
+          "zh": "山区交通调查会的政策应处理(织品的)质地, (木材, 岩石等的)纹理, (皮肤)肌理, (文艺作品)结构。（texture），也不能忽视偷盗（theft）；两者都需要证据而非口号。"
+        },
+        {
+          "en": "The strongest argument at a mountain transit inquiry supported theme (the subject matter of a conversation or discussion) but demanded safeguards for thesis (an unproved statement put forward as a premise).",
+          "zh": "山区交通调查会最有力的论证支持处理题目,主题（theme），同时要求在(学位)论文（thesis）受影响时设置保障。"
+        },
+        {
+          "en": "A review panel at a mountain transit inquiry rejected claims that thorn (something) automatically outweighed token (an individual instance of a type of symbol).",
+          "zh": "山区交通调查会的审查小组拒绝在缺乏地方证据时认定刺,荆棘（thorn）天然比代价券,礼券（token）更重要。"
+        },
+        {
+          "en": "An open meeting at a mountain transit inquiry joined practical questions about toll (a fee levied for the use of roads or bridges) with concerns about trademark (a distinctive characteristic or attribute).",
+          "zh": "山区交通调查会的公开会议把有关(道路、桥梁等的)通行税（toll）的实际问题与商标（trademark）带来的伦理问题一同讨论。"
+        },
+        {
+          "en": "Before approving change at a mountain transit inquiry, leaders must explain trait (a distinguishing feature of your personal nature) and risks involving transaction (the act of transacting within or between groups).",
+          "zh": "批准山区交通调查会的改变前，领导者应解释显著的特点, 特性。（trait）为何重要，以及谁承担办理,处理,执行（transaction）带来的风险。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "texture",
+          "meaning": "n.(织品的)质地, (木材, 岩石等的)纹理, (皮肤)肌理, (文艺作品)结构。"
+        },
+        {
+          "word": "theft",
+          "meaning": "n. 偷盗"
+        },
+        {
+          "word": "theme",
+          "meaning": "n. 题目,主题"
+        },
+        {
+          "word": "thesis",
+          "meaning": "n. (学位)论文"
+        },
+        {
+          "word": "thorn",
+          "meaning": "n. 刺,荆棘"
+        },
+        {
+          "word": "token",
+          "meaning": "n. 代价券,礼券;(用作某种特殊用途的替代货币的)筹码;信物,标志,纪念品;象征性的"
+        },
+        {
+          "word": "toll",
+          "meaning": "n. (道路、桥梁等的)通行税;损坏,死伤人数;钟声;v. (缓慢而有规律地)鸣(钟), 敲(钟)"
+        },
+        {
+          "word": "trademark",
+          "meaning": "n. 商标;特征vt. 注册的...商标"
+        },
+        {
+          "word": "trait",
+          "meaning": "n.显著的特点, 特性。"
+        },
+        {
+          "word": "transaction",
+          "meaning": "n. 办理,处理,执行;事务,事项,交易;议事录,会议简报"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

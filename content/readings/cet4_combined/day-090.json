@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 90,
+  "articles": [
+    {
+      "id": "cet4-reading-d090-1",
+      "title": "The Oatmeal File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "A visitor entered a centennial marine museum asking about partisan (a fervent and even militant proponent of something) and left with a note on sustenance (a source of materials to nourish the body). A student at a centennial marine museum photographed nominee—a politician—and sketched raft—a flat float. Two volunteers at a centennial marine museum used the inventory to identify dredge (a power shovel to remove material from a channel) and commuter (a passenger train). During a tour of a centennial marine museum, the class found crater (a bowl-shaped geological formation at the top of a volcano) before locating planetarium (a building housing an instrument for projecting the positions). The morning program at a centennial marine museum paired a section on pedestal (a support or foundation) with one on oatmeal (porridge).",
+      "translation": "访客到百年海洋博物馆询问游击队。（partisan），旧平面图却意外引导她发现了食物, 生计, (受)支持。（sustenance）。学生在百年海洋博物馆记录被提名的人, 被任命者。（nominee）后，又到另一处展区了解筏, 救生艇, 橡皮船, 大量。vi.乘筏。vt.筏运, 制成筏（raft），两项内容分别得到清楚说明。百年海洋博物馆的两名志愿者借助清单确认挖泥机, 挖泥船, 捞网。v.挖掘, 疏浚, 捞取, 撒在食物上（dredge），并顺带找到另一条关于通勤者, 经常往返者。（commuter）的记录。百年海洋博物馆的参观先让学生认识弹坑。（crater）；一块丢失的标牌又把他们带到行星仪, 天文馆。（planetarium）。百年海洋博物馆的上午活动把基架, 底座, 基础。vt.加座, 搁在台上, 支持（pedestal）与另一项关于(燕)麦片, (燕)麦粥。（oatmeal）的展览相邻安排，但没有混淆两者。",
+      "sentences": [
+        {
+          "en": "A visitor entered a centennial marine museum asking about partisan (a fervent and even militant proponent of something) and left with a note on sustenance (a source of materials to nourish the body).",
+          "zh": "访客到百年海洋博物馆询问游击队。（partisan），旧平面图却意外引导她发现了食物, 生计, (受)支持。（sustenance）。"
+        },
+        {
+          "en": "A student at a centennial marine museum photographed nominee—a politician—and sketched raft—a flat float.",
+          "zh": "学生在百年海洋博物馆记录被提名的人, 被任命者。（nominee）后，又到另一处展区了解筏, 救生艇, 橡皮船, 大量。vi.乘筏。vt.筏运, 制成筏（raft），两项内容分别得到清楚说明。"
+        },
+        {
+          "en": "Two volunteers at a centennial marine museum used the inventory to identify dredge (a power shovel to remove material from a channel) and commuter (a passenger train).",
+          "zh": "百年海洋博物馆的两名志愿者借助清单确认挖泥机, 挖泥船, 捞网。v.挖掘, 疏浚, 捞取, 撒在食物上（dredge），并顺带找到另一条关于通勤者, 经常往返者。（commuter）的记录。"
+        },
+        {
+          "en": "During a tour of a centennial marine museum, the class found crater (a bowl-shaped geological formation at the top of a volcano) before locating planetarium (a building housing an instrument for projecting the positions).",
+          "zh": "百年海洋博物馆的参观先让学生认识弹坑。（crater）；一块丢失的标牌又把他们带到行星仪, 天文馆。（planetarium）。"
+        },
+        {
+          "en": "The morning program at a centennial marine museum paired a section on pedestal (a support or foundation) with one on oatmeal (porridge).",
+          "zh": "百年海洋博物馆的上午活动把基架, 底座, 基础。vt.加座, 搁在台上, 支持（pedestal）与另一项关于(燕)麦片, (燕)麦粥。（oatmeal）的展览相邻安排，但没有混淆两者。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "partisan",
+          "meaning": "n.游击队。"
+        },
+        {
+          "word": "sustenance",
+          "meaning": "n.食物, 生计, (受)支持。"
+        },
+        {
+          "word": "nominee",
+          "meaning": "n.被提名的人, 被任命者。"
+        },
+        {
+          "word": "raft",
+          "meaning": "n.筏, 救生艇, 橡皮船, 大量。vi.乘筏。vt.筏运, 制成筏"
+        },
+        {
+          "word": "dredge",
+          "meaning": "n.挖泥机, 挖泥船, 捞网。v.挖掘, 疏浚, 捞取, 撒在食物上"
+        },
+        {
+          "word": "commuter",
+          "meaning": "n.通勤者, 经常往返者。"
+        },
+        {
+          "word": "crater",
+          "meaning": "n.弹坑。"
+        },
+        {
+          "word": "planetarium",
+          "meaning": "n.行星仪, 天文馆。"
+        },
+        {
+          "word": "pedestal",
+          "meaning": "n.基架, 底座, 基础。vt.加座, 搁在台上, 支持"
+        },
+        {
+          "word": "oatmeal",
+          "meaning": "n.(燕)麦片, (燕)麦粥。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "oatmeal",
+          "explanation": "最后一个目标词是(燕)麦片, (燕)麦粥。（oatmeal）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d090-2",
+      "title": "Understanding Plankton Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "A chart in a centennial marine museum defines plankton as the aggregate of small plant and animal organisms and caterpillar as a wormlike and often brightly colored and hairy or spiny on different branches. Field notes from a centennial marine museum distinguish silt (mud or clay or small rocks deposited by a river) from debris (the remains of something). By separating socket (a bony hollow into) from porpoise (any of several small gregarious cetacean mammals), a centennial marine museum turns definitions into usable knowledge. One panel in a centennial marine museum illustrates cellulose (a polysaccharide); the next describes whirlwind (a more or less vertical column of air whirling around). Students at a centennial marine museum summarize iodine as a nonmetallic element belonging to the halogens and hormone as the secretion of an endocrine gland, then test new examples.",
+      "translation": "百年海洋博物馆的图表把浮游生物。（plankton）和毛虫。（caterpillar）放在不同分支，让读者清楚看见两者区别。百年海洋博物馆的野外记录严格区分淤泥, 残渣, 煤粉, 泥沙。v.(使)淤塞, 充塞。（silt）和碎片, 残骸。（debris），使记录保持准确。百年海洋博物馆把窝, 穴, 孔, 插座, 牙糟。v.给...配插座。（socket）与动]海豚, 小鲸。（porpoise）分开考察，使两个陌生概念转化为可使用的知识。百年海洋博物馆第一块展板说明纤维素。（cellulose），下一块介绍旋风。（whirlwind），访客因而能比较两个准确概念。百年海洋博物馆的学生分别概括碘, 碘酒。5aIEdi:n（iodine）与荷尔蒙, 激素。（hormone），随后检验新实例是否符合定义。",
+      "sentences": [
+        {
+          "en": "A chart in a centennial marine museum defines plankton as the aggregate of small plant and animal organisms and caterpillar as a wormlike and often brightly colored and hairy or spiny on different branches.",
+          "zh": "百年海洋博物馆的图表把浮游生物。（plankton）和毛虫。（caterpillar）放在不同分支，让读者清楚看见两者区别。"
+        },
+        {
+          "en": "Field notes from a centennial marine museum distinguish silt (mud or clay or small rocks deposited by a river) from debris (the remains of something).",
+          "zh": "百年海洋博物馆的野外记录严格区分淤泥, 残渣, 煤粉, 泥沙。v.(使)淤塞, 充塞。（silt）和碎片, 残骸。（debris），使记录保持准确。"
+        },
+        {
+          "en": "By separating socket (a bony hollow into) from porpoise (any of several small gregarious cetacean mammals), a centennial marine museum turns definitions into usable knowledge.",
+          "zh": "百年海洋博物馆把窝, 穴, 孔, 插座, 牙糟。v.给...配插座。（socket）与动]海豚, 小鲸。（porpoise）分开考察，使两个陌生概念转化为可使用的知识。"
+        },
+        {
+          "en": "One panel in a centennial marine museum illustrates cellulose (a polysaccharide); the next describes whirlwind (a more or less vertical column of air whirling around).",
+          "zh": "百年海洋博物馆第一块展板说明纤维素。（cellulose），下一块介绍旋风。（whirlwind），访客因而能比较两个准确概念。"
+        },
+        {
+          "en": "Students at a centennial marine museum summarize iodine as a nonmetallic element belonging to the halogens and hormone as the secretion of an endocrine gland, then test new examples.",
+          "zh": "百年海洋博物馆的学生分别概括碘, 碘酒。5aIEdi:n（iodine）与荷尔蒙, 激素。（hormone），随后检验新实例是否符合定义。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "plankton",
+          "meaning": "n.浮游生物。"
+        },
+        {
+          "word": "caterpillar",
+          "meaning": "n.毛虫。"
+        },
+        {
+          "word": "silt",
+          "meaning": "n.淤泥, 残渣, 煤粉, 泥沙。v.(使)淤塞, 充塞。"
+        },
+        {
+          "word": "debris",
+          "meaning": "n.碎片, 残骸。"
+        },
+        {
+          "word": "socket",
+          "meaning": "n.窝, 穴, 孔, 插座, 牙糟。v.给...配插座。"
+        },
+        {
+          "word": "porpoise",
+          "meaning": "n.[动]海豚, 小鲸。"
+        },
+        {
+          "word": "cellulose",
+          "meaning": "n.纤维素。"
+        },
+        {
+          "word": "whirlwind",
+          "meaning": "n.旋风。"
+        },
+        {
+          "word": "iodine",
+          "meaning": "n.碘, 碘酒。5aIEdi:n;"
+        },
+        {
+          "word": "hormone",
+          "meaning": "n.荷尔蒙, 激素。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d090-3",
+      "title": "Why Presumption Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "A forum at a centennial marine museum considered equity (the difference between the market value of a property) alongside metaphor (a figure of speech) before setting priorities. Funding choices at a centennial marine museum require clear definitions of dearth (an acute insufficiency) and audit (an inspection of the accounting procedures and records). Long-term planning at a centennial marine museum needs indicators for prerequisite (something) and independent scrutiny of diarrhea (frequent and watery bowel movements). Before approving change at a centennial marine museum, leaders must explain masculinity (the properties characteristic) and risks involving printout (the output of a computer in printed form). A review panel at a centennial marine museum rejected claims that legion (archaic terms for army) automatically outweighed presumption (an assumption).",
+      "translation": "百年海洋博物馆的公开论坛同时考虑公平, 公正, 公平的事物, 资产净值, [律]平衡法。（equity）与修辞]隐喻, 暗喻, 比喻说话。（metaphor），并讨论哪一项更需要优先行动。百年海洋博物馆的官员清楚定义缺乏。（dearth）并解释方案如何回应审计, 稽核, 查帐。vt.稽核, 旁听。vi.查账（audit），资金选择才会更明白。百年海洋博物馆的长期规划应公布先决条件。adj.首要必备的（prerequisite）指标，也应允许独立人员审查有关痢疾,腹泻。（diarrhea）的主张。批准百年海洋博物馆的改变前，领导者应解释男性, 阳性, 雄性。（masculinity）为何重要，以及谁承担计]打印输出。（printout）带来的风险。百年海洋博物馆的审查小组拒绝在缺乏地方证据时认定古罗马军团(约有3000至6000步兵,辅以数百名骑兵), <书>众多, 大批。（legion）天然比假定。（presumption）更重要。",
+      "sentences": [
+        {
+          "en": "A forum at a centennial marine museum considered equity (the difference between the market value of a property) alongside metaphor (a figure of speech) before setting priorities.",
+          "zh": "百年海洋博物馆的公开论坛同时考虑公平, 公正, 公平的事物, 资产净值, [律]平衡法。（equity）与修辞]隐喻, 暗喻, 比喻说话。（metaphor），并讨论哪一项更需要优先行动。"
+        },
+        {
+          "en": "Funding choices at a centennial marine museum require clear definitions of dearth (an acute insufficiency) and audit (an inspection of the accounting procedures and records).",
+          "zh": "百年海洋博物馆的官员清楚定义缺乏。（dearth）并解释方案如何回应审计, 稽核, 查帐。vt.稽核, 旁听。vi.查账（audit），资金选择才会更明白。"
+        },
+        {
+          "en": "Long-term planning at a centennial marine museum needs indicators for prerequisite (something) and independent scrutiny of diarrhea (frequent and watery bowel movements).",
+          "zh": "百年海洋博物馆的长期规划应公布先决条件。adj.首要必备的（prerequisite）指标，也应允许独立人员审查有关痢疾,腹泻。（diarrhea）的主张。"
+        },
+        {
+          "en": "Before approving change at a centennial marine museum, leaders must explain masculinity (the properties characteristic) and risks involving printout (the output of a computer in printed form).",
+          "zh": "批准百年海洋博物馆的改变前，领导者应解释男性, 阳性, 雄性。（masculinity）为何重要，以及谁承担计]打印输出。（printout）带来的风险。"
+        },
+        {
+          "en": "A review panel at a centennial marine museum rejected claims that legion (archaic terms for army) automatically outweighed presumption (an assumption).",
+          "zh": "百年海洋博物馆的审查小组拒绝在缺乏地方证据时认定古罗马军团(约有3000至6000步兵,辅以数百名骑兵), <书>众多, 大批。（legion）天然比假定。（presumption）更重要。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "equity",
+          "meaning": "n.公平, 公正, 公平的事物, 资产净值, [律]平衡法。"
+        },
+        {
+          "word": "metaphor",
+          "meaning": "n.[修辞]隐喻, 暗喻, 比喻说话。"
+        },
+        {
+          "word": "dearth",
+          "meaning": "n.缺乏。"
+        },
+        {
+          "word": "audit",
+          "meaning": "n.审计, 稽核, 查帐。vt.稽核, 旁听。vi.查账"
+        },
+        {
+          "word": "prerequisite",
+          "meaning": "n.先决条件。adj.首要必备的"
+        },
+        {
+          "word": "diarrhea",
+          "meaning": "n.痢疾,腹泻。"
+        },
+        {
+          "word": "masculinity",
+          "meaning": "n.男性, 阳性, 雄性。"
+        },
+        {
+          "word": "printout",
+          "meaning": "n.[计]打印输出。"
+        },
+        {
+          "word": "legion",
+          "meaning": "n.古罗马军团(约有3000至6000步兵,辅以数百名骑兵), <书>众多, 大批。"
+        },
+        {
+          "word": "presumption",
+          "meaning": "n.假定。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

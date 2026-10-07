@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 66,
+  "articles": [
+    {
+      "id": "cet4-reading-d066-1",
+      "title": "The Theatre File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "During a tour of a family support office, the class found screen (a white or silvered surface) before locating mackintosh (a lightweight waterproof). Near closing time at a family support office, a diary linked the displays of kidnaper (someone) and pants (underpants worn by women). A quiet corner of a family support office presented robe (any loose flowing garment); a recording nearby introduced jug (a large bottle with a narrow mouth). Inside a family support office, the curator corrected labels for roman (a resident of modern Rome) and Irish (people of Ireland or of Irish extraction). Two volunteers at a family support office used the inventory to identify turtle (a sweater or jersey with a high close-fitting collar) and theatre (a building).",
+      "translation": "家庭支持办公室的参观先让学生认识屏幕,屏风（screen）；一块丢失的标牌又把他们带到(英国英语)雨衣（mackintosh）。家庭支持办公室闭馆前，一本提到绑架者（kidnaper）的日记帮助员工找到了一幅标有裤子（pants）的画的主人。家庭支持办公室安静的一角介绍长袍,上衣（robe），旁边的录音访谈则讲述(有柄,小口,可盛水等的)大壶,罐,盂（jug）背后的人物故事。家庭支持办公室的策展人先纠正古罗马人 a.罗马的（roman）的标签错误，随后发现关于&adj.爱尔兰人(的)（Irish）的材料也放错了位置。家庭支持办公室的两名志愿者借助清单确认海龟,玳瑁（turtle），并顺带找到另一条关于戏院（theatre）的记录。",
+      "sentences": [
+        {
+          "en": "During a tour of a family support office, the class found screen (a white or silvered surface) before locating mackintosh (a lightweight waterproof).",
+          "zh": "家庭支持办公室的参观先让学生认识屏幕,屏风（screen）；一块丢失的标牌又把他们带到(英国英语)雨衣（mackintosh）。"
+        },
+        {
+          "en": "Near closing time at a family support office, a diary linked the displays of kidnaper (someone) and pants (underpants worn by women).",
+          "zh": "家庭支持办公室闭馆前，一本提到绑架者（kidnaper）的日记帮助员工找到了一幅标有裤子（pants）的画的主人。"
+        },
+        {
+          "en": "A quiet corner of a family support office presented robe (any loose flowing garment); a recording nearby introduced jug (a large bottle with a narrow mouth).",
+          "zh": "家庭支持办公室安静的一角介绍长袍,上衣（robe），旁边的录音访谈则讲述(有柄,小口,可盛水等的)大壶,罐,盂（jug）背后的人物故事。"
+        },
+        {
+          "en": "Inside a family support office, the curator corrected labels for roman (a resident of modern Rome) and Irish (people of Ireland or of Irish extraction).",
+          "zh": "家庭支持办公室的策展人先纠正古罗马人 a.罗马的（roman）的标签错误，随后发现关于&adj.爱尔兰人(的)（Irish）的材料也放错了位置。"
+        },
+        {
+          "en": "Two volunteers at a family support office used the inventory to identify turtle (a sweater or jersey with a high close-fitting collar) and theatre (a building).",
+          "zh": "家庭支持办公室的两名志愿者借助清单确认海龟,玳瑁（turtle），并顺带找到另一条关于戏院（theatre）的记录。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "screen",
+          "meaning": "n. 屏幕,屏风;帘v. 掩蔽,包庇;筛选"
+        },
+        {
+          "word": "mackintosh",
+          "meaning": "n. (英国英语)雨衣;苹果计算机的 一种型号"
+        },
+        {
+          "word": "kidnaper",
+          "meaning": "n.绑架者"
+        },
+        {
+          "word": "pants",
+          "meaning": "n. 裤子"
+        },
+        {
+          "word": "robe",
+          "meaning": "n. 长袍,上衣"
+        },
+        {
+          "word": "jug",
+          "meaning": "n. (有柄,小口,可盛水等的)大壶,罐,盂"
+        },
+        {
+          "word": "roman",
+          "meaning": "n.古罗马人 a.罗马的"
+        },
+        {
+          "word": "Irish",
+          "meaning": "n. &adj.爱尔兰人(的)"
+        },
+        {
+          "word": "turtle",
+          "meaning": "n.海龟,玳瑁;甲鱼肉"
+        },
+        {
+          "word": "theatre",
+          "meaning": "n.戏院;戏剧;教室"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "theatre",
+          "explanation": "最后一个目标词是戏院（theatre）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d066-2",
+      "title": "Understanding Twig Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "A chart in a family support office defines twig as a small branch or division of a branch and popcorn as corn on different branches. By separating lighter (a substance used to ignite or kindle a fire) from fleece (the wool of a sheep or similar animal), a family support office turns definitions into usable knowledge. A classification exercise at a family support office compares peacock (European butterfly) with pregnancy (the state of being pregnant). A demonstration at a family support office makes receptionist (a secretary whose main duty is to answer the telephone) concrete before explaining surface (the outer boundary of an artifact or a material layer). Field notes from a family support office distinguish tent (a portable shelter) from email (computer science a system of world-wide electronic communication in which).",
+      "translation": "家庭支持办公室的图表把细枝（twig）和爆米花（popcorn）放在不同分支，让读者清楚看见两者区别。家庭支持办公室把打火机,引燃器（lighter）与羊毛（fleece）分开考察，使两个陌生概念转化为可使用的知识。家庭支持办公室的分类练习把孔雀（peacock）与怀孕（pregnancy）并列，要求学习者找出两者不同特征。家庭支持办公室的简短演示先让接待员（receptionist）具体可见，再用第二个实例解释表面（surface）。家庭支持办公室的野外记录严格区分帐篷（tent）和电子邮件（email），使记录保持准确。",
+      "sentences": [
+        {
+          "en": "A chart in a family support office defines twig as a small branch or division of a branch and popcorn as corn on different branches.",
+          "zh": "家庭支持办公室的图表把细枝（twig）和爆米花（popcorn）放在不同分支，让读者清楚看见两者区别。"
+        },
+        {
+          "en": "By separating lighter (a substance used to ignite or kindle a fire) from fleece (the wool of a sheep or similar animal), a family support office turns definitions into usable knowledge.",
+          "zh": "家庭支持办公室把打火机,引燃器（lighter）与羊毛（fleece）分开考察，使两个陌生概念转化为可使用的知识。"
+        },
+        {
+          "en": "A classification exercise at a family support office compares peacock (European butterfly) with pregnancy (the state of being pregnant).",
+          "zh": "家庭支持办公室的分类练习把孔雀（peacock）与怀孕（pregnancy）并列，要求学习者找出两者不同特征。"
+        },
+        {
+          "en": "A demonstration at a family support office makes receptionist (a secretary whose main duty is to answer the telephone) concrete before explaining surface (the outer boundary of an artifact or a material layer).",
+          "zh": "家庭支持办公室的简短演示先让接待员（receptionist）具体可见，再用第二个实例解释表面（surface）。"
+        },
+        {
+          "en": "Field notes from a family support office distinguish tent (a portable shelter) from email (computer science a system of world-wide electronic communication in which).",
+          "zh": "家庭支持办公室的野外记录严格区分帐篷（tent）和电子邮件（email），使记录保持准确。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "twig",
+          "meaning": "n.细枝"
+        },
+        {
+          "word": "popcorn",
+          "meaning": "n.爆米花"
+        },
+        {
+          "word": "lighter",
+          "meaning": "n.打火机,引燃器"
+        },
+        {
+          "word": "fleece",
+          "meaning": "n.羊毛"
+        },
+        {
+          "word": "peacock",
+          "meaning": "n.孔雀"
+        },
+        {
+          "word": "pregnancy",
+          "meaning": "n.怀孕"
+        },
+        {
+          "word": "receptionist",
+          "meaning": "n.接待员"
+        },
+        {
+          "word": "surface",
+          "meaning": "n. 表面;外表a. 表面的,肤浅的"
+        },
+        {
+          "word": "tent",
+          "meaning": "n. 帐篷"
+        },
+        {
+          "word": "email",
+          "meaning": "n.电子邮件"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d066-3",
+      "title": "Why Academy Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "Long-term planning at a family support office needs indicators for shipping (the commercial enterprise of moving goods and materials) and independent scrutiny of announcement (a formal public statement). Before approving change at a family support office, leaders must explain bleach (the whiteness) and risks involving earmark (identification mark on the ear of a domestic animal). Residents near a family support office debated society (an extended social group) and documentation (confirmation), then requested written evidence. A proposal for a family support office prioritizes pursuance (a search for an alternative), while critics emphasize mess (a state of confusion and disorderliness). Public trust at a family support office needs honest discussion of goodwill (accounting an intangible asset valued according to the advantage) and measurable commitments on academy (a secondary school).",
+      "translation": "家庭支持办公室的长期规划应公布船运,装运（shipping）指标，也应允许独立人员审查有关通知（announcement）的主张。批准家庭支持办公室的改变前，领导者应解释漂白剂（bleach）为何重要，以及谁承担标记,特征（earmark）带来的风险。家庭支持办公室附近居民讨论社会（society）和提供文件（documentation）后，要求书面说明成本与责任。家庭支持办公室的方案优先处理追求,实行（pursuance），批评者则认为凌乱状态,脏乱状态（mess）也应得到同等关注。家庭支持办公室要建立公众信任，就必须诚实讨论商誉（goodwill），并对(高等)专科院校（academy）作出可衡量承诺。",
+      "sentences": [
+        {
+          "en": "Long-term planning at a family support office needs indicators for shipping (the commercial enterprise of moving goods and materials) and independent scrutiny of announcement (a formal public statement).",
+          "zh": "家庭支持办公室的长期规划应公布船运,装运（shipping）指标，也应允许独立人员审查有关通知（announcement）的主张。"
+        },
+        {
+          "en": "Before approving change at a family support office, leaders must explain bleach (the whiteness) and risks involving earmark (identification mark on the ear of a domestic animal).",
+          "zh": "批准家庭支持办公室的改变前，领导者应解释漂白剂（bleach）为何重要，以及谁承担标记,特征（earmark）带来的风险。"
+        },
+        {
+          "en": "Residents near a family support office debated society (an extended social group) and documentation (confirmation), then requested written evidence.",
+          "zh": "家庭支持办公室附近居民讨论社会（society）和提供文件（documentation）后，要求书面说明成本与责任。"
+        },
+        {
+          "en": "A proposal for a family support office prioritizes pursuance (a search for an alternative), while critics emphasize mess (a state of confusion and disorderliness).",
+          "zh": "家庭支持办公室的方案优先处理追求,实行（pursuance），批评者则认为凌乱状态,脏乱状态（mess）也应得到同等关注。"
+        },
+        {
+          "en": "Public trust at a family support office needs honest discussion of goodwill (accounting an intangible asset valued according to the advantage) and measurable commitments on academy (a secondary school).",
+          "zh": "家庭支持办公室要建立公众信任，就必须诚实讨论商誉（goodwill），并对(高等)专科院校（academy）作出可衡量承诺。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "shipping",
+          "meaning": "n.船运,装运"
+        },
+        {
+          "word": "announcement",
+          "meaning": "n.通知"
+        },
+        {
+          "word": "bleach",
+          "meaning": "n. 漂白剂;v. 漂白"
+        },
+        {
+          "word": "earmark",
+          "meaning": "n.标记,特征"
+        },
+        {
+          "word": "society",
+          "meaning": "n. 社会;社团,协会,社;社交界,上流社会"
+        },
+        {
+          "word": "documentation",
+          "meaning": "n.提供文件"
+        },
+        {
+          "word": "pursuance",
+          "meaning": "n.追求,实行"
+        },
+        {
+          "word": "mess",
+          "meaning": "n. 凌乱状态,脏乱状态;混乱的局面,困境; v. 弄糟,弄脏,搞乱"
+        },
+        {
+          "word": "goodwill",
+          "meaning": "n.商誉"
+        },
+        {
+          "word": "academy",
+          "meaning": "n. (高等)专科院校;学术社团,协会,研究院"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

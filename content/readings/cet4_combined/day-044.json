@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 44,
+  "articles": [
+    {
+      "id": "cet4-reading-d044-1",
+      "title": "The Quota File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "The newest room at a public research showcase began with psychiatrist (a physician) and ended with pudding (any of various soft thick unsweetened baked dishes). Two volunteers at a public research showcase used the inventory to identify recipient (a person) and reel (a roll of photographic film holding a series of frames). During a tour of a public research showcase, the class found referee (sports the chief official as in boxing or American football) before locating refreshment (snacks and drinks served as a light meal). A quiet corner of a public research showcase presented refuge (a safe place); a recording nearby introduced rein (one of a pair of long straps). Inside a public research showcase, the curator corrected labels for quart (a United States liquid unit equal to fluid ounces) and quota (a prescribed number).",
+      "translation": "公共研究成果展最新展厅从精神病医师,精神病学家（psychiatrist）开始，以一个出人意料的本地布丁（pudding）实例结束。公共研究成果展的两名志愿者借助清单确认接受者 a. 容易接受的（recipient），并顺带找到另一条关于卷,轴（reel）的记录。公共研究成果展的参观先让学生认识(足球等)裁判员（referee）；一块丢失的标牌又把他们带到(pl.)点心,饮料（refreshment）。公共研究成果展安静的一角介绍避难处,藏身处（refuge），旁边的录音访谈则讲述缰绳,统治,支配v. 驾驭,控制,统治（rein）背后的人物故事。公共研究成果展的策展人先纠正夸脱（quart）的标签错误，随后发现关于配额,限额(进口及移民人数)（quota）的材料也放错了位置。",
+      "sentences": [
+        {
+          "en": "The newest room at a public research showcase began with psychiatrist (a physician) and ended with pudding (any of various soft thick unsweetened baked dishes).",
+          "zh": "公共研究成果展最新展厅从精神病医师,精神病学家（psychiatrist）开始，以一个出人意料的本地布丁（pudding）实例结束。"
+        },
+        {
+          "en": "Two volunteers at a public research showcase used the inventory to identify recipient (a person) and reel (a roll of photographic film holding a series of frames).",
+          "zh": "公共研究成果展的两名志愿者借助清单确认接受者 a. 容易接受的（recipient），并顺带找到另一条关于卷,轴（reel）的记录。"
+        },
+        {
+          "en": "During a tour of a public research showcase, the class found referee (sports the chief official as in boxing or American football) before locating refreshment (snacks and drinks served as a light meal).",
+          "zh": "公共研究成果展的参观先让学生认识(足球等)裁判员（referee）；一块丢失的标牌又把他们带到(pl.)点心,饮料（refreshment）。"
+        },
+        {
+          "en": "A quiet corner of a public research showcase presented refuge (a safe place); a recording nearby introduced rein (one of a pair of long straps).",
+          "zh": "公共研究成果展安静的一角介绍避难处,藏身处（refuge），旁边的录音访谈则讲述缰绳,统治,支配v. 驾驭,控制,统治（rein）背后的人物故事。"
+        },
+        {
+          "en": "Inside a public research showcase, the curator corrected labels for quart (a United States liquid unit equal to fluid ounces) and quota (a prescribed number).",
+          "zh": "公共研究成果展的策展人先纠正夸脱（quart）的标签错误，随后发现关于配额,限额(进口及移民人数)（quota）的材料也放错了位置。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "psychiatrist",
+          "meaning": "n.精神病医师,精神病学家"
+        },
+        {
+          "word": "pudding",
+          "meaning": "n.布丁"
+        },
+        {
+          "word": "recipient",
+          "meaning": "n. 接受者 a. 容易接受的"
+        },
+        {
+          "word": "reel",
+          "meaning": "n. 卷,轴;(胶片)一盘; vt. 卷; vi. 眩晕,摇晃"
+        },
+        {
+          "word": "referee",
+          "meaning": "n.(足球等)裁判员"
+        },
+        {
+          "word": "refreshment",
+          "meaning": "n. (pl.)点心,饮料;精力恢复,爽快"
+        },
+        {
+          "word": "refuge",
+          "meaning": "n. 避难处,藏身处"
+        },
+        {
+          "word": "rein",
+          "meaning": "n. 缰绳,统治,支配v. 驾驭,控制,统治"
+        },
+        {
+          "word": "quart",
+          "meaning": "n. 夸脱"
+        },
+        {
+          "word": "quota",
+          "meaning": "n. 配额,限额(进口及移民人数)"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "quota",
+          "explanation": "最后一个目标词是配额,限额(进口及移民人数)（quota）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d044-2",
+      "title": "Understanding Pumpkin Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "At a public research showcase, pumpkin means a coarse vine widely cultivated for its large pulpy round, whereas quartz means colorless glass; separate examples prevent confusion. Field notes from a public research showcase distinguish probe (an inquiry into unfamiliar or questionable activities) from proceedings (law the institution of a sequence of steps by which). A chart in a public research showcase defines productivity as the quality of being productive and proficiency as the quality of on different branches. A demonstration at a public research showcase makes propaganda (information) concrete before explaining prophet (an authoritative person). The handbook at a public research showcase introduces proposition—logic a statement that affirms or denies something and is—before prose—ordinary writing as distinguished from verse.",
+      "translation": "公共研究成果展的课程分别解释南瓜,南瓜藤（pumpkin）与石英（quartz），避免学习者因定义不同而进行错误比较。公共研究成果展的野外记录严格区分医学探针（probe）和行动,进行,会议录,学报（proceedings），使记录保持准确。公共研究成果展的图表把生产率（productivity）和熟练,进步（proficiency）放在不同分支，让读者清楚看见两者区别。公共研究成果展的简短演示先让宣传,宣传方法（propaganda）具体可见，再用第二个实例解释预言家（prophet）。公共研究成果展的手册先介绍主张,建议（proposition），再补充需要更多背景的散文a. 散文的（prose）。",
+      "sentences": [
+        {
+          "en": "At a public research showcase, pumpkin means a coarse vine widely cultivated for its large pulpy round, whereas quartz means colorless glass; separate examples prevent confusion.",
+          "zh": "公共研究成果展的课程分别解释南瓜,南瓜藤（pumpkin）与石英（quartz），避免学习者因定义不同而进行错误比较。"
+        },
+        {
+          "en": "Field notes from a public research showcase distinguish probe (an inquiry into unfamiliar or questionable activities) from proceedings (law the institution of a sequence of steps by which).",
+          "zh": "公共研究成果展的野外记录严格区分医学探针（probe）和行动,进行,会议录,学报（proceedings），使记录保持准确。"
+        },
+        {
+          "en": "A chart in a public research showcase defines productivity as the quality of being productive and proficiency as the quality of on different branches.",
+          "zh": "公共研究成果展的图表把生产率（productivity）和熟练,进步（proficiency）放在不同分支，让读者清楚看见两者区别。"
+        },
+        {
+          "en": "A demonstration at a public research showcase makes propaganda (information) concrete before explaining prophet (an authoritative person).",
+          "zh": "公共研究成果展的简短演示先让宣传,宣传方法（propaganda）具体可见，再用第二个实例解释预言家（prophet）。"
+        },
+        {
+          "en": "The handbook at a public research showcase introduces proposition—logic a statement that affirms or denies something and is—before prose—ordinary writing as distinguished from verse.",
+          "zh": "公共研究成果展的手册先介绍主张,建议（proposition），再补充需要更多背景的散文a. 散文的（prose）。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "pumpkin",
+          "meaning": "n.南瓜,南瓜藤"
+        },
+        {
+          "word": "quartz",
+          "meaning": "n. 石英"
+        },
+        {
+          "word": "probe",
+          "meaning": "n./v. 医学探针;新闻调查;探测"
+        },
+        {
+          "word": "proceedings",
+          "meaning": "n.行动,进行,会议录,学报"
+        },
+        {
+          "word": "productivity",
+          "meaning": "n. 生产率"
+        },
+        {
+          "word": "proficiency",
+          "meaning": "n. 熟练,进步"
+        },
+        {
+          "word": "propaganda",
+          "meaning": "n. 宣传,宣传方法"
+        },
+        {
+          "word": "prophet",
+          "meaning": "n. 预言家;先知;提倡者"
+        },
+        {
+          "word": "proposition",
+          "meaning": "n. 主张,建议;陈述,命题"
+        },
+        {
+          "word": "prose",
+          "meaning": "n. 散文a. 散文的"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d044-3",
+      "title": "Why Recession Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "The strongest argument at a public research showcase supported prototype (a standard or typical example) but demanded safeguards for proximity (the property of being close together). Policy at a public research showcase should address purity—being undiluted or unmixed with extraneous material—without ignoring pursuit—the act of pursuing in an effort to overtake. Funding choices at a public research showcase require clear definitions of quest (a search for an alternative) and questionnaire (a form containing a set of questions). A review panel at a public research showcase rejected claims that rap (a reproach for some lapse or misdeed) automatically outweighed rating (an appraisal of the value of something). Decision makers at a public research showcase cannot evaluate rebellion (refusal to accept some authority or code or convention) while excluding recession (the state of the economy declines).",
+      "translation": "公共研究成果展最有力的论证支持处理原型（prototype），同时要求在接近, 亲近（proximity）受影响时设置保障。公共研究成果展的政策应处理纯净,纯洁（purity），也不能忽视追赶,追求（pursuit）；两者都需要证据而非口号。公共研究成果展的官员清楚定义寻找,追求（quest）并解释方案如何回应问题单,调查表,征求意见表（questionnaire），资金选择才会更明白。公共研究成果展的审查小组拒绝在缺乏地方证据时认定叩击,轻拍,轻敲,斥责（rap）天然比等级级别(尤指军阶),额定,责骂,申斥（rating）更重要。公共研究成果展的决策者不能只评估叛乱,反抗,起义（rebellion），却把后退,撤回（recession）排除在公开证据之外。",
+      "sentences": [
+        {
+          "en": "The strongest argument at a public research showcase supported prototype (a standard or typical example) but demanded safeguards for proximity (the property of being close together).",
+          "zh": "公共研究成果展最有力的论证支持处理原型（prototype），同时要求在接近, 亲近（proximity）受影响时设置保障。"
+        },
+        {
+          "en": "Policy at a public research showcase should address purity—being undiluted or unmixed with extraneous material—without ignoring pursuit—the act of pursuing in an effort to overtake.",
+          "zh": "公共研究成果展的政策应处理纯净,纯洁（purity），也不能忽视追赶,追求（pursuit）；两者都需要证据而非口号。"
+        },
+        {
+          "en": "Funding choices at a public research showcase require clear definitions of quest (a search for an alternative) and questionnaire (a form containing a set of questions).",
+          "zh": "公共研究成果展的官员清楚定义寻找,追求（quest）并解释方案如何回应问题单,调查表,征求意见表（questionnaire），资金选择才会更明白。"
+        },
+        {
+          "en": "A review panel at a public research showcase rejected claims that rap (a reproach for some lapse or misdeed) automatically outweighed rating (an appraisal of the value of something).",
+          "zh": "公共研究成果展的审查小组拒绝在缺乏地方证据时认定叩击,轻拍,轻敲,斥责（rap）天然比等级级别(尤指军阶),额定,责骂,申斥（rating）更重要。"
+        },
+        {
+          "en": "Decision makers at a public research showcase cannot evaluate rebellion (refusal to accept some authority or code or convention) while excluding recession (the state of the economy declines).",
+          "zh": "公共研究成果展的决策者不能只评估叛乱,反抗,起义（rebellion），却把后退,撤回（recession）排除在公开证据之外。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "prototype",
+          "meaning": "n. 原型"
+        },
+        {
+          "word": "proximity",
+          "meaning": "n.接近, 亲近"
+        },
+        {
+          "word": "purity",
+          "meaning": "n. 纯净,纯洁"
+        },
+        {
+          "word": "pursuit",
+          "meaning": "n. 追赶,追求;从事,消遣"
+        },
+        {
+          "word": "quest",
+          "meaning": "n./v. 寻找,追求"
+        },
+        {
+          "word": "questionnaire",
+          "meaning": "n. 问题单,调查表,征求意见表"
+        },
+        {
+          "word": "rap",
+          "meaning": "n.叩击,轻拍,轻敲,斥责;vt.敲,拍,厉声说出,斥责,使着迷;vi.敲击,交谈;abbr.[军]RocketAssistedProjectile,火箭助推炮弹"
+        },
+        {
+          "word": "rating",
+          "meaning": "n.等级级别(尤指军阶),额定,责骂,申斥"
+        },
+        {
+          "word": "rebellion",
+          "meaning": "n. 叛乱,反抗,起义"
+        },
+        {
+          "word": "recession",
+          "meaning": "n. 后退,撤回;(工商业)衰退,(价格)暴跌"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

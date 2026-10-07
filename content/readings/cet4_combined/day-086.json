@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 86,
+  "articles": [
+    {
+      "id": "cet4-reading-d086-1",
+      "title": "The Prophecy File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "A student at a mining settlement after rain photographed burrow—a hole—and sketched locker—a storage compartment for clothes and valuables. During a tour of a mining settlement after rain, the class found freak (a person or animal) before locating manifold (a pipe). A visitor entered a mining settlement after rain asking about asylum (a shelter from danger or hardship) and left with a note on bookkeeper (someone). The morning program at a mining settlement after rain paired a section on stationer (a merchant) with one on pulp (any soft or soggy mass). At a mining settlement after rain, a guide explained splint (a thin sliver of wood) beside a display of prophecy (knowledge of the future).",
+      "translation": "学生在暴雨后的矿业定居点记录洞穴。v.挖地洞（burrow）后，又到另一处展区了解上锁的人, 有锁的橱柜, 锁扣装置, 有锁的存物柜。（locker），两项内容分别得到清楚说明。暴雨后的矿业定居点的参观先让学生认识怪诞的思想、行动或事件, 畸形人, 畸形的动物或植物, 反复无常。adj.奇异的, 反常的。（freak）；一块丢失的标牌又把他们带到复印本, 多种。adj.多种形式的, 有许多部分的, 多方面的。vt.复写, 繁殖, 增多（manifold）。访客到暴雨后的矿业定居点询问庇护, 收容所, 救济院, 精神病院。（asylum），旧平面图却意外引导她发现了簿记员。（bookkeeper）。暴雨后的矿业定居点的上午活动把文具商, 文具店。（stationer）与另一项关于(水果的)果肉, 纸浆。vt.使化成纸浆, 除去...果肉, 。vi.变成纸浆（pulp）的展览相邻安排，但没有混淆两者。在暴雨后的矿业定居点的参观过程中，讲解员先介绍藤条, 薄木条, 薄金属片, (外科用的)夹板。v.用夹板来（splint），随后带大家找到另一项独立展品预言, 预言能力。（prophecy）。",
+      "sentences": [
+        {
+          "en": "A student at a mining settlement after rain photographed burrow—a hole—and sketched locker—a storage compartment for clothes and valuables.",
+          "zh": "学生在暴雨后的矿业定居点记录洞穴。v.挖地洞（burrow）后，又到另一处展区了解上锁的人, 有锁的橱柜, 锁扣装置, 有锁的存物柜。（locker），两项内容分别得到清楚说明。"
+        },
+        {
+          "en": "During a tour of a mining settlement after rain, the class found freak (a person or animal) before locating manifold (a pipe).",
+          "zh": "暴雨后的矿业定居点的参观先让学生认识怪诞的思想、行动或事件, 畸形人, 畸形的动物或植物, 反复无常。adj.奇异的, 反常的。（freak）；一块丢失的标牌又把他们带到复印本, 多种。adj.多种形式的, 有许多部分的, 多方面的。vt.复写, 繁殖, 增多（manifold）。"
+        },
+        {
+          "en": "A visitor entered a mining settlement after rain asking about asylum (a shelter from danger or hardship) and left with a note on bookkeeper (someone).",
+          "zh": "访客到暴雨后的矿业定居点询问庇护, 收容所, 救济院, 精神病院。（asylum），旧平面图却意外引导她发现了簿记员。（bookkeeper）。"
+        },
+        {
+          "en": "The morning program at a mining settlement after rain paired a section on stationer (a merchant) with one on pulp (any soft or soggy mass).",
+          "zh": "暴雨后的矿业定居点的上午活动把文具商, 文具店。（stationer）与另一项关于(水果的)果肉, 纸浆。vt.使化成纸浆, 除去...果肉, 。vi.变成纸浆（pulp）的展览相邻安排，但没有混淆两者。"
+        },
+        {
+          "en": "At a mining settlement after rain, a guide explained splint (a thin sliver of wood) beside a display of prophecy (knowledge of the future).",
+          "zh": "在暴雨后的矿业定居点的参观过程中，讲解员先介绍藤条, 薄木条, 薄金属片, (外科用的)夹板。v.用夹板来（splint），随后带大家找到另一项独立展品预言, 预言能力。（prophecy）。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "burrow",
+          "meaning": "n.洞穴。v.挖地洞"
+        },
+        {
+          "word": "locker",
+          "meaning": "n.上锁的人, 有锁的橱柜, 锁扣装置, 有锁的存物柜。"
+        },
+        {
+          "word": "freak",
+          "meaning": "n.怪诞的思想、行动或事件, 畸形人, 畸形的动物或植物, 反复无常。adj.奇异的, 反常的。"
+        },
+        {
+          "word": "manifold",
+          "meaning": "n.复印本, 多种。adj.多种形式的, 有许多部分的, 多方面的。vt.复写, 繁殖, 增多"
+        },
+        {
+          "word": "asylum",
+          "meaning": "n.庇护, 收容所, 救济院, 精神病院。"
+        },
+        {
+          "word": "bookkeeper",
+          "meaning": "n.簿记员。"
+        },
+        {
+          "word": "stationer",
+          "meaning": "n.文具商, 文具店。"
+        },
+        {
+          "word": "pulp",
+          "meaning": "n.(水果的)果肉, 纸浆。vt.使化成纸浆, 除去...果肉, 。vi.变成纸浆"
+        },
+        {
+          "word": "splint",
+          "meaning": "n.藤条, 薄木条, 薄金属片, (外科用的)夹板。v.用夹板来"
+        },
+        {
+          "word": "prophecy",
+          "meaning": "n.预言, 预言能力。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "prophecy",
+          "explanation": "最后一个目标词是预言, 预言能力。（prophecy）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d086-2",
+      "title": "Understanding Aerosol Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "Field notes from a mining settlement after rain distinguish aerosol (a cloud of solid or liquid particles in a gas) from downpour (a heavy rain). At a mining settlement after rain, pyrite means a common mineral, whereas snout means a long projecting or anterior elongation of an animal's head; separate examples prevent confusion. A classification exercise at a mining settlement after rain compares manure (any animal or plant material used to fertilize land) with slag (the scum formed by oxidation at the surface of molten). A chart in a mining settlement after rain defines excrement as waste matter and tenancy as an act of being a tenant or occupant on different branches. Students at a mining settlement after rain summarize microcosm as a miniature model of something and chisel as an edge tool with a flat steel blade, then test new examples.",
+      "translation": "暴雨后的矿业定居点的野外记录严格区分浮质(气体中的悬浮微粒,如烟,雾等), [化]气溶胶, 气雾剂, 烟雾剂。（aerosol）和倾盆大雨。（downpour），使记录保持准确。暴雨后的矿业定居点的课程分别解释矿]黄铁矿。（pyrite）与猪嘴。（snout），避免学习者因定义不同而进行错误比较。暴雨后的矿业定居点的分类练习把肥料。v.施肥于。（manure）与矿渣, 炉渣, 火山岩渣。v.起溶渣, 成溶渣。（slag）并列，要求学习者找出两者不同特征。暴雨后的矿业定居点的图表把排泄物, 大便。（excrement）和租佃, 租赁。（tenancy）放在不同分支，让读者清楚看见两者区别。暴雨后的矿业定居点的学生分别概括微观世界。（microcosm）与凿子。v.砍凿（chisel），随后检验新实例是否符合定义。",
+      "sentences": [
+        {
+          "en": "Field notes from a mining settlement after rain distinguish aerosol (a cloud of solid or liquid particles in a gas) from downpour (a heavy rain).",
+          "zh": "暴雨后的矿业定居点的野外记录严格区分浮质(气体中的悬浮微粒,如烟,雾等), [化]气溶胶, 气雾剂, 烟雾剂。（aerosol）和倾盆大雨。（downpour），使记录保持准确。"
+        },
+        {
+          "en": "At a mining settlement after rain, pyrite means a common mineral, whereas snout means a long projecting or anterior elongation of an animal's head; separate examples prevent confusion.",
+          "zh": "暴雨后的矿业定居点的课程分别解释矿]黄铁矿。（pyrite）与猪嘴。（snout），避免学习者因定义不同而进行错误比较。"
+        },
+        {
+          "en": "A classification exercise at a mining settlement after rain compares manure (any animal or plant material used to fertilize land) with slag (the scum formed by oxidation at the surface of molten).",
+          "zh": "暴雨后的矿业定居点的分类练习把肥料。v.施肥于。（manure）与矿渣, 炉渣, 火山岩渣。v.起溶渣, 成溶渣。（slag）并列，要求学习者找出两者不同特征。"
+        },
+        {
+          "en": "A chart in a mining settlement after rain defines excrement as waste matter and tenancy as an act of being a tenant or occupant on different branches.",
+          "zh": "暴雨后的矿业定居点的图表把排泄物, 大便。（excrement）和租佃, 租赁。（tenancy）放在不同分支，让读者清楚看见两者区别。"
+        },
+        {
+          "en": "Students at a mining settlement after rain summarize microcosm as a miniature model of something and chisel as an edge tool with a flat steel blade, then test new examples.",
+          "zh": "暴雨后的矿业定居点的学生分别概括微观世界。（microcosm）与凿子。v.砍凿（chisel），随后检验新实例是否符合定义。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "aerosol",
+          "meaning": "n.浮质(气体中的悬浮微粒,如烟,雾等), [化]气溶胶, 气雾剂, 烟雾剂。"
+        },
+        {
+          "word": "downpour",
+          "meaning": "n.倾盆大雨。"
+        },
+        {
+          "word": "pyrite",
+          "meaning": "n.[矿]黄铁矿。"
+        },
+        {
+          "word": "snout",
+          "meaning": "n.猪嘴。"
+        },
+        {
+          "word": "manure",
+          "meaning": "n.肥料。v.施肥于。"
+        },
+        {
+          "word": "slag",
+          "meaning": "n.矿渣, 炉渣, 火山岩渣。v.起溶渣, 成溶渣。"
+        },
+        {
+          "word": "excrement",
+          "meaning": "n.排泄物, 大便。"
+        },
+        {
+          "word": "tenancy",
+          "meaning": "n.租佃, 租赁。"
+        },
+        {
+          "word": "microcosm",
+          "meaning": "n.微观世界。"
+        },
+        {
+          "word": "chisel",
+          "meaning": "n.凿子。v.砍凿"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d086-3",
+      "title": "Why Treatise Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "Long-term planning at a mining settlement after rain needs indicators for resilience (the physical property of a material) and independent scrutiny of commotion (a disorderly outburst or tumult). Policy at a mining settlement after rain should address pharmacy—the art and science of preparing and dispensing drugs—without ignoring chronology—an arrangement of events in time. A forum at a mining settlement after rain considered scum (worthless people) alongside harangue (a loud bombastic declamation expressed with strong emotion) before setting priorities. Decision makers at a mining settlement after rain cannot evaluate penury (a state of extreme poverty or destitution) while excluding recapture (a legal seizure by the government of profits beyond). A review panel at a mining settlement after rain rejected claims that logistics (handling an operation) automatically outweighed treatise (a formal exposition).",
+      "translation": "暴雨后的矿业定居点的长期规划应公布弹回, 有弹力, 恢复力, 顺应力, 轻快, 达观, 愉快的心情。（resilience）指标，也应允许独立人员审查有关骚动, 暴乱。（commotion）的主张。暴雨后的矿业定居点的政策应处理药房, 药剂学, 配药业, 制药业, 一批备用药品。（pharmacy），也不能忽视年代学, 年表。（chronology）；两者都需要证据而非口号。暴雨后的矿业定居点的公开论坛同时考虑浮渣, 浮垢, 糟粕, 泡沫, 糖渣, 铁渣。vt.将浮渣去除掉。vi.产生泡沫, 被浮渣覆盖（scum）与尤指指责性的, 长篇大论, 夸张的话。vt.向...夸大地讲话, (作)长篇、大声、常带斥责的讲话。（harangue），并讨论哪一项更需要优先行动。暴雨后的矿业定居点的决策者不能只评估贫困, 贫穷。（penury），却把取回, 夺回, 政府对公司超额收益或利润的征收。vt.拿回, 夺回, 再体验, 政府征收再经历, 再体验（recapture）排除在公开证据之外。暴雨后的矿业定居点的审查小组拒绝在缺乏地方证据时认定后勤学, 后勤。（logistics）天然比论文, 论述。（treatise）更重要。",
+      "sentences": [
+        {
+          "en": "Long-term planning at a mining settlement after rain needs indicators for resilience (the physical property of a material) and independent scrutiny of commotion (a disorderly outburst or tumult).",
+          "zh": "暴雨后的矿业定居点的长期规划应公布弹回, 有弹力, 恢复力, 顺应力, 轻快, 达观, 愉快的心情。（resilience）指标，也应允许独立人员审查有关骚动, 暴乱。（commotion）的主张。"
+        },
+        {
+          "en": "Policy at a mining settlement after rain should address pharmacy—the art and science of preparing and dispensing drugs—without ignoring chronology—an arrangement of events in time.",
+          "zh": "暴雨后的矿业定居点的政策应处理药房, 药剂学, 配药业, 制药业, 一批备用药品。（pharmacy），也不能忽视年代学, 年表。（chronology）；两者都需要证据而非口号。"
+        },
+        {
+          "en": "A forum at a mining settlement after rain considered scum (worthless people) alongside harangue (a loud bombastic declamation expressed with strong emotion) before setting priorities.",
+          "zh": "暴雨后的矿业定居点的公开论坛同时考虑浮渣, 浮垢, 糟粕, 泡沫, 糖渣, 铁渣。vt.将浮渣去除掉。vi.产生泡沫, 被浮渣覆盖（scum）与尤指指责性的, 长篇大论, 夸张的话。vt.向...夸大地讲话, (作)长篇、大声、常带斥责的讲话。（harangue），并讨论哪一项更需要优先行动。"
+        },
+        {
+          "en": "Decision makers at a mining settlement after rain cannot evaluate penury (a state of extreme poverty or destitution) while excluding recapture (a legal seizure by the government of profits beyond).",
+          "zh": "暴雨后的矿业定居点的决策者不能只评估贫困, 贫穷。（penury），却把取回, 夺回, 政府对公司超额收益或利润的征收。vt.拿回, 夺回, 再体验, 政府征收再经历, 再体验（recapture）排除在公开证据之外。"
+        },
+        {
+          "en": "A review panel at a mining settlement after rain rejected claims that logistics (handling an operation) automatically outweighed treatise (a formal exposition).",
+          "zh": "暴雨后的矿业定居点的审查小组拒绝在缺乏地方证据时认定后勤学, 后勤。（logistics）天然比论文, 论述。（treatise）更重要。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "resilience",
+          "meaning": "n.弹回, 有弹力, 恢复力, 顺应力, 轻快, 达观, 愉快的心情。"
+        },
+        {
+          "word": "commotion",
+          "meaning": "n.骚动, 暴乱。"
+        },
+        {
+          "word": "pharmacy",
+          "meaning": "n.药房, 药剂学, 配药业, 制药业, 一批备用药品。"
+        },
+        {
+          "word": "chronology",
+          "meaning": "n.年代学, 年表。"
+        },
+        {
+          "word": "scum",
+          "meaning": "n.浮渣, 浮垢, 糟粕, 泡沫, 糖渣, 铁渣。vt.将浮渣去除掉。vi.产生泡沫, 被浮渣覆盖"
+        },
+        {
+          "word": "harangue",
+          "meaning": "n.尤指指责性的, 长篇大论, 夸张的话。vt.向...夸大地讲话, (作)长篇、大声、常带斥责的讲话。"
+        },
+        {
+          "word": "penury",
+          "meaning": "n.贫困, 贫穷。"
+        },
+        {
+          "word": "recapture",
+          "meaning": "n.取回, 夺回, 政府对公司超额收益或利润的征收。vt.拿回, 夺回, 再体验, 政府征收再经历, 再体验"
+        },
+        {
+          "word": "logistics",
+          "meaning": "n.后勤学, 后勤。"
+        },
+        {
+          "word": "treatise",
+          "meaning": "n.论文, 论述。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

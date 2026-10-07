@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 55,
+  "articles": [
+    {
+      "id": "cet4-reading-d055-1",
+      "title": "The Wash File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "A student at a regional technology weekend photographed smuggler—someone—and sketched deputy—someone authorized to exercise the powers of sheriff in emergencies. During a tour of a regional technology weekend, the class found eel (the fatty flesh of eel) before locating top (the upper part of anything). The morning program at a regional technology weekend paired a section on source (the place) with one on wreath (flower arrangement). Near closing time at a regional technology weekend, a diary linked the displays of son (a) and obstruction (any structure). Rain kept a family inside a regional technology weekend, learning about center (an area) and wash (a thin coat of water-base paint).",
+      "translation": "学生在区域科技周末活动记录走私者（smuggler）后，又到另一处展区了解代表,代理人（deputy），两项内容分别得到清楚说明。区域科技周末活动的参观先让学生认识鳝鱼（eel）；一块丢失的标牌又把他们带到顶,顶端（top）。区域科技周末活动的上午活动把源,源泉（source）与另一项关于花环,花圈（wreath）的展览相邻安排，但没有混淆两者。区域科技周末活动闭馆前，一本提到儿子（son）的日记帮助员工找到了一幅标有妨碍,障碍物（obstruction）的画的主人。雨天让一家人留在区域科技周末活动，一个孩子学习中心,中央,中间vt. 集中vi. 以...为中心（center），另一个孩子则操作与洗（wash）有关的模型。",
+      "sentences": [
+        {
+          "en": "A student at a regional technology weekend photographed smuggler—someone—and sketched deputy—someone authorized to exercise the powers of sheriff in emergencies.",
+          "zh": "学生在区域科技周末活动记录走私者（smuggler）后，又到另一处展区了解代表,代理人（deputy），两项内容分别得到清楚说明。"
+        },
+        {
+          "en": "During a tour of a regional technology weekend, the class found eel (the fatty flesh of eel) before locating top (the upper part of anything).",
+          "zh": "区域科技周末活动的参观先让学生认识鳝鱼（eel）；一块丢失的标牌又把他们带到顶,顶端（top）。"
+        },
+        {
+          "en": "The morning program at a regional technology weekend paired a section on source (the place) with one on wreath (flower arrangement).",
+          "zh": "区域科技周末活动的上午活动把源,源泉（source）与另一项关于花环,花圈（wreath）的展览相邻安排，但没有混淆两者。"
+        },
+        {
+          "en": "Near closing time at a regional technology weekend, a diary linked the displays of son (a) and obstruction (any structure).",
+          "zh": "区域科技周末活动闭馆前，一本提到儿子（son）的日记帮助员工找到了一幅标有妨碍,障碍物（obstruction）的画的主人。"
+        },
+        {
+          "en": "Rain kept a family inside a regional technology weekend, learning about center (an area) and wash (a thin coat of water-base paint).",
+          "zh": "雨天让一家人留在区域科技周末活动，一个孩子学习中心,中央,中间vt. 集中vi. 以...为中心（center），另一个孩子则操作与洗（wash）有关的模型。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "smuggler",
+          "meaning": "n.走私者"
+        },
+        {
+          "word": "deputy",
+          "meaning": "n. 代表,代理人"
+        },
+        {
+          "word": "eel",
+          "meaning": "n.鳝鱼"
+        },
+        {
+          "word": "top",
+          "meaning": "n. 顶,顶端;首位;顶点a. 最高的;顶上的"
+        },
+        {
+          "word": "source",
+          "meaning": "n. 源,源泉;来源,出处"
+        },
+        {
+          "word": "wreath",
+          "meaning": "n. 花环,花圈"
+        },
+        {
+          "word": "son",
+          "meaning": "n. 儿子;孩子(长者对年青或年幼男子的称呼)"
+        },
+        {
+          "word": "obstruction",
+          "meaning": "n. 妨碍,障碍物"
+        },
+        {
+          "word": "center",
+          "meaning": "n. 中心,中央,中间vt. 集中vi. 以...为中心"
+        },
+        {
+          "word": "wash",
+          "meaning": "n. 洗;洗的衣物vt. 冲刷,洗;冲出vi. 洗澡"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "wash",
+          "explanation": "最后一个目标词是洗（wash）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d055-2",
+      "title": "Understanding Cricket Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "A chart in a regional technology weekend defines cricket as leaping insect and foliage as the main organ of photosynthesis and transpiration in higher plants on different branches. Field notes from a regional technology weekend distinguish extraction (the process of obtaining something from a mixture or compound) from tar (any of various dark heavy viscid substances obtained). At a regional technology weekend, kerosene means a flammable hydrocarbon oil used as fuel in lamps, whereas willow means any of numerous deciduous trees and shrubs of the genus; separate examples prevent confusion. A demonstration at a regional technology weekend makes charcoal (a carbonaceous material obtained by heating wood or other organic) concrete before explaining bark (tough protective covering of the woody stems and roots). A classification exercise at a regional technology weekend compares carrot (deep orange edible root of the cultivated carrot plant) with ASEAN (an association of nations dedicated to economic and political cooperation).",
+      "translation": "区域科技周末活动的图表把板球,蟋蟀（cricket）和叶子(总称)（foliage）放在不同分支，让读者清楚看见两者区别。区域科技周末活动的野外记录严格区分抽出（extraction）和柏油,焦油vt. 涂或浇柏油/焦油于（tar），使记录保持准确。区域科技周末活动的课程分别解释煤油（kerosene）与柳树,柳木（willow），避免学习者因定义不同而进行错误比较。区域科技周末活动的简短演示先让炭,木炭（charcoal）具体可见，再用第二个实例解释树皮,狗叫（bark）。区域科技周末活动的分类练习把胡萝卜（carrot）与(缩)东盟（ASEAN）并列，要求学习者找出两者不同特征。",
+      "sentences": [
+        {
+          "en": "A chart in a regional technology weekend defines cricket as leaping insect and foliage as the main organ of photosynthesis and transpiration in higher plants on different branches.",
+          "zh": "区域科技周末活动的图表把板球,蟋蟀（cricket）和叶子(总称)（foliage）放在不同分支，让读者清楚看见两者区别。"
+        },
+        {
+          "en": "Field notes from a regional technology weekend distinguish extraction (the process of obtaining something from a mixture or compound) from tar (any of various dark heavy viscid substances obtained).",
+          "zh": "区域科技周末活动的野外记录严格区分抽出（extraction）和柏油,焦油vt. 涂或浇柏油/焦油于（tar），使记录保持准确。"
+        },
+        {
+          "en": "At a regional technology weekend, kerosene means a flammable hydrocarbon oil used as fuel in lamps, whereas willow means any of numerous deciduous trees and shrubs of the genus; separate examples prevent confusion.",
+          "zh": "区域科技周末活动的课程分别解释煤油（kerosene）与柳树,柳木（willow），避免学习者因定义不同而进行错误比较。"
+        },
+        {
+          "en": "A demonstration at a regional technology weekend makes charcoal (a carbonaceous material obtained by heating wood or other organic) concrete before explaining bark (tough protective covering of the woody stems and roots).",
+          "zh": "区域科技周末活动的简短演示先让炭,木炭（charcoal）具体可见，再用第二个实例解释树皮,狗叫（bark）。"
+        },
+        {
+          "en": "A classification exercise at a regional technology weekend compares carrot (deep orange edible root of the cultivated carrot plant) with ASEAN (an association of nations dedicated to economic and political cooperation).",
+          "zh": "区域科技周末活动的分类练习把胡萝卜（carrot）与(缩)东盟（ASEAN）并列，要求学习者找出两者不同特征。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "cricket",
+          "meaning": "n. 板球,蟋蟀"
+        },
+        {
+          "word": "foliage",
+          "meaning": "n.叶子(总称)"
+        },
+        {
+          "word": "extraction",
+          "meaning": "n.抽出;提取法;摘要"
+        },
+        {
+          "word": "tar",
+          "meaning": "n. 柏油,焦油vt. 涂或浇柏油/焦油于"
+        },
+        {
+          "word": "kerosene",
+          "meaning": "n.煤油"
+        },
+        {
+          "word": "willow",
+          "meaning": "n.柳树,柳木"
+        },
+        {
+          "word": "charcoal",
+          "meaning": "n.炭,木炭;生物炭"
+        },
+        {
+          "word": "bark",
+          "meaning": "n./v. 树皮,狗叫"
+        },
+        {
+          "word": "carrot",
+          "meaning": "n. 胡萝卜"
+        },
+        {
+          "word": "ASEAN",
+          "meaning": "n.(缩)东盟"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d055-3",
+      "title": "Why Blessing Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "An open meeting at a regional technology weekend joined practical questions about computerization (the control of processes by computer) with concerns about ecstasy (a state of being carried away by overwhelming emotion). Long-term planning at a regional technology weekend needs indicators for fortitude (strength of mind) and independent scrutiny of countermeasure (an action taken to offset another action). A review panel at a regional technology weekend rejected claims that treason (a crime) automatically outweighed dime (a United States coin worth one tenth of a dollar). Policy at a regional technology weekend should address novelette—a short novel—without ignoring excellence—the quality of excelling. A proposal for a regional technology weekend prioritizes inefficiency (unskillfulness), while critics emphasize blessing (the formal act of approving).",
+      "translation": "区域科技周末活动的公开会议把有关计算机化（computerization）的实际问题与狂喜（ecstasy）带来的伦理问题一同讨论。区域科技周末活动的长期规划应公布坚毅（fortitude）指标，也应允许独立人员审查有关对策（countermeasure）的主张。区域科技周末活动的审查小组拒绝在缺乏地方证据时认定谋反,通敌,叛国（treason）天然比(美元)一角（dime）更重要。区域科技周末活动的政策应处理中篇小说（novelette），也不能忽视优秀,卓越（excellence）；两者都需要证据而非口号。区域科技周末活动的方案优先处理无效力（inefficiency），批评者则认为祝福（blessing）也应得到同等关注。",
+      "sentences": [
+        {
+          "en": "An open meeting at a regional technology weekend joined practical questions about computerization (the control of processes by computer) with concerns about ecstasy (a state of being carried away by overwhelming emotion).",
+          "zh": "区域科技周末活动的公开会议把有关计算机化（computerization）的实际问题与狂喜（ecstasy）带来的伦理问题一同讨论。"
+        },
+        {
+          "en": "Long-term planning at a regional technology weekend needs indicators for fortitude (strength of mind) and independent scrutiny of countermeasure (an action taken to offset another action).",
+          "zh": "区域科技周末活动的长期规划应公布坚毅（fortitude）指标，也应允许独立人员审查有关对策（countermeasure）的主张。"
+        },
+        {
+          "en": "A review panel at a regional technology weekend rejected claims that treason (a crime) automatically outweighed dime (a United States coin worth one tenth of a dollar).",
+          "zh": "区域科技周末活动的审查小组拒绝在缺乏地方证据时认定谋反,通敌,叛国（treason）天然比(美元)一角（dime）更重要。"
+        },
+        {
+          "en": "Policy at a regional technology weekend should address novelette—a short novel—without ignoring excellence—the quality of excelling.",
+          "zh": "区域科技周末活动的政策应处理中篇小说（novelette），也不能忽视优秀,卓越（excellence）；两者都需要证据而非口号。"
+        },
+        {
+          "en": "A proposal for a regional technology weekend prioritizes inefficiency (unskillfulness), while critics emphasize blessing (the formal act of approving).",
+          "zh": "区域科技周末活动的方案优先处理无效力（inefficiency），批评者则认为祝福（blessing）也应得到同等关注。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "computerization",
+          "meaning": "n.计算机化"
+        },
+        {
+          "word": "ecstasy",
+          "meaning": "n.狂喜"
+        },
+        {
+          "word": "fortitude",
+          "meaning": "n.坚毅"
+        },
+        {
+          "word": "countermeasure",
+          "meaning": "n.对策"
+        },
+        {
+          "word": "treason",
+          "meaning": "n. 谋反,通敌,叛国"
+        },
+        {
+          "word": "dime",
+          "meaning": "n.(美元)一角"
+        },
+        {
+          "word": "novelette",
+          "meaning": "n.中篇小说"
+        },
+        {
+          "word": "excellence",
+          "meaning": "n.优秀,卓越"
+        },
+        {
+          "word": "inefficiency",
+          "meaning": "n.无效力"
+        },
+        {
+          "word": "blessing",
+          "meaning": "n.祝福"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

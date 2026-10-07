@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 94,
+  "articles": [
+    {
+      "id": "cet4-reading-d094-1",
+      "title": "The Turf File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "Rain kept a family inside an offshore rescue conference, learning about phoenix (the state capital and largest city located in south central) and janitor (someone employed to clean and maintain a building). Two volunteers at an offshore rescue conference used the inventory to identify heretic (a person) and toddler (a young child). When a shelf shifted at an offshore rescue conference, staff protected files on precipice (a very steep cliff) and casting (object formed by a mold). At an offshore rescue conference, a guide explained shack (small crude shelter used as a dwelling) beside a display of motif (a design or figure). A quiet corner of an offshore rescue conference presented onlooker (someone); a recording nearby introduced turf (surface layer of ground containing a mat of grass).",
+      "translation": "雨天让一家人留在近海救援会议，一个孩子学习凤凰, 长生鸟, 完人, 完美之物。（phoenix），另一个孩子则操作与看门人。（janitor）有关的模型。近海救援会议的两名志愿者借助清单确认异教徒, 异端者（heretic），并顺带找到另一条关于初学走路的孩子。（toddler）的记录。近海救援会议的架子倒下时，员工保护了有关悬崖。（precipice）的材料，也找回了旁边关于铸件, 铸造。（casting）的档案。在近海救援会议的参观过程中，讲解员先介绍小室。（shack），随后带大家找到另一项独立展品主题, 主旨, 动机, 图形。（motif）。近海救援会议安静的一角介绍旁观者。（onlooker），旁边的录音访谈则讲述草根土, 草皮, 泥炭, 跑马场, 赛马。vt.覆草皮于（turf）背后的人物故事。",
+      "sentences": [
+        {
+          "en": "Rain kept a family inside an offshore rescue conference, learning about phoenix (the state capital and largest city located in south central) and janitor (someone employed to clean and maintain a building).",
+          "zh": "雨天让一家人留在近海救援会议，一个孩子学习凤凰, 长生鸟, 完人, 完美之物。（phoenix），另一个孩子则操作与看门人。（janitor）有关的模型。"
+        },
+        {
+          "en": "Two volunteers at an offshore rescue conference used the inventory to identify heretic (a person) and toddler (a young child).",
+          "zh": "近海救援会议的两名志愿者借助清单确认异教徒, 异端者（heretic），并顺带找到另一条关于初学走路的孩子。（toddler）的记录。"
+        },
+        {
+          "en": "When a shelf shifted at an offshore rescue conference, staff protected files on precipice (a very steep cliff) and casting (object formed by a mold).",
+          "zh": "近海救援会议的架子倒下时，员工保护了有关悬崖。（precipice）的材料，也找回了旁边关于铸件, 铸造。（casting）的档案。"
+        },
+        {
+          "en": "At an offshore rescue conference, a guide explained shack (small crude shelter used as a dwelling) beside a display of motif (a design or figure).",
+          "zh": "在近海救援会议的参观过程中，讲解员先介绍小室。（shack），随后带大家找到另一项独立展品主题, 主旨, 动机, 图形。（motif）。"
+        },
+        {
+          "en": "A quiet corner of an offshore rescue conference presented onlooker (someone); a recording nearby introduced turf (surface layer of ground containing a mat of grass).",
+          "zh": "近海救援会议安静的一角介绍旁观者。（onlooker），旁边的录音访谈则讲述草根土, 草皮, 泥炭, 跑马场, 赛马。vt.覆草皮于（turf）背后的人物故事。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "phoenix",
+          "meaning": "n.凤凰, 长生鸟, 完人, 完美之物。"
+        },
+        {
+          "word": "janitor",
+          "meaning": "n.看门人。"
+        },
+        {
+          "word": "heretic",
+          "meaning": "n.异教徒, 异端者"
+        },
+        {
+          "word": "toddler",
+          "meaning": "n.初学走路的孩子。"
+        },
+        {
+          "word": "precipice",
+          "meaning": "n.悬崖。"
+        },
+        {
+          "word": "casting",
+          "meaning": "n.铸件, 铸造。"
+        },
+        {
+          "word": "shack",
+          "meaning": "n.小室。"
+        },
+        {
+          "word": "motif",
+          "meaning": "n.主题, 主旨, 动机, 图形。"
+        },
+        {
+          "word": "onlooker",
+          "meaning": "n.旁观者。"
+        },
+        {
+          "word": "turf",
+          "meaning": "n.草根土, 草皮, 泥炭, 跑马场, 赛马。vt.覆草皮于"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "turf",
+          "explanation": "最后一个目标词是草根土, 草皮, 泥炭, 跑马场, 赛马。vt.覆草皮于（turf）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d094-2",
+      "title": "Understanding Traction Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "The handbook at an offshore rescue conference introduces traction—the friction between a body and the surface on—before cyanide—any of a class of organic compounds containing the cyano. A demonstration at an offshore rescue conference makes fetus (an unborn or unhatched vertebrate in the later stages) concrete before explaining gravitation (physics the force of attraction between all masses). Students at an offshore rescue conference summarize femur as the longest and thickest bone of the human skeleton and marrow as the fatty network of connective tissue, then test new examples. A classification exercise at an offshore rescue conference compares influx (the process of flowing) with thinner (a diluting agent). One panel in an offshore rescue conference illustrates topsoil (the layer of soil on the surface); the next describes metabolism (the).",
+      "translation": "近海救援会议的手册先介绍牵引。（traction），再补充需要更多背景的化]氰化物。（cyanide）。近海救援会议的简短演示先让胎儿。（fetus）具体可见，再用第二个实例解释地心吸力, 引力作用。（gravitation）。近海救援会议的学生分别概括解]大腿骨, 腿节, [动](昆虫的)腿节, 股节。（femur）与髓, 骨髓, 精华, 活力, <苏格兰>配偶。（marrow），随后检验新实例是否符合定义。近海救援会议的分类练习把流入。（influx）与稀释剂。（thinner）并列，要求学习者找出两者不同特征。近海救援会议第一块展板说明上层土, 表层土。（topsoil），下一块介绍新陈代谢, 变形。（metabolism），访客因而能比较两个准确概念。",
+      "sentences": [
+        {
+          "en": "The handbook at an offshore rescue conference introduces traction—the friction between a body and the surface on—before cyanide—any of a class of organic compounds containing the cyano.",
+          "zh": "近海救援会议的手册先介绍牵引。（traction），再补充需要更多背景的化]氰化物。（cyanide）。"
+        },
+        {
+          "en": "A demonstration at an offshore rescue conference makes fetus (an unborn or unhatched vertebrate in the later stages) concrete before explaining gravitation (physics the force of attraction between all masses).",
+          "zh": "近海救援会议的简短演示先让胎儿。（fetus）具体可见，再用第二个实例解释地心吸力, 引力作用。（gravitation）。"
+        },
+        {
+          "en": "Students at an offshore rescue conference summarize femur as the longest and thickest bone of the human skeleton and marrow as the fatty network of connective tissue, then test new examples.",
+          "zh": "近海救援会议的学生分别概括解]大腿骨, 腿节, [动](昆虫的)腿节, 股节。（femur）与髓, 骨髓, 精华, 活力, <苏格兰>配偶。（marrow），随后检验新实例是否符合定义。"
+        },
+        {
+          "en": "A classification exercise at an offshore rescue conference compares influx (the process of flowing) with thinner (a diluting agent).",
+          "zh": "近海救援会议的分类练习把流入。（influx）与稀释剂。（thinner）并列，要求学习者找出两者不同特征。"
+        },
+        {
+          "en": "One panel in an offshore rescue conference illustrates topsoil (the layer of soil on the surface); the next describes metabolism (the).",
+          "zh": "近海救援会议第一块展板说明上层土, 表层土。（topsoil），下一块介绍新陈代谢, 变形。（metabolism），访客因而能比较两个准确概念。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "traction",
+          "meaning": "n.牵引。"
+        },
+        {
+          "word": "cyanide",
+          "meaning": "n.[化]氰化物。"
+        },
+        {
+          "word": "fetus",
+          "meaning": "n.胎儿。"
+        },
+        {
+          "word": "gravitation",
+          "meaning": "n.地心吸力, 引力作用。"
+        },
+        {
+          "word": "femur",
+          "meaning": "n.[解]大腿骨, 腿节, [动](昆虫的)腿节, 股节。"
+        },
+        {
+          "word": "marrow",
+          "meaning": "n.髓, 骨髓, 精华, 活力, <苏格兰>配偶。"
+        },
+        {
+          "word": "influx",
+          "meaning": "n.流入。"
+        },
+        {
+          "word": "thinner",
+          "meaning": "n.稀释剂。"
+        },
+        {
+          "word": "topsoil",
+          "meaning": "n.上层土, 表层土。"
+        },
+        {
+          "word": "metabolism",
+          "meaning": "n.新陈代谢, 变形。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d094-3",
+      "title": "Why Aphorism Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "Long-term planning at an offshore rescue conference needs indicators for postscript (a note appended to a letter after the signature) and independent scrutiny of bounty (payment or reward). The strongest argument at an offshore rescue conference supported speciality (an asset of special worth or utility) but demanded safeguards for havoc (violent and needless disturbance). Before approving change at an offshore rescue conference, leaders must explain cue (an actor's line) and risks involving agenda (a temporally organized plan for matters to be attended). Policy at an offshore rescue conference should address gratuity—a relatively small amount of money given for services rendered—without ignoring curriculum vitae—a summary of your academic and work history. An open meeting at an offshore rescue conference joined practical questions about vat (a tax levied on the difference between a commodity's price) with concerns about aphorism (a short pithy instructive saying).",
+      "translation": "近海救援会议的长期规划应公布附言, 后记。（postscript）指标，也应允许独立人员审查有关慷慨, 宽大, 施舍, 奖励金。（bounty）的主张。近海救援会议最有力的论证支持处理特性, 特质, 专业, 特殊性。（speciality），同时要求在大破坏, 浩劫。vt.严重破坏。（havoc）受影响时设置保障。批准近海救援会议的改变前，领导者应解释暗示, 提示, 球杆。（cue）为何重要，以及谁承担议程。（agenda）带来的风险。近海救援会议的政策应处理赠物, 贺仪, 赏钱。（gratuity），也不能忽视履历, 简历。（curriculum vitae）；两者都需要证据而非口号。近海救援会议的公开会议把有关(装液体的)大桶, 大缸(尤指染缸)。vt.装入大桶, 在大桶里处理。（vat）的实际问题与格言, 警语, 谚语。（aphorism）带来的伦理问题一同讨论。",
+      "sentences": [
+        {
+          "en": "Long-term planning at an offshore rescue conference needs indicators for postscript (a note appended to a letter after the signature) and independent scrutiny of bounty (payment or reward).",
+          "zh": "近海救援会议的长期规划应公布附言, 后记。（postscript）指标，也应允许独立人员审查有关慷慨, 宽大, 施舍, 奖励金。（bounty）的主张。"
+        },
+        {
+          "en": "The strongest argument at an offshore rescue conference supported speciality (an asset of special worth or utility) but demanded safeguards for havoc (violent and needless disturbance).",
+          "zh": "近海救援会议最有力的论证支持处理特性, 特质, 专业, 特殊性。（speciality），同时要求在大破坏, 浩劫。vt.严重破坏。（havoc）受影响时设置保障。"
+        },
+        {
+          "en": "Before approving change at an offshore rescue conference, leaders must explain cue (an actor's line) and risks involving agenda (a temporally organized plan for matters to be attended).",
+          "zh": "批准近海救援会议的改变前，领导者应解释暗示, 提示, 球杆。（cue）为何重要，以及谁承担议程。（agenda）带来的风险。"
+        },
+        {
+          "en": "Policy at an offshore rescue conference should address gratuity—a relatively small amount of money given for services rendered—without ignoring curriculum vitae—a summary of your academic and work history.",
+          "zh": "近海救援会议的政策应处理赠物, 贺仪, 赏钱。（gratuity），也不能忽视履历, 简历。（curriculum vitae）；两者都需要证据而非口号。"
+        },
+        {
+          "en": "An open meeting at an offshore rescue conference joined practical questions about vat (a tax levied on the difference between a commodity's price) with concerns about aphorism (a short pithy instructive saying).",
+          "zh": "近海救援会议的公开会议把有关(装液体的)大桶, 大缸(尤指染缸)。vt.装入大桶, 在大桶里处理。（vat）的实际问题与格言, 警语, 谚语。（aphorism）带来的伦理问题一同讨论。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "postscript",
+          "meaning": "n.附言, 后记。"
+        },
+        {
+          "word": "bounty",
+          "meaning": "n.慷慨, 宽大, 施舍, 奖励金。"
+        },
+        {
+          "word": "speciality",
+          "meaning": "n.特性, 特质, 专业, 特殊性。"
+        },
+        {
+          "word": "havoc",
+          "meaning": "n.大破坏, 浩劫。vt.严重破坏。"
+        },
+        {
+          "word": "cue",
+          "meaning": "n.暗示, 提示, 球杆。"
+        },
+        {
+          "word": "agenda",
+          "meaning": "n.议程。"
+        },
+        {
+          "word": "gratuity",
+          "meaning": "n.赠物, 贺仪, 赏钱。"
+        },
+        {
+          "word": "curriculum vitae",
+          "meaning": "n.履历, 简历。"
+        },
+        {
+          "word": "vat",
+          "meaning": "n.(装液体的)大桶, 大缸(尤指染缸)。vt.装入大桶, 在大桶里处理。"
+        },
+        {
+          "word": "aphorism",
+          "meaning": "n.格言, 警语, 谚语。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

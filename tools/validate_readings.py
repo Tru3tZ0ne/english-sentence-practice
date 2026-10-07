@@ -76,7 +76,13 @@ def validate(readings_root: Path, wordlists_root: Path) -> dict:
             length_ratio = min(len(a["text"]), len(b["text"])) / max(len(a["text"]), len(b["text"]))
             if length_ratio < .72:
                 continue
-            score = SequenceMatcher(None, a["text"], b["text"], autojunk=False).ratio()
+            matcher = SequenceMatcher(None, a["text"], b["text"], autojunk=False)
+            # quick_ratio is an upper bound.  Skipping pairs below the same
+            # threshold preserves the result while making a 285-article
+            # all-pairs scan substantially faster.
+            if matcher.quick_ratio() < .72:
+                continue
+            score = matcher.ratio()
             if score >= .72:
                 near_pairs.append((a["id"], b["id"], round(score, 3)))
     if near_pairs: errors.append(f"存在 {len(near_pairs)} 对正文相似度不低于 72%")

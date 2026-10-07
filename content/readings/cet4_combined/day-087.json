@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 87,
+  "articles": [
+    {
+      "id": "cet4-reading-d087-1",
+      "title": "The Warden File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "Two volunteers at a volcanic homestay program used the inventory to identify cog (a subordinate) and practitioner (someone). The morning program at a volcanic homestay program paired a section on meteorologist (a specialist) with one on superstructure (structure). When a shelf shifted at a volcanic homestay program, staff protected files on microfilm (film on) and pinnacle (architecture a slender upright spire at the top). The newest room at a volcanic homestay program began with notary (someone legally empowered to witness signatures and certify a document's) and ended with forerunner (a person). A student at a volcanic homestay program photographed scalpel—a thin straight surgical knife used in dissection and surgery—and sketched warden—the chief official in charge of a prison.",
+      "translation": "火山区寄宿项目的两名志愿者借助清单确认机]嵌齿, 小船。vt.上齿轮, 欺骗（cog），并顺带找到另一条关于从业者, 开业者。（practitioner）的记录。火山区寄宿项目的上午活动把气象学者。（meteorologist）与另一项关于(建筑物, 铁路等的)上部构造, 上层建筑。（superstructure）的展览相邻安排，但没有混淆两者。火山区寄宿项目的架子倒下时，员工保护了有关摄]缩影胶片。v.缩微拍摄（microfilm）的材料，也找回了旁边关于小尖塔, 山顶, 顶点。vt.造小尖塔, 把...放在极高处。（pinnacle）的档案。火山区寄宿项目最新展厅从公证人（notary）开始，以一个出人意料的本地先驱(者), 传令官, 预兆。（forerunner）实例结束。学生在火山区寄宿项目记录解剖刀。（scalpel）后，又到另一处展区了解典狱官, 看守人, 学监, 区长, (供煮食的)一种冬梨。（warden），两项内容分别得到清楚说明。",
+      "sentences": [
+        {
+          "en": "Two volunteers at a volcanic homestay program used the inventory to identify cog (a subordinate) and practitioner (someone).",
+          "zh": "火山区寄宿项目的两名志愿者借助清单确认机]嵌齿, 小船。vt.上齿轮, 欺骗（cog），并顺带找到另一条关于从业者, 开业者。（practitioner）的记录。"
+        },
+        {
+          "en": "The morning program at a volcanic homestay program paired a section on meteorologist (a specialist) with one on superstructure (structure).",
+          "zh": "火山区寄宿项目的上午活动把气象学者。（meteorologist）与另一项关于(建筑物, 铁路等的)上部构造, 上层建筑。（superstructure）的展览相邻安排，但没有混淆两者。"
+        },
+        {
+          "en": "When a shelf shifted at a volcanic homestay program, staff protected files on microfilm (film on) and pinnacle (architecture a slender upright spire at the top).",
+          "zh": "火山区寄宿项目的架子倒下时，员工保护了有关摄]缩影胶片。v.缩微拍摄（microfilm）的材料，也找回了旁边关于小尖塔, 山顶, 顶点。vt.造小尖塔, 把...放在极高处。（pinnacle）的档案。"
+        },
+        {
+          "en": "The newest room at a volcanic homestay program began with notary (someone legally empowered to witness signatures and certify a document's) and ended with forerunner (a person).",
+          "zh": "火山区寄宿项目最新展厅从公证人（notary）开始，以一个出人意料的本地先驱(者), 传令官, 预兆。（forerunner）实例结束。"
+        },
+        {
+          "en": "A student at a volcanic homestay program photographed scalpel—a thin straight surgical knife used in dissection and surgery—and sketched warden—the chief official in charge of a prison.",
+          "zh": "学生在火山区寄宿项目记录解剖刀。（scalpel）后，又到另一处展区了解典狱官, 看守人, 学监, 区长, (供煮食的)一种冬梨。（warden），两项内容分别得到清楚说明。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "cog",
+          "meaning": "n.[机]嵌齿, 小船。vt.上齿轮, 欺骗"
+        },
+        {
+          "word": "practitioner",
+          "meaning": "n.从业者, 开业者。"
+        },
+        {
+          "word": "meteorologist",
+          "meaning": "n.气象学者。"
+        },
+        {
+          "word": "superstructure",
+          "meaning": "n.(建筑物, 铁路等的)上部构造, 上层建筑。"
+        },
+        {
+          "word": "microfilm",
+          "meaning": "n.[摄]缩影胶片。v.缩微拍摄"
+        },
+        {
+          "word": "pinnacle",
+          "meaning": "n.小尖塔, 山顶, 顶点。vt.造小尖塔, 把...放在极高处。"
+        },
+        {
+          "word": "notary",
+          "meaning": "n.公证人"
+        },
+        {
+          "word": "forerunner",
+          "meaning": "n.先驱(者), 传令官, 预兆。"
+        },
+        {
+          "word": "scalpel",
+          "meaning": "n.解剖刀。"
+        },
+        {
+          "word": "warden",
+          "meaning": "n.典狱官, 看守人, 学监, 区长, (供煮食的)一种冬梨。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "warden",
+          "explanation": "最后一个目标词是典狱官, 看守人, 学监, 区长, (供煮食的)一种冬梨。（warden）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d087-2",
+      "title": "Understanding Embryo Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "Students at a volcanic homestay program summarize embryo as botany a minute rudimentary plant contained within a seed and microbe as a minute life form, then test new examples. By separating clam (burrowing marine mollusk living on sand or mud) from cervix (the part of an organism), a volcanic homestay program turns definitions into usable knowledge. At a volcanic homestay program, starfish means echinoderms, whereas wallaby means any of various small or medium-sized kangaroos; separate examples prevent confusion. A demonstration at a volcanic homestay program makes mangrove (a tropical tree or shrub bearing fruit) concrete before explaining benzene (a colorless liquid hydrocarbon). A classification exercise at a volcanic homestay program compares ammonia (a water solution of ammonia) with precipitate (a precipitated solid substance in suspension or after settling).",
+      "translation": "火山区寄宿项目的学生分别概括胚胎, 胎儿, 胚芽。adj.胚胎的, 初期的。（embryo）与微生物, 细菌。（microbe），随后检验新实例是否符合定义。火山区寄宿项目把蛤。（clam）与解]颈部, 子宫颈。（cervix）分开考察，使两个陌生概念转化为可使用的知识。火山区寄宿项目的课程分别解释海星。（starfish）与动]小袋鼠, <复><口>澳洲土人。（wallaby），避免学习者因定义不同而进行错误比较。火山区寄宿项目的简短演示先让植]红树林。（mangrove）具体可见，再用第二个实例解释化]苯。（benzene）。火山区寄宿项目的分类练习把化]氨, 氨水。（ammonia）与沉淀物。vt.猛抛, 使陷入, 促成, 使沉淀。vi.猛地落下。adj.突如其来的, 陡然下降(或下落)的, 贸然轻率的（precipitate）并列，要求学习者找出两者不同特征。",
+      "sentences": [
+        {
+          "en": "Students at a volcanic homestay program summarize embryo as botany a minute rudimentary plant contained within a seed and microbe as a minute life form, then test new examples.",
+          "zh": "火山区寄宿项目的学生分别概括胚胎, 胎儿, 胚芽。adj.胚胎的, 初期的。（embryo）与微生物, 细菌。（microbe），随后检验新实例是否符合定义。"
+        },
+        {
+          "en": "By separating clam (burrowing marine mollusk living on sand or mud) from cervix (the part of an organism), a volcanic homestay program turns definitions into usable knowledge.",
+          "zh": "火山区寄宿项目把蛤。（clam）与解]颈部, 子宫颈。（cervix）分开考察，使两个陌生概念转化为可使用的知识。"
+        },
+        {
+          "en": "At a volcanic homestay program, starfish means echinoderms, whereas wallaby means any of various small or medium-sized kangaroos; separate examples prevent confusion.",
+          "zh": "火山区寄宿项目的课程分别解释海星。（starfish）与动]小袋鼠, <复><口>澳洲土人。（wallaby），避免学习者因定义不同而进行错误比较。"
+        },
+        {
+          "en": "A demonstration at a volcanic homestay program makes mangrove (a tropical tree or shrub bearing fruit) concrete before explaining benzene (a colorless liquid hydrocarbon).",
+          "zh": "火山区寄宿项目的简短演示先让植]红树林。（mangrove）具体可见，再用第二个实例解释化]苯。（benzene）。"
+        },
+        {
+          "en": "A classification exercise at a volcanic homestay program compares ammonia (a water solution of ammonia) with precipitate (a precipitated solid substance in suspension or after settling).",
+          "zh": "火山区寄宿项目的分类练习把化]氨, 氨水。（ammonia）与沉淀物。vt.猛抛, 使陷入, 促成, 使沉淀。vi.猛地落下。adj.突如其来的, 陡然下降(或下落)的, 贸然轻率的（precipitate）并列，要求学习者找出两者不同特征。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "embryo",
+          "meaning": "n.胚胎, 胎儿, 胚芽。adj.胚胎的, 初期的。"
+        },
+        {
+          "word": "microbe",
+          "meaning": "n.微生物, 细菌。"
+        },
+        {
+          "word": "clam",
+          "meaning": "n.蛤。"
+        },
+        {
+          "word": "cervix",
+          "meaning": "n.[解]颈部, 子宫颈。"
+        },
+        {
+          "word": "starfish",
+          "meaning": "n.海星。"
+        },
+        {
+          "word": "wallaby",
+          "meaning": "n.[动]小袋鼠, <复><口>澳洲土人。"
+        },
+        {
+          "word": "mangrove",
+          "meaning": "n.[植]红树林。"
+        },
+        {
+          "word": "benzene",
+          "meaning": "n.[化]苯。"
+        },
+        {
+          "word": "ammonia",
+          "meaning": "n.[化]氨, 氨水。"
+        },
+        {
+          "word": "precipitate",
+          "meaning": "n.沉淀物。vt.猛抛, 使陷入, 促成, 使沉淀。vi.猛地落下。adj.突如其来的, 陡然下降(或下落)的, 贸然轻率的"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d087-3",
+      "title": "Why Malnutrition Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "Residents near a volcanic homestay program debated tranquility (a disposition free from stress or emotion) and dissertation (a treatise advancing a new point of view), then requested written evidence. An open meeting at a volcanic homestay program joined practical questions about deadlock (a situation in) with concerns about jeer (showing your contempt by derision). A review panel at a volcanic homestay program rejected claims that boarding card (a pass) automatically outweighed copyright (a document granting exclusive right to publish and sell literary). Public trust at a volcanic homestay program needs honest discussion of carpentry (the craft of a carpenter) and measurable commitments on depletion (the act of decreasing something markedly). Funding choices at a volcanic homestay program require clear definitions of alchemy (the way two individuals relate to each other) and malnutrition (a state of poor nutrition).",
+      "translation": "火山区寄宿项目附近居民讨论宁静。（tranquility）和(学位)论文, 专题, 论述, 学术演讲（dissertation）后，要求书面说明成本与责任。火山区寄宿项目的公开会议把有关死锁, 僵局。（deadlock）的实际问题与嘲笑, 讥讽, 戏弄。v.嘲弄, 戏弄。（jeer）带来的伦理问题一同讨论。火山区寄宿项目的审查小组拒绝在缺乏地方证据时认定乘车证, 乘客证。（boarding card）天然比版权, 著作权。（copyright）更重要。火山区寄宿项目要建立公众信任，就必须诚实讨论木工工作。（carpentry），并对损耗。（depletion）作出可衡量承诺。火山区寄宿项目的官员清楚定义炼金术, 魔力。（alchemy）并解释方案如何回应营养失调, 营养不良。（malnutrition），资金选择才会更明白。",
+      "sentences": [
+        {
+          "en": "Residents near a volcanic homestay program debated tranquility (a disposition free from stress or emotion) and dissertation (a treatise advancing a new point of view), then requested written evidence.",
+          "zh": "火山区寄宿项目附近居民讨论宁静。（tranquility）和(学位)论文, 专题, 论述, 学术演讲（dissertation）后，要求书面说明成本与责任。"
+        },
+        {
+          "en": "An open meeting at a volcanic homestay program joined practical questions about deadlock (a situation in) with concerns about jeer (showing your contempt by derision).",
+          "zh": "火山区寄宿项目的公开会议把有关死锁, 僵局。（deadlock）的实际问题与嘲笑, 讥讽, 戏弄。v.嘲弄, 戏弄。（jeer）带来的伦理问题一同讨论。"
+        },
+        {
+          "en": "A review panel at a volcanic homestay program rejected claims that boarding card (a pass) automatically outweighed copyright (a document granting exclusive right to publish and sell literary).",
+          "zh": "火山区寄宿项目的审查小组拒绝在缺乏地方证据时认定乘车证, 乘客证。（boarding card）天然比版权, 著作权。（copyright）更重要。"
+        },
+        {
+          "en": "Public trust at a volcanic homestay program needs honest discussion of carpentry (the craft of a carpenter) and measurable commitments on depletion (the act of decreasing something markedly).",
+          "zh": "火山区寄宿项目要建立公众信任，就必须诚实讨论木工工作。（carpentry），并对损耗。（depletion）作出可衡量承诺。"
+        },
+        {
+          "en": "Funding choices at a volcanic homestay program require clear definitions of alchemy (the way two individuals relate to each other) and malnutrition (a state of poor nutrition).",
+          "zh": "火山区寄宿项目的官员清楚定义炼金术, 魔力。（alchemy）并解释方案如何回应营养失调, 营养不良。（malnutrition），资金选择才会更明白。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "tranquility",
+          "meaning": "n.宁静。"
+        },
+        {
+          "word": "dissertation",
+          "meaning": "n.(学位)论文, 专题, 论述, 学术演讲"
+        },
+        {
+          "word": "deadlock",
+          "meaning": "n.死锁, 僵局。"
+        },
+        {
+          "word": "jeer",
+          "meaning": "n.嘲笑, 讥讽, 戏弄。v.嘲弄, 戏弄。"
+        },
+        {
+          "word": "boarding card",
+          "meaning": "n.乘车证, 乘客证。"
+        },
+        {
+          "word": "copyright",
+          "meaning": "n.版权, 著作权。"
+        },
+        {
+          "word": "carpentry",
+          "meaning": "n.木工工作。"
+        },
+        {
+          "word": "depletion",
+          "meaning": "n.损耗。"
+        },
+        {
+          "word": "alchemy",
+          "meaning": "n.炼金术, 魔力。"
+        },
+        {
+          "word": "malnutrition",
+          "meaning": "n.营养失调, 营养不良。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

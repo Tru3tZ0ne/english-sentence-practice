@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 63,
+  "articles": [
+    {
+      "id": "cet4-reading-d063-1",
+      "title": "The Stewardess File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "A quiet corner of a lighthouse sports center presented lighthouse (a tower with a light); a recording nearby introduced stadium (a large structure for open-air sports or entertainments). Inside a lighthouse sports center, the curator corrected labels for zipper (a fastener for locking together two toothed edges by means) and wholesaler (someone). A student at a lighthouse sports center photographed neutron—an elementary particle with charge and mass about equal—and sketched pulley—a simple machine. Rain kept a family inside a lighthouse sports center, learning about whisky (a liquor) and fishery (a workplace). The newest room at a lighthouse sports center began with screwdriver (a hand tool for driving screws) and ended with stewardess (a woman steward on an airplane).",
+      "translation": "灯塔体育中心安静的一角介绍灯塔（lighthouse），旁边的录音访谈则讲述露天运动场（stadium）背后的人物故事。灯塔体育中心的策展人先纠正拉链,装拉链的包（zipper）的标签错误，随后发现关于批发商（wholesaler）的材料也放错了位置。学生在灯塔体育中心记录中子（neutron）后，又到另一处展区了解滑轮,滑车,皮带轮（pulley），两项内容分别得到清楚说明。雨天让一家人留在灯塔体育中心，一个孩子学习威士忌酒（whisky），另一个孩子则操作与渔业（fishery）有关的模型。灯塔体育中心最新展厅从螺丝刀,改锥（screwdriver）开始，以一个出人意料的本地空中小姐,女乘务员（stewardess）实例结束。",
+      "sentences": [
+        {
+          "en": "A quiet corner of a lighthouse sports center presented lighthouse (a tower with a light); a recording nearby introduced stadium (a large structure for open-air sports or entertainments).",
+          "zh": "灯塔体育中心安静的一角介绍灯塔（lighthouse），旁边的录音访谈则讲述露天运动场（stadium）背后的人物故事。"
+        },
+        {
+          "en": "Inside a lighthouse sports center, the curator corrected labels for zipper (a fastener for locking together two toothed edges by means) and wholesaler (someone).",
+          "zh": "灯塔体育中心的策展人先纠正拉链,装拉链的包（zipper）的标签错误，随后发现关于批发商（wholesaler）的材料也放错了位置。"
+        },
+        {
+          "en": "A student at a lighthouse sports center photographed neutron—an elementary particle with charge and mass about equal—and sketched pulley—a simple machine.",
+          "zh": "学生在灯塔体育中心记录中子（neutron）后，又到另一处展区了解滑轮,滑车,皮带轮（pulley），两项内容分别得到清楚说明。"
+        },
+        {
+          "en": "Rain kept a family inside a lighthouse sports center, learning about whisky (a liquor) and fishery (a workplace).",
+          "zh": "雨天让一家人留在灯塔体育中心，一个孩子学习威士忌酒（whisky），另一个孩子则操作与渔业（fishery）有关的模型。"
+        },
+        {
+          "en": "The newest room at a lighthouse sports center began with screwdriver (a hand tool for driving screws) and ended with stewardess (a woman steward on an airplane).",
+          "zh": "灯塔体育中心最新展厅从螺丝刀,改锥（screwdriver）开始，以一个出人意料的本地空中小姐,女乘务员（stewardess）实例结束。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "lighthouse",
+          "meaning": "n.灯塔"
+        },
+        {
+          "word": "stadium",
+          "meaning": "n. 露天运动场"
+        },
+        {
+          "word": "zipper",
+          "meaning": "n.拉链,装拉链的包"
+        },
+        {
+          "word": "wholesaler",
+          "meaning": "n.批发商"
+        },
+        {
+          "word": "neutron",
+          "meaning": "n.中子"
+        },
+        {
+          "word": "pulley",
+          "meaning": "n.滑轮,滑车,皮带轮"
+        },
+        {
+          "word": "whisky",
+          "meaning": "n.威士忌酒"
+        },
+        {
+          "word": "fishery",
+          "meaning": "n.渔业"
+        },
+        {
+          "word": "screwdriver",
+          "meaning": "n.螺丝刀,改锥"
+        },
+        {
+          "word": "stewardess",
+          "meaning": "n.空中小姐,女乘务员"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "stewardess",
+          "explanation": "最后一个目标词是空中小姐,女乘务员（stewardess）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d063-2",
+      "title": "Understanding Toad Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "One panel in a lighthouse sports center illustrates toad (any of various tailless stout-bodied amphibians with long hind limbs); the next describes incense (a substance). A classification exercise at a lighthouse sports center compares result (a phenomenon) with catalyst (chemistry a substance that initiates or accelerates a chemical reaction). Field notes from a lighthouse sports center distinguish air (a mixture of gases) from turnip (widely cultivated plant). At a lighthouse sports center, uranium means a heavy toxic silvery-white radioactive metallic element, whereas haircut means the style in; separate examples prevent confusion. A demonstration at a lighthouse sports center makes polymer (a naturally occurring or synthetic compound) concrete before explaining salmon (any of various large food and game fishes of northern).",
+      "translation": "灯塔体育中心第一块展板说明蟾蜍,癞蛤蟆（toad），下一块介绍香,熏香（incense），访客因而能比较两个准确概念。灯塔体育中心的分类练习把结果,成绩v. 结果,致使,导致,由...而造成（result）与催化剂（catalyst）并列，要求学习者找出两者不同特征。灯塔体育中心的野外记录严格区分空气（air）和萝卜,芜菁（turnip），使记录保持准确。灯塔体育中心的课程分别解释铀（uranium）与理发（haircut），避免学习者因定义不同而进行错误比较。灯塔体育中心的简短演示先让聚合物,多聚物（polymer）具体可见，再用第二个实例解释鲑,大马哈鱼（salmon）。",
+      "sentences": [
+        {
+          "en": "One panel in a lighthouse sports center illustrates toad (any of various tailless stout-bodied amphibians with long hind limbs); the next describes incense (a substance).",
+          "zh": "灯塔体育中心第一块展板说明蟾蜍,癞蛤蟆（toad），下一块介绍香,熏香（incense），访客因而能比较两个准确概念。"
+        },
+        {
+          "en": "A classification exercise at a lighthouse sports center compares result (a phenomenon) with catalyst (chemistry a substance that initiates or accelerates a chemical reaction).",
+          "zh": "灯塔体育中心的分类练习把结果,成绩v. 结果,致使,导致,由...而造成（result）与催化剂（catalyst）并列，要求学习者找出两者不同特征。"
+        },
+        {
+          "en": "Field notes from a lighthouse sports center distinguish air (a mixture of gases) from turnip (widely cultivated plant).",
+          "zh": "灯塔体育中心的野外记录严格区分空气（air）和萝卜,芜菁（turnip），使记录保持准确。"
+        },
+        {
+          "en": "At a lighthouse sports center, uranium means a heavy toxic silvery-white radioactive metallic element, whereas haircut means the style in; separate examples prevent confusion.",
+          "zh": "灯塔体育中心的课程分别解释铀（uranium）与理发（haircut），避免学习者因定义不同而进行错误比较。"
+        },
+        {
+          "en": "A demonstration at a lighthouse sports center makes polymer (a naturally occurring or synthetic compound) concrete before explaining salmon (any of various large food and game fishes of northern).",
+          "zh": "灯塔体育中心的简短演示先让聚合物,多聚物（polymer）具体可见，再用第二个实例解释鲑,大马哈鱼（salmon）。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "toad",
+          "meaning": "n.蟾蜍,癞蛤蟆"
+        },
+        {
+          "word": "incense",
+          "meaning": "n.香,熏香;香气"
+        },
+        {
+          "word": "result",
+          "meaning": "n. 结果,成绩v. 结果,致使,导致,由...而造成"
+        },
+        {
+          "word": "catalyst",
+          "meaning": "n. 催化剂;造成变化的人或事"
+        },
+        {
+          "word": "air",
+          "meaning": "n. 空气;(复数)神气vt. (使)通风;晾干"
+        },
+        {
+          "word": "turnip",
+          "meaning": "n.萝卜,芜菁"
+        },
+        {
+          "word": "uranium",
+          "meaning": "n.铀"
+        },
+        {
+          "word": "haircut",
+          "meaning": "n.理发"
+        },
+        {
+          "word": "polymer",
+          "meaning": "n.聚合物,多聚物"
+        },
+        {
+          "word": "salmon",
+          "meaning": "n.鲑,大马哈鱼"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d063-3",
+      "title": "Why Shorthand Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "An open meeting at a lighthouse sports center joined practical questions about amplification (addition of extra material or illustration or clarifying detail) with concerns about ingenuity (the power of creative imagination). The strongest argument at a lighthouse sports center supported materialism (a desire for wealth and material possessions with little interest) but demanded safeguards for united nations (an organization of independent states formed in to promote international). A forum at a lighthouse sports center considered discretion (freedom to act or judge on one's own) alongside salary (something) before setting priorities. Before approving change at a lighthouse sports center, leaders must explain financing (the act of financing) and risks involving concession (a contract granting the right to operate a subsidiary business). Public trust at a lighthouse sports center needs honest discussion of Buddhism (a religion represented by the many groups) and measurable commitments on shorthand (a method of writing rapidly).",
+      "translation": "灯塔体育中心的公开会议把有关放大（amplification）的实际问题与机灵（ingenuity）带来的伦理问题一同讨论。灯塔体育中心最有力的论证支持处理唯物主义（materialism），同时要求在联合国（united nations）受影响时设置保障。灯塔体育中心的公开论坛同时考虑慎重（discretion）与薪金,薪水（salary），并讨论哪一项更需要优先行动。批准灯塔体育中心的改变前，领导者应解释金融业,财政学（financing）为何重要，以及谁承担让步,妥协（concession）带来的风险。灯塔体育中心要建立公众信任，就必须诚实讨论佛教,释教（Buddhism），并对速记（shorthand）作出可衡量承诺。",
+      "sentences": [
+        {
+          "en": "An open meeting at a lighthouse sports center joined practical questions about amplification (addition of extra material or illustration or clarifying detail) with concerns about ingenuity (the power of creative imagination).",
+          "zh": "灯塔体育中心的公开会议把有关放大（amplification）的实际问题与机灵（ingenuity）带来的伦理问题一同讨论。"
+        },
+        {
+          "en": "The strongest argument at a lighthouse sports center supported materialism (a desire for wealth and material possessions with little interest) but demanded safeguards for united nations (an organization of independent states formed in to promote international).",
+          "zh": "灯塔体育中心最有力的论证支持处理唯物主义（materialism），同时要求在联合国（united nations）受影响时设置保障。"
+        },
+        {
+          "en": "A forum at a lighthouse sports center considered discretion (freedom to act or judge on one's own) alongside salary (something) before setting priorities.",
+          "zh": "灯塔体育中心的公开论坛同时考虑慎重（discretion）与薪金,薪水（salary），并讨论哪一项更需要优先行动。"
+        },
+        {
+          "en": "Before approving change at a lighthouse sports center, leaders must explain financing (the act of financing) and risks involving concession (a contract granting the right to operate a subsidiary business).",
+          "zh": "批准灯塔体育中心的改变前，领导者应解释金融业,财政学（financing）为何重要，以及谁承担让步,妥协（concession）带来的风险。"
+        },
+        {
+          "en": "Public trust at a lighthouse sports center needs honest discussion of Buddhism (a religion represented by the many groups) and measurable commitments on shorthand (a method of writing rapidly).",
+          "zh": "灯塔体育中心要建立公众信任，就必须诚实讨论佛教,释教（Buddhism），并对速记（shorthand）作出可衡量承诺。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "amplification",
+          "meaning": "n.放大"
+        },
+        {
+          "word": "ingenuity",
+          "meaning": "n.机灵;设计新颖"
+        },
+        {
+          "word": "materialism",
+          "meaning": "n.唯物主义"
+        },
+        {
+          "word": "united nations",
+          "meaning": "n.联合国"
+        },
+        {
+          "word": "discretion",
+          "meaning": "n.慎重"
+        },
+        {
+          "word": "salary",
+          "meaning": "n. 薪金,薪水"
+        },
+        {
+          "word": "financing",
+          "meaning": "n.金融业,财政学"
+        },
+        {
+          "word": "concession",
+          "meaning": "n. 让步,妥协;特许(权)"
+        },
+        {
+          "word": "Buddhism",
+          "meaning": "n.佛教,释教"
+        },
+        {
+          "word": "shorthand",
+          "meaning": "n. 速记"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

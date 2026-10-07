@@ -9,8 +9,8 @@
     "语境阅读",
     "逐句翻译"
   ],
-  "article_count": 120,
-  "day_count": 40,
+  "article_count": 285,
+  "day_count": 95,
   "days": [
     {
       "day": 1,
@@ -210,6 +210,281 @@
     {
       "day": 40,
       "file": "day-040.json",
+      "count": 3
+    },
+    {
+      "day": 41,
+      "file": "day-041.json",
+      "count": 3
+    },
+    {
+      "day": 42,
+      "file": "day-042.json",
+      "count": 3
+    },
+    {
+      "day": 43,
+      "file": "day-043.json",
+      "count": 3
+    },
+    {
+      "day": 44,
+      "file": "day-044.json",
+      "count": 3
+    },
+    {
+      "day": 45,
+      "file": "day-045.json",
+      "count": 3
+    },
+    {
+      "day": 46,
+      "file": "day-046.json",
+      "count": 3
+    },
+    {
+      "day": 47,
+      "file": "day-047.json",
+      "count": 3
+    },
+    {
+      "day": 48,
+      "file": "day-048.json",
+      "count": 3
+    },
+    {
+      "day": 49,
+      "file": "day-049.json",
+      "count": 3
+    },
+    {
+      "day": 50,
+      "file": "day-050.json",
+      "count": 3
+    },
+    {
+      "day": 51,
+      "file": "day-051.json",
+      "count": 3
+    },
+    {
+      "day": 52,
+      "file": "day-052.json",
+      "count": 3
+    },
+    {
+      "day": 53,
+      "file": "day-053.json",
+      "count": 3
+    },
+    {
+      "day": 54,
+      "file": "day-054.json",
+      "count": 3
+    },
+    {
+      "day": 55,
+      "file": "day-055.json",
+      "count": 3
+    },
+    {
+      "day": 56,
+      "file": "day-056.json",
+      "count": 3
+    },
+    {
+      "day": 57,
+      "file": "day-057.json",
+      "count": 3
+    },
+    {
+      "day": 58,
+      "file": "day-058.json",
+      "count": 3
+    },
+    {
+      "day": 59,
+      "file": "day-059.json",
+      "count": 3
+    },
+    {
+      "day": 60,
+      "file": "day-060.json",
+      "count": 3
+    },
+    {
+      "day": 61,
+      "file": "day-061.json",
+      "count": 3
+    },
+    {
+      "day": 62,
+      "file": "day-062.json",
+      "count": 3
+    },
+    {
+      "day": 63,
+      "file": "day-063.json",
+      "count": 3
+    },
+    {
+      "day": 64,
+      "file": "day-064.json",
+      "count": 3
+    },
+    {
+      "day": 65,
+      "file": "day-065.json",
+      "count": 3
+    },
+    {
+      "day": 66,
+      "file": "day-066.json",
+      "count": 3
+    },
+    {
+      "day": 67,
+      "file": "day-067.json",
+      "count": 3
+    },
+    {
+      "day": 68,
+      "file": "day-068.json",
+      "count": 3
+    },
+    {
+      "day": 69,
+      "file": "day-069.json",
+      "count": 3
+    },
+    {
+      "day": 70,
+      "file": "day-070.json",
+      "count": 3
+    },
+    {
+      "day": 71,
+      "file": "day-071.json",
+      "count": 3
+    },
+    {
+      "day": 72,
+      "file": "day-072.json",
+      "count": 3
+    },
+    {
+      "day": 73,
+      "file": "day-073.json",
+      "count": 3
+    },
+    {
+      "day": 74,
+      "file": "day-074.json",
+      "count": 3
+    },
+    {
+      "day": 75,
+      "file": "day-075.json",
+      "count": 3
+    },
+    {
+      "day": 76,
+      "file": "day-076.json",
+      "count": 3
+    },
+    {
+      "day": 77,
+      "file": "day-077.json",
+      "count": 3
+    },
+    {
+      "day": 78,
+      "file": "day-078.json",
+      "count": 3
+    },
+    {
+      "day": 79,
+      "file": "day-079.json",
+      "count": 3
+    },
+    {
+      "day": 80,
+      "file": "day-080.json",
+      "count": 3
+    },
+    {
+      "day": 81,
+      "file": "day-081.json",
+      "count": 3
+    },
+    {
+      "day": 82,
+      "file": "day-082.json",
+      "count": 3
+    },
+    {
+      "day": 83,
+      "file": "day-083.json",
+      "count": 3
+    },
+    {
+      "day": 84,
+      "file": "day-084.json",
+      "count": 3
+    },
+    {
+      "day": 85,
+      "file": "day-085.json",
+      "count": 3
+    },
+    {
+      "day": 86,
+      "file": "day-086.json",
+      "count": 3
+    },
+    {
+      "day": 87,
+      "file": "day-087.json",
+      "count": 3
+    },
+    {
+      "day": 88,
+      "file": "day-088.json",
+      "count": 3
+    },
+    {
+      "day": 89,
+      "file": "day-089.json",
+      "count": 3
+    },
+    {
+      "day": 90,
+      "file": "day-090.json",
+      "count": 3
+    },
+    {
+      "day": 91,
+      "file": "day-091.json",
+      "count": 3
+    },
+    {
+      "day": 92,
+      "file": "day-092.json",
+      "count": 3
+    },
+    {
+      "day": 93,
+      "file": "day-093.json",
+      "count": 3
+    },
+    {
+      "day": 94,
+      "file": "day-094.json",
+      "count": 3
+    },
+    {
+      "day": 95,
+      "file": "day-095.json",
       "count": 3
     }
   ]

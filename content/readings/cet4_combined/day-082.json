@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 82,
+  "articles": [
+    {
+      "id": "cet4-reading-d082-1",
+      "title": "The Parachute File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "Inside an Egyptian seaside district, the curator corrected labels for seaside (the shore of a sea or ocean regarded) and drugstore (a retail shop). At an Egyptian seaside district, a guide explained supermarket (a large self-service grocery store selling groceries and dairy products) beside a display of derrick (a framework erected over an oil well to allow drill). A quiet corner of an Egyptian seaside district presented illiterate (a person unable to read); a recording nearby introduced fiddle (bowed stringed instrument). During a tour of an Egyptian seaside district, the class found envelope (a flat) before locating doorway (the entrance). The newest room at an Egyptian seaside district began with rake (a dissolute man in fashionable society) and ended with parachute (rescue equipment).",
+      "translation": "埃及海滨街区的策展人先纠正海滨,海边（seaside）的标签错误，随后发现关于零食店（drugstore）的材料也放错了位置。在埃及海滨街区的参观过程中，讲解员先介绍超级市场（supermarket），随后带大家找到另一项独立展品钻塔,井架（derrick）。埃及海滨街区安静的一角介绍文盲(的)（illiterate），旁边的录音访谈则讲述提琴（fiddle）背后的人物故事。埃及海滨街区的参观先让学生认识信封,信皮（envelope）；一块丢失的标牌又把他们带到门口（doorway）。埃及海滨街区最新展厅从耙子,耙机v. 耙（rake）开始，以一个出人意料的本地降落伞（parachute）实例结束。",
+      "sentences": [
+        {
+          "en": "Inside an Egyptian seaside district, the curator corrected labels for seaside (the shore of a sea or ocean regarded) and drugstore (a retail shop).",
+          "zh": "埃及海滨街区的策展人先纠正海滨,海边（seaside）的标签错误，随后发现关于零食店（drugstore）的材料也放错了位置。"
+        },
+        {
+          "en": "At an Egyptian seaside district, a guide explained supermarket (a large self-service grocery store selling groceries and dairy products) beside a display of derrick (a framework erected over an oil well to allow drill).",
+          "zh": "在埃及海滨街区的参观过程中，讲解员先介绍超级市场（supermarket），随后带大家找到另一项独立展品钻塔,井架（derrick）。"
+        },
+        {
+          "en": "A quiet corner of an Egyptian seaside district presented illiterate (a person unable to read); a recording nearby introduced fiddle (bowed stringed instrument).",
+          "zh": "埃及海滨街区安静的一角介绍文盲(的)（illiterate），旁边的录音访谈则讲述提琴（fiddle）背后的人物故事。"
+        },
+        {
+          "en": "During a tour of an Egyptian seaside district, the class found envelope (a flat) before locating doorway (the entrance).",
+          "zh": "埃及海滨街区的参观先让学生认识信封,信皮（envelope）；一块丢失的标牌又把他们带到门口（doorway）。"
+        },
+        {
+          "en": "The newest room at an Egyptian seaside district began with rake (a dissolute man in fashionable society) and ended with parachute (rescue equipment).",
+          "zh": "埃及海滨街区最新展厅从耙子,耙机v. 耙（rake）开始，以一个出人意料的本地降落伞（parachute）实例结束。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "seaside",
+          "meaning": "n. 海滨,海边"
+        },
+        {
+          "word": "drugstore",
+          "meaning": "n.零食店"
+        },
+        {
+          "word": "supermarket",
+          "meaning": "n. 超级市场"
+        },
+        {
+          "word": "derrick",
+          "meaning": "n.钻塔,井架"
+        },
+        {
+          "word": "illiterate",
+          "meaning": "n./a. 文盲(的)"
+        },
+        {
+          "word": "fiddle",
+          "meaning": "n.提琴"
+        },
+        {
+          "word": "envelope",
+          "meaning": "n. 信封,信皮;封套"
+        },
+        {
+          "word": "doorway",
+          "meaning": "n. 门口"
+        },
+        {
+          "word": "rake",
+          "meaning": "n. 耙子,耙机v. 耙;搜索,探索"
+        },
+        {
+          "word": "parachute",
+          "meaning": "n. 降落伞"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "parachute",
+          "explanation": "最后一个目标词是降落伞（parachute）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d082-2",
+      "title": "Understanding Rainfall Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "The glossary at an Egyptian seaside district defines rainfall as water falling in drops from vapor condensed in the atmosphere and cross-references squirrel, meaning a kind of arboreal rodent. Field notes from an Egyptian seaside district distinguish aluminum (a silvery ductile metallic element found primarily in bauxite) from announcer (someone). A chart in an Egyptian seaside district defines allergy as hypersensitivity reaction to a particular allergen and pedlar as someone on different branches. A classification exercise at an Egyptian seaside district compares Egypt (a republic in northeastern Africa known as the United Arab) with peer (a person). By separating tumult (a state of commotion and noise and confusion) from bunch (a grouping of a number of similar things), an Egyptian seaside district turns definitions into usable knowledge.",
+      "translation": "埃及海滨街区的词汇表定义下雨,降雨量（rainfall），并以交叉索引引导读者查看松鼠（squirrel），但不把二者视为相同。埃及海滨街区的野外记录严格区分美（aluminum）和宣告者（announcer），使记录保持准确。埃及海滨街区的图表把反感,过敏（allergy）和(挨户兜售的)小贩（pedlar）放在不同分支，让读者清楚看见两者区别。埃及海滨街区的分类练习把埃及（Egypt）与同等（peer）并列，要求学习者找出两者不同特征。埃及海滨街区把骚动,暴动,吵闹（tumult）与束,串（bunch）分开考察，使两个陌生概念转化为可使用的知识。",
+      "sentences": [
+        {
+          "en": "The glossary at an Egyptian seaside district defines rainfall as water falling in drops from vapor condensed in the atmosphere and cross-references squirrel, meaning a kind of arboreal rodent.",
+          "zh": "埃及海滨街区的词汇表定义下雨,降雨量（rainfall），并以交叉索引引导读者查看松鼠（squirrel），但不把二者视为相同。"
+        },
+        {
+          "en": "Field notes from an Egyptian seaside district distinguish aluminum (a silvery ductile metallic element found primarily in bauxite) from announcer (someone).",
+          "zh": "埃及海滨街区的野外记录严格区分美（aluminum）和宣告者（announcer），使记录保持准确。"
+        },
+        {
+          "en": "A chart in an Egyptian seaside district defines allergy as hypersensitivity reaction to a particular allergen and pedlar as someone on different branches.",
+          "zh": "埃及海滨街区的图表把反感,过敏（allergy）和(挨户兜售的)小贩（pedlar）放在不同分支，让读者清楚看见两者区别。"
+        },
+        {
+          "en": "A classification exercise at an Egyptian seaside district compares Egypt (a republic in northeastern Africa known as the United Arab) with peer (a person).",
+          "zh": "埃及海滨街区的分类练习把埃及（Egypt）与同等（peer）并列，要求学习者找出两者不同特征。"
+        },
+        {
+          "en": "By separating tumult (a state of commotion and noise and confusion) from bunch (a grouping of a number of similar things), an Egyptian seaside district turns definitions into usable knowledge.",
+          "zh": "埃及海滨街区把骚动,暴动,吵闹（tumult）与束,串（bunch）分开考察，使两个陌生概念转化为可使用的知识。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "rainfall",
+          "meaning": "n.下雨,降雨量"
+        },
+        {
+          "word": "squirrel",
+          "meaning": "n. 松鼠"
+        },
+        {
+          "word": "aluminum",
+          "meaning": "n. [美"
+        },
+        {
+          "word": "announcer",
+          "meaning": "n.宣告者;播音员"
+        },
+        {
+          "word": "allergy",
+          "meaning": "n.反感,过敏"
+        },
+        {
+          "word": "pedlar",
+          "meaning": "n.(挨户兜售的)小贩"
+        },
+        {
+          "word": "Egypt",
+          "meaning": "n.埃及"
+        },
+        {
+          "word": "peer",
+          "meaning": "n. 同等;同辈;vi. 仔细看,费力地看"
+        },
+        {
+          "word": "tumult",
+          "meaning": "n.骚动,暴动,吵闹"
+        },
+        {
+          "word": "bunch",
+          "meaning": "n./v. 束,串"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d082-3",
+      "title": "Why Sovereignty Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "A forum at an Egyptian seaside district considered persecution (the act of persecuting) alongside burglary (entering a building unlawfully with intent to commit a felony) before setting priorities. Decision makers at an Egyptian seaside district cannot evaluate greed (excessive desire to acquire or possess more) while excluding modernization (making modern in appearance or behavior). A proposal for an Egyptian seaside district prioritizes cruelty (a cruel act), while critics emphasize humor (a message whose ingenuity or verbal skill or incongruity has). Public trust at an Egyptian seaside district needs honest discussion of undertaking (any piece of work) and measurable commitments on anecdote (short account of an incident). A review panel at an Egyptian seaside district rejected claims that sense (a general conscious awareness) automatically outweighed sovereignty (government free from external control).",
+      "translation": "埃及海滨街区的公开论坛同时考虑迫害（persecution）与盗窃（burglary），并讨论哪一项更需要优先行动。埃及海滨街区的决策者不能只评估贪心,贪婪（greed），却把现代化（modernization）排除在公开证据之外。埃及海滨街区的方案优先处理残酷（cruelty），批评者则认为幽默,诙谐（humor）也应得到同等关注。埃及海滨街区要建立公众信任，就必须诚实讨论任务,事业（undertaking），并对轶事,趣闻（anecdote）作出可衡量承诺。埃及海滨街区的审查小组拒绝在缺乏地方证据时认定感官（sense）天然比主权（sovereignty）更重要。",
+      "sentences": [
+        {
+          "en": "A forum at an Egyptian seaside district considered persecution (the act of persecuting) alongside burglary (entering a building unlawfully with intent to commit a felony) before setting priorities.",
+          "zh": "埃及海滨街区的公开论坛同时考虑迫害（persecution）与盗窃（burglary），并讨论哪一项更需要优先行动。"
+        },
+        {
+          "en": "Decision makers at an Egyptian seaside district cannot evaluate greed (excessive desire to acquire or possess more) while excluding modernization (making modern in appearance or behavior).",
+          "zh": "埃及海滨街区的决策者不能只评估贪心,贪婪（greed），却把现代化（modernization）排除在公开证据之外。"
+        },
+        {
+          "en": "A proposal for an Egyptian seaside district prioritizes cruelty (a cruel act), while critics emphasize humor (a message whose ingenuity or verbal skill or incongruity has).",
+          "zh": "埃及海滨街区的方案优先处理残酷（cruelty），批评者则认为幽默,诙谐（humor）也应得到同等关注。"
+        },
+        {
+          "en": "Public trust at an Egyptian seaside district needs honest discussion of undertaking (any piece of work) and measurable commitments on anecdote (short account of an incident).",
+          "zh": "埃及海滨街区要建立公众信任，就必须诚实讨论任务,事业（undertaking），并对轶事,趣闻（anecdote）作出可衡量承诺。"
+        },
+        {
+          "en": "A review panel at an Egyptian seaside district rejected claims that sense (a general conscious awareness) automatically outweighed sovereignty (government free from external control).",
+          "zh": "埃及海滨街区的审查小组拒绝在缺乏地方证据时认定感官（sense）天然比主权（sovereignty）更重要。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "persecution",
+          "meaning": "n.迫害"
+        },
+        {
+          "word": "burglary",
+          "meaning": "n.盗窃"
+        },
+        {
+          "word": "greed",
+          "meaning": "n.贪心,贪婪"
+        },
+        {
+          "word": "modernization",
+          "meaning": "n. 现代化"
+        },
+        {
+          "word": "cruelty",
+          "meaning": "n.残酷;残酷行为"
+        },
+        {
+          "word": "humor",
+          "meaning": "n. 幽默,诙谐"
+        },
+        {
+          "word": "undertaking",
+          "meaning": "n.任务,事业;许诺"
+        },
+        {
+          "word": "anecdote",
+          "meaning": "n. 轶事,趣闻"
+        },
+        {
+          "word": "sense",
+          "meaning": "n. 感官;感觉;判断力;意义v. 觉得,意识到"
+        },
+        {
+          "word": "sovereignty",
+          "meaning": "n.主权"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 88,
+  "articles": [
+    {
+      "id": "cet4-reading-d088-1",
+      "title": "The Workaholic File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "Two volunteers at a coastal therapy center used the inventory to identify pivot (the person in a rank around whom the others wheel) and ketchup (thick spicy sauce). A visitor entered a coastal therapy center asking about halibut (lean flesh of very large flatfish of Atlantic or Pacific) and left with a note on turbot (flesh of a large European flatfish). Near closing time at a coastal therapy center, a diary linked the displays of fiance (a man) and hub (the central part of a car wheel). Rain kept a family inside a coastal therapy center, learning about occupant (someone) and bouquet (an arrangement of flowers). Inside a coastal therapy center, the curator corrected labels for chasm (a deep opening in the earth's surface) and workaholic (person with a compulsive need to work).",
+      "translation": "海岸治疗中心的两名志愿者借助清单确认枢轴, 支点, (讨论的)中心点, 重点。adj.枢轴的。vi.在枢轴上转动。vt.装枢轴于（pivot），并顺带找到另一条关于调味蕃茄酱。（ketchup）的记录。访客到海岸治疗中心询问大比目鱼。（halibut），旧平面图却意外引导她发现了大比目鱼, 大菱鲆。（turbot）。海岸治疗中心闭馆前，一本提到<法>未婚夫。（fiance）的日记帮助员工找到了一幅标有毂, 木片, 中心。n.网络集线器, 网络中心（hub）的画的主人。雨天让一家人留在海岸治疗中心，一个孩子学习占有者, 居住者。（occupant），另一个孩子则操作与花束。（bouquet）有关的模型。海岸治疗中心的策展人先纠正深坑, 裂口。（chasm）的标签错误，随后发现关于工作第一的人, 专心工作的人。（workaholic）的材料也放错了位置。",
+      "sentences": [
+        {
+          "en": "Two volunteers at a coastal therapy center used the inventory to identify pivot (the person in a rank around whom the others wheel) and ketchup (thick spicy sauce).",
+          "zh": "海岸治疗中心的两名志愿者借助清单确认枢轴, 支点, (讨论的)中心点, 重点。adj.枢轴的。vi.在枢轴上转动。vt.装枢轴于（pivot），并顺带找到另一条关于调味蕃茄酱。（ketchup）的记录。"
+        },
+        {
+          "en": "A visitor entered a coastal therapy center asking about halibut (lean flesh of very large flatfish of Atlantic or Pacific) and left with a note on turbot (flesh of a large European flatfish).",
+          "zh": "访客到海岸治疗中心询问大比目鱼。（halibut），旧平面图却意外引导她发现了大比目鱼, 大菱鲆。（turbot）。"
+        },
+        {
+          "en": "Near closing time at a coastal therapy center, a diary linked the displays of fiance (a man) and hub (the central part of a car wheel).",
+          "zh": "海岸治疗中心闭馆前，一本提到<法>未婚夫。（fiance）的日记帮助员工找到了一幅标有毂, 木片, 中心。n.网络集线器, 网络中心（hub）的画的主人。"
+        },
+        {
+          "en": "Rain kept a family inside a coastal therapy center, learning about occupant (someone) and bouquet (an arrangement of flowers).",
+          "zh": "雨天让一家人留在海岸治疗中心，一个孩子学习占有者, 居住者。（occupant），另一个孩子则操作与花束。（bouquet）有关的模型。"
+        },
+        {
+          "en": "Inside a coastal therapy center, the curator corrected labels for chasm (a deep opening in the earth's surface) and workaholic (person with a compulsive need to work).",
+          "zh": "海岸治疗中心的策展人先纠正深坑, 裂口。（chasm）的标签错误，随后发现关于工作第一的人, 专心工作的人。（workaholic）的材料也放错了位置。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "pivot",
+          "meaning": "n.枢轴, 支点, (讨论的)中心点, 重点。adj.枢轴的。vi.在枢轴上转动。vt.装枢轴于"
+        },
+        {
+          "word": "ketchup",
+          "meaning": "n.调味蕃茄酱。"
+        },
+        {
+          "word": "halibut",
+          "meaning": "n.大比目鱼。"
+        },
+        {
+          "word": "turbot",
+          "meaning": "n.大比目鱼, 大菱鲆。"
+        },
+        {
+          "word": "fiance",
+          "meaning": "n.<法>未婚夫。"
+        },
+        {
+          "word": "hub",
+          "meaning": "n.毂, 木片, 中心。n.网络集线器, 网络中心"
+        },
+        {
+          "word": "occupant",
+          "meaning": "n.占有者, 居住者。"
+        },
+        {
+          "word": "bouquet",
+          "meaning": "n.花束。"
+        },
+        {
+          "word": "chasm",
+          "meaning": "n.深坑, 裂口。"
+        },
+        {
+          "word": "workaholic",
+          "meaning": "n.工作第一的人, 专心工作的人。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "workaholic",
+          "explanation": "最后一个目标词是工作第一的人, 专心工作的人。（workaholic）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d088-2",
+      "title": "Understanding Fluff Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "A classification exercise at a coastal therapy center compares fluff (any light downy material) with mammal (any warm-blooded vertebrate). A chart in a coastal therapy center defines plank as a stout length of sawn timber and peroxide as a viscous liquid with strong oxidizing properties on different branches. The handbook at a coastal therapy center introduces carnivore—a terrestrial or aquatic flesh-eating mammal—before tibia—the inner and thicker of the two bones. Field notes from a coastal therapy center distinguish eucalyptus (wood of any of various eucalyptus trees valued as timber) from jellyfish (large siphonophore). Students at a coastal therapy center summarize regeneration as biology growth anew of lost tissue or destroyed parts and propulsion as a propelling force, then test new examples.",
+      "translation": "海岸治疗中心的分类练习把软毛, 柔毛, 绒毛, 错误, 无价值的东西。vi.起毛, 变松, 出错。vt.使起毛, 抖松, 念错(台词)。（fluff）与哺乳动物。（mammal）并列，要求学习者找出两者不同特征。海岸治疗中心的图表把厚木板, 支架, (政党的)政纲条款。vt.铺板, 立刻付款。vi.睡在板上（plank）和化]过氧化物, 过氧化氢。v.以过氧化氢漂白（peroxide）放在不同分支，让读者清楚看见两者区别。海岸治疗中心的手册先介绍食肉动物。n.(动物或植物)食肉类,食肉动物,食虫植物（carnivore），再补充需要更多背景的解] 胫骨, [昆]胫节, 从前的一种笛。（tibia）。海岸治疗中心的野外记录严格区分植]桉树。（eucalyptus）和水母。（jellyfish），使记录保持准确。海岸治疗中心的学生分别概括再生, 重建。（regeneration）与推进, 推进力。（propulsion），随后检验新实例是否符合定义。",
+      "sentences": [
+        {
+          "en": "A classification exercise at a coastal therapy center compares fluff (any light downy material) with mammal (any warm-blooded vertebrate).",
+          "zh": "海岸治疗中心的分类练习把软毛, 柔毛, 绒毛, 错误, 无价值的东西。vi.起毛, 变松, 出错。vt.使起毛, 抖松, 念错(台词)。（fluff）与哺乳动物。（mammal）并列，要求学习者找出两者不同特征。"
+        },
+        {
+          "en": "A chart in a coastal therapy center defines plank as a stout length of sawn timber and peroxide as a viscous liquid with strong oxidizing properties on different branches.",
+          "zh": "海岸治疗中心的图表把厚木板, 支架, (政党的)政纲条款。vt.铺板, 立刻付款。vi.睡在板上（plank）和化]过氧化物, 过氧化氢。v.以过氧化氢漂白（peroxide）放在不同分支，让读者清楚看见两者区别。"
+        },
+        {
+          "en": "The handbook at a coastal therapy center introduces carnivore—a terrestrial or aquatic flesh-eating mammal—before tibia—the inner and thicker of the two bones.",
+          "zh": "海岸治疗中心的手册先介绍食肉动物。n.(动物或植物)食肉类,食肉动物,食虫植物（carnivore），再补充需要更多背景的解] 胫骨, [昆]胫节, 从前的一种笛。（tibia）。"
+        },
+        {
+          "en": "Field notes from a coastal therapy center distinguish eucalyptus (wood of any of various eucalyptus trees valued as timber) from jellyfish (large siphonophore).",
+          "zh": "海岸治疗中心的野外记录严格区分植]桉树。（eucalyptus）和水母。（jellyfish），使记录保持准确。"
+        },
+        {
+          "en": "Students at a coastal therapy center summarize regeneration as biology growth anew of lost tissue or destroyed parts and propulsion as a propelling force, then test new examples.",
+          "zh": "海岸治疗中心的学生分别概括再生, 重建。（regeneration）与推进, 推进力。（propulsion），随后检验新实例是否符合定义。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "fluff",
+          "meaning": "n.软毛, 柔毛, 绒毛, 错误, 无价值的东西。vi.起毛, 变松, 出错。vt.使起毛, 抖松, 念错(台词)。"
+        },
+        {
+          "word": "mammal",
+          "meaning": "n.哺乳动物。"
+        },
+        {
+          "word": "plank",
+          "meaning": "n.厚木板, 支架, (政党的)政纲条款。vt.铺板, 立刻付款。vi.睡在板上"
+        },
+        {
+          "word": "peroxide",
+          "meaning": "n.[化]过氧化物, 过氧化氢。v.以过氧化氢漂白"
+        },
+        {
+          "word": "carnivore",
+          "meaning": "n.食肉动物。n.(动物或植物)食肉类,食肉动物,食虫植物"
+        },
+        {
+          "word": "tibia",
+          "meaning": "n.[解] 胫骨, [昆]胫节, 从前的一种笛。"
+        },
+        {
+          "word": "eucalyptus",
+          "meaning": "n.[植]桉树。"
+        },
+        {
+          "word": "jellyfish",
+          "meaning": "n.水母。"
+        },
+        {
+          "word": "regeneration",
+          "meaning": "n.再生, 重建。"
+        },
+        {
+          "word": "propulsion",
+          "meaning": "n.推进, 推进力。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d088-3",
+      "title": "Why Muster Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "A forum at a coastal therapy center considered notoriety (the state of being known for some unfavorable act) alongside anatomy (the branch of morphology) before setting priorities. Before approving change at a coastal therapy center, leaders must explain etiquette (rules governing socially acceptable behavior) and risks involving therapy (medicine the act of caring for someone as by medication). The strongest argument at a coastal therapy center supported bankruptcy (a state of complete lack of some abstract property) but demanded safeguards for pimple (a small inflamed elevation of the skin). Decision makers at a coastal therapy center cannot evaluate brainstorm (the clear) while excluding tumour (an abnormal new mass of tissue). Public trust at a coastal therapy center needs honest discussion of holocaust (an act of mass destruction and loss of life) and measurable commitments on muster (a gathering of military personnel for duty).",
+      "translation": "海岸治疗中心的公开论坛同时考虑恶名, 丑名, 声名狼藉, 远扬的名声。（notoriety）与剖析, 解剖学。（anatomy），并讨论哪一项更需要优先行动。批准海岸治疗中心的改变前，领导者应解释礼节。（etiquette）为何重要，以及谁承担治疗。（therapy）带来的风险。海岸治疗中心最有力的论证支持处理破产。（bankruptcy），同时要求在医]丘疹, 面泡, 疙瘩。（pimple）受影响时设置保障。海岸治疗中心的决策者不能只评估灵机一动。v.集体讨论（brainstorm），却把医]瘤, 肿瘤, 肿块。（tumour）排除在公开证据之外。海岸治疗中心要建立公众信任，就必须诚实讨论大毁灭, 大屠杀。（holocaust），并对集合, 阅, 样品, 清单, 一群。v.集合, 召集, 征召, 鼓起(勇气等), 集聚。（muster）作出可衡量承诺。",
+      "sentences": [
+        {
+          "en": "A forum at a coastal therapy center considered notoriety (the state of being known for some unfavorable act) alongside anatomy (the branch of morphology) before setting priorities.",
+          "zh": "海岸治疗中心的公开论坛同时考虑恶名, 丑名, 声名狼藉, 远扬的名声。（notoriety）与剖析, 解剖学。（anatomy），并讨论哪一项更需要优先行动。"
+        },
+        {
+          "en": "Before approving change at a coastal therapy center, leaders must explain etiquette (rules governing socially acceptable behavior) and risks involving therapy (medicine the act of caring for someone as by medication).",
+          "zh": "批准海岸治疗中心的改变前，领导者应解释礼节。（etiquette）为何重要，以及谁承担治疗。（therapy）带来的风险。"
+        },
+        {
+          "en": "The strongest argument at a coastal therapy center supported bankruptcy (a state of complete lack of some abstract property) but demanded safeguards for pimple (a small inflamed elevation of the skin).",
+          "zh": "海岸治疗中心最有力的论证支持处理破产。（bankruptcy），同时要求在医]丘疹, 面泡, 疙瘩。（pimple）受影响时设置保障。"
+        },
+        {
+          "en": "Decision makers at a coastal therapy center cannot evaluate brainstorm (the clear) while excluding tumour (an abnormal new mass of tissue).",
+          "zh": "海岸治疗中心的决策者不能只评估灵机一动。v.集体讨论（brainstorm），却把医]瘤, 肿瘤, 肿块。（tumour）排除在公开证据之外。"
+        },
+        {
+          "en": "Public trust at a coastal therapy center needs honest discussion of holocaust (an act of mass destruction and loss of life) and measurable commitments on muster (a gathering of military personnel for duty).",
+          "zh": "海岸治疗中心要建立公众信任，就必须诚实讨论大毁灭, 大屠杀。（holocaust），并对集合, 阅, 样品, 清单, 一群。v.集合, 召集, 征召, 鼓起(勇气等), 集聚。（muster）作出可衡量承诺。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "notoriety",
+          "meaning": "n.恶名, 丑名, 声名狼藉, 远扬的名声。"
+        },
+        {
+          "word": "anatomy",
+          "meaning": "n.剖析, 解剖学。"
+        },
+        {
+          "word": "etiquette",
+          "meaning": "n.礼节。"
+        },
+        {
+          "word": "therapy",
+          "meaning": "n.治疗。"
+        },
+        {
+          "word": "bankruptcy",
+          "meaning": "n.破产。"
+        },
+        {
+          "word": "pimple",
+          "meaning": "n.[医]丘疹, 面泡, 疙瘩。"
+        },
+        {
+          "word": "brainstorm",
+          "meaning": "n.灵机一动。v.集体讨论"
+        },
+        {
+          "word": "tumour",
+          "meaning": "n.[医]瘤, 肿瘤, 肿块。"
+        },
+        {
+          "word": "holocaust",
+          "meaning": "n.大毁灭, 大屠杀。"
+        },
+        {
+          "word": "muster",
+          "meaning": "n.集合, 阅, 样品, 清单, 一群。v.集合, 召集, 征召, 鼓起(勇气等), 集聚。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 53,
+  "articles": [
+    {
+      "id": "cet4-reading-d053-1",
+      "title": "The Nun File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "During a tour of a suburban health center, the class found ashtray (a receptacle for the ash from smokers cigars or cigarettes) before locating shell (ammunition). A student at a suburban health center photographed walnut—nut of any of various walnut trees—and sketched tape-recording—a recording. A quiet corner of a suburban health center presented refinery (an industrial plant for purifying a crude substance); a recording nearby introduced hostess (a woman host). The newest room at a suburban health center began with pessimist (a person) and ended with bodyguard (someone). Inside a suburban health center, the curator corrected labels for loudspeaker (electro-acoustic transducer) and nun (a woman religious).",
+      "translation": "郊区健康中心的参观先让学生认识烟灰缸（ashtray）；一块丢失的标牌又把他们带到壳,剥壳（shell）。学生在郊区健康中心记录胡桃,核桃树（walnut）后，又到另一处展区了解录音（tape-recording），两项内容分别得到清楚说明。郊区健康中心安静的一角介绍精炼厂,提炼厂（refinery），旁边的录音访谈则讲述女主人,女主持人（hostess）背后的人物故事。郊区健康中心最新展厅从悲观(主义)（pessimist）开始，以一个出人意料的本地保镖（bodyguard）实例结束。郊区健康中心的策展人先纠正扬声器,扩音器（loudspeaker）的标签错误，随后发现关于修女,尼姑（nun）的材料也放错了位置。",
+      "sentences": [
+        {
+          "en": "During a tour of a suburban health center, the class found ashtray (a receptacle for the ash from smokers cigars or cigarettes) before locating shell (ammunition).",
+          "zh": "郊区健康中心的参观先让学生认识烟灰缸（ashtray）；一块丢失的标牌又把他们带到壳,剥壳（shell）。"
+        },
+        {
+          "en": "A student at a suburban health center photographed walnut—nut of any of various walnut trees—and sketched tape-recording—a recording.",
+          "zh": "学生在郊区健康中心记录胡桃,核桃树（walnut）后，又到另一处展区了解录音（tape-recording），两项内容分别得到清楚说明。"
+        },
+        {
+          "en": "A quiet corner of a suburban health center presented refinery (an industrial plant for purifying a crude substance); a recording nearby introduced hostess (a woman host).",
+          "zh": "郊区健康中心安静的一角介绍精炼厂,提炼厂（refinery），旁边的录音访谈则讲述女主人,女主持人（hostess）背后的人物故事。"
+        },
+        {
+          "en": "The newest room at a suburban health center began with pessimist (a person) and ended with bodyguard (someone).",
+          "zh": "郊区健康中心最新展厅从悲观(主义)（pessimist）开始，以一个出人意料的本地保镖（bodyguard）实例结束。"
+        },
+        {
+          "en": "Inside a suburban health center, the curator corrected labels for loudspeaker (electro-acoustic transducer) and nun (a woman religious).",
+          "zh": "郊区健康中心的策展人先纠正扬声器,扩音器（loudspeaker）的标签错误，随后发现关于修女,尼姑（nun）的材料也放错了位置。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "ashtray",
+          "meaning": "n.烟灰缸"
+        },
+        {
+          "word": "shell",
+          "meaning": "n./v. 壳,剥壳"
+        },
+        {
+          "word": "walnut",
+          "meaning": "n.胡桃,核桃树"
+        },
+        {
+          "word": "tape-recording",
+          "meaning": "n.录音"
+        },
+        {
+          "word": "refinery",
+          "meaning": "n.精炼厂,提炼厂"
+        },
+        {
+          "word": "hostess",
+          "meaning": "n. 女主人,女主持人"
+        },
+        {
+          "word": "pessimist",
+          "meaning": "n.悲观(主义)"
+        },
+        {
+          "word": "bodyguard",
+          "meaning": "n.保镖"
+        },
+        {
+          "word": "loudspeaker",
+          "meaning": "n. 扬声器,扩音器"
+        },
+        {
+          "word": "nun",
+          "meaning": "n.修女,尼姑"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "nun",
+          "explanation": "最后一个目标词是修女,尼姑（nun）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d053-2",
+      "title": "Understanding Poultry Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "A demonstration at a suburban health center makes poultry (a domesticated gallinaceous bird thought to be descended) concrete before explaining gorilla (largest anthropoid ape). The handbook at a suburban health center introduces thunderstorm—a storm—before fission—reproduction of some unicellular organisms by division of the cell. One panel in a suburban health center illustrates amends (a sum of money paid in compensation for loss); the next describes prick (insulting terms of address for people). Field notes from a suburban health center distinguish entirety (the state of being total and complete) from laziness (inactivity). Students at a suburban health center summarize rejection as the act of rejecting something and charm as attractiveness, then test new examples.",
+      "translation": "郊区健康中心的简短演示先让家禽,家禽肉（poultry）具体可见，再用第二个实例解释大猩猩（gorilla）。郊区健康中心的手册先介绍雷雨（thunderstorm），再补充需要更多背景的裂开（fission）。郊区健康中心第一块展板说明赔偿（amends），下一块介绍刺伤,刺痛,刺孔（prick），访客因而能比较两个准确概念。郊区健康中心的野外记录严格区分全部（entirety）和懒惰（laziness），使记录保持准确。郊区健康中心的学生分别概括拒绝（rejection）与吸引力,可爱之处,迷人,施魔法（charm），随后检验新实例是否符合定义。",
+      "sentences": [
+        {
+          "en": "A demonstration at a suburban health center makes poultry (a domesticated gallinaceous bird thought to be descended) concrete before explaining gorilla (largest anthropoid ape).",
+          "zh": "郊区健康中心的简短演示先让家禽,家禽肉（poultry）具体可见，再用第二个实例解释大猩猩（gorilla）。"
+        },
+        {
+          "en": "The handbook at a suburban health center introduces thunderstorm—a storm—before fission—reproduction of some unicellular organisms by division of the cell.",
+          "zh": "郊区健康中心的手册先介绍雷雨（thunderstorm），再补充需要更多背景的裂开（fission）。"
+        },
+        {
+          "en": "One panel in a suburban health center illustrates amends (a sum of money paid in compensation for loss); the next describes prick (insulting terms of address for people).",
+          "zh": "郊区健康中心第一块展板说明赔偿（amends），下一块介绍刺伤,刺痛,刺孔（prick），访客因而能比较两个准确概念。"
+        },
+        {
+          "en": "Field notes from a suburban health center distinguish entirety (the state of being total and complete) from laziness (inactivity).",
+          "zh": "郊区健康中心的野外记录严格区分全部（entirety）和懒惰（laziness），使记录保持准确。"
+        },
+        {
+          "en": "Students at a suburban health center summarize rejection as the act of rejecting something and charm as attractiveness, then test new examples.",
+          "zh": "郊区健康中心的学生分别概括拒绝（rejection）与吸引力,可爱之处,迷人,施魔法（charm），随后检验新实例是否符合定义。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "poultry",
+          "meaning": "n. 家禽,家禽肉"
+        },
+        {
+          "word": "gorilla",
+          "meaning": "n.大猩猩;暴徒,打手"
+        },
+        {
+          "word": "thunderstorm",
+          "meaning": "n.雷雨"
+        },
+        {
+          "word": "fission",
+          "meaning": "n.裂开;分裂生殖"
+        },
+        {
+          "word": "amends",
+          "meaning": "n.赔偿"
+        },
+        {
+          "word": "prick",
+          "meaning": "n./v. 刺伤,刺痛,刺孔"
+        },
+        {
+          "word": "entirety",
+          "meaning": "n.全部"
+        },
+        {
+          "word": "laziness",
+          "meaning": "n.懒惰"
+        },
+        {
+          "word": "rejection",
+          "meaning": "n.拒绝"
+        },
+        {
+          "word": "charm",
+          "meaning": "n./v. 吸引力,可爱之处,迷人,施魔法"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d053-3",
+      "title": "Why Memoir Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "A proposal for a suburban health center prioritizes exploitation (the act of making some area of land or water), while critics emphasize teaching (the profession of a teacher). A review panel at a suburban health center rejected claims that trouble (a source of difficulty) automatically outweighed elimination (the act of removing or getting rid of something). Decision makers at a suburban health center cannot evaluate provocation (unfriendly behavior) while excluding remuneration (something). Public trust at a suburban health center needs honest discussion of enlargement (the act of increasing) and measurable commitments on vaccination (taking a vaccine as a precaution against contracting a disease). The strongest argument at a suburban health center supported exploration (to travel for the purpose of discovery) but demanded safeguards for memoir (an account of the author's personal experiences).",
+      "translation": "郊区健康中心的方案优先处理开发,利用（exploitation），批评者则认为教学,讲授（teaching）也应得到同等关注。郊区健康中心的审查小组拒绝在缺乏地方证据时认定烦恼（trouble）天然比消灭,排除,消除（elimination）更重要。郊区健康中心的决策者不能只评估刺激,煽动（provocation），却把酬劳,赔偿,酬金（remuneration）排除在公开证据之外。郊区健康中心要建立公众信任，就必须诚实讨论扩大（enlargement），并对接种（vaccination）作出可衡量承诺。郊区健康中心最有力的论证支持处理考察（exploration），同时要求在回忆录（memoir）受影响时设置保障。",
+      "sentences": [
+        {
+          "en": "A proposal for a suburban health center prioritizes exploitation (the act of making some area of land or water), while critics emphasize teaching (the profession of a teacher).",
+          "zh": "郊区健康中心的方案优先处理开发,利用（exploitation），批评者则认为教学,讲授（teaching）也应得到同等关注。"
+        },
+        {
+          "en": "A review panel at a suburban health center rejected claims that trouble (a source of difficulty) automatically outweighed elimination (the act of removing or getting rid of something).",
+          "zh": "郊区健康中心的审查小组拒绝在缺乏地方证据时认定烦恼（trouble）天然比消灭,排除,消除（elimination）更重要。"
+        },
+        {
+          "en": "Decision makers at a suburban health center cannot evaluate provocation (unfriendly behavior) while excluding remuneration (something).",
+          "zh": "郊区健康中心的决策者不能只评估刺激,煽动（provocation），却把酬劳,赔偿,酬金（remuneration）排除在公开证据之外。"
+        },
+        {
+          "en": "Public trust at a suburban health center needs honest discussion of enlargement (the act of increasing) and measurable commitments on vaccination (taking a vaccine as a precaution against contracting a disease).",
+          "zh": "郊区健康中心要建立公众信任，就必须诚实讨论扩大（enlargement），并对接种（vaccination）作出可衡量承诺。"
+        },
+        {
+          "en": "The strongest argument at a suburban health center supported exploration (to travel for the purpose of discovery) but demanded safeguards for memoir (an account of the author's personal experiences).",
+          "zh": "郊区健康中心最有力的论证支持处理考察（exploration），同时要求在回忆录（memoir）受影响时设置保障。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "exploitation",
+          "meaning": "n.开发,利用"
+        },
+        {
+          "word": "teaching",
+          "meaning": "n.教学,讲授;教导"
+        },
+        {
+          "word": "trouble",
+          "meaning": "n. 烦恼;动乱;疾病;故障;辛苦v. (使)烦恼"
+        },
+        {
+          "word": "elimination",
+          "meaning": "n.消灭,排除,消除"
+        },
+        {
+          "word": "provocation",
+          "meaning": "n.刺激,煽动"
+        },
+        {
+          "word": "remuneration",
+          "meaning": "n.酬劳,赔偿,酬金"
+        },
+        {
+          "word": "enlargement",
+          "meaning": "n.扩大"
+        },
+        {
+          "word": "vaccination",
+          "meaning": "n.接种"
+        },
+        {
+          "word": "exploration",
+          "meaning": "n.考察;勘探;探查"
+        },
+        {
+          "word": "memoir",
+          "meaning": "n.回忆录"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

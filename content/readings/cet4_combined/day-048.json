@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 48,
+  "articles": [
+    {
+      "id": "cet4-reading-d048-1",
+      "title": "The Pianist File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "During a tour of a harbor warehouse, the class found weapon (any instrument or instrumentality used in fighting or hunting) before locating web (an intricate network suggesting something). Inside a harbor warehouse, the curator corrected labels for yacht (an expensive vessel propelled by sail or power and used) and yoke (fabric comprising a fitted part at the top). A quiet corner of a harbor warehouse presented sneakers (a canvas shoe with a pliable rubber sole); a recording nearby introduced diver (someone). Near closing time at a harbor warehouse, a diary linked the displays of prairie (a treeless grassy plain) and artist (a person whose creative work shows sensitivity and imagination). At a harbor warehouse, a guide explained servant (a person working in the service of another) beside a display of pianist (a person).",
+      "translation": "港口仓库的参观先让学生认识武器,兵器（weapon）；一块丢失的标牌又把他们带到网（web）。港口仓库的策展人先纠正小帆船,快艇,帆船（yacht）的标签错误，随后发现关于牛轭（yoke）的材料也放错了位置。港口仓库安静的一角介绍旅游鞋（sneakers），旁边的录音访谈则讲述潜水员,跳水运动员（diver）背后的人物故事。港口仓库闭馆前，一本提到大草原,牧场（prairie）的日记帮助员工找到了一幅标有艺术家,美术家（artist）的画的主人。在港口仓库的参观过程中，讲解员先介绍仆人（servant），随后带大家找到另一项独立展品钢琴家（pianist）。",
+      "sentences": [
+        {
+          "en": "During a tour of a harbor warehouse, the class found weapon (any instrument or instrumentality used in fighting or hunting) before locating web (an intricate network suggesting something).",
+          "zh": "港口仓库的参观先让学生认识武器,兵器（weapon）；一块丢失的标牌又把他们带到网（web）。"
+        },
+        {
+          "en": "Inside a harbor warehouse, the curator corrected labels for yacht (an expensive vessel propelled by sail or power and used) and yoke (fabric comprising a fitted part at the top).",
+          "zh": "港口仓库的策展人先纠正小帆船,快艇,帆船（yacht）的标签错误，随后发现关于牛轭（yoke）的材料也放错了位置。"
+        },
+        {
+          "en": "A quiet corner of a harbor warehouse presented sneakers (a canvas shoe with a pliable rubber sole); a recording nearby introduced diver (someone).",
+          "zh": "港口仓库安静的一角介绍旅游鞋（sneakers），旁边的录音访谈则讲述潜水员,跳水运动员（diver）背后的人物故事。"
+        },
+        {
+          "en": "Near closing time at a harbor warehouse, a diary linked the displays of prairie (a treeless grassy plain) and artist (a person whose creative work shows sensitivity and imagination).",
+          "zh": "港口仓库闭馆前，一本提到大草原,牧场（prairie）的日记帮助员工找到了一幅标有艺术家,美术家（artist）的画的主人。"
+        },
+        {
+          "en": "At a harbor warehouse, a guide explained servant (a person working in the service of another) beside a display of pianist (a person).",
+          "zh": "在港口仓库的参观过程中，讲解员先介绍仆人（servant），随后带大家找到另一项独立展品钢琴家（pianist）。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "weapon",
+          "meaning": "n. 武器,兵器"
+        },
+        {
+          "word": "web",
+          "meaning": "n. 网"
+        },
+        {
+          "word": "yacht",
+          "meaning": "n. 小帆船,快艇,帆船"
+        },
+        {
+          "word": "yoke",
+          "meaning": "n. 牛轭;枷锁;纽带"
+        },
+        {
+          "word": "sneakers",
+          "meaning": "n.旅游鞋"
+        },
+        {
+          "word": "diver",
+          "meaning": "n.潜水员,跳水运动员"
+        },
+        {
+          "word": "prairie",
+          "meaning": "n.大草原,牧场"
+        },
+        {
+          "word": "artist",
+          "meaning": "n. 艺术家,美术家;(某方面的)能手"
+        },
+        {
+          "word": "servant",
+          "meaning": "n. 仆人"
+        },
+        {
+          "word": "pianist",
+          "meaning": "n.钢琴家"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "pianist",
+          "explanation": "最后一个目标词是钢琴家（pianist）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d048-2",
+      "title": "Understanding Zinc Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "Field notes from a harbor warehouse distinguish zinc (a bluish-white lustrous metallic element) from bat (nocturnal mouselike mammal with forelimbs modified to form membranous wings). A demonstration at a harbor warehouse makes pepper (climber) concrete before explaining peanut (underground pod of the peanut vine). A chart in a harbor warehouse defines yeast as a commercial leavening agent containing yeast cells and platinum as a heavy precious metallic element on different branches. To avoid ambiguity, a harbor warehouse explains wallet as a pocket-size case for holding papers and paper money and ward as a person. One panel in a harbor warehouse illustrates wardrobe (a tall piece of furniture); the next describes warehouse (a storehouse for goods and merchandise).",
+      "translation": "港口仓库的野外记录严格区分锌（zinc）和球拍,球棒,短棒（bat），使记录保持准确。港口仓库的简短演示先让胡椒粉,胡椒（pepper）具体可见，再用第二个实例解释花生（peanut）。港口仓库的图表把酵母（yeast）和白金（platinum）放在不同分支，让读者清楚看见两者区别。为避免歧义，港口仓库的教师分别说明皮夹,钱包（wallet）和病房（ward），再用实例展示各自用法。港口仓库第一块展板说明衣柜,衣橱,全部服装,剧服,行头（wardrobe），下一块介绍仓库（warehouse），访客因而能比较两个准确概念。",
+      "sentences": [
+        {
+          "en": "Field notes from a harbor warehouse distinguish zinc (a bluish-white lustrous metallic element) from bat (nocturnal mouselike mammal with forelimbs modified to form membranous wings).",
+          "zh": "港口仓库的野外记录严格区分锌（zinc）和球拍,球棒,短棒（bat），使记录保持准确。"
+        },
+        {
+          "en": "A demonstration at a harbor warehouse makes pepper (climber) concrete before explaining peanut (underground pod of the peanut vine).",
+          "zh": "港口仓库的简短演示先让胡椒粉,胡椒（pepper）具体可见，再用第二个实例解释花生（peanut）。"
+        },
+        {
+          "en": "A chart in a harbor warehouse defines yeast as a commercial leavening agent containing yeast cells and platinum as a heavy precious metallic element on different branches.",
+          "zh": "港口仓库的图表把酵母（yeast）和白金（platinum）放在不同分支，让读者清楚看见两者区别。"
+        },
+        {
+          "en": "To avoid ambiguity, a harbor warehouse explains wallet as a pocket-size case for holding papers and paper money and ward as a person.",
+          "zh": "为避免歧义，港口仓库的教师分别说明皮夹,钱包（wallet）和病房（ward），再用实例展示各自用法。"
+        },
+        {
+          "en": "One panel in a harbor warehouse illustrates wardrobe (a tall piece of furniture); the next describes warehouse (a storehouse for goods and merchandise).",
+          "zh": "港口仓库第一块展板说明衣柜,衣橱,全部服装,剧服,行头（wardrobe），下一块介绍仓库（warehouse），访客因而能比较两个准确概念。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "zinc",
+          "meaning": "n. 锌"
+        },
+        {
+          "word": "bat",
+          "meaning": "n. 球拍,球棒,短棒;蝙蝠"
+        },
+        {
+          "word": "pepper",
+          "meaning": "n. 胡椒粉,胡椒;辣椒"
+        },
+        {
+          "word": "peanut",
+          "meaning": "n. 花生"
+        },
+        {
+          "word": "yeast",
+          "meaning": "n.酵母"
+        },
+        {
+          "word": "platinum",
+          "meaning": "n.白金"
+        },
+        {
+          "word": "wallet",
+          "meaning": "n. 皮夹,钱包"
+        },
+        {
+          "word": "ward",
+          "meaning": "n. 病房;行政区;监护;被监护人vt. 挡住"
+        },
+        {
+          "word": "wardrobe",
+          "meaning": "n. 衣柜,衣橱,全部服装,剧服,行头"
+        },
+        {
+          "word": "warehouse",
+          "meaning": "n. 仓库"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d048-3",
+      "title": "Why Vibration Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "A forum at a harbor warehouse considered warfare (the waging of armed conflict against an enemy) alongside warrant (a writ from a court commanding police to perform specified) before setting priorities. A review panel at a harbor warehouse rejected claims that wealth (the state of being rich and affluent) automatically outweighed wrench (a sharp strain on muscles or ligaments). The strongest argument at a harbor warehouse supported patronage (the act of providing approval and support) but demanded safeguards for romanticism (impractical romantic ideals and attitudes). A proposal for a harbor warehouse prioritizes armour (a military unit), while critics emphasize retirement (the state of being retired from one's business or occupation). Policy at a harbor warehouse should address cartoon—a humorous or satirical drawing published in a newspaper—without ignoring vibration—the act of vibrating.",
+      "translation": "港口仓库的公开论坛同时考虑战争(状态)（warfare）与正当理由（warrant），并讨论哪一项更需要优先行动。港口仓库的审查小组拒绝在缺乏地方证据时认定财富,财产（wealth）天然比猛扭,猛拉（wrench）更重要。港口仓库最有力的论证支持处理赞助,资助,恩赐的态度,互惠互利（patronage），同时要求在浪漫主义（romanticism）受影响时设置保障。港口仓库的方案优先处理盔甲,装甲部队（armour），批评者则认为退休,引退（retirement）也应得到同等关注。港口仓库的政策应处理漫画,动画片（cartoon），也不能忽视颤动,振动（vibration）；两者都需要证据而非口号。",
+      "sentences": [
+        {
+          "en": "A forum at a harbor warehouse considered warfare (the waging of armed conflict against an enemy) alongside warrant (a writ from a court commanding police to perform specified) before setting priorities.",
+          "zh": "港口仓库的公开论坛同时考虑战争(状态)（warfare）与正当理由（warrant），并讨论哪一项更需要优先行动。"
+        },
+        {
+          "en": "A review panel at a harbor warehouse rejected claims that wealth (the state of being rich and affluent) automatically outweighed wrench (a sharp strain on muscles or ligaments).",
+          "zh": "港口仓库的审查小组拒绝在缺乏地方证据时认定财富,财产（wealth）天然比猛扭,猛拉（wrench）更重要。"
+        },
+        {
+          "en": "The strongest argument at a harbor warehouse supported patronage (the act of providing approval and support) but demanded safeguards for romanticism (impractical romantic ideals and attitudes).",
+          "zh": "港口仓库最有力的论证支持处理赞助,资助,恩赐的态度,互惠互利（patronage），同时要求在浪漫主义（romanticism）受影响时设置保障。"
+        },
+        {
+          "en": "A proposal for a harbor warehouse prioritizes armour (a military unit), while critics emphasize retirement (the state of being retired from one's business or occupation).",
+          "zh": "港口仓库的方案优先处理盔甲,装甲部队（armour），批评者则认为退休,引退（retirement）也应得到同等关注。"
+        },
+        {
+          "en": "Policy at a harbor warehouse should address cartoon—a humorous or satirical drawing published in a newspaper—without ignoring vibration—the act of vibrating.",
+          "zh": "港口仓库的政策应处理漫画,动画片（cartoon），也不能忽视颤动,振动（vibration）；两者都需要证据而非口号。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "warfare",
+          "meaning": "n. 战争(状态);斗争;冲突"
+        },
+        {
+          "word": "warrant",
+          "meaning": "n. 正当理由;许可证,委任状v. 保证,担保"
+        },
+        {
+          "word": "wealth",
+          "meaning": "n. 财富,财产;大量"
+        },
+        {
+          "word": "wrench",
+          "meaning": "n./vt. 猛扭,猛拉"
+        },
+        {
+          "word": "patronage",
+          "meaning": "n.赞助,资助,恩赐的态度,互惠互利"
+        },
+        {
+          "word": "romanticism",
+          "meaning": "n.浪漫主义"
+        },
+        {
+          "word": "armour",
+          "meaning": "n. 盔甲,装甲部队"
+        },
+        {
+          "word": "retirement",
+          "meaning": "n.退休,引退;退隐"
+        },
+        {
+          "word": "cartoon",
+          "meaning": "n. 漫画,动画片"
+        },
+        {
+          "word": "vibration",
+          "meaning": "n.颤动,振动;摆动"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}

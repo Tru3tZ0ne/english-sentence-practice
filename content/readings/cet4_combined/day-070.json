@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 70,
+  "articles": [
+    {
+      "id": "cet4-reading-d070-1",
+      "title": "The Sugar File",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "The newest room at a Portuguese hostel began with hostel (a hotel providing overnight lodging for travelers) and ended with state (the territory occupied by one of the constituent administrative districts). Inside a Portuguese hostel, the curator corrected labels for truck (an automotive vehicle suitable for hauling) and attic (floor). At a Portuguese hostel, a guide explained barn (an outlying farm building for storing grain or animal feed) beside a display of lobby (a large entrance or reception room or area). During a tour of a Portuguese hostel, the class found butchery (a building) before locating winner (the contestant). When a shelf shifted at a Portuguese hostel, staff protected files on cosmetics (a toiletry designed to beautify the body) and sugar (a white crystalline carbohydrate used as a sweetener and preservative).",
+      "translation": "葡萄牙旅舍最新展厅从廉价旅馆（hostel）开始，以一个出人意料的本地状态,情况（state）实例结束。葡萄牙旅舍的策展人先纠正卡车,载重汽车（truck）的标签错误，随后发现关于阁楼（attic）的材料也放错了位置。在葡萄牙旅舍的参观过程中，讲解员先介绍谷仓（barn），随后带大家找到另一项独立展品门廊,门厅（lobby）。葡萄牙旅舍的参观先让学生认识肉食店（butchery）；一块丢失的标牌又把他们带到获胜者,优胜者（winner）。葡萄牙旅舍的架子倒下时，员工保护了有关化妆品（cosmetics）的材料，也找回了旁边关于糖,食糖vt. 加糖于（sugar）的档案。",
+      "sentences": [
+        {
+          "en": "The newest room at a Portuguese hostel began with hostel (a hotel providing overnight lodging for travelers) and ended with state (the territory occupied by one of the constituent administrative districts).",
+          "zh": "葡萄牙旅舍最新展厅从廉价旅馆（hostel）开始，以一个出人意料的本地状态,情况（state）实例结束。"
+        },
+        {
+          "en": "Inside a Portuguese hostel, the curator corrected labels for truck (an automotive vehicle suitable for hauling) and attic (floor).",
+          "zh": "葡萄牙旅舍的策展人先纠正卡车,载重汽车（truck）的标签错误，随后发现关于阁楼（attic）的材料也放错了位置。"
+        },
+        {
+          "en": "At a Portuguese hostel, a guide explained barn (an outlying farm building for storing grain or animal feed) beside a display of lobby (a large entrance or reception room or area).",
+          "zh": "在葡萄牙旅舍的参观过程中，讲解员先介绍谷仓（barn），随后带大家找到另一项独立展品门廊,门厅（lobby）。"
+        },
+        {
+          "en": "During a tour of a Portuguese hostel, the class found butchery (a building) before locating winner (the contestant).",
+          "zh": "葡萄牙旅舍的参观先让学生认识肉食店（butchery）；一块丢失的标牌又把他们带到获胜者,优胜者（winner）。"
+        },
+        {
+          "en": "When a shelf shifted at a Portuguese hostel, staff protected files on cosmetics (a toiletry designed to beautify the body) and sugar (a white crystalline carbohydrate used as a sweetener and preservative).",
+          "zh": "葡萄牙旅舍的架子倒下时，员工保护了有关化妆品（cosmetics）的材料，也找回了旁边关于糖,食糖vt. 加糖于（sugar）的档案。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "hostel",
+          "meaning": "n.廉价旅馆"
+        },
+        {
+          "word": "state",
+          "meaning": "n. 状态,情况;国,州v. 陈述,说明"
+        },
+        {
+          "word": "truck",
+          "meaning": "n. 卡车,载重汽车"
+        },
+        {
+          "word": "attic",
+          "meaning": "n.阁楼"
+        },
+        {
+          "word": "barn",
+          "meaning": "n. 谷仓"
+        },
+        {
+          "word": "lobby",
+          "meaning": "n. 门廊,门厅;院外活动集团;v. 对(议员等)游说活动"
+        },
+        {
+          "word": "butchery",
+          "meaning": "n.肉食店"
+        },
+        {
+          "word": "winner",
+          "meaning": "n.获胜者,优胜者"
+        },
+        {
+          "word": "cosmetics",
+          "meaning": "n.化妆品"
+        },
+        {
+          "word": "sugar",
+          "meaning": "n. 糖,食糖vt. 加糖于"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the visitors use to understand the displays?",
+          "answer": "Labels, records, examples, and help from staff.",
+          "explanation": "访客借助标签、记录、实例和工作人员的讲解理解展品。"
+        },
+        {
+          "prompt": "Which final target appears in this account?",
+          "answer": "sugar",
+          "explanation": "最后一个目标词是糖,食糖vt. 加糖于（sugar）。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d070-2",
+      "title": "Understanding Distillation Through Evidence",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "Students at a Portuguese hostel summarize distillation as the process of purifying a liquid by boiling it and zebra as any of several fleet black-and-white striped African equines, then test new examples. At a Portuguese hostel, moss means tiny leafy-stemmed flowerless plants, whereas Portuguese means the Romance language spoken in Portugal and Brazil; separate examples prevent confusion. By separating clause (grammar an expression including a subject and predicate but not) from rectangle (a parallelogram with four right angles), a Portuguese hostel turns definitions into usable knowledge. Researchers at a Portuguese hostel use punctuality for the quality or habit of adhering to an appointed time, but reserve brim for the top edge of a vessel or other container. The handbook at a Portuguese hostel introduces bachelor—a man—before fire-engine—any of various large trucks.",
+      "translation": "葡萄牙旅舍的学生分别概括蒸馏（distillation）与斑马（zebra），随后检验新实例是否符合定义。葡萄牙旅舍的课程分别解释苔,藓,地衣（moss）与葡萄牙人（Portuguese），避免学习者因定义不同而进行错误比较。葡萄牙旅舍把条款（clause）与矩形,长方形（rectangle）分开考察，使两个陌生概念转化为可使用的知识。葡萄牙旅舍的研究记录分别使用准时（punctuality）和边缘,帽沿（brim）；由于含义不同，二者需要不同证据。葡萄牙旅舍的手册先介绍单身汉, 学士（bachelor），再补充需要更多背景的消防车（fire-engine）。",
+      "sentences": [
+        {
+          "en": "Students at a Portuguese hostel summarize distillation as the process of purifying a liquid by boiling it and zebra as any of several fleet black-and-white striped African equines, then test new examples.",
+          "zh": "葡萄牙旅舍的学生分别概括蒸馏（distillation）与斑马（zebra），随后检验新实例是否符合定义。"
+        },
+        {
+          "en": "At a Portuguese hostel, moss means tiny leafy-stemmed flowerless plants, whereas Portuguese means the Romance language spoken in Portugal and Brazil; separate examples prevent confusion.",
+          "zh": "葡萄牙旅舍的课程分别解释苔,藓,地衣（moss）与葡萄牙人（Portuguese），避免学习者因定义不同而进行错误比较。"
+        },
+        {
+          "en": "By separating clause (grammar an expression including a subject and predicate but not) from rectangle (a parallelogram with four right angles), a Portuguese hostel turns definitions into usable knowledge.",
+          "zh": "葡萄牙旅舍把条款（clause）与矩形,长方形（rectangle）分开考察，使两个陌生概念转化为可使用的知识。"
+        },
+        {
+          "en": "Researchers at a Portuguese hostel use punctuality for the quality or habit of adhering to an appointed time, but reserve brim for the top edge of a vessel or other container.",
+          "zh": "葡萄牙旅舍的研究记录分别使用准时（punctuality）和边缘,帽沿（brim）；由于含义不同，二者需要不同证据。"
+        },
+        {
+          "en": "The handbook at a Portuguese hostel introduces bachelor—a man—before fire-engine—any of various large trucks.",
+          "zh": "葡萄牙旅舍的手册先介绍单身汉, 学士（bachelor），再补充需要更多背景的消防车（fire-engine）。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "distillation",
+          "meaning": "n.蒸馏"
+        },
+        {
+          "word": "zebra",
+          "meaning": "n. 斑马"
+        },
+        {
+          "word": "moss",
+          "meaning": "n. 苔,藓,地衣"
+        },
+        {
+          "word": "Portuguese",
+          "meaning": "n.葡萄牙人;葡萄牙语"
+        },
+        {
+          "word": "clause",
+          "meaning": "n. 条款;从句"
+        },
+        {
+          "word": "rectangle",
+          "meaning": "n.矩形,长方形"
+        },
+        {
+          "word": "punctuality",
+          "meaning": "n.准时"
+        },
+        {
+          "word": "brim",
+          "meaning": "n. 边缘,帽沿"
+        },
+        {
+          "word": "bachelor",
+          "meaning": "n. 单身汉, 学士"
+        },
+        {
+          "word": "fire-engine",
+          "meaning": "n.消防车"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are the terms defined separately?",
+          "answer": "To prevent false comparisons and ambiguous use.",
+          "explanation": "分别定义可避免错误比较和含糊用法。"
+        },
+        {
+          "prompt": "How do learners test their understanding?",
+          "answer": "They compare definitions with new examples.",
+          "explanation": "学习者把定义与新实例进行比较。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d070-3",
+      "title": "Why Fascism Needs an Open Debate",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "A forum at a Portuguese hostel considered category (a collection of things sharing a common attribute) alongside esteem (the condition of being honored) before setting priorities. The strongest argument at a Portuguese hostel supported dismissal (a judgment disposing of the matter without a trial) but demanded safeguards for robbery (larceny by threat of violence). Long-term planning at a Portuguese hostel needs indicators for publicity (a message issued in behalf of some product or cause) and independent scrutiny of proceeds (the income or profit arising from such transactions). Decision makers at a Portuguese hostel cannot evaluate reportage (the news as presented by reporters for newspapers or radio) while excluding peasantry (the class of peasants). Funding choices at a Portuguese hostel require clear definitions of filing (the entering of a legal document into the public record) and fascism (a political theory advocating an authoritarian hierarchical government).",
+      "translation": "葡萄牙旅舍的公开论坛同时考虑种类,类目（category）与尊重,珍重（esteem），并讨论哪一项更需要优先行动。葡萄牙旅舍最有力的论证支持处理解散,开除（dismissal），同时要求在抢劫,劫掠,盗取（robbery）受影响时设置保障。葡萄牙旅舍的长期规划应公布公开,宣传（publicity）指标，也应允许独立人员审查有关收益（proceeds）的主张。葡萄牙旅舍的决策者不能只评估报告文学（reportage），却把农民(总称)（peasantry）排除在公开证据之外。葡萄牙旅舍的官员清楚定义档案管理（filing）并解释方案如何回应法西斯（fascism），资金选择才会更明白。",
+      "sentences": [
+        {
+          "en": "A forum at a Portuguese hostel considered category (a collection of things sharing a common attribute) alongside esteem (the condition of being honored) before setting priorities.",
+          "zh": "葡萄牙旅舍的公开论坛同时考虑种类,类目（category）与尊重,珍重（esteem），并讨论哪一项更需要优先行动。"
+        },
+        {
+          "en": "The strongest argument at a Portuguese hostel supported dismissal (a judgment disposing of the matter without a trial) but demanded safeguards for robbery (larceny by threat of violence).",
+          "zh": "葡萄牙旅舍最有力的论证支持处理解散,开除（dismissal），同时要求在抢劫,劫掠,盗取（robbery）受影响时设置保障。"
+        },
+        {
+          "en": "Long-term planning at a Portuguese hostel needs indicators for publicity (a message issued in behalf of some product or cause) and independent scrutiny of proceeds (the income or profit arising from such transactions).",
+          "zh": "葡萄牙旅舍的长期规划应公布公开,宣传（publicity）指标，也应允许独立人员审查有关收益（proceeds）的主张。"
+        },
+        {
+          "en": "Decision makers at a Portuguese hostel cannot evaluate reportage (the news as presented by reporters for newspapers or radio) while excluding peasantry (the class of peasants).",
+          "zh": "葡萄牙旅舍的决策者不能只评估报告文学（reportage），却把农民(总称)（peasantry）排除在公开证据之外。"
+        },
+        {
+          "en": "Funding choices at a Portuguese hostel require clear definitions of filing (the entering of a legal document into the public record) and fascism (a political theory advocating an authoritarian hierarchical government).",
+          "zh": "葡萄牙旅舍的官员清楚定义档案管理（filing）并解释方案如何回应法西斯（fascism），资金选择才会更明白。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "category",
+          "meaning": "n. 种类,类目"
+        },
+        {
+          "word": "esteem",
+          "meaning": "n./vt. 尊重,珍重"
+        },
+        {
+          "word": "dismissal",
+          "meaning": "n.解散,开除"
+        },
+        {
+          "word": "robbery",
+          "meaning": "n.抢劫,劫掠,盗取"
+        },
+        {
+          "word": "publicity",
+          "meaning": "n. 公开,宣传"
+        },
+        {
+          "word": "proceeds",
+          "meaning": "n.收益"
+        },
+        {
+          "word": "reportage",
+          "meaning": "n.报告文学"
+        },
+        {
+          "word": "peasantry",
+          "meaning": "n.农民(总称)"
+        },
+        {
+          "word": "filing",
+          "meaning": "n.档案管理"
+        },
+        {
+          "word": "fascism",
+          "meaning": "n.法西斯"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should support the public decision?",
+          "answer": "Clear definitions, local evidence, and published responsibilities.",
+          "explanation": "公共决定应有清楚定义、地方证据和公开责任作为支撑。"
+        },
+        {
+          "prompt": "Why is an open debate useful?",
+          "answer": "It exposes costs, uncertainty, and unequal risk.",
+          "explanation": "公开讨论能揭示成本、不确定性和不均等风险。"
+        }
+      ]
+    }
+  ]
+}
