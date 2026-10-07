@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 37,
+  "articles": [
+    {
+      "id": "cet4-reading-d037-1",
+      "title": "The Meeting After the Spill",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "After a chemical spill, factory managers had to confront residents whose conception of safety had changed overnight. They used a school-hall meeting to confer, while a concise map showed the pipe configuration without revealing confidential employee records. The director had to concede that an alarm did not conform to the written standard, ending confusion about who had heard it. Together they decided to conceive a public testing schedule, turning an abstract idea of accountability into a visible routine.",
+      "translation": "化学品泄漏后，工厂管理者不得不面对那些安全观念一夜改变的居民。双方在学校礼堂协商，一张简明地图展示了管道配置，同时没有泄露员工机密记录。厂长不得不承认一只警报器不符合书面标准，从而结束了关于谁听到警报的混乱争论。双方共同构想公开测试日程，把抽象的问责概念变成可见的日常程序。",
+      "sentences": [
+        {
+          "en": "After a chemical spill, factory managers had to confront residents whose conception of safety had changed overnight.",
+          "zh": "化学品泄漏后，工厂管理者不得不面对那些安全观念一夜改变的居民。"
+        },
+        {
+          "en": "They used a school-hall meeting to confer, while a concise map showed the pipe configuration without revealing confidential employee records.",
+          "zh": "双方在学校礼堂协商，一张简明地图展示了管道配置，同时没有泄露员工机密记录。"
+        },
+        {
+          "en": "The director had to concede that an alarm did not conform to the written standard, ending confusion about who had heard it.",
+          "zh": "厂长不得不承认一只警报器不符合书面标准，从而结束了关于谁听到警报的混乱争论。"
+        },
+        {
+          "en": "Together they decided to conceive a public testing schedule, turning an abstract idea of accountability into a visible routine.",
+          "zh": "双方共同构想公开测试日程，把抽象的问责概念变成可见的日常程序。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "concede",
+          "meaning": "vt. (不情愿地)承认,承认...为真(或正确); 承认失败;让于;vi. 让步,认输"
+        },
+        {
+          "word": "conceive",
+          "meaning": "v. 想出(主意);怀孕"
+        },
+        {
+          "word": "conception",
+          "meaning": "n. 概念,观念"
+        },
+        {
+          "word": "concise",
+          "meaning": "a. 简明的,简要的"
+        },
+        {
+          "word": "confer",
+          "meaning": "v. 协商;授予"
+        },
+        {
+          "word": "confidential",
+          "meaning": "a. 秘(机)密的;表示信任的;担任机密工作的"
+        },
+        {
+          "word": "configuration",
+          "meaning": "n.构造, 结构, 配置, 外形。"
+        },
+        {
+          "word": "conform",
+          "meaning": "v. 符合,遵从"
+        },
+        {
+          "word": "confront",
+          "meaning": "vt. 使面对,面临"
+        },
+        {
+          "word": "confusion",
+          "meaning": "n. 困惑,糊涂;混淆;混乱,骚乱"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the map protect?",
+          "answer": "Confidential employee information.",
+          "explanation": "地图保护了员工机密信息。"
+        },
+        {
+          "prompt": "What did the director admit?",
+          "answer": "An alarm failed to meet the standard.",
+          "explanation": "厂长承认警报器不符合标准。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d037-2",
+      "title": "How Several Reports Become One Finding",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "A conscientious research team gathers consecutive observations before trying to consolidate them into one account. Each constituent report keeps its source and date, while a computer console highlights conspicuous gaps or conflicting measurements. Rules constrain careless editing and conserve minority evidence, so consensus does not simply erase an unusual result. A consequent finding is stronger because readers can trace how separate observations supported it and where uncertainty remains.",
+      "translation": "认真的研究团队会收集连续观察，再把它们整合为一个结论。每份组成报告都保留来源与日期，计算机控制台则标出明显缺口或冲突测量。规则限制草率编辑并保留少数证据，因此共识不会简单抹去异常结果。由此得出的结论更有力，因为读者能追溯不同观察如何支持它，以及不确定性仍在哪里。",
+      "sentences": [
+        {
+          "en": "A conscientious research team gathers consecutive observations before trying to consolidate them into one account.",
+          "zh": "认真的研究团队会收集连续观察，再把它们整合为一个结论。"
+        },
+        {
+          "en": "Each constituent report keeps its source and date, while a computer console highlights conspicuous gaps or conflicting measurements.",
+          "zh": "每份组成报告都保留来源与日期，计算机控制台则标出明显缺口或冲突测量。"
+        },
+        {
+          "en": "Rules constrain careless editing and conserve minority evidence, so consensus does not simply erase an unusual result.",
+          "zh": "规则限制草率编辑并保留少数证据，因此共识不会简单抹去异常结果。"
+        },
+        {
+          "en": "A consequent finding is stronger because readers can trace how separate observations supported it and where uncertainty remains.",
+          "zh": "由此得出的结论更有力，因为读者能追溯不同观察如何支持它，以及不确定性仍在哪里。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "conscientious",
+          "meaning": "a. 审慎正直的,认真的,本着良心的"
+        },
+        {
+          "word": "consecutive",
+          "meaning": "a. 连续的,连贯的"
+        },
+        {
+          "word": "consensus",
+          "meaning": "n.一致同意, 多数人的意见, 舆论。"
+        },
+        {
+          "word": "consequent",
+          "meaning": "adj.作为结果的, 随之发生的。"
+        },
+        {
+          "word": "conserve",
+          "meaning": "vt.保存, 保藏。"
+        },
+        {
+          "word": "console",
+          "meaning": "vt. 安慰,慰问;n. 控制台,仪表板;落地柜"
+        },
+        {
+          "word": "consolidate",
+          "meaning": "v. 巩固,加强;把...合为一体"
+        },
+        {
+          "word": "conspicuous",
+          "meaning": "a. 明显的,引人注目的"
+        },
+        {
+          "word": "constituent",
+          "meaning": "a. 有选举权的;组成的;n. 选民;成分"
+        },
+        {
+          "word": "constrain",
+          "meaning": "vt.强迫, 抑制, 拘束。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What does the console highlight?",
+          "answer": "Gaps and conflicting measurements.",
+          "explanation": "控制台会标出缺口和冲突测量。"
+        },
+        {
+          "prompt": "Why is minority evidence conserved?",
+          "answer": "Consensus should not erase unusual results.",
+          "explanation": "共识不应抹去异常结果。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d037-3",
+      "title": "Consumers Deserve Pollution Data",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "A consumer deciding between two products should know whether either factory may contaminate a river. A company consultant may contend that disclosure threatens commercial continuity, then contrive a narrow report that hides the largest discharge. That argument can contradict claims of social contribution and create contention among communities asked to bear the risk. People can contemplate price, quality, and pollution together only when data use common units and independent inspectors verify them.",
+      "translation": "消费者在两种产品间选择时，应知道相关工厂是否可能污染河流。公司顾问可能声称披露会威胁商业连续性，并设计一份狭窄报告来隐藏最大排放。这种说法可能与企业的社会贡献主张矛盾，并在被要求承担风险的社区中引发争议。只有数据采用统一单位并经独立检查员核实，人们才能同时权衡价格、质量与污染。",
+      "sentences": [
+        {
+          "en": "A consumer deciding between two products should know whether either factory may contaminate a river.",
+          "zh": "消费者在两种产品间选择时，应知道相关工厂是否可能污染河流。"
+        },
+        {
+          "en": "A company consultant may contend that disclosure threatens commercial continuity, then contrive a narrow report that hides the largest discharge.",
+          "zh": "公司顾问可能声称披露会威胁商业连续性，并设计一份狭窄报告来隐藏最大排放。"
+        },
+        {
+          "en": "That argument can contradict claims of social contribution and create contention among communities asked to bear the risk.",
+          "zh": "这种说法可能与企业的社会贡献主张矛盾，并在被要求承担风险的社区中引发争议。"
+        },
+        {
+          "en": "People can contemplate price, quality, and pollution together only when data use common units and independent inspectors verify them.",
+          "zh": "只有数据采用统一单位并经独立检查员核实，人们才能同时权衡价格、质量与污染。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "consultant",
+          "meaning": "n. 会诊医师,顾问医生;顾问"
+        },
+        {
+          "word": "consumer",
+          "meaning": "n.消费者,用户"
+        },
+        {
+          "word": "contaminate",
+          "meaning": "v.污染。"
+        },
+        {
+          "word": "contemplate",
+          "meaning": "vt. 仔细考虑;注视;打算;预计"
+        },
+        {
+          "word": "contend",
+          "meaning": "v.斗争, 竞争, 主张。"
+        },
+        {
+          "word": "contention",
+          "meaning": "n.争夺, 争论, 争辩, 论点。"
+        },
+        {
+          "word": "continuity",
+          "meaning": "n.连续性, 连贯性。"
+        },
+        {
+          "word": "contradict",
+          "meaning": "vt. 反驳,否认;同...矛盾"
+        },
+        {
+          "word": "contribution",
+          "meaning": "n. 贡献;捐款,捐献物;投稿"
+        },
+        {
+          "word": "contrive",
+          "meaning": "v.发明, 设计, 图谋。"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What information should consumers receive?",
+          "answer": "Comparable, verified pollution data.",
+          "explanation": "消费者应获得可比较、经核实的污染数据。"
+        },
+        {
+          "prompt": "Why can narrow reports create contention?",
+          "answer": "They hide risks that communities must bear.",
+          "explanation": "报告隐瞒了社区必须承担的风险。"
+        }
+      ]
+    }
+  ]
+}

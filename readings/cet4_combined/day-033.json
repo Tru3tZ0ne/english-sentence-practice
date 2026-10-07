@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 33,
+  "articles": [
+    {
+      "id": "cet4-reading-d033-1",
+      "title": "Monday Wind on the Canal",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "On Monday, the weather forecast warned that wind intensity would rise along the canal by noon. A woman in a red dress saw an open purse on a bench, but none of the boat passengers claimed it. The canal corporation could not dismiss the warning, so staff closed the exposed pier and tried to define the owner's route from ticket records. When the owner returned, she found both her purse and a safe indoor place to wait for the storm.",
+      "translation": "周一的天气预报警告，运河沿线风力将在中午前增强。一名穿红裙的女子在长椅上看到一个敞开的钱包，但船上乘客都不认领。运河公司不能忽视预警，于是员工关闭了暴露的码头，并试图从票务记录确定失主路线。失主返回时，既找回了钱包，也找到了安全的室内地点躲避风暴。",
+      "sentences": [
+        {
+          "en": "On Monday, the weather forecast warned that wind intensity would rise along the canal by noon.",
+          "zh": "周一的天气预报警告，运河沿线风力将在中午前增强。"
+        },
+        {
+          "en": "A woman in a red dress saw an open purse on a bench, but none of the boat passengers claimed it.",
+          "zh": "一名穿红裙的女子在长椅上看到一个敞开的钱包，但船上乘客都不认领。"
+        },
+        {
+          "en": "The canal corporation could not dismiss the warning, so staff closed the exposed pier and tried to define the owner's route from ticket records.",
+          "zh": "运河公司不能忽视预警，于是员工关闭了暴露的码头，并试图从票务记录确定失主路线。"
+        },
+        {
+          "en": "When the owner returned, she found both her purse and a safe indoor place to wait for the storm.",
+          "zh": "失主返回时，既找回了钱包，也找到了安全的室内地点躲避风暴。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "canal",
+          "meaning": "n. 运河,河渠,动植物体内的管道"
+        },
+        {
+          "word": "forecast",
+          "meaning": "vt./n. 预报,预测"
+        },
+        {
+          "word": "dress",
+          "meaning": "n. 服装,童装,女装v. 穿衣,打扮"
+        },
+        {
+          "word": "none",
+          "meaning": "pron. 没有任何人(东西);都不ad. 一点也不"
+        },
+        {
+          "word": "corporation",
+          "meaning": "n. 市镇自治机关;法人;公司,企业"
+        },
+        {
+          "word": "intensity",
+          "meaning": "n. 强烈,剧烈;强度"
+        },
+        {
+          "word": "purse",
+          "meaning": "n. 钱包"
+        },
+        {
+          "word": "Monday",
+          "meaning": "n. 星期一"
+        },
+        {
+          "word": "dismiss",
+          "meaning": "vt. 解雇;解散;不考虑;消除"
+        },
+        {
+          "word": "define",
+          "meaning": "v. 给...下定义;阐述;阐释;限定,规定"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why was the pier closed?",
+          "answer": "The forecast predicted strong wind.",
+          "explanation": "预报显示会出现强风。"
+        },
+        {
+          "prompt": "How did staff search for the owner?",
+          "answer": "They checked ticket records.",
+          "explanation": "员工查看票务记录寻找失主。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d033-2",
+      "title": "Why Fishing Disputes Grow",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "A fishing dispute often begins when several boats frame the same bay as their traditional ground. Daily catch records contribute evidence, but crews must exchange data in a shared format; the fifth column cannot mean weight for one boat and value for another. Wind, a November storm, or a fisherman's cough may reduce effort, so raw totals need context to accompany them. Agreements become possible when people compare like with like and separate poor seasons from deliberate rule breaking.",
+      "translation": "渔业争端常始于多艘船都把同一海湾视为传统渔场。每日捕捞记录能提供证据，但船员必须用共同格式交换数据；第五列不能在一艘船上表示重量，在另一艘船上表示价值。风、十一月风暴或渔民咳嗽都可能减少作业量，因此原始总数需要背景说明。当人们进行同类比较，并把歉收季与故意违规区分开时，协议才有可能达成。",
+      "sentences": [
+        {
+          "en": "A fishing dispute often begins when several boats frame the same bay as their traditional ground.",
+          "zh": "渔业争端常始于多艘船都把同一海湾视为传统渔场。"
+        },
+        {
+          "en": "Daily catch records contribute evidence, but crews must exchange data in a shared format; the fifth column cannot mean weight for one boat and value for another.",
+          "zh": "每日捕捞记录能提供证据，但船员必须用共同格式交换数据；第五列不能在一艘船上表示重量，在另一艘船上表示价值。"
+        },
+        {
+          "en": "Wind, a November storm, or a fisherman's cough may reduce effort, so raw totals need context to accompany them.",
+          "zh": "风、十一月风暴或渔民咳嗽都可能减少作业量，因此原始总数需要背景说明。"
+        },
+        {
+          "en": "Agreements become possible when people compare like with like and separate poor seasons from deliberate rule breaking.",
+          "zh": "当人们进行同类比较，并把歉收季与故意违规区分开时，协议才有可能达成。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "contribute",
+          "meaning": "v. 贡献,捐献;促成;投稿"
+        },
+        {
+          "word": "exchange",
+          "meaning": "v./n. 交换,兑换"
+        },
+        {
+          "word": "november",
+          "meaning": "n. 十一月"
+        },
+        {
+          "word": "fifth",
+          "meaning": "num.第五 n.五分之一"
+        },
+        {
+          "word": "frame",
+          "meaning": "n. 框架;体格;骨架;组织;机构v. 设计;制定"
+        },
+        {
+          "word": "accompany",
+          "meaning": "vt. 陪伴;伴奏"
+        },
+        {
+          "word": "daily",
+          "meaning": "a. 每日的ad. 每日,天天n. 日报"
+        },
+        {
+          "word": "dispute",
+          "meaning": "v./n. 争论,争执,质疑"
+        },
+        {
+          "word": "cough",
+          "meaning": "v./n. 咳嗽"
+        },
+        {
+          "word": "wind",
+          "meaning": "n. 风;气息v. 转动;缠绕;上发条,;蜿蜒而行"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why must boats use a shared data format?",
+          "answer": "Otherwise the same column may mean different things.",
+          "explanation": "否则同一列在不同船上可能含义不同。"
+        },
+        {
+          "prompt": "What factors can reduce fishing effort?",
+          "answer": "Weather and crew illness.",
+          "explanation": "天气与船员生病都会减少作业量。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d033-3",
+      "title": "A Cinema Can Be an Emergency Shelter",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "A coastal town may recommend its gym as an emergency shelter, yet an old cinema can offer thick walls, seats, and backup heat. The choice is not obvious: a fisherman arriving soaked may need dry space, while each kid needs toilets and a quiet corner. Planners must check flood maps so that water cannot submerge the entrance, and verify that no radioactive material or fuel is stored nearby. Using several buildings shares the burden and prevents a lack of one resource from closing the entire shelter system.",
+      "translation": "沿海小镇可能推荐体育馆作为应急避难所，但老电影院也能提供厚墙、座椅和备用供暖。选择并不明显：浑身湿透的渔民需要干燥空间，每个孩子则需要厕所和安静角落。规划者必须检查洪水地图，确保入口不会被淹，并确认附近没有放射性物质或燃料。使用多栋建筑可以分担压力，也能防止某一种资源不足导致整个避难体系关闭。",
+      "sentences": [
+        {
+          "en": "A coastal town may recommend its gym as an emergency shelter, yet an old cinema can offer thick walls, seats, and backup heat.",
+          "zh": "沿海小镇可能推荐体育馆作为应急避难所，但老电影院也能提供厚墙、座椅和备用供暖。"
+        },
+        {
+          "en": "The choice is not obvious: a fisherman arriving soaked may need dry space, while each kid needs toilets and a quiet corner.",
+          "zh": "选择并不明显：浑身湿透的渔民需要干燥空间，每个孩子则需要厕所和安静角落。"
+        },
+        {
+          "en": "Planners must check flood maps so that water cannot submerge the entrance, and verify that no radioactive material or fuel is stored nearby.",
+          "zh": "规划者必须检查洪水地图，确保入口不会被淹，并确认附近没有放射性物质或燃料。"
+        },
+        {
+          "en": "Using several buildings shares the burden and prevents a lack of one resource from closing the entire shelter system.",
+          "zh": "使用多栋建筑可以分担压力，也能防止某一种资源不足导致整个避难体系关闭。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "recommend",
+          "meaning": "v. 推荐,介绍;劝告,建议"
+        },
+        {
+          "word": "kid",
+          "meaning": "n. 小孩,儿童v. 戏弄,取笑"
+        },
+        {
+          "word": "burden",
+          "meaning": "n. 担子,重担,负担vt. 给予负担或麻烦"
+        },
+        {
+          "word": "radioactive",
+          "meaning": "a. 放射性,放射引起的"
+        },
+        {
+          "word": "heat",
+          "meaning": "n. 热,热度;热烈,激烈v. (给)加热,(使)变热"
+        },
+        {
+          "word": "fisherman",
+          "meaning": "n. 渔夫,捕鱼人"
+        },
+        {
+          "word": "gym",
+          "meaning": "n.体育馆,健身房"
+        },
+        {
+          "word": "lack",
+          "meaning": "n./v. 缺乏,不足"
+        },
+        {
+          "word": "obvious",
+          "meaning": "a. 明显的,清楚的"
+        },
+        {
+          "word": "submerge",
+          "meaning": "vt. 放于水下;使沉没"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What advantages can a cinema offer?",
+          "answer": "Strong walls, seats, space, and backup heat.",
+          "explanation": "电影院可提供坚固墙体、座椅、空间和备用供暖。"
+        },
+        {
+          "prompt": "Why should several buildings be used?",
+          "answer": "They share the burden and reduce single-point failure.",
+          "explanation": "多处避难能分担压力并减少单点失效。"
+        }
+      ]
+    }
+  ]
+}

@@ -9,8 +9,8 @@
     "语境阅读",
     "逐句翻译"
   ],
-  "article_count": 60,
-  "day_count": 20,
+  "article_count": 120,
+  "day_count": 40,
   "days": [
     {
       "day": 1,
@@ -110,6 +110,106 @@
     {
       "day": 20,
       "file": "day-020.json",
+      "count": 3
+    },
+    {
+      "day": 21,
+      "file": "day-021.json",
+      "count": 3
+    },
+    {
+      "day": 22,
+      "file": "day-022.json",
+      "count": 3
+    },
+    {
+      "day": 23,
+      "file": "day-023.json",
+      "count": 3
+    },
+    {
+      "day": 24,
+      "file": "day-024.json",
+      "count": 3
+    },
+    {
+      "day": 25,
+      "file": "day-025.json",
+      "count": 3
+    },
+    {
+      "day": 26,
+      "file": "day-026.json",
+      "count": 3
+    },
+    {
+      "day": 27,
+      "file": "day-027.json",
+      "count": 3
+    },
+    {
+      "day": 28,
+      "file": "day-028.json",
+      "count": 3
+    },
+    {
+      "day": 29,
+      "file": "day-029.json",
+      "count": 3
+    },
+    {
+      "day": 30,
+      "file": "day-030.json",
+      "count": 3
+    },
+    {
+      "day": 31,
+      "file": "day-031.json",
+      "count": 3
+    },
+    {
+      "day": 32,
+      "file": "day-032.json",
+      "count": 3
+    },
+    {
+      "day": 33,
+      "file": "day-033.json",
+      "count": 3
+    },
+    {
+      "day": 34,
+      "file": "day-034.json",
+      "count": 3
+    },
+    {
+      "day": 35,
+      "file": "day-035.json",
+      "count": 3
+    },
+    {
+      "day": 36,
+      "file": "day-036.json",
+      "count": 3
+    },
+    {
+      "day": 37,
+      "file": "day-037.json",
+      "count": 3
+    },
+    {
+      "day": 38,
+      "file": "day-038.json",
+      "count": 3
+    },
+    {
+      "day": 39,
+      "file": "day-039.json",
+      "count": 3
+    },
+    {
+      "day": 40,
+      "file": "day-040.json",
       "count": 3
     }
   ]

@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 39,
+  "articles": [
+    {
+      "id": "cet4-reading-d039-1",
+      "title": "Across the Equator with an Old Map",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "A research boat crossed the equator carrying an old map from an epoch when sailors drew coastlines by eye. Its elegant, almost esthetic curves were erroneous where erosion had removed a beach and a volcano had begun to erupt offshore. A local ethnic council sent an escort who explained that the essence of the island was not an eternal shape but a changing relationship with water. The team redrew the shore and added community names that earlier charts had ignored.",
+      "translation": "一艘研究船穿越赤道，带着一张来自旧时代的地图；当时水手凭肉眼绘制海岸线。地图优美得近乎艺术的曲线在一些地方已经错误，因为侵蚀带走了海滩，近海火山也开始喷发。当地族群委员会派来一名向导，他解释说，岛屿的本质不是永恒形状，而是与水不断变化的关系。团队重新绘制海岸，并加入早期海图忽略的社区名称。",
+      "sentences": [
+        {
+          "en": "A research boat crossed the equator carrying an old map from an epoch when sailors drew coastlines by eye.",
+          "zh": "一艘研究船穿越赤道，带着一张来自旧时代的地图；当时水手凭肉眼绘制海岸线。"
+        },
+        {
+          "en": "Its elegant, almost esthetic curves were erroneous where erosion had removed a beach and a volcano had begun to erupt offshore.",
+          "zh": "地图优美得近乎艺术的曲线在一些地方已经错误，因为侵蚀带走了海滩，近海火山也开始喷发。"
+        },
+        {
+          "en": "A local ethnic council sent an escort who explained that the essence of the island was not an eternal shape but a changing relationship with water.",
+          "zh": "当地族群委员会派来一名向导，他解释说，岛屿的本质不是永恒形状，而是与水不断变化的关系。"
+        },
+        {
+          "en": "The team redrew the shore and added community names that earlier charts had ignored.",
+          "zh": "团队重新绘制海岸，并加入早期海图忽略的社区名称。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "epoch",
+          "meaning": "n. 新纪元,新时代"
+        },
+        {
+          "word": "equator",
+          "meaning": "n. 赤道"
+        },
+        {
+          "word": "erosion",
+          "meaning": "n. 腐蚀,侵蚀;削弱,丧失"
+        },
+        {
+          "word": "erroneous",
+          "meaning": "adj.错误的, 不正确的。"
+        },
+        {
+          "word": "erupt",
+          "meaning": "vi. 爆发;喷发"
+        },
+        {
+          "word": "escort",
+          "meaning": "n. 护卫者;护航舰;vt. 护送,护卫"
+        },
+        {
+          "word": "essence",
+          "meaning": "n. 本质,实质"
+        },
+        {
+          "word": "esthetic",
+          "meaning": "adj.感觉的"
+        },
+        {
+          "word": "eternal",
+          "meaning": "a. 永久的,不朽的;不停的"
+        },
+        {
+          "word": "ethnic",
+          "meaning": "adj.人种的, 种族的, 异教徒的"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why was the old coastline wrong?",
+          "answer": "Erosion and volcanic activity had changed it.",
+          "explanation": "侵蚀和火山活动改变了海岸。"
+        },
+        {
+          "prompt": "What did the new map add?",
+          "answer": "Community place names.",
+          "explanation": "新地图加入了社区地名。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d039-2",
+      "title": "Why Species Become Extinct",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "An exceptional storm can expel animals from a small habitat, but extinction usually follows several pressures acting together. An exotic predator may take eggs, an exclusive road may divide feeding ground, and human activity can force a population into exile. A field expedition can exemplify the process by tracking survival and reproduction rather than relying on images that merely evoke sadness. No species is exempt from ecology, so conservation plans need careful execution across land, water, and local livelihoods.",
+      "translation": "异常风暴会把动物赶出小型栖息地，但灭绝通常源于多种压力共同作用。外来捕食者会吃掉鸟蛋，专用道路会割裂觅食地，人类活动还会迫使种群离开家园。野外考察队可以通过追踪生存与繁殖来说明这个过程，而不是只依靠唤起悲伤的图像。任何物种都不能脱离生态规律，因此保护计划需要在土地、水域与当地生计之间认真执行。",
+      "sentences": [
+        {
+          "en": "An exceptional storm can expel animals from a small habitat, but extinction usually follows several pressures acting together.",
+          "zh": "异常风暴会把动物赶出小型栖息地，但灭绝通常源于多种压力共同作用。"
+        },
+        {
+          "en": "An exotic predator may take eggs, an exclusive road may divide feeding ground, and human activity can force a population into exile.",
+          "zh": "外来捕食者会吃掉鸟蛋，专用道路会割裂觅食地，人类活动还会迫使种群离开家园。"
+        },
+        {
+          "en": "A field expedition can exemplify the process by tracking survival and reproduction rather than relying on images that merely evoke sadness.",
+          "zh": "野外考察队可以通过追踪生存与繁殖来说明这个过程，而不是只依靠唤起悲伤的图像。"
+        },
+        {
+          "en": "No species is exempt from ecology, so conservation plans need careful execution across land, water, and local livelihoods.",
+          "zh": "任何物种都不能脱离生态规律，因此保护计划需要在土地、水域与当地生计之间认真执行。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "evoke",
+          "meaning": "vt.唤起, 引起, 博得。"
+        },
+        {
+          "word": "exceptional",
+          "meaning": "a. 优越的,杰出的;特殊的,例外的"
+        },
+        {
+          "word": "exclusive",
+          "meaning": "a. 独占的;排他的;孤高的;唯一的;高级的"
+        },
+        {
+          "word": "execution",
+          "meaning": "n.实行,执行;处死刑"
+        },
+        {
+          "word": "exemplify",
+          "meaning": "vt. 举例说明,作为...的例证"
+        },
+        {
+          "word": "exempt",
+          "meaning": "vt./a. 免除,被豁免的"
+        },
+        {
+          "word": "exile",
+          "meaning": "n./vt. 流放,离乡背井"
+        },
+        {
+          "word": "exotic",
+          "meaning": "adj.异国情调的, 外来的, 奇异的。"
+        },
+        {
+          "word": "expedition",
+          "meaning": "n. 远征,探险(队),考察(队)"
+        },
+        {
+          "word": "expel",
+          "meaning": "vt. 开除;驱逐;排出"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why does extinction usually happen?",
+          "answer": "Several pressures act together.",
+          "explanation": "灭绝通常由多种压力共同造成。"
+        },
+        {
+          "prompt": "What should expeditions track?",
+          "answer": "Survival and reproduction.",
+          "explanation": "考察应追踪生存与繁殖情况。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d039-3",
+      "title": "Exploration Budgets Need Public Value",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "An expedition may expend public money to extract ice, rock, or biological samples that require rare expertise to interpret. Its budget should make each major expenditure explicit, including storage after grants expire and protection for an extinct species site. An exquisite exposition in a museum can share results, but beautiful displays cannot extinguish questions about local consent or damaged land. Funding is justified when data remain accessible, communities benefit, and researchers account for both discovery and repair.",
+      "translation": "考察可能花费公共资金提取冰、岩石或生物样本，而解读这些样本需要稀缺专业知识。预算应明确列出每项主要支出，包括资助到期后的保存费用，以及对灭绝物种遗址的保护。博物馆里精美的展览可以分享成果，但漂亮陈列无法消除有关当地同意或土地受损的问题。当数据持续开放、社区受益，且研究人员同时对发现与修复负责时，资助才有正当性。",
+      "sentences": [
+        {
+          "en": "An expedition may expend public money to extract ice, rock, or biological samples that require rare expertise to interpret.",
+          "zh": "考察可能花费公共资金提取冰、岩石或生物样本，而解读这些样本需要稀缺专业知识。"
+        },
+        {
+          "en": "Its budget should make each major expenditure explicit, including storage after grants expire and protection for an extinct species site.",
+          "zh": "预算应明确列出每项主要支出，包括资助到期后的保存费用，以及对灭绝物种遗址的保护。"
+        },
+        {
+          "en": "An exquisite exposition in a museum can share results, but beautiful displays cannot extinguish questions about local consent or damaged land.",
+          "zh": "博物馆里精美的展览可以分享成果，但漂亮陈列无法消除有关当地同意或土地受损的问题。"
+        },
+        {
+          "en": "Funding is justified when data remain accessible, communities benefit, and researchers account for both discovery and repair.",
+          "zh": "当数据持续开放、社区受益，且研究人员同时对发现与修复负责时，资助才有正当性。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "expend",
+          "meaning": "vt. 消费,用尽"
+        },
+        {
+          "word": "expenditure",
+          "meaning": "n. 花费;(时间,金钱等的)支出,消耗"
+        },
+        {
+          "word": "expertise",
+          "meaning": "n. 专门知识,专门技能"
+        },
+        {
+          "word": "expire",
+          "meaning": "vi. 满期,到期;逝世,死"
+        },
+        {
+          "word": "explicit",
+          "meaning": "a. 清楚的,明确的;毫不含蓄的"
+        },
+        {
+          "word": "exposition",
+          "meaning": "n.说明,解释;陈列"
+        },
+        {
+          "word": "exquisite",
+          "meaning": "a. 优美的,精巧的"
+        },
+        {
+          "word": "extinct",
+          "meaning": "a. 灭绝的;(火山)不再活跃的;(风俗)废弃的"
+        },
+        {
+          "word": "extinguish",
+          "meaning": "vt. 熄灭,扑灭;根除,消灭"
+        },
+        {
+          "word": "extract",
+          "meaning": "vt. 拔出,榨取;摘录;n. 抽出物,选录"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What costs should budgets include?",
+          "answer": "Storage, protection, and long-term responsibilities.",
+          "explanation": "预算应包括保存、保护和长期责任成本。"
+        },
+        {
+          "prompt": "When is public funding justified?",
+          "answer": "When results are accessible and communities benefit.",
+          "explanation": "成果开放且社区受益时，公共资助才合理。"
+        }
+      ]
+    }
+  ]
+}

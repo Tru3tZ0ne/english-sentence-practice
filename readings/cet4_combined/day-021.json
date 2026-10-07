@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 21,
+  "articles": [
+    {
+      "id": "cet4-reading-d021-1",
+      "title": "Signals Beside the Frozen Pond",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "Captain Luo repeatedly called into the February darkness while his rescue team followed a narrow track beside the frozen pond. They had come to seek a missing surveyor whose calculator and a torn map fragment lay near a broken fence. Instead of making an arbitrary turn, the captain studied the sequence of footprints and noticed a one-cent coin pressed into fresh mud. That tiny sign led them to a shed, and the whole team felt confident when a weak voice answered from inside.",
+      "translation": "二月的黑夜里，罗队长反复呼喊，救援队沿着结冰池塘边的一条窄路前进。他们来寻找一名失踪的测量员，围栏断口附近留着他的计算器和一块撕破的地图碎片。队长没有随意转弯，而是研究脚印的先后顺序，并发现一枚一分硬币陷在新泥里。这个微小的迹象把他们引到一间棚屋；里面传来微弱回应时，全队都确信找对了地方。",
+      "sentences": [
+        {
+          "en": "Captain Luo repeatedly called into the February darkness while his rescue team followed a narrow track beside the frozen pond.",
+          "zh": "二月的黑夜里，罗队长反复呼喊，救援队沿着结冰池塘边的一条窄路前进。"
+        },
+        {
+          "en": "They had come to seek a missing surveyor whose calculator and a torn map fragment lay near a broken fence.",
+          "zh": "他们来寻找一名失踪的测量员，围栏断口附近留着他的计算器和一块撕破的地图碎片。"
+        },
+        {
+          "en": "Instead of making an arbitrary turn, the captain studied the sequence of footprints and noticed a one-cent coin pressed into fresh mud.",
+          "zh": "队长没有随意转弯，而是研究脚印的先后顺序，并发现一枚一分硬币陷在新泥里。"
+        },
+        {
+          "en": "That tiny sign led them to a shed, and the whole team felt confident when a weak voice answered from inside.",
+          "zh": "这个微小的迹象把他们引到一间棚屋；里面传来微弱回应时，全队都确信找对了地方。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "repeatedly",
+          "meaning": "ad. 重复地,再三地"
+        },
+        {
+          "word": "seek",
+          "meaning": "v. (after,for)寻找,探索;试图,企图"
+        },
+        {
+          "word": "calculator",
+          "meaning": "n.计算机, 计算器。"
+        },
+        {
+          "word": "fragment",
+          "meaning": "n. 碎片,片断;vi. 裂成碎片"
+        },
+        {
+          "word": "arbitrary",
+          "meaning": "a. 任性的,专断的"
+        },
+        {
+          "word": "cent",
+          "meaning": "n. (货币单位)分,分币"
+        },
+        {
+          "word": "captain",
+          "meaning": "n. 首领,队长;船长;上尉v. 做...的首领,指挥"
+        },
+        {
+          "word": "sequence",
+          "meaning": "n. (事件、观念等的)系列;顺序;关联"
+        },
+        {
+          "word": "track",
+          "meaning": "n./v. 行踪;踪迹;跟踪;n. 路径"
+        },
+        {
+          "word": "confident",
+          "meaning": "a. 确信的,有把握的"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What objects did the team find near the fence?",
+          "answer": "A calculator and a map fragment.",
+          "explanation": "围栏附近有计算器和地图碎片。"
+        },
+        {
+          "prompt": "Why did the captain choose the path to the shed?",
+          "answer": "He followed the sequence of footprints and the coin.",
+          "explanation": "他依据脚印顺序和硬币这一线索作出判断。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d021-2",
+      "title": "When Evidence Changes a Decision",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "In February, a town planned to fill an old clay pit where reeds were dying and mostly stagnant water covered the ground. Engineers first had to evaluate whether the danger was real, so they measured the water and recorded wildlife after rain. The survey showed that a modest restoration effort could revive the wetland, whereas concrete would dissolve neither the pollution nor public concern. Local democracy allowed residents to review the evidence and undo the earlier decision before irreversible work began.",
+      "translation": "二月，一个小镇计划填平一处旧黏土坑；那里的芦苇正在枯死，积水覆盖了大部分地面。工程师首先要评估危险是否真实存在，因此他们检测水质，并记录雨后的野生动物。调查表明，适度的修复工作可以让湿地恢复，而浇筑混凝土既不能消除污染，也不能化解公众担忧。当地的民主程序让居民审查证据，并在不可逆的工程开始前撤销了原决定。",
+      "sentences": [
+        {
+          "en": "In February, a town planned to fill an old clay pit where reeds were dying and mostly stagnant water covered the ground.",
+          "zh": "二月，一个小镇计划填平一处旧黏土坑；那里的芦苇正在枯死，积水覆盖了大部分地面。"
+        },
+        {
+          "en": "Engineers first had to evaluate whether the danger was real, so they measured the water and recorded wildlife after rain.",
+          "zh": "工程师首先要评估危险是否真实存在，因此他们检测水质，并记录雨后的野生动物。"
+        },
+        {
+          "en": "The survey showed that a modest restoration effort could revive the wetland, whereas concrete would dissolve neither the pollution nor public concern.",
+          "zh": "调查表明，适度的修复工作可以让湿地恢复，而浇筑混凝土既不能消除污染，也不能化解公众担忧。"
+        },
+        {
+          "en": "Local democracy allowed residents to review the evidence and undo the earlier decision before irreversible work began.",
+          "zh": "当地的民主程序让居民审查证据，并在不可逆的工程开始前撤销了原决定。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "dying",
+          "meaning": "a.垂死的;临终的"
+        },
+        {
+          "word": "pit",
+          "meaning": "n. 坑;凹部;修理站"
+        },
+        {
+          "word": "evaluate",
+          "meaning": "vt. 估...的价,定...的值"
+        },
+        {
+          "word": "effort",
+          "meaning": "n. 努力;成就;艰难的尝试"
+        },
+        {
+          "word": "real",
+          "meaning": "a. 真的,真实的;实际的,现实的"
+        },
+        {
+          "word": "democracy",
+          "meaning": "n. 民主政体,民主,民主社会"
+        },
+        {
+          "word": "mostly",
+          "meaning": "ad. 几乎全部地;主要地,大部分,基本上"
+        },
+        {
+          "word": "dissolve",
+          "meaning": "v. 使液化,融化;使解散"
+        },
+        {
+          "word": "february",
+          "meaning": "n. 二月"
+        },
+        {
+          "word": "undo",
+          "meaning": "vt. 解开,拨开;败坏(名声,成果)"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the survey show?",
+          "answer": "Restoration could revive the wetland.",
+          "explanation": "调查表明修复工作能够让湿地恢复。"
+        },
+        {
+          "prompt": "How did residents affect the plan?",
+          "answer": "They reviewed the evidence and reversed the decision.",
+          "explanation": "居民审查证据后推翻了原方案。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d021-3",
+      "title": "Privacy Must Survive an Emergency",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "During a mountain rescue, a loud public appeal may stimulate useful reports, but it can also expose a family's private pain. Officials should communicate through one reliable channel and give witnesses a number they can dial without joining an online hunt for blame. An upright rescue service checks each claim before sharing it, even when reporters demand a final answer immediately. Speed matters, yet respect for victims should remain part of emergency practice rather than an obstacle to it.",
+      "translation": "山区救援时，大声公开呼吁可能带来有用线索，也可能暴露一个家庭的私人痛苦。官方应通过一个可靠渠道发布信息，并为目击者提供可拨打的号码，避免他们加入网络追责。正直的救援机构会在发布前核实每条说法，即使记者要求立即给出最终答案。速度固然重要，但尊重受害者应当是应急工作的组成部分，而不是其障碍。",
+      "sentences": [
+        {
+          "en": "During a mountain rescue, a loud public appeal may stimulate useful reports, but it can also expose a family's private pain.",
+          "zh": "山区救援时，大声公开呼吁可能带来有用线索，也可能暴露一个家庭的私人痛苦。"
+        },
+        {
+          "en": "Officials should communicate through one reliable channel and give witnesses a number they can dial without joining an online hunt for blame.",
+          "zh": "官方应通过一个可靠渠道发布信息，并为目击者提供可拨打的号码，避免他们加入网络追责。"
+        },
+        {
+          "en": "An upright rescue service checks each claim before sharing it, even when reporters demand a final answer immediately.",
+          "zh": "正直的救援机构会在发布前核实每条说法，即使记者要求立即给出最终答案。"
+        },
+        {
+          "en": "Speed matters, yet respect for victims should remain part of emergency practice rather than an obstacle to it.",
+          "zh": "速度固然重要，但尊重受害者应当是应急工作的组成部分，而不是其障碍。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "pain",
+          "meaning": "n. 痛,痛苦;(pl.)努力,劳苦vt. 使痛苦"
+        },
+        {
+          "word": "final",
+          "meaning": "a. 最终的,决定性的n. 结局;决赛;期末考试"
+        },
+        {
+          "word": "loud",
+          "meaning": "a. 大声的,响亮的;吵闹的,喧嚣的"
+        },
+        {
+          "word": "private",
+          "meaning": "a. 私人的,个人的,秘密的,私下的n. 士兵,列兵"
+        },
+        {
+          "word": "reliable",
+          "meaning": "a. 可靠的,可信赖的"
+        },
+        {
+          "word": "dial",
+          "meaning": "n. 表面,钟面,拨号盘 vt. 打电话"
+        },
+        {
+          "word": "stimulate",
+          "meaning": "v. 刺激,使兴奋;激励,鼓舞"
+        },
+        {
+          "word": "communicate",
+          "meaning": "v. 传达,传送;交流;通讯,通话"
+        },
+        {
+          "word": "hunt",
+          "meaning": "v./n. 打猎,猎取;(for)搜索;寻找"
+        },
+        {
+          "word": "upright",
+          "meaning": "a. 垂直的,直立的;正直的"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why should officials use one reliable channel?",
+          "answer": "To reduce rumors and protect private information.",
+          "explanation": "这样可以减少谣言并保护隐私。"
+        },
+        {
+          "prompt": "What should happen before a claim is shared?",
+          "answer": "It should be checked.",
+          "explanation": "信息发布前应当经过核实。"
+        }
+      ]
+    }
+  ]
+}

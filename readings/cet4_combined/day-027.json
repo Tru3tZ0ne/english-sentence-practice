@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 27,
+  "articles": [
+    {
+      "id": "cet4-reading-d027-1",
+      "title": "The Measure That Stopped the Line",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "In a packaging factory, a conveyor began to lag whenever a banana box reached the centre sensor. The supervisor resisted the temptation to treat the delay as bad luck and asked for a precise measurement of every box. With patience, a technician found that one label contained a grammatical error that made the scanner expect the wrong size. It was a pity to stop the line, but correcting the code was a cheap remedy that prevented a much larger breakdown.",
+      "translation": "在一家包装厂里，每当香蕉箱到达中央传感器时，传送带就开始变慢。主管没有把延误当成倒霉，而是要求精确测量每个箱子。技术员耐心检查后发现，一张标签存在语法错误，导致扫描器预期了错误尺寸。停线很可惜，但修正代码是便宜的补救办法，并防止了更大的故障。",
+      "sentences": [
+        {
+          "en": "In a packaging factory, a conveyor began to lag whenever a banana box reached the centre sensor.",
+          "zh": "在一家包装厂里，每当香蕉箱到达中央传感器时，传送带就开始变慢。"
+        },
+        {
+          "en": "The supervisor resisted the temptation to treat the delay as bad luck and asked for a precise measurement of every box.",
+          "zh": "主管没有把延误当成倒霉，而是要求精确测量每个箱子。"
+        },
+        {
+          "en": "With patience, a technician found that one label contained a grammatical error that made the scanner expect the wrong size.",
+          "zh": "技术员耐心检查后发现，一张标签存在语法错误，导致扫描器预期了错误尺寸。"
+        },
+        {
+          "en": "It was a pity to stop the line, but correcting the code was a cheap remedy that prevented a much larger breakdown.",
+          "zh": "停线很可惜，但修正代码是便宜的补救办法，并防止了更大的故障。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "in",
+          "meaning": "prep. 在...里(内,上);用...(表示)ad. 进,入"
+        },
+        {
+          "word": "lag",
+          "meaning": "vi. 走得慢,落后;n. 相隔时间"
+        },
+        {
+          "word": "pity",
+          "meaning": "v. (觉得)可怜,惋惜n. 憾事,怜悯"
+        },
+        {
+          "word": "centre",
+          "meaning": "n.中心;中枢 vt.集中"
+        },
+        {
+          "word": "patience",
+          "meaning": "n. 耐心,忍耐"
+        },
+        {
+          "word": "banana",
+          "meaning": "n. 香蕉"
+        },
+        {
+          "word": "remedy",
+          "meaning": "n. 补救办法,纠正办法;药品,治疗法 vt. 补救,纠正;治疗,医治"
+        },
+        {
+          "word": "measurement",
+          "meaning": "n.衡量,测量;尺寸"
+        },
+        {
+          "word": "grammatical",
+          "meaning": "a.语法上的"
+        },
+        {
+          "word": "treat",
+          "meaning": "v. 对待;治疗;论述;款待,请客n. 款待,请客"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What caused the conveyor to slow?",
+          "answer": "A label error made the scanner expect the wrong size.",
+          "explanation": "标签错误让扫描器预期了错误尺寸。"
+        },
+        {
+          "prompt": "Why was stopping the line worthwhile?",
+          "answer": "It prevented a larger breakdown.",
+          "explanation": "停线避免了更严重的故障。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d027-2",
+      "title": "Measuring Height Without Climbing",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "A surveyor can estimate a big tower's height by comparing its shadow with the shadow of a pole of known length. This type of geometry once served military mapping, but students can test it with their own ruler, glove, or upright stick. The method does not command perfect weather; it needs clear sunlight and careful timing rather than equipment chosen for fashion, such as laser scissors. Openly sharing the calculation supports scientific justice, because anyone can examine it before the result is used in an export project.",
+      "translation": "测量员可以把高塔的影子与已知长度杆子的影子比较，从而估算塔高。这种几何方法曾用于军事制图，但学生可以用自己的尺子、手套或直立木棍来测试。这种方法并不要求完美天气；它需要清晰阳光和准确计时，而不是激光剪刀之类时髦设备。公开计算过程有助于科学公正，因为结果用于出口项目之前，任何人都能检查。",
+      "sentences": [
+        {
+          "en": "A surveyor can estimate a big tower's height by comparing its shadow with the shadow of a pole of known length.",
+          "zh": "测量员可以把高塔的影子与已知长度杆子的影子比较，从而估算塔高。"
+        },
+        {
+          "en": "This type of geometry once served military mapping, but students can test it with their own ruler, glove, or upright stick.",
+          "zh": "这种几何方法曾用于军事制图，但学生可以用自己的尺子、手套或直立木棍来测试。"
+        },
+        {
+          "en": "The method does not command perfect weather; it needs clear sunlight and careful timing rather than equipment chosen for fashion, such as laser scissors.",
+          "zh": "这种方法并不要求完美天气；它需要清晰阳光和准确计时，而不是激光剪刀之类时髦设备。"
+        },
+        {
+          "en": "Openly sharing the calculation supports scientific justice, because anyone can examine it before the result is used in an export project.",
+          "zh": "公开计算过程有助于科学公正，因为结果用于出口项目之前，任何人都能检查。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "scissors",
+          "meaning": "n. 剪刀"
+        },
+        {
+          "word": "command",
+          "meaning": "n./v. 命令,指挥,控制n. 掌握,运用能力"
+        },
+        {
+          "word": "justice",
+          "meaning": "n. 公正,公平;审判,司法"
+        },
+        {
+          "word": "military",
+          "meaning": "a. 军事的,军用的,军队的"
+        },
+        {
+          "word": "type",
+          "meaning": "n. 型式,类型;印刷字体;活/铅字v. 打字"
+        },
+        {
+          "word": "fashion",
+          "meaning": "n. 流行式样(或货品),风尚,风气;样子,方式"
+        },
+        {
+          "word": "own",
+          "meaning": "a. (用在所有格后面,加强语气)自己的"
+        },
+        {
+          "word": "big",
+          "meaning": "a. 大的;重要的;宽宏大量的;大受欢迎的"
+        },
+        {
+          "word": "export",
+          "meaning": "v. 出口,输出;n. 出口,出口企业,出口品"
+        },
+        {
+          "word": "glove",
+          "meaning": "n. 手套"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What two shadows are compared?",
+          "answer": "The tower's shadow and a pole's shadow.",
+          "explanation": "比较高塔与已知杆子的影子。"
+        },
+        {
+          "prompt": "What conditions does the method need?",
+          "answer": "Clear sunlight and careful timing.",
+          "explanation": "这种方法需要清晰阳光和准确计时。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d027-3",
+      "title": "Export Growth Should Not Hide Waste",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "During the first phase of an export boom, a factory deck may tremble under heavier machines while nearby families grow anxious about noise. A government grant can raise output to a new height, yet it should also fund cleaner geometry for workspaces and safer routes for trucks. Native plants may fade under dust, and workers may feel faint if factories consume air, water, and attention faster than they recover. Trade deserves support only when its visible profit includes the cost of protecting health and place.",
+      "translation": "出口繁荣的第一阶段，厂房平台可能在更重的机器下震动，附近家庭则对噪声感到焦虑。政府补助可以把产量推到新高度，但也应资助更合理的工作空间布局和更安全的货车路线。本地植物可能因灰尘而衰败；如果生产消耗空气、水和注意力的速度超过恢复速度，工人也可能头晕。只有当可见利润包含保护健康与地方环境的成本时，贸易才值得支持。",
+      "sentences": [
+        {
+          "en": "During the first phase of an export boom, a factory deck may tremble under heavier machines while nearby families grow anxious about noise.",
+          "zh": "出口繁荣的第一阶段，厂房平台可能在更重的机器下震动，附近家庭则对噪声感到焦虑。"
+        },
+        {
+          "en": "A government grant can raise output to a new height, yet it should also fund cleaner geometry for workspaces and safer routes for trucks.",
+          "zh": "政府补助可以把产量推到新高度，但也应资助更合理的工作空间布局和更安全的货车路线。"
+        },
+        {
+          "en": "Native plants may fade under dust, and workers may feel faint if factories consume air, water, and attention faster than they recover.",
+          "zh": "本地植物可能因灰尘而衰败；如果生产消耗空气、水和注意力的速度超过恢复速度，工人也可能头晕。"
+        },
+        {
+          "en": "Trade deserves support only when its visible profit includes the cost of protecting health and place.",
+          "zh": "只有当可见利润包含保护健康与地方环境的成本时，贸易才值得支持。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "deck",
+          "meaning": "n. 甲板,公共汽车一层的车厢,纸牌 vt. 装饰,打扮"
+        },
+        {
+          "word": "grant",
+          "meaning": "vt. 同意给予;同意或承认某事属实;n. 拨款,补助款"
+        },
+        {
+          "word": "phase",
+          "meaning": "n. 阶段,状态,时期;相,相位"
+        },
+        {
+          "word": "tremble",
+          "meaning": "vi./n. 发抖,震颤"
+        },
+        {
+          "word": "anxious",
+          "meaning": "a. 焦虑的,担心的;急于(得到的),渴望的"
+        },
+        {
+          "word": "faint",
+          "meaning": "a. 微弱的;不清楚的;n./vi. 昏晕"
+        },
+        {
+          "word": "geometry",
+          "meaning": "n. 几何学"
+        },
+        {
+          "word": "height",
+          "meaning": "n. 高,高度;(常pl. )高地,高处"
+        },
+        {
+          "word": "native",
+          "meaning": "a. 本地的,本国的;天生的n. 本地人,本国人"
+        },
+        {
+          "word": "consume",
+          "meaning": "vt. 消耗;吃完,喝光;(with)使着迷;烧毁"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What concerns may accompany an export boom?",
+          "answer": "Noise, dust, unsafe traffic, and worker health.",
+          "explanation": "出口增长可能伴随噪声、灰尘、交通与健康问题。"
+        },
+        {
+          "prompt": "When does the writer support trade?",
+          "answer": "When profit accounts for health and environmental protection.",
+          "explanation": "利润计入健康与环境保护成本时才应支持贸易。"
+        }
+      ]
+    }
+  ]
+}

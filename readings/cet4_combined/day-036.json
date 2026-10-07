@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 36,
+  "articles": [
+    {
+      "id": "cet4-reading-d036-1",
+      "title": "Lunch Beneath the Cathedral",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "A new cafeteria opened beside the cathedral, where a stone bust and a painted canvas watched over the lunch tables. Its menu listed every calorie and source of calcium, yet an electric buzz from the kitchen disturbed an old man carrying a cane. The cook traced the sound to a fan whose belt had slipped, then used a service bypass so diners could remain safely outside the work area. When the bell sounded like a distant cannon, the organist joked that quiet repair had joined the building's unwritten canon of hospitality.",
+      "translation": "大教堂旁开了一家新自助餐厅，石质半身像和彩绘画布俯视着午餐桌。菜单列出每份食物的热量和钙来源，但厨房传来的电流嗡嗡声打扰了一位拄手杖的老人。厨师发现声音来自皮带滑落的风扇，随后启用维修旁路，让顾客安全留在作业区外。钟声如远处大炮般响起时，风琴师开玩笑说，安静维修已加入这座建筑不成文的待客准则。",
+      "sentences": [
+        {
+          "en": "A new cafeteria opened beside the cathedral, where a stone bust and a painted canvas watched over the lunch tables.",
+          "zh": "大教堂旁开了一家新自助餐厅，石质半身像和彩绘画布俯视着午餐桌。"
+        },
+        {
+          "en": "Its menu listed every calorie and source of calcium, yet an electric buzz from the kitchen disturbed an old man carrying a cane.",
+          "zh": "菜单列出每份食物的热量和钙来源，但厨房传来的电流嗡嗡声打扰了一位拄手杖的老人。"
+        },
+        {
+          "en": "The cook traced the sound to a fan whose belt had slipped, then used a service bypass so diners could remain safely outside the work area.",
+          "zh": "厨师发现声音来自皮带滑落的风扇，随后启用维修旁路，让顾客安全留在作业区外。"
+        },
+        {
+          "en": "When the bell sounded like a distant cannon, the organist joked that quiet repair had joined the building's unwritten canon of hospitality.",
+          "zh": "钟声如远处大炮般响起时，风琴师开玩笑说，安静维修已加入这座建筑不成文的待客准则。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "bust",
+          "meaning": "n.半身像, 胸像, (妇女的)胸部。"
+        },
+        {
+          "word": "buzz",
+          "meaning": "v./n. 嗡嗡叫;匆忙行走;耳鸣"
+        },
+        {
+          "word": "bypass",
+          "meaning": "n. 迂回的旁道;旁路;vt. 加设旁道;回避;躲开"
+        },
+        {
+          "word": "cafeteria",
+          "meaning": "n. 自助食堂,自助餐馆"
+        },
+        {
+          "word": "calcium",
+          "meaning": "n.[化]钙(元素符号Ca)。"
+        },
+        {
+          "word": "calorie",
+          "meaning": "n. 卡(热量单位)"
+        },
+        {
+          "word": "cane",
+          "meaning": "n. 茎,手杖,甘蔗"
+        },
+        {
+          "word": "cannon",
+          "meaning": "n. 大炮 vi. 开炮"
+        },
+        {
+          "word": "canon",
+          "meaning": "n.规范,准则"
+        },
+        {
+          "word": "canvas",
+          "meaning": "n. 粗帆布,油画布"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What caused the buzzing sound?",
+          "answer": "A slipped fan belt.",
+          "explanation": "风扇皮带滑落造成了嗡嗡声。"
+        },
+        {
+          "prompt": "Why was a bypass used?",
+          "answer": "To keep diners away from the repair area.",
+          "explanation": "旁路让顾客远离维修区。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d036-2",
+      "title": "From Clay to Ceramic",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "Ceramic begins as clay that workers shape by hand or carve with a tool, then heat until its particles bind firmly. A test capsule placed in the kiln changes color at a cardinal temperature, giving the potter evidence that a firing stage is complete. Museums may caption a jar from a coastal cape or a cathedral, but they should not keep its makers captive inside a romantic story. A cracked vessel is not a catastrophe or a human casualty; careful conservation can cater for study while showing the damage honestly.",
+      "translation": "陶瓷始于手工塑形或工具雕刻的黏土，随后经加热让颗粒牢固结合。放在窑内的测试胶囊会在关键温度变色，为陶工提供烧制阶段完成的证据。博物馆可以说明陶罐来自海角或大教堂，但不应把制作者禁锢在浪漫化故事里。器物开裂不是灾难，更不是人员伤亡；细致保护既能满足研究需要，也能诚实展示损伤。",
+      "sentences": [
+        {
+          "en": "Ceramic begins as clay that workers shape by hand or carve with a tool, then heat until its particles bind firmly.",
+          "zh": "陶瓷始于手工塑形或工具雕刻的黏土，随后经加热让颗粒牢固结合。"
+        },
+        {
+          "en": "A test capsule placed in the kiln changes color at a cardinal temperature, giving the potter evidence that a firing stage is complete.",
+          "zh": "放在窑内的测试胶囊会在关键温度变色，为陶工提供烧制阶段完成的证据。"
+        },
+        {
+          "en": "Museums may caption a jar from a coastal cape or a cathedral, but they should not keep its makers captive inside a romantic story.",
+          "zh": "博物馆可以说明陶罐来自海角或大教堂，但不应把制作者禁锢在浪漫化故事里。"
+        },
+        {
+          "en": "A cracked vessel is not a catastrophe or a human casualty; careful conservation can cater for study while showing the damage honestly.",
+          "zh": "器物开裂不是灾难，更不是人员伤亡；细致保护既能满足研究需要，也能诚实展示损伤。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "cape",
+          "meaning": "n. 海角,岬"
+        },
+        {
+          "word": "capsule",
+          "meaning": "n.(植物)蒴果, 胶囊, 瓶帽, 太空舱。"
+        },
+        {
+          "word": "caption",
+          "meaning": "n. 报纸文章的标题,照片说明"
+        },
+        {
+          "word": "captive",
+          "meaning": "n./a. 俘虏,迷恋者;被俘虏的,被拴住的"
+        },
+        {
+          "word": "cardinal",
+          "meaning": "a. 主要的,基本的;n. 深红色;基数"
+        },
+        {
+          "word": "carve",
+          "meaning": "v. 雕刻;切(熟肉等)"
+        },
+        {
+          "word": "casualty",
+          "meaning": "n. 伤亡人员"
+        },
+        {
+          "word": "catastrophe",
+          "meaning": "n. 大灾难;(悲剧)结局"
+        },
+        {
+          "word": "cater",
+          "meaning": "vi. 供应伙食;为...提供服务,满足...的要求"
+        },
+        {
+          "word": "cathedral",
+          "meaning": "n. 总教堂,大教堂"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "How does a test capsule help a potter?",
+          "answer": "It changes color at an important temperature.",
+          "explanation": "测试胶囊在关键温度变色。"
+        },
+        {
+          "prompt": "How should museums show damaged ceramics?",
+          "answer": "Preserve them while showing damage honestly.",
+          "explanation": "博物馆应保护器物并如实展示损伤。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d036-3",
+      "title": "A Census Must Count People Carefully",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "A census should use caution when asking whether a person is Catholic, owns a cellar, or lives beside a cemetery. Such details may help plan schools, cereal supplies, housing, or conservation of a ceramic district, but they can also expose private lives. Officials must be cautious about certainty: an empty cavity in a form may mean refusal, confusion, or a question that does not fit the household. Trust grows when the purpose of each question is explained and personal records cannot be used to punish respondents.",
+      "translation": "人口普查询问一个人是否为天主教徒、是否有地窖或是否住在墓地旁时，应保持谨慎。这些信息可能帮助规划学校、谷物供应、住房或陶瓷街区保护，但也会暴露私人生活。官员必须谨慎看待确定性：表格里的空白可能意味着拒答、困惑，或问题不适合该家庭。解释每个问题的用途，并确保个人记录不会用于惩罚受访者，才能建立信任。",
+      "sentences": [
+        {
+          "en": "A census should use caution when asking whether a person is Catholic, owns a cellar, or lives beside a cemetery.",
+          "zh": "人口普查询问一个人是否为天主教徒、是否有地窖或是否住在墓地旁时，应保持谨慎。"
+        },
+        {
+          "en": "Such details may help plan schools, cereal supplies, housing, or conservation of a ceramic district, but they can also expose private lives.",
+          "zh": "这些信息可能帮助规划学校、谷物供应、住房或陶瓷街区保护，但也会暴露私人生活。"
+        },
+        {
+          "en": "Officials must be cautious about certainty: an empty cavity in a form may mean refusal, confusion, or a question that does not fit the household.",
+          "zh": "官员必须谨慎看待确定性：表格里的空白可能意味着拒答、困惑，或问题不适合该家庭。"
+        },
+        {
+          "en": "Trust grows when the purpose of each question is explained and personal records cannot be used to punish respondents.",
+          "zh": "解释每个问题的用途，并确保个人记录不会用于惩罚受访者，才能建立信任。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "catholic",
+          "meaning": "n. 天主教教徒"
+        },
+        {
+          "word": "caution",
+          "meaning": "n./vt. 小心;告诫,警告"
+        },
+        {
+          "word": "cautious",
+          "meaning": "a. (of)小心的,谨慎的"
+        },
+        {
+          "word": "cavity",
+          "meaning": "n. 洞"
+        },
+        {
+          "word": "cellar",
+          "meaning": "n. 地窖,酒窖"
+        },
+        {
+          "word": "cemetery",
+          "meaning": "n. 公墓,墓地"
+        },
+        {
+          "word": "census",
+          "meaning": "n.人口普查。"
+        },
+        {
+          "word": "ceramic",
+          "meaning": "adj.陶器的。n.陶瓷制品"
+        },
+        {
+          "word": "cereal",
+          "meaning": "n. 谷类粮食"
+        },
+        {
+          "word": "certainty",
+          "meaning": "n. 必然的事,必然,确实,肯定"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why can census details be sensitive?",
+          "answer": "They may reveal private beliefs and living conditions.",
+          "explanation": "普查信息可能暴露私人信仰与居住情况。"
+        },
+        {
+          "prompt": "What may a blank answer mean?",
+          "answer": "Refusal, confusion, or a poorly fitting question.",
+          "explanation": "空白可能表示拒答、困惑或问题不适用。"
+        }
+      ]
+    }
+  ]
+}
