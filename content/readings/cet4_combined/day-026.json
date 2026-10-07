@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 26,
+  "articles": [
+    {
+      "id": "cet4-reading-d026-1",
+      "title": "The Midnight Radio Library",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "At midnight, a radio presenter invited eighteen students into the town library for a live dictation contest. Each contestant received a pencil and a paper hat, while a glass panel separated the studio from the reading room. When the lead reader began to utter unfamiliar words, one nervous child looked up and saw his teacher nod calmly. The judges valued careful listening over speed, a judgement that turned the unusual broadcast into a lesson about patience.",
+      "translation": "午夜，一名电台主持人邀请十八名学生来到镇图书馆参加直播听写比赛。每位参赛者都拿到一支铅笔和一顶纸帽，玻璃隔板把演播室与阅览室分开。领读者开始念出生词时，一个紧张的孩子抬头看见老师平静地点头。评委重视认真倾听而非速度；这一判断让这次特别广播成了一堂耐心课。",
+      "sentences": [
+        {
+          "en": "At midnight, a radio presenter invited eighteen students into the town library for a live dictation contest.",
+          "zh": "午夜，一名电台主持人邀请十八名学生来到镇图书馆参加直播听写比赛。"
+        },
+        {
+          "en": "Each contestant received a pencil and a paper hat, while a glass panel separated the studio from the reading room.",
+          "zh": "每位参赛者都拿到一支铅笔和一顶纸帽，玻璃隔板把演播室与阅览室分开。"
+        },
+        {
+          "en": "When the lead reader began to utter unfamiliar words, one nervous child looked up and saw his teacher nod calmly.",
+          "zh": "领读者开始念出生词时，一个紧张的孩子抬头看见老师平静地点头。"
+        },
+        {
+          "en": "The judges valued careful listening over speed, a judgement that turned the unusual broadcast into a lesson about patience.",
+          "zh": "评委重视认真倾听而非速度；这一判断让这次特别广播成了一堂耐心课。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "nod",
+          "meaning": "v. 点(头),点头招呼n. 点头招呼;打盹,瞌睡"
+        },
+        {
+          "word": "lead",
+          "meaning": "vt.为...带路;领导"
+        },
+        {
+          "word": "dictation",
+          "meaning": "n. 听写,口述;命令"
+        },
+        {
+          "word": "eighteen",
+          "meaning": "num. 十八,十八个"
+        },
+        {
+          "word": "panel",
+          "meaning": "n./vt. 镶板,控制板;座谈小组;镶饰"
+        },
+        {
+          "word": "hat",
+          "meaning": "n. 帽子(一般指有边的帽子)"
+        },
+        {
+          "word": "pencil",
+          "meaning": "n. 铅笔vt. 用铅笔写"
+        },
+        {
+          "word": "utter",
+          "meaning": "v. 说,发出(声音)a. 彻底的,完全的"
+        },
+        {
+          "word": "radio",
+          "meaning": "n. 收音机;无线电报,无线电话v. 无线电通讯"
+        },
+        {
+          "word": "judgement",
+          "meaning": "n.意见;审判;判断"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "How many students joined the contest?",
+          "answer": "Eighteen.",
+          "explanation": "共有十八名学生参赛。"
+        },
+        {
+          "prompt": "What did the judges value?",
+          "answer": "Careful listening over speed.",
+          "explanation": "评委更重视认真倾听。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d026-2",
+      "title": "From Fibre to Strong Cloth",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "A fibre is basically a thin line of material, yet thousands of fibres can form cloth strong enough for a basketball shoe. Natural fibres must allow adequate airflow so that heat and each breath of moisture can leave the skin. Manufacturers may import special threads, but a local library of samples helps them restrict waste and compare durability. Even a pie-shaped test patch can reveal an improvement when its woven directions respond differently to pressure.",
+      "translation": "纤维基本上是一条细材料，但成千上万条纤维可以构成足够结实的篮球鞋面料。天然纤维必须允许充分通风，让热量和每一缕湿气离开皮肤。制造商可以进口特殊线材，但本地样品库能帮助他们限制浪费并比较耐用性。即使是一块馅饼形测试布，也能通过不同编织方向对压力的反应显示改进。",
+      "sentences": [
+        {
+          "en": "A fibre is basically a thin line of material, yet thousands of fibres can form cloth strong enough for a basketball shoe.",
+          "zh": "纤维基本上是一条细材料，但成千上万条纤维可以构成足够结实的篮球鞋面料。"
+        },
+        {
+          "en": "Natural fibres must allow adequate airflow so that heat and each breath of moisture can leave the skin.",
+          "zh": "天然纤维必须允许充分通风，让热量和每一缕湿气离开皮肤。"
+        },
+        {
+          "en": "Manufacturers may import special threads, but a local library of samples helps them restrict waste and compare durability.",
+          "zh": "制造商可以进口特殊线材，但本地样品库能帮助他们限制浪费并比较耐用性。"
+        },
+        {
+          "en": "Even a pie-shaped test patch can reveal an improvement when its woven directions respond differently to pressure.",
+          "zh": "即使是一块馅饼形测试布，也能通过不同编织方向对压力的反应显示改进。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "breath",
+          "meaning": "n. 呼吸,气息"
+        },
+        {
+          "word": "pie",
+          "meaning": "n. 馅饼"
+        },
+        {
+          "word": "library",
+          "meaning": "n. 图书馆;藏书室;藏书,丛书,文库"
+        },
+        {
+          "word": "line",
+          "meaning": "n. 线;路线,航线;排;线路;界线v. 排队;加衬"
+        },
+        {
+          "word": "restrict",
+          "meaning": "v. 限制,约束"
+        },
+        {
+          "word": "adequate",
+          "meaning": "a. 充分的;可胜任的"
+        },
+        {
+          "word": "basically",
+          "meaning": "ad.基本上"
+        },
+        {
+          "word": "import",
+          "meaning": "v. 进口,输入n. 进口,输入;(pl.)进口商品;要旨,含意"
+        },
+        {
+          "word": "basketball",
+          "meaning": "n. 篮球,篮球运动"
+        },
+        {
+          "word": "improvement",
+          "meaning": "n. 改进,进步,增进;改进措施"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why must cloth allow airflow?",
+          "answer": "To release heat and moisture.",
+          "explanation": "布料要释放热量和湿气。"
+        },
+        {
+          "prompt": "What can a test patch reveal?",
+          "answer": "Whether the fabric has improved.",
+          "explanation": "测试布能显示面料是否得到改进。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d026-3",
+      "title": "A Railway Is More Than a Track",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "A railway plan drawn on a flat plane may look objective, but each straight line has an implication for the community it crosses. Fast trains dash past homes, their noise can blow across fields, and vibration may disturb ovens where small businesses bake food. Planners should let residents discuss bridges, paths, and the fibre of neighborhood life before fixing the route. Real harmony comes from changing a design when local evidence is strong, not from asking everyone to accept a finished map.",
+      "translation": "画在平面上的铁路方案看似客观，但每一条直线都会对沿线社区产生影响。高速列车从住宅旁疾驰，噪声吹过田野，震动还可能影响小店烘烤食品的炉具。规划者应让居民在确定路线前讨论桥梁、道路和社区生活的内在联系。真正的和谐来自在地方证据充分时修改设计，而不是要求所有人接受一张定稿地图。",
+      "sentences": [
+        {
+          "en": "A railway plan drawn on a flat plane may look objective, but each straight line has an implication for the community it crosses.",
+          "zh": "画在平面上的铁路方案看似客观，但每一条直线都会对沿线社区产生影响。"
+        },
+        {
+          "en": "Fast trains dash past homes, their noise can blow across fields, and vibration may disturb ovens where small businesses bake food.",
+          "zh": "高速列车从住宅旁疾驰，噪声吹过田野，震动还可能影响小店烘烤食品的炉具。"
+        },
+        {
+          "en": "Planners should let residents discuss bridges, paths, and the fibre of neighborhood life before fixing the route.",
+          "zh": "规划者应让居民在确定路线前讨论桥梁、道路和社区生活的内在联系。"
+        },
+        {
+          "en": "Real harmony comes from changing a design when local evidence is strong, not from asking everyone to accept a finished map.",
+          "zh": "真正的和谐来自在地方证据充分时修改设计，而不是要求所有人接受一张定稿地图。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "blow",
+          "meaning": "vi. 吹,吹气,打气;吹奏;爆炸n. 打,打击"
+        },
+        {
+          "word": "objective",
+          "meaning": "a. [哲"
+        },
+        {
+          "word": "bake",
+          "meaning": "v. 烤,烘,烧硬"
+        },
+        {
+          "word": "harmony",
+          "meaning": "n. 和谐,融洽,一致"
+        },
+        {
+          "word": "dash",
+          "meaning": "n./v. 撞击,冲,短跑;破折号;闯劲"
+        },
+        {
+          "word": "let",
+          "meaning": "v. 让,允许,听任;设,假设;出租,租给"
+        },
+        {
+          "word": "implication",
+          "meaning": "n. 含意,暗示,暗指;牵连"
+        },
+        {
+          "word": "railway",
+          "meaning": "n.铁路,铁道"
+        },
+        {
+          "word": "fibre",
+          "meaning": "n.纤维, 构造, 纤维制品, [植]须根。"
+        },
+        {
+          "word": "plane",
+          "meaning": "n. 飞机;平面,水平面"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What may trains disturb besides homes?",
+          "answer": "Fields and small food businesses.",
+          "explanation": "列车还可能影响田野和小型食品商户。"
+        },
+        {
+          "prompt": "How can planners create harmony?",
+          "answer": "By consulting residents and changing the route when needed.",
+          "explanation": "规划者应听取居民意见并在必要时调整路线。"
+        }
+      ]
+    }
+  ]
+}

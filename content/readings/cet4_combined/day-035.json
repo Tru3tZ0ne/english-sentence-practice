@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 35,
+  "articles": [
+    {
+      "id": "cet4-reading-d035-1",
+      "title": "The Arena Appraisal",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "Before reopening the city arena, an engineer began an appraisal of its roof, whose steel arc had supported an array of lights for forty years. Her approach was to arrange sensors beneath the structure while workers in appropriate safety armor inspected every joint. The old seating arrangement was apt for concerts but narrowed two emergency exits during sports events. The team kept the graceful roof, moved several rows, and proved that preservation and safety could share one design.",
+      "translation": "城市竞技场重开前，一名工程师开始评估屋顶；钢制拱梁已支撑一整排灯具四十年。她的方法是在结构下方布置传感器，同时让穿着合适防护装备的工人检查每个接头。旧座位布置适合音乐会，却在体育赛事期间缩窄了两个紧急出口。团队保留优美屋顶，移动几排座位，证明保护与安全可以共存于同一设计。",
+      "sentences": [
+        {
+          "en": "Before reopening the city arena, an engineer began an appraisal of its roof, whose steel arc had supported an array of lights for forty years.",
+          "zh": "城市竞技场重开前，一名工程师开始评估屋顶；钢制拱梁已支撑一整排灯具四十年。"
+        },
+        {
+          "en": "Her approach was to arrange sensors beneath the structure while workers in appropriate safety armor inspected every joint.",
+          "zh": "她的方法是在结构下方布置传感器，同时让穿着合适防护装备的工人检查每个接头。"
+        },
+        {
+          "en": "The old seating arrangement was apt for concerts but narrowed two emergency exits during sports events.",
+          "zh": "旧座位布置适合音乐会，却在体育赛事期间缩窄了两个紧急出口。"
+        },
+        {
+          "en": "The team kept the graceful roof, moved several rows, and proved that preservation and safety could share one design.",
+          "zh": "团队保留优美屋顶，移动几排座位，证明保护与安全可以共存于同一设计。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "appraisal",
+          "meaning": "n.评价, 估价(尤指估价财产,以便征税), 鉴定。"
+        },
+        {
+          "word": "approach",
+          "meaning": "v. 接近;着手处理;n. 接近;方法;途径"
+        },
+        {
+          "word": "appropriate",
+          "meaning": "a. 合适的;v. 挪用;拨款"
+        },
+        {
+          "word": "apt",
+          "meaning": "a. 聪明的;合适的;易于的"
+        },
+        {
+          "word": "arc",
+          "meaning": "n.弧,弓形物;弧光"
+        },
+        {
+          "word": "arena",
+          "meaning": "n. 竞技场,比赛场所"
+        },
+        {
+          "word": "armor",
+          "meaning": "n.装甲"
+        },
+        {
+          "word": "arrange",
+          "meaning": "v. 安排,筹划;整理,使有条理,排列,布置"
+        },
+        {
+          "word": "arrangement",
+          "meaning": "n.整理,排列;安排"
+        },
+        {
+          "word": "array",
+          "meaning": "n. 展示;一系列"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the roof support?",
+          "answer": "An array of lights.",
+          "explanation": "屋顶支撑着一排灯具。"
+        },
+        {
+          "prompt": "Why was the seating changed?",
+          "answer": "It narrowed emergency exits.",
+          "explanation": "旧座位布置缩窄了紧急出口。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d035-2",
+      "title": "How Investigators Establish a Cause",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "Investigators must ascertain facts before they ascribe a disaster to a person, a weapon, or an arrogant political ambition. In an assassination inquiry, residue from artillery or a blocked artery may each suggest a cause, but neither alone justifies an arrest. Evidence should ascend from observation to testing and then to a conclusion that experts can articulate clearly. The aspiration of a fair inquiry is accuracy, including the willingness to revise a theory when new facts appear.",
+      "translation": "调查人员必须先查明事实，才能把灾难归因于某个人、武器或傲慢的政治野心。在暗杀调查中，火炮残留物或堵塞动脉都可能提示死因，但任何单项都不足以支持逮捕。证据应从观察上升到检验，再形成专家能够清楚表达的结论。公正调查追求准确，也包括在新事实出现时修正理论的意愿。",
+      "sentences": [
+        {
+          "en": "Investigators must ascertain facts before they ascribe a disaster to a person, a weapon, or an arrogant political ambition.",
+          "zh": "调查人员必须先查明事实，才能把灾难归因于某个人、武器或傲慢的政治野心。"
+        },
+        {
+          "en": "In an assassination inquiry, residue from artillery or a blocked artery may each suggest a cause, but neither alone justifies an arrest.",
+          "zh": "在暗杀调查中，火炮残留物或堵塞动脉都可能提示死因，但任何单项都不足以支持逮捕。"
+        },
+        {
+          "en": "Evidence should ascend from observation to testing and then to a conclusion that experts can articulate clearly.",
+          "zh": "证据应从观察上升到检验，再形成专家能够清楚表达的结论。"
+        },
+        {
+          "en": "The aspiration of a fair inquiry is accuracy, including the willingness to revise a theory when new facts appear.",
+          "zh": "公正调查追求准确，也包括在新事实出现时修正理论的意愿。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "arrest",
+          "meaning": "n. 逮捕,扣留vt. 逮捕,扣留;阻止;吸引"
+        },
+        {
+          "word": "arrogant",
+          "meaning": "a. 傲慢的,自负的"
+        },
+        {
+          "word": "artery",
+          "meaning": "n.动脉, 要道。"
+        },
+        {
+          "word": "articulate",
+          "meaning": "adj.有关节的, 发音清晰的。vt.用关节连接, 接合, 清晰明白地说。"
+        },
+        {
+          "word": "artillery",
+          "meaning": "n.炮的总称, 炮兵的总称。"
+        },
+        {
+          "word": "ascend",
+          "meaning": "vi. 渐渐上升,升高vt. 攀登,登上"
+        },
+        {
+          "word": "ascertain",
+          "meaning": "vt. 查明,探查"
+        },
+        {
+          "word": "ascribe",
+          "meaning": "vt. 把...归因于;把...归属于"
+        },
+        {
+          "word": "aspiration",
+          "meaning": "n.热望, 渴望。"
+        },
+        {
+          "word": "assassination",
+          "meaning": "n. 暗杀"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why is one clue insufficient for arrest?",
+          "answer": "A clue may suggest but not prove a cause.",
+          "explanation": "线索只能提示原因，不能单独证明。"
+        },
+        {
+          "prompt": "What should happen when new facts appear?",
+          "answer": "Investigators should revise their theory.",
+          "explanation": "新事实出现时应修正理论。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d035-3",
+      "title": "Athletes Need Authority Over Their Data",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "A wearable sensor can be an asset to an athlete, mapping sleep, training routes, and even the atmosphere around a competition. Yet a team assignment should not include unlimited rights to assimilate private health data into a commercial atlas. The assumption that consent is automatic can become an assault on privacy, especially when a young athlete fears losing selection. Players should assert control through limited permissions, deletion rights, and written assurance that medical records will not be sold.",
+      "translation": "可穿戴传感器可以成为运动员的有用资产，记录睡眠、训练路线，甚至比赛环境。但球队任务不应包括把私人健康数据无限纳入商业图谱的权利。把同意视为理所当然可能构成对隐私的侵犯，尤其当年轻运动员担心落选时。运动员应通过有限授权、删除权和书面保证来掌握控制权，确保医疗记录不会被出售。",
+      "sentences": [
+        {
+          "en": "A wearable sensor can be an asset to an athlete, mapping sleep, training routes, and even the atmosphere around a competition.",
+          "zh": "可穿戴传感器可以成为运动员的有用资产，记录睡眠、训练路线，甚至比赛环境。"
+        },
+        {
+          "en": "Yet a team assignment should not include unlimited rights to assimilate private health data into a commercial atlas.",
+          "zh": "但球队任务不应包括把私人健康数据无限纳入商业图谱的权利。"
+        },
+        {
+          "en": "The assumption that consent is automatic can become an assault on privacy, especially when a young athlete fears losing selection.",
+          "zh": "把同意视为理所当然可能构成对隐私的侵犯，尤其当年轻运动员担心落选时。"
+        },
+        {
+          "en": "Players should assert control through limited permissions, deletion rights, and written assurance that medical records will not be sold.",
+          "zh": "运动员应通过有限授权、删除权和书面保证来掌握控制权，确保医疗记录不会被出售。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "assault",
+          "meaning": "n./vt. 袭击,攻击"
+        },
+        {
+          "word": "assert",
+          "meaning": "vt. 维护;宣称"
+        },
+        {
+          "word": "asset",
+          "meaning": "n.资产, 有用的东西。"
+        },
+        {
+          "word": "assignment",
+          "meaning": "n. 分配,指派;(指定的)作业,(分派的)任务"
+        },
+        {
+          "word": "assimilate",
+          "meaning": "v.吸收。"
+        },
+        {
+          "word": "assumption",
+          "meaning": "n. 假定,设想;采取;承担;推测;假装"
+        },
+        {
+          "word": "assurance",
+          "meaning": "n. 保证,担保;确信,断言;信心,信念"
+        },
+        {
+          "word": "athlete",
+          "meaning": "n. 体育家,运动员"
+        },
+        {
+          "word": "atlas",
+          "meaning": "n. 地图册,图表集"
+        },
+        {
+          "word": "atmosphere",
+          "meaning": "n. 大气(层);空气;气氛,环境;大气压"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What can wearable sensors record?",
+          "answer": "Sleep, routes, health, and environmental data.",
+          "explanation": "设备可记录睡眠、路线、健康和环境数据。"
+        },
+        {
+          "prompt": "What protections should athletes receive?",
+          "answer": "Limited permissions, deletion rights, and no data sales.",
+          "explanation": "运动员应有有限授权、删除权和禁止数据出售的保障。"
+        }
+      ]
+    }
+  ]
+}

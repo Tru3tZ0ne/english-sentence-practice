@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 28,
+  "articles": [
+    {
+      "id": "cet4-reading-d028-1",
+      "title": "A Proposal in the Rain",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "On a rainy evening, an elderly tailor climbed to the eighth floor to present a proposal for repairing the community hall. Several residents began to yawn, but he had to admit that his dear old building needed more than fresh curtains or paint. He asked every tenant to participate by listing one skill, from wiring to budgeting, that could serve their mutual goal. The room became lively as people discovered that shared work could make the plan affordable and keep the hall open.",
+      "translation": "一个雨夜，一位年长裁缝爬到八楼，提出修缮社区礼堂的建议。几位居民开始打哈欠，但他承认，这座珍爱的老建筑需要的不只是新窗帘或油漆。他请每位住户参与，列出一项能服务共同目标的技能，从布线到预算都可以。大家发现共同劳动能让方案负担得起并保住礼堂，房间里顿时活跃起来。",
+      "sentences": [
+        {
+          "en": "On a rainy evening, an elderly tailor climbed to the eighth floor to present a proposal for repairing the community hall.",
+          "zh": "一个雨夜，一位年长裁缝爬到八楼，提出修缮社区礼堂的建议。"
+        },
+        {
+          "en": "Several residents began to yawn, but he had to admit that his dear old building needed more than fresh curtains or paint.",
+          "zh": "几位居民开始打哈欠，但他承认，这座珍爱的老建筑需要的不只是新窗帘或油漆。"
+        },
+        {
+          "en": "He asked every tenant to participate by listing one skill, from wiring to budgeting, that could serve their mutual goal.",
+          "zh": "他请每位住户参与，列出一项能服务共同目标的技能，从布线到预算都可以。"
+        },
+        {
+          "en": "The room became lively as people discovered that shared work could make the plan affordable and keep the hall open.",
+          "zh": "大家发现共同劳动能让方案负担得起并保住礼堂，房间里顿时活跃起来。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "tailor",
+          "meaning": "n. 裁缝v. 缝制,剪裁"
+        },
+        {
+          "word": "yawn",
+          "meaning": "vi. 打呵欠,张开"
+        },
+        {
+          "word": "admit",
+          "meaning": "vt. 承认,供认;准许...进入,准许...加入"
+        },
+        {
+          "word": "proposal",
+          "meaning": "n. 提议,建议;求婚"
+        },
+        {
+          "word": "eighth",
+          "meaning": "num.第八 n.八分之一"
+        },
+        {
+          "word": "dear",
+          "meaning": "a. 昂贵的;亲爱的;珍贵的int. 呵!哎呀!"
+        },
+        {
+          "word": "participate",
+          "meaning": "vi. 参与;分享"
+        },
+        {
+          "word": "or",
+          "meaning": "conj. 或,或者(表示选择);即,大约;否则"
+        },
+        {
+          "word": "rainy",
+          "meaning": "a.下雨的,多雨的"
+        },
+        {
+          "word": "mutual",
+          "meaning": "a. 彼此的;共同的"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why did the tailor visit the eighth floor?",
+          "answer": "To present a repair proposal.",
+          "explanation": "他去八楼提出修缮方案。"
+        },
+        {
+          "prompt": "How could tenants participate?",
+          "answer": "By contributing a useful skill.",
+          "explanation": "住户可以贡献一项有用技能。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d028-2",
+      "title": "What Organic Farming Changes",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "An organic farm keeps an extensive record of soil, insects, weather, and each cup of water used on a test plot. Drip irrigation keeps roots moist while leaving leaves apart from wet soil, where a beetle's claw may carry disease. A solar generator can power pumps, but farmers must adapt planting dates before they expect a substantial change in yield. Afterward, several seasons of records show whether the new system improved soil rather than merely changing a label.",
+      "translation": "有机农场会详细记录土壤、昆虫、天气以及试验田使用的每一杯水。滴灌保持根部湿润，同时让叶片远离湿土，因为甲虫的爪可能传播病害。太阳能发电机可以为水泵供电，但农民必须调整播种日期，之后才能期待产量显著变化。随后，数个季节的记录会显示新体系是否真正改善土壤，而不只是换了标签。",
+      "sentences": [
+        {
+          "en": "An organic farm keeps an extensive record of soil, insects, weather, and each cup of water used on a test plot.",
+          "zh": "有机农场会详细记录土壤、昆虫、天气以及试验田使用的每一杯水。"
+        },
+        {
+          "en": "Drip irrigation keeps roots moist while leaving leaves apart from wet soil, where a beetle's claw may carry disease.",
+          "zh": "滴灌保持根部湿润，同时让叶片远离湿土，因为甲虫的爪可能传播病害。"
+        },
+        {
+          "en": "A solar generator can power pumps, but farmers must adapt planting dates before they expect a substantial change in yield.",
+          "zh": "太阳能发电机可以为水泵供电，但农民必须调整播种日期，之后才能期待产量显著变化。"
+        },
+        {
+          "en": "Afterward, several seasons of records show whether the new system improved soil rather than merely changing a label.",
+          "zh": "随后，数个季节的记录会显示新体系是否真正改善土壤，而不只是换了标签。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "extensive",
+          "meaning": "a. 广大的,广阔的"
+        },
+        {
+          "word": "record",
+          "meaning": "n. 记录;最高记录;履历;唱片v. 记录;录音"
+        },
+        {
+          "word": "adapt",
+          "meaning": "vt. 使适应;改编"
+        },
+        {
+          "word": "apart",
+          "meaning": "ad. 分离,离开,隔开a. 分离的,分隔的"
+        },
+        {
+          "word": "cup",
+          "meaning": "n. 杯子;奖杯,优胜杯;(一)杯,一杯的容量"
+        },
+        {
+          "word": "claw",
+          "meaning": "n. 爪,脚爪"
+        },
+        {
+          "word": "drip",
+          "meaning": "v. 滴下,漏水n. 滴,水滴,点滴"
+        },
+        {
+          "word": "generator",
+          "meaning": "n. 发电机,发生器"
+        },
+        {
+          "word": "substantial",
+          "meaning": "a. 可观的,大量的;牢固的,结实的;实质的,真实的"
+        },
+        {
+          "word": "afterward",
+          "meaning": "ad.后来,以后"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are leaves kept away from wet soil?",
+          "answer": "To reduce the spread of disease.",
+          "explanation": "这样可以减少病害传播。"
+        },
+        {
+          "prompt": "How can farmers judge the system?",
+          "answer": "By comparing records across several seasons.",
+          "explanation": "农民可比较多个季节的记录来判断。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d028-3",
+      "title": "Villages Need Reliable Local Power",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "A rural clinic should not depend on being lucky enough to have a clear day whenever it must charge a medical vehicle. Solar panels can provide clean power, while an organic fuel system may help during cloudy weeks, but both require storage and repair skills. Communities should investigate ownership openly; a generator must not become a political conquest claimed by a communist group or any other party. Local committees can stir debate, test costs, and choose a mixed system that keeps essential services running.",
+      "translation": "乡村诊所不应依赖好运，不能只有晴天才能给医疗车辆充电。太阳能板可以提供清洁电力，有机燃料系统则可在多云数周时帮忙，但两者都需要储能和维修技能。社区应公开调查所有权；发电机不应成为某个共产党组织或任何其他政党争夺的政治战利品。地方委员会可以推动讨论、检验成本，并选择保障基本服务运转的混合系统。",
+      "sentences": [
+        {
+          "en": "A rural clinic should not depend on being lucky enough to have a clear day whenever it must charge a medical vehicle.",
+          "zh": "乡村诊所不应依赖好运，不能只有晴天才能给医疗车辆充电。"
+        },
+        {
+          "en": "Solar panels can provide clean power, while an organic fuel system may help during cloudy weeks, but both require storage and repair skills.",
+          "zh": "太阳能板可以提供清洁电力，有机燃料系统则可在多云数周时帮忙，但两者都需要储能和维修技能。"
+        },
+        {
+          "en": "Communities should investigate ownership openly; a generator must not become a political conquest claimed by a communist group or any other party.",
+          "zh": "社区应公开调查所有权；发电机不应成为某个共产党组织或任何其他政党争夺的政治战利品。"
+        },
+        {
+          "en": "Local committees can stir debate, test costs, and choose a mixed system that keeps essential services running.",
+          "zh": "地方委员会可以推动讨论、检验成本，并选择保障基本服务运转的混合系统。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "organic",
+          "meaning": "a. 器官的;有机的;有机体的"
+        },
+        {
+          "word": "stir",
+          "meaning": "v. 搅拌,搅动;动,摇动;激动;轰动;煽动,鼓动"
+        },
+        {
+          "word": "conquest",
+          "meaning": "n. 征服,征服地,掠取物"
+        },
+        {
+          "word": "investigate",
+          "meaning": "vt. 调查,调查研究"
+        },
+        {
+          "word": "rural",
+          "meaning": "a. 农村的"
+        },
+        {
+          "word": "lucky",
+          "meaning": "a. 幸运的,侥幸的"
+        },
+        {
+          "word": "vehicle",
+          "meaning": "n. 车辆交通工具,思想媒介"
+        },
+        {
+          "word": "communist",
+          "meaning": "n.共产党员"
+        },
+        {
+          "word": "provide",
+          "meaning": "v. 供应,供给,准备,预防,规定"
+        },
+        {
+          "word": "cloudy",
+          "meaning": "a. 多云的,阴(天)的;混浊的,模糊的"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why is solar power alone sometimes insufficient?",
+          "answer": "Cloudy periods reduce its output.",
+          "explanation": "多云时期会降低太阳能产出。"
+        },
+        {
+          "prompt": "Who should decide how local power is owned?",
+          "answer": "The community through an open process.",
+          "explanation": "社区应通过公开程序决定所有权。"
+        }
+      ]
+    }
+  ]
+}

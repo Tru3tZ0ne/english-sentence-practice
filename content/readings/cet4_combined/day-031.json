@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 31,
+  "articles": [
+    {
+      "id": "cet4-reading-d031-1",
+      "title": "The Garden Above the Hospital",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "When a city hospital proposed a garden above its intermediate care floor, some officials called it an expensive possibility. A nurse about to retire argued that patients needed contact with the ground and seasons after months of collective loss. The devil was in the engineering details: soil weight, drainage, and safe access all required the hospital to invest carefully. It opened a year later, and families used the quiet space to talk beyond the sound of medical machines.",
+      "translation": "一家市医院提议在中级护理楼层上方建花园时，一些官员认为这只是昂贵的设想。一名即将退休的护士认为，在共同经历数月失落后，患者需要接触土地和四季。难点藏在工程细节中：土壤重量、排水和安全通行都要求医院谨慎投资。一年后花园开放，家属们在这片安静空间里交谈，暂时远离医疗机器的声音。",
+      "sentences": [
+        {
+          "en": "When a city hospital proposed a garden above its intermediate care floor, some officials called it an expensive possibility.",
+          "zh": "一家市医院提议在中级护理楼层上方建花园时，一些官员认为这只是昂贵的设想。"
+        },
+        {
+          "en": "A nurse about to retire argued that patients needed contact with the ground and seasons after months of collective loss.",
+          "zh": "一名即将退休的护士认为，在共同经历数月失落后，患者需要接触土地和四季。"
+        },
+        {
+          "en": "The devil was in the engineering details: soil weight, drainage, and safe access all required the hospital to invest carefully.",
+          "zh": "难点藏在工程细节中：土壤重量、排水和安全通行都要求医院谨慎投资。"
+        },
+        {
+          "en": "It opened a year later, and families used the quiet space to talk beyond the sound of medical machines.",
+          "zh": "一年后花园开放，家属们在这片安静空间里交谈，暂时远离医疗机器的声音。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "ground",
+          "meaning": "n. 地,地面,土地;场地,场所;理由,根据"
+        },
+        {
+          "word": "it",
+          "meaning": "pron. 它;[作无人称动词的主语"
+        },
+        {
+          "word": "devil",
+          "meaning": "n. 魔鬼"
+        },
+        {
+          "word": "collective",
+          "meaning": "n. 集体a. 集体的,共同的"
+        },
+        {
+          "word": "loss",
+          "meaning": "n. 丧失,遗失;损失,损耗,亏损;失败"
+        },
+        {
+          "word": "invest",
+          "meaning": "v. 投资,购买;授予"
+        },
+        {
+          "word": "possibility",
+          "meaning": "n. 可能,可能性;可能的事,希望"
+        },
+        {
+          "word": "retire",
+          "meaning": "v. 退休,引退;退却,撤退;就寝"
+        },
+        {
+          "word": "hospital",
+          "meaning": "n. 医院"
+        },
+        {
+          "word": "intermediate",
+          "meaning": "a./n. 中间的,中间物"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Who first defended the garden idea?",
+          "answer": "A nurse who was about to retire.",
+          "explanation": "一名即将退休的护士支持这个想法。"
+        },
+        {
+          "prompt": "What engineering issues had to be solved?",
+          "answer": "Soil weight, drainage, and safe access.",
+          "explanation": "需要解决土壤重量、排水和安全通行问题。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d031-2",
+      "title": "How Crystals Take Shape",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "A crystal grows when a large number of atoms join a repeating pattern instead of settling with complete freedom. Temperature and concentration guide the pattern; frequent disturbance can block growth or produce many small forms. In a firm research headquarters, scientists change one condition at a time because everything from dust to vibration may affect the result. They conclude that structure matters only after images and measurements agree across repeated experiments.",
+      "translation": "大量原子按重复图案结合，而不是完全自由地排列时，晶体就会生长。温度与浓度引导这种图案；频繁扰动会阻碍生长，或形成许多小晶体。在严谨的研究总部，科学家一次只改变一个条件，因为从灰尘到振动的一切都可能影响结果。只有图像与测量在重复实验中一致时，他们才得出结构规律的结论。",
+      "sentences": [
+        {
+          "en": "A crystal grows when a large number of atoms join a repeating pattern instead of settling with complete freedom.",
+          "zh": "大量原子按重复图案结合，而不是完全自由地排列时，晶体就会生长。"
+        },
+        {
+          "en": "Temperature and concentration guide the pattern; frequent disturbance can block growth or produce many small forms.",
+          "zh": "温度与浓度引导这种图案；频繁扰动会阻碍生长，或形成许多小晶体。"
+        },
+        {
+          "en": "In a firm research headquarters, scientists change one condition at a time because everything from dust to vibration may affect the result.",
+          "zh": "在严谨的研究总部，科学家一次只改变一个条件，因为从灰尘到振动的一切都可能影响结果。"
+        },
+        {
+          "en": "They conclude that structure matters only after images and measurements agree across repeated experiments.",
+          "zh": "只有图像与测量在重复实验中一致时，他们才得出结构规律的结论。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "block",
+          "meaning": "n. 大块木料,街区,事物的聚集,障碍物 vt. 阻碍,破坏"
+        },
+        {
+          "word": "crystal",
+          "meaning": "n. 水晶,水晶饰品,质量最好的玻璃器皿,结晶体"
+        },
+        {
+          "word": "firm",
+          "meaning": "a. 坚固的;坚决的,坚定的n. 公司,商号"
+        },
+        {
+          "word": "guide",
+          "meaning": "n. 领路人;指南,导游v. 领路;指导;支配;管理"
+        },
+        {
+          "word": "headquarters",
+          "meaning": "n. 司令部,指挥部;总部,总局"
+        },
+        {
+          "word": "everything",
+          "meaning": "pron. 每件事,一切;最重要的东西"
+        },
+        {
+          "word": "conclude",
+          "meaning": "v. 结束,终止;断定,下结论;缔结,议定"
+        },
+        {
+          "word": "number",
+          "meaning": "n. 数,数字,数量,号码,一群v. 共计,编号"
+        },
+        {
+          "word": "frequent",
+          "meaning": "a. 时常发生的,频繁的v. 常到, 时常出入于, 常去"
+        },
+        {
+          "word": "freedom",
+          "meaning": "n. 自由,自主,免除,特权"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What guides a crystal's pattern?",
+          "answer": "Temperature and concentration.",
+          "explanation": "温度和浓度引导晶体图案。"
+        },
+        {
+          "prompt": "Why do scientists change one condition at a time?",
+          "answer": "Many factors can affect growth.",
+          "explanation": "因为许多因素都会影响晶体生长。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d031-3",
+      "title": "Retirement Should Include Real Choice",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "An impressive retirement village may advertise a perfect lodge, regular concerts, and comfortable rooms to anyone over fifty. Yet each candidate should ask whether the place can fit changing health needs and whether family may stay overnight. Good performance figures mean little if they exclude residents who left for care elsewhere or if every service except basic comfort costs extra. Older people deserve clear contracts and the freedom to compare ownership, rental, and community options before deciding.",
+      "translation": "一座亮眼的退休社区可能向五十岁以上的人宣传完美小屋、定期音乐会和舒适房间。但每位申请者都应询问这里能否适应不断变化的健康需求，以及家人能否留宿。如果数据排除了去别处接受护理的住户，或除基本舒适外每项服务都额外收费，再好的业绩数字也意义有限。老年人在决定前应获得清楚合同，并能自由比较产权、租赁与社区等选择。",
+      "sentences": [
+        {
+          "en": "An impressive retirement village may advertise a perfect lodge, regular concerts, and comfortable rooms to anyone over fifty.",
+          "zh": "一座亮眼的退休社区可能向五十岁以上的人宣传完美小屋、定期音乐会和舒适房间。"
+        },
+        {
+          "en": "Yet each candidate should ask whether the place can fit changing health needs and whether family may stay overnight.",
+          "zh": "但每位申请者都应询问这里能否适应不断变化的健康需求，以及家人能否留宿。"
+        },
+        {
+          "en": "Good performance figures mean little if they exclude residents who left for care elsewhere or if every service except basic comfort costs extra.",
+          "zh": "如果数据排除了去别处接受护理的住户，或除基本舒适外每项服务都额外收费，再好的业绩数字也意义有限。"
+        },
+        {
+          "en": "Older people deserve clear contracts and the freedom to compare ownership, rental, and community options before deciding.",
+          "zh": "老年人在决定前应获得清楚合同，并能自由比较产权、租赁与社区等选择。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "impressive",
+          "meaning": "a. 给人深刻印象的,惊人的"
+        },
+        {
+          "word": "candidate",
+          "meaning": "n. 候选人,应试人"
+        },
+        {
+          "word": "performance",
+          "meaning": "n. 演出,表演;履行,执行;工作情况,表现;(机器等)工作性能"
+        },
+        {
+          "word": "elsewhere",
+          "meaning": "ad. 在别处,向别处"
+        },
+        {
+          "word": "fifty",
+          "meaning": "num. 五十,五十个"
+        },
+        {
+          "word": "fit",
+          "meaning": "a. (病的)发作,痉挛v./a. n. 合适,试穿,安装"
+        },
+        {
+          "word": "except",
+          "meaning": "prep. 除...之外v. 除外;反对"
+        },
+        {
+          "word": "comfort",
+          "meaning": "n. 舒适,安逸;安慰,慰问v. 安慰,使舒适"
+        },
+        {
+          "word": "perfect",
+          "meaning": "a. 完善的;完全的;(语法)完成的v. 使完美"
+        },
+        {
+          "word": "lodge",
+          "meaning": "v. 临时住宿,寄宿,寄存,容纳n. 传达室,小旅馆"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should candidates ask about?",
+          "answer": "Changing care needs, family visits, and extra costs.",
+          "explanation": "申请者应询问护理变化、家属探访和额外收费。"
+        },
+        {
+          "prompt": "Why may performance figures mislead?",
+          "answer": "They may omit residents who left for care.",
+          "explanation": "数据可能漏掉已经离开接受护理的住户。"
+        }
+      ]
+    }
+  ]
+}

@@ -565,12 +565,21 @@ def main():
         payload = {"schema_version": 1, "collection_id": "cet4_context_readings", "wordlist_id": "cet4_combined", "day": day, "articles": articles}
         (OUT_DIR / f"day-{day:03}.json").write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
-    days = [{"day": day, "file": f"day-{day:03}.json", "count": 3} for day in sorted(DATA)]
-    index = {"schema_version": 1, "id": "cet4_context_readings", "wordlist_id": "cet4_combined", "title": "四级词汇语境阅读", "description": "与单词库 Day 对应；每个 Day 包含故事、说明文和观点文各一篇，并支持逐句显示中文。", "tags": ["四级", "语境阅读", "逐句翻译"], "article_count": len(days) * 3, "day_count": len(days), "days": days}
+    day_files = sorted(OUT_DIR.glob("day-*.json"))
+    day_numbers = [int(path.stem.split("-")[1]) for path in day_files]
+    if day_numbers != list(range(1, len(day_files) + 1)):
+        raise ValueError(f"阅读文件必须从 Day 1 连续编号：{day_numbers}")
+    days = []
+    article_count = 0
+    for day, path in zip(day_numbers, day_files):
+        count = len(json.loads(path.read_text(encoding="utf-8")).get("articles", []))
+        days.append({"day": day, "file": path.name, "count": count})
+        article_count += count
+    index = {"schema_version": 1, "id": "cet4_context_readings", "wordlist_id": "cet4_combined", "title": "四级词汇语境阅读", "description": "与单词库 Day 对应；每个 Day 包含故事、说明文和观点文各一篇，并支持逐句显示中文。", "tags": ["四级", "语境阅读", "逐句翻译"], "article_count": article_count, "day_count": len(days), "days": days}
     (OUT_DIR / "index.json").write_text(json.dumps(index, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     manifest = {"schema_version": 1, "collections": [{"id": index["id"], "index": "cet4_combined/index.json"}]}
     (OUT_DIR.parent / "manifest.json").write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(f"Wrote {len(days)} days / {len(days) * 3} articles")
+    print(f"Wrote {len(DATA)} source days; index contains {len(days)} days / {article_count} articles")
 
 
 if __name__ == "__main__":

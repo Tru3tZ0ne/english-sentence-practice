@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 32,
+  "articles": [
+    {
+      "id": "cet4-reading-d032-1",
+      "title": "The Dragon Under the Plaster",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "An influential merchant paid workers to mend a cracked wall before the spring procession passed through the old district. The manual repair seemed routine until a rapid scrape of plaster revealed the painted eye of a dragon. For a fortnight, conservators worked in a light breeze, using photographs to draw the missing pattern without inventing detail. They finished just before the parade, and people slowed beneath the recovered mural instead of rushing past it.",
+      "translation": "一位有影响力的商人出资，让工人在春季游行经过老城区前修补开裂墙面。手工修复看似普通，直到快速刮去一层灰泥后露出一只彩绘龙眼。接下来的两周，修复师在微风中工作，借助照片勾画缺失图案，不凭空添加细节。他们恰在游行前完工，人们在恢复的壁画下放慢脚步，不再匆匆走过。",
+      "sentences": [
+        {
+          "en": "An influential merchant paid workers to mend a cracked wall before the spring procession passed through the old district.",
+          "zh": "一位有影响力的商人出资，让工人在春季游行经过老城区前修补开裂墙面。"
+        },
+        {
+          "en": "The manual repair seemed routine until a rapid scrape of plaster revealed the painted eye of a dragon.",
+          "zh": "手工修复看似普通，直到快速刮去一层灰泥后露出一只彩绘龙眼。"
+        },
+        {
+          "en": "For a fortnight, conservators worked in a light breeze, using photographs to draw the missing pattern without inventing detail.",
+          "zh": "接下来的两周，修复师在微风中工作，借助照片勾画缺失图案，不凭空添加细节。"
+        },
+        {
+          "en": "They finished just before the parade, and people slowed beneath the recovered mural instead of rushing past it.",
+          "zh": "他们恰在游行前完工，人们在恢复的壁画下放慢脚步，不再匆匆走过。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "influential",
+          "meaning": "a. 有影响的;有权势的"
+        },
+        {
+          "word": "mend",
+          "meaning": "v. 修理,缝补;改正,改进"
+        },
+        {
+          "word": "fortnight",
+          "meaning": "n. 两星期"
+        },
+        {
+          "word": "just",
+          "meaning": "ad. 正好地;刚才;只不过a. 公正的,公平的"
+        },
+        {
+          "word": "procession",
+          "meaning": "n. 队伍,行列"
+        },
+        {
+          "word": "manual",
+          "meaning": "a. 手工的,用手的;n. 手册;便览"
+        },
+        {
+          "word": "rapid",
+          "meaning": "a. 快,急速的n. (pl.)急流,湍滩"
+        },
+        {
+          "word": "draw",
+          "meaning": "v. 拉;画;汲取;引出;(to)挨近n. 平局;拖曳"
+        },
+        {
+          "word": "dragon",
+          "meaning": "n. 龙"
+        },
+        {
+          "word": "breeze",
+          "meaning": "n. 微风"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did workers discover?",
+          "answer": "A painted dragon beneath the plaster.",
+          "explanation": "工人在灰泥下发现了一条彩绘龙。"
+        },
+        {
+          "prompt": "How did conservators avoid inventing details?",
+          "answer": "They used photographs as evidence.",
+          "explanation": "他们用照片作为依据。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d032-2",
+      "title": "How Emergency Networks Recover",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "An emergency network can attach a temporary antenna to a vehicle and furnish power from a portable battery. Teams first explore which towers remain possible to use, taking care not to disturb damaged structures or innocent residents nearby. A simple card may remind volunteers to carry an overcoat, spare cable, water, and the phone number of a relative such as a niece. Recovery becomes faster when equipment, people, and messages have several routes rather than one fragile centre.",
+      "translation": "应急网络可以把临时天线装到车辆上，并由便携电池供电。团队先探查哪些通信塔还能使用，同时注意不扰动受损结构，也不打扰附近无辜居民。一张简单卡片可以提醒志愿者携带大衣、备用电缆、水，以及侄女等亲属的电话号码。设备、人员与消息拥有多条路线而非一个脆弱中心时，恢复会更快。",
+      "sentences": [
+        {
+          "en": "An emergency network can attach a temporary antenna to a vehicle and furnish power from a portable battery.",
+          "zh": "应急网络可以把临时天线装到车辆上，并由便携电池供电。"
+        },
+        {
+          "en": "Teams first explore which towers remain possible to use, taking care not to disturb damaged structures or innocent residents nearby.",
+          "zh": "团队先探查哪些通信塔还能使用，同时注意不扰动受损结构，也不打扰附近无辜居民。"
+        },
+        {
+          "en": "A simple card may remind volunteers to carry an overcoat, spare cable, water, and the phone number of a relative such as a niece.",
+          "zh": "一张简单卡片可以提醒志愿者携带大衣、备用电缆、水，以及侄女等亲属的电话号码。"
+        },
+        {
+          "en": "Recovery becomes faster when equipment, people, and messages have several routes rather than one fragile centre.",
+          "zh": "设备、人员与消息拥有多条路线而非一个脆弱中心时，恢复会更快。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "remind",
+          "meaning": "vt. 提醒"
+        },
+        {
+          "word": "furnish",
+          "meaning": "vt. 用家具装备房子;供应"
+        },
+        {
+          "word": "niece",
+          "meaning": "n. 侄女,甥女"
+        },
+        {
+          "word": "explore",
+          "meaning": "vt. 考察,勘察;探索"
+        },
+        {
+          "word": "attach",
+          "meaning": "v. 系上,附上;依恋;认为"
+        },
+        {
+          "word": "possible",
+          "meaning": "a. 可能的,做得到的;合理的;可允许的"
+        },
+        {
+          "word": "overcoat",
+          "meaning": "n. 外衣,大衣"
+        },
+        {
+          "word": "disturb",
+          "meaning": "vt. 打扰,扰乱"
+        },
+        {
+          "word": "recovery",
+          "meaning": "n. 痊愈,复元;重获,恢复"
+        },
+        {
+          "word": "innocent",
+          "meaning": "a. 无罪的;无害的;天真的,无知的;n. 天真无邪的人"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What can power a temporary antenna?",
+          "answer": "A portable battery.",
+          "explanation": "便携电池可以为临时天线供电。"
+        },
+        {
+          "prompt": "Why should networks have several routes?",
+          "answer": "One route may fail in an emergency.",
+          "explanation": "紧急情况下单一路线可能失效。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d032-3",
+      "title": "Historic Streets Can Serve Daily Life",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "Preserving a historic street becomes hard when officials relate every broken window to crime and every repair to tourism. Fortunately, a neighborhood is not a museum: a cousin may visit, children need leisure space, and residents carry extra shopping home. A gap between heritage rules and daily needs can decide the fate of a building by making ordinary maintenance impossible. Public faith grows when grants support safe wiring, accessible doors, and homes that remain affordable to the people who care for them.",
+      "translation": "当官员把每扇破窗都与犯罪联系、把每次维修都与旅游挂钩时，保护历史街道就变得困难。幸运的是，社区不是博物馆：表亲会来访，孩子需要休闲空间，居民还要把额外采购带回家。遗产规定与日常需要之间的差距可能让普通维护无法进行，从而决定建筑命运。当补助支持安全布线、无障碍入口，以及让照料建筑的人仍负担得起住房时，公众信任才会增长。",
+      "sentences": [
+        {
+          "en": "Preserving a historic street becomes hard when officials relate every broken window to crime and every repair to tourism.",
+          "zh": "当官员把每扇破窗都与犯罪联系、把每次维修都与旅游挂钩时，保护历史街道就变得困难。"
+        },
+        {
+          "en": "Fortunately, a neighborhood is not a museum: a cousin may visit, children need leisure space, and residents carry extra shopping home.",
+          "zh": "幸运的是，社区不是博物馆：表亲会来访，孩子需要休闲空间，居民还要把额外采购带回家。"
+        },
+        {
+          "en": "A gap between heritage rules and daily needs can decide the fate of a building by making ordinary maintenance impossible.",
+          "zh": "遗产规定与日常需要之间的差距可能让普通维护无法进行，从而决定建筑命运。"
+        },
+        {
+          "en": "Public faith grows when grants support safe wiring, accessible doors, and homes that remain affordable to the people who care for them.",
+          "zh": "当补助支持安全布线、无障碍入口，以及让照料建筑的人仍负担得起住房时，公众信任才会增长。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "crime",
+          "meaning": "n. 罪行,犯罪"
+        },
+        {
+          "word": "fortunately",
+          "meaning": "ad.幸运地,幸亏"
+        },
+        {
+          "word": "cousin",
+          "meaning": "n.堂(或表)兄弟姐妹"
+        },
+        {
+          "word": "leisure",
+          "meaning": "n. 空闲,闲暇;悠闲,安逸"
+        },
+        {
+          "word": "hard",
+          "meaning": "a. 坚硬的;结实的;困难的;难忍的;严厉的"
+        },
+        {
+          "word": "extra",
+          "meaning": "a./ad./n. 额外的(地),非常,另外,额外的人"
+        },
+        {
+          "word": "gap",
+          "meaning": "n. 缺口;差距;空白;缺乏"
+        },
+        {
+          "word": "relate",
+          "meaning": "v. 叙述,讲述;使互相关联"
+        },
+        {
+          "word": "fate",
+          "meaning": "n. 命运"
+        },
+        {
+          "word": "faith",
+          "meaning": "n. 信任,信仰"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why is a neighborhood unlike a museum?",
+          "answer": "People must live ordinary daily lives there.",
+          "explanation": "社区居民还要在那里过日常生活。"
+        },
+        {
+          "prompt": "What kinds of repairs should grants support?",
+          "answer": "Safe, accessible, affordable improvements.",
+          "explanation": "补助应支持安全、无障碍且可负担的改造。"
+        }
+      ]
+    }
+  ]
+}

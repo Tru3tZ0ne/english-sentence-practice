@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 24,
+  "articles": [
+    {
+      "id": "cet4-reading-d024-1",
+      "title": "The Violin Case in the Mirror",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "After a popular harbor concert, Niko noticed in a café mirror that his violin case was missing from the chair behind him. He was upset and feared that bad luck had followed him from the stage, where a spilled beer had already stained his coat. A waiter was willing to check the gross receipts and camera record while sailors from a nearby fleet searched the pavement. They found the case under a delivery cart, moved there by staff who had cleared the crowded doorway.",
+      "translation": "一场受欢迎的港口音乐会结束后，尼科从咖啡馆的镜子里发现身后的椅子上少了小提琴盒。他很不安，担心坏运气从舞台一路跟来；此前洒出的啤酒已经弄脏了他的外套。一名服务员愿意查看总收入记录和监控，附近舰队的水手则在路面寻找。他们在送货车下找到了琴盒；工作人员清理拥挤门口时把它移到了那里。",
+      "sentences": [
+        {
+          "en": "After a popular harbor concert, Niko noticed in a café mirror that his violin case was missing from the chair behind him.",
+          "zh": "一场受欢迎的港口音乐会结束后，尼科从咖啡馆的镜子里发现身后的椅子上少了小提琴盒。"
+        },
+        {
+          "en": "He was upset and feared that bad luck had followed him from the stage, where a spilled beer had already stained his coat.",
+          "zh": "他很不安，担心坏运气从舞台一路跟来；此前洒出的啤酒已经弄脏了他的外套。"
+        },
+        {
+          "en": "A waiter was willing to check the gross receipts and camera record while sailors from a nearby fleet searched the pavement.",
+          "zh": "一名服务员愿意查看总收入记录和监控，附近舰队的水手则在路面寻找。"
+        },
+        {
+          "en": "They found the case under a delivery cart, moved there by staff who had cleared the crowded doorway.",
+          "zh": "他们在送货车下找到了琴盒；工作人员清理拥挤门口时把它移到了那里。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "mirror",
+          "meaning": "n. 镜子;反映,反射v. 反映,反射"
+        },
+        {
+          "word": "beer",
+          "meaning": "n. 啤酒"
+        },
+        {
+          "word": "willing",
+          "meaning": "a. 愿意的,乐意的,心甘情愿的"
+        },
+        {
+          "word": "popular",
+          "meaning": "a. 流行的,通俗的,大众的;广受欢迎的"
+        },
+        {
+          "word": "luck",
+          "meaning": "n. 运气;好运,侥幸"
+        },
+        {
+          "word": "missing",
+          "meaning": "a. 漏掉的,失去的,失踪的"
+        },
+        {
+          "word": "upset",
+          "meaning": "v. 使...心烦意乱;打翻,推翻a. 难过的;不安的"
+        },
+        {
+          "word": "concert",
+          "meaning": "n. 音乐会,演奏会;一齐,一致"
+        },
+        {
+          "word": "gross",
+          "meaning": "a. 粗俗的;显著的;(草木)茂密的;(人)过胖的; 总的;毛的;vt. 计得(毛收入)"
+        },
+        {
+          "word": "fleet",
+          "meaning": "n. 舰队,船队"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "How did Niko notice the missing case?",
+          "answer": "He saw the empty chair in a mirror.",
+          "explanation": "他从镜子中看到椅子空了。"
+        },
+        {
+          "prompt": "Where was the violin case found?",
+          "answer": "Under a delivery cart.",
+          "explanation": "琴盒在送货车下面被找到。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d024-2",
+      "title": "Reading a Volcano's Small Movements",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "A volcano gives scientists an opportunity to study how pressure changes beneath the ground long before an eruption. A professional team measures each small movement and examines mineral deposit patterns that may reveal a weakness in the rock. Gas output can accelerate suddenly; temperature may likewise rise, yet no single signal provides a desirable estimate on its own. Officials must resist the urge to announce certainty and instead compare several instruments across time.",
+      "translation": "火山让科学家有机会研究喷发前很久地下压力如何变化。专业团队测量每一次微小移动，并检查可能显示岩石薄弱处的矿物沉积形态。气体排放可能突然加速，温度也可能同样升高，但任何单一信号都不能独立给出理想估计。官员必须克制宣布确定结论的冲动，而应比较多种仪器在一段时间内的数据。",
+      "sentences": [
+        {
+          "en": "A volcano gives scientists an opportunity to study how pressure changes beneath the ground long before an eruption.",
+          "zh": "火山让科学家有机会研究喷发前很久地下压力如何变化。"
+        },
+        {
+          "en": "A professional team measures each small movement and examines mineral deposit patterns that may reveal a weakness in the rock.",
+          "zh": "专业团队测量每一次微小移动，并检查可能显示岩石薄弱处的矿物沉积形态。"
+        },
+        {
+          "en": "Gas output can accelerate suddenly; temperature may likewise rise, yet no single signal provides a desirable estimate on its own.",
+          "zh": "气体排放可能突然加速，温度也可能同样升高，但任何单一信号都不能独立给出理想估计。"
+        },
+        {
+          "en": "Officials must resist the urge to announce certainty and instead compare several instruments across time.",
+          "zh": "官员必须克制宣布确定结论的冲动，而应比较多种仪器在一段时间内的数据。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "opportunity",
+          "meaning": "n. 机会"
+        },
+        {
+          "word": "weakness",
+          "meaning": "n.虚弱,软弱;弱点"
+        },
+        {
+          "word": "desirable",
+          "meaning": "a. 值得弄到手的,吸引人的"
+        },
+        {
+          "word": "urge",
+          "meaning": "vt. 催促;怂恿;强调n. 强烈欲望,迫切要求"
+        },
+        {
+          "word": "likewise",
+          "meaning": "ad. 同样地,也"
+        },
+        {
+          "word": "professional",
+          "meaning": "a. 职业的 n. 专业人员"
+        },
+        {
+          "word": "deposit",
+          "meaning": "n./vt. 存款;定金;沉淀,沉积"
+        },
+        {
+          "word": "movement",
+          "meaning": "n. 运动,活动;移动,迁移"
+        },
+        {
+          "word": "accelerate",
+          "meaning": "v. 加速,变快"
+        },
+        {
+          "word": "estimate",
+          "meaning": "n. 估计,估价 v. 评价,估量"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What can mineral deposits reveal?",
+          "answer": "A weakness in the rock.",
+          "explanation": "矿物沉积可以显示岩石薄弱处。"
+        },
+        {
+          "prompt": "Why should several instruments be compared?",
+          "answer": "No single signal gives a reliable estimate.",
+          "explanation": "单一信号无法给出可靠估计。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d024-3",
+      "title": "A Film Title Should Tell the Truth",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "A movie title could tempt a large audience with the word volcano even when the story is mainly about one brother running a hotel with his sibling. Marketing teams may erect dramatic posters near every exit and treat accurate pronunciation of a foreign place name as optional. Such promotion can gather attention quickly, but disappointed viewers will remember the gap between the promise and the film. Creative titles are welcome when they express the movie's central conflict instead of borrowing danger that never appears.",
+      "translation": "即使故事主要讲兄弟俩经营旅馆，电影标题也可能用“火山”一词吸引大量观众。营销团队可能在每个出口附近竖起夸张海报，并把外国地名的准确发音当成可有可无。这种宣传能迅速聚集关注，但失望的观众会记住承诺与影片之间的差距。只要标题表达电影的核心冲突，而不是借用从未出现的危险，创意标题就值得欢迎。",
+      "sentences": [
+        {
+          "en": "A movie title could tempt a large audience with the word volcano even when the story is mainly about one brother running a hotel with his sibling.",
+          "zh": "即使故事主要讲兄弟俩经营旅馆，电影标题也可能用“火山”一词吸引大量观众。"
+        },
+        {
+          "en": "Marketing teams may erect dramatic posters near every exit and treat accurate pronunciation of a foreign place name as optional.",
+          "zh": "营销团队可能在每个出口附近竖起夸张海报，并把外国地名的准确发音当成可有可无。"
+        },
+        {
+          "en": "Such promotion can gather attention quickly, but disappointed viewers will remember the gap between the promise and the film.",
+          "zh": "这种宣传能迅速聚集关注，但失望的观众会记住承诺与影片之间的差距。"
+        },
+        {
+          "en": "Creative titles are welcome when they express the movie's central conflict instead of borrowing danger that never appears.",
+          "zh": "只要标题表达电影的核心冲突，而不是借用从未出现的危险，创意标题就值得欢迎。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "erect",
+          "meaning": "vt. 建立,使竖立;a. 直立的,竖直的"
+        },
+        {
+          "word": "optional",
+          "meaning": "a. 可以任选的,随意的,非强制的"
+        },
+        {
+          "word": "volcano",
+          "meaning": "n. 火山"
+        },
+        {
+          "word": "brother",
+          "meaning": "n. 兄弟;同胞;教友"
+        },
+        {
+          "word": "exit",
+          "meaning": "n. 出口,通道"
+        },
+        {
+          "word": "pronunciation",
+          "meaning": "n. 发音,发音方法"
+        },
+        {
+          "word": "movie",
+          "meaning": "n. 电影,电影院"
+        },
+        {
+          "word": "tempt",
+          "meaning": "v. 诱惑,引诱;吸引,使感兴趣"
+        },
+        {
+          "word": "could",
+          "meaning": "aux.v.(can的过去式)"
+        },
+        {
+          "word": "gather",
+          "meaning": "v. 聚集,聚拢;推测,推断"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why might viewers feel disappointed?",
+          "answer": "The title promises danger that the film does not show.",
+          "explanation": "标题承诺了影片中并未出现的危险。"
+        },
+        {
+          "prompt": "When does the writer support creative titles?",
+          "answer": "When they reflect the central conflict.",
+          "explanation": "当标题反映核心冲突时，作者支持创意表达。"
+        }
+      ]
+    }
+  ]
+}

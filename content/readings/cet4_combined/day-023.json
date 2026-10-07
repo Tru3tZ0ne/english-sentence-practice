@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 23,
+  "articles": [
+    {
+      "id": "cet4-reading-d023-1",
+      "title": "Eleven Calls from the Forest",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "A field manager at a remote forest site heard a blast and saw smoke weave between the pines just after sunset. The crew had limited equipment, but their map comprehension was vital because the nearest road curved around a steep ridge. They found that a discarded cigarette had ignited dry leaves near a storage box, something every worker had been taught to hate and prevent. After eleven radio calls, firefighters reached the site and stopped a small accident from becoming a regional disaster.",
+      "translation": "日落后不久，一处偏远森林地点的现场经理听到爆响，看见烟雾在松树间穿行。队员的设备有限，但读图能力至关重要，因为最近的道路绕过一条陡峭山脊。他们发现一支被丢弃的香烟点燃了储物箱附近的干叶；每个工人都受过训练，要厌恶并防止这种行为。经过十一次无线电联络，消防员到达现场，阻止了一场小事故演变成区域灾难。",
+      "sentences": [
+        {
+          "en": "A field manager at a remote forest site heard a blast and saw smoke weave between the pines just after sunset.",
+          "zh": "日落后不久，一处偏远森林地点的现场经理听到爆响，看见烟雾在松树间穿行。"
+        },
+        {
+          "en": "The crew had limited equipment, but their map comprehension was vital because the nearest road curved around a steep ridge.",
+          "zh": "队员的设备有限，但读图能力至关重要，因为最近的道路绕过一条陡峭山脊。"
+        },
+        {
+          "en": "They found that a discarded cigarette had ignited dry leaves near a storage box, something every worker had been taught to hate and prevent.",
+          "zh": "他们发现一支被丢弃的香烟点燃了储物箱附近的干叶；每个工人都受过训练，要厌恶并防止这种行为。"
+        },
+        {
+          "en": "After eleven radio calls, firefighters reached the site and stopped a small accident from becoming a regional disaster.",
+          "zh": "经过十一次无线电联络，消防员到达现场，阻止了一场小事故演变成区域灾难。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "comprehension",
+          "meaning": "n. 理解(力),领悟;包含,包含力"
+        },
+        {
+          "word": "blast",
+          "meaning": "n. 一阵;爆炸气浪;巨响; vt. (用炸药)炸,摧毁"
+        },
+        {
+          "word": "cigarette",
+          "meaning": "n. 香烟,纸烟,卷烟"
+        },
+        {
+          "word": "weave",
+          "meaning": "vt./vi. 织,编织;编排;迂回"
+        },
+        {
+          "word": "equipment",
+          "meaning": "n. 设备,器材,装置;才能"
+        },
+        {
+          "word": "manager",
+          "meaning": "n. 经理,管理人"
+        },
+        {
+          "word": "limited",
+          "meaning": "a. 有限的,被限制的"
+        },
+        {
+          "word": "vital",
+          "meaning": "a. 生命的;必需的;极其重要的"
+        },
+        {
+          "word": "site",
+          "meaning": "n. 位置 vt. 设置"
+        },
+        {
+          "word": "hate",
+          "meaning": "v. 恨,憎恨;不愿,不喜欢n. 恨,憎恶"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What started the fire?",
+          "answer": "A discarded cigarette.",
+          "explanation": "火灾由一支被丢弃的香烟引起。"
+        },
+        {
+          "prompt": "Why was map comprehension vital?",
+          "answer": "The access road curved around a ridge.",
+          "explanation": "进场道路绕过山脊，因此读图很重要。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d023-2",
+      "title": "Why Dosage Instructions Need Precision",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "A new medicine label must inform patients exactly how much liquid to take, because a line marking eleven millilitres is not the same as a full spoon. The stated volume should cover children and adults separately, with no assumption that body size follows a simple rule. Outside a hospital, clear wording matters as much as it does on a naval vessel or at an isolated forest station. An executive may approve the package, but pharmacists and patients should test whether ordinary readers can understand it under pressure.",
+      "translation": "新药标签必须准确告知患者服用多少液体，因为十一毫升的刻线不等于满满一勺。标明的剂量应分别涵盖儿童和成人，不能假定体型遵循简单规则。在医院之外，清楚的说明同样重要，无论是在军舰上还是偏远森林站。管理人员可以批准包装，但药师和患者应测试普通读者能否在压力下理解说明。",
+      "sentences": [
+        {
+          "en": "A new medicine label must inform patients exactly how much liquid to take, because a line marking eleven millilitres is not the same as a full spoon.",
+          "zh": "新药标签必须准确告知患者服用多少液体，因为十一毫升的刻线不等于满满一勺。"
+        },
+        {
+          "en": "The stated volume should cover children and adults separately, with no assumption that body size follows a simple rule.",
+          "zh": "标明的剂量应分别涵盖儿童和成人，不能假定体型遵循简单规则。"
+        },
+        {
+          "en": "Outside a hospital, clear wording matters as much as it does on a naval vessel or at an isolated forest station.",
+          "zh": "在医院之外，清楚的说明同样重要，无论是在军舰上还是偏远森林站。"
+        },
+        {
+          "en": "An executive may approve the package, but pharmacists and patients should test whether ordinary readers can understand it under pressure.",
+          "zh": "管理人员可以批准包装，但药师和患者应测试普通读者能否在压力下理解说明。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "new",
+          "meaning": "a. 新(近)的;新来的;不熟悉的;没经验的"
+        },
+        {
+          "word": "forest",
+          "meaning": "n. 森林"
+        },
+        {
+          "word": "executive",
+          "meaning": "n. 总经理,董事,行政负责人a. 执行的,实施的"
+        },
+        {
+          "word": "outside",
+          "meaning": "ad. 向外面n. 外部a. 外部的prep. 在...外"
+        },
+        {
+          "word": "eleven",
+          "meaning": "num. 十一pron./a. 十一(个,只...)"
+        },
+        {
+          "word": "no",
+          "meaning": "ad. 不是,不a. 没有的;不允许n. 不,拒绝"
+        },
+        {
+          "word": "inform",
+          "meaning": "v. (of,about)通知,告诉,报告;告发,告密"
+        },
+        {
+          "word": "volume",
+          "meaning": "n. 容积,体积;卷,册;音量"
+        },
+        {
+          "word": "cover",
+          "meaning": "v. 覆盖,包括,涉及n. 盖子,套子;(书的)封面"
+        },
+        {
+          "word": "naval",
+          "meaning": "a. 海军的,军舰的"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are children and adults listed separately?",
+          "answer": "Their safe doses may differ.",
+          "explanation": "儿童与成人的安全剂量可能不同。"
+        },
+        {
+          "prompt": "Who should test the wording?",
+          "answer": "Pharmacists and patients.",
+          "explanation": "药师和患者应参与测试说明文字。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d023-3",
+      "title": "Smoke-Free Entrances Are Reasonable",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "A gentle sign saying hello should invite visitors into a building, not force them through cigarette smoke beside the door. Smoke-free entrances should become a universal rule for schools, clinics, and even a neighborhood laundry. The policy is not a claim that smokers are wicked; it simply recognizes that others may lose clean air during the first forty steps of a visit. A marked smoking area will probably work better than punishment, and a review each May can reveal whether the arrangement remains fair.",
+      "translation": "写着“你好”的温和标牌应欢迎访客进入建筑，而不是迫使他们穿过门口的烟雾。无烟入口应成为学校、诊所乃至社区洗衣店的普遍规则。这项政策不是说吸烟者邪恶，而只是承认其他人可能在进门的前四十步失去清洁空气。划定吸烟区可能比惩罚更有效，每年五月进行审查则能看出安排是否仍然公平。",
+      "sentences": [
+        {
+          "en": "A gentle sign saying hello should invite visitors into a building, not force them through cigarette smoke beside the door.",
+          "zh": "写着“你好”的温和标牌应欢迎访客进入建筑，而不是迫使他们穿过门口的烟雾。"
+        },
+        {
+          "en": "Smoke-free entrances should become a universal rule for schools, clinics, and even a neighborhood laundry.",
+          "zh": "无烟入口应成为学校、诊所乃至社区洗衣店的普遍规则。"
+        },
+        {
+          "en": "The policy is not a claim that smokers are wicked; it simply recognizes that others may lose clean air during the first forty steps of a visit.",
+          "zh": "这项政策不是说吸烟者邪恶，而只是承认其他人可能在进门的前四十步失去清洁空气。"
+        },
+        {
+          "en": "A marked smoking area will probably work better than punishment, and a review each May can reveal whether the arrangement remains fair.",
+          "zh": "划定吸烟区可能比惩罚更有效，每年五月进行审查则能看出安排是否仍然公平。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "gentle",
+          "meaning": "a. 文雅的,有礼貌的"
+        },
+        {
+          "word": "hello",
+          "meaning": "int. 英(美)喂,你好(用来打招呼或引起注意)"
+        },
+        {
+          "word": "invite",
+          "meaning": "vt. 邀请,招待"
+        },
+        {
+          "word": "laundry",
+          "meaning": "n. 洗衣店,要洗的衣物"
+        },
+        {
+          "word": "wicked",
+          "meaning": "a. 坏的;邪恶的"
+        },
+        {
+          "word": "lose",
+          "meaning": "v. 丢失,迷路,输掉,亏本,失败,走慢,使沉湎于"
+        },
+        {
+          "word": "universal",
+          "meaning": "a. 普遍的,全体的,全球的"
+        },
+        {
+          "word": "probably",
+          "meaning": "ad.或许,大概"
+        },
+        {
+          "word": "forty",
+          "meaning": "num./a. 四十pron. 四十(个,只...)"
+        },
+        {
+          "word": "May",
+          "meaning": "aux./v. 可能,也许;可以,被允许;祝,愿"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What places should have smoke-free entrances?",
+          "answer": "Schools, clinics, laundries, and other public buildings.",
+          "explanation": "学校、诊所、洗衣店等公共建筑都应设无烟入口。"
+        },
+        {
+          "prompt": "What alternative to punishment does the writer suggest?",
+          "answer": "A clearly marked smoking area.",
+          "explanation": "作者建议设置标识清楚的吸烟区。"
+        }
+      ]
+    }
+  ]
+}

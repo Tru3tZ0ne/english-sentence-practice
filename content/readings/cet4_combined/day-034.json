@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 34,
+  "articles": [
+    {
+      "id": "cet4-reading-d034-1",
+      "title": "The Physicist and the Broken Fountain",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "A retired physicist visited a temple nursery each week because his love of teaching led him to help children question ordinary objects. When the courtyard fountain failed, the children blamed a tin eagle that had fallen into the basin. He treated their idea as a raw hypothesis, observed the pump's reaction, and found leaves blocking the inlet instead. They learned to dispose of garden waste properly and to see failure as an invitation to test evidence rather than assign blame.",
+      "translation": "一位退休物理学家每周到寺庙托儿所，因为他喜欢帮助孩子探索日常物品。庭院喷泉发生故障时，孩子们怪罪掉进水池的一只锡鹰。他把孩子们的想法当作初步假设，观察水泵反应，最终发现真正原因是树叶堵住入口。他们学会妥善处理园林废物，也懂得把故障视为检验证据的机会，而不是急于归咎。",
+      "sentences": [
+        {
+          "en": "A retired physicist visited a temple nursery each week because his love of teaching led him to help children question ordinary objects.",
+          "zh": "一位退休物理学家每周到寺庙托儿所，因为他喜欢帮助孩子探索日常物品。"
+        },
+        {
+          "en": "When the courtyard fountain failed, the children blamed a tin eagle that had fallen into the basin.",
+          "zh": "庭院喷泉发生故障时，孩子们怪罪掉进水池的一只锡鹰。"
+        },
+        {
+          "en": "He treated their idea as a raw hypothesis, observed the pump's reaction, and found leaves blocking the inlet instead.",
+          "zh": "他把孩子们的想法当作初步假设，观察水泵反应，最终发现真正原因是树叶堵住入口。"
+        },
+        {
+          "en": "They learned to dispose of garden waste properly and to see failure as an invitation to test evidence rather than assign blame.",
+          "zh": "他们学会妥善处理园林废物，也懂得把故障视为检验证据的机会，而不是急于归咎。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "nursery",
+          "meaning": "n. 托儿所,保育室;苗圃"
+        },
+        {
+          "word": "physicist",
+          "meaning": "n. 物理学家"
+        },
+        {
+          "word": "love",
+          "meaning": "n. 爱,爱情,喜欢vt. 爱,热爱;爱好,喜欢"
+        },
+        {
+          "word": "raw",
+          "meaning": "a. 生的;未加工的"
+        },
+        {
+          "word": "reaction",
+          "meaning": "n.反应;反作用"
+        },
+        {
+          "word": "temple",
+          "meaning": "n. 庙宇,神殿,寺;太阳穴"
+        },
+        {
+          "word": "dispose",
+          "meaning": "v. 处理,处置,除去;使愿意"
+        },
+        {
+          "word": "failure",
+          "meaning": "n. 失败,不及格;失败者;故障,失灵;未能"
+        },
+        {
+          "word": "eagle",
+          "meaning": "n. 鹰"
+        },
+        {
+          "word": "tin",
+          "meaning": "n. 罐头;锡a. 锡制的vt. 镀锡于"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What actually blocked the fountain?",
+          "answer": "Leaves in the pump inlet.",
+          "explanation": "树叶堵住了水泵入口。"
+        },
+        {
+          "prompt": "What lesson did the children learn?",
+          "answer": "Test evidence before assigning blame.",
+          "explanation": "他们学会先检验证据再归责。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d034-2",
+      "title": "How Stone Fountains Circulate Water",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "A fountain sends water upward because a pump gives it pressure, and gravity brings the water back to its basin. Early builders could pack channels with clay; a pioneer might describe the design in a letter, although exact plans were precious and rare. Fine drops dance in the air and form a cool fog, while tender stone edges slowly wear away. The final outcome depends on balanced flow, clean filters, and maintenance that respects both sculpture and machinery.",
+      "translation": "喷泉向上喷水，是因为水泵提供压力，而重力又把水带回水池。早期建造者会用黏土填实水道；先驱可能在信中描述设计，但精确图纸珍贵而稀少。细小水滴在空中跳动，形成凉雾，而脆弱的石边会逐渐磨损。最终效果取决于平衡水流、清洁过滤器，以及兼顾雕塑与机械的维护。",
+      "sentences": [
+        {
+          "en": "A fountain sends water upward because a pump gives it pressure, and gravity brings the water back to its basin.",
+          "zh": "喷泉向上喷水，是因为水泵提供压力，而重力又把水带回水池。"
+        },
+        {
+          "en": "Early builders could pack channels with clay; a pioneer might describe the design in a letter, although exact plans were precious and rare.",
+          "zh": "早期建造者会用黏土填实水道；先驱可能在信中描述设计，但精确图纸珍贵而稀少。"
+        },
+        {
+          "en": "Fine drops dance in the air and form a cool fog, while tender stone edges slowly wear away.",
+          "zh": "细小水滴在空中跳动，形成凉雾，而脆弱的石边会逐渐磨损。"
+        },
+        {
+          "en": "The final outcome depends on balanced flow, clean filters, and maintenance that respects both sculpture and machinery.",
+          "zh": "最终效果取决于平衡水流、清洁过滤器，以及兼顾雕塑与机械的维护。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "fountain",
+          "meaning": "n. 泉水,喷泉,源泉"
+        },
+        {
+          "word": "its",
+          "meaning": "pron.它的"
+        },
+        {
+          "word": "pack",
+          "meaning": "v. 捆扎,打包;塞满,挤满n. 包裹,背包,一群/副"
+        },
+        {
+          "word": "pioneer",
+          "meaning": "n. 先驱,倡导者,开拓者"
+        },
+        {
+          "word": "dance",
+          "meaning": "n. 舞(蹈);舞曲,舞会v. 跳舞;跳动"
+        },
+        {
+          "word": "tender",
+          "meaning": "a. 脆弱的,娇嫩的;温柔的;vt. 提供,投标"
+        },
+        {
+          "word": "precious",
+          "meaning": "a. 宝贵的,珍贵的"
+        },
+        {
+          "word": "outcome",
+          "meaning": "n. 结果,后果"
+        },
+        {
+          "word": "fog",
+          "meaning": "n. 雾气,雾v. 以雾笼罩,被雾笼罩"
+        },
+        {
+          "word": "letter",
+          "meaning": "n. 信,函件;字母,文字"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why does fountain water return to the basin?",
+          "answer": "Gravity pulls it down.",
+          "explanation": "重力把水带回水池。"
+        },
+        {
+          "prompt": "What determines the fountain's long-term outcome?",
+          "answer": "Balanced flow, filters, and careful maintenance.",
+          "explanation": "水流、过滤和细致维护决定长期效果。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d034-3",
+      "title": "A Treaty Needs Words People Understand",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "A treaty is not efficient merely because diplomats sign it quickly or because its language sounds formal. People living on either slope of a border must understand the distinction between a legal duty and a voluntary promise. Furthermore, communities should discuss how violations will be investigated; vague rules can punish the weak while powerful actors escape. Citizens may be grateful for peace, but lasting trust requires translations, public meetings, and clear ways to challenge a decision.",
+      "translation": "条约并不会仅因外交官迅速签署或语言正式就变得高效。生活在边界两侧山坡的人必须理解法律义务与自愿承诺之间的区别。此外，社区应讨论如何调查违规；模糊规定可能惩罚弱者，却让强势者逃脱。公民会感谢和平，但持久信任还需要译文、公开会议，以及挑战决定的清晰途径。",
+      "sentences": [
+        {
+          "en": "A treaty is not efficient merely because diplomats sign it quickly or because its language sounds formal.",
+          "zh": "条约并不会仅因外交官迅速签署或语言正式就变得高效。"
+        },
+        {
+          "en": "People living on either slope of a border must understand the distinction between a legal duty and a voluntary promise.",
+          "zh": "生活在边界两侧山坡的人必须理解法律义务与自愿承诺之间的区别。"
+        },
+        {
+          "en": "Furthermore, communities should discuss how violations will be investigated; vague rules can punish the weak while powerful actors escape.",
+          "zh": "此外，社区应讨论如何调查违规；模糊规定可能惩罚弱者，却让强势者逃脱。"
+        },
+        {
+          "en": "Citizens may be grateful for peace, but lasting trust requires translations, public meetings, and clear ways to challenge a decision.",
+          "zh": "公民会感谢和平，但持久信任还需要译文、公开会议，以及挑战决定的清晰途径。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "punish",
+          "meaning": "v. 惩罚,处罚"
+        },
+        {
+          "word": "efficient",
+          "meaning": "a. 能胜任的,效率高的"
+        },
+        {
+          "word": "not",
+          "meaning": "ad. 不,不是,不会;没有"
+        },
+        {
+          "word": "distinction",
+          "meaning": "n. 区别,差别;级别;特性;声望;显赫"
+        },
+        {
+          "word": "slope",
+          "meaning": "n. 斜线,斜度;倾斜面,斜坡"
+        },
+        {
+          "word": "furthermore",
+          "meaning": "ad. 而且,此外"
+        },
+        {
+          "word": "treaty",
+          "meaning": "n. 条约,协议,协商"
+        },
+        {
+          "word": "language",
+          "meaning": "n. 语言,术语,(运用语言的)方式、风格"
+        },
+        {
+          "word": "discuss",
+          "meaning": "vt. 讨论,商议"
+        },
+        {
+          "word": "grateful",
+          "meaning": "a. (to,for)感激的;感谢的"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What distinction must residents understand?",
+          "answer": "The difference between duties and voluntary promises.",
+          "explanation": "居民要理解义务与自愿承诺的区别。"
+        },
+        {
+          "prompt": "What supports lasting trust?",
+          "answer": "Clear translations, meetings, and appeal procedures.",
+          "explanation": "清楚译文、公开会议和申诉程序有助于持久信任。"
+        }
+      ]
+    }
+  ]
+}

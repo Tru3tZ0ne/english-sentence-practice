@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 25,
+  "articles": [
+    {
+      "id": "cet4-reading-d025-1",
+      "title": "Music at the Last Harvest",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "Every inhabitant of the valley gathered after the final harvest to hear a contemporary musician perform in an old grain hall. Mara, the daughter of a peasant family, placed a small stove near the entrance and asked children to settle before the first song. The audience had to concentrate as the music began to advance from a single quiet note to the rhythm of machines and rain. In a later review, a visitor wrote that the performance connected modern life with the labor behind every crop.",
+      "translation": "最后一次收获后，山谷里的居民都聚到旧粮仓，听一位当代音乐家演出。出身农民家庭的玛拉在入口附近放了一只小炉子，并让孩子们在第一首曲子前安静坐好。观众必须集中注意力，因为音乐从一个安静音符推进到机器与雨水的节奏。一位访客后来在评论中写道，这场演出把现代生活与每一茬作物背后的劳动联系起来。",
+      "sentences": [
+        {
+          "en": "Every inhabitant of the valley gathered after the final harvest to hear a contemporary musician perform in an old grain hall.",
+          "zh": "最后一次收获后，山谷里的居民都聚到旧粮仓，听一位当代音乐家演出。"
+        },
+        {
+          "en": "Mara, the daughter of a peasant family, placed a small stove near the entrance and asked children to settle before the first song.",
+          "zh": "出身农民家庭的玛拉在入口附近放了一只小炉子，并让孩子们在第一首曲子前安静坐好。"
+        },
+        {
+          "en": "The audience had to concentrate as the music began to advance from a single quiet note to the rhythm of machines and rain.",
+          "zh": "观众必须集中注意力，因为音乐从一个安静音符推进到机器与雨水的节奏。"
+        },
+        {
+          "en": "In a later review, a visitor wrote that the performance connected modern life with the labor behind every crop.",
+          "zh": "一位访客后来在评论中写道，这场演出把现代生活与每一茬作物背后的劳动联系起来。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "inhabitant",
+          "meaning": "n. 居民,住户"
+        },
+        {
+          "word": "harvest",
+          "meaning": "n. 收获,收成;成果,后果v. 收获,收割"
+        },
+        {
+          "word": "settle",
+          "meaning": "v. 安定,安顿;停息;定居;解决,调停"
+        },
+        {
+          "word": "contemporary",
+          "meaning": "a. 同时代的,当代的 n. 同龄人,同时代的人"
+        },
+        {
+          "word": "stove",
+          "meaning": "n. 炉子,火炉"
+        },
+        {
+          "word": "review",
+          "meaning": "v./n. 回顾,检查,评论"
+        },
+        {
+          "word": "musician",
+          "meaning": "n. 音乐家,乐师"
+        },
+        {
+          "word": "peasant",
+          "meaning": "n. (不用于英国或美国)小农;佃农;农民"
+        },
+        {
+          "word": "concentrate",
+          "meaning": "v. 集中,全神贯注于,浓缩 n. 浓缩物"
+        },
+        {
+          "word": "advance",
+          "meaning": "n. 前进,预付vi. 前进,进展vt. 促进,推进"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Where did the performance take place?",
+          "answer": "In an old grain hall.",
+          "explanation": "演出在一座旧粮仓里举行。"
+        },
+        {
+          "prompt": "What did the music connect?",
+          "answer": "Modern life and agricultural labor.",
+          "explanation": "音乐连接了现代生活与农业劳动。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d025-2",
+      "title": "Why Fire Needs Oxygen",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "A flame can whip sideways in a draft because hot gas rises and fresh oxygen moves toward the burning material. Researchers compute the rate of burning with sensors and suspect poor ventilation when smoke spreads largely across the ceiling like a dark carpet. A narrow ray of light can reveal that moving smoke, while plants that thrive after a fire may inherit space cleared by the heat. Safety teachers insist that people say farewell to possessions and leave immediately rather than return through toxic smoke.",
+      "translation": "火焰会在气流中猛然偏向一侧，因为热气上升，新鲜氧气流向燃烧材料。研究人员用传感器计算燃烧速度；当烟雾像黑色地毯一样大面积铺满天花板时，他们会怀疑通风不良。一束窄光可以显现流动的烟，而火后茁壮生长的植物可能获得高温清出的空间。安全教师坚持认为，人们应舍弃财物立即离开，而不是穿过有毒烟雾返回。",
+      "sentences": [
+        {
+          "en": "A flame can whip sideways in a draft because hot gas rises and fresh oxygen moves toward the burning material.",
+          "zh": "火焰会在气流中猛然偏向一侧，因为热气上升，新鲜氧气流向燃烧材料。"
+        },
+        {
+          "en": "Researchers compute the rate of burning with sensors and suspect poor ventilation when smoke spreads largely across the ceiling like a dark carpet.",
+          "zh": "研究人员用传感器计算燃烧速度；当烟雾像黑色地毯一样大面积铺满天花板时，他们会怀疑通风不良。"
+        },
+        {
+          "en": "A narrow ray of light can reveal that moving smoke, while plants that thrive after a fire may inherit space cleared by the heat.",
+          "zh": "一束窄光可以显现流动的烟，而火后茁壮生长的植物可能获得高温清出的空间。"
+        },
+        {
+          "en": "Safety teachers insist that people say farewell to possessions and leave immediately rather than return through toxic smoke.",
+          "zh": "安全教师坚持认为，人们应舍弃财物立即离开，而不是穿过有毒烟雾返回。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "whip",
+          "meaning": "n. 鞭子,政党的组织秘书,发给议员要求辩论的命题 v. 鞭笞,抽打"
+        },
+        {
+          "word": "inherit",
+          "meaning": "v. 继承,经遗传而得(特性等)"
+        },
+        {
+          "word": "compute",
+          "meaning": "v. 计算,估计"
+        },
+        {
+          "word": "suspect",
+          "meaning": "vt. 疑有,觉得,猜想;觉得可疑;n. 嫌疑犯,可疑分子;a. 可疑的"
+        },
+        {
+          "word": "thrive",
+          "meaning": "vi. 繁荣,兴旺"
+        },
+        {
+          "word": "ray",
+          "meaning": "n. 光线,射线"
+        },
+        {
+          "word": "carpet",
+          "meaning": "n. 地毯"
+        },
+        {
+          "word": "largely",
+          "meaning": "ad. 主要地,基本上;大量地,大规模地"
+        },
+        {
+          "word": "farewell",
+          "meaning": "int./n./a. 再见;临别的,告别的"
+        },
+        {
+          "word": "insist",
+          "meaning": "vi. (on)坚持要求,坚决主张,坚持"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why can a flame bend in a draft?",
+          "answer": "Moving oxygen feeds the fire from one side.",
+          "explanation": "流动的氧气从一侧助燃，使火焰偏转。"
+        },
+        {
+          "prompt": "What should people do during a fire?",
+          "answer": "Leave possessions and exit immediately.",
+          "explanation": "人们应放下财物并立即撤离。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d025-3",
+      "title": "Farm Policy Should Reward Resilience",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "A good farm policy should not merely reward the largest harvest while smaller growers remain hungry for stable income. When drought turns fields brown and can depress production, farmers need support to switch crops, protect soil oxygen, and store water in every available bottle or tank. A minister may trumpet one successful scheme beside a well-dressed lady at a fair, but a photograph cannot measure resilience. Funding should follow long-term soil health, reliable household food, and evidence that farms can withstand another dry season.",
+      "translation": "良好的农业政策不应只奖励最大收成，而让小种植户仍渴望稳定收入。干旱使田地变黄并压低产量时，农民需要支持来更换作物、保护土壤氧气，并把水储存在可用瓶罐或水箱中。部长可能在展会上站在衣着得体的女士旁，大力宣传一项成功计划，但照片无法衡量韧性。资金应依据长期土壤健康、家庭粮食保障，以及农场能否承受下一个旱季的证据来分配。",
+      "sentences": [
+        {
+          "en": "A good farm policy should not merely reward the largest harvest while smaller growers remain hungry for stable income.",
+          "zh": "良好的农业政策不应只奖励最大收成，而让小种植户仍渴望稳定收入。"
+        },
+        {
+          "en": "When drought turns fields brown and can depress production, farmers need support to switch crops, protect soil oxygen, and store water in every available bottle or tank.",
+          "zh": "干旱使田地变黄并压低产量时，农民需要支持来更换作物、保护土壤氧气，并把水储存在可用瓶罐或水箱中。"
+        },
+        {
+          "en": "A minister may trumpet one successful scheme beside a well-dressed lady at a fair, but a photograph cannot measure resilience.",
+          "zh": "部长可能在展会上站在衣着得体的女士旁，大力宣传一项成功计划，但照片无法衡量韧性。"
+        },
+        {
+          "en": "Funding should follow long-term soil health, reliable household food, and evidence that farms can withstand another dry season.",
+          "zh": "资金应依据长期土壤健康、家庭粮食保障，以及农场能否承受下一个旱季的证据来分配。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "policy",
+          "meaning": "n. 政策;保险单"
+        },
+        {
+          "word": "depress",
+          "meaning": "vt. 使沮丧;使萧条;压下;降低"
+        },
+        {
+          "word": "switch",
+          "meaning": "n. 开关;转换;鞭子v. 转变,转换;抽打"
+        },
+        {
+          "word": "brown",
+          "meaning": "n./a. 褐色(的),棕色(的)"
+        },
+        {
+          "word": "oxygen",
+          "meaning": "n. 氧,氧气"
+        },
+        {
+          "word": "merely",
+          "meaning": "adv. 仅仅,只不过"
+        },
+        {
+          "word": "hungry",
+          "meaning": "a. 饥饿的,渴望的"
+        },
+        {
+          "word": "trumpet",
+          "meaning": "n. 喇叭,喇叭声"
+        },
+        {
+          "word": "lady",
+          "meaning": "n. 女士,夫人"
+        },
+        {
+          "word": "bottle",
+          "meaning": "n. 瓶(子)v. 装瓶"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should policy help farmers do during drought?",
+          "answer": "Change crops, protect soil, and store water.",
+          "explanation": "政策应帮助农民换种、护土并储水。"
+        },
+        {
+          "prompt": "What should determine funding?",
+          "answer": "Long-term resilience and food security.",
+          "explanation": "资金应由长期韧性和粮食保障决定。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 30,
+  "articles": [
+    {
+      "id": "cet4-reading-d030-1",
+      "title": "Fourteen Minutes of Silence",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "The control room turned blue on its screens when a spacecraft receiver stopped sending data fourteen minutes before landing. A dead channel could mean an explosive failure, yet the flight director followed the emergency outline and refused to guess. The discovery did not embarrass the engineer for long: a small variation in software timing had blocked every second shot of information. She reset the link, data returned, and the room held its peace until the craft landed safely.",
+      "translation": "着陆前十四分钟，宇宙飞船接收器停止发送数据，控制室屏幕变成蓝色。失效信道可能意味着爆炸性故障，但飞行主管依照应急提纲，没有贸然猜测。一名工程师发现软件计时的微小变化阻断了每第二组信息，因而感到尴尬。她重置连接，数据随即恢复；直到飞船安全着陆，控制室一直保持安静。",
+      "sentences": [
+        {
+          "en": "The control room turned blue on its screens when a spacecraft receiver stopped sending data fourteen minutes before landing.",
+          "zh": "着陆前十四分钟，宇宙飞船接收器停止发送数据，控制室屏幕变成蓝色。"
+        },
+        {
+          "en": "A dead channel could mean an explosive failure, yet the flight director followed the emergency outline and refused to guess.",
+          "zh": "失效信道可能意味着爆炸性故障，但飞行主管依照应急提纲，没有贸然猜测。"
+        },
+        {
+          "en": "The discovery did not embarrass the engineer for long: a small variation in software timing had blocked every second shot of information.",
+          "zh": "一名工程师发现软件计时的微小变化阻断了每第二组信息，因而感到尴尬。"
+        },
+        {
+          "en": "She reset the link, data returned, and the room held its peace until the craft landed safely.",
+          "zh": "她重置连接，数据随即恢复；直到飞船安全着陆，控制室一直保持安静。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "outline",
+          "meaning": "n. 提纲;外形,轮廓,略图; vt. 概述,概括;描...外形,描...轮廊"
+        },
+        {
+          "word": "blue",
+          "meaning": "a. 蓝色的;青灰色的;沮丧的,阴郁的n. 蓝色"
+        },
+        {
+          "word": "variation",
+          "meaning": "n. 变化,变动;变种,变异"
+        },
+        {
+          "word": "dead",
+          "meaning": "a. 死的;无生命的;死气沉沉的ad. 完全地"
+        },
+        {
+          "word": "peace",
+          "meaning": "n. 和平;平静,安宁"
+        },
+        {
+          "word": "receiver",
+          "meaning": "n.收受者,收件人"
+        },
+        {
+          "word": "shot",
+          "meaning": "n. 开枪,射击;投篮;弹丸,炮弹,子弹"
+        },
+        {
+          "word": "explosive",
+          "meaning": "a. 爆炸(性)的,爆发(性)的n. 爆炸物,炸药"
+        },
+        {
+          "word": "embarrass",
+          "meaning": "vt. 使为难,使尴尬"
+        },
+        {
+          "word": "spacecraft",
+          "meaning": "n. 宇宙飞船"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What interrupted the data?",
+          "answer": "A small software timing variation.",
+          "explanation": "软件计时的微小变化中断了数据。"
+        },
+        {
+          "prompt": "Why did the team remain quiet?",
+          "answer": "They were waiting for a safe landing.",
+          "explanation": "他们在等待飞船安全着陆。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d030-2",
+      "title": "Nitrogen Is Useful and Dangerous",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "Nitrogen makes up a broad share of air, but a person cannot notice when it pushes oxygen out of a closed room. A factory may possess fourteen cylinders for cooling; the latter danger appears when a leaking tank stands near a low chimney or basement. A headache complaint from a stranger should be taken seriously, and people must stay on the safe side of a barrier. Ventilation and separate oxygen alarms can defeat the invisible hazard before anyone enters to investigate.",
+      "translation": "氮气占空气很大比例，但当它在密闭房间排挤氧气时，人无法察觉。工厂可能拥有十四只冷却气瓶；当泄漏气瓶位于低烟囱或地下室附近时，后一种危险就会出现。陌生人诉说头痛也应受到重视，人们必须留在隔离带安全一侧。通风与独立氧气警报器可以在人员进入调查前消除这种看不见的危险。",
+      "sentences": [
+        {
+          "en": "Nitrogen makes up a broad share of air, but a person cannot notice when it pushes oxygen out of a closed room.",
+          "zh": "氮气占空气很大比例，但当它在密闭房间排挤氧气时，人无法察觉。"
+        },
+        {
+          "en": "A factory may possess fourteen cylinders for cooling; the latter danger appears when a leaking tank stands near a low chimney or basement.",
+          "zh": "工厂可能拥有十四只冷却气瓶；当泄漏气瓶位于低烟囱或地下室附近时，后一种危险就会出现。"
+        },
+        {
+          "en": "A headache complaint from a stranger should be taken seriously, and people must stay on the safe side of a barrier.",
+          "zh": "陌生人诉说头痛也应受到重视，人们必须留在隔离带安全一侧。"
+        },
+        {
+          "en": "Ventilation and separate oxygen alarms can defeat the invisible hazard before anyone enters to investigate.",
+          "zh": "通风与独立氧气警报器可以在人员进入调查前消除这种看不见的危险。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "complaint",
+          "meaning": "n. 抱怨,诉苦,怨言,控告;疾病"
+        },
+        {
+          "word": "fourteen",
+          "meaning": "num. 十四,十四个"
+        },
+        {
+          "word": "broad",
+          "meaning": "a. 宽的,广阔的;广大的;宽宏的,豁达的"
+        },
+        {
+          "word": "chimney",
+          "meaning": "n. 烟囱"
+        },
+        {
+          "word": "stranger",
+          "meaning": "n. 陌生人,生客;外地人,外国人"
+        },
+        {
+          "word": "possess",
+          "meaning": "v. 占有,拥有"
+        },
+        {
+          "word": "latter",
+          "meaning": "a. 后者的;后一半的,接近终了的n. 后者"
+        },
+        {
+          "word": "defeat",
+          "meaning": "v.击败n.失败"
+        },
+        {
+          "word": "separate",
+          "meaning": "a. (from)分离的,分开的v. (from)分离,分开"
+        },
+        {
+          "word": "on",
+          "meaning": "a. 连接上prep. 在...上;靠近ad. 向前,继续"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why is a nitrogen leak hard to notice?",
+          "answer": "Nitrogen has no obvious warning and can displace oxygen.",
+          "explanation": "氮气没有明显警示，却会排挤氧气。"
+        },
+        {
+          "prompt": "What equipment reduces the risk?",
+          "answer": "Ventilation and separate oxygen alarms.",
+          "explanation": "通风设备与独立氧气报警器可降低风险。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d030-3",
+      "title": "Safety Approval Must Be Independent",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "A theoretical safety model may look impressive, but regulators should not approve an explosive plant from diagrams alone. Independent inspectors must test nitrogen alarms, examine whether emergency suits can clothe workers safely, and see if a safety bath is reachable. A thoughtful company will withdraw a weak design before machinery can crush a worker, then invite creative alternatives from the people on site. Approval is credible only when evidence comes from reviewers who do not profit from a rapid launch.",
+      "translation": "理论安全模型可能看起来很出色，但监管者不应只凭图纸批准爆炸物工厂。独立检查员必须测试氮气警报器，检查应急服能否保护工人，并确认安全淋浴是否可达。周到的公司会在机器可能压伤工人前撤回薄弱设计，并邀请现场人员提出有创意的替代方案。只有证据来自不会因快速投产获利的审查者，批准才可信。",
+      "sentences": [
+        {
+          "en": "A theoretical safety model may look impressive, but regulators should not approve an explosive plant from diagrams alone.",
+          "zh": "理论安全模型可能看起来很出色，但监管者不应只凭图纸批准爆炸物工厂。"
+        },
+        {
+          "en": "Independent inspectors must test nitrogen alarms, examine whether emergency suits can clothe workers safely, and see if a safety bath is reachable.",
+          "zh": "独立检查员必须测试氮气警报器，检查应急服能否保护工人，并确认安全淋浴是否可达。"
+        },
+        {
+          "en": "A thoughtful company will withdraw a weak design before machinery can crush a worker, then invite creative alternatives from the people on site.",
+          "zh": "周到的公司会在机器可能压伤工人前撤回薄弱设计，并邀请现场人员提出有创意的替代方案。"
+        },
+        {
+          "en": "Approval is credible only when evidence comes from reviewers who do not profit from a rapid launch.",
+          "zh": "只有证据来自不会因快速投产获利的审查者，批准才可信。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "withdraw",
+          "meaning": "vt./vi. 收回,取回;撤回;撤退"
+        },
+        {
+          "word": "nitrogen",
+          "meaning": "n. 氮"
+        },
+        {
+          "word": "theoretical",
+          "meaning": "a. 理论(上)的"
+        },
+        {
+          "word": "crush",
+          "meaning": "v. 压碎,压坏,弄皱,压垮;挤入"
+        },
+        {
+          "word": "creative",
+          "meaning": "a. 有创造力的,创造性的"
+        },
+        {
+          "word": "approve",
+          "meaning": "v. (of)赞成,赞许,同意;批准,审议,通过"
+        },
+        {
+          "word": "clothe",
+          "meaning": "v. (给...)穿衣,供给...衣服"
+        },
+        {
+          "word": "bath",
+          "meaning": "n. 沐浴,洗澡;浴室(池,盆)v. (给...)洗澡"
+        },
+        {
+          "word": "thoughtful",
+          "meaning": "a. 深思的;关心的,周到的"
+        },
+        {
+          "word": "from",
+          "meaning": "prep. 从,自从;由于;离;根据,按;去除"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should inspectors test?",
+          "answer": "Alarms, protective clothing, and emergency baths.",
+          "explanation": "检查员应测试警报器、防护服和安全淋浴。"
+        },
+        {
+          "prompt": "When is approval credible?",
+          "answer": "When independent reviewers examine real evidence.",
+          "explanation": "独立审查者核查实际证据时，批准才可信。"
+        }
+      ]
+    }
+  ]
+}

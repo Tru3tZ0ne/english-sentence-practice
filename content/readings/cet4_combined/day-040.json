@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 40,
+  "articles": [
+    {
+      "id": "cet4-reading-d040-1",
+      "title": "The Historian in the Gloom",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "A historian entered a gloomy valley at dawn, carrying a graphic map and wearing a borrowed graduation gown against the cold. Village gossip claimed that a gorgeous house beyond the ridge was abandoned after a family grief, but the records told a quieter story. She slipped on grease near a barn and suffered a light graze, whereupon a gracious farmer invited her inside to clean it. In the gloom of the attic, they found letters proving that the owners had donated the house as a school and moved away voluntarily.",
+      "translation": "黎明时，一位历史学家走进阴郁山谷，带着图解地图，并借来一件毕业礼服御寒。村里流言说山脊外一座华丽房屋因家庭悲剧而废弃，但档案讲述了一个更平静的故事。她在谷仓附近踩到油脂滑倒，受了轻微擦伤；一位和善的农民请她进屋清理伤口。在阁楼的昏暗中，他们找到信件，证明屋主自愿把房子捐作学校后搬走。",
+      "sentences": [
+        {
+          "en": "A historian entered a gloomy valley at dawn, carrying a graphic map and wearing a borrowed graduation gown against the cold.",
+          "zh": "黎明时，一位历史学家走进阴郁山谷，带着图解地图，并借来一件毕业礼服御寒。"
+        },
+        {
+          "en": "Village gossip claimed that a gorgeous house beyond the ridge was abandoned after a family grief, but the records told a quieter story.",
+          "zh": "村里流言说山脊外一座华丽房屋因家庭悲剧而废弃，但档案讲述了一个更平静的故事。"
+        },
+        {
+          "en": "She slipped on grease near a barn and suffered a light graze, whereupon a gracious farmer invited her inside to clean it.",
+          "zh": "她在谷仓附近踩到油脂滑倒，受了轻微擦伤；一位和善的农民请她进屋清理伤口。"
+        },
+        {
+          "en": "In the gloom of the attic, they found letters proving that the owners had donated the house as a school and moved away voluntarily.",
+          "zh": "在阁楼的昏暗中，他们找到信件，证明屋主自愿把房子捐作学校后搬走。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "gloom",
+          "meaning": "n.黑暗,忧郁"
+        },
+        {
+          "word": "gloomy",
+          "meaning": "a. 黑暗的;郁闷的"
+        },
+        {
+          "word": "gorgeous",
+          "meaning": "a. 令人十分愉快的,极好的;华丽的,灿烂的,绚丽的"
+        },
+        {
+          "word": "gossip",
+          "meaning": "n. 流言蜚语;爱传流言的人;vi. 闲聊,传播流言蜚语"
+        },
+        {
+          "word": "gown",
+          "meaning": "n. 长袍,长外衣"
+        },
+        {
+          "word": "gracious",
+          "meaning": "a. 亲切的,和善的;优美的,奢华的"
+        },
+        {
+          "word": "graphic",
+          "meaning": "adj.绘画似的, 图解的。"
+        },
+        {
+          "word": "graze",
+          "meaning": "v. (牲畜)吃草,放牧;擦过;n. 擦,擦伤"
+        },
+        {
+          "word": "grease",
+          "meaning": "n. 动物脂肪,油脂状物;vt. 涂油脂于"
+        },
+        {
+          "word": "grief",
+          "meaning": "n. 悲伤,悲痛;悲伤的事,悲痛的缘由"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did village gossip claim?",
+          "answer": "A family tragedy had caused the house to be abandoned.",
+          "explanation": "流言称家庭悲剧导致房屋废弃。"
+        },
+        {
+          "prompt": "What did the letters prove?",
+          "answer": "The house had been donated as a school.",
+          "explanation": "信件证明房子被捐作学校。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d040-2",
+      "title": "How Hardy Herbs Survive",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "A hardy herb survives a grim winter by slowing growth and storing energy below ground, where ice cannot easily reach it. A groove in a leaf may guide water to the root, while fine hairs act as a guardian against wind and hungry insects. Gardeners need not groan or grope for magic advice: a local handbook can explain how wet soil may hamper roots and handicap spring recovery. Healthy new leaves can make a gardener grin, yet a failed plant is no reason to grieve before checking soil, light, and drainage.",
+      "translation": "耐寒药草通过减慢生长并把能量储存在地下来度过严冬，因为冰不易到达那里。叶片上的沟槽可把水引向根部，细毛则像守卫一样抵挡风和饥饿昆虫。园丁不必呻吟或摸索神奇秘诀；本地手册会说明湿土如何妨碍根系并阻碍春季恢复。健康新叶会让园丁露出笑容，但植物失败时，在检查土壤、光照和排水前不必悲伤。",
+      "sentences": [
+        {
+          "en": "A hardy herb survives a grim winter by slowing growth and storing energy below ground, where ice cannot easily reach it.",
+          "zh": "耐寒药草通过减慢生长并把能量储存在地下来度过严冬，因为冰不易到达那里。"
+        },
+        {
+          "en": "A groove in a leaf may guide water to the root, while fine hairs act as a guardian against wind and hungry insects.",
+          "zh": "叶片上的沟槽可把水引向根部，细毛则像守卫一样抵挡风和饥饿昆虫。"
+        },
+        {
+          "en": "Gardeners need not groan or grope for magic advice: a local handbook can explain how wet soil may hamper roots and handicap spring recovery.",
+          "zh": "园丁不必呻吟或摸索神奇秘诀；本地手册会说明湿土如何妨碍根系并阻碍春季恢复。"
+        },
+        {
+          "en": "Healthy new leaves can make a gardener grin, yet a failed plant is no reason to grieve before checking soil, light, and drainage.",
+          "zh": "健康新叶会让园丁露出笑容，但植物失败时，在检查土壤、光照和排水前不必悲伤。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "grieve",
+          "meaning": "v. (使)悲痛,(使)伤心"
+        },
+        {
+          "word": "grim",
+          "meaning": "a. 严酷的;讨厌的;严厉的"
+        },
+        {
+          "word": "grin",
+          "meaning": "v./n. 露齿而笑,咧嘴一笑"
+        },
+        {
+          "word": "groan",
+          "meaning": "v./n. 呻吟,呻吟着表示;承受重压发出的声音"
+        },
+        {
+          "word": "groove",
+          "meaning": "n.槽vt.开槽于"
+        },
+        {
+          "word": "grope",
+          "meaning": "v. 暗中摸索"
+        },
+        {
+          "word": "guardian",
+          "meaning": "n. 保护人,监护人"
+        },
+        {
+          "word": "hamper",
+          "meaning": "vt. 阻碍,妨碍,牵制"
+        },
+        {
+          "word": "handbook",
+          "meaning": "n. 手册,便览"
+        },
+        {
+          "word": "handicap",
+          "meaning": "n. 给予优者的不利条件以使竞赛机会相等,障碍,残废;vt. 妨碍"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Where do hardy herbs store energy?",
+          "answer": "Below ground.",
+          "explanation": "耐寒药草把能量储存在地下。"
+        },
+        {
+          "prompt": "What conditions should gardeners check?",
+          "answer": "Soil, light, and drainage.",
+          "explanation": "园丁应检查土壤、光照与排水。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d040-3",
+      "title": "Heritage Trails Need More Than Signs",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "A heritage trail can heighten respect for a landscape, but a hasty line of signs will not protect the people and wildlife living there. A hawk may haunt a cliff in one hemisphere, while hardy families haul supplies up the same path and heave water from a deep well. Officials should not hatch a tourism plan with an outside heir to land rights while excluding residents who maintain the route. Visitor limits, local guides, and maintenance fees can share benefits while keeping the trail useful beyond a single season.",
+      "translation": "遗产步道可以增强人们对景观的尊重，但匆忙竖起的一排标牌无法保护当地居民与野生动物。一只鹰可能常在某个半球的悬崖出没，而坚韧的家庭也沿同一路径拖运物资、从深井提水。官员不应与外来的土地继承人策划旅游方案，却排除维护路线的居民。游客限额、当地向导和维护费可以共享收益，并让步道在一个季节之后仍然有用。",
+      "sentences": [
+        {
+          "en": "A heritage trail can heighten respect for a landscape, but a hasty line of signs will not protect the people and wildlife living there.",
+          "zh": "遗产步道可以增强人们对景观的尊重，但匆忙竖起的一排标牌无法保护当地居民与野生动物。"
+        },
+        {
+          "en": "A hawk may haunt a cliff in one hemisphere, while hardy families haul supplies up the same path and heave water from a deep well.",
+          "zh": "一只鹰可能常在某个半球的悬崖出没，而坚韧的家庭也沿同一路径拖运物资、从深井提水。"
+        },
+        {
+          "en": "Officials should not hatch a tourism plan with an outside heir to land rights while excluding residents who maintain the route.",
+          "zh": "官员不应与外来的土地继承人策划旅游方案，却排除维护路线的居民。"
+        },
+        {
+          "en": "Visitor limits, local guides, and maintenance fees can share benefits while keeping the trail useful beyond a single season.",
+          "zh": "游客限额、当地向导和维护费可以共享收益，并让步道在一个季节之后仍然有用。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "hardy",
+          "meaning": "a. 勇敢的,果断的,吃苦的;耐寒的"
+        },
+        {
+          "word": "hasty",
+          "meaning": "a. 急速的,匆促的"
+        },
+        {
+          "word": "hatch",
+          "meaning": "v. 孵出;策划"
+        },
+        {
+          "word": "haul",
+          "meaning": "v./n. 用力拉,拖;捕获量;拖运的距离"
+        },
+        {
+          "word": "haunt",
+          "meaning": "vt. 常去;(鬼,魂)常出没于;(思想)萦绕;n. 常去的地方"
+        },
+        {
+          "word": "hawk",
+          "meaning": "n. 鹰,骗子,鹰派成员"
+        },
+        {
+          "word": "heave",
+          "meaning": "v. 用力举起;说出;掷扔;n. 举,拉,扔"
+        },
+        {
+          "word": "heighten",
+          "meaning": "v. 加高,提高,增大"
+        },
+        {
+          "word": "heir",
+          "meaning": "n. 继承人"
+        },
+        {
+          "word": "hemisphere",
+          "meaning": "n. 半球,(地球的)半球"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Who uses the trail besides tourists?",
+          "answer": "Local families and wildlife.",
+          "explanation": "当地家庭和野生动物也使用这条路线。"
+        },
+        {
+          "prompt": "What measures can protect the trail?",
+          "answer": "Visitor limits, local guides, and maintenance fees.",
+          "explanation": "游客限额、当地向导与维护费可保护步道。"
+        }
+      ]
+    }
+  ]
+}

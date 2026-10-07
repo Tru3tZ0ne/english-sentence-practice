@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 29,
+  "articles": [
+    {
+      "id": "cet4-reading-d029-1",
+      "title": "The Exhibit That Carried a Load",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "For an engineering exhibit, three students built a bridge from paper and recorded its manufacture on every page of a notebook. The bridge had to carry weights through a narrow passage while cameras watched its centre bend upward and downward. Their measurements did not correspond at first, because one sensor began to generate heat and produced a false reading that could have caused an injury. The final design was born from that failure: they moved the sensor, repeated the test, and explained the mistake beside the exhibit.",
+      "translation": "为了工程展览，三名学生用纸造了一座桥，并在笔记本的每一页记录制造过程。纸桥必须在狭窄通道中承受重物，摄像机记录桥中央上下弯曲。起初测量结果互不对应，因为一个传感器发热并产生错误读数，可能导致人员受伤。最终设计从这次失败中诞生：他们移动传感器、重做试验，并在展品旁解释错误。",
+      "sentences": [
+        {
+          "en": "For an engineering exhibit, three students built a bridge from paper and recorded its manufacture on every page of a notebook.",
+          "zh": "为了工程展览，三名学生用纸造了一座桥，并在笔记本的每一页记录制造过程。"
+        },
+        {
+          "en": "The bridge had to carry weights through a narrow passage while cameras watched its centre bend upward and downward.",
+          "zh": "纸桥必须在狭窄通道中承受重物，摄像机记录桥中央上下弯曲。"
+        },
+        {
+          "en": "Their measurements did not correspond at first, because one sensor began to generate heat and produced a false reading that could have caused an injury.",
+          "zh": "起初测量结果互不对应，因为一个传感器发热并产生错误读数，可能导致人员受伤。"
+        },
+        {
+          "en": "The final design was born from that failure: they moved the sensor, repeated the test, and explained the mistake beside the exhibit.",
+          "zh": "最终设计从这次失败中诞生：他们移动传感器、重做试验，并在展品旁解释错误。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "passage",
+          "meaning": "n. 通过,经过;通路,走廊;(一)段落,(一)节"
+        },
+        {
+          "word": "correspond",
+          "meaning": "vi. 符合;通信;相当于"
+        },
+        {
+          "word": "manufacture",
+          "meaning": "vt. 大量制造加工; n. (大量)制造;产品"
+        },
+        {
+          "word": "page",
+          "meaning": "n. 页,记录,事件,专栏vt. 给...标页码"
+        },
+        {
+          "word": "engineering",
+          "meaning": "n. 工程学"
+        },
+        {
+          "word": "exhibit",
+          "meaning": "v. 展出,陈列n. 展览品,陈列品"
+        },
+        {
+          "word": "upward",
+          "meaning": "a. 向上的,上升的ad. 向上"
+        },
+        {
+          "word": "generate",
+          "meaning": "vt. 使产生;引起,导致"
+        },
+        {
+          "word": "injury",
+          "meaning": "n. 伤害,损害"
+        },
+        {
+          "word": "born",
+          "meaning": "a. 出生的,产生的;天生的,十足的"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What material was the bridge made from?",
+          "answer": "Paper.",
+          "explanation": "桥由纸制成。"
+        },
+        {
+          "prompt": "How did the students fix the false reading?",
+          "answer": "They moved the hot sensor and repeated the test.",
+          "explanation": "他们移动发热传感器并重新测试。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d029-2",
+      "title": "Why Turbine Blades Have a Shape",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "A turbine blade turns when moving air places a different load on its curved and flatter surfaces. Engineers run a live trial with smoke so they can see where air changes direction instead of leaving performance to chance. Air density changes with temperature, so a design for an east coast may behave differently inland; even a passing goose becomes a safety factor. A considerate site manager will not beg a conductor to ignore vibration, because the electrical and mechanical systems must be tested together.",
+      "translation": "当流动空气在叶片弯曲面与较平表面施加不同载荷时，涡轮叶片就会转动。工程师用烟雾进行现场试验，以观察空气在哪里转向，而不是把性能交给偶然。空气密度随温度变化，因此为东海岸设计的设备在内陆可能表现不同；甚至飞过的鹅也会成为安全因素。体谅他人的现场经理不会恳求负责人忽略振动，因为电气与机械系统必须一起测试。",
+      "sentences": [
+        {
+          "en": "A turbine blade turns when moving air places a different load on its curved and flatter surfaces.",
+          "zh": "当流动空气在叶片弯曲面与较平表面施加不同载荷时，涡轮叶片就会转动。"
+        },
+        {
+          "en": "Engineers run a live trial with smoke so they can see where air changes direction instead of leaving performance to chance.",
+          "zh": "工程师用烟雾进行现场试验，以观察空气在哪里转向，而不是把性能交给偶然。"
+        },
+        {
+          "en": "Air density changes with temperature, so a design for an east coast may behave differently inland; even a passing goose becomes a safety factor.",
+          "zh": "空气密度随温度变化，因此为东海岸设计的设备在内陆可能表现不同；甚至飞过的鹅也会成为安全因素。"
+        },
+        {
+          "en": "A considerate site manager will not beg a conductor to ignore vibration, because the electrical and mechanical systems must be tested together.",
+          "zh": "体谅他人的现场经理不会恳求负责人忽略振动，因为电气与机械系统必须一起测试。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "load",
+          "meaning": "v. 装(货),装载n. 装载(量),负荷(量);(一)担"
+        },
+        {
+          "word": "trial",
+          "meaning": "n. 试验,试用;审讯,受审"
+        },
+        {
+          "word": "conductor",
+          "meaning": "n. 管理者;(汽车)售票员;领队,指挥;导体"
+        },
+        {
+          "word": "beg",
+          "meaning": "vt. 请求,乞求vi. 恳请,行乞"
+        },
+        {
+          "word": "density",
+          "meaning": "n. 密集,密度,浓度"
+        },
+        {
+          "word": "goose",
+          "meaning": "n. 鹅,雌鹅,鹅肉"
+        },
+        {
+          "word": "chance",
+          "meaning": "n. 机会;可能性;偶然性,运气v. 碰巧,偶然发生"
+        },
+        {
+          "word": "considerate",
+          "meaning": "a. 考虑周到的,体谅的"
+        },
+        {
+          "word": "east",
+          "meaning": "n. 东,东方,东部a. 东方的,东部的"
+        },
+        {
+          "word": "live",
+          "meaning": "v. 活,生活 a. 有生命的,实况的"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What makes a turbine blade turn?",
+          "answer": "Unequal air pressure on its surfaces.",
+          "explanation": "叶片两侧不均等的空气作用力使其转动。"
+        },
+        {
+          "prompt": "Why does location affect design?",
+          "answer": "Air density and local conditions differ.",
+          "explanation": "不同地点的空气密度和环境条件不同。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d029-3",
+      "title": "Manufacturing Needs Honest Risk Maps",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "A logical safety diagram should show more than the shortest lane between a desk and the factory door. It must mark turbine noise, chemical storage, every emergency bed, and places where an unconscious worker could be hidden behind machinery. A conservative manager may keep the old plan because a typist has already printed copies for every house, but convenience is weak evidence. Workers who use the floor daily should revise the map, test each route, and record hazards that managers cannot see from an office.",
+      "translation": "合乎逻辑的安全图不应只显示办公桌到工厂门口的最短通道。它必须标出涡轮噪声、化学品存放处、急救床位，以及昏迷工人可能被机器遮挡的位置。保守的经理可能因打字员已为每栋房屋打印副本而保留旧方案，但方便并不是有力证据。每天使用车间的工人应修改地图、测试每条路线，并记录管理者在办公室看不到的危险。",
+      "sentences": [
+        {
+          "en": "A logical safety diagram should show more than the shortest lane between a desk and the factory door.",
+          "zh": "合乎逻辑的安全图不应只显示办公桌到工厂门口的最短通道。"
+        },
+        {
+          "en": "It must mark turbine noise, chemical storage, every emergency bed, and places where an unconscious worker could be hidden behind machinery.",
+          "zh": "它必须标出涡轮噪声、化学品存放处、急救床位，以及昏迷工人可能被机器遮挡的位置。"
+        },
+        {
+          "en": "A conservative manager may keep the old plan because a typist has already printed copies for every house, but convenience is weak evidence.",
+          "zh": "保守的经理可能因打字员已为每栋房屋打印副本而保留旧方案，但方便并不是有力证据。"
+        },
+        {
+          "en": "Workers who use the floor daily should revise the map, test each route, and record hazards that managers cannot see from an office.",
+          "zh": "每天使用车间的工人应修改地图、测试每条路线，并记录管理者在办公室看不到的危险。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "unconscious",
+          "meaning": "a. 不醒人事的;没有意识的"
+        },
+        {
+          "word": "lane",
+          "meaning": "n. 小径,巷,行车道"
+        },
+        {
+          "word": "typist",
+          "meaning": "n. 打字员"
+        },
+        {
+          "word": "conservative",
+          "meaning": "a. 守旧的,保守的 n. 保守主义,保守党人"
+        },
+        {
+          "word": "diagram",
+          "meaning": "n. 图解"
+        },
+        {
+          "word": "logical",
+          "meaning": "a. 逻辑的,符合逻辑的"
+        },
+        {
+          "word": "house",
+          "meaning": "n. 房屋;商业机构;[H-"
+        },
+        {
+          "word": "desk",
+          "meaning": "n. 书桌,办公桌,服务台"
+        },
+        {
+          "word": "turbine",
+          "meaning": "n. 汽轮机,涡轮机"
+        },
+        {
+          "word": "bed",
+          "meaning": "n. 床,床位;(苗)床,坛;河床,(湖、海的)底"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What hazards should a safety map show?",
+          "answer": "Noise, chemicals, emergency beds, and hidden areas.",
+          "explanation": "安全图应显示噪声、化学品、急救床位和遮挡区域。"
+        },
+        {
+          "prompt": "Who should help revise the map?",
+          "answer": "Workers who use the factory floor.",
+          "explanation": "日常在车间工作的员工应参与修改。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 22,
+  "articles": [
+    {
+      "id": "cet4-reading-d022-1",
+      "title": "The Fall in the Hay Barn",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "At a magnificent old farm, Lena slipped on the last stair to a hay barn and struck her shoulder against the door. She remained conscious and described the accident in a calm manner, although every movement hurt. Her friends wanted to sympathize by lifting her at once, but the dispatcher said the surroundings might require a safer method. Waiting did not spoil the rescue; a rigid board helped strengthen her support, while a tiny atomic clock in the radio recorded each step of the response.",
+      "translation": "在一座美丽的老农场里，莉娜在通往干草仓的最后一级楼梯上滑倒，肩膀撞上了门。她仍然清醒，并以平静的方式讲述事故，尽管每次移动都会疼痛。朋友们想立刻扶起她表示关心，但调度员说周围环境可能需要更安全的处理方式。等待没有耽误救援；硬板加强了支撑，而无线电里微小的原子钟记录了应对过程的每一步。",
+      "sentences": [
+        {
+          "en": "At a magnificent old farm, Lena slipped on the last stair to a hay barn and struck her shoulder against the door.",
+          "zh": "在一座美丽的老农场里，莉娜在通往干草仓的最后一级楼梯上滑倒，肩膀撞上了门。"
+        },
+        {
+          "en": "She remained conscious and described the accident in a calm manner, although every movement hurt.",
+          "zh": "她仍然清醒，并以平静的方式讲述事故，尽管每次移动都会疼痛。"
+        },
+        {
+          "en": "Her friends wanted to sympathize by lifting her at once, but the dispatcher said the surroundings might require a safer method.",
+          "zh": "朋友们想立刻扶起她表示关心，但调度员说周围环境可能需要更安全的处理方式。"
+        },
+        {
+          "en": "Waiting did not spoil the rescue; a rigid board helped strengthen her support, while a tiny atomic clock in the radio recorded each step of the response.",
+          "zh": "等待没有耽误救援；硬板加强了支撑，而无线电里微小的原子钟记录了应对过程的每一步。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "sympathize",
+          "meaning": "v. (with)同情;共鸣,同感;赞成"
+        },
+        {
+          "word": "conscious",
+          "meaning": "a. 清醒的;察觉到;故意的"
+        },
+        {
+          "word": "manner",
+          "meaning": "n. 方式;举止;(pl.)风度,礼貌;规矩;风俗"
+        },
+        {
+          "word": "spoil",
+          "meaning": "v. 破坏;宠坏;(食物)变坏"
+        },
+        {
+          "word": "require",
+          "meaning": "v. 需要;(of)要求,命令"
+        },
+        {
+          "word": "magnificent",
+          "meaning": "a. 宏伟的,壮丽的"
+        },
+        {
+          "word": "atomic",
+          "meaning": "a.原子的;原子能的"
+        },
+        {
+          "word": "strengthen",
+          "meaning": "v. 加强,巩固"
+        },
+        {
+          "word": "surroundings",
+          "meaning": "n. 周围的事物,环境"
+        },
+        {
+          "word": "stair",
+          "meaning": "n. (pl.)楼梯"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Where did Lena fall?",
+          "answer": "On the stair to the hay barn.",
+          "explanation": "她在通往干草仓的楼梯上摔倒。"
+        },
+        {
+          "prompt": "Why did her friends wait before moving her?",
+          "answer": "The surroundings required a safer method.",
+          "explanation": "周围环境要求采用更安全的搬运方法。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d022-2",
+      "title": "How the Body Returns to Alertness",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "An elementary first-aid check begins with shade, fresh air, and a clear question to learn whether an injured person can answer. Pain from a bite or a fall may hurt badly, but helpers have a duty to observe breathing before offering water or food such as beef. The brain has a unique task: it must coordinate balance, speech, memory, and movement as consciousness returns. Simple responses build confidence, just as stacked hay bales need firm support rather than hopeful guessing.",
+      "translation": "基础急救检查从阴凉处、新鲜空气和一个清楚的问题开始，以判断伤者能否回答。咬伤或跌倒造成的疼痛可能很剧烈，但救助者有责任先观察呼吸，再决定是否给水或牛肉等食物。大脑承担着独特任务：意识恢复时，它必须协调平衡、语言、记忆和动作。简单而稳定的反应能建立信心，就像堆放的干草捆需要牢固支撑，而不能依靠乐观猜测。",
+      "sentences": [
+        {
+          "en": "An elementary first-aid check begins with shade, fresh air, and a clear question to learn whether an injured person can answer.",
+          "zh": "基础急救检查从阴凉处、新鲜空气和一个清楚的问题开始，以判断伤者能否回答。"
+        },
+        {
+          "en": "Pain from a bite or a fall may hurt badly, but helpers have a duty to observe breathing before offering water or food such as beef.",
+          "zh": "咬伤或跌倒造成的疼痛可能很剧烈，但救助者有责任先观察呼吸，再决定是否给水或牛肉等食物。"
+        },
+        {
+          "en": "The brain has a unique task: it must coordinate balance, speech, memory, and movement as consciousness returns.",
+          "zh": "大脑承担着独特任务：意识恢复时，它必须协调平衡、语言、记忆和动作。"
+        },
+        {
+          "en": "Simple responses build confidence, just as stacked hay bales need firm support rather than hopeful guessing.",
+          "zh": "简单而稳定的反应能建立信心，就像堆放的干草捆需要牢固支撑，而不能依靠乐观猜测。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "elementary",
+          "meaning": "a. 基本的,初级的"
+        },
+        {
+          "word": "shade",
+          "meaning": "n. 荫,阴影;遮光物,罩v. 遮蔽,遮光"
+        },
+        {
+          "word": "hay",
+          "meaning": "n. 干草"
+        },
+        {
+          "word": "duty",
+          "meaning": "n. 义务,责任;职务;税"
+        },
+        {
+          "word": "confidence",
+          "meaning": "n. (in)信任;信心,自信;秘密,机密"
+        },
+        {
+          "word": "hurt",
+          "meaning": "n. 伤痛,伤害v. 刺痛,伤害;伤...的感情"
+        },
+        {
+          "word": "unique",
+          "meaning": "a. 惟一的,独一无二的"
+        },
+        {
+          "word": "beef",
+          "meaning": "n. 牛肉"
+        },
+        {
+          "word": "coordinate",
+          "meaning": "vt. 使协调;调整"
+        },
+        {
+          "word": "bite",
+          "meaning": "v./n. 咬,叮,刺,紧握,鱼上钩"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should helpers observe before offering food?",
+          "answer": "The injured person's breathing.",
+          "explanation": "救助者应先观察伤者的呼吸。"
+        },
+        {
+          "prompt": "What does the brain coordinate as consciousness returns?",
+          "answer": "Balance, speech, memory, and movement.",
+          "explanation": "大脑会协调平衡、语言、记忆与动作。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d022-3",
+      "title": "Every Farm Needs a Poison Plan",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "A slender warning label is easy to miss in a dim shed, especially when a chemical bottle rolls beneath a van seat. Farms should equip every vehicle with gloves, a protective sleeve, and a cushion that keeps containers upright from the beginning of a trip. A worker who loses consciousness needs a vigorous emergency response, not a nervous laugh or an uncertain search for instructions. Written plans, repeated drills, and visible labels turn poison control from a personal memory test into a shared safety system.",
+      "translation": "昏暗棚屋里，细小的警告标签很容易被忽略，尤其当化学品瓶滚到货车座位下面时。农场应为每辆车配备手套、防护套和固定容器的软垫，从行程一开始就让容器保持直立。工人失去意识时需要有力的紧急处置，而不是紧张的笑声或临时翻找说明。书面方案、反复演练和醒目标识能把有毒物管理从个人记忆测试变成共同安全体系。",
+      "sentences": [
+        {
+          "en": "A slender warning label is easy to miss in a dim shed, especially when a chemical bottle rolls beneath a van seat.",
+          "zh": "昏暗棚屋里，细小的警告标签很容易被忽略，尤其当化学品瓶滚到货车座位下面时。"
+        },
+        {
+          "en": "Farms should equip every vehicle with gloves, a protective sleeve, and a cushion that keeps containers upright from the beginning of a trip.",
+          "zh": "农场应为每辆车配备手套、防护套和固定容器的软垫，从行程一开始就让容器保持直立。"
+        },
+        {
+          "en": "A worker who loses consciousness needs a vigorous emergency response, not a nervous laugh or an uncertain search for instructions.",
+          "zh": "工人失去意识时需要有力的紧急处置，而不是紧张的笑声或临时翻找说明。"
+        },
+        {
+          "en": "Written plans, repeated drills, and visible labels turn poison control from a personal memory test into a shared safety system.",
+          "zh": "书面方案、反复演练和醒目标识能把有毒物管理从个人记忆测试变成共同安全体系。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "laugh",
+          "meaning": "v. 笑;(on)讥笑n. 笑,笑声"
+        },
+        {
+          "word": "slender",
+          "meaning": "a. 细长的,苗条的,纤弱的;微小的,微薄的"
+        },
+        {
+          "word": "van",
+          "meaning": "n. 有篷汽车;有篷货运车厢"
+        },
+        {
+          "word": "dim",
+          "meaning": "a. 暗的,看不清楚的,迟钝的;v. 变模糊,变暗淡"
+        },
+        {
+          "word": "sleeve",
+          "meaning": "n. 袖子"
+        },
+        {
+          "word": "beginning",
+          "meaning": "n. 开始,开端;起源,早期阶段"
+        },
+        {
+          "word": "cushion",
+          "meaning": "n. 垫子,坐垫,垫状物 vt. 装垫子,使减少震动,缓冲"
+        },
+        {
+          "word": "vigorous",
+          "meaning": "a. 强有力的,精力充沛的"
+        },
+        {
+          "word": "consciousness",
+          "meaning": "n.意识,觉悟;知觉"
+        },
+        {
+          "word": "equip",
+          "meaning": "v. (with)装备,配备;训练"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What equipment should farm vehicles carry?",
+          "answer": "Gloves, a protective sleeve, and a stabilizing cushion.",
+          "explanation": "车辆应配备手套、防护套和固定软垫。"
+        },
+        {
+          "prompt": "Why are written plans useful?",
+          "answer": "They create a shared safety system.",
+          "explanation": "书面方案能建立共同的安全体系。"
+        }
+      ]
+    }
+  ]
+}

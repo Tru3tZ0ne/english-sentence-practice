@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "collection_id": "cet4_context_readings",
+  "wordlist_id": "cet4_combined",
+  "day": 38,
+  "articles": [
+    {
+      "id": "cet4-reading-d038-1",
+      "title": "The Detective on Platform Six",
+      "type": "story",
+      "difficulty": "CET-4+",
+      "text": "Police designate one carriage as the possible scene of a theft, and a detective boards the train destined for the coast. She does not detain every passenger or treat suspicion as destiny; instead, she asks staff to detach a damaged lock and examines its marks. The scratches showed that the door had begun to deteriorate and would deviate from its rail whenever the train turned sharply. The evidence lets her diagnose the fault and prevent a destructive accusation: the missing case slid into a service space rather than being stolen.",
+      "translation": "警方把一节车厢指定为可能的盗窃现场后，一名侦探登上了开往海岸的列车。她没有扣留所有乘客，也没有把怀疑当作命运，而是拆下损坏的锁检查痕迹。划痕表明车门已经开始老化，列车急转时就会偏离轨道。她的判断避免了破坏性的指控：丢失的箱子是滑进维修空间，并非被盗。",
+      "sentences": [
+        {
+          "en": "Police designate one carriage as the possible scene of a theft, and a detective boards the train destined for the coast.",
+          "zh": "警方把一节车厢指定为可能的盗窃现场后，一名侦探登上了开往海岸的列车。"
+        },
+        {
+          "en": "She does not detain every passenger or treat suspicion as destiny; instead, she asks staff to detach a damaged lock and examines its marks.",
+          "zh": "她没有扣留所有乘客，也没有把怀疑当作命运，而是拆下损坏的锁检查痕迹。"
+        },
+        {
+          "en": "The scratches showed that the door had begun to deteriorate and would deviate from its rail whenever the train turned sharply.",
+          "zh": "划痕表明车门已经开始老化，列车急转时就会偏离轨道。"
+        },
+        {
+          "en": "The evidence lets her diagnose the fault and prevent a destructive accusation: the missing case slid into a service space rather than being stolen.",
+          "zh": "她的判断避免了破坏性的指控：丢失的箱子是滑进维修空间，并非被盗。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "designate",
+          "meaning": "vt. 把...定名为,指派,标出"
+        },
+        {
+          "word": "destined",
+          "meaning": "adj.去往...的"
+        },
+        {
+          "word": "destiny",
+          "meaning": "n. 命运;天数,天命"
+        },
+        {
+          "word": "destructive",
+          "meaning": "a. 破坏的,破坏性的"
+        },
+        {
+          "word": "detach",
+          "meaning": "vt. 使分开,拆卸;派遣"
+        },
+        {
+          "word": "detain",
+          "meaning": "vt. 耽搁,延迟;拘留,扣押"
+        },
+        {
+          "word": "detective",
+          "meaning": "n. 侦探"
+        },
+        {
+          "word": "deteriorate",
+          "meaning": "v. 恶化,败坏"
+        },
+        {
+          "word": "deviate",
+          "meaning": "vi. 偏离,背离"
+        },
+        {
+          "word": "diagnose",
+          "meaning": "vt. 诊断"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the lock marks reveal?",
+          "answer": "The door was deteriorating and moving off its rail.",
+          "explanation": "锁的痕迹表明车门老化并偏离轨道。"
+        },
+        {
+          "prompt": "Where was the missing case?",
+          "answer": "In a service space.",
+          "explanation": "箱子滑进了维修空间。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d038-2",
+      "title": "How Medicines Spread Through Water",
+      "type": "explanatory",
+      "difficulty": "CET-4+",
+      "text": "When a substance begins to diffuse through water, its molecules move from crowded areas toward places where fewer are present. Adding clean water can dilute the concentration but does not necessarily diminish the total amount of the substance. Students learn to differentiate these ideas through measurements, not through a diploma, a directory, or the authority of a visiting diplomat. A classroom dilemma about whether it is safe to dine near a laboratory should be resolved with evidence and respect for everyone's dignity.",
+      "translation": "一种物质开始在水中扩散时，分子会从密集区域向稀疏区域移动。加入清水可以稀释浓度，但不一定减少该物质的总量。学生要通过测量区分这些概念，而不是依靠文凭、名录或来访外交官的权威。是否能在实验室附近进餐这一课堂难题，应以证据和对每个人尊严的尊重来解决。",
+      "sentences": [
+        {
+          "en": "When a substance begins to diffuse through water, its molecules move from crowded areas toward places where fewer are present.",
+          "zh": "一种物质开始在水中扩散时，分子会从密集区域向稀疏区域移动。"
+        },
+        {
+          "en": "Adding clean water can dilute the concentration but does not necessarily diminish the total amount of the substance.",
+          "zh": "加入清水可以稀释浓度，但不一定减少该物质的总量。"
+        },
+        {
+          "en": "Students learn to differentiate these ideas through measurements, not through a diploma, a directory, or the authority of a visiting diplomat.",
+          "zh": "学生要通过测量区分这些概念，而不是依靠文凭、名录或来访外交官的权威。"
+        },
+        {
+          "en": "A classroom dilemma about whether it is safe to dine near a laboratory should be resolved with evidence and respect for everyone's dignity.",
+          "zh": "是否能在实验室附近进餐这一课堂难题，应以证据和对每个人尊严的尊重来解决。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "differentiate",
+          "meaning": "v.区别, 区分。"
+        },
+        {
+          "word": "diffuse",
+          "meaning": "v.散播, 传播, 漫射, 扩散, (使)慢慢混合。adj.散开的, 弥漫的。"
+        },
+        {
+          "word": "dignity",
+          "meaning": "n. 高贵,尊贵,高位"
+        },
+        {
+          "word": "dilemma",
+          "meaning": "n.进退两难的局面, 困难的选择。"
+        },
+        {
+          "word": "dilute",
+          "meaning": "vt. 使变淡,稀释;a. 稀释的"
+        },
+        {
+          "word": "diminish",
+          "meaning": "v. 减小,减少,缩小"
+        },
+        {
+          "word": "dine",
+          "meaning": "v. 吃饭,进餐"
+        },
+        {
+          "word": "diploma",
+          "meaning": "n. 毕业证书,文凭"
+        },
+        {
+          "word": "diplomat",
+          "meaning": "n.外交人员"
+        },
+        {
+          "word": "directory",
+          "meaning": "n. 名录"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What does dilution change?",
+          "answer": "Concentration, not necessarily total amount.",
+          "explanation": "稀释改变浓度，但不一定改变总量。"
+        },
+        {
+          "prompt": "How should safety dilemmas be resolved?",
+          "answer": "With evidence and respect.",
+          "explanation": "安全难题应以证据和尊重来解决。"
+        }
+      ]
+    },
+    {
+      "id": "cet4-reading-d038-3",
+      "title": "Transport Updates Must Be Clear",
+      "type": "opinion",
+      "difficulty": "CET-4+",
+      "text": "During a disastrous transport failure, officials should dispatch clear updates before crowds disperse toward unsafe alternatives. Passengers need to discern discrete facts: which line is closed, when buses leave, and whether a ticket discount applies. A discrepancy between an app and a station board causes dismay, while vague language may discriminate against travelers who read slowly. Staff can remain discreet about personal incidents while still giving the public enough verified information to choose a safe route.",
+      "translation": "发生灾难性交通故障时，官员应在乘客分散前往不安全替代路线前发布清楚更新。乘客需要辨认一项项明确事实：哪条线路关闭、公交何时发车，以及票价折扣是否适用。应用与站牌信息不一致会令人沮丧，含糊语言还可能不利于阅读较慢的旅客。员工可以对个人事件保持谨慎保密，同时仍向公众提供足够的核实信息来选择安全路线。",
+      "sentences": [
+        {
+          "en": "During a disastrous transport failure, officials should dispatch clear updates before crowds disperse toward unsafe alternatives.",
+          "zh": "发生灾难性交通故障时，官员应在乘客分散前往不安全替代路线前发布清楚更新。"
+        },
+        {
+          "en": "Passengers need to discern discrete facts: which line is closed, when buses leave, and whether a ticket discount applies.",
+          "zh": "乘客需要辨认一项项明确事实：哪条线路关闭、公交何时发车，以及票价折扣是否适用。"
+        },
+        {
+          "en": "A discrepancy between an app and a station board causes dismay, while vague language may discriminate against travelers who read slowly.",
+          "zh": "应用与站牌信息不一致会令人沮丧，含糊语言还可能不利于阅读较慢的旅客。"
+        },
+        {
+          "en": "Staff can remain discreet about personal incidents while still giving the public enough verified information to choose a safe route.",
+          "zh": "员工可以对个人事件保持谨慎保密，同时仍向公众提供足够的核实信息来选择安全路线。"
+        }
+      ],
+      "target_words": [
+        {
+          "word": "disastrous",
+          "meaning": "a. 灾难性的"
+        },
+        {
+          "word": "discern",
+          "meaning": "vt. 看出,察觉出;辨出,认出"
+        },
+        {
+          "word": "discount",
+          "meaning": "n. 折扣 vt. 不全信,低估,漠视"
+        },
+        {
+          "word": "discreet",
+          "meaning": "a. 谨慎的,思虑两全的"
+        },
+        {
+          "word": "discrepancy",
+          "meaning": "n. 不一致,差异,不符"
+        },
+        {
+          "word": "discrete",
+          "meaning": "adj.不连续的, 离散的。"
+        },
+        {
+          "word": "discriminate",
+          "meaning": "v. 区别,区分;歧视"
+        },
+        {
+          "word": "dismay",
+          "meaning": "n./vt. (使)灰心丧气;惊愕"
+        },
+        {
+          "word": "dispatch",
+          "meaning": "v./n. (=despatch)派遣,发送,迅速办理,急件"
+        },
+        {
+          "word": "disperse",
+          "meaning": "v. 使散开,使疏开,使分散"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which facts do passengers need?",
+          "answer": "Closures, departure times, and ticket rules.",
+          "explanation": "乘客需要关闭线路、发车时间和票务规则。"
+        },
+        {
+          "prompt": "What causes dismay?",
+          "answer": "Conflicting information across channels.",
+          "explanation": "不同渠道信息冲突会令人沮丧。"
+        }
+      ]
+    }
+  ]
+}
