@@ -1,0 +1,465 @@
+{
+  "schema_version": 1,
+  "id": "cyber_identity_data_security",
+  "title": "网络安全 · 身份与数据安全 30 句",
+  "description": "覆盖身份生命周期、特权访问、零信任、数据分类、加密、DLP、备份与数据治理的高级英语表达。",
+  "language": "en-GB",
+  "tags": [
+    "网络安全",
+    "身份与数据安全",
+    "零信任",
+    "IELTS 6+"
+  ],
+  "items": [
+    {
+      "id": "iddata_001",
+      "zh": "新员工权限应根据岗位自动分配，并由直属经理确认任何额外访问。",
+      "en": "Access for a new employee should be assigned according to role, with any additional entitlement confirmed by the line manager.",
+      "answers": [
+        "Access for a new employee should be assigned according to role, with any additional entitlement confirmed by the line manager."
+      ],
+      "notes": "according to 表示分配依据；with 独立结构补充额外权限要求。",
+      "tags": [
+        "身份与数据安全",
+        "入职授权",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "iddata_002",
+      "zh": "员工调岗时，旧权限必须与新权限同时复核，以免累积不再需要的访问。",
+      "en": "When an employee changes role, previous access must be reviewed alongside new entitlements to prevent unnecessary privileges from accumulating.",
+      "answers": [
+        "When an employee changes role, previous access must be reviewed alongside new entitlements to prevent unnecessary privileges from accumulating."
+      ],
+      "notes": "alongside 表示一并；prevent A from doing 表示防止权限累积。",
+      "tags": [
+        "身份与数据安全",
+        "调岗复核",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "iddata_003",
+      "zh": "离职流程依赖人力系统及时发送状态变更，而不是由各应用分别发现。",
+      "en": "The leaver process relies on the human-resources system to provide a timely status change rather than expecting each application to discover the departure separately.",
+      "answers": [
+        "The leaver process relies on the human-resources system to provide a timely status change rather than expecting each application to discover the departure separately."
+      ],
+      "notes": "rely on A to do；rather than doing 对比集中触发与分散发现。",
+      "tags": [
+        "身份与数据安全",
+        "离职撤权",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "iddata_004",
+      "zh": "长期未使用的账户可能属于休假员工，也可能是未完成撤销的遗留身份。",
+      "en": "A long-dormant account may belong to an employee on leave or represent an identity that was never fully deprovisioned.",
+      "answers": [
+        "A long-dormant account may belong to an employee on leave or represent an identity that was never fully deprovisioned."
+      ],
+      "notes": "may A or B 提出两种解释；deprovision 表示撤销账户资源。",
+      "tags": [
+        "身份与数据安全",
+        "休眠账户",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "iddata_005",
+      "zh": "服务账户需要明确负责人，即使没有个人每天使用它。",
+      "en": "A service account needs a named owner even though no individual uses it interactively each day.",
+      "answers": [
+        "A service account needs a named owner even though no individual uses it interactively each day."
+      ],
+      "notes": "even though 引导让步；named owner 指明确指定的负责人。",
+      "tags": [
+        "身份与数据安全",
+        "非人身份",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "iddata_006",
+      "zh": "最小权限不是一次性项目，因为用户职责和系统功能都会随时间变化。",
+      "en": "Least privilege is not a one-off exercise, because both user responsibilities and system functions change over time.",
+      "answers": [
+        "Least privilege is not a one-off exercise, because both user responsibilities and system functions change over time."
+      ],
+      "notes": "one-off exercise 表示一次性工作；both ... and 并列变化因素。",
+      "tags": [
+        "身份与数据安全",
+        "最小权限",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "iddata_007",
+      "zh": "角色包含过多例外时，它就不再代表一组可复用的业务职责。",
+      "en": "When a role contains too many exceptions, it no longer represents a reusable set of business responsibilities.",
+      "answers": [
+        "When a role contains too many exceptions, it no longer represents a reusable set of business responsibilities."
+      ],
+      "notes": "when 引出角色失效条件；no longer 表示不再。",
+      "tags": [
+        "身份与数据安全",
+        "角色工程",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "iddata_008",
+      "zh": "权限复核应向审批人展示访问用途，而不能只显示难以理解的技术组名。",
+      "en": "An access review should show the approver what each entitlement permits, not merely an opaque technical group name.",
+      "answers": [
+        "An access review should show the approver what each entitlement permits, not merely an opaque technical group name."
+      ],
+      "notes": "双宾语 show someone what；not merely 强调可理解背景。",
+      "tags": [
+        "身份与数据安全",
+        "访问复核",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "iddata_009",
+      "zh": "如果经理无法判断权限是否合理，就应转交给了解应用的负责人。",
+      "en": "If a manager cannot judge whether access is appropriate, the decision should be referred to an owner who understands the application.",
+      "answers": [
+        "If a manager cannot judge whether access is appropriate, the decision should be referred to an owner who understands the application."
+      ],
+      "notes": "whether 引导判断内容；who 引导定语从句限定负责人。",
+      "tags": [
+        "身份与数据安全",
+        "审批升级",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "iddata_010",
+      "zh": "职责分离规则应识别危险的权限组合，而不是把每项权限单独视为高风险。",
+      "en": "Segregation-of-duties rules should identify dangerous combinations of access rather than label each permission as high risk in isolation.",
+      "answers": [
+        "Segregation-of-duties rules should identify dangerous combinations of access rather than label each permission as high risk in isolation."
+      ],
+      "notes": "rather than 对比组合风险与单项风险；in isolation 表示孤立。",
+      "tags": [
+        "身份与数据安全",
+        "职责分离",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "iddata_011",
+      "zh": "管理员通过个人账户申请临时提权，使每个高权限操作都能追溯到具体人员。",
+      "en": "Administrators request temporary elevation through their personal accounts so that every privileged action can be traced to an individual.",
+      "answers": [
+        "Administrators request temporary elevation through their personal accounts so that every privileged action can be traced to an individual."
+      ],
+      "notes": "so that 表示可追溯目的；trace to 表示追溯到。",
+      "tags": [
+        "身份与数据安全",
+        "特权提升",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "iddata_012",
+      "zh": "紧急账户凭据密封保存，只有正常身份服务不可用时才能取用。",
+      "en": "Credentials for the emergency account are held under seal and may be retrieved only when the normal identity service is unavailable.",
+      "answers": [
+        "Credentials for the emergency account are held under seal and may be retrieved only when the normal identity service is unavailable."
+      ],
+      "notes": "under seal 表示密封保管；only when 限定启用条件。",
+      "tags": [
+        "身份与数据安全",
+        "紧急账户",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "iddata_013",
+      "zh": "会话记录可以支持调查，但必须限制访问，避免管理员活动被过度监控。",
+      "en": "Session recording can support investigations, but access to the recordings must be restricted to avoid disproportionate monitoring of administrators.",
+      "answers": [
+        "Session recording can support investigations, but access to the recordings must be restricted to avoid disproportionate monitoring of administrators."
+      ],
+      "notes": "but 平衡调查需要与隐私；to avoid 说明访问限制目的。",
+      "tags": [
+        "身份与数据安全",
+        "会话审计",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "iddata_014",
+      "zh": "密码库轮换了目标账户密码，却因缓存凭据而没有立即终止现有会话。",
+      "en": "The vault rotated the target account's password, although existing sessions remained active because of cached credentials.",
+      "answers": [
+        "The vault rotated the target account's password, although existing sessions remained active because of cached credentials."
+      ],
+      "notes": "although 引出轮换局限；because of 后接名词短语说明原因。",
+      "tags": [
+        "身份与数据安全",
+        "凭据轮换",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "iddata_015",
+      "zh": "高权限命令需要二次审批，不代表审批人可以忽略操作发生的业务背景。",
+      "en": "Requiring secondary approval for a privileged command does not remove the approver's need to understand its business context.",
+      "answers": [
+        "Requiring secondary approval for a privileged command does not remove the approver's need to understand its business context."
+      ],
+      "notes": "动名词短语作主语；does not remove 表示控制不替代判断。",
+      "tags": [
+        "身份与数据安全",
+        "特权审批",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "iddata_016",
+      "zh": "零信任策略根据身份、设备状态和请求背景持续判断访问，而不只依赖网络位置。",
+      "en": "A zero-trust policy evaluates access continuously according to identity, device posture, and request context rather than relying solely on network location.",
+      "answers": [
+        "A zero-trust policy evaluates access continuously according to identity, device posture, and request context rather than relying solely on network location."
+      ],
+      "notes": "according to 列出动态信号；rather than doing 对比传统边界。",
+      "tags": [
+        "身份与数据安全",
+        "零信任",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "iddata_017",
+      "zh": "设备曾经合规并不能保证它在整个会话期间保持安全状态。",
+      "en": "A device being compliant at sign-in does not guarantee that it remains secure throughout the session.",
+      "answers": [
+        "A device being compliant at sign-in does not guarantee that it remains secure throughout the session."
+      ],
+      "notes": "does not guarantee that 限制时点检查结论；throughout 表示整个期间。",
+      "tags": [
+        "身份与数据安全",
+        "持续验证",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "iddata_018",
+      "zh": "条件访问拒绝来自高风险位置的登录，同时允许经过强化验证的业务例外。",
+      "en": "Conditional access blocks sign-ins from high-risk locations while allowing approved business exceptions with stronger verification.",
+      "answers": [
+        "Conditional access blocks sign-ins from high-risk locations while allowing approved business exceptions with stronger verification."
+      ],
+      "notes": "while doing 表示控制与例外并存；with 引出强化条件。",
+      "tags": [
+        "身份与数据安全",
+        "条件访问",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "iddata_019",
+      "zh": "微隔离限制单个身份被攻陷后的可达范围，从而缩小潜在影响。",
+      "en": "Micro-segmentation limits what a compromised identity can reach, thereby reducing the potential blast radius.",
+      "answers": [
+        "Micro-segmentation limits what a compromised identity can reach, thereby reducing the potential blast radius."
+      ],
+      "notes": "what 引导宾语从句；thereby doing 说明降低影响结果。",
+      "tags": [
+        "身份与数据安全",
+        "微隔离",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "iddata_020",
+      "zh": "访问决定失败时默认拒绝，除非业务已经明确接受降级模式的风险。",
+      "en": "An access decision fails closed unless the business has explicitly accepted the risk of a degraded mode.",
+      "answers": [
+        "An access decision fails closed unless the business has explicitly accepted the risk of a degraded mode."
+      ],
+      "notes": "fail closed 指失败时拒绝；unless 引出经批准的例外。",
+      "tags": [
+        "身份与数据安全",
+        "失败策略",
+        "专业英语"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "iddata_021",
+      "zh": "数据分类应反映泄露、篡改或不可用可能造成的业务影响。",
+      "en": "Data classification should reflect the business impact that disclosure, alteration, or unavailability could cause.",
+      "answers": [
+        "Data classification should reflect the business impact that disclosure, alteration, or unavailability could cause."
+      ],
+      "notes": "that 引导定语从句；三个并列名词覆盖机密性、完整性和可用性。",
+      "tags": [
+        "身份与数据安全",
+        "数据分类",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "iddata_022",
+      "zh": "同一文件包含不同敏感度的信息时，应按其中最高要求实施保护。",
+      "en": "Where a file contains information at different sensitivity levels, it should be protected according to the highest applicable requirement.",
+      "answers": [
+        "Where a file contains information at different sensitivity levels, it should be protected according to the highest applicable requirement."
+      ],
+      "notes": "where 引出混合数据情境；according to 表示保护依据。",
+      "tags": [
+        "身份与数据安全",
+        "分类处理",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "iddata_023",
+      "zh": "标签只有在下游系统据此采取一致控制时，才真正具备治理价值。",
+      "en": "A label has governance value only when downstream systems apply consistent controls on the basis of it.",
+      "answers": [
+        "A label has governance value only when downstream systems apply consistent controls on the basis of it."
+      ],
+      "notes": "only when 限定标签价值；on the basis of 表示以标签为依据。",
+      "tags": [
+        "身份与数据安全",
+        "数据标签",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "iddata_024",
+      "zh": "数据所有者决定谁可以访问，而平台团队负责可靠实施这一决定。",
+      "en": "The data owner decides who may have access, while the platform team is responsible for enforcing that decision reliably.",
+      "answers": [
+        "The data owner decides who may have access, while the platform team is responsible for enforcing that decision reliably."
+      ],
+      "notes": "who 引导宾语从句；while 划分决策与执行职责。",
+      "tags": [
+        "身份与数据安全",
+        "数据所有权",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "iddata_025",
+      "zh": "发现未分类数据后，应先确定其业务用途，再决定保留、保护或删除。",
+      "en": "When unclassified data is discovered, its business purpose should be established before a decision is made to retain, protect, or delete it.",
+      "answers": [
+        "When unclassified data is discovered, its business purpose should be established before a decision is made to retain, protect, or delete it."
+      ],
+      "notes": "before 强调治理顺序；三个不定式并列表示处置选择。",
+      "tags": [
+        "身份与数据安全",
+        "数据发现",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "iddata_026",
+      "zh": "静态加密保护存储介质，却无法阻止已获授权的应用读取明文。",
+      "en": "Encryption at rest protects the storage medium, but it cannot prevent an authorised application from reading the plaintext.",
+      "answers": [
+        "Encryption at rest protects the storage medium, but it cannot prevent an authorised application from reading the plaintext."
+      ],
+      "notes": "prevent A from doing；but 限定静态加密能力。",
+      "tags": [
+        "身份与数据安全",
+        "加密边界",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "iddata_027",
+      "zh": "密钥与加密数据分开管理，能够降低单个存储位置泄露造成的风险。",
+      "en": "Managing keys separately from encrypted data reduces the risk arising from compromise of a single storage location.",
+      "answers": [
+        "Managing keys separately from encrypted data reduces the risk arising from compromise of a single storage location."
+      ],
+      "notes": "动名词作主语；arising from 作后置定语说明风险来源。",
+      "tags": [
+        "身份与数据安全",
+        "密钥分离",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "iddata_028",
+      "zh": "数据防泄漏规则先以监控模式运行，以了解正常传输并避免阻断关键流程。",
+      "en": "The data-loss prevention rule runs in monitoring mode first to understand legitimate transfers and avoid blocking a critical process.",
+      "answers": [
+        "The data-loss prevention rule runs in monitoring mode first to understand legitimate transfers and avoid blocking a critical process."
+      ],
+      "notes": "to understand 与 avoid 并列表示试运行的两个目的。",
+      "tags": [
+        "身份与数据安全",
+        "DLP 调优",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "iddata_029",
+      "zh": "备份不可变性能阻止攻击者删除恢复点，但仍需测试数据能否按时恢复。",
+      "en": "Backup immutability can prevent an attacker from deleting recovery points, but the organisation must still test whether data can be restored on time.",
+      "answers": [
+        "Backup immutability can prevent an attacker from deleting recovery points, but the organisation must still test whether data can be restored on time."
+      ],
+      "notes": "prevent A from doing；whether 引导恢复测试内容。",
+      "tags": [
+        "身份与数据安全",
+        "备份保护",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "iddata_030",
+      "zh": "删除请求完成后，系统还应说明数据是否因法律保留而存在于受限归档中。",
+      "en": "After a deletion request is fulfilled, the system should state whether any data remains in a restricted archive under a legal hold.",
+      "answers": [
+        "After a deletion request is fulfilled, the system should state whether any data remains in a restricted archive under a legal hold."
+      ],
+      "notes": "whether 引导剩余数据说明；under a legal hold 是法律保留表达。",
+      "tags": [
+        "身份与数据安全",
+        "安全删除",
+        "专业英语"
+      ],
+      "difficulty": 4
+    }
+  ]
+}

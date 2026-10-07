@@ -1,0 +1,465 @@
+{
+  "schema_version": 1,
+  "id": "cyber_cloud_security",
+  "title": "网络安全 · 云安全架构与运营 30 句",
+  "description": "覆盖云上责任边界、身份权限、网络、配置、容器、密钥、日志与多云治理的高级英语表达。",
+  "language": "en-GB",
+  "tags": [
+    "网络安全",
+    "云安全",
+    "云架构",
+    "IELTS 6+"
+  ],
+  "items": [
+    {
+      "id": "cloudsec_001",
+      "zh": "云服务商保护底层基础设施，但客户仍需负责工作负载配置和数据访问。",
+      "en": "The cloud provider protects the underlying infrastructure, while the client remains responsible for workload configuration and data access.",
+      "answers": [
+        "The cloud provider protects the underlying infrastructure, while the client remains responsible for workload configuration and data access."
+      ],
+      "notes": "while 对比共享责任双方；remain responsible for 是正式责任表达。",
+      "tags": [
+        "云安全",
+        "共享责任",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "cloudsec_002",
+      "zh": "使用托管数据库减少了系统维护工作，却没有把数据分类责任转移给供应商。",
+      "en": "Using a managed database reduces system maintenance, but it does not transfer responsibility for data classification to the provider.",
+      "answers": [
+        "Using a managed database reduces system maintenance, but it does not transfer responsibility for data classification to the provider."
+      ],
+      "notes": "动名词作主语；transfer responsibility to 表示责任转移。",
+      "tags": [
+        "云安全",
+        "责任边界",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "cloudsec_003",
+      "zh": "在采用新云服务前，团队应确认哪些安全控制由平台原生提供。",
+      "en": "Before adopting a new cloud service, the team should establish which security controls are provided natively by the platform.",
+      "answers": [
+        "Before adopting a new cloud service, the team should establish which security controls are provided natively by the platform."
+      ],
+      "notes": "establish which 表示查明；natively 指平台原生提供。",
+      "tags": [
+        "云安全",
+        "服务评估",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "cloudsec_004",
+      "zh": "合同承诺可用性并不意味着客户的应用架构自动具备跨区域韧性。",
+      "en": "A contractual availability commitment does not mean that the client's application architecture is automatically resilient across regions.",
+      "answers": [
+        "A contractual availability commitment does not mean that the client's application architecture is automatically resilient across regions."
+      ],
+      "notes": "does not mean that 限制错误推论；resilient across 描述跨区域能力。",
+      "tags": [
+        "云安全",
+        "韧性边界",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "cloudsec_005",
+      "zh": "若服务需要客户管理加密密钥，密钥不可用也会导致数据无法访问。",
+      "en": "Where a service relies on customer-managed encryption keys, loss of key availability can also make the data inaccessible.",
+      "answers": [
+        "Where a service relies on customer-managed encryption keys, loss of key availability can also make the data inaccessible."
+      ],
+      "notes": "where 引出特定服务模型；make A B 是宾补结构。",
+      "tags": [
+        "云安全",
+        "密钥责任",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "cloudsec_006",
+      "zh": "联合身份认证让用户使用企业账户登录，同时避免在每个平台维护独立密码。",
+      "en": "Federated authentication allows users to sign in with corporate identities while avoiding separate passwords on each platform.",
+      "answers": [
+        "Federated authentication allows users to sign in with corporate identities while avoiding separate passwords on each platform."
+      ],
+      "notes": "allow someone to do；while avoiding 表示同时避免另一做法。",
+      "tags": [
+        "云安全",
+        "身份联合",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "cloudsec_007",
+      "zh": "权限边界可以限制管理员授予的最大权限，但不能纠正每个不当的角色分配。",
+      "en": "A permissions boundary can limit the maximum access an administrator may grant, but it cannot correct every inappropriate role assignment.",
+      "answers": [
+        "A permissions boundary can limit the maximum access an administrator may grant, but it cannot correct every inappropriate role assignment."
+      ],
+      "notes": "may grant 是省略关系代词的定语结构；but 区分机制能力边界。",
+      "tags": [
+        "云安全",
+        "权限边界",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "cloudsec_008",
+      "zh": "临时高权限应在批准期限结束后自动撤销，而不是依赖人工清理。",
+      "en": "Temporary privileged access should expire automatically at the end of the approved period rather than depend on manual removal.",
+      "answers": [
+        "Temporary privileged access should expire automatically at the end of the approved period rather than depend on manual removal."
+      ],
+      "notes": "expire automatically 表示自动到期；rather than 对比治理方式。",
+      "tags": [
+        "云安全",
+        "即时权限",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "cloudsec_009",
+      "zh": "跨账户角色允许中央团队调查事件，而无需在每个账户创建长期用户。",
+      "en": "A cross-account role enables the central team to investigate incidents without creating permanent users in every account.",
+      "answers": [
+        "A cross-account role enables the central team to investigate incidents without creating permanent users in every account."
+      ],
+      "notes": "enable someone to do；without doing 表示避免长期账户。",
+      "tags": [
+        "云安全",
+        "跨账户访问",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "cloudsec_010",
+      "zh": "如果工作负载仍使用静态访问密钥，迁移到云端并不会消除凭据泄露风险。",
+      "en": "If workloads continue to use static access keys, moving them to the cloud will not eliminate the risk of credential exposure.",
+      "answers": [
+        "If workloads continue to use static access keys, moving them to the cloud will not eliminate the risk of credential exposure."
+      ],
+      "notes": "if 引出持续做法；动名词短语 moving... 作主语。",
+      "tags": [
+        "云安全",
+        "凭据管理",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "cloudsec_011",
+      "zh": "私有子网减少了直接互联网暴露，但流量仍可能通过受信任服务离开环境。",
+      "en": "A private subnet reduces direct internet exposure, although traffic may still leave the environment through an authorised service.",
+      "answers": [
+        "A private subnet reduces direct internet exposure, although traffic may still leave the environment through an authorised service."
+      ],
+      "notes": "although 引出剩余风险；through 表示流量路径。",
+      "tags": [
+        "云安全",
+        "网络隔离",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "cloudsec_012",
+      "zh": "安全组规则引用应用角色，比允许整个地址段更能适应动态扩缩容。",
+      "en": "Security-group rules that reference application roles adapt to dynamic scaling better than rules that permit an entire address range.",
+      "answers": [
+        "Security-group rules that reference application roles adapt to dynamic scaling better than rules that permit an entire address range."
+      ],
+      "notes": "两个 that 从句构成具体比较；adapt to 是固定搭配。",
+      "tags": [
+        "云安全",
+        "网络策略",
+        "专业英语"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "cloudsec_013",
+      "zh": "仅允许出站流量并不等于没有风险，因为被攻陷的工作负载仍可连接外部服务。",
+      "en": "Allowing outbound traffic only does not remove risk, because a compromised workload can still connect to an external service.",
+      "answers": [
+        "Allowing outbound traffic only does not remove risk, because a compromised workload can still connect to an external service."
+      ],
+      "notes": "动名词作主语；because 解释出站通道的风险。",
+      "tags": [
+        "云安全",
+        "出站控制",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "cloudsec_014",
+      "zh": "东西向流量缺少检查时，同一虚拟网络内的攻击可能绕过边界设备。",
+      "en": "Where east-west traffic is not inspected, an attack within the same virtual network may bypass the perimeter controls.",
+      "answers": [
+        "Where east-west traffic is not inspected, an attack within the same virtual network may bypass the perimeter controls."
+      ],
+      "notes": "where 引出控制缺口；bypass 表示绕过。",
+      "tags": [
+        "云安全",
+        "横向流量",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "cloudsec_015",
+      "zh": "网络流日志能显示连接元数据，却不能证明加密会话中传输了什么内容。",
+      "en": "Network flow logs reveal connection metadata but cannot establish what was transferred within an encrypted session.",
+      "answers": [
+        "Network flow logs reveal connection metadata but cannot establish what was transferred within an encrypted session."
+      ],
+      "notes": "reveal ... but cannot establish 限定日志能力；what 引导宾语从句。",
+      "tags": [
+        "云安全",
+        "网络日志",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "cloudsec_016",
+      "zh": "基础设施即代码使配置可以复核和重复部署，前提是手工变更受到限制。",
+      "en": "Infrastructure as code makes configurations reviewable and repeatable, provided that manual changes are restricted.",
+      "answers": [
+        "Infrastructure as code makes configurations reviewable and repeatable, provided that manual changes are restricted."
+      ],
+      "notes": "make A B 是宾补；provided that 引出实现收益的前提。",
+      "tags": [
+        "云安全",
+        "配置治理",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "cloudsec_017",
+      "zh": "策略检查在部署前发现公开存储桶，避免了错误配置进入生产环境。",
+      "en": "The policy check detected a public storage bucket before deployment, preventing the misconfiguration from reaching production.",
+      "answers": [
+        "The policy check detected a public storage bucket before deployment, preventing the misconfiguration from reaching production."
+      ],
+      "notes": "prevent A from doing 表示阻止；现在分词说明结果。",
+      "tags": [
+        "云安全",
+        "配置检查",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "cloudsec_018",
+      "zh": "自动修复适合确定性较高的违规项，而有业务例外的配置仍需人工评估。",
+      "en": "Automated remediation suits deterministic violations, whereas configurations with business exceptions still require human assessment.",
+      "answers": [
+        "Automated remediation suits deterministic violations, whereas configurations with business exceptions still require human assessment."
+      ],
+      "notes": "whereas 对比适用场景；deterministic 指可确定处理。",
+      "tags": [
+        "云安全",
+        "自动修复",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "cloudsec_019",
+      "zh": "配置快照说明资源在某一时点的状态，却不能单独解释谁进行了变更。",
+      "en": "A configuration snapshot shows the state of a resource at a point in time, but it cannot by itself explain who made the change.",
+      "answers": [
+        "A configuration snapshot shows the state of a resource at a point in time, but it cannot by itself explain who made the change."
+      ],
+      "notes": "at a point in time 表示时点；by itself 限定单一证据能力。",
+      "tags": [
+        "云安全",
+        "配置证据",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "cloudsec_020",
+      "zh": "偏离基线的资源会生成告警，但基线本身也必须随着架构变化而复核。",
+      "en": "Resources that drift from the baseline generate alerts, but the baseline itself must also be reviewed as the architecture evolves.",
+      "answers": [
+        "Resources that drift from the baseline generate alerts, but the baseline itself must also be reviewed as the architecture evolves."
+      ],
+      "notes": "drift from 表示配置漂移；as 表示随架构演进。",
+      "tags": [
+        "云安全",
+        "基线管理",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "cloudsec_021",
+      "zh": "容器镜像通过漏洞扫描，不代表运行时配置或挂载的密钥同样安全。",
+      "en": "A container image passing a vulnerability scan does not imply that its runtime configuration or mounted secrets are secure.",
+      "answers": [
+        "A container image passing a vulnerability scan does not imply that its runtime configuration or mounted secrets are secure."
+      ],
+      "notes": "does not imply that 限制供应链检查结论；passing 作后置修饰。",
+      "tags": [
+        "云安全",
+        "容器安全",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "cloudsec_022",
+      "zh": "集群管理员权限应与云账户管理员权限分离，因为两者控制不同的信任层。",
+      "en": "Cluster-administrator privileges should be separated from cloud-account administration because the two govern different layers of trust.",
+      "answers": [
+        "Cluster-administrator privileges should be separated from cloud-account administration because the two govern different layers of trust."
+      ],
+      "notes": "separate A from B；govern 表示控制某层信任。",
+      "tags": [
+        "云安全",
+        "集群权限",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "cloudsec_023",
+      "zh": "若编排平台允许特权容器，攻击者可能从应用边界扩展到宿主机。",
+      "en": "If the orchestration platform permits privileged containers, an attacker may be able to move beyond the application boundary to the host.",
+      "answers": [
+        "If the orchestration platform permits privileged containers, an attacker may be able to move beyond the application boundary to the host."
+      ],
+      "notes": "may be able to 保留可能性；move beyond 表示突破边界。",
+      "tags": [
+        "云安全",
+        "运行时风险",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "cloudsec_024",
+      "zh": "无服务器函数寿命很短，因此调查依赖集中日志，而不是事后检查单个实例。",
+      "en": "Serverless functions are short-lived, so investigations depend on centralised logs rather than later inspection of individual instances.",
+      "answers": [
+        "Serverless functions are short-lived, so investigations depend on centralised logs rather than later inspection of individual instances."
+      ],
+      "notes": "depend on A rather than B；short-lived 说明取证方式原因。",
+      "tags": [
+        "云安全",
+        "无服务器安全",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "cloudsec_025",
+      "zh": "镜像签名证明制品来自受信任流程，但只有验证签名才能在部署时实施这一信任。",
+      "en": "Image signing proves that an artefact came from a trusted process, but signature verification is required to enforce that trust at deployment.",
+      "answers": [
+        "Image signing proves that an artefact came from a trusted process, but signature verification is required to enforce that trust at deployment."
+      ],
+      "notes": "prove that 与 be required to 区分签名和验证作用。",
+      "tags": [
+        "云安全",
+        "软件供应链",
+        "专业英语"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "cloudsec_026",
+      "zh": "审计日志必须发送到工作负载账户无法修改的独立位置。",
+      "en": "Audit logs must be sent to a separate location that workload accounts cannot modify.",
+      "answers": [
+        "Audit logs must be sent to a separate location that workload accounts cannot modify."
+      ],
+      "notes": "that 引导定语从句限定独立日志位置；cannot modify 强调防篡改。",
+      "tags": [
+        "云安全",
+        "日志保护",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "cloudsec_027",
+      "zh": "密钥轮换降低长期暴露，却不能撤销已经使用旧密钥签发的会话。",
+      "en": "Key rotation limits long-term exposure, but it does not revoke sessions that were already issued with the old key.",
+      "answers": [
+        "Key rotation limits long-term exposure, but it does not revoke sessions that were already issued with the old key."
+      ],
+      "notes": "but 区分轮换效果与遗留会话；that 引导定语从句。",
+      "tags": [
+        "云安全",
+        "密钥轮换",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "cloudsec_028",
+      "zh": "跨云统一策略便于治理，不过必须映射到各平台实际支持的控制。",
+      "en": "A common policy across clouds simplifies governance, although it must be mapped to controls that each platform actually supports.",
+      "answers": [
+        "A common policy across clouds simplifies governance, although it must be mapped to controls that each platform actually supports."
+      ],
+      "notes": "although 引出统一政策的实施限制；map to 表示映射。",
+      "tags": [
+        "云安全",
+        "多云治理",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "cloudsec_029",
+      "zh": "成本异常有时是资源滥用的早期信号，但在升级安全事件前仍需业务背景。",
+      "en": "A cost anomaly can be an early indicator of resource abuse, but business context is still required before it is escalated as a security incident.",
+      "answers": [
+        "A cost anomaly can be an early indicator of resource abuse, but business context is still required before it is escalated as a security incident."
+      ],
+      "notes": "can be 保持可能性；before 被动结构说明升级门槛。",
+      "tags": [
+        "云安全",
+        "成本与安全",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "cloudsec_030",
+      "zh": "云安全态势评分适合追踪趋势，却不应取代对关键攻击路径的验证。",
+      "en": "A cloud-security posture score is useful for tracking trends, but it should not replace validation of critical attack paths.",
+      "answers": [
+        "A cloud-security posture score is useful for tracking trends, but it should not replace validation of critical attack paths."
+      ],
+      "notes": "be useful for doing；should not replace 限定评分用途。",
+      "tags": [
+        "云安全",
+        "态势指标",
+        "专业英语"
+      ],
+      "difficulty": 4
+    }
+  ]
+}

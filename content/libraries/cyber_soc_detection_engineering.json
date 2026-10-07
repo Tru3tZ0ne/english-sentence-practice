@@ -1,0 +1,465 @@
+{
+  "schema_version": 1,
+  "id": "cyber_soc_detection_engineering",
+  "title": "网络安全 · SOC 与检测工程 30 句",
+  "description": "覆盖日志接入、检测设计、告警研判、规则调优、自动化、威胁狩猎与 SOC 度量的高级英语表达。",
+  "language": "en-GB",
+  "tags": [
+    "网络安全",
+    "SOC",
+    "检测工程",
+    "IELTS 6+"
+  ],
+  "items": [
+    {
+      "id": "soc_001",
+      "zh": "日志源接入前应确认它支持哪个检测用例，而不是仅因为数据可用就全部采集。",
+      "en": "Before a log source is onboarded, the team should identify which detection use case it supports rather than collect it merely because it is available.",
+      "answers": [
+        "Before a log source is onboarded, the team should identify which detection use case it supports rather than collect it merely because it is available."
+      ],
+      "notes": "which 引导识别内容；rather than doing 对比价值驱动与盲目采集。",
+      "tags": [
+        "SOC",
+        "日志规划",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "soc_002",
+      "zh": "身份日志缺少结果字段时，分析师无法区分成功登录与失败尝试。",
+      "en": "When identity logs lack an outcome field, analysts cannot distinguish successful authentication from a failed attempt.",
+      "answers": [
+        "When identity logs lack an outcome field, analysts cannot distinguish successful authentication from a failed attempt."
+      ],
+      "notes": "distinguish A from B；when 引出日志质量问题。",
+      "tags": [
+        "SOC",
+        "日志质量",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "soc_003",
+      "zh": "采集健康状态必须独立监控，否则日志中断可能被误认为环境中没有活动。",
+      "en": "Collection health must be monitored independently; otherwise, a logging failure may be mistaken for an absence of activity.",
+      "answers": [
+        "Collection health must be monitored independently; otherwise, a logging failure may be mistaken for an absence of activity."
+      ],
+      "notes": "otherwise 引出误判后果；mistake A for B 表示把 A 误当 B。",
+      "tags": [
+        "SOC",
+        "采集监控",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "soc_004",
+      "zh": "时间戳统一为标准时区后，来自不同系统的事件才能可靠排序。",
+      "en": "Events from different systems can be sequenced reliably only after their timestamps have been normalised to a common time zone.",
+      "answers": [
+        "Events from different systems can be sequenced reliably only after their timestamps have been normalised to a common time zone."
+      ],
+      "notes": "only after 强调前提；normalise to 表示统一为某标准。",
+      "tags": [
+        "SOC",
+        "时间规范",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "soc_005",
+      "zh": "字段解析错误没有减少原始日志数量，却会使依赖该字段的检测静默失效。",
+      "en": "A field-parsing error does not reduce raw event volume, but it can silently disable detections that depend on that field.",
+      "answers": [
+        "A field-parsing error does not reduce raw event volume, but it can silently disable detections that depend on that field."
+      ],
+      "notes": "but 揭示隐蔽后果；that 引导定语从句。",
+      "tags": [
+        "SOC",
+        "解析质量",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "soc_006",
+      "zh": "一条有效检测应说明要发现的攻击行为、所需数据以及可能的规避方式。",
+      "en": "An effective detection should specify the adversary behaviour, the data required, and the ways in which the logic might be evaded.",
+      "answers": [
+        "An effective detection should specify the adversary behaviour, the data required, and the ways in which the logic might be evaded."
+      ],
+      "notes": "三个并列宾语覆盖目标、依赖和限制；in which 引导定语从句。",
+      "tags": [
+        "SOC",
+        "检测设计",
+        "专业英语"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "soc_007",
+      "zh": "规则以行为序列为基础，因此比单个文件哈希更能适应工具变化。",
+      "en": "The rule is based on a sequence of behaviours and is therefore more resilient to changes in tooling than a single file hash.",
+      "answers": [
+        "The rule is based on a sequence of behaviours and is therefore more resilient to changes in tooling than a single file hash."
+      ],
+      "notes": "more ... than 构成比较；resilient to 是固定搭配。",
+      "tags": [
+        "SOC",
+        "行为检测",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "soc_008",
+      "zh": "阈值应反映环境的正常基线，而不能直接复制另一家组织的数值。",
+      "en": "A threshold should reflect the environment's normal baseline rather than a value copied directly from another organisation.",
+      "answers": [
+        "A threshold should reflect the environment's normal baseline rather than a value copied directly from another organisation."
+      ],
+      "notes": "rather than 对比环境化阈值与照搬数值；copied 作后置定语。",
+      "tags": [
+        "SOC",
+        "阈值设计",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "soc_009",
+      "zh": "检测逻辑记录了已知盲区，使分析师知道哪些相关活动不会生成告警。",
+      "en": "The detection logic documents known blind spots so that analysts understand which related activities will not generate an alert.",
+      "answers": [
+        "The detection logic documents known blind spots so that analysts understand which related activities will not generate an alert."
+      ],
+      "notes": "so that 表示文档目的；which 引导盲区内容。",
+      "tags": [
+        "SOC",
+        "盲区说明",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "soc_010",
+      "zh": "在启用阻断之前，团队先以只告警模式评估该规则对正常业务的影响。",
+      "en": "Before enabling prevention, the team evaluates the rule in alert-only mode to assess its effect on legitimate activity.",
+      "answers": [
+        "Before enabling prevention, the team evaluates the rule in alert-only mode to assess its effect on legitimate activity."
+      ],
+      "notes": "before doing 表示分阶段实施；to assess 说明试运行目的。",
+      "tags": [
+        "SOC",
+        "检测上线",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "soc_011",
+      "zh": "分析师把告警与资产关键性结合起来，避免用同一优先级处理所有匹配项。",
+      "en": "The analyst combines the alert with asset criticality to avoid treating every match with the same priority.",
+      "answers": [
+        "The analyst combines the alert with asset criticality to avoid treating every match with the same priority."
+      ],
+      "notes": "combine A with B；avoid doing 表示避免一刀切。",
+      "tags": [
+        "SOC",
+        "告警优先级",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "soc_012",
+      "zh": "看似异常的管理员登录得到维护窗口支持，因此被记录为良性真阳性。",
+      "en": "The apparently unusual administrator login was supported by the maintenance window and was therefore recorded as a benign true positive.",
+      "answers": [
+        "The apparently unusual administrator login was supported by the maintenance window and was therefore recorded as a benign true positive."
+      ],
+      "notes": "be supported by context 表示有背景证据；therefore 给出研判结果。",
+      "tags": [
+        "SOC",
+        "告警研判",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "soc_013",
+      "zh": "一次告警可能包含多个实体，调查不能在第一个账户得到解释后就停止。",
+      "en": "A single alert may contain several entities, so the investigation should not stop when the first account has been explained.",
+      "answers": [
+        "A single alert may contain several entities, so the investigation should not stop when the first account has been explained."
+      ],
+      "notes": "may 表示可能；should not stop when 防止过早结束调查。",
+      "tags": [
+        "SOC",
+        "调查范围",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "soc_014",
+      "zh": "如果端点已经离线，分析师应寻找身份和网络证据，而不是等待单一数据源恢复。",
+      "en": "If the endpoint is offline, the analyst should seek identity and network evidence rather than wait for one data source to return.",
+      "answers": [
+        "If the endpoint is offline, the analyst should seek identity and network evidence rather than wait for one data source to return."
+      ],
+      "notes": "if 引出数据缺失情境；rather than 对比调查策略。",
+      "tags": [
+        "SOC",
+        "多源调查",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "soc_015",
+      "zh": "关闭告警时应记录判断依据，使后续人员能够复核相同证据。",
+      "en": "The rationale for closing an alert should be recorded so that another analyst can review the same evidence later.",
+      "answers": [
+        "The rationale for closing an alert should be recorded so that another analyst can review the same evidence later."
+      ],
+      "notes": "rationale for doing 表示判断依据；so that 说明可复核目的。",
+      "tags": [
+        "SOC",
+        "研判记录",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "soc_016",
+      "zh": "调优应移除没有风险意义的噪声，同时保留同类恶意行为可能呈现的信号。",
+      "en": "Tuning should remove noise with no risk significance while preserving signals that malicious activity of the same type might produce.",
+      "answers": [
+        "Tuning should remove noise with no risk significance while preserving signals that malicious activity of the same type might produce."
+      ],
+      "notes": "while doing 表示两项目标平衡；that 引导定语从句。",
+      "tags": [
+        "SOC",
+        "规则调优",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "soc_017",
+      "zh": "按用户姓名排除告警很脆弱，因为账户用途或所有者可能在规则更新前改变。",
+      "en": "Suppressing an alert by username is fragile because the account's purpose or owner may change before the rule is reviewed.",
+      "answers": [
+        "Suppressing an alert by username is fragile because the account's purpose or owner may change before the rule is reviewed."
+      ],
+      "notes": "动名词作主语；because 解释脆弱性。",
+      "tags": [
+        "SOC",
+        "排除策略",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "soc_018",
+      "zh": "规则修改后要用真实历史事件回测，以确认检测能力没有意外下降。",
+      "en": "After a rule is modified, it should be tested against genuine historical events to confirm that detection capability has not regressed.",
+      "answers": [
+        "After a rule is modified, it should be tested against genuine historical events to confirm that detection capability has not regressed."
+      ],
+      "notes": "test against 表示用样本测试；has not regressed 表示能力未退化。",
+      "tags": [
+        "SOC",
+        "回归测试",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "soc_019",
+      "zh": "误报率下降可能源于更好调优，也可能源于日志停止采集，因此需要结合健康指标判断。",
+      "en": "A lower false-positive rate may reflect better tuning or failed log collection, so it must be interpreted alongside health metrics.",
+      "answers": [
+        "A lower false-positive rate may reflect better tuning or failed log collection, so it must be interpreted alongside health metrics."
+      ],
+      "notes": "may reflect A or B 提出竞争解释；alongside 表示结合。",
+      "tags": [
+        "SOC",
+        "指标解释",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "soc_020",
+      "zh": "规则版本记录把每次修改与测试证据关联起来，以便出现漏报时追溯。",
+      "en": "Rule versioning links each change to its test evidence so that a missed detection can be traced later.",
+      "answers": [
+        "Rule versioning links each change to its test evidence so that a missed detection can be traced later."
+      ],
+      "notes": "link A to B；so that 说明可追溯目的。",
+      "tags": [
+        "SOC",
+        "版本控制",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "soc_021",
+      "zh": "自动化剧本先收集低风险上下文，只有达到明确置信度才执行遏制。",
+      "en": "The automation playbook gathers low-risk context first and performs containment only when a defined confidence threshold is met.",
+      "answers": [
+        "The automation playbook gathers low-risk context first and performs containment only when a defined confidence threshold is met."
+      ],
+      "notes": "only when 限定自动处置条件；被动结构强调阈值达成。",
+      "tags": [
+        "SOC",
+        "响应自动化",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "soc_022",
+      "zh": "如果外部服务超时，剧本应保留案件并转给人员，而不是把调查标记为完成。",
+      "en": "If an external service times out, the playbook should preserve the case for human review rather than mark the investigation as complete.",
+      "answers": [
+        "If an external service times out, the playbook should preserve the case for human review rather than mark the investigation as complete."
+      ],
+      "notes": "if 引出异常分支；mark A as B 是固定结构。",
+      "tags": [
+        "SOC",
+        "自动化异常",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "soc_023",
+      "zh": "自动封禁必须有明确回退路径，因为错误处置可能扩大业务影响。",
+      "en": "Automated blocking requires a clear reversal path because an incorrect response could amplify the business impact.",
+      "answers": [
+        "Automated blocking requires a clear reversal path because an incorrect response could amplify the business impact."
+      ],
+      "notes": "require 表示必要条件；could amplify 表示可能扩大影响。",
+      "tags": [
+        "SOC",
+        "自动阻断",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "soc_024",
+      "zh": "编排平台保存执行输入和结果，让团队可以审计机器为何采取该行动。",
+      "en": "The orchestration platform retains execution inputs and outcomes, allowing the team to audit why an automated action was taken.",
+      "answers": [
+        "The orchestration platform retains execution inputs and outcomes, allowing the team to audit why an automated action was taken."
+      ],
+      "notes": "allowing 作结果补充；why 引导审计内容。",
+      "tags": [
+        "SOC",
+        "自动化审计",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "soc_025",
+      "zh": "适合自动化的是稳定且重复的决策，而不是仍需大量上下文判断的事件。",
+      "en": "Stable, repeatable decisions are better candidates for automation than incidents that still require substantial contextual judgement.",
+      "answers": [
+        "Stable, repeatable decisions are better candidates for automation than incidents that still require substantial contextual judgement."
+      ],
+      "notes": "better ... than 构成适用性比较；that 引导定语从句。",
+      "tags": [
+        "SOC",
+        "自动化选择",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "soc_026",
+      "zh": "威胁狩猎提出可证伪的假设，因此没有结果时也能形成有边界的结论。",
+      "en": "Threat hunting uses a falsifiable hypothesis so that even a negative result can produce a bounded conclusion.",
+      "answers": [
+        "Threat hunting uses a falsifiable hypothesis so that even a negative result can produce a bounded conclusion."
+      ],
+      "notes": "so that 表示方法带来的结果；falsifiable hypothesis 是专业术语。",
+      "tags": [
+        "SOC",
+        "狩猎方法",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "soc_027",
+      "zh": "狩猎发现的新模式会先转化为实验性检测，再经过一段时间调优。",
+      "en": "A new pattern found during hunting is converted into an experimental detection before being tuned over time.",
+      "answers": [
+        "A new pattern found during hunting is converted into an experimental detection before being tuned over time."
+      ],
+      "notes": "found 作后置定语；before being tuned 是被动非谓语结构。",
+      "tags": [
+        "SOC",
+        "狩猎转检测",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "soc_028",
+      "zh": "平均关闭时间不能单独衡量 SOC 表现，因为快速关闭误报并不等于快速控制攻击。",
+      "en": "Mean time to closure cannot measure SOC performance alone, because closing false positives quickly is not the same as containing attacks quickly.",
+      "answers": [
+        "Mean time to closure cannot measure SOC performance alone, because closing false positives quickly is not the same as containing attacks quickly."
+      ],
+      "notes": "is not the same as 区分速度指标含义；动名词短语作主语。",
+      "tags": [
+        "SOC",
+        "SOC 度量",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "soc_029",
+      "zh": "积压趋势应按严重性和年龄拆分，否则少量长期高风险案件会被总数掩盖。",
+      "en": "Backlog trends should be broken down by severity and age; otherwise, a few long-running high-risk cases may be hidden by the total.",
+      "answers": [
+        "Backlog trends should be broken down by severity and age; otherwise, a few long-running high-risk cases may be hidden by the total."
+      ],
+      "notes": "break down by 表示按维度拆分；otherwise 说明汇总风险。",
+      "tags": [
+        "SOC",
+        "积压管理",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "soc_030",
+      "zh": "检测覆盖率只有映射到相关威胁并经过测试，才比规则数量更有意义。",
+      "en": "Detection coverage is more meaningful than a rule count only when it is mapped to relevant threats and validated through testing.",
+      "answers": [
+        "Detection coverage is more meaningful than a rule count only when it is mapped to relevant threats and validated through testing."
+      ],
+      "notes": "more meaningful than 构成指标比较；only when 给出可信条件。",
+      "tags": [
+        "SOC",
+        "覆盖度量",
+        "专业英语"
+      ],
+      "difficulty": 5
+    }
+  ]
+}
