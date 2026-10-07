@@ -1,0 +1,465 @@
+{
+  "schema_version": 1,
+  "id": "cyber_incident_response_forensics",
+  "title": "网络安全 · 事件响应与数字取证 30 句",
+  "description": "覆盖事件定级、遏制、证据保全、数字取证、恢复、通报与复盘的高级英语表达。",
+  "language": "en-GB",
+  "tags": [
+    "网络安全",
+    "事件响应",
+    "数字取证",
+    "IELTS 6+"
+  ],
+  "items": [
+    {
+      "id": "ir_001",
+      "zh": "目前的信息只支持把它定为可疑活动，还不足以确认发生了入侵。",
+      "en": "The available information supports classifying this as suspicious activity, but it is not yet sufficient to confirm a compromise.",
+      "answers": [
+        "The available information supports classifying this as suspicious activity, but it is not yet sufficient to confirm a compromise."
+      ],
+      "notes": "support doing 表示证据支持某种判断；not yet sufficient to 限制结论强度。",
+      "tags": [
+        "事件响应",
+        "事件定级",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ir_002",
+      "zh": "事件级别取决于实际业务影响和潜在扩散范围，而不只取决于恶意软件类型。",
+      "en": "The incident level depends on actual business impact and potential scope of propagation, not solely on the type of malware involved.",
+      "answers": [
+        "The incident level depends on actual business impact and potential scope of propagation, not solely on the type of malware involved."
+      ],
+      "notes": "depend on 指明评级依据；not solely on 避免单一指标判断。",
+      "tags": [
+        "事件响应",
+        "严重性判断",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ir_003",
+      "zh": "在召集完整响应团队前，值班分析师应先验证告警是否涉及真实资产。",
+      "en": "Before mobilising the full response team, the duty analyst should verify whether the alert relates to a genuine asset.",
+      "answers": [
+        "Before mobilising the full response team, the duty analyst should verify whether the alert relates to a genuine asset."
+      ],
+      "notes": "before doing 表示响应顺序；whether 引导验证内容。",
+      "tags": [
+        "事件响应",
+        "初步验证",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ir_004",
+      "zh": "如果受影响服务器承载关键支付流程，事件就需要立即升级给业务连续性负责人。",
+      "en": "If the affected server supports a critical payment process, the incident must be escalated immediately to the business continuity lead.",
+      "answers": [
+        "If the affected server supports a critical payment process, the incident must be escalated immediately to the business continuity lead."
+      ],
+      "notes": "if 引出业务触发条件；escalate to 表示升级给某人。",
+      "tags": [
+        "事件响应",
+        "业务升级",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ir_005",
+      "zh": "即使技术影响尚未明确，涉及个人数据的迹象也可能触发法务评估。",
+      "en": "Even where the technical impact remains unclear, indications of personal-data exposure may trigger a legal assessment.",
+      "answers": [
+        "Even where the technical impact remains unclear, indications of personal-data exposure may trigger a legal assessment."
+      ],
+      "notes": "even where 引导让步；may trigger 保留法律判断空间。",
+      "tags": [
+        "事件响应",
+        "法务联动",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ir_006",
+      "zh": "隔离主机可以阻止进一步通信，但也可能中断正在进行的取证采集。",
+      "en": "Isolating the host may prevent further communication, but it could also interrupt forensic collection already in progress.",
+      "answers": [
+        "Isolating the host may prevent further communication, but it could also interrupt forensic collection already in progress."
+      ],
+      "notes": "动名词短语作主语；may ... but could also 展示遏制权衡。",
+      "tags": [
+        "事件响应",
+        "遏制权衡",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ir_007",
+      "zh": "团队选择封禁恶意域名，而没有立即关闭整个代理服务，因为后者会影响所有远程员工。",
+      "en": "The team blocked the malicious domain rather than shutting down the entire proxy service, which would have affected every remote employee.",
+      "answers": [
+        "The team blocked the malicious domain rather than shutting down the entire proxy service, which would have affected every remote employee."
+      ],
+      "notes": "rather than doing 表示处置选择；would have affected 说明反事实影响。",
+      "tags": [
+        "事件响应",
+        "精准遏制",
+        "专业英语"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "ir_008",
+      "zh": "在重置高权限账户之前，必须确认攻击者是否建立了不依赖原密码的持久化。",
+      "en": "Before resetting the privileged account, we must establish whether the attacker created persistence that does not rely on the original password.",
+      "answers": [
+        "Before resetting the privileged account, we must establish whether the attacker created persistence that does not rely on the original password."
+      ],
+      "notes": "establish whether 表示查明；that 引导定语从句限定持久化方式。",
+      "tags": [
+        "事件响应",
+        "身份遏制",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ir_009",
+      "zh": "临时网络分段降低了横向移动风险，同时保留了恢复所需的管理通道。",
+      "en": "Temporary network segmentation reduced the risk of lateral movement while preserving the management channel required for recovery.",
+      "answers": [
+        "Temporary network segmentation reduced the risk of lateral movement while preserving the management channel required for recovery."
+      ],
+      "notes": "while doing 表示两项目标同时实现；required 作后置定语。",
+      "tags": [
+        "事件响应",
+        "网络遏制",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ir_010",
+      "zh": "除非威胁仍在主动扩散，否则不应在没有回退计划的情况下实施大范围变更。",
+      "en": "Unless the threat is still spreading actively, broad changes should not be made without a rollback plan.",
+      "answers": [
+        "Unless the threat is still spreading actively, broad changes should not be made without a rollback plan."
+      ],
+      "notes": "unless 引出例外条件；without 表示必要保障缺失。",
+      "tags": [
+        "事件响应",
+        "变更控制",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ir_011",
+      "zh": "取证镜像的哈希值在采集前后保持一致，从而证明副本没有在传输中改变。",
+      "en": "The forensic image had the same hash before and after collection, demonstrating that the copy was not altered in transit.",
+      "answers": [
+        "The forensic image had the same hash before and after collection, demonstrating that the copy was not altered in transit."
+      ],
+      "notes": "demonstrating 作结果补充；in transit 表示传输过程中。",
+      "tags": [
+        "事件响应",
+        "证据完整性",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ir_012",
+      "zh": "每次证据移交都必须记录时间、交付人、接收人和保管目的。",
+      "en": "Every transfer of evidence must record the time, the person releasing it, the recipient, and the purpose of custody.",
+      "answers": [
+        "Every transfer of evidence must record the time, the person releasing it, the recipient, and the purpose of custody."
+      ],
+      "notes": "多个并列宾语构成保管链记录要求；purpose of custody 指保管目的。",
+      "tags": [
+        "事件响应",
+        "证据保管链",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ir_013",
+      "zh": "系统时间比标准时间慢了十一分钟，因此时间线已按可验证的偏差校正。",
+      "en": "The system clock was eleven minutes behind the reference time, so the timeline was adjusted for the verified offset.",
+      "answers": [
+        "The system clock was eleven minutes behind the reference time, so the timeline was adjusted for the verified offset."
+      ],
+      "notes": "be behind 表示时间落后；adjust for 表示按偏差校正。",
+      "tags": [
+        "事件响应",
+        "时间线校正",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ir_014",
+      "zh": "我们保留了原始日志，并在工作副本上进行解析，以免破坏原始证据。",
+      "en": "We preserved the original logs and performed the analysis on working copies to avoid modifying the source evidence.",
+      "answers": [
+        "We preserved the original logs and performed the analysis on working copies to avoid modifying the source evidence."
+      ],
+      "notes": "perform analysis on 表示基于某材料分析；to avoid doing 表目的。",
+      "tags": [
+        "事件响应",
+        "取证方法",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ir_015",
+      "zh": "由于磁盘采用全盘加密，关机可能使当前解密状态和易失数据同时丢失。",
+      "en": "Because the disk uses full-volume encryption, shutting the device down could remove access to both its decrypted state and volatile data.",
+      "answers": [
+        "Because the disk uses full-volume encryption, shutting the device down could remove access to both its decrypted state and volatile data."
+      ],
+      "notes": "because 解释现场决策背景；both ... and 并列两类可能损失。",
+      "tags": [
+        "事件响应",
+        "现场取证",
+        "专业英语"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "ir_016",
+      "zh": "时间线表明凭据在首次恶意登录前三天就已从另一台终端被窃取。",
+      "en": "The timeline indicates that the credentials were stolen from another endpoint three days before the first malicious login.",
+      "answers": [
+        "The timeline indicates that the credentials were stolen from another endpoint three days before the first malicious login."
+      ],
+      "notes": "indicate that 转述时间线结论；before 明确事件先后。",
+      "tags": [
+        "事件响应",
+        "攻击时间线",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ir_017",
+      "zh": "注册表项证明程序曾被设置为自动启动，却不能证明它成功执行过。",
+      "en": "The registry entry shows that the program was configured to start automatically, but it does not prove that the program executed successfully.",
+      "answers": [
+        "The registry entry shows that the program was configured to start automatically, but it does not prove that the program executed successfully."
+      ],
+      "notes": "show that 与 does not prove that 区分配置证据和执行证据。",
+      "tags": [
+        "事件响应",
+        "证据解释",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ir_018",
+      "zh": "多个日志源使用同一会话标识符，使我们能够把身份验证与后续数据访问关联起来。",
+      "en": "A shared session identifier across several log sources enabled us to correlate the authentication with the subsequent data access.",
+      "answers": [
+        "A shared session identifier across several log sources enabled us to correlate the authentication with the subsequent data access."
+      ],
+      "notes": "enable someone to do 表示促成能力；correlate A with B 是分析搭配。",
+      "tags": [
+        "事件响应",
+        "日志关联",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ir_019",
+      "zh": "浏览器历史记录只能说明页面被访问，不能确定当时坐在设备前的是谁。",
+      "en": "Browser history can establish that a page was visited, but it cannot determine who was operating the device at the time.",
+      "answers": [
+        "Browser history can establish that a page was visited, but it cannot determine who was operating the device at the time."
+      ],
+      "notes": "can establish ... but cannot determine 限定数字证据的归因能力。",
+      "tags": [
+        "事件响应",
+        "归因限制",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ir_020",
+      "zh": "没有发现文件的原始名称，因为恶意程序在写入磁盘前已经在内存中解码了内容。",
+      "en": "The original filename could not be recovered because the malware decoded the content in memory before writing it to disk.",
+      "answers": [
+        "The original filename could not be recovered because the malware decoded the content in memory before writing it to disk."
+      ],
+      "notes": "could not be recovered 是审慎被动；before doing 表示处理顺序。",
+      "tags": [
+        "事件响应",
+        "恶意软件分析",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ir_021",
+      "zh": "恢复工作从已知干净的镜像开始，而不是尝试修复完整性未知的系统。",
+      "en": "Recovery began from a known-clean image rather than attempting to repair a system of uncertain integrity.",
+      "answers": [
+        "Recovery began from a known-clean image rather than attempting to repair a system of uncertain integrity."
+      ],
+      "notes": "known-clean 是取证和恢复常用复合形容词；rather than doing 对比恢复策略。",
+      "tags": [
+        "事件响应",
+        "安全恢复",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ir_022",
+      "zh": "业务服务恢复后，增强监控至少保留两周，以发现可能残留的活动。",
+      "en": "After the business service is restored, enhanced monitoring will remain in place for at least two weeks to detect possible residual activity.",
+      "answers": [
+        "After the business service is restored, enhanced monitoring will remain in place for at least two weeks to detect possible residual activity."
+      ],
+      "notes": "remain in place 表示持续生效；to detect 说明延长监控目的。",
+      "tags": [
+        "事件响应",
+        "恢复监控",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ir_023",
+      "zh": "在重新接入网络前，每台受影响终端都要通过补丁、凭据和安全配置检查。",
+      "en": "Before reconnection, every affected endpoint must pass checks on patching, credentials, and security configuration.",
+      "answers": [
+        "Before reconnection, every affected endpoint must pass checks on patching, credentials, and security configuration."
+      ],
+      "notes": "before reconnection 给出恢复门槛；checks on 表示针对多项内容的检查。",
+      "tags": [
+        "事件响应",
+        "重连标准",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ir_024",
+      "zh": "虽然核心功能已经恢复，积压交易仍需处理，因此业务影响尚未完全结束。",
+      "en": "Although core functionality has been restored, the business impact is not yet over because the transaction backlog still has to be processed.",
+      "answers": [
+        "Although core functionality has been restored, the business impact is not yet over because the transaction backlog still has to be processed."
+      ],
+      "notes": "although 引出已恢复部分；because 解释影响仍持续的原因。",
+      "tags": [
+        "事件响应",
+        "影响评估",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ir_025",
+      "zh": "若恢复点早于入侵时间，团队仍需确认备份中没有被窃取的凭据。",
+      "en": "Even if the recovery point predates the intrusion, the team must still confirm that the backup contains no compromised credentials.",
+      "answers": [
+        "Even if the recovery point predates the intrusion, the team must still confirm that the backup contains no compromised credentials."
+      ],
+      "notes": "even if 引导让步；predate 表示早于。",
+      "tags": [
+        "事件响应",
+        "备份验证",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ir_026",
+      "zh": "对外通报只陈述已经核实的事实，并把仍在调查的问题明确标记出来。",
+      "en": "External communications state only verified facts and clearly identify matters that remain under investigation.",
+      "answers": [
+        "External communications state only verified facts and clearly identify matters that remain under investigation."
+      ],
+      "notes": "only 限定陈述范围；remain under investigation 是正式通报表达。",
+      "tags": [
+        "事件响应",
+        "事件通报",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ir_027",
+      "zh": "初步通知说明的是可能受影响的数据范围，不应被解读为最终泄露数量。",
+      "en": "The initial notification describes the data that may have been affected and should not be interpreted as the final volume of exposure.",
+      "answers": [
+        "The initial notification describes the data that may have been affected and should not be interpreted as the final volume of exposure."
+      ],
+      "notes": "may have been affected 表过去可能；should not be interpreted as 防止误读。",
+      "tags": [
+        "事件响应",
+        "审慎沟通",
+        "专业英语"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "ir_028",
+      "zh": "监管报告期限从组织意识到可能的违规时开始，而不一定从攻击发生时开始。",
+      "en": "The regulatory reporting period begins when the organisation becomes aware of a possible breach, not necessarily when the attack occurred.",
+      "answers": [
+        "The regulatory reporting period begins when the organisation becomes aware of a possible breach, not necessarily when the attack occurred."
+      ],
+      "notes": "become aware of 是固定搭配；not necessarily 区分两个时间起点。",
+      "tags": [
+        "事件响应",
+        "监管报告",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ir_029",
+      "zh": "复盘的目的不是追究个人责任，而是找出哪些条件使事件得以发生和扩大。",
+      "en": "The purpose of the review is not to assign individual blame, but to identify the conditions that allowed the incident to occur and escalate.",
+      "answers": [
+        "The purpose of the review is not to assign individual blame, but to identify the conditions that allowed the incident to occur and escalate."
+      ],
+      "notes": "not to A but to B 表示复盘目的；allow A to do 是固定结构。",
+      "tags": [
+        "事件响应",
+        "事后复盘",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "ir_030",
+      "zh": "每项经验教训都应转化为有负责人、截止日期和验证方法的改进行动。",
+      "en": "Each lesson learned should become an improvement action with an owner, a deadline, and a method of validation.",
+      "answers": [
+        "Each lesson learned should become an improvement action with an owner, a deadline, and a method of validation."
+      ],
+      "notes": "with 引出行动项的三个必要属性；lesson learned 是复盘常用语。",
+      "tags": [
+        "事件响应",
+        "改进行动",
+        "专业英语"
+      ],
+      "difficulty": 4
+    }
+  ]
+}

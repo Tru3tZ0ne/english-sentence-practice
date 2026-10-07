@@ -1,0 +1,465 @@
+{
+  "schema_version": 1,
+  "id": "cyber_governance_compliance",
+  "title": "网络安全 · 安全治理、风险与合规 30 句",
+  "description": "覆盖安全战略、政策、风险偏好、第三方、审计、隐私、指标与董事会汇报的高级英语表达。",
+  "language": "en-GB",
+  "tags": [
+    "网络安全",
+    "安全治理",
+    "风险与合规",
+    "IELTS 6+"
+  ],
+  "items": [
+    {
+      "id": "grc_001",
+      "zh": "安全战略必须支持业务目标，否则控制投入很容易与实际风险脱节。",
+      "en": "The security strategy must support business objectives; otherwise, investment in controls can easily become detached from actual risk.",
+      "answers": [
+        "The security strategy must support business objectives; otherwise, investment in controls can easily become detached from actual risk."
+      ],
+      "notes": "otherwise 引出战略脱节的后果；be detached from 表示与……脱离。",
+      "tags": [
+        "安全治理",
+        "安全战略",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grc_002",
+      "zh": "董事会批准的是风险偏好，而管理层负责把它转化为具体容忍限度。",
+      "en": "The board approves the risk appetite, while management is responsible for translating it into specific tolerance thresholds.",
+      "answers": [
+        "The board approves the risk appetite, while management is responsible for translating it into specific tolerance thresholds."
+      ],
+      "notes": "while 划分治理职责；translate A into B 表示转化。",
+      "tags": [
+        "安全治理",
+        "风险偏好",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grc_003",
+      "zh": "年度计划优先处理可能阻碍市场扩张的控制缺口，而不是平均分配预算。",
+      "en": "The annual plan prioritises control gaps that could impede market expansion rather than distributing the budget evenly.",
+      "answers": [
+        "The annual plan prioritises control gaps that could impede market expansion rather than distributing the budget evenly."
+      ],
+      "notes": "that 引导定语从句；rather than doing 对比资源配置方式。",
+      "tags": [
+        "安全治理",
+        "战略优先级",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grc_004",
+      "zh": "安全委员会需要有权作出决定，不能只是接收各团队的状态更新。",
+      "en": "The security committee needs authority to make decisions, not merely a mandate to receive status updates from each team.",
+      "answers": [
+        "The security committee needs authority to make decisions, not merely a mandate to receive status updates from each team."
+      ],
+      "notes": "authority to do 表示决策权；not merely 对比形式与实质职责。",
+      "tags": [
+        "安全治理",
+        "治理机构",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grc_005",
+      "zh": "只有明确谁对风险结果负责，职责矩阵才不只是项目文件。",
+      "en": "A responsibility matrix has practical value only when it is clear who is accountable for the risk outcome.",
+      "answers": [
+        "A responsibility matrix has practical value only when it is clear who is accountable for the risk outcome."
+      ],
+      "notes": "only when 限定实用价值；who 引导责任主体从句。",
+      "tags": [
+        "安全治理",
+        "责任模型",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grc_006",
+      "zh": "政策说明组织必须实现什么，标准则规定达到要求所需的最低控制。",
+      "en": "A policy states what the organisation must achieve, whereas a standard defines the minimum controls required to meet that expectation.",
+      "answers": [
+        "A policy states what the organisation must achieve, whereas a standard defines the minimum controls required to meet that expectation."
+      ],
+      "notes": "whereas 对比政策与标准；required 作后置定语。",
+      "tags": [
+        "安全治理",
+        "政策体系",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grc_007",
+      "zh": "如果一项规则无法执行，反复批准例外并不能使它成为有效政策。",
+      "en": "If a rule cannot be enforced, repeatedly approving exceptions does not make it an effective policy.",
+      "answers": [
+        "If a rule cannot be enforced, repeatedly approving exceptions does not make it an effective policy."
+      ],
+      "notes": "if 引出可执行性问题；make A B 是宾补结构。",
+      "tags": [
+        "安全治理",
+        "政策有效性",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grc_008",
+      "zh": "政策评审应考虑技术和业务变化，而不应仅更新文件日期。",
+      "en": "A policy review should consider changes in technology and business practice rather than merely updating the document date.",
+      "answers": [
+        "A policy review should consider changes in technology and business practice rather than merely updating the document date."
+      ],
+      "notes": "rather than merely doing 批评形式化评审；consider 表示纳入考虑。",
+      "tags": [
+        "安全治理",
+        "政策评审",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grc_009",
+      "zh": "员工确认已阅读政策并不能证明他们理解如何在具体场景中应用它。",
+      "en": "An employee's acknowledgement of a policy does not demonstrate that they understand how to apply it in a specific situation.",
+      "answers": [
+        "An employee's acknowledgement of a policy does not demonstrate that they understand how to apply it in a specific situation."
+      ],
+      "notes": "does not demonstrate that 限定确认记录的证明力；how to apply 表应用方式。",
+      "tags": [
+        "安全治理",
+        "政策认知",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grc_010",
+      "zh": "例外流程必须记录业务理由、补偿控制、风险接受人和失效日期。",
+      "en": "The exception process must record the business justification, compensating controls, risk owner, and expiry date.",
+      "answers": [
+        "The exception process must record the business justification, compensating controls, risk owner, and expiry date."
+      ],
+      "notes": "四个并列名词构成有效例外记录；expiry date 表示到期日。",
+      "tags": [
+        "安全治理",
+        "例外管理",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grc_011",
+      "zh": "固有风险反映没有特定控制时的暴露，剩余风险则考虑控制实际效果。",
+      "en": "Inherent risk reflects exposure before specific controls are considered, whereas residual risk takes account of their actual effectiveness.",
+      "answers": [
+        "Inherent risk reflects exposure before specific controls are considered, whereas residual risk takes account of their actual effectiveness."
+      ],
+      "notes": "whereas 对比两类风险；take account of 是正式搭配。",
+      "tags": [
+        "安全治理",
+        "风险概念",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grc_012",
+      "zh": "把可能性评为低并不表示事件不可能发生，而是说明在既定时段内相对不常见。",
+      "en": "Rating likelihood as low does not mean that an event is impossible; it indicates that the event is relatively uncommon within the defined period.",
+      "answers": [
+        "Rating likelihood as low does not mean that an event is impossible; it indicates that the event is relatively uncommon within the defined period."
+      ],
+      "notes": "does not mean 与 indicates that 精确定义低可能性。",
+      "tags": [
+        "安全治理",
+        "可能性评级",
+        "专业英语"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "grc_013",
+      "zh": "风险登记册应展示控制失效会影响哪个业务目标，而不仅是技术资产名称。",
+      "en": "The risk register should show which business objective would be affected by control failure, not just the name of the technical asset.",
+      "answers": [
+        "The risk register should show which business objective would be affected by control failure, not just the name of the technical asset."
+      ],
+      "notes": "which 引导宾语从句；not just 强调业务语境。",
+      "tags": [
+        "安全治理",
+        "风险登记",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grc_014",
+      "zh": "不同部门使用同一风险量表，才能让管理层比较资源需求。",
+      "en": "A common risk scale across departments enables management to compare competing demands for resources.",
+      "answers": [
+        "A common risk scale across departments enables management to compare competing demands for resources."
+      ],
+      "notes": "enable someone to do 表示使比较成为可能；competing demands 指相互竞争的需求。",
+      "tags": [
+        "安全治理",
+        "风险一致性",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grc_015",
+      "zh": "风险接受必须有明确期限，因为业务背景和威胁环境都可能改变。",
+      "en": "Risk acceptance must be time-bound because both the business context and the threat landscape may change.",
+      "answers": [
+        "Risk acceptance must be time-bound because both the business context and the threat landscape may change."
+      ],
+      "notes": "time-bound 表示有期限；both ... and 并列变化因素。",
+      "tags": [
+        "安全治理",
+        "风险接受",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grc_016",
+      "zh": "供应商问卷提供初步信息，却不能替代与服务关键性相称的证据审查。",
+      "en": "A supplier questionnaire provides initial information but does not replace an evidence review proportionate to the criticality of the service.",
+      "answers": [
+        "A supplier questionnaire provides initial information but does not replace an evidence review proportionate to the criticality of the service."
+      ],
+      "notes": "proportionate to 表示与……相称；but 限定问卷作用。",
+      "tags": [
+        "安全治理",
+        "第三方评估",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grc_017",
+      "zh": "外包运营不会转移监管责任，因此合同需要支持客户的监督义务。",
+      "en": "Outsourcing an operation does not transfer regulatory accountability, so the contract must support the client's oversight obligations.",
+      "answers": [
+        "Outsourcing an operation does not transfer regulatory accountability, so the contract must support the client's oversight obligations."
+      ],
+      "notes": "动名词作主语；so 连接责任保留与合同要求。",
+      "tags": [
+        "安全治理",
+        "外包责任",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grc_018",
+      "zh": "若分包商可以访问敏感数据，主供应商应披露其位置和所实施的控制。",
+      "en": "Where a subcontractor can access sensitive data, the primary supplier should disclose its location and the controls it applies.",
+      "answers": [
+        "Where a subcontractor can access sensitive data, the primary supplier should disclose its location and the controls it applies."
+      ],
+      "notes": "where 引出适用条件；并列 disclose 的两个宾语。",
+      "tags": [
+        "安全治理",
+        "供应链风险",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grc_019",
+      "zh": "服务终止条款必须说明数据如何返还、删除如何证明以及访问何时撤销。",
+      "en": "The termination clause must state how data will be returned, how deletion will be evidenced, and when access will be revoked.",
+      "answers": [
+        "The termination clause must state how data will be returned, how deletion will be evidenced, and when access will be revoked."
+      ],
+      "notes": "三个疑问词从句并列，覆盖退出管理关键问题。",
+      "tags": [
+        "安全治理",
+        "供应商退出",
+        "专业英语"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "grc_020",
+      "zh": "持续监控关注供应商风险是否变化，而不是每年重复收集同一份文件。",
+      "en": "Continuous monitoring examines whether supplier risk has changed rather than collecting the same documents once a year.",
+      "answers": [
+        "Continuous monitoring examines whether supplier risk has changed rather than collecting the same documents once a year."
+      ],
+      "notes": "whether 引导监控内容；rather than doing 对比动态与形式化监督。",
+      "tags": [
+        "安全治理",
+        "持续监督",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grc_021",
+      "zh": "审计样本说明所选交易是否合规，但不能自动代表整个年度的控制表现。",
+      "en": "An audit sample shows whether the selected transactions complied, but it cannot automatically represent control performance throughout the year.",
+      "answers": [
+        "An audit sample shows whether the selected transactions complied, but it cannot automatically represent control performance throughout the year."
+      ],
+      "notes": "whether 引导审计结论；throughout 表示整个期间。",
+      "tags": [
+        "安全治理",
+        "审计抽样",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grc_022",
+      "zh": "管理层提供的解释只有得到独立证据支持，才能关闭审计发现。",
+      "en": "A management explanation can close an audit finding only when it is supported by independent evidence.",
+      "answers": [
+        "A management explanation can close an audit finding only when it is supported by independent evidence."
+      ],
+      "notes": "only when 限定关闭条件；be supported by evidence 是审计搭配。",
+      "tags": [
+        "安全治理",
+        "审计证据",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grc_023",
+      "zh": "合规映射可以复用一项控制的证据，但各项法规的具体义务仍需分别确认。",
+      "en": "Compliance mapping can reuse evidence for a common control, although the specific obligations of each regulation must still be confirmed separately.",
+      "answers": [
+        "Compliance mapping can reuse evidence for a common control, although the specific obligations of each regulation must still be confirmed separately."
+      ],
+      "notes": "although 引出证据复用的边界；separately 强调逐项确认。",
+      "tags": [
+        "安全治理",
+        "控制映射",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grc_024",
+      "zh": "在审计日期前临时执行控制，无法证明它在整个评估期内持续有效。",
+      "en": "Operating a control temporarily before the audit date cannot demonstrate that it was effective throughout the assessment period.",
+      "answers": [
+        "Operating a control temporarily before the audit date cannot demonstrate that it was effective throughout the assessment period."
+      ],
+      "notes": "动名词作主语；throughout 限定持续有效期间。",
+      "tags": [
+        "安全治理",
+        "控制持续性",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grc_025",
+      "zh": "整改关闭不仅需要完成行动，还需要验证行动确实降低了相关风险。",
+      "en": "Closing remediation requires not only completion of the action but also evidence that the action reduced the associated risk.",
+      "answers": [
+        "Closing remediation requires not only completion of the action but also evidence that the action reduced the associated risk."
+      ],
+      "notes": "not only ... but also 并列完成和效果证据。",
+      "tags": [
+        "安全治理",
+        "整改验证",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grc_026",
+      "zh": "收集个人数据之前，项目应明确处理目的以及实现目的所需的最少字段。",
+      "en": "Before collecting personal data, the project should define the processing purpose and the minimum fields needed to achieve it.",
+      "answers": [
+        "Before collecting personal data, the project should define the processing purpose and the minimum fields needed to achieve it."
+      ],
+      "notes": "before doing 表示隐私前置；needed 作后置定语。",
+      "tags": [
+        "安全治理",
+        "数据最小化",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grc_027",
+      "zh": "同意不是所有处理活动的唯一依据，尤其是在用户无法自由拒绝服务时。",
+      "en": "Consent is not the only lawful basis for processing, particularly where a user cannot freely decline the service.",
+      "answers": [
+        "Consent is not the only lawful basis for processing, particularly where a user cannot freely decline the service."
+      ],
+      "notes": "particularly where 引出同意可能无效的场景；lawful basis 是隐私术语。",
+      "tags": [
+        "安全治理",
+        "隐私依据",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grc_028",
+      "zh": "保留计划必须根据业务和法律需要设定期限，并在期限结束后真正执行删除。",
+      "en": "A retention schedule must set periods according to business and legal needs and ensure that deletion actually occurs when those periods end.",
+      "answers": [
+        "A retention schedule must set periods according to business and legal needs and ensure that deletion actually occurs when those periods end."
+      ],
+      "notes": "according to 表示依据；ensure that 强调落地结果。",
+      "tags": [
+        "安全治理",
+        "数据保留",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grc_029",
+      "zh": "董事会指标应揭示风险趋势和决策需求，而不能只统计团队完成了多少活动。",
+      "en": "Board metrics should reveal risk trends and decisions required, rather than merely counting how many activities the team completed.",
+      "answers": [
+        "Board metrics should reveal risk trends and decisions required, rather than merely counting how many activities the team completed."
+      ],
+      "notes": "rather than merely doing 对比结果指标与活动指标。",
+      "tags": [
+        "安全治理",
+        "董事会指标",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "grc_030",
+      "zh": "如果指标改善只是因为统计口径改变，报告就必须说明变化以免误导趋势判断。",
+      "en": "If a metric improves only because its definition has changed, the report must disclose that change to avoid a misleading trend.",
+      "answers": [
+        "If a metric improves only because its definition has changed, the report must disclose that change to avoid a misleading trend."
+      ],
+      "notes": "if 引出指标可比性条件；to avoid 说明披露目的。",
+      "tags": [
+        "安全治理",
+        "指标完整性",
+        "专业英语"
+      ],
+      "difficulty": 4
+    }
+  ]
+}

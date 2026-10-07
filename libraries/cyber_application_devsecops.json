@@ -1,0 +1,465 @@
+{
+  "schema_version": 1,
+  "id": "cyber_application_devsecops",
+  "title": "网络安全 · 应用安全与 DevSecOps 30 句",
+  "description": "覆盖威胁建模、安全需求、代码审查、依赖治理、流水线、API 与上线风险的高级英语表达。",
+  "language": "en-GB",
+  "tags": [
+    "网络安全",
+    "应用安全",
+    "DevSecOps",
+    "IELTS 6+"
+  ],
+  "items": [
+    {
+      "id": "appsec_001",
+      "zh": "威胁建模应在架构仍可调整时进行，而不是等到代码已经完成。",
+      "en": "Threat modelling should take place while the architecture can still be changed, rather than after the code has been completed.",
+      "answers": [
+        "Threat modelling should take place while the architecture can still be changed, rather than after the code has been completed."
+      ],
+      "notes": "while 表示仍可调整的阶段；rather than after 对比介入时机。",
+      "tags": [
+        "应用安全",
+        "威胁建模",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "appsec_002",
+      "zh": "团队首先识别信任边界，因为数据跨越边界时通常需要额外验证。",
+      "en": "The team identifies trust boundaries first because data usually requires additional validation when it crosses them.",
+      "answers": [
+        "The team identifies trust boundaries first because data usually requires additional validation when it crosses them."
+      ],
+      "notes": "because 解释建模顺序；when 引出跨边界情境。",
+      "tags": [
+        "应用安全",
+        "信任边界",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "appsec_003",
+      "zh": "滥用场景描述攻击者如何误用功能，从而补充正常用户故事没有覆盖的行为。",
+      "en": "Abuse cases describe how an attacker might misuse a function, thereby covering behaviour omitted from normal user stories.",
+      "answers": [
+        "Abuse cases describe how an attacker might misuse a function, thereby covering behaviour omitted from normal user stories."
+      ],
+      "notes": "how 引导描述内容；thereby doing 说明补充作用。",
+      "tags": [
+        "应用安全",
+        "滥用场景",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "appsec_004",
+      "zh": "如果系统接受来自合作伙伴的数据，就不能仅因网络连接受信任而跳过输入校验。",
+      "en": "If the system accepts data from a partner, it should not skip input validation merely because the network connection is trusted.",
+      "answers": [
+        "If the system accepts data from a partner, it should not skip input validation merely because the network connection is trusted."
+      ],
+      "notes": "if 引出数据场景；merely because 批评不充分理由。",
+      "tags": [
+        "应用安全",
+        "输入信任",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "appsec_005",
+      "zh": "评审发现最严重的风险来自组件之间的交互，而不是任何单个组件。",
+      "en": "The review found that the most serious risk arose from the interaction between components rather than from any component in isolation.",
+      "answers": [
+        "The review found that the most serious risk arose from the interaction between components rather than from any component in isolation."
+      ],
+      "notes": "arise from 表示源于；rather than from 构成来源对比。",
+      "tags": [
+        "应用安全",
+        "架构风险",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "appsec_006",
+      "zh": "安全需求规定敏感操作必须重新认证，却没有限定具体界面实现。",
+      "en": "The security requirement mandates re-authentication for sensitive actions without prescribing a particular interface design.",
+      "answers": [
+        "The security requirement mandates re-authentication for sensitive actions without prescribing a particular interface design."
+      ],
+      "notes": "mandate 表示强制要求；without prescribing 保留实现自由。",
+      "tags": [
+        "应用安全",
+        "安全需求",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "appsec_007",
+      "zh": "验收标准应说明未经授权的请求会被拒绝，并留下可供调查的日志。",
+      "en": "The acceptance criteria should require unauthorised requests to be rejected and logged in a form suitable for investigation.",
+      "answers": [
+        "The acceptance criteria should require unauthorised requests to be rejected and logged in a form suitable for investigation."
+      ],
+      "notes": "require A to be done；in a form suitable for 限定日志可用性。",
+      "tags": [
+        "应用安全",
+        "安全验收",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "appsec_008",
+      "zh": "把安全任务放入产品待办列表后，才能与功能需求一起确定优先级。",
+      "en": "Security work can be prioritised alongside functional requirements only after it has been placed in the product backlog.",
+      "answers": [
+        "Security work can be prioritised alongside functional requirements only after it has been placed in the product backlog."
+      ],
+      "notes": "only after 强调纳入待办的前提；alongside 表示一同。",
+      "tags": [
+        "应用安全",
+        "安全待办",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "appsec_009",
+      "zh": "开发团队接受了当前风险，但例外将在身份模块重构完成后到期。",
+      "en": "The development team accepted the current risk, but the exception will expire when the identity module is refactored.",
+      "answers": [
+        "The development team accepted the current risk, but the exception will expire when the identity module is refactored."
+      ],
+      "notes": "but 连接临时接受与到期条件；when 引出生命周期事件。",
+      "tags": [
+        "应用安全",
+        "风险例外",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "appsec_010",
+      "zh": "没有明确资产价值时，团队很难在安全缺陷与交付压力之间作出一致取舍。",
+      "en": "Without a clear view of asset value, the team cannot make consistent trade-offs between security defects and delivery pressure.",
+      "answers": [
+        "Without a clear view of asset value, the team cannot make consistent trade-offs between security defects and delivery pressure."
+      ],
+      "notes": "without 引出决策信息缺口；trade-offs between 是常用搭配。",
+      "tags": [
+        "应用安全",
+        "优先级",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "appsec_011",
+      "zh": "代码审查关注授权逻辑是否在每个入口执行，而不只是公共接口。",
+      "en": "The code review checks whether authorisation logic is enforced at every entry point, not just at the public interface.",
+      "answers": [
+        "The code review checks whether authorisation logic is enforced at every entry point, not just at the public interface."
+      ],
+      "notes": "whether 引导审查内容；not just 限定覆盖范围。",
+      "tags": [
+        "应用安全",
+        "代码审查",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "appsec_012",
+      "zh": "参数化查询阻止输入改变语句结构，从而降低注入风险。",
+      "en": "A parameterised query prevents input from altering the structure of the statement, thereby reducing injection risk.",
+      "answers": [
+        "A parameterised query prevents input from altering the structure of the statement, thereby reducing injection risk."
+      ],
+      "notes": "prevent A from doing；thereby doing 说明安全结果。",
+      "tags": [
+        "应用安全",
+        "注入防护",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "appsec_013",
+      "zh": "输出编码必须与使用数据的上下文匹配，因为 HTML 和脚本上下文需要不同处理。",
+      "en": "Output encoding must match the context in which the data is used, because HTML and script contexts require different treatment.",
+      "answers": [
+        "Output encoding must match the context in which the data is used, because HTML and script contexts require different treatment."
+      ],
+      "notes": "in which 引导定语从句；because 解释上下文相关性。",
+      "tags": [
+        "应用安全",
+        "输出编码",
+        "专业英语"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "appsec_014",
+      "zh": "服务器不能依赖客户端隐藏按钮来实施权限，因为请求仍可被直接构造。",
+      "en": "The server cannot rely on a hidden client-side button to enforce permission, since the request can still be constructed directly.",
+      "answers": [
+        "The server cannot rely on a hidden client-side button to enforce permission, since the request can still be constructed directly."
+      ],
+      "notes": "rely on A to do；since 解释客户端控制不足。",
+      "tags": [
+        "应用安全",
+        "服务端授权",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "appsec_015",
+      "zh": "错误处理既要给用户足够信息完成操作，又不能暴露内部实现细节。",
+      "en": "Error handling must give users enough information to proceed without disclosing internal implementation details.",
+      "answers": [
+        "Error handling must give users enough information to proceed without disclosing internal implementation details."
+      ],
+      "notes": "enough ... to do 表示足够信息；without doing 表示安全限制。",
+      "tags": [
+        "应用安全",
+        "错误处理",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "appsec_016",
+      "zh": "依赖扫描发现的是已知漏洞，因此没有告警不代表第三方代码没有缺陷。",
+      "en": "Dependency scanning identifies known vulnerabilities, so the absence of an alert does not mean that third-party code is defect-free.",
+      "answers": [
+        "Dependency scanning identifies known vulnerabilities, so the absence of an alert does not mean that third-party code is defect-free."
+      ],
+      "notes": "does not mean that 限制扫描结论；defect-free 表示没有缺陷。",
+      "tags": [
+        "应用安全",
+        "依赖扫描",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "appsec_017",
+      "zh": "锁定依赖版本提高构建可重复性，但团队仍需计划如何接收安全更新。",
+      "en": "Pinning dependency versions makes builds reproducible, but the team still needs a process for receiving security updates.",
+      "answers": [
+        "Pinning dependency versions makes builds reproducible, but the team still needs a process for receiving security updates."
+      ],
+      "notes": "动名词作主语；make A B 是宾补结构。",
+      "tags": [
+        "应用安全",
+        "版本治理",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "appsec_018",
+      "zh": "软件物料清单记录发布包包含什么，从而在新漏洞披露时加快影响判断。",
+      "en": "A software bill of materials records what a release contains, enabling faster impact assessment when a new vulnerability is disclosed.",
+      "answers": [
+        "A software bill of materials records what a release contains, enabling faster impact assessment when a new vulnerability is disclosed."
+      ],
+      "notes": "what 引导宾语从句；enabling 表示带来的能力。",
+      "tags": [
+        "应用安全",
+        "SBOM",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "appsec_019",
+      "zh": "如果维护者停止支持关键组件，当前没有漏洞也不能消除未来风险。",
+      "en": "If a critical component is no longer maintained, the absence of a current vulnerability does not remove the future risk.",
+      "answers": [
+        "If a critical component is no longer maintained, the absence of a current vulnerability does not remove the future risk."
+      ],
+      "notes": "if 引出维护状态；does not remove 反驳只看当前漏洞的判断。",
+      "tags": [
+        "应用安全",
+        "开源风险",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "appsec_020",
+      "zh": "升级库时应测试行为变化，而不只是确认应用能够成功编译。",
+      "en": "When a library is upgraded, behavioural changes should be tested rather than merely confirming that the application compiles.",
+      "answers": [
+        "When a library is upgraded, behavioural changes should be tested rather than merely confirming that the application compiles."
+      ],
+      "notes": "rather than merely doing 对比深度测试与表面检查。",
+      "tags": [
+        "应用安全",
+        "依赖升级",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "appsec_021",
+      "zh": "构建流水线使用短期凭据，因此单次任务结束后权限会自动失效。",
+      "en": "The build pipeline uses short-lived credentials so that access expires automatically after each job.",
+      "answers": [
+        "The build pipeline uses short-lived credentials so that access expires automatically after each job."
+      ],
+      "notes": "so that 说明设计结果；short-lived credentials 是流水线安全术语。",
+      "tags": [
+        "应用安全",
+        "流水线身份",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "appsec_022",
+      "zh": "只有经过审查的制品才能从测试仓库提升到生产仓库。",
+      "en": "Only artefacts that have passed review can be promoted from the test repository to the production repository.",
+      "answers": [
+        "Only artefacts that have passed review can be promoted from the test repository to the production repository."
+      ],
+      "notes": "only 限定提升条件；promote from ... to 表示制品晋级。",
+      "tags": [
+        "应用安全",
+        "制品治理",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "appsec_023",
+      "zh": "秘密扫描在提交进入主分支前拦截了凭据，但该凭据仍需要立即撤销。",
+      "en": "Secret scanning blocked the credential before the commit reached the main branch, but the credential still had to be revoked immediately.",
+      "answers": [
+        "Secret scanning blocked the credential before the commit reached the main branch, but the credential still had to be revoked immediately."
+      ],
+      "notes": "before 引出拦截时机；but 强调拦截不等于消除泄露。",
+      "tags": [
+        "应用安全",
+        "秘密管理",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "appsec_024",
+      "zh": "安全检查失败时默认阻止发布，例外则需要风险负责人批准并记录期限。",
+      "en": "A failed security check blocks release by default, while an exception requires approval from the risk owner and a recorded expiry date.",
+      "answers": [
+        "A failed security check blocks release by default, while an exception requires approval from the risk owner and a recorded expiry date."
+      ],
+      "notes": "by default 表示默认行为；while 对比正常规则与例外流程。",
+      "tags": [
+        "应用安全",
+        "发布门禁",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "appsec_025",
+      "zh": "流水线日志应保留足够的审计信息，同时遮盖令牌和连接字符串。",
+      "en": "Pipeline logs should retain sufficient audit information while masking tokens and connection strings.",
+      "answers": [
+        "Pipeline logs should retain sufficient audit information while masking tokens and connection strings."
+      ],
+      "notes": "while doing 表示同时满足审计和保密要求；mask 表示遮盖。",
+      "tags": [
+        "应用安全",
+        "流水线日志",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "appsec_026",
+      "zh": "接口只返回调用者有权查看的字段，即使后端对象包含更多数据。",
+      "en": "The interface returns only fields the caller is authorised to view, even if the underlying object contains additional data.",
+      "answers": [
+        "The interface returns only fields the caller is authorised to view, even if the underlying object contains additional data."
+      ],
+      "notes": "省略关系代词的定语从句修饰 fields；even if 引导让步。",
+      "tags": [
+        "应用安全",
+        "API 数据授权",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "appsec_027",
+      "zh": "速率限制降低自动化滥用的规模，却不能代替对每个请求的权限检查。",
+      "en": "Rate limiting reduces the scale of automated abuse, but it cannot replace an authorisation check on each request.",
+      "answers": [
+        "Rate limiting reduces the scale of automated abuse, but it cannot replace an authorisation check on each request."
+      ],
+      "notes": "but 区分流量控制与授权控制；replace 表示不能替代。",
+      "tags": [
+        "应用安全",
+        "API 防滥用",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "appsec_028",
+      "zh": "客户端提供的对象标识符必须绑定到当前用户，不能仅检查它是否存在。",
+      "en": "An object identifier supplied by the client must be bound to the current user, rather than checked only for existence.",
+      "answers": [
+        "An object identifier supplied by the client must be bound to the current user, rather than checked only for existence."
+      ],
+      "notes": "supplied 作后置定语；rather than 对比授权与存在性检查。",
+      "tags": [
+        "应用安全",
+        "对象级授权",
+        "专业英语"
+      ],
+      "difficulty": 5
+    },
+    {
+      "id": "appsec_029",
+      "zh": "移动应用中的证书固定增加了拦截难度，但也需要安全的证书轮换方案。",
+      "en": "Certificate pinning in the mobile application makes interception harder, although it also requires a safe certificate-rotation strategy.",
+      "answers": [
+        "Certificate pinning in the mobile application makes interception harder, although it also requires a safe certificate-rotation strategy."
+      ],
+      "notes": "make A B 是宾补；although 引出安全措施的运维代价。",
+      "tags": [
+        "应用安全",
+        "移动安全",
+        "专业英语"
+      ],
+      "difficulty": 4
+    },
+    {
+      "id": "appsec_030",
+      "zh": "上线决定应说明尚未修复的风险、补偿控制以及下一次复核日期。",
+      "en": "The release decision should document unresolved risks, compensating controls, and the date of the next review.",
+      "answers": [
+        "The release decision should document unresolved risks, compensating controls, and the date of the next review."
+      ],
+      "notes": "三个并列宾语使带风险上线可追踪；unresolved 表示尚未解决。",
+      "tags": [
+        "应用安全",
+        "风险上线",
+        "专业英语"
+      ],
+      "difficulty": 4
+    }
+  ]
+}
